@@ -1,0 +1,26 @@
+arte_comercial/
+├── config/
+│   ├── __init__.py
+│   ├── settings.py
+│   └── credentials.py
+├── models/
+│   ├── __init__.py
+│   ├── card.py
+│   ├── licitacao.py
+├── services/
+│   ├── __init__.py
+│   ├── trello_service.py
+│   ├── google_service.py
+│   ├── comprasnet_service.py
+│   └── ai_service.py
+├── utils/
+│   ├── __init__.py
+│   ├── file_parser.py
+│   ├── web_scraper.py
+│   └── data_processor.py
+├── tests/
+│   ├── __init__.py
+│   └── test_services.py
+├── requirements.txt
+├── .env.example
+└── main.py

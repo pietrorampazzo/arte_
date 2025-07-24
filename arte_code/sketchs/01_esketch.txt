@@ -1,0 +1,24 @@
+Startup Licitações
+├── 1. Pipeline - Coleta de Dados
+│   ├── 1.1.1 Leitura de Anexo (.txt)
+│   └── 1.1.2 Trasformar nome do Card
+├── 2. Preparando - Download do Arquivo
+│   ├── 2.1 Leitura de Arquivos
+│   ├── 2.2 Download de Edital/Arquivos
+│   └── 2.3 Planilhamento de Licitação
+├── 3. Automações
+│   ├── 4.1 Integração Trello/Make
+│   ├── 4.2 Webscraping/OCR
+│   └── 4.3 Bots de Disputa
+├── 5. Prompt Agente Edital (GPT)
+│   └── 5.1 Geração de Planilha Orçamentária
+├── 6. Prompt Agente Orçamentário (Manus)
+│   └── 6.1 Busca em Sites de Fornecedores
+├── 7. Prompt DeepSeek
+│   └── 7.1 Cruzamento com Planilha Fornecedor
+├── 8. Prompt Qwen
+│   └── 8.1 Cruzamento Automatizado
+└── 3. Preparação da Disputa
+    ├── 3.1 Plotagem no Bot Wavecode
+    ├── 3.2 Política de Descontos
+    └── 3.3 Agente de Pregão
