@@ -83,7 +83,7 @@ def extract_items_from_text(text):
             descricao = descricao_match.group(1).strip()
             descricao = re.sub(r'\s+', ' ', descricao)
             descricao = re.sub(r'[^\w\s:,.()/-]', '', descricao)
-        item_completo = f"{item_num} - {item_nome}"
+        item_completo = f"{item_nome}"
         if descricao:
             item_completo += f" {descricao}"
         quantidade_match = re.search(r'Quantidade Total:\s*(\d+)', item_text, re.IGNORECASE)

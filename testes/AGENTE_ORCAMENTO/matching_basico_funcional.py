@@ -24,7 +24,7 @@ class Config:
     """Configurações básicas"""
     
     # 🔧 AJUSTE AQUI OS CAMINHOS
-    PRODUTOS_PATH = r"c:\Users\pietr\OneDrive\Área de Trabalho\ARTE\PRODUTOS.xlsx"
+    PRODUTOS_PATH = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\PRODUTOS.xlsx"
     ORCAMENTOS_PATH = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\ORCAMENTOS"
     
     # Parâmetros
@@ -421,3 +421,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

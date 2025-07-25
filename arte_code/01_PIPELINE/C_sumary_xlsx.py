@@ -41,6 +41,6 @@ def somar_planilhas(diretorio, arquivo_saida):
         print(f"❌ Erro ao salvar o arquivo de saída: {e}")
 
 if __name__ == "__main__":
-    PASTA_ORCAMENTOS = r"C:\Users\pietr\Meu Drive\arte_drive\ORÇARMENTO\ORÇANDO"
+    PASTA_ORCAMENTOS = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\ORCAMENTOS"
     ARQUIVO_SUMARIO = "summary.xlsx"
     somar_planilhas(PASTA_ORCAMENTOS, ARQUIVO_SUMARIO)
