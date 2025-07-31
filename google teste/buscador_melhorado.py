@@ -48,8 +48,8 @@ GOOGLE_API_KEY = GOOGLE_API_KEY
 
 # Pastas
 PASTA_INDICE = "indice_musical_especializado"
-PASTA_EDITAIS = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\ORCAMENTOS"
-PASTA_RESULTADOS = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\RESULTADOS_MUSICAL"
+PASTA_EDITAIS = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\DOWNLOADS\tabelas_extraidas"
+PASTA_RESULTADOS = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\RESULTADOS_MELHORADOS"
 
 # Arquivos especializados
 ARQUIVO_INDICE = os.path.join(PASTA_INDICE, "instrumentos_musicais.index")

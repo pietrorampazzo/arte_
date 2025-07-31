@@ -1,0 +1,105 @@
+2025-07-30 21:09:56,507 - INFO - \n============================================================
+2025-07-30 21:09:56,513 - INFO - ============================================================
+2025-07-30 21:09:57,332 - WARNING - Erro na configura��o Tabula 1: Can't find org.jpype.jar support library
+2025-07-30 21:17:48,251 - INFO - \n============================================================
+2025-07-30 21:17:48,255 - INFO - ============================================================
+2025-07-30 21:17:48,833 - WARNING - Erro na configura��o Tabula 1: Can't find org.jpype.jar support library
+2025-07-30 21:26:21,220 - INFO - \n============================================================
+2025-07-30 21:26:21,228 - INFO - ============================================================
+2025-07-30 21:26:22,195 - WARNING - Erro na configura��o Tabula 1: Can't find org.jpype.jar support library
+2025-07-30 21:28:07,271 - INFO - \n============================================================
+2025-07-30 21:28:07,280 - INFO - ============================================================
+2025-07-30 21:28:07,679 - WARNING - Erro na configura��o Tabula 1: Can't find org.jpype.jar support library
+2025-07-30 21:58:19,972 - INFO - Iniciando processamento de PDFs
+2025-07-30 21:58:19,973 - INFO - Pasta de entrada: C:/Users/pietr/OneDrive/Área de Trabalho/ARTE/01_EDITAIS/DOWNLOADS
+2025-07-30 21:58:19,974 - INFO - Pasta de saída: C:/Users/pietr/OneDrive/Área de Trabalho/ARTE/01_EDITAIS/DOWNLOADS\tabelas_extraidas_v3
+2025-07-30 21:58:19,976 - INFO - Encontrados 9 arquivos PDF
+2025-07-30 21:58:19,976 - INFO - \n============================================================
+2025-07-30 21:58:19,977 - INFO - Processando 1/9: 102123_900502025.pdf
+2025-07-30 21:58:19,977 - INFO - ============================================================
+2025-07-30 21:58:19,978 - INFO - Processando: 102123_900502025.pdf
+2025-07-30 21:58:19,979 - INFO - Tentando extração com Camelot...
+2025-07-30 21:58:26,021 - INFO - Camelot encontrou 3 tabelas
+2025-07-30 21:58:26,023 - INFO - Cabeçalho detectado na linha 0 com 4 categorias
+2025-07-30 21:58:26,024 - INFO - Mapeamento de colunas: {'item': 1, 'descricao': 2, 'unidade': 3, 'quantidade': 4}
+2025-07-30 21:58:26,032 - INFO - Tabela 1: 3 itens extraídos
+2025-07-30 21:58:26,039 - INFO - Coluna 2 inferida como UNIDADE
+2025-07-30 21:58:26,041 - WARNING - Não foi possível detectar cabeçalho
+2025-07-30 21:58:26,045 - INFO - Coluna 2 inferida como UNIDADE
+2025-07-30 21:58:26,046 - WARNING - Não foi possível detectar cabeçalho
+2025-07-30 21:58:26,074 - INFO - Camelot extraiu 3 itens (melhor até agora)
+2025-07-30 21:58:26,074 - INFO - Tentando extração com Tabula...
+2025-07-30 21:58:27,039 - ERROR - Erro no Tabula: Can't find org.jpype.jar support library
+2025-07-30 21:58:27,040 - INFO - Tabula extraiu 0 itens
+2025-07-30 21:58:27,041 - INFO - Tentando extração com PDFPlumber...
+2025-07-30 21:58:27,667 - WARNING - Não foi possível detectar cabeçalho
+2025-07-30 21:58:27,670 - INFO - Cabeçalho detectado na linha 0 com 4 categorias
+2025-07-30 21:58:27,671 - INFO - Mapeamento de colunas: {'item': 1, 'descricao': 2, 'unidade': 3, 'quantidade': 4}
+2025-07-30 21:58:28,291 - INFO - Coluna 2 inferida como UNIDADE
+2025-07-30 21:58:28,293 - WARNING - Não foi possível detectar cabeçalho
+2025-07-30 21:58:28,699 - INFO - Coluna 2 inferida como UNIDADE
+2025-07-30 21:58:28,701 - WARNING - Não foi possível detectar cabeçalho
+2025-07-30 21:58:28,703 - INFO - PDFPlumber extraiu 3 itens
+2025-07-30 21:58:28,758 - INFO - Total final: 3 itens extraídos
+2025-07-30 22:03:23,672 - INFO - Iniciando processamento de PDFs
+2025-07-30 22:03:23,674 - INFO - Pasta de entrada: C:/Users/pietr/OneDrive/Área de Trabalho/ARTE/01_EDITAIS/DOWNLOADS
+2025-07-30 22:03:23,674 - INFO - Pasta de saída: C:/Users/pietr/OneDrive/Área de Trabalho/ARTE/01_EDITAIS/DOWNLOADS\tabelas_extraidas_v3
+2025-07-30 22:03:23,675 - INFO - Encontrados 9 arquivos PDF
+2025-07-30 22:03:23,676 - INFO - \n============================================================
+2025-07-30 22:03:23,676 - INFO - Processando 1/9: 102123_900502025.pdf
+2025-07-30 22:03:23,677 - INFO - ============================================================
+2025-07-30 22:03:23,677 - INFO - Processando: 102123_900502025.pdf
+2025-07-30 22:03:23,678 - INFO - Tentando extração com Camelot...
+2025-07-30 22:03:27,210 - INFO - Camelot encontrou 3 tabelas
+2025-07-30 22:03:27,212 - INFO - Cabeçalho detectado na linha 0 com 4 categorias
+2025-07-30 22:03:27,212 - INFO - Mapeamento de colunas: {'item': 1, 'descricao': 2, 'unidade': 3, 'quantidade': 4}
+2025-07-30 22:03:27,217 - INFO - Tabela 1: 3 itens extraídos
+2025-07-30 22:03:27,224 - INFO - Coluna 2 inferida como UNIDADE
+2025-07-30 22:03:27,226 - WARNING - Não foi possível detectar cabeçalho
+2025-07-30 22:03:27,228 - INFO - Coluna 2 inferida como UNIDADE
+2025-07-30 22:03:27,230 - WARNING - Não foi possível detectar cabeçalho
+2025-07-30 22:03:27,254 - INFO - Camelot extraiu 3 itens (melhor até agora)
+2025-07-30 22:03:27,256 - INFO - Tentando extração com Tabula...
+2025-07-30 22:03:27,933 - ERROR - Erro no Tabula: Can't find org.jpype.jar support library
+2025-07-30 22:03:27,934 - INFO - Tabula extraiu 0 itens
+2025-07-30 22:03:27,934 - INFO - Tentando extração com PDFPlumber...
+2025-07-30 22:03:28,549 - WARNING - Não foi possível detectar cabeçalho
+2025-07-30 22:03:28,551 - INFO - Cabeçalho detectado na linha 0 com 4 categorias
+2025-07-30 22:03:28,552 - INFO - Mapeamento de colunas: {'item': 1, 'descricao': 2, 'unidade': 3, 'quantidade': 4}
+2025-07-30 22:03:29,261 - INFO - Coluna 2 inferida como UNIDADE
+2025-07-30 22:03:29,263 - WARNING - Não foi possível detectar cabeçalho
+2025-07-30 22:03:29,789 - INFO - Coluna 2 inferida como UNIDADE
+2025-07-30 22:03:29,790 - WARNING - Não foi possível detectar cabeçalho
+2025-07-30 22:03:29,792 - INFO - PDFPlumber extraiu 3 itens
+2025-07-30 22:03:29,850 - INFO - Total final: 3 itens extraídos
+2025-07-31 00:33:19,352 - INFO - Iniciando processamento de PDFs
+2025-07-31 00:33:19,353 - INFO - Pasta de entrada: C:/Users/pietr/OneDrive/Área de Trabalho/ARTE/01_EDITAIS/DOWNLOADS
+2025-07-31 00:33:19,354 - INFO - Pasta de saída: C:/Users/pietr/OneDrive/Área de Trabalho/ARTE/01_EDITAIS/DOWNLOADS\tabelas_extraidas_v3
+2025-07-31 00:33:19,355 - INFO - Encontrados 9 arquivos PDF
+2025-07-31 00:33:19,355 - INFO - \n============================================================
+2025-07-31 00:33:19,356 - INFO - Processando 1/9: 102123_900502025.pdf
+2025-07-31 00:33:19,356 - INFO - ============================================================
+2025-07-31 00:33:19,356 - INFO - Processando: 102123_900502025.pdf
+2025-07-31 00:33:19,357 - INFO - Tentando extração com Camelot...
+2025-07-31 00:33:24,158 - INFO - Camelot encontrou 3 tabelas
+2025-07-31 00:33:24,160 - INFO - Cabeçalho detectado na linha 0 com 4 categorias
+2025-07-31 00:33:24,160 - INFO - Mapeamento de colunas: {'item': 1, 'descricao': 2, 'unidade': 3, 'quantidade': 4}
+2025-07-31 00:33:24,165 - INFO - Tabela 1: 3 itens extraídos
+2025-07-31 00:33:24,169 - INFO - Coluna 2 inferida como UNIDADE
+2025-07-31 00:33:24,171 - WARNING - Não foi possível detectar cabeçalho
+2025-07-31 00:33:24,174 - INFO - Coluna 2 inferida como UNIDADE
+2025-07-31 00:33:24,175 - WARNING - Não foi possível detectar cabeçalho
+2025-07-31 00:33:24,194 - INFO - Camelot extraiu 3 itens (melhor até agora)
+2025-07-31 00:33:24,194 - INFO - Tentando extração com Tabula...
+2025-07-31 00:33:25,128 - ERROR - Erro no Tabula: Can't find org.jpype.jar support library
+2025-07-31 00:33:25,129 - INFO - Tabula extraiu 0 itens
+2025-07-31 00:33:25,130 - INFO - Tentando extração com PDFPlumber...
+2025-07-31 00:33:25,614 - WARNING - Não foi possível detectar cabeçalho
+2025-07-31 00:33:25,616 - INFO - Cabeçalho detectado na linha 0 com 4 categorias
+2025-07-31 00:33:25,616 - INFO - Mapeamento de colunas: {'item': 1, 'descricao': 2, 'unidade': 3, 'quantidade': 4}
+2025-07-31 00:33:26,030 - INFO - Coluna 2 inferida como UNIDADE
+2025-07-31 00:33:26,031 - WARNING - Não foi possível detectar cabeçalho
+2025-07-31 00:33:26,342 - INFO - Coluna 2 inferida como UNIDADE
+2025-07-31 00:33:26,343 - WARNING - Não foi possível detectar cabeçalho
+2025-07-31 00:33:26,345 - INFO - PDFPlumber extraiu 3 itens
+2025-07-31 00:33:26,403 - INFO - Total final: 3 itens extraídos

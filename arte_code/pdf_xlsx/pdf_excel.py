@@ -1,4 +1,3 @@
-
 import camelot
 import os
 import pandas as pd
@@ -6,7 +5,7 @@ import re
 
 # Caminho para a pasta onde estão os PDFs
 PASTA_PDFS = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\DOWNLOADS"
-PASTA_SAIDA = os.path.join(PASTA_PDFS, "tabelas_extraidas_v2")
+PASTA_SAIDA = os.path.join(PASTA_PDFS, "tabelas_extraidas")
 os.makedirs(PASTA_SAIDA, exist_ok=True)
 
 # Padrão para identificar cabeçalhos repetidos

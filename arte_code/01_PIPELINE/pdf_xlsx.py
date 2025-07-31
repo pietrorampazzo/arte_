@@ -5,7 +5,7 @@ import re
 
 # Caminho para a pasta onde estão os PDFs
 PASTA_PDFS = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\DOWNLOADS"
-PASTA_SAIDA = os.path.join(PASTA_PDFS, "tabelas_extraidas_v2")
+PASTA_SAIDA = os.path.join(PASTA_PDFS, "tabelas_extraidas")
 os.makedirs(PASTA_SAIDA, exist_ok=True)
 
 # Padrão para identificar cabeçalhos repetidos
@@ -29,12 +29,10 @@ def unificar_linhas_quebradas(df):
     for idx, row in df.iterrows():
         primeira_coluna = str(row[colunas[0]]).strip()
         if primeira_coluna and (not primeira_coluna.startswith("nan")):
-            # Nova linha começa
             if nova_linha:
                 linhas_limpa.append(nova_linha)
             nova_linha = row.tolist()
         else:
-            # Continuação da linha anterior (merge textos)
             for i in range(len(row)):
                 texto_atual = str(nova_linha[i]) if i < len(nova_linha) else ''
                 texto_adicional = str(row[colunas[i]])
@@ -65,7 +63,7 @@ def processar_todos_pdfs(pasta):
             caminho_pdf = os.path.join(pasta, nome_arquivo)
             df = extrair_tabelas_pdf(caminho_pdf)
             if not df.empty:
-                nome_saida = os.path.splitext(nome_arquivo)[0] + "_v1_tabelas.xlsx"
+                nome_saida = os.path.splitext(nome_arquivo)[0] + "_v2_tabelas.xlsx"
                 caminho_saida = os.path.join(PASTA_SAIDA, nome_saida)
                 df.to_excel(caminho_saida, index=False)
                 print(f"✅ Tabela estruturada salva em: {caminho_saida}")

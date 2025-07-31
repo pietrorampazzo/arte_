@@ -34,20 +34,20 @@ from collections import defaultdict
 import warnings
 warnings.filterwarnings('ignore')
 from api import GOOGLE_API_KEY
-
+GOOGLE_API_KEY = GOOGLE_API_KEY
 # Importar API key
 try:
     from api import GOOGLE_API_KEY
 except ImportError:
-    GOOGLE_API_KEY = "SUA_API_KEY_AQUI"  # Substitua pela sua chave
+    GOOGLE_API_KEY = GOOGLE_API_KEY  # Substitua pela sua chave
 
 # --- CONFIGURAÇÕES MELHORADAS ---
-GOOGLE_API_KEY = GOOGLE_API_KEY
+
 
 # Pastas
 PASTA_INDICE = "indice_faiss_melhorado"
-PASTA_EDITAIS = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\ORCAMENTOS"
-PASTA_RESULTADOS = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\RESULTADOS_MELHORADOS"
+PASTA_EDITAIS = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\DOWNLOADS\tabelas_extraidas"
+PASTA_RESULTADOS = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\ORCAMENTOS"
 
 # Arquivos de índice melhorado
 ARQUIVO_INDICE = os.path.join(PASTA_INDICE, "produtos_melhorado.index")
@@ -69,11 +69,39 @@ class ProcessadorConsulta:
     def __init__(self):
         # Reutilizar padrões do indexador para consistência
         self.specs_patterns = {
+
+            
             'POTENCIA': [
                 r'(\d+)\s*W\b',
                 r'(\d+)\s*watts?\b',
                 r'potencia[:\s]*(\d+)'
             ],
+            
+            'SENSIBILIDADE': [  # Novo: para microfones, como "sensibilidade -40dB"
+              r'sensibilidade[:\s]*(-?\d+)\s*dB',
+              r'(-?\d+)\s*dB\b'
+          ],
+          'IMPEDANCIA': [  # Novo: impedância em ohms, já tem 'OHMS', mas expanda
+              r'impedancia[:\s]*(\d+)\s*ohms?',
+              r'(\d+)\s*Ω'  # Símbolo de ohm
+          ],
+          'BATERIA': [  # Novo: para wireless ou portáteis, como "bateria 2000mAh"
+              r'bateria\s*(\d+)\s*mAh',
+              r'recarregavel',
+              r'duracao\s*(\d+)\s*horas?'
+          ],
+          'PESO': [  # Novo: peso de instrumentos, como "2kg"
+              r'peso\s*(\d+)\s*(kg|g)\b',
+              r'(\d+)\s*quilogramas?\b'
+          ],
+          'DIAMETRO': [  # Novo: para peles ou surdos, como "diâmetro 14\""
+              r'diametro\s*(\d+)\"?',
+              r'(\d+)\s*pol\s*diametro'
+          ],
+          'PROFUNDIDADE': [  # Novo: para caixas ou surdos, como "profundidade 6\""
+              r'profundidade\s*(\d+)\"?',
+              r'(\d+)\s*pol\s*prof'
+          ],
             'POLEGADAS': [
                 r'(\d+)\"',
                 r'(\d+)\s*pol\b',
@@ -159,7 +187,13 @@ class ProcessadorConsulta:
         }
         
         self.categorias_patterns = {
+
             'CAIXA_ATIVA': [r'caixa.*ativ[ao]', r'ativ[ao].*caixa', r'monitor.*ativ[ao]'],
+            'PEDESTAL': [r'pedestal', r'estante', r'suporte para microfone|caixa'],  # Novo: pedestais comuns em editais
+            'KIT_PERCUSSAO': [r'kit\s*percussao', r'conjunto\s*instrumentos'],  # Novo: kits completos
+            'ACESSORIO': [r'acessorio', r'capinha', r'estojo', r'bolsa'],  # Novo: acessórios como estojos
+            'PROCESSADOR_AUDIO': [r'processador\s*audio', r'equalizador', r'compressor'],  # Novo: para mesas de som avançadas
+            'ILUMINACAO': [r'luz', r'led', r'iluminacao\s*palco'],  # Novo: se aparecer em editais de eventos
             'CAIXA_PASSIVA': [r'caixa.*passiv[ao]', r'passiv[ao].*caixa', r'monitor.*passiv[ao]'],
             'CAIXA_SOM': [r'\bcaixa\b(?!.*ativ|.*passiv)', r'monitor(?!.*ativ|.*passiv)', r'alto.*falante'],
             'MICROFONE': [r'\bmicrofone\b', r'\bmic\b', r'headset', r'lapela', r'shotgun', r'condenser', r'dinamico', r'podcast', r'gooseneck'],
@@ -212,6 +246,11 @@ class ProcessadorConsulta:
             'SUBWOOFER': ['SUBWOOFER', 'CAIXA_SOM'],
             'BAQUETA': ['BAQUETA', 'VASSOURINHA', 'MACANETA'],  # Baquetas e variantes compatíveis
             'PELE': ['PELE'],  # Peles isoladas
+            'PEDESTAL': ['PEDESTAL', 'MICROFONE', 'CAIXA_SOM'],  # Pedestal combina com mics e caixas
+            'KIT_PERCUSSAO': ['KIT_PERCUSSAO', 'BAQUETA', 'PELE', 'SURDO'],  # Kits com percussão
+            'ACESSORIO': ['ACESSORIO', 'QUALQUER'],  # Acessórios vão com tudo (use 'QUALQUER' como curinga se quiser)
+            'PROCESSADOR_AUDIO': ['PROCESSADOR_AUDIO', 'MESA_SOM', 'AMPLIFICADOR'],
+            'ILUMINACAO': ['ILUMINACAO', 'CAIXA_SOM'],  # Luzes para eventos com som
             'SURDO': ['SURDO', 'BUMBO'],  # Surdos e bumbos
             'REPIQUE': ['REPIQUE'],
             'PANDEIRO': ['PANDEIRO'],
