@@ -105,8 +105,8 @@ def extract_structured_data(lines):
         'uasg': None,
         'numero_pregao': None,
         'link_compras_gov': None,
-        'downloads_pregao': None
-        
+        'downloads_pregao': None,
+        'data_do_pregao': None
     }
     try:
         if len(lines) >= 4:
@@ -123,13 +123,40 @@ def extract_structured_data(lines):
                     data['numero_pregao'] = pregao_match.group(1)
             if 'http' in line and 'compras' in line.lower():
                 data['link_compras_gov'] = line.strip()
-            date_match = re.search(r'(\d{2}/\d{2}/\d{4})', line)
-            if date_match:
-                data['dia_pregao'] = date_match.group(1)
+            datetime_match = re.search(r'(\d{2}/\d{2}/\d{4})\s+às\s+(\d{2}:\d{2})', line)
+            if datetime_match:
+                data['dia_pregao'] = datetime_match.group(1)
+                try:
+                    full_dt = f"{datetime_match.group(1)} {datetime_match.group(2)}"
+                    dt_obj = datetime.strptime(full_dt, "%d/%m/%Y %H:%M")
+                    data['data_do_pregao'] = dt_obj.isoformat()
+                except ValueError:
+                    pass
+            else:
+                # fallback: só data sem hora
+                date_match = re.search(r'(\d{2}/\d{2}/\d{4})', line)
+                if date_match:
+                    data['dia_pregao'] = date_match.group(1)
+                    try:
+                        data['data_do_pregao'] = datetime.strptime(date_match.group(1), "%d/%m/%Y").isoformat()
+                    except ValueError:
+                        pass
+
         return data
     except Exception as e:
         print(f"❌ Erro ao extrair dados: {e}")
         return None
+
+def update_card_due_date(card_id, due_date_iso):
+    url = f"https://api.trello.com/1/cards/{card_id}"
+    params = {
+        'key': API_KEY,
+        'token': TOKEN,
+        'due': due_date_iso
+    }
+    response = requests.put(url, params=params)
+    return response.status_code == 200
+
 
 def update_card_name(card_id, new_name):
     url = f"https://api.trello.com/1/cards/{card_id}"
@@ -138,7 +165,9 @@ def update_card_name(card_id, new_name):
         'token': TOKEN,
         'name': new_name
     }
+
     response = requests.put(url, params=params)
+
     return response.status_code == 200
 
 def get_compras_gov_links(card_id):
@@ -178,6 +207,16 @@ def register_in_spreadsheet(card_data, item_number):
     except Exception as e:
         print(f"\n❌ Erro ao registrar na planilha: {e}")
         return False
+    
+def update_card_due_date(card_id, due_date_iso):
+    url = f"https://api.trello.com/1/cards/{card_id}"
+    params = {
+        'key': API_KEY,
+        'token': TOKEN,
+        'due': due_date_iso
+    }
+    response = requests.put(url, params=params)
+    return response.status_code == 200
 
 def process_all_cards():
     print("🚀 Iniciando processamento de cards...")
@@ -202,10 +241,25 @@ def process_all_cards():
                         card_data['uasg'],
                         card_data['numero_pregao']
                     )
+                    if card_data.get('data_do_pregao'):
+                        success_due = update_card_due_date(card['id'], card_data['data_do_pregao'])
+                        if success_due:
+                            print(f"📆 Data de entrega atualizada para {card_data['data_do_pregao']}")
+                        else:
+                            print("⚠️ Falha ao atualizar a data de entrega do card.")
+                    
                     if download_filename:
                         card_data['downloads_pregao'] = download_filename
                     register_in_spreadsheet(card_data, item_counter)
                     update_card_name(card['id'], card_data['new_card_name'])
+
+                    if card_data.get('data_do_pregao'):
+                        success_due = update_card_due_date(card['id'], card_data['data_do_pregao'])
+                        if success_due:
+                            print(f"📆 Data de entrega atualizada para {card_data['data_do_pregao']}")
+                        else:
+                            print("⚠️ Falha ao atualizar a data de entrega do card.")
+
                     item_counter += 1
     except Exception as e:
         print(f"❌ Erro: {e}")

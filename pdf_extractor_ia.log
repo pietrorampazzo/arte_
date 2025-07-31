@@ -98,3 +98,53 @@
 2025-07-30 22:03:04,797 - INFO - Confiança: {'unidade': 1.5, 'descricao': 2.0}
 2025-07-30 22:03:04,803 - INFO - Tentando Tabula+IA...
 2025-07-30 22:03:05,315 - WARNING - Erro na configuração Tabula+IA: Can't find org.jpype.jar support library
+2025-07-31 12:33:51,388 - INFO - Iniciando processamento com IA
+2025-07-31 12:33:51,389 - INFO - Pasta de entrada: C:/Users/pietr/OneDrive/Área de Trabalho/ARTE/01_EDITAIS/DOWNLOADS
+2025-07-31 12:33:51,390 - INFO - Pasta de saída: C:/Users/pietr/OneDrive/Área de Trabalho/ARTE/01_EDITAIS/DOWNLOADS\tabelas_extraidas
+2025-07-31 12:33:51,390 - INFO - Encontrados 9 arquivos PDF
+2025-07-31 12:33:51,391 - INFO - \n============================================================
+2025-07-31 12:33:51,391 - INFO - IA processando 1/9: 102123_900502025.pdf
+2025-07-31 12:33:51,391 - INFO - ============================================================
+2025-07-31 12:33:51,392 - INFO - IA processando: 102123_900502025.pdf
+2025-07-31 12:33:51,392 - INFO - Tentando Camelot+IA...
+2025-07-31 12:33:54,260 - INFO - IA detectou cabeçalho na linha 1 (probabilidade: 0.57)
+2025-07-31 12:33:54,260 - INFO - Mapeamento IA: {'descricao': 2, 'unidade': 3}
+2025-07-31 12:33:54,261 - INFO - Confiança: {'descricao': 2.0, 'unidade': 1.5}
+2025-07-31 12:33:54,264 - INFO - IA detectou cabeçalho na linha 3 (probabilidade: 0.57)
+2025-07-31 12:33:54,264 - INFO - Mapeamento IA: {'descricao': 2, 'unidade': 3}
+2025-07-31 12:33:54,265 - INFO - Confiança: {'descricao': 2.0, 'unidade': 1.5}
+2025-07-31 12:33:54,266 - INFO - IA detectou cabeçalho na linha 0 (probabilidade: 0.68)
+2025-07-31 12:33:54,266 - INFO - Mapeamento IA: {'unidade': 1, 'descricao': 2}
+2025-07-31 12:33:54,267 - INFO - Confiança: {'unidade': 1.5, 'descricao': 2.0}
+2025-07-31 12:33:54,838 - INFO - IA detectou cabeçalho na linha 1 (probabilidade: 0.46)
+2025-07-31 12:33:54,839 - INFO - Mapeamento IA: {'descricao': 2, 'unidade': 3}
+2025-07-31 12:33:54,839 - INFO - Confiança: {'descricao': 2.0, 'unidade': 1.5}
+2025-07-31 12:33:54,842 - INFO - IA detectou cabeçalho na linha 17 (probabilidade: 0.53)
+2025-07-31 12:33:54,843 - INFO - Mapeamento IA: {'descricao': 1, 'unidade': 2}
+2025-07-31 12:33:54,843 - INFO - Confiança: {'descricao': 2.0, 'unidade': 1.5}
+2025-07-31 12:33:54,846 - INFO - IA detectou cabeçalho na linha 3 (probabilidade: 0.79)
+2025-07-31 12:33:54,846 - INFO - Mapeamento IA: {'unidade': 0, 'descricao': 1}
+2025-07-31 12:33:54,847 - INFO - Confiança: {'unidade': 1.5, 'descricao': 2.0}
+2025-07-31 12:33:57,863 - INFO - IA detectou cabeçalho na linha 1 (probabilidade: 0.57)
+2025-07-31 12:33:57,863 - INFO - Mapeamento IA: {'descricao': 2, 'unidade': 3}
+2025-07-31 12:33:57,864 - INFO - Confiança: {'descricao': 2.0, 'unidade': 1.5}
+2025-07-31 12:33:57,869 - INFO - IA detectou cabeçalho na linha 3 (probabilidade: 0.57)
+2025-07-31 12:33:57,870 - INFO - Mapeamento IA: {'descricao': 2, 'unidade': 3}
+2025-07-31 12:33:57,870 - INFO - Confiança: {'descricao': 2.0, 'unidade': 1.5}
+2025-07-31 12:33:57,873 - INFO - IA detectou cabeçalho na linha 0 (probabilidade: 0.68)
+2025-07-31 12:33:57,873 - INFO - Mapeamento IA: {'unidade': 1, 'descricao': 2}
+2025-07-31 12:33:57,874 - INFO - Confiança: {'unidade': 1.5, 'descricao': 2.0}
+2025-07-31 12:33:58,720 - INFO - IA detectou cabeçalho na linha 1 (probabilidade: 0.46)
+2025-07-31 12:33:58,721 - INFO - Mapeamento IA: {'descricao': 2, 'unidade': 3}
+2025-07-31 12:33:58,721 - INFO - Confiança: {'descricao': 2.0, 'unidade': 1.5}
+2025-07-31 12:33:58,725 - INFO - IA detectou cabeçalho na linha 17 (probabilidade: 0.53)
+2025-07-31 12:33:58,725 - INFO - Mapeamento IA: {'descricao': 1, 'unidade': 2}
+2025-07-31 12:33:58,726 - INFO - Confiança: {'descricao': 2.0, 'unidade': 1.5}
+2025-07-31 12:33:58,729 - INFO - IA detectou cabeçalho na linha 3 (probabilidade: 0.79)
+2025-07-31 12:33:58,730 - INFO - Mapeamento IA: {'unidade': 0, 'descricao': 1}
+2025-07-31 12:33:58,730 - INFO - Confiança: {'unidade': 1.5, 'descricao': 2.0}
+2025-07-31 12:33:58,734 - INFO - IA detectou cabeçalho na linha 18 (probabilidade: 0.80)
+2025-07-31 12:33:58,734 - INFO - Mapeamento IA: {'unidade': 0, 'descricao': 1}
+2025-07-31 12:33:58,735 - INFO - Confiança: {'unidade': 1.5, 'descricao': 2.0}
+2025-07-31 12:33:58,738 - INFO - Tentando Tabula+IA...
+2025-07-31 12:33:59,396 - WARNING - Erro na configuração Tabula+IA: Can't find org.jpype.jar support library

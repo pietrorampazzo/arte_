@@ -103,3 +103,34 @@
 2025-07-31 00:33:26,343 - WARNING - Não foi possível detectar cabeçalho
 2025-07-31 00:33:26,345 - INFO - PDFPlumber extraiu 3 itens
 2025-07-31 00:33:26,403 - INFO - Total final: 3 itens extraídos
+2025-07-31 12:34:28,017 - INFO - Iniciando processamento de PDFs
+2025-07-31 12:34:28,018 - INFO - Pasta de entrada: C:/Users/pietr/OneDrive/Área de Trabalho/ARTE/01_EDITAIS/DOWNLOADS
+2025-07-31 12:34:28,019 - INFO - Pasta de saída: C:/Users/pietr/OneDrive/Área de Trabalho/ARTE/01_EDITAIS/DOWNLOADS\tabelas_extraidas_v3
+2025-07-31 12:34:28,020 - INFO - Encontrados 9 arquivos PDF
+2025-07-31 12:34:28,021 - INFO - \n============================================================
+2025-07-31 12:34:28,022 - INFO - Processando 1/9: 102123_900502025.pdf
+2025-07-31 12:34:28,022 - INFO - ============================================================
+2025-07-31 12:34:28,022 - INFO - Processando: 102123_900502025.pdf
+2025-07-31 12:34:28,022 - INFO - Tentando extração com Camelot...
+2025-07-31 12:34:31,549 - INFO - Camelot encontrou 3 tabelas
+2025-07-31 12:34:31,550 - INFO - Cabeçalho detectado na linha 0 com 4 categorias
+2025-07-31 12:34:31,550 - INFO - Mapeamento de colunas: {'item': 1, 'descricao': 2, 'unidade': 3, 'quantidade': 4}
+2025-07-31 12:34:31,553 - INFO - Tabela 1: 3 itens extraídos
+2025-07-31 12:34:31,556 - INFO - Coluna 2 inferida como UNIDADE
+2025-07-31 12:34:31,557 - WARNING - Não foi possível detectar cabeçalho
+2025-07-31 12:34:31,558 - INFO - Coluna 2 inferida como UNIDADE
+2025-07-31 12:34:31,559 - WARNING - Não foi possível detectar cabeçalho
+2025-07-31 12:34:31,575 - INFO - Camelot extraiu 3 itens (melhor até agora)
+2025-07-31 12:34:31,576 - INFO - Tentando extração com Tabula...
+2025-07-31 12:34:31,839 - ERROR - Erro no Tabula: Can't find org.jpype.jar support library
+2025-07-31 12:34:31,840 - INFO - Tabula extraiu 0 itens
+2025-07-31 12:34:31,841 - INFO - Tentando extração com PDFPlumber...
+2025-07-31 12:34:32,113 - WARNING - Não foi possível detectar cabeçalho
+2025-07-31 12:34:32,115 - INFO - Cabeçalho detectado na linha 0 com 4 categorias
+2025-07-31 12:34:32,116 - INFO - Mapeamento de colunas: {'item': 1, 'descricao': 2, 'unidade': 3, 'quantidade': 4}
+2025-07-31 12:34:32,378 - INFO - Coluna 2 inferida como UNIDADE
+2025-07-31 12:34:32,380 - WARNING - Não foi possível detectar cabeçalho
+2025-07-31 12:34:32,585 - INFO - Coluna 2 inferida como UNIDADE
+2025-07-31 12:34:32,586 - WARNING - Não foi possível detectar cabeçalho
+2025-07-31 12:34:32,587 - INFO - PDFPlumber extraiu 3 itens
+2025-07-31 12:34:32,597 - INFO - Total final: 3 itens extraídos

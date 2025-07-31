@@ -49,7 +49,7 @@ GOOGLE_API_KEY = GOOGLE_API_KEY
 # Pastas
 PASTA_INDICE = "indice_musical_especializado"
 PASTA_EDITAIS = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\DOWNLOADS\tabelas_extraidas"
-PASTA_RESULTADOS = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\RESULTADOS_MELHORADOS"
+PASTA_RESULTADOS = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\ORCAMENTOS"
 
 # Arquivos especializados
 ARQUIVO_INDICE = os.path.join(PASTA_INDICE, "instrumentos_musicais.index")
@@ -498,7 +498,7 @@ def processar_edital_musical(caminho_edital, matcher):
     resultados = []
 
     for _, row in tqdm(df_edital.iterrows(), total=df_edital.shape[0], desc="Matching musical"):
-        item_catmat = str(row['Item']) if not pd.isna(row['Item']) else ""
+        item_catmat = str(row['Descrição']) if not pd.isna(row['Descrição']) else ""
         
         if not item_catmat.strip():
             continue
