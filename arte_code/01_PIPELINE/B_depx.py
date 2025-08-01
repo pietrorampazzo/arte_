@@ -131,7 +131,7 @@ def extract_items_from_text(text):
                     break
         item_data = {
             "Número do Item": item_num,  # Adiciona o número do item como uma nova coluna
-            "Item": item_completo,
+            "Descrição": item_completo,
             "Quantidade Total": int(quantidade) if quantidade.isdigit() else quantidade,
             "Valor Unitário (R$)": valor_unitario,
             "Unidade de Fornecimento": unidade,
