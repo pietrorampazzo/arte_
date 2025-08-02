@@ -25,14 +25,12 @@ from collections import defaultdict
 import warnings
 warnings.filterwarnings('ignore')
 import unidecode
-from api_google import GOOGLE_API_KEY
 
 # Importar API key para Gemini
 try:
     import google.generativeai as genai
-    from api_google import GOOGLE_API_KEY
 except ImportError:
-    GOOGLE_API_KEY = GOOGLE_API_KEY# Substitua pela sua chave real
+    GOOGLE_API_KEY = 'AIzaSyBdrzcton2jUCv5PSaXE38UCp-l8O42Fvc'# Substitua pela sua chave real
     genai = None
     logging.warning("API Key do Google Gemini não encontrada ou módulo 'google.generativeai' não instalado. A extração via LLM será desativada.")
 
@@ -50,10 +48,10 @@ logger = logging.getLogger(__name__)
 
 # Constantes
 CAMINHO_DADOS = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\FORNECEDORES\data_base.xlsx"
-PASTA_INDICE = "indice_musical" # Manter o nome para compatibilidade com o buscador
+PASTA_INDICE = r"C:\Users\pietr\.vscode\arte_\base_dados" # Manter o nome para compatibilidade com o buscador
 ARQUIVO_INDICE = os.path.join(PASTA_INDICE, "instrumentos.index") # Manter o nome
 ARQUIVO_MAPEAMENTO = os.path.join(PASTA_INDICE, "mapeamento.xlsx") # Manter o nome
-DB_PATH = "produtos_musicais.db"
+DB_PATH = r"C:\Users\pietr\.vscode\arte_\base_dados\produtos_musicais.db"
 NOME_MODELO = 'sentence-transformers/all-mpnet-base-v2'
 N_CLUSTERS = 5  # Número inicial de clusters para categorização
 
@@ -186,3 +184,89 @@ class ProcessadorMusical:
 
         Formato de Saída JSON:"""
         
+
+class IndexadorMusical:
+    def __init__(self, processador):
+        self.processador = processador
+        self.index = None
+        self.df_mapeamento = None
+        if not os.path.exists(PASTA_INDICE):
+            os.makedirs(PASTA_INDICE)
+            logger.info("Diretório criado: %s", PASTA_INDICE)
+
+    def indexar_produtos(self, caminho_dados):
+        """Indexa produtos e extrai especificações"""
+        try:
+            logger.info("Lendo arquivo XLSX: %s", caminho_dados)
+            df = pd.read_excel(caminho_dados, engine='openpyxl')
+            logger.info("Colunas encontradas: %s", df.columns.tolist())
+
+            # Verificar colunas obrigatórias
+            colunas_esperadas = ['Descrição', 'Marca', 'Modelo', 'Valor']
+            if not all(col in df.columns for col in colunas_esperadas):
+                logger.error("Colunas obrigatórias ausentes: %s", colunas_esperadas)
+                return
+
+            # Extrair specs e categorias
+            df['embedding_texto'] = df['Descrição'].apply(self.processador.normalizar_texto)
+            df['categoria'] = df['Descrição'].apply(self.processador.identificar_categoria)
+            df['specs'] = df['Descrição'].apply(self.processador.extrair_specs)
+
+            # Detectar novas categorias via clustering
+            textos = df['embedding_texto'].tolist()
+            df = self.processador.detectar_novas_categorias(textos, df, df.index)
+
+            # Criar embeddings
+            embeddings = []
+            for idx, row in df.iterrows():
+                embedding = self.processador.criar_embedding(row['Descrição'], row['categoria'], row['specs'])
+                embeddings.append(embedding)
+
+            # Criar índice FAISS
+            embeddings = np.array(embeddings).astype('float32')
+            faiss.normalize_L2(embeddings)
+            dimensao = embeddings.shape[1]
+            self.index = faiss.IndexFlatIP(dimensao)
+            self.index = faiss.IndexIDMap(self.index)
+            self.index.add_with_ids(embeddings, df.index.values.astype(np.int64))
+
+            # Salvar índice e mapeamento
+            faiss.write_index(self.index, ARQUIVO_INDICE)
+            self.df_mapeamento = df[['Marca', 'Modelo', 'Descrição', 'Valor', 'embedding_texto', 'categoria', 'specs']]
+            self.df_mapeamento.to_csv(ARQUIVO_MAPEAMENTO, index=True)
+            logger.info("Índice e mapeamento salvos em %s e %s", ARQUIVO_INDICE, ARQUIVO_MAPEAMENTO)
+
+            # Salvar specs no banco
+            with sqlite3.connect(DB_PATH) as conn:
+                for idx, row in df.iterrows():
+                    for spec_name, spec_valores in row['specs'].items():
+                        for valor in spec_valores:
+                            conn.execute(
+                                "INSERT OR REPLACE INTO specs (id_produto, nome, valor) VALUES (?, ?, ?)",
+                                (idx, spec_name, valor)
+                            )
+
+        except Exception as e:
+            logger.error("Erro durante indexação: %s", str(e))
+            raise
+
+def main():
+    try:
+        # Verificar se o arquivo CSV existe
+        if not os.path.exists(CAMINHO_DADOS):
+            logger.error("Arquivo CSV não encontrado: %s", CAMINHO_DADOS)
+            return
+
+        # Inicializar processador e indexador
+        processador = ProcessadorMusical()
+        indexador = IndexadorMusical(processador)
+
+        # Indexar produtos
+        indexador.indexar_produtos(CAMINHO_DADOS)
+        logger.info("Indexação concluída com sucesso!")
+
+    except Exception as e:
+        logger.error("Erro no processo principal: %s", str(e))
+
+if __name__ == "__main__":
+    main()

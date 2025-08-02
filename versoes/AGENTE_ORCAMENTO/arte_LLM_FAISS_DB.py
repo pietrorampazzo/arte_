@@ -39,13 +39,12 @@ logger = logging.getLogger(__name__)
 
 # Constantes
 CAMINHO_DADOS = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\FORNECEDORES\data_base.xlsx"
-PASTA_INDICE = "indice_musical"
-ARQUIVO_INDICE = os.path.join(PASTA_INDICE, "instrumentos.index")
-ARQUIVO_MAPEAMENTO = os.path.join(PASTA_INDICE, "mapeamento.xlsx")
-DB_PATH = "produtos_musicais.db"
+PASTA_INDICE = r"C:\Users\pietr\.vscode\arte_\base_dados" # Manter o nome para compatibilidade com o buscador
+ARQUIVO_INDICE = os.path.join(PASTA_INDICE, "instrumentos.index") # Manter o nome
+ARQUIVO_MAPEAMENTO = os.path.join(PASTA_INDICE, "mapeamento.xlsx") # Manter o nome
+DB_PATH = r"C:\Users\pietr\.vscode\arte_\base_dados\produtos_musicais.db"
 NOME_MODELO = 'sentence-transformers/all-mpnet-base-v2'
 N_CLUSTERS = 5  # Número inicial de clusters para categorização
-
 class ProcessadorMusical:
     def __init__(self):
         # Carregar modelo de embedding

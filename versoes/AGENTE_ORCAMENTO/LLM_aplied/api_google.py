@@ -1,0 +1,1 @@
+GOOGLE_API_chave = 'AIzaSyBdrzcton2jUCv5PSaXE38UCp-l8O42Fvc'
