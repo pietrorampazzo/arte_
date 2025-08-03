@@ -67,14 +67,16 @@ Tabela com:
 - Comparação Técnica
 - % Compatibilidade
 - Justificativa Técnica/Jurídica
+
 </saida_esperada>
 
 <conclusao>
-📊 Geração de Tabela
-Para finalizar a avaliação de todos os itens, crie uma tabela com os produtos sugeridos. Segue o exemplo:
-Após a análise, gere uma planilha estruturada com os seguintes campos:
 
+📊 Geração de Tabela
+Apos analisar tudo, crie uma tabela com os produtos sugeridos. Segue o exemplo:
 Item Edital| Descrição Edital | Unidade de Medida | Quantidade | Valor Unitário de Referência | Valor Total de Referência  | Marca Sugerida | Produto Sugerido | Preço Fornecedor | Preço com Margem 53% | Comparação Técnica | % Compatibilidade
+
+</conclusao>
 
 """
 
