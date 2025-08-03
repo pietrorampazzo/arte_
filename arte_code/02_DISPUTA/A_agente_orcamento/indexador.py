@@ -31,7 +31,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # --- CONFIGURAÇÕES ---
-CAMINHO_BASE_PRODUTOS = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\data_base.xlsx"
+CAMINHO_BASE_PRODUTOS = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\FORNECEDORES\data_base.xlsx"
 PASTA_INDICE = "base_dados"
 ARQUIVO_INDICE = os.path.join(PASTA_INDICE, "instrumentos.index")
 ARQUIVO_MAPEAMENTO = os.path.join(PASTA_INDICE, "mapeamentos.csv")
@@ -324,7 +324,7 @@ def criar_embedding_musical_especializado(row, taxonomia):
     # 1. Extrair dados básicos
     marca = row.get('Marca', '')
     modelo = row.get('Modelo', '')
-    descricao = row.get('Descrição', '')
+    descricao = row.get('DESCRICAO', '')
     
     # 2. Normalizar textos
     marca_norm = taxonomia.normalizar_texto_musical(marca)
@@ -408,13 +408,13 @@ if __name__ == "__main__":
     
     # Identificar categorias musicais
     df_produtos['categoria_musical'] = df_produtos.apply(
-        lambda row: taxonomia.identificar_categoria_musical(row['Descrição']), 
+        lambda row: taxonomia.identificar_categoria_musical(row['DESCRICAO']), 
         axis=1
     )
     
     # Extrair especificações musicais
     df_produtos['specs_musicais'] = df_produtos.apply(
-        lambda row: taxonomia.extrair_especificacoes_musicais(row['Descrição']), 
+        lambda row: taxonomia.extrair_especificacoes_musicais(row['DESCRICAO']), 
         axis=1
     )
 
@@ -437,7 +437,7 @@ if __name__ == "__main__":
     print("-" * 80)
     for i in range(min(3, len(df_produtos))):
         row = df_produtos.iloc[i]
-        print(f"ORIGINAL: {row['Marca']} | {row['Modelo']} | {row['Descrição']}")
+        print(f"ORIGINAL: {row['Marca']} | {row['Modelo']} | {row['DESCRICAO']}")
         print(f"CATEGORIA: {row['categoria_musical']}")
         print(f"EMBEDDING: {row['embedding_musical'][:120]}...")
         print("-" * 80)
@@ -475,7 +475,7 @@ if __name__ == "__main__":
 
     # Mapeamento com metadados musicais
     df_mapeamento_musical = df_produtos[[
-        'Marca', 'Modelo', 'Descrição', 'Valor', 
+        'Marca', 'Modelo', 'DESCRICAO', 'Valor', 
         'embedding_musical', 'categoria_musical', 'specs_musicais'
     ]].copy()
     

@@ -1,0 +1,16 @@
+/grok_matching/
+│
+├── main.py                        # script principal
+├── processadores/
+│   ├── processador_base.py        # extrai metadados e embeddings dos produtos
+│   ├── processador_edital.py      # extrai metadados e embeddings dos editais
+│   └── matcher.py                 # realiza matching e retorna resultados
+│
+├── data/
+│   ├── produtos_indexados.parquet
+│   └── embeddings_base.faiss      # ou .pkl
+│
+├── utils/
+│   ├── rate_limit.py
+│   ├── cache.py
+│   └── embedding_utils.py         # sentence-transformer etc.

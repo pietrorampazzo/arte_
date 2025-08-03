@@ -1,0 +1,1 @@
+JINA_API_KEY = "jina_64f56d5dfa26445e8d10ebcec8897233YCgLfgNjODz8G8__hQ_u67Urx3dI"

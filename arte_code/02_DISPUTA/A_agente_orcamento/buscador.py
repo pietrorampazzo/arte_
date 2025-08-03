@@ -99,7 +99,7 @@ class ProcessadorConsultaMusical:
                 'clarinete', 'clarinet', 'saxofone', 'saxophone', 'flauta', 'flute'
             ],
             'INSTRUMENTO_PERCUSSAO_PELE': [
-                'bumbo', 'surdo', 'tarol', 'caixa clara', 'caixa de bateria', 'snare', 'tambor', 'timpano', 'quintoton'
+                'bumbo', 'surdo', 'tarol', 'caixa clara', 'caixa de bateria', 'snare', 'tambor', 'timpano', 'quintoton', 'tamborim', 'bateria', 'timbal', 'timbalete', 'timbalete de surdo', 'timbalete de caixa', 'timbalete de bumbo', 
             ],
             'INSTRUMENTO_PERCUSSAO_METAL': [
                 'prato', 'cymbal', 'triangulo', 'triangle', 'carrilhao', 'chimes', 'sino', 'carrilhão de sinos'
@@ -108,7 +108,7 @@ class ProcessadorConsultaMusical:
                 'bocal', 'boquilha', 'mouthpiece', 'palheta', 'reed', 'estante'
             ],
             'ACESSORIO_PERCUSSAO': [
-                'baqueta', 'stick', 'malho', 'mallet', 'talabarte', 'colete', 'pele', 'esteira', 'esteirinha'
+                'baqueta', 'stick', 'malho', 'mallet', 'talabarte', 'colete', 'pele', 'esteira', 'esteirinha', 'bateria'
             ]
         }
         
@@ -458,7 +458,7 @@ class MatchingMusicalHierarquico:
         PRODUTO SUGERIDO:
         Marca: {produto_info['Marca']}
         Modelo: {produto_info['Modelo']}
-        Descrição: {produto_info['Descrição']}
+        Descrição: {produto_info['DESCRICAO']}
         
         ANÁLISE TÉCNICA:
         Categoria Identificada: {candidato['categoria_produto']}
@@ -495,7 +495,7 @@ def processar_edital_musical(caminho_edital, matcher):
     resultados = []
 
     for _, row in tqdm(df_edital.iterrows(), total=df_edital.shape[0], desc="Matching musical"):
-        item_catmat = str(row['Descrição']) if not pd.isna(row['Descrição']) else ""
+        item_catmat = str(row['DESCRICAO']) if not pd.isna(row['DESCRICAO']) else ""
         
         if not item_catmat.strip():
             continue
@@ -518,7 +518,7 @@ def processar_edital_musical(caminho_edital, matcher):
             # Dados do resultado
             dados_resultado['Marca Sugerida'] = produto_info['Marca']
             dados_resultado['Produto Sugerido'] = produto_info['Modelo']
-            dados_resultado['Descrição do Produto Sugerido'] = produto_info['Descrição']
+            dados_resultado['Descrição do Produto Sugerido'] = produto_info['DESCRICAO']
             dados_resultado['Preço Produto'] = produto_info['Valor']
             dados_resultado['% Compatibilidade Musical'] = f"{melhor_candidato['score_final']:.1%}"
             dados_resultado['Qualidade Match Musical'] = qualidade
