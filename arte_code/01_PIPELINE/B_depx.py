@@ -5,7 +5,57 @@ import zipfile
 from pathlib import Path
 import fitz  # PyMuPDF
 import pandas as pd
+import pandas as pd
 
+def tratar_dataframe(df):
+    """
+    Realiza o tratamento do DataFrame conforme especificado:
+    - Renomeia colunas
+    - Converte valores monetários (ponto para vírgula)
+    - Adiciona coluna VALOR_TOTAL
+    - Reordena colunas
+    """
+    # Verifica se o DataFrame está vazio
+    if df.empty:
+        return df
+    
+    # Renomear colunas conforme especificado
+    df = df.rename(columns={
+        'ARQUIVO': 'ARQUIVO',
+        'Número do Item': 'Nº',
+        'Descrição': 'DESCRICAO',
+        'Quantidade Total': 'QTDE',
+        'Valor Unitário (R$)': 'VALOR_UNIT',
+        'Unidade de Fornecimento': 'UNID_FORN',
+        'Intervalo Mínimo entre Lances (R$)': 'INTERVALO_LANCES',
+        'Local de Entrega (Quantidade)': 'LOCAL_ENTREGA'
+    })
+    
+    
+    # Adicionar coluna VALOR_TOTAL (QTDE * VALOR_UNIT)
+    if 'QTDE' in df.columns and 'VALOR_UNIT' in df.columns:
+        # Calcula como float (já tratado acima)
+        df['VALOR_TOTAL'] = (
+            df['QTDE'].astype(float) * 
+            df['VALOR_UNIT'].str.replace('.', '', regex=False)
+                          .str.replace(',', '.', regex=False)
+                          .astype(float)
+        )
+    
+    # Reordenar colunas conforme especificado
+    colunas_desejadas = ['ARQUIVO', 'Nº', 'DESCRICAO', 'UNID_FORN', 'QTDE', 'VALOR_UNIT', 'VALOR_TOTAL', 'LOCAL_ENTREGA']
+    # Mantém apenas as colunas que existem no DataFrame
+    colunas_desejadas = [col for col in colunas_desejadas if col in df.columns]
+    # Adiciona quaisquer outras colunas que não foram especificadas
+    outras_colunas = [col for col in df.columns if col not in colunas_desejadas]
+    df = df[colunas_desejadas + outras_colunas]
+    
+    return df
+
+# Exemplo de uso:
+# df = pd.read_excel('arquivo.xlsx')
+# df_tratado = tratar_dataframe(df)
+# df_tratado.to_excel('arquivo_tratado.xlsx', index=False)
 # === Funções do extract_pdf.py ===
 
 def descompactar_arquivos(pasta_origem):
@@ -130,6 +180,7 @@ def extract_items_from_text(text):
                 if local and not local.isdigit():
                     break
         item_data = {
+            "ARQUIVO": f"item_{i+1}.pdf",  # Nome do arquivo fictício
             "Número do Item": item_num,  # Adiciona o número do item como uma nova coluna
             "Descrição": item_completo,
             "Quantidade Total": int(quantidade) if quantidade.isdigit() else quantidade,
@@ -196,6 +247,7 @@ def pdfs_para_xlsx(input_dir, output_dir):
                 cot_logic(items)
                 df = pd.DataFrame(items)
                 df = clean_dataframe(df)
+                df = tratar_dataframe(df)  # Adiciona esta linha para tratar o DataFrame
                 xlsx_name = os.path.splitext(file_name)[0] + ".xlsx"
                 output_path = os.path.join(output_dir, xlsx_name)
                 with pd.ExcelWriter(output_path, engine='openpyxl') as writer:
