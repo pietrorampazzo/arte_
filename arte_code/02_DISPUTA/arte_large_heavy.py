@@ -13,10 +13,10 @@ Lei 14.133/2021 e Lei 8.666/1993.
 
 Autor: arte_comercial
 Data: 03/07/2025
-Versão: 1.0.0
+Versão: 1.1.0
 
 """
-# arte_large.py
+# arte_largeheavy.py
 import pandas as pd
 import google.generativeai as genai
 import os
@@ -25,12 +25,12 @@ import time
 # --- CONFIGURAÇÕES ---
 # É uma boa prática carregar chaves de API de variáveis de ambiente para segurança
 # GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY', 'SUA_CHAVE_API_AQUI')
-modelo = "gemini-2.0-flash-lite"
+modelo = "gemini-2.0-flash"
 GOOGLE_API_KEY = 'AIzaSyBdrzcton2jUCv5PSaXE38UCp-l8O42Fvc' # Mantendo como no seu exemplo
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Caminhos para os arquivos
-CAMINHO_EDITAL = r"C:\Users\pietr\Meu Drive\arte_comercial\ORÇARMENTO\ORÇANDO\summary.xlsx"  # CORRIGIDO PARA USAR O SUMMARY
+CAMINHO_EDITAL = r"C:\Users\pietr\Meu Drive\arte_comercial\ORÇARMENTO\ORÇANDO\summary.xlsx"
 CAMINHO_BASE = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\FORNECEDORES\data_base.xlsx"
 output_dir = r"C:\Users\pietr\Meu Drive\arte_comercial\ORÇARMENTO\RESULTADOS"
 
@@ -149,7 +149,7 @@ Responda APENAS com uma linha no formato de tabela, sem cabeçalho:
         print(f"❌ ERRO no item {idx + 1}: {e}")
 
     # Pausa otimizada
-    time.sleep(60)  # 60 segundos entre as requisições para evitar sobrecarga
+    time.sleep(80)# 60 segundos entre as requisições para evitar sobrecarga
 
 # --- EXPORTAÇÃO CORRIGIDA ---
 if resultados:
@@ -166,7 +166,7 @@ if resultados:
     df_resultados = df_resultados[colunas_exportacao].drop_duplicates()
     
     os.makedirs(output_dir, exist_ok=True)
-    caminho_excel = os.path.join(output_dir, "resultados_arte_gemini.xlsx")
+    caminho_excel = os.path.join(output_dir, "arte_gemini_resultados.xlsx")
     df_resultados.to_excel(caminho_excel, index=False)
     
     print(f"\n✅ SUCESSO: {len(df_resultados)} itens exportados para {caminho_excel}")
@@ -175,4 +175,3 @@ else:
     print("\n⚠️ Nenhum resultado para exportar")
 
 print("\n🎉 Processo concluído!")
-

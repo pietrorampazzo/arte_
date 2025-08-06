@@ -13,6 +13,7 @@ Lei 14.133/2021 e Lei 8.666/1993.
 
 Autor: arte_comercial
 Data: 03/07/2025
+Versão: 1.0.0
 
 """
 # arte_large.py
@@ -24,12 +25,12 @@ import time # 1. Importe a biblioteca 'time' para usar a função de pausa
 # --- CONFIGURAÇÕES ---
 # É uma boa prática carregar chaves de API de variáveis de ambiente para segurança
 # GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY', 'SUA_CHAVE_API_AQUI')
-modelo = "gemini-2.0-flash-lite"
+modelo = "T5Gemma"
 GOOGLE_API_KEY = 'AIzaSyBdrzcton2jUCv5PSaXE38UCp-l8O42Fvc' # Mantendo como no seu exemplo
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Caminhos para os arquivos
-CAMINHO_EDITAL = r"C:\Users\pietr\Meu Drive\arte_comercial\ORÇARMENTO\ORÇANDO\summary.xlsx"
+CAMINHO_EDITAL = r"C:\Users\pietr\Meu Drive\arte_comercial\ORÇARMENTO\ORÇANDO\U_985919_N_900662025_.xlsx"
 CAMINHO_BASE = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\FORNECEDORES\data_base.xlsx"
 output_dir = r"C:\Users\pietr\Meu Drive\arte_comercial\ORÇARMENTO\RESULTADOS"
 
@@ -51,7 +52,7 @@ resultados = []
 model = genai.GenerativeModel(modelo) 
 
 # Itera sobre os produtos do edital (limitado a 50 para teste)
-for idx, row in df_edital.head(3000).iterrows():
+for idx, row in df_edital.head(3200).iterrows():
     # Verifica se a linha contém os campos necessários
     if not all(col in row for col in ["ARQUIVO", "Nº", "DESCRICAO", "UNID_FORN", "QTDE", "VALOR_UNIT", "VALOR_TOTAL", "LOCAL_ENTREGA", "INTERVALO_LANCES"]):
         print(f"⚠️ Linha {idx + 1} não contém todos os campos necessários. Pulando...")
@@ -72,7 +73,7 @@ for idx, row in df_edital.head(3000).iterrows():
     prompt = f"""
 <identidade>
 <identidade>
-Você é um consultor sênior em instrumentos musicais, com mais de 20 anos de experiência.
+Você é um consultor sênior em instrumentos musicais, com experiencia em instrumentos musicaiss e equipamentos de áudio.
 </identidade>
 
 <item_edital>
@@ -92,7 +93,7 @@ Intervalo de Lances: {intervalo_lances}
 </base_fornecedores>
 
 <objetivo>
-Encontre o produto mais compatível tecnicamente com menor preço 50% abaixo do valor unitário do item do edital.Aplique uma margem de 53% sobre o preço do fornecedor para chegar ao preço final.
+Encontre o produto mais compatível tecnicamente com preço 50% abaixo do valor unitário do item do edital.Aplique uma margem de 53% sobre o preço do fornecedor para chegar ao preço final.
 </objetivo>
 
 <formato_saida>
@@ -137,7 +138,7 @@ Encontre o produto mais compatível tecnicamente com menor preço 50% abaixo do 
         print(f"ERRO no item {idx + 1}: {e}")
 
     # Pausa otimizada
-    time.sleep(60)#usa de 30 segundos entre as requisições para evitar sobrecarga
+    time.sleep(30)# Pausa de 2 segundos para respeitar o limite de 60 requisições/minuto.
 
 # --- EXPORTAÇÃO CORRIGIDA ---
 # --- EXPORTAÇÃO CORRIGIDA ---
