@@ -25,12 +25,12 @@ import time # 1. Importe a biblioteca 'time' para usar a função de pausa
 # --- CONFIGURAÇÕES ---
 # É uma boa prática carregar chaves de API de variáveis de ambiente para segurança
 # GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY', 'SUA_CHAVE_API_AQUI')
-modelo = "T5Gemma"
+modelo = "gemini-2.0-flash"
 GOOGLE_API_KEY = 'AIzaSyBdrzcton2jUCv5PSaXE38UCp-l8O42Fvc' # Mantendo como no seu exemplo
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Caminhos para os arquivos
-CAMINHO_EDITAL = r"C:\Users\pietr\Meu Drive\arte_comercial\ORÇARMENTO\ORÇANDO\U_985919_N_900662025_.xlsx"
+CAMINHO_EDITAL = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\ORCAMENTOS\pregão_gemini.xlsx"
 CAMINHO_BASE = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\FORNECEDORES\data_base.xlsx"
 output_dir = r"C:\Users\pietr\Meu Drive\arte_comercial\ORÇARMENTO\RESULTADOS"
 

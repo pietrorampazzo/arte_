@@ -30,8 +30,8 @@ GOOGLE_API_KEY = 'AIzaSyBdrzcton2jUCv5PSaXE38UCp-l8O42Fvc' # Mantendo como no se
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Caminhos para os arquivos
-CAMINHO_EDITAL = r"C:\Users\pietr\Meu Drive\arte_comercial\ORÇARMENTO\ORÇANDO\summary.xlsx"
-CAMINHO_BASE = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\FORNECEDORES\data_base.xlsx"
+CAMINHO_EDITAL = r"C:\Users\pietr\Meu Drive\arte_comercial\ORÇARMENTO\ORÇANDO\pregão_gemini_fazer_Copia.xlsx"
+CAMINHO_BASE = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\base_bling.xlsx"
 output_dir = r"C:\Users\pietr\Meu Drive\arte_comercial\ORÇARMENTO\RESULTADOS"
 
 # --- CARREGAMENTO E PRÉ-PROCESSAMENTO DOS DADOS ---
@@ -97,7 +97,8 @@ Intervalo de Lances: {intervalo_lances}
 </base_fornecedores>
 
 <objetivo>
-Encontre o produto mais compatível tecnicamente com menor preço 50% abaixo do valor unitário do item do edital. Aplique uma margem de 53% sobre o preço do fornecedor para chegar ao preço final.
+Encontre o produto mais compatível tecnicamente com menor preço 50% abaixo do valor unitário do item do edital. 
+Aplique uma margem de 53% sobre o preço do fornecedor para chegar ao preço final.
 </objetivo>
 
 <formato_saida>
@@ -166,7 +167,7 @@ if resultados:
     df_resultados = df_resultados[colunas_exportacao].drop_duplicates()
     
     os.makedirs(output_dir, exist_ok=True)
-    caminho_excel = os.path.join(output_dir, "arte_gemini_resultados.xlsx")
+    caminho_excel = os.path.join(output_dir, "arte_gemini_heavy.xlsx")
     df_resultados.to_excel(caminho_excel, index=False)
     
     print(f"\n✅ SUCESSO: {len(df_resultados)} itens exportados para {caminho_excel}")

@@ -92,32 +92,21 @@ class WavecodeAutomation:
     def find_element_by_html_analysis(self, soup, element_type):
         try:
             if element_type == 'email':
-                selectors = [
-                    {'attr': 'data-testid', 'value': 'inputEmail'},
-                    {'attr': 'id', 'value': 'username'},
-                    {'attr': 'type', 'value': 'text', 'placeholder': 'email'}
-                ]
+                selectors = [{'attr': 'type', 'value': 'text', 'placeholder': re.compile('email', re.IGNORECASE)}]
                 for selector in selectors:
-                    element = soup.find('input', {selector['attr']: selector['value']}) if 'placeholder' not in selector else soup.find('input', {'type': selector['value'], 'placeholder': re.compile('email', re.IGNORECASE)})
+                    element = soup.find('input', {'type': selector['value'], 'placeholder': selector['placeholder']})
                     if element:
                         return self.extract_element_info(element, 'email')
             elif element_type == 'password':
-                selectors = [
-                    {'attr': 'data-testid', 'value': 'password'},
-                    {'attr': 'id', 'value': 'password'},
-                    {'attr': 'type', 'value': 'password'}
-                ]
+                selectors = [{'attr': 'type', 'value': 'password'}]
                 for selector in selectors:
                     element = soup.find('input', {selector['attr']: selector['value']})
                     if element:
                         return self.extract_element_info(element, 'password')
             elif element_type == 'login_button':
-                selectors = [
-                    {'tag': 'button', 'attr': 'data-testid', 'value': 'id-button'},
-                    {'tag': 'button', 'text': 'ACESSAR'}
-                ]
+                selectors = [{'tag': 'button', 'text': 'ACESSAR'}]
                 for selector in selectors:
-                    element = soup.find(selector['tag'], string=selector['text']) if 'text' in selector else soup.find(selector['tag'], {selector['attr']: selector['value']})
+                    element = soup.find(selector['tag'], string=selector['text'])
                     if element:
                         return self.extract_element_info(element, 'login_button')
             return None
@@ -129,8 +118,6 @@ class WavecodeAutomation:
         info = {'tag': element.name, 'type': element_type, 'attributes': dict(element.attrs), 'text': element.get_text(strip=True), 'selectors': []}
         if element.get('id'):
             info['selectors'].append(f"#{element['id']}")
-        if element.get('data-testid'):
-            info['selectors'].append(f"[data-testid='{element['data-testid']}']")
         if element.get('class'):
             info['selectors'].append(f".{element['class'][0]}")
         if element.get('type'):
@@ -143,8 +130,6 @@ class WavecodeAutomation:
             try:
                 if selector.startswith('#'):
                     return self.driver.find_element(By.ID, selector[1:])
-                elif selector.startswith('['):
-                    return self.driver.find_element(By.CSS_SELECTOR, selector)
                 else:
                     return self.driver.find_element(By.CSS_SELECTOR, selector)
             except NoSuchElementException:
@@ -198,14 +183,12 @@ class WavecodeAutomation:
         try:
             self.driver.get(urljoin(self.base_url, "/prospects/list?company_id=2747"))
             time.sleep(5)
-            self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(2)
-            self.driver.execute_script("window.scrollTo(0, 0);")
+            self.log("Iniciando rolagem para carregar editais...")
+            self.scroll_to_load_editais()
             load_indicators = [
+                (By.CSS_SELECTOR, ".sc-cdmAjP"),
                 (By.XPATH, "//*[contains(text(), 'UASG')]"),
-                (By.XPATH, "//*[contains(text(), 'Edital')]"),
-                (By.CSS_SELECTOR, "table"),
-                (By.CSS_SELECTOR, "[class*='edital'], [class*='list'], [class*='grid']")
+                (By.XPATH, "//*[contains(text(), 'Edital')]")
             ]
             for by, selector in load_indicators:
                 try:
@@ -223,15 +206,27 @@ class WavecodeAutomation:
             self.save_debug_screenshot("navigate_error")
             return False
 
+    def scroll_to_load_editais(self):
+        self.log("Rolando página para carregar todos os editais...")
+        last_height = self.driver.execute_script("return document.body.scrollHeight")
+        while True:
+            self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            time.sleep(2)  # Aguarda elementos carregarem
+            new_height = self.driver.execute_script("return document.body.scrollHeight")
+            if new_height == last_height:
+                break
+            last_height = new_height
+        self.driver.execute_script("window.scrollTo(0, 0);")  # Volta ao topo
+        self.log("✅ Rolagem concluída!")
+
     def find_download_buttons(self):
         self.log("Procurando botões de download...")
         try:
-            # Seletores ajustados para a "barrinha" da imagem (ícone de download próximo a UASG)
+            # Seletores baseados no HTML fornecido (ícone SVG no action-header)
             selectors = [
-                "button[aria-label*='download']",
-                "a[href*='download']",
                 ".action-header svg",
-                "[class*='download-button']"
+                "a.text-lik[href*='download']",
+                "a.text-lik[href*='edital']"
             ]
             download_buttons = []
             for selector in selectors:
@@ -251,29 +246,36 @@ class WavecodeAutomation:
     def extract_edital_info_from_context(self, download_button, index):
         self.log(f"🔍 Extraindo informações para download {index+1}...")
         try:
-            # Ajuste para extrair UASG e Edital da "barrinha" (tabela/lista)
-            parent = download_button.find_element(By.XPATH, "./ancestor::tr")  # Assume tabela com linhas
-            text = parent.text
-            numbers = re.findall(r'\d{5,6}', text)  # UASG geralmente tem 5-6 dígitos
-            if len(numbers) >= 1:
-                uasg = numbers[0]
-                edital = re.search(r'(?:Edital|Nº)\s*(\d+)', text)
-                edital = edital.group(1) if edital else str(index + 1).zfill(3)
-                if uasg and edital:
-                    self.log(f"✅ UASG {uasg}, Edital {edital} extraídos da tabela")
-                    return uasg, edital
-            return str(999 + index).zfill(5), str(index + 1).zfill(3)  # Fallback
+            # Encontrar o container pai .sc-cdmAjP
+            container = download_button.find_element(By.XPATH, "./ancestor::div[@class='sc-cdmAjP']")
+            text = container.text
+            uasg = re.search(r'UASG\s*(\d+)', text).group(1) if re.search(r'UASG\s*(\d+)', text) else None
+            edital = re.search(r'Edital:\s*(\d+)', text).group(1) if re.search(r'Edital:\s*(\d+)', text) else str(index + 1).zfill(8)
+            comprador = re.search(r'Comprador:\s*(.+?)(?=\n|$)', text).group(1) if re.search(r'Comprador:\s*(.+?)(?=\n|$)', text) else ""
+            dia_disputa = re.search(r'Disputa:\s*(\d{2}/\d{2}/\d{4}\s*-\s*\d{2}:\d{2})', text).group(1) if re.search(r'Disputa:\s*(\d{2}/\d{2}/\d{4}\s*-\s*\d{2}:\d{2})', text) else ""
+            if uasg and edital:
+                self.log(f"✅ UASG {uasg}, Edital {edital}, Comprador {comprador}, Dia {dia_disputa}")
+                return uasg, edital, comprador, dia_disputa
+            return str(999 + index).zfill(6), str(index + 1).zfill(8), "Desconhecido", ""
         except Exception as e:
             self.log(f"❌ Erro na extração: {str(e)}")
-            return str(999 + index).zfill(5), str(index + 1).zfill(3)
+            return str(999 + index).zfill(6), str(index + 1).zfill(8), "Desconhecido", ""
 
-    def download_document(self, download_element, uasg, edital):
+    def download_document(self, download_element, uasg, edital, comprador, dia_disputa):
         try:
             files_before = set(os.listdir(self.download_dir))
             self.driver.execute_script("arguments[0].scrollIntoView(true);", download_element)
             time.sleep(1)
-            download_element.click()
-            max_wait = 30
+            # Verifica se é um link <a> e abre em nova aba ou clica diretamente
+            if download_element.tag_name == 'a':
+                self.driver.execute_script("window.open(arguments[0].href, '_blank');", download_element)
+                self.driver.switch_to.window(self.driver.window_handles[-1])
+                time.sleep(5)  # Aguarda download iniciar
+                self.driver.close()
+                self.driver.switch_to.window(self.driver.window_handles[0])
+            else:
+                download_element.click()
+            max_wait = 10
             waited = 0
             while waited < max_wait:
                 time.sleep(2)
@@ -285,11 +287,11 @@ class WavecodeAutomation:
                         _, ext = os.path.splitext(new_file)
                         ext = ext or '.pdf'
                         clean_edital = re.sub(r'[^\w\-]', '_', str(edital))
-                        new_name = f"U_{uasg}_N_{clean_edital}{ext}"
+                        new_name = f"U_{uasg}_E_{clean_edital}_C_{re.sub(r'[^\w\-]', '_', comprador)}_{dia_disputa.replace('/', '-')}{ext}"
                         new_path = os.path.join(self.download_dir, new_name)
                         counter = 1
                         while os.path.exists(new_path):
-                            new_path = os.path.join(self.download_dir, f"U_{uasg}_N_{clean_edital}_{counter}{ext}")
+                            new_path = os.path.join(self.download_dir, f"U_{uasg}_E_{clean_edital}_C_{re.sub(r'[^\w\-]', '_', comprador)}_{dia_disputa.replace('/', '-')}_{counter}{ext}")
                             counter += 1
                         os.rename(os.path.join(self.download_dir, new_file), new_path)
                         self.log(f"✅ Arquivo baixado: {new_name}")
@@ -306,7 +308,7 @@ class WavecodeAutomation:
         try:
             self.log(f"Processando página {page}...")
             time.sleep(3)
-            self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "table tbody tr")))
+            self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, ".sc-cdmAjP")))
             download_buttons = self.find_download_buttons()
             if not download_buttons:
                 self.log("❌ Nenhum botão de download encontrado")
@@ -315,11 +317,11 @@ class WavecodeAutomation:
             self.log(f"Encontrados {len(download_buttons)} botões de download")
             processed_count = 0
             for index, button in enumerate(download_buttons):
-                uasg, edital = self.extract_edital_info_from_context(button, index)
-                success = self.download_document(button, uasg, edital)
+                uasg, edital, comprador, dia_disputa = self.extract_edital_info_from_context(button, index)
+                success = self.download_document(button, uasg, edital, comprador, dia_disputa)
                 if success:
                     processed_count += 1
-                    self.create_trello_card(uasg, edital, success)
+                    self.create_trello_card(uasg, edital, success, comprador, dia_disputa)
                 time.sleep(2)
             self.log(f"✅ Página {page}: {processed_count} documentos processados")
             return processed_count > 0
@@ -406,9 +408,13 @@ class WavecodeAutomation:
             'Unidade de Fornecimento': 'UNID_FORN',
             'Local de Entrega (Quantidade)': 'LOCAL_ENTREGA'
         })
-        if 'QTDE' in df.columns and 'VALOR_UNIT' in df.columns:
+        if 'QTDE' in df.columns:
+            df['QTDE'] = pd.to_numeric(df['QTDE'], errors='coerce')
+        if 'VALOR_UNIT' in df.columns:
             df['VALOR_UNIT'] = df['VALOR_UNIT'].astype(str).str.replace('.', '', regex=False).str.replace(',', '.', regex=False)
-            df['VALOR_TOTAL'] = df['QTDE'].astype(float) * df['VALOR_UNIT'].astype(float)
+            df['VALOR_UNIT'] = pd.to_numeric(df['VALOR_UNIT'], errors='coerce')
+        if 'QTDE' in df.columns and 'VALOR_UNIT' in df.columns:
+            df['VALOR_TOTAL'] = df['QTDE'] * df['VALOR_UNIT']
         colunas_desejadas = ['ARQUIVO', 'Nº', 'DESCRICAO', 'UNID_FORN', 'QTDE', 'VALOR_UNIT', 'VALOR_TOTAL', 'LOCAL_ENTREGA']
         colunas_desejadas = [col for col in colunas_desejadas if col in df.columns]
         outras_colunas = [col for col in df.columns if col not in colunas_desejadas]
@@ -434,7 +440,15 @@ class WavecodeAutomation:
                         worksheet.column_dimensions[column[0].column_letter].width = min(max_length + 2, 50)
                 self.log(f"✅ Convertido: {xlsx_name}")
             else:
-                self.log(f"❌ Nenhum item em: {file_name}")
+                    self.log(f"❌ Nenhum item em: {file_name}")
+    def clean_dataframe(df):
+        if df.empty:
+            return df
+        df = df.replace('', pd.NA)
+        for col in ['Quantidade Total', 'Valor Unitário (R$)', 'Intervalo Mínimo entre Lances (R$)']:
+            if col in df.columns:
+                df[col] = df[col].astype(str).str.replace(' ', '').replace('nan', '')
+        return df
 
     def combine_excel_files(self, input_dir=None, output_file=None):
         input_dir = input_dir or self.orcamentos_dir
@@ -459,7 +473,7 @@ class WavecodeAutomation:
             df_combinado.to_excel(output_file, index=False, sheet_name='Resumo')
             self.log(f"✅ Master Excel salvo: {output_file}")
 
-    def create_trello_card(self, uasg, edital, file_name):
+    def create_trello_card(self, uasg, edital, file_name, comprador, dia_disputa):
         try:
             card_name = f"UASG: {uasg} Edital: {edital}"
             url = f"https://api.trello.com/1/cards"
@@ -468,7 +482,7 @@ class WavecodeAutomation:
                 'token': TOKEN,
                 'idList': LISTAS_PREPARANDO[0],
                 'name': card_name,
-                'desc': f"Arquivo: {file_name}"
+                'desc': f"Arquivo: {file_name}\nComprador: {comprador}\nDia da Disputa: {dia_disputa}"
             }
             response = requests.post(url, params=params)
             if response.status_code == 200:
@@ -480,7 +494,8 @@ class WavecodeAutomation:
                     'uasg': uasg,
                     'numero_pregao': edital,
                     'downloads_pregao': file_name,
-                    'dia_pregao': "",
+                    'comprador': comprador,
+                    'dia_pregao': dia_disputa,
                     'data_do_pregao': ""
                 }, len(self.processed_cards))
         except Exception as e:
@@ -495,7 +510,7 @@ class WavecodeAutomation:
             card_data.get('numero_pregao', ''),
             card_data.get('link_compras_gov', ''),
             card_data.get('downloads_pregao', ''),
-            ''
+            card_data.get('comprador', '')
         ]
         try:
             wb = openpyxl.load_workbook(EXCEL_PATH)
@@ -525,6 +540,7 @@ class WavecodeAutomation:
                             next_btn = self.driver.find_element(By.CSS_SELECTOR, "a.next, button.next, [aria-label*='next']")
                             next_btn.click()
                             time.sleep(5)
+                            self.scroll_to_load_editais()
                         except NoSuchElementException:
                             self.log("Não há mais páginas para processar")
                             break
