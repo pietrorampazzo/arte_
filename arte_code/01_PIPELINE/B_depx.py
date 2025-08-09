@@ -5,21 +5,19 @@ import zipfile
 from pathlib import Path
 import fitz  # PyMuPDF
 import pandas as pd
-import pandas as pd
+
 
 def tratar_dataframe(df):
     """
-    Realiza o tratamento do DataFrame conforme especificado:
+    Realiza o tratamento do DataFrame:
     - Renomeia colunas
-    - Converte valores monetários (ponto para vírgula)
+    - Converte valores monetários
     - Adiciona coluna VALOR_TOTAL
     - Reordena colunas
     """
-    # Verifica se o DataFrame está vazio
     if df.empty:
         return df
-    
-    # Renomear colunas conforme especificado
+
     df = df.rename(columns={
         'ARQUIVO': 'ARQUIVO',
         'Número do Item': 'Nº',
@@ -30,33 +28,38 @@ def tratar_dataframe(df):
         'Intervalo Mínimo entre Lances (R$)': 'INTERVALO_LANCES',
         'Local de Entrega (Quantidade)': 'LOCAL_ENTREGA'
     })
-    
-    
-    # Adicionar coluna VALOR_TOTAL (QTDE * VALOR_UNIT)
-    if 'QTDE' in df.columns and 'VALOR_UNIT' in df.columns:
-        # Calcula como float (já tratado acima)
-        df['VALOR_TOTAL'] = (
-            df['QTDE'].astype(float) * 
-            df['VALOR_UNIT'].str.replace('.', '', regex=False)
-                          .str.replace(',', '.', regex=False)
-                          .astype(float)
+
+    # Garantir que QTDE seja numérico
+    if 'QTDE' in df.columns:
+        df['QTDE'] = pd.to_numeric(df['QTDE'], errors='coerce').fillna(0)
+
+    # Garantir que VALOR_UNIT seja numérico e formatado
+    if 'VALOR_UNIT' in df.columns:
+        df['VALOR_UNIT'] = (
+            df['VALOR_UNIT']
+            .astype(str)
+            .str.replace('.', '', regex=False)
+            .str.replace(',', '.', regex=False)
         )
-    
-    # Reordenar colunas conforme especificado
+        df['VALOR_UNIT'] = pd.to_numeric(df['VALOR_UNIT'], errors='coerce').fillna(0)
+
+    # Criar VALOR_TOTAL
+    if 'QTDE' in df.columns and 'VALOR_UNIT' in df.columns:
+        df['VALOR_TOTAL'] = df['QTDE'] * df['VALOR_UNIT']
+
+    # Formatar valores monetários: vírgula decimal, sem ponto de milhar
+    for col in ['VALOR_UNIT', 'VALOR_TOTAL']:
+        if col in df.columns:
+            df[col] = df[col].apply(lambda x: f"{x:.2f}".replace(".", ","))
+
+    # Reordenar colunas
     colunas_desejadas = ['ARQUIVO', 'Nº', 'DESCRICAO', 'UNID_FORN', 'QTDE', 'VALOR_UNIT', 'VALOR_TOTAL', 'LOCAL_ENTREGA']
-    # Mantém apenas as colunas que existem no DataFrame
     colunas_desejadas = [col for col in colunas_desejadas if col in df.columns]
-    # Adiciona quaisquer outras colunas que não foram especificadas
     outras_colunas = [col for col in df.columns if col not in colunas_desejadas]
     df = df[colunas_desejadas + outras_colunas]
-    
+
     return df
 
-# Exemplo de uso:
-# df = pd.read_excel('arquivo.xlsx')
-# df_tratado = tratar_dataframe(df)
-# df_tratado.to_excel('arquivo_tratado.xlsx', index=False)
-# === Funções do extract_pdf.py ===
 
 def descompactar_arquivos(pasta_origem):
     pasta = Path(pasta_origem)
@@ -88,6 +91,7 @@ def descompactar_arquivos(pasta_origem):
             print("  → Arquivo ZIP mantido devido ao erro")
     print(f"\nProcesso concluído!")
 
+
 def extrair_e_copiar_pdfs(pasta_origem, pasta_destino):
     pasta_origem = Path(pasta_origem)
     pasta_destino = Path(pasta_destino)
@@ -106,38 +110,40 @@ def extrair_e_copiar_pdfs(pasta_origem, pasta_destino):
                     shutil.copy2(arquivo, destino_final)
                     print(f"✅ {arquivo.name} copiado e renomeado para {novo_nome}")
                     copiados += 1
-                    break  # Considera apenas o primeiro encontrado por pasta
+                    break
     print(f"\n🎉 Processo concluído: {copiados} arquivo(s) movido(s) para {pasta_destino}")
 
-# === Funções do pdf_to_xlsx.py ===
 
-def extract_items_from_text(text):
+def extract_items_from_text(text, arquivo_nome):
     items = []
     text = re.sub(r'\n+', '\n', text)
     text = re.sub(r'\s+', ' ', text)
+
     item_pattern = re.compile(r'(\d+)\s*-\s*([^0-9]+?)(?=Descrição Detalhada:)', re.DOTALL | re.IGNORECASE)
     item_matches = list(item_pattern.finditer(text))
+
     for i, match in enumerate(item_matches):
-        item_num = match.group(1).strip()  # Número do item
+        item_num = match.group(1).strip()
         item_nome = match.group(2).strip()
         start_pos = match.start()
-        if i + 1 < len(item_matches):
-            end_pos = item_matches[i + 1].start()
-        else:
-            end_pos = len(text)
+        end_pos = item_matches[i + 1].start() if i + 1 < len(item_matches) else len(text)
         item_text = text[start_pos:end_pos]
-        descricao_match = re.search(r'Descrição Detalhada:\s*(.*?)(?=Tratamento Diferenciado:|Aplicabilidade Decreto|$)', 
-                                  item_text, re.DOTALL | re.IGNORECASE)
+
+        descricao_match = re.search(r'Descrição Detalhada:\s*(.*?)(?=Tratamento Diferenciado:|Aplicabilidade Decreto|$)',
+                                    item_text, re.DOTALL | re.IGNORECASE)
         descricao = ""
         if descricao_match:
             descricao = descricao_match.group(1).strip()
             descricao = re.sub(r'\s+', ' ', descricao)
             descricao = re.sub(r'[^\w\s:,.()/-]', '', descricao)
+
         item_completo = f"{item_nome}"
         if descricao:
             item_completo += f" {descricao}"
+
         quantidade_match = re.search(r'Quantidade Total:\s*(\d+)', item_text, re.IGNORECASE)
         quantidade = quantidade_match.group(1) if quantidade_match else ""
+
         valor_patterns = [
             r'Valor Unitário[^:]*:\s*R?\$?\s*([\d.,]+)',
             r'Valor Total[^:]*:\s*R?\$?\s*([\d.,]+)',
@@ -148,40 +154,29 @@ def extract_items_from_text(text):
             valor_match = re.search(pattern, item_text, re.IGNORECASE)
             if valor_match:
                 valor_unitario = valor_match.group(1)
-                valor_unitario = valor_unitario.replace('.', '').replace(',', '.')
-                try:
-                    float(valor_unitario)
-                    break
-                except ValueError:
-                    continue
-        unidade_match = re.search(r'Unidade de Fornecimento:\s*([^0-9\n]+?)(?=\s|$|\n)', 
-                                item_text, re.IGNORECASE)
+                break
+
+        unidade_match = re.search(r'Unidade de Fornecimento:\s*([^0-9\n]+?)(?=\s|$|\n)', item_text, re.IGNORECASE)
         unidade = unidade_match.group(1).strip() if unidade_match else ""
-        intervalo_patterns = [
-            r'Intervalo Mínimo entre Lances[^:]*:\s*R?\$?\s*([\d.,]+)',
-            r'Intervalo[^:]*:\s*R?\$?\s*([\d.,]+)'
-        ]
+
         intervalo = ""
-        for pattern in intervalo_patterns:
+        for pattern in [r'Intervalo Mínimo entre Lances[^:]*:\s*R?\$?\s*([\d.,]+)', r'Intervalo[^:]*:\s*R?\$?\s*([\d.,]+)']:
             intervalo_match = re.search(pattern, item_text, re.IGNORECASE)
             if intervalo_match:
                 intervalo = intervalo_match.group(1)
                 break
-        local_patterns = [
-            r'Local de Entrega[^:]*:\s*([^(\n]+?)(?:\s*\(|$|\n)',
-            r'Belém/PA\s*\((\d+)\)',
-            r'([A-Za-z]+/[A-Z]{2})'
-        ]
+
         local = ""
-        for pattern in local_patterns:
+        for pattern in [r'Local de Entrega[^:]*:\s*([^(\n]+?)(?:\s*\(|$|\n)', r'([A-Za-z]+/[A-Z]{2})']:
             local_match = re.search(pattern, item_text, re.IGNORECASE)
             if local_match:
                 local = local_match.group(1).strip()
                 if local and not local.isdigit():
                     break
+
         item_data = {
-            "ARQUIVO": f"item_{i+1}.pdf",  # Nome do arquivo fictício
-            "Número do Item": item_num,  # Adiciona o número do item como uma nova coluna
+            "ARQUIVO": arquivo_nome,
+            "Número do Item": item_num,
             "Descrição": item_completo,
             "Quantidade Total": int(quantidade) if quantidade.isdigit() else quantidade,
             "Valor Unitário (R$)": valor_unitario,
@@ -190,8 +185,9 @@ def extract_items_from_text(text):
             "Local de Entrega (Quantidade)": local
         }
         items.append(item_data)
-        
+
     return items
+
 
 def process_pdf_file(pdf_path):
     print(f"Processando: {pdf_path}")
@@ -207,7 +203,8 @@ def process_pdf_file(pdf_path):
     if not text.strip():
         print(f"  Aviso: Nenhum texto extraído de {pdf_path}")
         return []
-    return extract_items_from_text(text)
+    return extract_items_from_text(text, os.path.basename(pdf_path))
+
 
 def clean_dataframe(df):
     if df.empty:
@@ -218,13 +215,17 @@ def clean_dataframe(df):
             df[col] = df[col].astype(str).str.replace(' ', '').replace('nan', '')
     return df
 
+
 def cot_logic(items):
     for item in items:
         if isinstance(item["Quantidade Total"], int) and item["Quantidade Total"] > 100:
             try:
-                item["Valor Unitário (R$)"] = str(float(item["Valor Unitário (R$)"]) * 0.9)
+                valor = str(item["Valor Unitário (R$)"]).replace('.', '').replace(',', '.')
+                valor = float(valor) * 0.9
+                item["Valor Unitário (R$)"] = f"{valor:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
             except Exception:
                 pass
+
 
 def pdfs_para_xlsx(input_dir, output_dir):
     os.makedirs(output_dir, exist_ok=True)
@@ -247,7 +248,7 @@ def pdfs_para_xlsx(input_dir, output_dir):
                 cot_logic(items)
                 df = pd.DataFrame(items)
                 df = clean_dataframe(df)
-                df = tratar_dataframe(df)  # Adiciona esta linha para tratar o DataFrame
+                df = tratar_dataframe(df)
                 xlsx_name = os.path.splitext(file_name)[0] + ".xlsx"
                 output_path = os.path.join(output_dir, xlsx_name)
                 with pd.ExcelWriter(output_path, engine='openpyxl') as writer:
@@ -264,7 +265,6 @@ def pdfs_para_xlsx(input_dir, output_dir):
                                 pass
                         adjusted_width = min(max_length + 2, 50)
                         worksheet.column_dimensions[column_letter].width = adjusted_width
-
                 print(f"✅ Processado: {file_name} → {xlsx_name} ({len(items)} itens)")
             else:
                 print(f"❌ Nenhum item encontrado em: {file_name}")
@@ -272,11 +272,11 @@ def pdfs_para_xlsx(input_dir, output_dir):
             print(f"❌ Erro ao processar {file_name}: {e}")
     print(f"\nProcessamento concluído! Arquivos salvos em: {output_dir}")
 
-# === Configuração dos diretórios ===
 
-PASTA_ORIGEM = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\DOWNLOADS"
-PASTA_DESTINO_PDF = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\DOWNLOADS"
-PASTA_XLSX = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\ORCAMENTOS"
+# === Configuração dos diretórios ===
+PASTA_ORIGEM = r"C:\Users\pietr\Meu Drive\arte_comercial\DOWNLOADS"
+PASTA_DESTINO_PDF = r"C:\Users\pietr\Meu Drive\arte_comercial\DOWNLOADS"
+PASTA_XLSX = r"C:\Users\pietr\Meu Drive\arte_comercial\ORÇARMENTO"
 
 if __name__ == "__main__":
     print("=== DESCOMPACTADOR DE ARQUIVOS ZIP ===")

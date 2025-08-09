@@ -1,3 +1,22 @@
+"""
+Automação e download de editais via Wavecode.
+
+Procesossos automatizados:
+- Login no Wavecode
+- Download de arquivos .zip e .pdf
+- Tratamento de PDFs
+- Extração de itens para Excel
+
+SOLUÇÃO DEFINITIVA: Encontrar o produto mais adequado da base de fornecedores para cada item do edital, 
+priorizando compatibilidade técnica e preço.Visando a lei de licitações e a melhor proposta para o cliente.
+Lei 14.133/2021 e Lei 8.666/1993.
+
+Autor: arte_comercial
+Data: 03/07/2025
+Versão: 1.1.0
+
+"""
+
 import os
 import time
 import re
@@ -211,18 +230,17 @@ class WavecodeAutomation:
         last_height = self.driver.execute_script("return document.body.scrollHeight")
         while True:
             self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(2)  # Aguarda elementos carregarem
+            time.sleep(2)
             new_height = self.driver.execute_script("return document.body.scrollHeight")
             if new_height == last_height:
                 break
             last_height = new_height
-        self.driver.execute_script("window.scrollTo(0, 0);")  # Volta ao topo
+        self.driver.execute_script("window.scrollTo(0, 0);")
         self.log("✅ Rolagem concluída!")
 
     def find_download_buttons(self):
         self.log("Procurando botões de download...")
         try:
-            # Seletores baseados no HTML fornecido (ícone SVG no action-header)
             selectors = [
                 ".action-header svg",
                 "a.text-lik[href*='download']",
@@ -246,7 +264,6 @@ class WavecodeAutomation:
     def extract_edital_info_from_context(self, download_button, index):
         self.log(f"🔍 Extraindo informações para download {index+1}...")
         try:
-            # Encontrar o container pai .sc-cdmAjP
             container = download_button.find_element(By.XPATH, "./ancestor::div[@class='sc-cdmAjP']")
             text = container.text
             uasg = re.search(r'UASG\s*(\d+)', text).group(1) if re.search(r'UASG\s*(\d+)', text) else None
@@ -266,11 +283,10 @@ class WavecodeAutomation:
             files_before = set(os.listdir(self.download_dir))
             self.driver.execute_script("arguments[0].scrollIntoView(true);", download_element)
             time.sleep(1)
-            # Verifica se é um link <a> e abre em nova aba ou clica diretamente
             if download_element.tag_name == 'a':
                 self.driver.execute_script("window.open(arguments[0].href, '_blank');", download_element)
                 self.driver.switch_to.window(self.driver.window_handles[-1])
-                time.sleep(5)  # Aguarda download iniciar
+                time.sleep(5)
                 self.driver.close()
                 self.driver.switch_to.window(self.driver.window_handles[0])
             else:
@@ -359,46 +375,100 @@ class WavecodeAutomation:
                         break
         self.log(f"🎉 {copiados} PDFs movidos")
 
-    def extract_items_from_text(self, text):
+    def extract_items_from_text(self, text, arquivo_nome):
         items = []
         text = re.sub(r'\n+', '\n', text)
+        text = re.sub(r'\s+', ' ', text)
+
         item_pattern = re.compile(r'(\d+)\s*-\s*([^0-9]+?)(?=Descrição Detalhada:)', re.DOTALL | re.IGNORECASE)
-        for i, match in enumerate(item_pattern.finditer(text)):
-            item_num = match.group(1)
+        item_matches = list(item_pattern.finditer(text))
+
+        for i, match in enumerate(item_matches):
+            item_num = match.group(1).strip()
             item_nome = match.group(2).strip()
             start_pos = match.start()
-            end_pos = list(item_pattern.finditer(text))[i+1].start() if i+1 < len(list(item_pattern.finditer(text))) else len(text)
+            end_pos = item_matches[i + 1].start() if i + 1 < len(item_matches) else len(text)
             item_text = text[start_pos:end_pos]
-            descricao = re.search(r'Descrição Detalhada:\s*(.*?)(?=Tratamento Diferenciado:|Aplicabilidade Decreto|$)', item_text, re.DOTALL | re.IGNORECASE)
-            descricao = re.sub(r'\s+', ' ', descricao.group(1).strip()) if descricao else ""
-            quantidade = re.search(r'Quantidade Total:\s*(\d+)', item_text, re.IGNORECASE)
-            valor_unitario = re.search(r'Valor Unitário[^:]*:\s*R?\$?\s*([\d.,]+)', item_text, re.IGNORECASE)
-            valor_unitario = valor_unitario.group(1).replace('.', '').replace(',', '.') if valor_unitario else ""
-            unidade = re.search(r'Unidade de Fornecimento:\s*([^0-9\n]+?)(?=\s|$|\n)', item_text, re.IGNORECASE)
-            local = re.search(r'Local de Entrega[^:]*:\s*([^(\n]+?)(?:\s*\(|$|\n)', item_text, re.IGNORECASE)
-            items.append({
-                "ARQUIVO": f"item_{i+1}.pdf",
+
+            descricao_match = re.search(r'Descrição Detalhada:\s*(.*?)(?=Tratamento Diferenciado:|Aplicabilidade Decreto|$)',
+                                       item_text, re.DOTALL | re.IGNORECASE)
+            descricao = ""
+            if descricao_match:
+                descricao = descricao_match.group(1).strip()
+                descricao = re.sub(r'\s+', ' ', descricao)
+                descricao = re.sub(r'[^\w\s:,.()/-]', '', descricao)
+
+            item_completo = f"{item_nome}"
+            if descricao:
+                item_completo += f" {descricao}"
+
+            quantidade_match = re.search(r'Quantidade Total:\s*(\d+)', item_text, re.IGNORECASE)
+            quantidade = quantidade_match.group(1) if quantidade_match else ""
+
+            valor_patterns = [
+                r'Valor Unitário[^:]*:\s*R?\$?\s*([\d.,]+)',
+                r'Valor Total[^:]*:\s*R?\$?\s*([\d.,]+)',
+                r'R\$\s*([\d.,]+)'
+            ]
+            valor_unitario = ""
+            for pattern in valor_patterns:
+                valor_match = re.search(pattern, item_text, re.IGNORECASE)
+                if valor_match:
+                    valor_unitario = valor_match.group(1)
+                    break
+
+            unidade_match = re.search(r'Unidade de Fornecimento:\s*([^0-9\n]+?)(?=\s|$|\n)', item_text, re.IGNORECASE)
+            unidade = unidade_match.group(1).strip() if unidade_match else ""
+
+            intervalo = ""
+            for pattern in [r'Intervalo Mínimo entre Lances[^:]*:\s*R?\$?\s*([\d.,]+)', r'Intervalo[^:]*:\s*R?\$?\s*([\d.,]+)']:
+                intervalo_match = re.search(pattern, item_text, re.IGNORECASE)
+                if intervalo_match:
+                    intervalo = intervalo_match.group(1)
+                    break
+
+            local = ""
+            for pattern in [r'Local de Entrega[^:]*:\s*([^(\n]+?)(?:\s*\(|$|\n)', r'([A-Za-z]+/[A-Z]{2})']:
+                local_match = re.search(pattern, item_text, re.IGNORECASE)
+                if local_match:
+                    local = local_match.group(1).strip()
+                    if local and not local.isdigit():
+                        break
+
+            item_data = {
+                "ARQUIVO": arquivo_nome,
                 "Número do Item": item_num,
-                "Descrição": f"{item_nome} {descricao}",
-                "Quantidade Total": int(quantidade.group(1)) if quantidade else "",
+                "Descrição": item_completo,
+                "Quantidade Total": int(quantidade) if quantidade.isdigit() else quantidade,
                 "Valor Unitário (R$)": valor_unitario,
-                "Unidade de Fornecimento": unidade.group(1).strip() if unidade else "",
-                "Local de Entrega (Quantidade)": local.group(1).strip() if local else ""
-            })
+                "Unidade de Fornecimento": unidade,
+                "Intervalo Mínimo entre Lances (R$)": intervalo,
+                "Local de Entrega (Quantidade)": local
+            }
+            items.append(item_data)
+
         return items
 
     def process_pdf_file(self, pdf_path):
+        self.log(f"Processando: {pdf_path}")
+        text = ""
         try:
             with fitz.open(pdf_path) as doc:
-                text = "".join(page.get_text() for page in doc)
-            return self.extract_items_from_text(text) if text.strip() else []
+                for page_num, page in enumerate(doc):
+                    page_text = page.get_text()
+                    text += page_text
         except Exception as e:
             self.log(f"Erro ao processar PDF {pdf_path}: {e}")
             return []
+        if not text.strip():
+            self.log(f"  Aviso: Nenhum texto extraído de {pdf_path}")
+            return []
+        return self.extract_items_from_text(text, os.path.basename(pdf_path))
 
     def tratar_dataframe(self, df):
         if df.empty:
             return df
+
         df = df.rename(columns={
             'ARQUIVO': 'ARQUIVO',
             'Número do Item': 'Nº',
@@ -406,42 +476,69 @@ class WavecodeAutomation:
             'Quantidade Total': 'QTDE',
             'Valor Unitário (R$)': 'VALOR_UNIT',
             'Unidade de Fornecimento': 'UNID_FORN',
+            'Intervalo Mínimo entre Lances (R$)': 'INTERVALO_LANCES',
             'Local de Entrega (Quantidade)': 'LOCAL_ENTREGA'
         })
+
         if 'QTDE' in df.columns:
-            df['QTDE'] = pd.to_numeric(df['QTDE'], errors='coerce')
+            df['QTDE'] = pd.to_numeric(df['QTDE'], errors='coerce').fillna(0)
+
         if 'VALOR_UNIT' in df.columns:
-            df['VALOR_UNIT'] = df['VALOR_UNIT'].astype(str).str.replace('.', '', regex=False).str.replace(',', '.', regex=False)
-            df['VALOR_UNIT'] = pd.to_numeric(df['VALOR_UNIT'], errors='coerce')
+            df['VALOR_UNIT'] = (
+                df['VALOR_UNIT']
+                .astype(str)
+                .str.replace('.', '', regex=False)
+                .str.replace(',', '.', regex=False)
+            )
+            df['VALOR_UNIT'] = pd.to_numeric(df['VALOR_UNIT'], errors='coerce').fillna(0)
+
         if 'QTDE' in df.columns and 'VALOR_UNIT' in df.columns:
             df['VALOR_TOTAL'] = df['QTDE'] * df['VALOR_UNIT']
-        colunas_desejadas = ['ARQUIVO', 'Nº', 'DESCRICAO', 'UNID_FORN', 'QTDE', 'VALOR_UNIT', 'VALOR_TOTAL', 'LOCAL_ENTREGA']
-        colunas_desejadas = [col for col in colunas_desejadas if col in df.columns]
-        outras_colunas = [col for col in df.columns if col not in colunas_desejadas]
+
+        for col in ['VALOR_UNIT', 'VALOR_TOTAL']:
+            if col in df.columns:
+                df[col] = df[col].apply(lambda x: f"{x:.2f}".replace(".", ","))
+
+        colunas_desejadas = ['ARQUIVO', 'Nº', 'DESCRICAO', 'UNID_FORN', 'QTDE',
+                            'VALOR_UNIT', 'VALOR_TOTAL', 'LOCAL_ENTREGA']
+        colunas_desejadas = [c for c in colunas_desejadas if c in df.columns]
+        outras_colunas = [c for c in df.columns if c not in colunas_desejadas]
+
         return df[colunas_desejadas + outras_colunas]
 
     def pdfs_para_xlsx(self, input_dir=None, output_dir=None):
         input_dir = input_dir or self.download_dir
         output_dir = output_dir or self.orcamentos_dir
+        os.makedirs(output_dir, exist_ok=True)
+        if not os.path.exists(input_dir):
+            self.log(f"Erro: Diretório de entrada não encontrado: {input_dir}")
+            return
         pdf_files = [f for f in os.listdir(input_dir) if f.lower().endswith('.pdf')]
+        if not pdf_files:
+            self.log(f"Nenhum arquivo PDF encontrado em: {input_dir}")
+            return
+        self.log(f"Encontrados {len(pdf_files)} arquivos PDF para processar:")
+        for pdf_file in pdf_files:
+            self.log(f"  - {pdf_file}")
+        self.log("-" * 60)
         for file_name in pdf_files:
-            pdf_path = os.path.join(input_dir, file_name)
-            items = self.process_pdf_file(pdf_path)
-            if items:
-                df = pd.DataFrame(items)
-                df = self.tratar_dataframe(df)
-                xlsx_name = os.path.splitext(file_name)[0] + ".xlsx"
-                output_path = os.path.join(output_dir, xlsx_name)
-                with pd.ExcelWriter(output_path, engine='openpyxl') as writer:
-                    df.to_excel(writer, index=False, sheet_name='Itens')
-                    worksheet = writer.sheets['Itens']
-                    for column in worksheet.columns:
-                        max_length = max(len(str(cell.value or "")) for cell in column)
-                        worksheet.column_dimensions[column[0].column_letter].width = min(max_length + 2, 50)
-                self.log(f"✅ Convertido: {xlsx_name}")
-            else:
-                    self.log(f"❌ Nenhum item em: {file_name}")
-    def clean_dataframe(df):
+            try:
+                pdf_path = os.path.join(input_dir, file_name)
+                items = self.process_pdf_file(pdf_path)
+                if items:
+                    df = pd.DataFrame(items)
+                    df = self.tratar_dataframe(df)
+                    xlsx_name = os.path.splitext(file_name)[0] + ".xlsx"
+                    output_path = os.path.join(output_dir, xlsx_name)
+                    df.to_excel(output_path, index=False)
+                    self.log(f"✅ Processado: {file_name} → {xlsx_name} ({len(items)} itens)")
+                else:
+                    self.log(f"❌ Nenhum item encontrado em: {file_name}")
+            except Exception as e:
+                self.log(f"❌ Erro ao processar {file_name}: {e}")
+        self.log(f"\nProcessamento concluído! Arquivos salvos em: {output_dir}")
+
+    def clean_dataframe(self, df):
         if df.empty:
             return df
         df = df.replace('', pd.NA)
@@ -462,7 +559,7 @@ class WavecodeAutomation:
             try:
                 xls = pd.ExcelFile(os.path.join(input_dir, arquivo))
                 for nome_planilha in xls.sheet_names:
-                    df = pd.read_excel(xls, sheet_name=nome_planilha)
+                    df = self.clean_dataframe(pd.read_excel(xls, sheet_name=nome_planilha))
                     df['Arquivo'] = arquivo
                     df['Planilha'] = nome_planilha
                     dados_combinados.append(df)
@@ -470,6 +567,7 @@ class WavecodeAutomation:
                 self.log(f"Erro ao processar {arquivo}: {e}")
         if dados_combinados:
             df_combinado = pd.concat(dados_combinados, ignore_index=True)
+            df_combinado = self.tratar_dataframe(df_combinado)
             df_combinado.to_excel(output_file, index=False, sheet_name='Resumo')
             self.log(f"✅ Master Excel salvo: {output_file}")
 
@@ -572,5 +670,5 @@ class WavecodeAutomation:
         print(f"📊 Master Excel: {MASTER_EXCEL}")
 
 if __name__ == "__main__":
-    automation = WavecodeAutomation(debug=True)
+    automation = WavecodeAutomation()
     automation.run()

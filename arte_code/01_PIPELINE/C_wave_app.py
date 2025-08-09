@@ -9,8 +9,8 @@ import os
 from A_download_edital import main as download_editais
 import B_depx
 
-PASTA_DOWNLOAD = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\DOWNLOADS"
-PASTA_ORCAMENTOS = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS\ORCAMENTOS"
+PASTA_DOWNLOAD = r"C:\Users\pietr\Meu Drive\arte_comercial\DOWNLOADS"
+PASTA_ORCAMENTOS = r"C:\Users\pietr\Meu Drive\arte_comercial\ORÇARMENTO"
 
 def pipeline():
     print("="*60)
