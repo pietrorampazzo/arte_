@@ -6,24 +6,19 @@ Procesossos automatizados:
 - Download de arquivos .zip e .pdf
 - Tratamento de PDFs
 - Extração de itens para Excel
-
-SOLUÇÃO DEFINITIVA: Encontrar o produto mais adequado da base de fornecedores para cada item do edital, 
-priorizando compatibilidade técnica e preço.Visando a lei de licitações e a melhor proposta para o cliente.
-Lei 14.133/2021 e Lei 8.666/1993.
+- Envio de arquivos para Trello
 
 Autor: arte_comercial
-Data: 03/07/2025
-Versão: 1.1.0
-
+Data: 11/07/2025
+Versão: 1.2.1
 """
-
 import os
 import time
 import re
 import zipfile
 import shutil
 from pathlib import Path
-import fitz
+import fitz # PyMuPDF
 import pandas as pd
 import openpyxl
 import requests
@@ -75,8 +70,11 @@ class WavecodeAutomation:
             timestamp = time.strftime("%Y%m%d_%H%M%S")
             filename = f"debug_{name}_{timestamp}.png"
             filepath = os.path.join(self.download_dir, filename)
-            self.driver.save_screenshot(filepath)
-            self.log(f"📸 Screenshot salvo: {filename}")
+            try:
+                self.driver.save_screenshot(filepath)
+                self.log(f"📸 Screenshot salvo: {filename}")
+            except Exception as e:
+                self.log(f"❌ Erro ao salvar screenshot: {e}")
 
     def setup_driver(self):
         self.log("Configurando Chrome WebDriver...")
@@ -108,121 +106,64 @@ class WavecodeAutomation:
             self.log(f"Erro ao configurar WebDriver: {str(e)}")
             raise
 
-    def find_element_by_html_analysis(self, soup, element_type):
-        try:
-            if element_type == 'email':
-                selectors = [{'attr': 'type', 'value': 'text', 'placeholder': re.compile('email', re.IGNORECASE)}]
-                for selector in selectors:
-                    element = soup.find('input', {'type': selector['value'], 'placeholder': selector['placeholder']})
-                    if element:
-                        return self.extract_element_info(element, 'email')
-            elif element_type == 'password':
-                selectors = [{'attr': 'type', 'value': 'password'}]
-                for selector in selectors:
-                    element = soup.find('input', {selector['attr']: selector['value']})
-                    if element:
-                        return self.extract_element_info(element, 'password')
-            elif element_type == 'login_button':
-                selectors = [{'tag': 'button', 'text': 'ACESSAR'}]
-                for selector in selectors:
-                    element = soup.find(selector['tag'], string=selector['text'])
-                    if element:
-                        return self.extract_element_info(element, 'login_button')
-            return None
-        except Exception as e:
-            self.log(f"Erro ao buscar elemento {element_type}: {str(e)}")
-            return None
-
-    def extract_element_info(self, element, element_type):
-        info = {'tag': element.name, 'type': element_type, 'attributes': dict(element.attrs), 'text': element.get_text(strip=True), 'selectors': []}
-        if element.get('id'):
-            info['selectors'].append(f"#{element['id']}")
-        if element.get('class'):
-            info['selectors'].append(f".{element['class'][0]}")
-        if element.get('type'):
-            info['selectors'].append(f"input[type='{element['type']}']")
-        self.log(f"Elemento {element_type} encontrado: {info['selectors'][0]}")
-        return info
-
-    def find_selenium_element(self, element_info):
-        for selector in element_info['selectors']:
-            try:
-                if selector.startswith('#'):
-                    return self.driver.find_element(By.ID, selector[1:])
-                else:
-                    return self.driver.find_element(By.CSS_SELECTOR, selector)
-            except NoSuchElementException:
-                continue
-        self.log(f"Nenhum seletor funcionou para {element_info['type']}")
-        return None
-
     def login(self):
         self.log("Acessando portal Wavecode...")
         try:
             self.driver.get(self.base_url)
-            time.sleep(5)
-            html = self.driver.page_source
-            soup = BeautifulSoup(html, 'html.parser')
-            email_info = self.find_element_by_html_analysis(soup, 'email')
-            password_info = self.find_element_by_html_analysis(soup, 'password')
-            button_info = self.find_element_by_html_analysis(soup, 'login_button')
-            if not all([email_info, password_info, button_info]):
-                self.log("❌ Elementos de login não encontrados")
-                self.save_debug_screenshot("login_failed")
-                return False
-            email_element = self.find_selenium_element(email_info)
-            password_element = self.find_selenium_element(password_info)
-            button_element = self.find_selenium_element(button_info)
-            if not all([email_element, password_element, button_element]):
-                self.log("❌ Elementos não localizados com Selenium")
-                self.save_debug_screenshot("login_elements_failed")
-                return False
-            email_element.clear()
-            email_element.send_keys(self.login_email)
-            password_element.clear()
-            password_element.send_keys(self.login_password)
+            email_field = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input[type='text'][placeholder*='email']")))
+            password_field = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input[type='password']")))
+            login_button = self.wait.until(EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'ACESSAR')]")))
+
+            email_field.clear()
+            email_field.send_keys(self.login_email)
+            password_field.clear()
+            password_field.send_keys(self.login_password)
+
             current_url = self.driver.current_url
-            button_element.click()
+            login_button.click()
+
             self.wait.until(EC.url_changes(current_url))
-            time.sleep(5)
+            self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "body")))
+
             if "login" not in self.driver.current_url.lower():
                 self.log("✅ Login bem-sucedido")
                 self.save_debug_screenshot("login_success")
                 return True
-            self.log("❌ Login falhou")
-            self.save_debug_screenshot("login_failed")
+            else:
+                self.log("❌ Login falhou: Retornado para a página de login.")
+                self.save_debug_screenshot("login_failed")
+                return False
+        except TimeoutException:
+            self.log("❌ Login falhou: Timeout ao esperar elementos de login.")
+            self.save_debug_screenshot("login_timeout_error")
+            return False
+        except NoSuchElementException:
+            self.log("❌ Login falhou: Elemento de login não encontrado.")
+            self.save_debug_screenshot("login_element_not_found")
             return False
         except Exception as e:
             self.log(f"❌ Erro no login: {str(e)}")
-            self.save_debug_screenshot("login_error")
+            self.save_debug_screenshot("login_unexpected_error")
             return False
 
     def navigate_to_editais(self):
         self.log("Navegando para seção de editais...")
         try:
             self.driver.get(urljoin(self.base_url, "/prospects/list?company_id=2747"))
-            time.sleep(5)
             self.log("Iniciando rolagem para carregar editais...")
             self.scroll_to_load_editais()
-            load_indicators = [
-                (By.CSS_SELECTOR, ".sc-cdmAjP"),
-                (By.XPATH, "//*[contains(text(), 'UASG')]"),
-                (By.XPATH, "//*[contains(text(), 'Edital')]")
-            ]
-            for by, selector in load_indicators:
-                try:
-                    self.wait.until(EC.presence_of_element_located((by, selector)))
-                    self.log(f"✅ Elemento de editais encontrado: {selector}")
-                    self.save_debug_screenshot("editais_page_loaded")
-                    return True
-                except TimeoutException:
-                    continue
-            self.log("❌ Não foi possível confirmar carregamento da página de editais")
-            self.save_debug_screenshot("editais_load_failed")
+
+            self.wait.until(EC.presence_of_element_located((By.XPATH, "//p[contains(text(), 'Disputa:') or contains(text(), 'Edital:')]")))
+            self.log("✅ Página de editais carregada.")
+            self.save_debug_screenshot("editais_page_loaded")
+            return True
+        except TimeoutException:
+            self.log("❌ Não foi possível carregar a página de editais (Timeout).")
+            self.save_debug_screenshot("editais_load_timeout")
             return False
         except Exception as e:
             self.log(f"❌ Erro ao navegar para editais: {str(e)}")
-            self.save_debug_screenshot("navigate_error")
+            self.save_debug_screenshot("navigate_editais_error")
             return False
 
     def scroll_to_load_editais(self):
@@ -261,23 +202,6 @@ class WavecodeAutomation:
             self.log(f"Erro ao encontrar botões de download: {str(e)}")
             return []
 
-    def extract_edital_info_from_context(self, download_button, index):
-        self.log(f"🔍 Extraindo informações para download {index+1}...")
-        try:
-            container = download_button.find_element(By.XPATH, "./ancestor::div[@class='sc-cdmAjP']")
-            text = container.text
-            uasg = re.search(r'UASG\s*(\d+)', text).group(1) if re.search(r'UASG\s*(\d+)', text) else None
-            edital = re.search(r'Edital:\s*(\d+)', text).group(1) if re.search(r'Edital:\s*(\d+)', text) else str(index + 1).zfill(8)
-            comprador = re.search(r'Comprador:\s*(.+?)(?=\n|$)', text).group(1) if re.search(r'Comprador:\s*(.+?)(?=\n|$)', text) else ""
-            dia_disputa = re.search(r'Disputa:\s*(\d{2}/\d{2}/\d{4}\s*-\s*\d{2}:\d{2})', text).group(1) if re.search(r'Disputa:\s*(\d{2}/\d{2}/\d{4}\s*-\s*\d{2}:\d{2})', text) else ""
-            if uasg and edital:
-                self.log(f"✅ UASG {uasg}, Edital {edital}, Comprador {comprador}, Dia {dia_disputa}")
-                return uasg, edital, comprador, dia_disputa
-            return str(999 + index).zfill(6), str(index + 1).zfill(8), "Desconhecido", ""
-        except Exception as e:
-            self.log(f"❌ Erro na extração: {str(e)}")
-            return str(999 + index).zfill(6), str(index + 1).zfill(8), "Desconhecido", ""
-
     def download_document(self, download_element, uasg, edital, comprador, dia_disputa):
         try:
             files_before = set(os.listdir(self.download_dir))
@@ -301,13 +225,15 @@ class WavecodeAutomation:
                 for new_file in new_files:
                     if not new_file.endswith(('.tmp', '.crdownload', '.part')) and os.path.exists(os.path.join(self.download_dir, new_file)) and os.path.getsize(os.path.join(self.download_dir, new_file)) > 0:
                         _, ext = os.path.splitext(new_file)
-                        ext = ext or '.pdf'
+                        ext = ext or '.zip'
                         clean_edital = re.sub(r'[^\w\-]', '_', str(edital))
-                        new_name = f"U_{uasg}_E_{clean_edital}_C_{re.sub(r'[^\w\-]', '_', comprador)}_{dia_disputa.replace('/', '-')}{ext}"
+                        clean_comprador = re.sub(r'[^\w\-]', '_', comprador)
+                        clean_dia_disputa = dia_disputa.replace(':', 'h').replace(' - ', '_').replace('/', '-') + 'm'
+                        new_name = f"U_{uasg}_E_{clean_edital}_C_{clean_comprador}_{clean_dia_disputa}{ext}"
                         new_path = os.path.join(self.download_dir, new_name)
                         counter = 1
                         while os.path.exists(new_path):
-                            new_path = os.path.join(self.download_dir, f"U_{uasg}_E_{clean_edital}_C_{re.sub(r'[^\w\-]', '_', comprador)}_{dia_disputa.replace('/', '-')}_{counter}{ext}")
+                            new_path = os.path.join(self.download_dir, f"U_{uasg}_E_{clean_edital}_C_{clean_comprador}_{clean_dia_disputa}_{counter}{ext}")
                             counter += 1
                         os.rename(os.path.join(self.download_dir, new_file), new_path)
                         self.log(f"✅ Arquivo baixado: {new_name}")
@@ -320,31 +246,100 @@ class WavecodeAutomation:
             self.log(f"❌ Erro durante download: {str(e)}")
             return None
 
-    def process_editais_page(self, page):
+    def extract_edital_info_from_context(self, download_element, index):
+        self.log(f"🔍 Extraindo informações para o item {index+1}...")
+        uasg, edital, comprador, dia_disputa = None, None, "Desconhecido", ""
+        
         try:
-            self.log(f"Processando página {page}...")
-            time.sleep(3)
-            self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, ".sc-cdmAjP")))
+            container_wrapper_header = download_element.find_element(By.XPATH, "./ancestor::div[contains(@class, 'wrapper-header')]")
+            container_principal_item = container_wrapper_header.find_element(By.XPATH, "./..")
+
+            try:
+                disputa_label = container_principal_item.find_element(By.XPATH, ".//div[contains(@class, 'item-header')]//p[text()='Disputa:']")
+                disputa_value_element = disputa_label.find_element(By.XPATH, "./following-sibling::p")
+                disputa_text = disputa_value_element.text
+                disputa_match = re.search(r'(\d{1,2}[/-]\d{1,2}[/-]\d{2,4}\s*-\s*\d{1,2}:\d{1,2})', disputa_text)
+                if disputa_match:
+                    dia_disputa = disputa_match.group(1)
+            except NoSuchElementException:
+                self.log("Disputa não encontrada para este item.")
+
+            try:
+                uasg_label = container_principal_item.find_element(By.XPATH, ".//div[contains(@class, 'item-body-block')]//p[text()='UASG']")
+                uasg_value_element = uasg_label.find_element(By.XPATH, "./following-sibling::p")
+                uasg_text = uasg_value_element.text
+                uasg_match = re.search(r'(\d+)', uasg_text)
+                if uasg_match:
+                    uasg = uasg_match.group(1)
+            except NoSuchElementException:
+                self.log("UASG não encontrado para este item.")
+
+            try:
+                edital_label = container_principal_item.find_element(By.XPATH, ".//div[contains(@class, 'item-header')]//p[text()='Edital:']")
+                edital_value_element = edital_label.find_element(By.XPATH, "./following-sibling::p")
+                edital_text = edital_value_element.text
+                edital_match = re.search(r'(\d+)', edital_text)
+                if edital_match:
+                    edital = edital_match.group(1)
+            except NoSuchElementException:
+                self.log("Edital não encontrado para este item.")
+
+            try:
+                comprador_label = container_principal_item.find_element(By.XPATH, ".//div[contains(@class, 'item-body')]//p[text()='Comprador:']")
+                comprador_value_element = comprador_label.find_element(By.XPATH, "./following-sibling::p")
+                comprador_text = comprador_value_element.text
+                comprador = comprador_text.strip()
+            except NoSuchElementException:
+                self.log("Comprador não encontrado para este item.")
+            
+            if not uasg: uasg = str(999 + index).zfill(6)
+            if not edital: edital = str(index + 1).zfill(8)
+            if not comprador: comprador = "Desconhecido"
+            
+            self.log(f"✅ Extraído: UASG={uasg}, Edital={edital}, Comprador='{comprador}', Disputa='{dia_disputa}'")
+            
+            return uasg, edital, comprador, dia_disputa
+
+        except NoSuchElementException as e:
+            self.log(f"❌ Falha ao encontrar o container principal ou um elemento de dados associado ao botão de download: {e}")
+            return str(999 + index).zfill(6), str(index + 1).zfill(8), "Desconhecido", ""
+        except Exception as e:
+            self.log(f"❌ Erro inesperado na extração de informações do edital: {str(e)}")
+            return str(999 + index).zfill(6), str(index + 1).zfill(8), "Desconhecido", ""
+
+    def process_editais_page(self, page_num):
+        self.log(f"Processando página {page_num}...")
+        try:
             download_buttons = self.find_download_buttons()
+            
             if not download_buttons:
-                self.log("❌ Nenhum botão de download encontrado")
-                self.save_debug_screenshot("no_download_buttons")
-                return False
-            self.log(f"Encontrados {len(download_buttons)} botões de download")
+                self.log("❌ Nenhum botão de download encontrado nesta página.")
+                self.save_debug_screenshot(f"no_download_buttons_page_{page_num}")
+                return 0
+            
+            self.log(f"Encontrados {len(download_buttons)} botões de download para processar.")
             processed_count = 0
+            
             for index, button in enumerate(download_buttons):
                 uasg, edital, comprador, dia_disputa = self.extract_edital_info_from_context(button, index)
-                success = self.download_document(button, uasg, edital, comprador, dia_disputa)
-                if success:
+                
+                downloaded_file_name = self.download_document(button, uasg, edital, comprador, dia_disputa)
+                
+                if downloaded_file_name:
                     processed_count += 1
-                    self.create_trello_card(uasg, edital, success, comprador, dia_disputa)
+                    self.create_trello_card(uasg, edital, downloaded_file_name, comprador, dia_disputa)
+                else:
+                    self.log(f"Falha ao baixar o edital para o item {index+1}.")
+                
                 time.sleep(2)
-            self.log(f"✅ Página {page}: {processed_count} documentos processados")
-            return processed_count > 0
+            
+            self.log(f"✅ Página {page_num}: {processed_count} de {len(download_buttons)} editais processados.")
+            return processed_count
+            
         except Exception as e:
-            self.log(f"Erro ao processar página {page}: {str(e)}")
-            self.save_debug_screenshot(f"process_page_{page}_error")
-            return False
+            self.log(f"Erro ao processar a página {page_num}: {str(e)}")
+            self.save_debug_screenshot(f"process_page_{page_num}_error")
+            return 0
 
     def descompactar_arquivos(self, input_dir=None):
         pasta = Path(input_dir or self.download_dir)
@@ -573,31 +568,82 @@ class WavecodeAutomation:
 
     def create_trello_card(self, uasg, edital, file_name, comprador, dia_disputa):
         try:
-            card_name = f"UASG: {uasg} Edital: {edital}"
+            card_name = f"Comprador: {comprador} - UASG: {uasg} - Edital: {edital}"
+            
+            clean_file_name = file_name if file_name else "N/A"
+
+            card_description = (
+                f"Arquivo Associado: {clean_file_name}\n"
+                f"Comprador: {comprador}\n"
+                f"UASG: {uasg}\n"
+                f"Edital: {edital}\n"
+                f"Data de Disputa: {dia_disputa if dia_disputa else 'Não especificada'}"
+            )
+
             url = f"https://api.trello.com/1/cards"
             params = {
                 'key': API_KEY,
                 'token': TOKEN,
                 'idList': LISTAS_PREPARANDO[0],
                 'name': card_name,
-                'desc': f"Arquivo: {file_name}\nComprador: {comprador}\nDia da Disputa: {dia_disputa}"
+                'desc': card_description
             }
+
+            parsed_date_for_trello = None
+            if dia_disputa:
+                try:
+                    dia_disputa_cleaned = dia_disputa.replace('/', '-').strip()
+                    
+                    possible_formats = [
+                        "%d-%m-%Y - %H:%M", "%d/%m/%Y - %H:%M", "%Y-%m-%d %H:%M",
+                        "%Y/%m/%d %H:%M", "%d-%m-%Y %H:%M", "%d/%m/%Y %H:%M"
+                    ]
+                    
+                    parsed_date = None
+                    for fmt in possible_formats:
+                        try:
+                            parsed_date = datetime.strptime(dia_disputa_cleaned, fmt)
+                            break
+                        except ValueError:
+                            continue
+
+                    if parsed_date:
+                        params['due'] = parsed_date.isoformat() + "Z"
+                        self.log(f"✅ Data de disputa encontrada e formatada para Trello: {params['due']}")
+                        parsed_date_for_trello = parsed_date.strftime("%d/%m/%Y")
+                    else:
+                        self.log(f"⚠️ Não foi possível converter a data de disputa '{dia_disputa}' para um formato válido para Trello.")
+                except Exception as date_err:
+                    self.log(f"❌ Erro ao processar data de disputa para Trello: {date_err}")
+            
             response = requests.post(url, params=params)
+            response.raise_for_status()
+
             if response.status_code == 200:
                 card_id = response.json()['id']
-                self.log(f"✅ Card criado: {card_name}")
+                self.log(f"✅ Card Trello criado com sucesso: '{card_name}' (ID: {card_id})")
                 self.processed_cards.add(card_id)
+                
                 self.register_in_spreadsheet({
                     'new_card_name': card_name,
                     'uasg': uasg,
                     'numero_pregao': edital,
-                    'downloads_pregao': file_name,
+                    'downloads_pregao': clean_file_name,
                     'comprador': comprador,
                     'dia_pregao': dia_disputa,
-                    'data_do_pregao': ""
+                    'data_do_pregao': parsed_date_for_trello
                 }, len(self.processed_cards))
+                return True
+            else:
+                self.log(f"❌ Falha ao criar card Trello. Status: {response.status_code}, Resposta: {response.text}")
+                return False
+
+        except requests.exceptions.RequestException as e:
+            self.log(f"❌ Erro de rede ou API ao criar card Trello: {str(e)}")
+            return False
         except Exception as e:
-            self.log(f"❌ Erro ao criar card: {str(e)}")
+            self.log(f"❌ Erro inesperado ao criar card Trello: {str(e)}")
+            return False
 
     def register_in_spreadsheet(self, card_data, item_number):
         row_data = [

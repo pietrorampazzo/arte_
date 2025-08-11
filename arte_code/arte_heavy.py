@@ -16,7 +16,7 @@ Data: 03/07/2025
 Versão: 1.1.0
 
 """
-# arte_largeheavy.py
+# arte_heavy.py
 import pandas as pd
 import google.generativeai as genai
 import os
@@ -34,13 +34,13 @@ import time
 
 # É uma boa prática carregar chaves de API de variáveis de ambiente para segurança
 # GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY', 'SUA_CHAVE_API_AQUI')
-modelo = "gemini-2.5-flash-lite"
+modelo = "gemini-2.0-flash"
 GOOGLE_API_KEY = 'AIzaSyBdrzcton2jUCv5PSaXE38UCp-l8O42Fvc' # Mantendo como no seu exemplo
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Caminhos para os arquivos
-CAMINHO_EDITAL = r"C:\Users\pietr\Meu Drive\arte_comercial\ORÇARMENTO\summary_new.xlsx"
-CAMINHO_BASE = r"C:\Users\pietr\Meu Drive\arte_comercial\base_bling.xlsx"
+CAMINHO_EDITAL = r"C:\Users\pietr\Meu Drive\arte_comercial\summary.xlsx"
+CAMINHO_BASE = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\base_bling.xlsx"
 output_dir = r"C:\Users\pietr\Meu Drive\arte_comercial\RESULTADO"
 
 # --- CARREGAMENTO E PRÉ-PROCESSAMENTO DOS DADOS ---
@@ -105,13 +105,19 @@ Local Entrega: {local_entrega}
 </base_fornecedores>
 
 <objetivo>
-Encontre o produto mais compatível tecnicamente com menor preço 50% abaixo do valor unitário do item do edital. 
-Aplique uma margem de 53% sobre o preço do fornecedor para chegar ao preço final.
+Selecione o produto tecnicamente mais compatível, cujo preço do fornecedor seja no máximo 50% do valor unitário do edital.  
+Após selecionar o produto, aplique uma margem de 53% sobre o preço do fornecedor para obter o preço final.
 </objetivo>
 
 <formato_saida>
-Responda APENAS com uma linha no formato de tabela, sem cabeçalho:
+Responda somente com uma única linha no formato Markdown de tabela, sem cabeçalho, sem explicações, sem texto extra:
 | Marca Sugerida | Modelo Sugerido | Preço Fornecedor | Preço com Margem 53% | Descrição Fornecedor | % Compatibilidade |
+
+**IMPORTANTE:**
+- Não escreva nada além desta linha de tabela.
+- Se não encontrar produto adequado, retorne uma linha vazia ou "| N/A | N/A | N/A | N/A | N/A | 0% |".
+- Respeite o formato da tabela, com pipes e colunas exatamente na ordem pedida.
+- Não utilize aspas, nem quebre linha.
 </formato_saida>
 """
     
@@ -180,7 +186,7 @@ if resultados:
     df_resultados = df_resultados[colunas_exportacao].drop_duplicates()
     
     os.makedirs(output_dir, exist_ok=True)
-    caminho_excel = os.path.join(output_dir, "arte_gemini_heavy_anselmo.xlsx")
+    caminho_excel = os.path.join(output_dir, "arte_gemini_heavy_semana.xlsx")
     df_resultados.to_excel(caminho_excel, index=False)
     
     print(f"\n✅ SUCESSO: {len(df_resultados)} itens exportados para {caminho_excel}")
