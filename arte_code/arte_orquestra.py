@@ -4,13 +4,14 @@ Automação e download de editais via Wavecode.
 Procesossos automatizados:
 - Login no Wavecode
 - Download de arquivos .zip e .pdf
-- Tratamento de PDFs
-- Extração de itens para Excel
+- Tratamento de PDFs e extração de itens para Excel
+- Consolidação em uma planilha de resumo (summary.xlsx)
+- Filtragem de itens relevantes (instrumentos musicais, áudio) para uma planilha master (master.xlsx)
 - Envio de arquivos para Trello
 
 Autor: arte_comercial
-Data: 11/07/2025
-Versão: 1.2.1
+Data: 16/08/2025
+Versão: 1.3.0 (com integração do arte_orca)
 """
 import os
 import time
@@ -33,13 +34,37 @@ from selenium.webdriver.chrome.service import Service
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
+from datetime import datetime
+try:
+    from zoneinfo import ZoneInfo  # Py 3.9+
+except Exception:
+    ZoneInfo = None
 
 # === Configuration ===
-BASE_DIR = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\01_EDITAIS"
+BASE_DIR = r"G:\Meu Drive\arte_comercial"
 DOWNLOAD_DIR = os.path.join(BASE_DIR, "DOWNLOADS")
 ORCAMENTOS_DIR = os.path.join(BASE_DIR, "ORCAMENTOS")
-EXCEL_PATH = os.path.join(ORCAMENTOS_DIR, "EDITAIS_PC.xlsx")
-MASTER_EXCEL = os.path.join(ORCAMENTOS_DIR, "pregão_gemini.xlsx")
+EXCEL_PATH = os.path.join(BASE_DIR, "EDITAIS_PC.xlsx")
+MASTER_EXCEL = os.path.join(BASE_DIR, "summary.xlsx") # Este é o arquivo de resumo gerado
+FINAL_MASTER_PATH = os.path.join(BASE_DIR, "master.xlsx") # Este será o arquivo final filtrado
+
+# Palavras-chave para filtro do arte_orca
+PALAVRAS_CHAVE = [
+    r'microfone', r'fone de ouvido', r'headset', r'encordamento', r'violão',
+    r'saxofone', r'trompete', r'tuba', r'clarinete', r'óleo lubrificante', r'fonte gamer',
+    r'banquinho para bateria', r'sistema de transmissão sem fio',
+    r'trompa', r'sax', r'óleos para válvulas', r'audio', r'áudio', r'sem fio bluetooth',
+    r'lapela', r'podcast', r'monitoramento de palco', r'Caixa Acústica',
+    r'Mesa Áudio', r'Pedestal', r'Pedal Efeito', r'Guitarra', r'Baixo', r'Violino',
+    r'Viola', r'Cavaquinho', r'Bandolim', r'Ukulele', r'Piano', r'Sintetizador', r'Instrumento musical - sopro',
+    r'Controlador MIDI', r'Bateria Eletrônica', r'Interface de Áudio', r'Cabo extensor',
+    r'Microfone de Estúdio', r'Microfone Dinâmico', r'Microfone de Lapela', r'Peças e acessórios instrumento musical',
+    r'Tela projeção', r'Projetor Multimídia', r'Caixa de Som', r'Subwoofer', r'Amplificador',
+    r'Instrumento Musical - Sopro', r'Instrumento Musical - Corda',r'Instrumento Musical - Percursão',r'Instrumento Musical',
+    
+]
+REGEX_FILTRO = re.compile('|'.join(PALAVRAS_CHAVE), re.IGNORECASE)
+
 
 # Trello API Configuration
 API_KEY = '683cba47b43c3a1cfb10cf809fecb685'
@@ -385,7 +410,7 @@ class WavecodeAutomation:
             end_pos = item_matches[i + 1].start() if i + 1 < len(item_matches) else len(text)
             item_text = text[start_pos:end_pos]
 
-            descricao_match = re.search(r'Descrição Detalhada:\s*(.*?)(?=Tratamento Diferenciado:|Aplicabilidade Decreto|$)',
+            descricao_match = re.search(r'Descrição Detalhada:\s*(.*?)(?=Tratamento Diferenciado:)|Aplicabilidade Decreto|$',
                                        item_text, re.DOTALL | re.IGNORECASE)
             descricao = ""
             if descricao_match:
@@ -400,17 +425,15 @@ class WavecodeAutomation:
             quantidade_match = re.search(r'Quantidade Total:\s*(\d+)', item_text, re.IGNORECASE)
             quantidade = quantidade_match.group(1) if quantidade_match else ""
 
-            valor_patterns = [
-                r'Valor Unitário[^:]*:\s*R?\$?\s*([\d.,]+)',
-                r'Valor Total[^:]*:\s*R?\$?\s*([\d.,]+)',
-                r'R\$\s*([\d.,]+)'
-            ]
             valor_unitario = ""
-            for pattern in valor_patterns:
-                valor_match = re.search(pattern, item_text, re.IGNORECASE)
-                if valor_match:
-                    valor_unitario = valor_match.group(1)
-                    break
+            valor_unitario_match = re.search(r'Valor Unitário[^:]*:\s*R?\$?\s*([\d.,]+)', item_text, re.IGNORECASE)
+            if valor_unitario_match:
+                valor_unitario = valor_unitario_match.group(1)
+
+            valor_total = ""
+            valor_total_match = re.search(r'Valor Total[^:]*:\s*R?\$?\s*([\d.,]+)', item_text, re.IGNORECASE)
+            if valor_total_match:
+                valor_total = valor_total_match.group(1)
 
             unidade_match = re.search(r'Unidade de Fornecimento:\s*([^0-9\n]+?)(?=\s|$|\n)', item_text, re.IGNORECASE)
             unidade = unidade_match.group(1).strip() if unidade_match else ""
@@ -436,6 +459,7 @@ class WavecodeAutomation:
                 "Descrição": item_completo,
                 "Quantidade Total": int(quantidade) if quantidade.isdigit() else quantidade,
                 "Valor Unitário (R$)": valor_unitario,
+                "Valor Total (R$)": valor_total,
                 "Unidade de Fornecimento": unidade,
                 "Intervalo Mínimo entre Lances (R$)": intervalo,
                 "Local de Entrega (Quantidade)": local
@@ -470,6 +494,7 @@ class WavecodeAutomation:
             'Descrição': 'DESCRICAO',
             'Quantidade Total': 'QTDE',
             'Valor Unitário (R$)': 'VALOR_UNIT',
+            'Valor Total (R$)': 'VALOR_TOTAL',
             'Unidade de Fornecimento': 'UNID_FORN',
             'Intervalo Mínimo entre Lances (R$)': 'INTERVALO_LANCES',
             'Local de Entrega (Quantidade)': 'LOCAL_ENTREGA'
@@ -478,14 +503,18 @@ class WavecodeAutomation:
         if 'QTDE' in df.columns:
             df['QTDE'] = pd.to_numeric(df['QTDE'], errors='coerce').fillna(0)
 
-        if 'VALOR_UNIT' in df.columns:
-            df['VALOR_UNIT'] = (
-                df['VALOR_UNIT']
-                .astype(str)
-                .str.replace('.', '', regex=False)
-                .str.replace(',', '.', regex=False)
-            )
-            df['VALOR_UNIT'] = pd.to_numeric(df['VALOR_UNIT'], errors='coerce').fillna(0)
+        for col in ['VALOR_UNIT', 'VALOR_TOTAL']:
+            if col in df.columns:
+                df[col] = (
+                    df[col]
+                    .astype(str)
+                    .str.replace('.', '', regex=False)
+                    .str.replace(',', '.', regex=False)
+                )
+                df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0)
+
+        mask = (df['VALOR_UNIT'] == 0) & (df['VALOR_TOTAL'] > 0) & (df['QTDE'] > 0)
+        df.loc[mask, 'VALOR_UNIT'] = df.loc[mask, 'VALOR_TOTAL'] / df.loc[mask, 'QTDE']
 
         if 'QTDE' in df.columns and 'VALOR_UNIT' in df.columns:
             df['VALOR_TOTAL'] = df['QTDE'] * df['VALOR_UNIT']
@@ -537,7 +566,7 @@ class WavecodeAutomation:
         if df.empty:
             return df
         df = df.replace('', pd.NA)
-        for col in ['Quantidade Total', 'Valor Unitário (R$)', 'Intervalo Mínimo entre Lances (R$)']:
+        for col in ['Quantidade Total', 'Valor Unitário (R$)', 'Valor Total (R$)', 'Intervalo Mínimo entre Lances (R$)']:
             if col in df.columns:
                 df[col] = df[col].astype(str).str.replace(' ', '').replace('nan', '')
         return df
@@ -565,6 +594,56 @@ class WavecodeAutomation:
             df_combinado = self.tratar_dataframe(df_combinado)
             df_combinado.to_excel(output_file, index=False, sheet_name='Resumo')
             self.log(f"✅ Master Excel salvo: {output_file}")
+            
+    def filtrar_e_atualizar_master(self):
+        """
+        Filtra itens da planilha de resumo gerada (summary.xlsx) com base em palavras-chave
+        e os adiciona ao topo da planilha principal (master.xlsx).
+        """
+        self.log("Iniciando filtragem de itens para a planilha master...")
+        
+        # Passo 1: Carregar summary.xlsx
+        if not os.path.exists(MASTER_EXCEL):
+            self.log(f"❌ Arquivo de resumo não encontrado: {MASTER_EXCEL}. Abortando a filtragem.")
+            return
+
+        df_summary = pd.read_excel(MASTER_EXCEL)
+        self.log(f"Planilha summary carregada: {len(df_summary)} linhas.")
+
+        # Passo 2: Filtrar itens relevantes
+        if 'DESCRICAO' not in df_summary.columns:
+            self.log("❌ Coluna 'DESCRICAO' não encontrada na planilha. Não é possível filtrar.")
+            return
+        
+        mask = df_summary['DESCRICAO'].apply(lambda x: bool(REGEX_FILTRO.search(str(x))))
+        df_filtrado = df_summary[mask].copy()
+        
+        if df_filtrado.empty:
+            self.log("Nenhum item relevante encontrado para adicionar à master. Encerrando.")
+            return
+            
+        self.log(f"Itens filtrados: {len(df_filtrado)} de {len(df_summary)} totais.")
+
+        # Passo 3: Carregar master.xlsx (ou criar se não existir)
+        if os.path.exists(FINAL_MASTER_PATH):
+            df_master = pd.read_excel(FINAL_MASTER_PATH)
+            self.log(f"Planilha master carregada: {len(df_master)} linhas existentes.")
+        else:
+            df_master = pd.DataFrame(columns=df_filtrado.columns)
+            self.log("Planilha master não encontrada. Criando uma nova.")
+
+        # Garantir que as colunas sejam compatíveis
+        for col in df_filtrado.columns:
+            if col not in df_master.columns:
+                df_master[col] = pd.NA
+
+        # Passo 4: Concatenar filtrados no topo e remover duplicatas
+        df_atualizado = pd.concat([df_filtrado, df_master], ignore_index=True)
+        df_atualizado = df_atualizado.drop_duplicates(subset=['ARQUIVO', 'Nº', 'DESCRICAO'], keep='first')
+
+        # Passo 5: Salvar master atualizada
+        df_atualizado.to_excel(FINAL_MASTER_PATH, index=False)
+        self.log(f"✅ Master atualizada salva: {len(df_atualizado)} linhas totais. Novos itens adicionados: {len(df_filtrado)}.")
 
     def create_trello_card(self, uasg, edital, file_name, comprador, dia_disputa):
         try:
@@ -592,13 +671,13 @@ class WavecodeAutomation:
             parsed_date_for_trello = None
             if dia_disputa:
                 try:
-                    dia_disputa_cleaned = dia_disputa.replace('/', '-').strip()
-                    
+                    dia_disputa_cleaned = dia_disputa.strip().replace('h', ':').replace('m', '')
                     possible_formats = [
-                        "%d-%m-%Y - %H:%M", "%d/%m/%Y - %H:%M", "%Y-%m-%d %H:%M",
-                        "%Y/%m/%d %H:%M", "%d-%m-%Y %H:%M", "%d/%m/%Y %H:%M"
+                        "%d-%m-%Y - %H:%M", "%d/%m/%Y - %H:%M",
+                        "%Y-%m-%d %H:%M",   "%Y/%m/%d %H:%M",
+                        "%d-%m-%Y %H:%M",   "%d/%m/%Y %H:%M"
                     ]
-                    
+
                     parsed_date = None
                     for fmt in possible_formats:
                         try:
@@ -608,13 +687,22 @@ class WavecodeAutomation:
                             continue
 
                     if parsed_date:
-                        params['due'] = parsed_date.isoformat() + "Z"
-                        self.log(f"✅ Data de disputa encontrada e formatada para Trello: {params['due']}")
+                        # Torna a data "aware" em America/Sao_Paulo e envia com offset (-03:00)
+                        if ZoneInfo is not None:
+                            aware = parsed_date.replace(tzinfo=ZoneInfo("America/Sao_Paulo"))
+                            params['due'] = aware.isoformat(timespec='seconds')  # ex: 2025-08-21T09:00:00-03:00
+                        else:
+                            # Fallback estático (Brasil sem DST desde 2019): -03:00
+                            params['due'] = parsed_date.strftime("%Y-%m-%dT%H:%M:%S-03:00")
+
+                        self.log(f"✅ Data de disputa formatada p/ Trello: {params['due']}")
                         parsed_date_for_trello = parsed_date.strftime("%d/%m/%Y")
                     else:
-                        self.log(f"⚠️ Não foi possível converter a data de disputa '{dia_disputa}' para um formato válido para Trello.")
+                        self.log(f"⚠️ Não foi possível converter a data de disputa '{dia_disputa}'.")
                 except Exception as date_err:
                     self.log(f"❌ Erro ao processar data de disputa para Trello: {date_err}")
+
+
             
             response = requests.post(url, params=params)
             response.raise_for_status()
@@ -665,41 +753,69 @@ class WavecodeAutomation:
         except Exception as e:
             self.log(f"❌ Erro ao registrar na planilha: {e}")
 
-    def run(self):
+    def run(self, max_pages_to_process=5):
+        """
+        Executa o pipeline completo de automação, incluindo a lógica de paginação por número de página.
+
+        :param max_pages_to_process: O número máximo de páginas a serem processadas.
+        """
         print("="*60)
         print("🤖 WAVECODE AUTOMATION - PIPELINE COMPLETO")
         print("="*60)
         
-        self.log("[1/5] Baixando editais...")
-        total_processed = 0
+        self.log(f"[1/5] Baixando editais (processando até {max_pages_to_process} páginas)...")
+        total_downloads = 0
         try:
             self.setup_driver()
             if self.login() and self.navigate_to_editais():
-                for page in range(1, 4):
-                    self.log(f"Processando página {page}")
-                    if self.process_editais_page(page):
-                        total_processed += 1
-                    if page < 3:
+                # Loop principal para iterar através dos números de página
+                for page_num in range(1, max_pages_to_process + 1):
+                    self.log(f"--- Iniciando ciclo para a Página {page_num} ---")
+
+                    # A partir da segunda página, precisamos navegar explicitamente até ela.
+                    if page_num > 1:
+                        self.log(f"Navegando para a página de número {page_num}...")
                         try:
-                            next_btn = self.driver.find_element(By.CSS_SELECTOR, "a.next, button.next, [aria-label*='next']")
-                            next_btn.click()
+                            # Localizador XPath para encontrar o <li> com o texto exato do número da página.
+                            # Ex: //ul[contains(@class, 'pagination')]//li[text()='2']
+                            page_button = self.wait.until(
+                                EC.element_to_be_clickable(
+                                    (By.XPATH, f"//ul[contains(@class, 'pagination')]//li[text()='{page_num}']")
+                                )
+                            )
+                            # Usamos JavaScript para um clique mais confiável
+                            self.driver.execute_script("arguments[0].click();", page_button)
+                            self.log(f"✅ Clique direto na página '{page_num}' realizado.")
+
+                            # Pausa e rolagem para garantir que o novo conteúdo seja carregado
                             time.sleep(5)
                             self.scroll_to_load_editais()
-                        except NoSuchElementException:
-                            self.log("Não há mais páginas para processar")
+
+                        except TimeoutException:
+                            self.log(f"⚠️ Página de número '{page_num}' não foi encontrada. Fim da paginação.")
+                            break # Sai do loop principal se a página não existir
+                        except Exception as e:
+                            self.log(f"❌ Erro ao tentar navegar para a página {page_num}: {e}")
+                            self.save_debug_screenshot(f"pagination_error_page_{page_num}")
                             break
+
+                    # Agora que garantimos estar na página correta, processamos os itens.
+                    self.log(f"Processando itens da Página {page_num}...")
+                    downloads_in_page = self.process_editais_page(page_num)
+                    total_downloads += downloads_in_page
+        
         except Exception as e:
-            self.log(f"Erro no download: {str(e)}")
-            self.save_debug_screenshot("download_error")
+            self.log(f"❌ Erro geral na automação: {str(e)}")
+            self.save_debug_screenshot("main_run_error")
         finally:
             if self.driver:
                 self.driver.quit()
         
-        if total_processed == 0:
-            self.log("⚠️ Nenhum edital baixado. Abortando pipeline.")
+        if total_downloads == 0:
+            self.log("⚠️ Nenhum edital foi baixado. Abortando o restante do pipeline.")
             return
         
-        self.log("\n[2/5] Descompactando arquivos...")
+        self.log(f"\n[2/5] Descompactando arquivos... (Total de {total_downloads} editais baixados)")
         self.descompactar_arquivos()
         
         self.log("\n[3/5] Extraindo PDFs...")
@@ -711,9 +827,12 @@ class WavecodeAutomation:
         self.log("\n[5/5] Gerando master Excel...")
         self.combine_excel_files()
         
+        self.log("\n[6/6] Filtrando e atualizando a planilha master final...")
+        self.filtrar_e_atualizar_master()
+
         print("\n🎉 PIPELINE CONCLUÍDO!")
-        print(f"📁 Arquivos em: {self.orcamentos_dir}")
-        print(f"📊 Master Excel: {MASTER_EXCEL}")
+        print(f"📁 Arquivos de orçamento em: {self.orcamentos_dir}")
+        print(f"📊 Master Final Filtrada: {FINAL_MASTER_PATH}")
 
 if __name__ == "__main__":
     automation = WavecodeAutomation()
