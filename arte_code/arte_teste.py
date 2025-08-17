@@ -39,7 +39,7 @@ GOOGLE_API_KEY = 'AIzaSyBdrzcton2jUCv5PSaXE38UCp-l8O42Fvc' # Mantendo como no se
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Caminhos para os arquivos
-CAMINHO_EDITAL = r"G:\Meu Drive\arte_comercial\master.xlsx"
+CAMINHO_EDITAL = r"G:\Meu Drive\arte_comercial\master - Copia.xlsx"
 CAMINHO_BASE = r"G:\Meu Drive\arte_comercial\base_produtos.xlsx"
 output_dir = r"C:\Users\pietr\Meu Drive\arte_comercial\RESULTADO"
 
@@ -166,9 +166,8 @@ Responda somente com uma única linha no formato Markdown de tabela, sem cabeça
         print(f"❌ ERRO no item {idx + 1}: {e}")
 
     # Pausa otimizada
-    time.sleep(80)# 60 segundos entre as requisições para evitar sobrecarga
+    time.sleep(60)# 60 segundos entre as requisições para evitar sobrecarga
 
-# --- EXPORTAÇÃO CORRIGIDA ---
 # --- EXPORTAÇÃO CORRIGIDA ---
 if resultados:
     colunas_exportacao = [
@@ -188,7 +187,7 @@ if resultados:
     df_resultados = df_resultados[colunas_exportacao].drop_duplicates()
     
     os.makedirs(output_dir, exist_ok=True)
-    caminho_excel = os.path.join(output_dir, "arte_gemini_trello.xlsx")
+    caminho_excel = os.path.join(output_dir, "arte_gemini_heavy_teste.xlsx")
     df_resultados.to_excel(caminho_excel, index=False)
     
     print(f"\n✅ SUCESSO: {len(df_resultados)} itens exportados para {caminho_excel}")
