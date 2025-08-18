@@ -49,7 +49,7 @@ class ProcessadorMusical:
         if GOOGLE_API_KEY != "SUA_API_KEY_AQUI":
             try:
                 genai.configure(api_key=GOOGLE_API_KEY)
-                self.model_generativo = genai.GenerativeModel('gemini-1.5-flash-latest')
+                self.model_generativo = genai.GenerativeModel('gemini-2.5-flash')
                 logger.info("Modelo Gemini carregado.")
             except Exception as e:
                 logger.warning(f"Falha ao carregar Gemini: {e}. LLM desativado.")

@@ -39,8 +39,8 @@ GOOGLE_API_KEY = 'AIzaSyBdrzcton2jUCv5PSaXE38UCp-l8O42Fvc' # Mantendo como no se
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Caminhos para os arquivos
-CAMINHO_EDITAL = r"G:\Meu Drive\arte_comercial\master.xlsx"
-CAMINHO_BASE = r"G:\Meu Drive\arte_comercial\base_produtos.xlsx"
+CAMINHO_EDITAL = r"G:\Meu Drive\arte_comercial\master - Copia.xlsx"
+CAMINHO_BASE = r"C:\Users\pietr\OneDrive\.vscode\arte_\arte_\saida_unificada\produtos_categorizados_v4.xlsx"
 output_dir = r"C:\Users\pietr\Meu Drive\arte_comercial\RESULTADO"
 
 # --- CARREGAMENTO E PRÉ-PROCESSAMENTO DOS DADOS ---
@@ -166,16 +166,14 @@ Responda somente com uma única linha no formato Markdown de tabela, sem cabeça
         print(f"❌ ERRO no item {idx + 1}: {e}")
 
     # Pausa otimizada
-    time.sleep(80)# 60 segundos entre as requisições para evitar sobrecarga
+    time.sleep(60)# 60 segundos entre as requisições para evitar sobrecarga
 
-# --- EXPORTAÇÃO CORRIGIDA ---
 # --- EXPORTAÇÃO CORRIGIDA ---
 if resultados:
     colunas_exportacao = [
-        'ARQUIVO', 'Nº', 'DESCRICAO', 'UNID_FORN', 'QTDE',
-        'VALOR_UNIT', 'VALOR_TOTAL', 'LOCAL_ENTREGA',
-        'Marca Sugerida', 'Modelo Sugerido',
-        'Preço Fornecedor', 'Preço com Margem 53%', 'Descrição Fornecedor', '% Compatibilidade'
+        'ARQUIVO','DESCRICAO','VALOR_UNIT', 'VALOR_TOTAL', 'LOCAL_ENTREGA',
+        'Nº', 'UNID_FORN', 'QTDE','Marca Sugerida', 'Modelo Sugerido','Preço com Margem 53%',
+        'Preço Fornecedor','Descrição Fornecedor', '% Compatibilidade'
     ]
     
     df_resultados = pd.DataFrame(resultados)

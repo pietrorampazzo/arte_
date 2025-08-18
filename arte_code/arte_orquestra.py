@@ -50,17 +50,20 @@ FINAL_MASTER_PATH = os.path.join(BASE_DIR, "master.xlsx") # Este será o arquivo
 
 # Palavras-chave para filtro do arte_orca
 PALAVRAS_CHAVE = [
-    r'microfone', r'fone de ouvido', r'headset', r'encordamento', r'violão',
-    r'saxofone', r'trompete', r'tuba', r'clarinete', r'óleo lubrificante', r'fonte gamer',
-    r'banquinho para bateria', r'sistema de transmissão sem fio',
-    r'trompa', r'sax', r'óleos para válvulas', r'audio', r'áudio', r'sem fio bluetooth',
-    r'lapela', r'podcast', r'monitoramento de palco', r'Caixa Acústica',
-    r'Mesa Áudio', r'Pedestal', r'Pedal Efeito', r'Guitarra', r'Baixo', r'Violino',
-    r'Viola', r'Cavaquinho', r'Bandolim', r'Ukulele', r'Piano', r'Sintetizador', r'Instrumento musical - sopro',
-    r'Controlador MIDI', r'Bateria Eletrônica', r'Interface de Áudio', r'Cabo extensor',
-    r'Microfone de Estúdio', r'Microfone Dinâmico', r'Microfone de Lapela', r'Peças e acessórios instrumento musical',
-    r'Tela projeção', r'Projetor Multimídia', r'Caixa de Som', r'Subwoofer', r'Amplificador',
-    r'Instrumento Musical - Sopro', r'Instrumento Musical - Corda',r'Instrumento Musical - Percursão',r'Instrumento Musical',
+    r'Instrumento Musical - Sopro', r'Instrumento Musical - Corda',r'Instrumento Musical - Percursão',
+    r'Instrumento Musical', r'Peças e acessórios instrumento musical',
+    r'saxofone', r'trompete', r'tuba', r'clarinete', r'óleo lubrificante',r'trompa', r'sax', r'óleos para válvulas',
+    r'violão', r'Guitarra', r'Baixo', r'Violino', r'Viola', r'Cavaquinho',r'Bandolim', r'Ukulele', 
+    r'Microfone', r'Microfone direcional', r'Suporte microfone', r'Microfone Dinâmico', r'Microfone de Lapela',
+    r'Base microfone', r'Pedestal microfone', r'Medusa para microfone', r'Pré-amplificador microfone',
+
+    r'Caixa Acústica', r'Caixa de Som', r'Caixa som', r'Subwoofer', 
+    r'Amplificador de áudio', r'Amplificador som', r'Amplificador fone ouvido'
+    r'Piano', r'Suporte para teclado', r'Mesa áudio', r'Interface de Áudio',
+    
+    r'Pedestal', r'Pedestal caixa acústica', r'Pedal Efeito', r'fone de ouvido', r'headset', 
+    r'Bateria Eletrônica', r'Cabo extensor',r'Tela projeção', r'Projetor Multimídia', 
+
     
 ]
 REGEX_FILTRO = re.compile('|'.join(PALAVRAS_CHAVE), re.IGNORECASE)
