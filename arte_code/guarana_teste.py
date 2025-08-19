@@ -1,8 +1,3 @@
-"""
-Automação para categorização e matching de itens de edital com base de fornecedores usando Google Gemini.
-Versão: 1.2.0
-"""
-
 import pandas as pd
 import google.generativeai as genai
 import os
@@ -15,10 +10,10 @@ modelo = "gemini-2.5-flash-lite"  # Modelo eficiente
 GOOGLE_API_KEY = 'AIzaSyBdrzcton2jUCv5PSaXE38UCp-l8O42Fvc'
 genai.configure(api_key=GOOGLE_API_KEY)
 
-CAMINHO_EDITAL = r"master_teste.xlsx"  # Ajuste caminhos conforme necessário
+CAMINHO_EDITAL = r"mster_estudo.xlsx"  # Ajuste caminhos conforme necessário
 CAMINHO_BASE = r"RESULTADO/produtos_categorizados.xlsx"
 output_dir = r"RESULTADO"
-CAMINHO_SAIDA = os.path.join(output_dir, "arte_heavy_categorizado.xlsx")
+CAMINHO_SAIDA = os.path.join(output_dir, "arte_heavy_categorizado_V3_claude.xlsx")
 
 # --- CARREGAMENTO ---
 try:
@@ -28,6 +23,12 @@ try:
 except FileNotFoundError as e:
     print(f"Erro: {e}")
     exit()
+
+# --- LIMPAR ESPAÇOS DAS COLUNAS ---
+df_base.columns = df_base.columns.str.strip()  # Remove espaços extras das colunas
+
+# --- VERIFICAR AS COLUNAS DE DF_BASE ---
+print("Colunas em df_base:", df_base.columns)
 
 # --- ESTRUTURA DE CATEGORIAS (para prompt) ---
 categorias_prompt = """
@@ -74,7 +75,11 @@ Sem texto extra.
 def selecionar_melhor(model, item_data, base_filtrada_json):
     prompt = f"""
 <identidade>
-Você é um consultor sênior em instrumentos musicais.
+Você é um consultor sênior especializado em licitações públicas governamentais com 20+ anos de experiência em:
+Processos licitatórios para instrumentos musicais, equipamentos de som e áudio profissional
+Domínio completo da Lei 14.133/21 (art. 7º §5º para isonomia)
+Princípios: isonomia, impessoalidade, economicidade e competitividade
+DIRETRIZ CRÍTICA: Priorize sempre o menor preço entre opções ≥80% compatíveis com o edital, sem ultrapassar valores de referência.
 </identidade>
 
 <item_edital>
@@ -90,8 +95,6 @@ Valor Unitário Ref.: {item_data['VALOR_UNIT']}
 Analise tecnicamente os itens de um edital de licitação, buscando correspondência com produtos na base de fornecedores. A saída deve sugerir até 5 itens compatíveis por produto, respeitando critérios técnicos e legais. O objetivo é garantir a proposta mais competitiva, tecnicamente adequada e legalmente defensável.
 Compare apenas com produtos da mesma categoria (ex: microfone com microfone, trompete com trompete, e suas subcategorias tambem, como microfone de lapela com microfone de lapela.).
 Compare especificações técnicas listadas.
-Calcule o índice de compatibilidade:
-compatibilidade = (especificações coincidentes / total de especificações do edital) × 100
 
 Validação:
 Compatibilidade ≥80%: produto é compatível.
@@ -99,22 +102,13 @@ Compatibilidade entre 70% e 80%: produto é alternativa técnica viável.
 
 Priorização entre os compatíveis:
 1) Maior compatibilidade técnica.
-2) Melhor custo-benefício.
+2) 
 3) Menor preço.
-
-Upgrades relevantes (sem custo adicional).
-Lembrete de Conformidade Legal:
-A IA deve considerar os princípios da Lei 14.133/21:
-Isonomia (não favorecer marcas específicas sem justificativa técnica).
-Impessoalidade (análise técnica objetiva).
-Economicidade (propor a melhor relação custo-benefício).
-Competitividade (permitir disputa entre fornecedores equivalentes).
 
 Resumo das Regras-Chave:
 1) Categorias não podem se misturar.
 2) Sempre preferir menor preço compatível.
 3) Upgrades são bem-vindos se não houver aumento de custo.
-4) Tenha certeza que o 
 
 </objetivo>
 
@@ -150,12 +144,17 @@ for idx, row in df_edital.iterrows():
 
     # Passo: Categorizar
     categoria = categorizar_item(model, item_data['DESCRICAO'])
-    time.sleep(2)  # Pausa leve
+    time.sleep(5)  # Pausa leve
 
     # Passo: Filtrar base
     df_filtrado = df_base[df_base['categoria_principal'] == categoria]
+
+    # Passo: Filtrar produtos com VALOR_MARGEM <= VALOR_UNIT
+    # Alterar para verificar a correspondência entre a base de produtos (VALOR_MARGEM) e o edital (VALOR_UNIT)
+    df_filtrado = df_filtrado[df_filtrado['VALOR_MARGEM'] <= item_data['VALOR_UNIT']]  # Usar VALOR_UNIT do edital
+
     if df_filtrado.empty:
-        print(f"⚠️ Sem produtos na categoria {categoria}")
+        print(f"⚠️ Sem produtos na categoria {categoria} com a margem válida")
         colunas = ['N/A', 'N/A', 'N/A', 'N/A', 'N/A', '0%']
     else:
         base_json = df_filtrado[['categoria_principal', 'subcategoria', 'MARCA', 'MODELO', 'VALOR_MARGEM', 'DESCRICAO']].to_json(orient="records", force_ascii=False, indent=2)
@@ -194,3 +193,4 @@ if resultados:
     print(f"✅ Exportado: {CAMINHO_SAIDA}")
 else:
     print("⚠️ Sem resultados")
+

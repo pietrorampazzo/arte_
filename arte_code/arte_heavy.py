@@ -34,13 +34,13 @@ import time
 
 # É uma boa prática carregar chaves de API de variáveis de ambiente para segurança
 # GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY', 'SUA_CHAVE_API_AQUI')
-modelo = "gemini-2.5-flash-lite"
+modelo = "gemini-2.5-flash"
 GOOGLE_API_KEY = 'AIzaSyBdrzcton2jUCv5PSaXE38UCp-l8O42Fvc' # Mantendo como no seu exemplo
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Caminhos para os arquivos
-CAMINHO_EDITAL = r"G:\Meu Drive\arte_comercial\master - Copia.xlsx"
-CAMINHO_BASE = r"C:\Users\pietr\OneDrive\.vscode\arte_\arte_\saida_unificada\produtos_categorizados_v4.xlsx"
+CAMINHO_EDITAL = r"C:\Users\pietr\OneDrive\.vscode\arte_\arte_\arte_\caixas.xlsx"
+CAMINHO_BASE = r"C:\Users\pietr\OneDrive\.vscode\arte_\arte_\arte_\base_produtos.xlsx"
 output_dir = r"C:\Users\pietr\Meu Drive\arte_comercial\RESULTADO"
 
 # --- CARREGAMENTO E PRÉ-PROCESSAMENTO DOS DADOS ---
@@ -86,7 +86,7 @@ for idx, row in df_edital.iterrows():
     # Montagem do prompt
     prompt = f"""
 <identidade>
-Você é um consultor sênior em instrumentos musicais, com mais de 20 anos de experiência.
+Você é um consultor sênior em licitações públicas governamentais, com mais de 20 anos de experiência em processos licitatórios para instrumentos musicais, equipamentos de som, áudio profissional e eletrônicos técnicos. Domina a Lei 14.133/21, princípios como isonomia, impessoalidade, economicidade e competitividade, e critérios para aceitação de marcas/modelos equivalentes. Sua expertise combina análise de aparatos musicais, vendas de equipamentos e avaliação jurídica para impugnações. Sempre, sem ultrapassar valores de referência do edital, priorize o menor preço entre opções compatíveis
 </identidade>
 
 <item_edital>
