@@ -39,8 +39,8 @@ GOOGLE_API_KEY = 'AIzaSyBdrzcton2jUCv5PSaXE38UCp-l8O42Fvc' # Mantendo como no se
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Caminhos para os arquivos
-CAMINHO_EDITAL = r"C:\Users\pietr\OneDrive\.vscode\arte_\arte_\arte_\caixas.xlsx"
-CAMINHO_BASE = r"C:\Users\pietr\OneDrive\.vscode\arte_\arte_\arte_\base_produtos.xlsx"
+CAMINHO_EDITAL = r"C:\Users\pietr\OneDrive\.vscode\arte_\master.xlsx"
+CAMINHO_BASE = r"C:\Users\pietr\OneDrive\.vscode\arte_\base_produtos.xlsx"
 output_dir = r"C:\Users\pietr\Meu Drive\arte_comercial\RESULTADO"
 
 # --- CARREGAMENTO E PRÉ-PROCESSAMENTO DOS DADOS ---

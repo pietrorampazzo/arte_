@@ -10,7 +10,7 @@ modelo = "gemini-2.5-flash-lite"  # Modelo eficiente
 GOOGLE_API_KEY = 'AIzaSyBdrzcton2jUCv5PSaXE38UCp-l8O42Fvc'
 genai.configure(api_key=GOOGLE_API_KEY)
 
-CAMINHO_EDITAL = r"mster_estudo.xlsx"  # Ajuste caminhos conforme necessário
+CAMINHO_EDITAL = r"master.xlsx"  # Ajuste caminhos conforme necessário
 CAMINHO_BASE = r"RESULTADO/produtos_categorizados.xlsx"
 output_dir = r"RESULTADO"
 CAMINHO_SAIDA = os.path.join(output_dir, "arte_heavy_categorizado_V3_claude.xlsx")

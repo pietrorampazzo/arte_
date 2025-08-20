@@ -1,0 +1,233 @@
+# arte_final.py
+# This script will contain the final, robust solution for matching bid items to products.
+# It will implement the logic defined in the plan.
+
+import pandas as pd
+import google.generativeai as genai
+import os
+from dotenv import load_dotenv
+
+# Local imports
+import config
+
+CATEGORIZED_PRODUCTS = config.load_categorized_products("C:/Users/pietr/OneDrive/.vscode/arte_comercial/RESULTADO/produtos_categorizados.xlsx")
+
+def categorize_item(description: str) -> str:
+    """
+    Categorizes an item based on keywords in its description.
+
+    Args:
+        description: The description of the item.
+
+    Returns:
+        The category of the item, or "OUTROS" if no category is found.
+    """
+    # First, check if the description is in the categorized products
+    for product_id, categories in CATEGORIZED_PRODUCTS.items():
+        # Assuming product_id is present in the description
+        if str(product_id) in description:
+            return categories['categoria_principal']  # Return the main category
+
+    # If not found, fallback to keyword-based categorization
+    description_lower = description.lower() # fallback, pode ser removido
+    return "OUTROS" # fallback, pode ser removido
+
+import numpy as np
+import json
+import time
+
+def get_best_match_from_ai(model, item_edital, df_candidates):
+    """
+    Uses the AI model to find the best match from a list of candidate products.
+    """
+    print("   - Asking AI for the best match...")
+
+    # Prepare data for the prompt
+    candidates_json = df_candidates[['DESCRICAO', 'Marca', 'Modelo', 'Valor']].to_json(orient="records", force_ascii=False, indent=2)
+
+    prompt = f"""
+<identidade>
+Você é um consultor sênior em licitações públicas governamentais, com mais de 20 anos de experiência em processos licitatórios para instrumentos musicais, equipamentos de som, áudio profissional e eletrônicos técnicos. Domina a Lei 14.133/21, princípios como isonomia, impessoalidade, economicidade e competitividade. Sua expertise combina análise de aparatos musicais, vendas de equipamentos e avaliação jurídica para impugnações. Sempre, sem ultrapassar valores de referência do edital, priorize o menor preço entre opções compatíveis.
+</identidade>
+
+<item_edital>
+{json.dumps(item_edital.to_dict(), ensure_ascii=False, indent=2)}
+</item_edital>
+
+<base_fornecedores_filtrada>
+{candidates_json}
+</base_fornecedores_filtrada>
+
+<objetivo>
+1.  Analise tecnicamente a 'DESCRICAO' do <item_edital>.
+2.  Compare-a com cada produto na <base_fornecedores_filtrada>.
+3.  Selecione o produto da base que seja **75% compativel** com TODAS as especificações técnicas do edital. Upgrades (especificações superiores) são permitidos e desejáveis.
+4.  Dentro os produtos 75% compatíveis, escolha o de **menor 'Valor'**.
+5.  Responda **apenas** com um objeto JSON contendo os dados do produto escolhido.
+</objetivo>
+
+<formato_saida>
+Responda APENAS com um único objeto JSON. Não inclua ```json, explicações ou qualquer outro texto. O JSON deve ter a seguinte estrutura:
+{{
+  "best_match": {{
+    "Marca": "Marca do Produto",
+    "Modelo": "Modelo do Produto",
+    "Valor": 1234.56,
+    "Descricao_fornecedor": "Descrição completa do produto na base",
+    "Compatibilidade_analise": "Explique brevemente por que este produto é 75% compatível, destacando as especificações que dão match."
+  }}
+}}
+Se nenhum produto for 75% compatível, retorne:
+{{
+  "best_match": null
+}}
+</formato_saida>
+"""
+
+    try:
+        response = model.generate_content(prompt)
+        # Clean the response to ensure it's valid JSON
+        cleaned_response = response.text.strip().replace("```json", "").replace("```", "")
+        return json.loads(cleaned_response)
+    except Exception as e:
+        print(f"   - ERROR during AI call: {e}")
+        print(f"   - AI Response Text: {response.text if 'response' in locals() else 'No response'}")
+        return {"best_match": None}
+
+
+def main():
+    """
+    Main function to orchestrate the product matching process.
+    """
+    print("Starting the product matching process...")
+
+    # Load environment variables (like API key)
+    load_dotenv()
+    api_key = os.getenv("GOOGLE_API_KEY")
+    if not api_key:
+        print("ERROR: GOOGLE_API_KEY not found in .env file.")
+        return
+    genai.configure(api_key=api_key)
+    model = genai.GenerativeModel(config.GEMINI_MODEL)
+
+    # Load data
+    try:
+        df_edital = pd.read_excel(config.CAMINHO_EDITAL)
+        df_base = pd.read_excel(config.CAMINHO_BASE)
+        print(f"✅ Edital loaded: {len(df_edital)} items")
+        print(f"✅ Product base loaded: {len(df_base)} products")
+    except FileNotFoundError as e:
+        print(f"ERROR: Could not load data files. Details: {e}")
+        return
+
+    results = []
+    total_items = len(df_edital)
+
+    # Loop through each item in the bid
+    for idx, item_edital in df_edital.iterrows():
+        print(f"\nProcessing item {idx + 1}/{total_items}: {item_edital['DESCRICAO'][:60]}...")
+        status = ""
+        best_match_data = None
+
+        # --- 1. Profitability Filter ---
+        valor_unit_edital = item_edital['VALOR_UNIT']
+        max_cost = valor_unit_edital * config.INITIAL_PRICE_FILTER_PERCENTAGE
+
+        df_candidates = df_base[df_base['Valor'] <= max_cost].copy()
+
+        if df_candidates.empty:
+            print(f"⚠️ No products found below the max cost of R${max_cost:.2f}.")
+            status = "Nenhum Produto com Margem"
+            # Append result and continue
+            # (Logic to append will be added shortly)
+            continue
+
+        # --- 2. Category Filter ---
+        item_category = categorize_item(item_edital['DESCRICAO'])
+        if item_category != "OUTROS":
+            print(f"   - Item category: {item_category}")
+        else:
+            print(f"   - Item category: not found")
+            
+        df_candidates['categoria'] = df_candidates['DESCRICAO'].apply(categorize_item)
+        df_final_candidates = df_candidates[df_candidates['categoria'] == item_category]
+
+        if df_final_candidates.empty:
+            print(f"⚠️ No products found in the same category '{item_category}' after price filtering.")
+            status = "Nenhum Produto na Categoria"
+            # Append result and continue
+            continue
+
+        print(f"   - Found {len(df_final_candidates)} final candidates after filtering.")
+
+        # --- 3. AI-Powered Matching ---
+        ai_result = get_best_match_from_ai(model, item_edital, df_final_candidates)
+        time.sleep(5) # Basic rate limiting
+
+        if ai_result and ai_result.get("best_match"):
+            best_match_data = ai_result["best_match"]
+            print(f"   - AI recommended: {best_match_data['Marca']} {best_match_data['Modelo']}")
+            # TODO: Implement Code-Side Verification here
+            status = "Match Encontrado"
+        else:
+            print("   - AI could not find a 75% compatible match.")
+            status = "Nenhum Produto Compatível"
+
+        # --- 4. Assemble Result ---
+        result_row = {
+            'ARQUIVO': item_edital['ARQUIVO'],
+            'Nº': item_edital['Nº'],
+            'DESCRICAO_EDITAL': item_edital['DESCRICAO'],
+            'VALOR_UNIT_EDITAL': item_edital['VALOR_UNIT'],
+            'STATUS': status
+        }
+
+        if best_match_data:
+            cost_price = best_match_data.get('Valor', 0)
+            final_price = cost_price * (1 + config.PROFIT_MARGIN)
+            result_row.update({
+                'MARCA_SUGERIDA': best_match_data.get('Marca'),
+                'MODELO_SUGERIDO': best_match_data.get('Modelo'),
+                'CUSTO_FORNECEDOR': cost_price,
+                'PRECO_FINAL_VENDA': final_price,
+                'MARGEM_LUCRO_VALOR': final_price - cost_price,
+                'DESCRICAO_FORNECEDOR': best_match_data.get('Descricao_fornecedor'),
+                'ANALISE_COMPATIBILIDADE': best_match_data.get('Compatibilidade_analise')
+            })
+
+        results.append(result_row)
+
+    print("\nProcess finished. Generating output file...")
+
+    # --- 5. Generate Output File ---
+    if results:
+        df_results = pd.DataFrame(results)
+
+        # Define column order for clarity
+        output_columns = [
+            'ARQUIVO', 'Nº', 'STATUS', 'DESCRICAO_EDITAL', 'VALOR_UNIT_EDITAL',
+            'MARCA_SUGERIDA', 'MODELO_SUGERIDO', 'CUSTO_FORNECEDOR',
+            'PRECO_FINAL_VENDA', 'MARGEM_LUCRO_VALOR', 'DESCRICAO_FORNECEDOR',
+            'ANALISE_COMPATIBILIDADE'
+        ]
+
+        # Ensure all columns exist, fill missing with empty string
+        for col in output_columns:
+            if col not in df_results.columns:
+                df_results[col] = ''
+
+        df_results = df_results[output_columns]
+
+        # Create output directory if it doesn't exist
+        output_dir = os.path.dirname(config.CAMINHO_SAIDA)
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+
+        df_results.to_excel(config.CAMINHO_SAIDA, index=False)
+        print(f"✅ Success! Output file generated at: {config.CAMINHO_SAIDA}")
+    else:
+        print("⚠️ No results were generated to create an output file.")
+
+
+if __name__ == "__main__":
+    main()
