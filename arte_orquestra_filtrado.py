@@ -1,25 +1,24 @@
 """
-Automação e download de editais via Wavecode.
+Sistema de Filtragem Inteligente de Editais para Trello
 
-Procesossos automatizados:
-- Login no Wavecode
-- Download de arquivos .zip e .pdf
-- Tratamento de PDFs e extração de itens para Excel
-- Consolidação em uma planilha de resumo (summary.xlsx)
-- Filtragem de itens relevantes (instrumentos musicais, áudio) para uma planilha master (master.xlsx)
-- Envio de arquivos para Trello
+Este script implementa um sistema que:
+1. Analisa editais baixados via WaveCode
+2. Filtra apenas editais que contêm itens interessantes (instrumentos musicais, áudio, etc.)
+3. Cria cards no Trello apenas para editais qualificados
+4. Gera relatórios de análise
 
 Autor: arte_comercial
-Data: 16/08/2025
-Versão: 1.3.0 (com integração do arte_orca)
+Data: 2025
+Versão: 2.0.0 (Sistema de Filtragem Inteligente)
 """
+
 import os
 import time
 import re
 import zipfile
 import shutil
 from pathlib import Path
-import fitz # PyMuPDF
+import fitz  # PyMuPDF
 import pandas as pd
 import openpyxl
 import requests
@@ -45,36 +44,148 @@ BASE_DIR = r"G:\Meu Drive\arte_comercial"
 DOWNLOAD_DIR = os.path.join(BASE_DIR, "DOWNLOADS")
 ORCAMENTOS_DIR = os.path.join(BASE_DIR, "ORCAMENTOS")
 EXCEL_PATH = os.path.join(BASE_DIR, "EDITAIS_PC.xlsx")
-MASTER_EXCEL = os.path.join(BASE_DIR, "summary.xlsx") # Este é o arquivo de resumo gerado
-FINAL_MASTER_PATH = os.path.join(BASE_DIR, "master.xlsx") # Este será o arquivo final filtrado
+MASTER_EXCEL = os.path.join(BASE_DIR, "summary.xlsx")
+FINAL_MASTER_PATH = os.path.join(BASE_DIR, "master.xlsx")
+RELATORIO_FILTRAGEM = os.path.join(BASE_DIR, "relatorio_filtragem.xlsx")
 
 # Palavras-chave para filtro do arte_orca
 PALAVRAS_CHAVE = [
-    r'Instrumento Musical - Sopro', r'Instrumento Musical - Corda',r'Instrumento Musical - Percursão',
+    r'Instrumento Musical - Sopro', r'Instrumento Musical - Corda', r'Instrumento Musical - Percursão',
     r'Instrumento Musical', r'Peças e acessórios instrumento musical',
-    r'saxofone', r'trompete', r'tuba', r'clarinete', r'óleo lubrificante',r'trompa', r'sax', r'óleos para válvulas',
-    r'violão', r'Guitarra', r'Baixo', r'Violino', r'Viola', r'Cavaquinho',r'Bandolim', r'Ukulele', 
+    r'saxofone', r'trompete', r'tuba', r'clarinete', r'óleo lubrificante', r'trompa', r'sax', r'óleos para válvulas',
+    r'violão', r'Guitarra', r'Baixo', r'Violino', r'Viola', r'Cavaquinho', r'Bandolim', r'Ukulele', 
     r'Microfone', r'Microfone direcional', r'Suporte microfone', r'Microfone Dinâmico', r'Microfone de Lapela',
     r'Base microfone', r'Pedestal microfone', r'Medusa para microfone', r'Pré-amplificador microfone',
-
     r'Caixa Acústica', r'Caixa de Som', r'Caixa som', r'Subwoofer', 
-    r'Amplificador de áudio', r'Amplificador som', r'Amplificador fone ouvido'
+    r'Amplificador de áudio', r'Amplificador som', r'Amplificador fone ouvido',
     r'Piano', r'Suporte para teclado', r'Mesa áudio', r'Interface de Áudio',
-    
     r'Pedestal', r'Pedestal caixa acústica', r'Pedal Efeito', r'fone de ouvido', r'headset', 
-    r'Bateria Eletrônica', r'Cabo extensor',r'Tela projeção', r'Projetor Multimídia', 
-
-    
+    r'Bateria Eletrônica', r'Cabo extensor', r'Tela projeção', r'Projetor Multimídia',
 ]
-REGEX_FILTRO = re.compile('|'.join(PALAVRAS_CHAVE), re.IGNORECASE)
 
+REGEX_FILTRO = re.compile('|'.join(PALAVRAS_CHAVE), re.IGNORECASE)
 
 # Trello API Configuration
 API_KEY = '683cba47b43c3a1cfb10cf809fecb685'
 TOKEN = 'ATTA89e63b1ce30ca079cef748f3a99cda25de9a37f3ba98c35680870835d6f2cae034C088A8'
 LISTAS_PREPARANDO = ['6650f3369bb9bacb525d1dc8']
 
-class WavecodeAutomation:
+class EditalAnalyzer:
+    """Classe para análise e filtragem de editais"""
+    
+    def __init__(self):
+        self.palavras_chave = PALAVRAS_CHAVE
+        self.regex_filtro = REGEX_FILTRO
+        
+    def analisar_edital(self, pdf_path):
+        """
+        Analisa um edital PDF e retorna informações sobre itens interessantes
+        """
+        try:
+            with fitz.open(pdf_path) as doc:
+                text = ""
+                for page in doc:
+                    text += page.get_text()
+            
+            # Extrair itens do texto
+            items = self.extract_items_from_text(text, os.path.basename(pdf_path))
+            
+            # Analisar cada item
+            itens_interessantes = []
+            total_itens = len(items)
+            itens_com_match = 0
+            
+            for item in items:
+                descricao = item.get('DESCRICAO', '')
+                if self.regex_filtro.search(descricao):
+                    itens_com_match += 1
+                    itens_interessantes.append({
+                        'numero_item': item.get('Número do Item', ''),
+                        'descricao': descricao,
+                        'quantidade': item.get('Quantidade Total', 0),
+                        'valor_unitario': item.get('Valor Unitário (R$)', ''),
+                        'valor_total': item.get('Valor Total (R$)', ''),
+                        'palavras_encontradas': self.encontrar_palavras_chave(descricao)
+                    })
+            
+            return {
+                'arquivo': os.path.basename(pdf_path),
+                'total_itens': total_itens,
+                'itens_interessantes': len(itens_interessantes),
+                'percentual_interesse': (len(itens_interessantes) / total_itens * 100) if total_itens > 0 else 0,
+                'itens_detalhados': itens_interessantes,
+                'qualificado': len(itens_interessantes) > 0
+            }
+            
+        except Exception as e:
+            return {
+                'arquivo': os.path.basename(pdf_path),
+                'erro': str(e),
+                'qualificado': False
+            }
+    
+    def encontrar_palavras_chave(self, texto):
+        """Encontra quais palavras-chave estão presentes no texto"""
+        encontradas = []
+        for palavra in self.palavras_chave:
+            if re.search(palavra, texto, re.IGNORECASE):
+                encontradas.append(palavra)
+        return encontradas
+    
+    def extract_items_from_text(self, text, arquivo_nome):
+        """Extrai itens do texto do PDF (método herdado do código original)"""
+        items = []
+        text = re.sub(r'\n+', '\n', text)
+        text = re.sub(r'\s+', ' ', text)
+
+        item_pattern = re.compile(r'(\d+)\s*-\s*([^0-9]+?)(?=Descrição Detalhada:)', re.DOTALL | re.IGNORECASE)
+        item_matches = list(item_pattern.finditer(text))
+
+        for i, match in enumerate(item_matches):
+            item_num = match.group(1).strip()
+            item_nome = match.group(2).strip()
+            start_pos = match.start()
+            end_pos = item_matches[i + 1].start() if i + 1 < len(item_matches) else len(text)
+            item_text = text[start_pos:end_pos]
+
+            descricao_match = re.search(r'Descrição Detalhada:\s*(.*?)(?=Tratamento Diferenciado:)|Aplicabilidade Decreto|$',
+                                       item_text, re.DOTALL | re.IGNORECASE)
+            descricao = ""
+            if descricao_match:
+                descricao = descricao_match.group(1).strip()
+                descricao = re.sub(r'\s+', ' ', descricao)
+                descricao = re.sub(r'[^\w\s:,.()/-]', '', descricao)
+
+            item_completo = f"{item_nome}"
+            if descricao:
+                item_completo += f" {descricao}"
+
+            quantidade_match = re.search(r'Quantidade Total:\s*(\d+)', item_text, re.IGNORECASE)
+            quantidade = quantidade_match.group(1) if quantidade_match else ""
+
+            valor_unitario = ""
+            valor_unitario_match = re.search(r'Valor Unitário[^:]*:\s*R?\$?\s*([\d.,]+)', item_text, re.IGNORECASE)
+            if valor_unitario_match:
+                valor_unitario = valor_unitario_match.group(1)
+
+            valor_total = ""
+            valor_total_match = re.search(r'Valor Total[^:]*:\s*R?\$?\s*([\d.,]+)', item_text, re.IGNORECASE)
+            if valor_total_match:
+                valor_total = valor_total_match.group(1)
+
+            item_data = {
+                "ARQUIVO": arquivo_nome,
+                "Número do Item": item_num,
+                "DESCRICAO": item_completo,
+                "Quantidade Total": int(quantidade) if quantidade.isdigit() else quantidade,
+                "Valor Unitário (R$)": valor_unitario,
+                "Valor Total (R$)": valor_total,
+            }
+            items.append(item_data)
+
+        return items
+
+class WavecodeAutomationFiltrado:
     def __init__(self, debug=True):
         self.download_dir = DOWNLOAD_DIR
         self.orcamentos_dir = ORCAMENTOS_DIR
@@ -84,6 +195,10 @@ class WavecodeAutomation:
         self.driver = None
         self.wait = None
         self.debug = debug
+        self.analyzer = EditalAnalyzer()
+        self.editais_qualificados = []
+        self.editais_rejeitados = []
+        
         os.makedirs(self.download_dir, exist_ok=True)
         os.makedirs(self.orcamentos_dir, exist_ok=True)
         self.processed_cards = set()
@@ -93,18 +208,8 @@ class WavecodeAutomation:
             timestamp = time.strftime("%H:%M:%S")
             print(f"[{timestamp}] {message}")
 
-    def save_debug_screenshot(self, name):
-        if self.debug and self.driver:
-            timestamp = time.strftime("%Y%m%d_%H%M%S")
-            filename = f"debug_{name}_{timestamp}.png"
-            filepath = os.path.join(self.download_dir, filename)
-            try:
-                self.driver.save_screenshot(filepath)
-                self.log(f"📸 Screenshot salvo: {filename}")
-            except Exception as e:
-                self.log(f"❌ Erro ao salvar screenshot: {e}")
-
     def setup_driver(self):
+        """Configura o Chrome WebDriver"""
         self.log("Configurando Chrome WebDriver...")
         chrome_options = Options()
         prefs = {
@@ -135,6 +240,7 @@ class WavecodeAutomation:
             raise
 
     def login(self):
+        """Realiza login no WaveCode"""
         self.log("Acessando portal Wavecode...")
         try:
             self.driver.get(self.base_url)
@@ -155,46 +261,29 @@ class WavecodeAutomation:
 
             if "login" not in self.driver.current_url.lower():
                 self.log("✅ Login bem-sucedido")
-                self.save_debug_screenshot("login_success")
                 return True
             else:
                 self.log("❌ Login falhou: Retornado para a página de login.")
-                self.save_debug_screenshot("login_failed")
                 return False
-        except TimeoutException:
-            self.log("❌ Login falhou: Timeout ao esperar elementos de login.")
-            self.save_debug_screenshot("login_timeout_error")
-            return False
-        except NoSuchElementException:
-            self.log("❌ Login falhou: Elemento de login não encontrado.")
-            self.save_debug_screenshot("login_element_not_found")
-            return False
         except Exception as e:
             self.log(f"❌ Erro no login: {str(e)}")
-            self.save_debug_screenshot("login_unexpected_error")
             return False
 
     def navigate_to_editais(self):
+        """Navega para a seção de editais"""
         self.log("Navegando para seção de editais...")
         try:
             self.driver.get(urljoin(self.base_url, "/prospects/list?company_id=2747"))
-            self.log("Iniciando rolagem para carregar editais...")
             self.scroll_to_load_editais()
-
             self.wait.until(EC.presence_of_element_located((By.XPATH, "//p[contains(text(), 'Disputa:') or contains(text(), 'Edital:')]")))
             self.log("✅ Página de editais carregada.")
-            self.save_debug_screenshot("editais_page_loaded")
             return True
-        except TimeoutException:
-            self.log("❌ Não foi possível carregar a página de editais (Timeout).")
-            self.save_debug_screenshot("editais_load_timeout")
-            return False
         except Exception as e:
             self.log(f"❌ Erro ao navegar para editais: {str(e)}")
-            self.save_debug_screenshot("navigate_editais_error")
             return False
 
     def scroll_to_load_editais(self):
+        """Rola a página para carregar todos os editais"""
         self.log("Rolando página para carregar todos os editais...")
         last_height = self.driver.execute_script("return document.body.scrollHeight")
         while True:
@@ -208,6 +297,7 @@ class WavecodeAutomation:
         self.log("✅ Rolagem concluída!")
 
     def find_download_buttons(self):
+        """Encontra botões de download"""
         self.log("Procurando botões de download...")
         try:
             selectors = [
@@ -231,10 +321,12 @@ class WavecodeAutomation:
             return []
 
     def download_document(self, download_element, uasg, edital, comprador, dia_disputa):
+        """Baixa um documento"""
         try:
             files_before = set(os.listdir(self.download_dir))
             self.driver.execute_script("arguments[0].scrollIntoView(true);", download_element)
             time.sleep(1)
+            
             if download_element.tag_name == 'a':
                 self.driver.execute_script("window.open(arguments[0].href, '_blank');", download_element)
                 self.driver.switch_to.window(self.driver.window_handles[-1])
@@ -243,6 +335,7 @@ class WavecodeAutomation:
                 self.driver.switch_to.window(self.driver.window_handles[0])
             else:
                 download_element.click()
+                
             max_wait = 10
             waited = 0
             while waited < max_wait:
@@ -275,6 +368,7 @@ class WavecodeAutomation:
             return None
 
     def extract_edital_info_from_context(self, download_element, index):
+        """Extrai informações do edital do contexto da página"""
         self.log(f"🔍 Extraindo informações para o item {index+1}...")
         uasg, edital, comprador, dia_disputa = None, None, "Desconhecido", ""
         
@@ -328,21 +422,18 @@ class WavecodeAutomation:
             
             return uasg, edital, comprador, dia_disputa
 
-        except NoSuchElementException as e:
-            self.log(f"❌ Falha ao encontrar o container principal ou um elemento de dados associado ao botão de download: {e}")
-            return str(999 + index).zfill(6), str(index + 1).zfill(8), "Desconhecido", ""
         except Exception as e:
             self.log(f"❌ Erro inesperado na extração de informações do edital: {str(e)}")
             return str(999 + index).zfill(6), str(index + 1).zfill(8), "Desconhecido", ""
 
     def process_editais_page(self, page_num):
+        """Processa uma página de editais com filtragem inteligente"""
         self.log(f"Processando página {page_num}...")
         try:
             download_buttons = self.find_download_buttons()
             
             if not download_buttons:
                 self.log("❌ Nenhum botão de download encontrado nesta página.")
-                self.save_debug_screenshot(f"no_download_buttons_page_{page_num}")
                 return 0
             
             self.log(f"Encontrados {len(download_buttons)} botões de download para processar.")
@@ -354,8 +445,18 @@ class WavecodeAutomation:
                 downloaded_file_name = self.download_document(button, uasg, edital, comprador, dia_disputa)
                 
                 if downloaded_file_name:
+                    # Analisar o edital antes de criar card no Trello
+                    analise = self.analisar_edital_baixado(downloaded_file_name, uasg, edital, comprador, dia_disputa)
+                    
+                    if analise['qualificado']:
+                        self.log(f"✅ Edital QUALIFICADO: {downloaded_file_name}")
+                        self.create_trello_card(uasg, edital, downloaded_file_name, comprador, dia_disputa, analise)
+                        self.editais_qualificados.append(analise)
+                    else:
+                        self.log(f"❌ Edital REJEITADO: {downloaded_file_name}")
+                        self.editais_rejeitados.append(analise)
+                    
                     processed_count += 1
-                    self.create_trello_card(uasg, edital, downloaded_file_name, comprador, dia_disputa)
                 else:
                     self.log(f"Falha ao baixar o edital para o item {index+1}.")
                 
@@ -366,301 +467,108 @@ class WavecodeAutomation:
             
         except Exception as e:
             self.log(f"Erro ao processar a página {page_num}: {str(e)}")
-            self.save_debug_screenshot(f"process_page_{page_num}_error")
             return 0
 
-    def descompactar_arquivos(self, input_dir=None):
-        pasta = Path(input_dir or self.download_dir)
-        for arquivo_zip in pasta.glob("*.zip"):
-            try:
-                with zipfile.ZipFile(arquivo_zip, 'r') as zip_ref:
-                    zip_ref.extractall(pasta / arquivo_zip.stem)
-                arquivo_zip.unlink()
-                self.log(f"✓ Descompactado: {arquivo_zip.name}")
-            except Exception as e:
-                self.log(f"✗ Erro ao descompactar {arquivo_zip.name}: {str(e)}")
-
-    def extrair_e_copiar_pdfs(self, input_dir=None, output_dir=None):
-        pasta_origem = Path(input_dir or self.download_dir)
-        pasta_destino = Path(output_dir or self.download_dir)
-        padrao_relacao = re.compile(r"RelacaoItens\d+\.pdf", re.IGNORECASE)
-        copiados = 0
-        for subpasta in pasta_origem.iterdir():
-            if subpasta.is_dir():
-                for arquivo in subpasta.glob("*.pdf"):
-                    if padrao_relacao.fullmatch(arquivo.name):
-                        nome_pasta = subpasta.name
-                        novo_nome = f"{nome_pasta}.pdf"
-                        destino_final = pasta_destino / novo_nome
-                        shutil.copy2(arquivo, destino_final)
-                        self.log(f"✅ Copiado: {novo_nome}")
-                        copiados += 1
-                        break
-        self.log(f"🎉 {copiados} PDFs movidos")
-
-    def extract_items_from_text(self, text, arquivo_nome):
-        items = []
-        text = re.sub(r'\n+', '\n', text)
-        text = re.sub(r'\s+', ' ', text)
-
-        item_pattern = re.compile(r'(\d+)\s*-\s*([^0-9]+?)(?=Descrição Detalhada:)', re.DOTALL | re.IGNORECASE)
-        item_matches = list(item_pattern.finditer(text))
-
-        for i, match in enumerate(item_matches):
-            item_num = match.group(1).strip()
-            item_nome = match.group(2).strip()
-            start_pos = match.start()
-            end_pos = item_matches[i + 1].start() if i + 1 < len(item_matches) else len(text)
-            item_text = text[start_pos:end_pos]
-
-            descricao_match = re.search(r'Descrição Detalhada:\s*(.*?)(?=Tratamento Diferenciado:)|Aplicabilidade Decreto|$',
-                                       item_text, re.DOTALL | re.IGNORECASE)
-            descricao = ""
-            if descricao_match:
-                descricao = descricao_match.group(1).strip()
-                descricao = re.sub(r'\s+', ' ', descricao)
-                descricao = re.sub(r'[^\w\s:,.()/-]', '', descricao)
-
-            item_completo = f"{item_nome}"
-            if descricao:
-                item_completo += f" {descricao}"
-
-            quantidade_match = re.search(r'Quantidade Total:\s*(\d+)', item_text, re.IGNORECASE)
-            quantidade = quantidade_match.group(1) if quantidade_match else ""
-
-            valor_unitario = ""
-            valor_unitario_match = re.search(r'Valor Unitário[^:]*:\s*R?\$?\s*([\d.,]+)', item_text, re.IGNORECASE)
-            if valor_unitario_match:
-                valor_unitario = valor_unitario_match.group(1)
-
-            valor_total = ""
-            valor_total_match = re.search(r'Valor Total[^:]*:\s*R?\$?\s*([\d.,]+)', item_text, re.IGNORECASE)
-            if valor_total_match:
-                valor_total = valor_total_match.group(1)
-
-            unidade_match = re.search(r'Unidade de Fornecimento:\s*([^0-9\n]+?)(?=\s|$|\n)', item_text, re.IGNORECASE)
-            unidade = unidade_match.group(1).strip() if unidade_match else ""
-
-            intervalo = ""
-            for pattern in [r'Intervalo Mínimo entre Lances[^:]*:\s*R?\$?\s*([\d.,]+)', r'Intervalo[^:]*:\s*R?\$?\s*([\d.,]+)']:
-                intervalo_match = re.search(pattern, item_text, re.IGNORECASE)
-                if intervalo_match:
-                    intervalo = intervalo_match.group(1)
-                    break
-
-            local = ""
-            for pattern in [r'Local de Entrega[^:]*:\s*([^(\n]+?)(?:\s*\(|$|\n)', r'([A-Za-z]+/[A-Z]{2})']:
-                local_match = re.search(pattern, item_text, re.IGNORECASE)
-                if local_match:
-                    local = local_match.group(1).strip()
-                    if local and not local.isdigit():
-                        break
-
-            item_data = {
-                "ARQUIVO": arquivo_nome,
-                "Número do Item": item_num,
-                "Descrição": item_completo,
-                "Quantidade Total": int(quantidade) if quantidade.isdigit() else quantidade,
-                "Valor Unitário (R$)": valor_unitario,
-                "Valor Total (R$)": valor_total,
-                "Unidade de Fornecimento": unidade,
-                "Intervalo Mínimo entre Lances (R$)": intervalo,
-                "Local de Entrega (Quantidade)": local
-            }
-            items.append(item_data)
-
-        return items
-
-    def process_pdf_file(self, pdf_path):
-        self.log(f"Processando: {pdf_path}")
-        text = ""
-        try:
-            with fitz.open(pdf_path) as doc:
-                for page_num, page in enumerate(doc):
-                    page_text = page.get_text()
-                    text += page_text
-        except Exception as e:
-            self.log(f"Erro ao processar PDF {pdf_path}: {e}")
-            return []
-        if not text.strip():
-            self.log(f"  Aviso: Nenhum texto extraído de {pdf_path}")
-            return []
-        return self.extract_items_from_text(text, os.path.basename(pdf_path))
-
-    def tratar_dataframe(self, df):
-        if df.empty:
-            return df
-
-        df = df.rename(columns={
-            'ARQUIVO': 'ARQUIVO',
-            'Número do Item': 'Nº',
-            'Descrição': 'DESCRICAO',
-            'Quantidade Total': 'QTDE',
-            'Valor Unitário (R$)': 'VALOR_UNIT',
-            'Valor Total (R$)': 'VALOR_TOTAL',
-            'Unidade de Fornecimento': 'UNID_FORN',
-            'Intervalo Mínimo entre Lances (R$)': 'INTERVALO_LANCES',
-            'Local de Entrega (Quantidade)': 'LOCAL_ENTREGA'
-        })
-
-        if 'QTDE' in df.columns:
-            df['QTDE'] = pd.to_numeric(df['QTDE'], errors='coerce').fillna(0)
-
-        for col in ['VALOR_UNIT', 'VALOR_TOTAL']:
-            if col in df.columns:
-                df[col] = (
-                    df[col]
-                    .astype(str)
-                    .str.replace('.', '', regex=False)
-                    .str.replace(',', '.', regex=False)
-                )
-                df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0)
-
-        mask = (df['VALOR_UNIT'] == 0) & (df['VALOR_TOTAL'] > 0) & (df['QTDE'] > 0)
-        df.loc[mask, 'VALOR_UNIT'] = df.loc[mask, 'VALOR_TOTAL'] / df.loc[mask, 'QTDE']
-
-        if 'QTDE' in df.columns and 'VALOR_UNIT' in df.columns:
-            df['VALOR_TOTAL'] = df['QTDE'] * df['VALOR_UNIT']
-
-        for col in ['VALOR_UNIT', 'VALOR_TOTAL']:
-            if col in df.columns:
-                df[col] = df[col].apply(lambda x: f"{x:.2f}".replace(".", ","))
-
-        colunas_desejadas = ['ARQUIVO', 'Nº', 'DESCRICAO', 'UNID_FORN', 'QTDE',
-                            'VALOR_UNIT', 'VALOR_TOTAL', 'LOCAL_ENTREGA']
-        colunas_desejadas = [c for c in colunas_desejadas if c in df.columns]
-        outras_colunas = [c for c in df.columns if c not in colunas_desejadas]
-
-        return df[colunas_desejadas + outras_colunas]
-
-    def pdfs_para_xlsx(self, input_dir=None, output_dir=None):
-        input_dir = input_dir or self.download_dir
-        output_dir = output_dir or self.orcamentos_dir
-        os.makedirs(output_dir, exist_ok=True)
-        if not os.path.exists(input_dir):
-            self.log(f"Erro: Diretório de entrada não encontrado: {input_dir}")
-            return
-        pdf_files = [f for f in os.listdir(input_dir) if f.lower().endswith('.pdf')]
-        if not pdf_files:
-            self.log(f"Nenhum arquivo PDF encontrado em: {input_dir}")
-            return
-        self.log(f"Encontrados {len(pdf_files)} arquivos PDF para processar:")
-        for pdf_file in pdf_files:
-            self.log(f"  - {pdf_file}")
-        self.log("-" * 60)
-        for file_name in pdf_files:
-            try:
-                pdf_path = os.path.join(input_dir, file_name)
-                items = self.process_pdf_file(pdf_path)
-                if items:
-                    df = pd.DataFrame(items)
-                    df = self.tratar_dataframe(df)
-                    xlsx_name = os.path.splitext(file_name)[0] + ".xlsx"
-                    output_path = os.path.join(output_dir, xlsx_name)
-                    df.to_excel(output_path, index=False)
-                    self.log(f"✅ Processado: {file_name} → {xlsx_name} ({len(items)} itens)")
-                else:
-                    self.log(f"❌ Nenhum item encontrado em: {file_name}")
-            except Exception as e:
-                self.log(f"❌ Erro ao processar {file_name}: {e}")
-        self.log(f"\nProcessamento concluído! Arquivos salvos em: {output_dir}")
-
-    def clean_dataframe(self, df):
-        if df.empty:
-            return df
-        df = df.replace('', pd.NA)
-        for col in ['Quantidade Total', 'Valor Unitário (R$)', 'Valor Total (R$)', 'Intervalo Mínimo entre Lances (R$)']:
-            if col in df.columns:
-                df[col] = df[col].astype(str).str.replace(' ', '').replace('nan', '')
-        return df
-
-    def combine_excel_files(self, input_dir=None, output_file=None):
-        input_dir = input_dir or self.orcamentos_dir
-        output_file = output_file or MASTER_EXCEL
-        excel_files = [f for f in os.listdir(input_dir) if f.endswith('.xlsx') and f != os.path.basename(output_file)]
-        if not excel_files:
-            self.log("Nenhum arquivo Excel encontrado para combinar.")
-            return
-        dados_combinados = []
-        for arquivo in excel_files:
-            try:
-                xls = pd.ExcelFile(os.path.join(input_dir, arquivo))
-                for nome_planilha in xls.sheet_names:
-                    df = self.clean_dataframe(pd.read_excel(xls, sheet_name=nome_planilha))
-                    df['Arquivo'] = arquivo
-                    df['Planilha'] = nome_planilha
-                    dados_combinados.append(df)
-            except Exception as e:
-                self.log(f"Erro ao processar {arquivo}: {e}")
-        if dados_combinados:
-            df_combinado = pd.concat(dados_combinados, ignore_index=True)
-            df_combinado = self.tratar_dataframe(df_combinado)
-            df_combinado.to_excel(output_file, index=False, sheet_name='Resumo')
-            self.log(f"✅ Master Excel salvo: {output_file}")
-            
-    def filtrar_e_atualizar_master(self):
-        """
-        Filtra itens da planilha de resumo gerada (summary.xlsx) com base em palavras-chave
-        e os adiciona ao topo da planilha principal (master.xlsx).
-        """
-        self.log("Iniciando filtragem de itens para a planilha master...")
+    def analisar_edital_baixado(self, file_name, uasg, edital, comprador, dia_disputa):
+        """Analisa um edital baixado para determinar se é interessante"""
+        self.log(f"🔍 Analisando edital: {file_name}")
         
-        # Passo 1: Carregar summary.xlsx
-        if not os.path.exists(MASTER_EXCEL):
-            self.log(f"❌ Arquivo de resumo não encontrado: {MASTER_EXCEL}. Abortando a filtragem.")
-            return
-
-        df_summary = pd.read_excel(MASTER_EXCEL)
-        self.log(f"Planilha summary carregada: {len(df_summary)} linhas.")
-
-        # Passo 2: Filtrar itens relevantes
-        if 'DESCRICAO' not in df_summary.columns:
-            self.log("❌ Coluna 'DESCRICAO' não encontrada na planilha. Não é possível filtrar.")
-            return
+        file_path = os.path.join(self.download_dir, file_name)
         
-        mask = df_summary['DESCRICAO'].apply(lambda x: bool(REGEX_FILTRO.search(str(x))))
-        df_filtrado = df_summary[mask].copy()
+        # Se for um arquivo ZIP, descompactar primeiro
+        if file_name.endswith('.zip'):
+            try:
+                with zipfile.ZipFile(file_path, 'r') as zip_ref:
+                    extract_dir = os.path.join(self.download_dir, file_name.replace('.zip', ''))
+                    zip_ref.extractall(extract_dir)
+                
+                # Procurar por PDFs na pasta extraída
+                for root, dirs, files in os.walk(extract_dir):
+                    for file in files:
+                        if file.lower().endswith('.pdf'):
+                            pdf_path = os.path.join(root, file)
+                            analise = self.analyzer.analisar_edital(pdf_path)
+                            analise.update({
+                                'uasg': uasg,
+                                'edital': edital,
+                                'comprador': comprador,
+                                'dia_disputa': dia_disputa,
+                                'arquivo_original': file_name
+                            })
+                            return analise
+                
+                # Se não encontrou PDF, retornar como não qualificado
+                return {
+                    'arquivo_original': file_name,
+                    'uasg': uasg,
+                    'edital': edital,
+                    'comprador': comprador,
+                    'dia_disputa': dia_disputa,
+                    'qualificado': False,
+                    'erro': 'Nenhum PDF encontrado no arquivo ZIP'
+                }
+                
+            except Exception as e:
+                return {
+                    'arquivo_original': file_name,
+                    'uasg': uasg,
+                    'edital': edital,
+                    'comprador': comprador,
+                    'dia_disputa': dia_disputa,
+                    'qualificado': False,
+                    'erro': f'Erro ao descompactar: {str(e)}'
+                }
         
-        if df_filtrado.empty:
-            self.log("Nenhum item relevante encontrado para adicionar à master. Encerrando.")
-            return
-            
-        self.log(f"Itens filtrados: {len(df_filtrado)} de {len(df_summary)} totais.")
-
-        # Passo 3: Carregar master.xlsx (ou criar se não existir)
-        if os.path.exists(FINAL_MASTER_PATH):
-            df_master = pd.read_excel(FINAL_MASTER_PATH)
-            self.log(f"Planilha master carregada: {len(df_master)} linhas existentes.")
+        # Se for um PDF direto
+        elif file_name.endswith('.pdf'):
+            analise = self.analyzer.analisar_edital(file_path)
+            analise.update({
+                'uasg': uasg,
+                'edital': edital,
+                'comprador': comprador,
+                'dia_disputa': dia_disputa,
+                'arquivo_original': file_name
+            })
+            return analise
+        
         else:
-            df_master = pd.DataFrame(columns=df_filtrado.columns)
-            self.log("Planilha master não encontrada. Criando uma nova.")
+            return {
+                'arquivo_original': file_name,
+                'uasg': uasg,
+                'edital': edital,
+                'comprador': comprador,
+                'dia_disputa': dia_disputa,
+                'qualificado': False,
+                'erro': 'Formato de arquivo não suportado'
+            }
 
-        # Garantir que as colunas sejam compatíveis
-        for col in df_filtrado.columns:
-            if col not in df_master.columns:
-                df_master[col] = pd.NA
-
-        # Passo 4: Concatenar filtrados no topo e remover duplicatas
-        df_atualizado = pd.concat([df_filtrado, df_master], ignore_index=True)
-        df_atualizado = df_atualizado.drop_duplicates(subset=['ARQUIVO', 'Nº', 'DESCRICAO'], keep='first')
-
-        # Passo 5: Salvar master atualizada
-        df_atualizado.to_excel(FINAL_MASTER_PATH, index=False)
-        self.log(f"✅ Master atualizada salva: {len(df_atualizado)} linhas totais. Novos itens adicionados: {len(df_filtrado)}.")
-
-    def create_trello_card(self, uasg, edital, file_name, comprador, dia_disputa):
+    def create_trello_card(self, uasg, edital, file_name, comprador, dia_disputa, analise):
+        """Cria card no Trello apenas para editais qualificados"""
         try:
-            card_name = f"Comprador: {comprador} - UASG: {uasg} - Edital: {edital}"
+            card_name = f"🎵 {comprador} - UASG: {uasg} - Edital: {edital}"
             
-            clean_file_name = file_name if file_name else "N/A"
-
-            card_description = (
-                f"Arquivo Associado: {clean_file_name}\n"
-                f"Comprador: {comprador}\n"
-                f"UASG: {uasg}\n"
-                f"Edital: {edital}\n"
-                f"Data de Disputa: {dia_disputa if dia_disputa else 'Não especificada'}"
+            # Criar descrição detalhada com informações dos itens interessantes
+            descricao_base = (
+                f"📁 Arquivo: {file_name}\n"
+                f"🏢 Comprador: {comprador}\n"
+                f"🔢 UASG: {uasg}\n"
+                f"📋 Edital: {edital}\n"
+                f"📅 Data de Disputa: {dia_disputa if dia_disputa else 'Não especificada'}\n"
+                f"📊 Total de Itens: {analise.get('total_itens', 0)}\n"
+                f"🎯 Itens Interessantes: {analise.get('itens_interessantes', 0)}\n"
+                f"📈 Percentual de Interesse: {analise.get('percentual_interesse', 0):.1f}%\n\n"
             )
+            
+            # Adicionar detalhes dos itens interessantes
+            if analise.get('itens_detalhados'):
+                descricao_base += "🎵 ITENS INTERESSANTES ENCONTRADOS:\n"
+                for item in analise['itens_detalhados'][:5]:  # Limitar a 5 itens
+                    descricao_base += f"• Item {item['numero_item']}: {item['descricao'][:100]}...\n"
+                    descricao_base += f"  💰 Valor: R$ {item['valor_unitario']} | Qtd: {item['quantidade']}\n"
+                    descricao_base += f"  🏷️ Palavras-chave: {', '.join(item['palavras_encontradas'][:3])}\n\n"
+                
+                if len(analise['itens_detalhados']) > 5:
+                    descricao_base += f"... e mais {len(analise['itens_detalhados']) - 5} itens\n\n"
 
             url = f"https://api.trello.com/1/cards"
             params = {
@@ -668,9 +576,10 @@ class WavecodeAutomation:
                 'token': TOKEN,
                 'idList': LISTAS_PREPARANDO[0],
                 'name': card_name,
-                'desc': card_description
+                'desc': descricao_base
             }
 
+            # Processar data de disputa
             parsed_date_for_trello = None
             if dia_disputa:
                 try:
@@ -690,12 +599,10 @@ class WavecodeAutomation:
                             continue
 
                     if parsed_date:
-                        # Torna a data "aware" em America/Sao_Paulo e envia com offset (-03:00)
                         if ZoneInfo is not None:
                             aware = parsed_date.replace(tzinfo=ZoneInfo("America/Sao_Paulo"))
-                            params['due'] = aware.isoformat(timespec='seconds')  # ex: 2025-08-21T09:00:00-03:00
+                            params['due'] = aware.isoformat(timespec='seconds')
                         else:
-                            # Fallback estático (Brasil sem DST desde 2019): -03:00
                             params['due'] = parsed_date.strftime("%Y-%m-%dT%H:%M:%S-03:00")
 
                         self.log(f"✅ Data de disputa formatada p/ Trello: {params['due']}")
@@ -705,8 +612,6 @@ class WavecodeAutomation:
                 except Exception as date_err:
                     self.log(f"❌ Erro ao processar data de disputa para Trello: {date_err}")
 
-
-            
             response = requests.post(url, params=params)
             response.raise_for_status()
 
@@ -719,10 +624,12 @@ class WavecodeAutomation:
                     'new_card_name': card_name,
                     'uasg': uasg,
                     'numero_pregao': edital,
-                    'downloads_pregao': clean_file_name,
+                    'downloads_pregao': file_name,
                     'comprador': comprador,
                     'dia_pregao': dia_disputa,
-                    'data_do_pregao': parsed_date_for_trello
+                    'data_do_pregao': parsed_date_for_trello,
+                    'itens_interessantes': analise.get('itens_interessantes', 0),
+                    'percentual_interesse': analise.get('percentual_interesse', 0)
                 }, len(self.processed_cards))
                 return True
             else:
@@ -737,6 +644,7 @@ class WavecodeAutomation:
             return False
 
     def register_in_spreadsheet(self, card_data, item_number):
+        """Registra informações na planilha"""
         row_data = [
             item_number,
             datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
@@ -745,7 +653,9 @@ class WavecodeAutomation:
             card_data.get('numero_pregao', ''),
             card_data.get('link_compras_gov', ''),
             card_data.get('downloads_pregao', ''),
-            card_data.get('comprador', '')
+            card_data.get('comprador', ''),
+            card_data.get('itens_interessantes', 0),
+            card_data.get('percentual_interesse', 0)
         ]
         try:
             wb = openpyxl.load_workbook(EXCEL_PATH)
@@ -756,60 +666,100 @@ class WavecodeAutomation:
         except Exception as e:
             self.log(f"❌ Erro ao registrar na planilha: {e}")
 
-    def run(self, max_pages_to_process=5):
-        """
-        Executa o pipeline completo de automação, incluindo a lógica de paginação por número de página.
+    def gerar_relatorio_filtragem(self):
+        """Gera relatório detalhado da filtragem"""
+        self.log("📊 Gerando relatório de filtragem...")
+        
+        # Dados para o relatório
+        dados_relatorio = []
+        
+        # Editais qualificados
+        for edital in self.editais_qualificados:
+            dados_relatorio.append({
+                'Status': 'QUALIFICADO',
+                'Arquivo': edital.get('arquivo_original', ''),
+                'UASG': edital.get('uasg', ''),
+                'Edital': edital.get('edital', ''),
+                'Comprador': edital.get('comprador', ''),
+                'Data Disputa': edital.get('dia_disputa', ''),
+                'Total Itens': edital.get('total_itens', 0),
+                'Itens Interessantes': edital.get('itens_interessantes', 0),
+                'Percentual Interesse': f"{edital.get('percentual_interesse', 0):.1f}%",
+                'Erro': ''
+            })
+        
+        # Editais rejeitados
+        for edital in self.editais_rejeitados:
+            dados_relatorio.append({
+                'Status': 'REJEITADO',
+                'Arquivo': edital.get('arquivo_original', ''),
+                'UASG': edital.get('uasg', ''),
+                'Edital': edital.get('edital', ''),
+                'Comprador': edital.get('comprador', ''),
+                'Data Disputa': edital.get('dia_disputa', ''),
+                'Total Itens': edital.get('total_itens', 0),
+                'Itens Interessantes': edital.get('itens_interessantes', 0),
+                'Percentual Interesse': f"{edital.get('percentual_interesse', 0):.1f}%",
+                'Erro': edital.get('erro', '')
+            })
+        
+        # Criar DataFrame e salvar
+        if dados_relatorio:
+            df_relatorio = pd.DataFrame(dados_relatorio)
+            df_relatorio.to_excel(RELATORIO_FILTRAGEM, index=False)
+            self.log(f"✅ Relatório salvo: {RELATORIO_FILTRAGEM}")
+            
+            # Estatísticas
+            total_editais = len(dados_relatorio)
+            qualificados = len(self.editais_qualificados)
+            rejeitados = len(self.editais_rejeitados)
+            
+            self.log(f"📈 ESTATÍSTICAS DA FILTRAGEM:")
+            self.log(f"   Total de Editais: {total_editais}")
+            self.log(f"   Qualificados: {qualificados} ({qualificados/total_editais*100:.1f}%)")
+            self.log(f"   Rejeitados: {rejeitados} ({rejeitados/total_editais*100:.1f}%)")
+        else:
+            self.log("⚠️ Nenhum dado para gerar relatório")
 
-        :param max_pages_to_process: O número máximo de páginas a serem processadas.
-        """
+    def run(self, max_pages_to_process=5):
+        """Executa o pipeline completo com filtragem inteligente"""
         print("="*60)
-        print("🤖 WAVECODE AUTOMATION - PIPELINE COMPLETO")
+        print("🤖 WAVECODE AUTOMATION - SISTEMA DE FILTRAGEM INTELIGENTE")
         print("="*60)
         
-        self.log(f"[1/5] Baixando editais (processando até {max_pages_to_process} páginas)...")
+        self.log(f"[1/5] Baixando e analisando editais (processando até {max_pages_to_process} páginas)...")
         total_downloads = 0
+        
         try:
             self.setup_driver()
             if self.login() and self.navigate_to_editais():
-                # Loop principal para iterar através dos números de página
                 for page_num in range(1, max_pages_to_process + 1):
                     self.log(f"--- Iniciando ciclo para a Página {page_num} ---")
 
-                    # A partir da segunda página, precisamos navegar explicitamente até ela.
                     if page_num > 1:
                         self.log(f"Navegando para a página de número {page_num}...")
                         try:
-                            # Localizador XPath para encontrar o <li> com o texto exato do número da página.
-                            # Ex: //ul[contains(@class, 'pagination')]//li[text()='2']
                             page_button = self.wait.until(
                                 EC.element_to_be_clickable(
                                     (By.XPATH, f"//ul[contains(@class, 'pagination')]//li[text()='{page_num}']")
                                 )
                             )
-                            # Usamos JavaScript para um clique mais confiável
                             self.driver.execute_script("arguments[0].click();", page_button)
                             self.log(f"✅ Clique direto na página '{page_num}' realizado.")
-
-                            # Pausa e rolagem para garantir que o novo conteúdo seja carregado
                             time.sleep(5)
                             self.scroll_to_load_editais()
-
                         except TimeoutException:
                             self.log(f"⚠️ Página de número '{page_num}' não foi encontrada. Fim da paginação.")
-                            break # Sai do loop principal se a página não existir
+                            break
                         except Exception as e:
                             self.log(f"❌ Erro ao tentar navegar para a página {page_num}: {e}")
-                            self.save_debug_screenshot(f"pagination_error_page_{page_num}")
                             break
 
-                    # Agora que garantimos estar na página correta, processamos os itens.
-                    self.log(f"Processando itens da Página {page_num}...")
                     downloads_in_page = self.process_editais_page(page_num)
                     total_downloads += downloads_in_page
         
         except Exception as e:
             self.log(f"❌ Erro geral na automação: {str(e)}")
-            self.save_debug_screenshot("main_run_error")
         finally:
             if self.driver:
                 self.driver.quit()
@@ -818,25 +768,14 @@ class WavecodeAutomation:
             self.log("⚠️ Nenhum edital foi baixado. Abortando o restante do pipeline.")
             return
         
-        self.log(f"\n[2/5] Descompactando arquivos... (Total de {total_downloads} editais baixados)")
-        self.descompactar_arquivos()
-        
-        self.log("\n[3/5] Extraindo PDFs...")
-        self.extrair_e_copiar_pdfs()
-        
-        self.log("\n[4/5] Convertendo para Excel...")
-        self.pdfs_para_xlsx()
-        
-        self.log("\n[5/5] Gerando master Excel...")
-        self.combine_excel_files()
-        
-        self.log("\n[6/6] Filtrando e atualizando a planilha master final...")
-        self.filtrar_e_atualizar_master()
+        self.log(f"\n[2/2] Gerando relatório de filtragem...")
+        self.gerar_relatorio_filtragem()
 
-        print("\n🎉 PIPELINE CONCLUÍDO!")
-        print(f"📁 Arquivos de orçamento em: {self.orcamentos_dir}")
-        print(f"📊 Master Final Filtrada: {FINAL_MASTER_PATH}")
+        print("\n🎉 PIPELINE DE FILTRAGEM CONCLUÍDO!")
+        print(f"📊 Relatório de Filtragem: {RELATORIO_FILTRAGEM}")
+        print(f"✅ Cards criados no Trello: {len(self.editais_qualificados)}")
+        print(f"❌ Editais rejeitados: {len(self.editais_rejeitados)}")
 
 if __name__ == "__main__":
-    automation = WavecodeAutomation()
+    automation = WavecodeAutomationFiltrado()
     automation.run()

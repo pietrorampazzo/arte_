@@ -4,8 +4,8 @@
 import pandas as pd
 # --- File Paths ---
 # Using relative paths for better portability
-CAMINHO_EDITAL = "master.xlsx"
-CAMINHO_BASE = "base_produtos.xlsx"
+CAMINHO_EDITAL = r'C:\Users\pietr\OneDrive\.vscode\arte_\sheets\EDITAL\master_edital.xlsx'
+CAMINHO_BASE = r'C:\Users\pietr\OneDrive\.vscode\arte_\sheets\RESULTADO_metadados\produtos_categorizados_v2.xlsx'
 CAMINHO_SAIDA = "RESULTADO/propostas_geradas.xlsx"
 
 # --- Financial Parameters ---
@@ -13,7 +13,7 @@ PROFIT_MARGIN = 0.53  # 53%
 INITIAL_PRICE_FILTER_PERCENTAGE = 0.60  # 60%
 
 # --- AI Model Configuration ---
-GEMINI_MODEL = "gemini-2.5-flash"
+GEMINI_MODEL = "gemini-1.5-flash"
 
 # --- Categorization Keywords ---
 # This dictionary will be used for keyword-based categorization.

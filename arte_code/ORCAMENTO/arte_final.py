@@ -6,11 +6,11 @@ import pandas as pd
 import google.generativeai as genai
 import os
 from dotenv import load_dotenv
-
-# Local imports
 import config
 
 CATEGORIZED_PRODUCTS = config.load_categorized_products("C:/Users/pietr/OneDrive/.vscode/arte_comercial/RESULTADO/produtos_categorizados.xlsx")
+GOOGLE_API_KEY = 'AIzaSyBdrzcton2jUCv5PSaXE38UCp-l8O42Fvc' 
+
 
 def categorize_item(description: str) -> str:
     """
@@ -43,7 +43,7 @@ def get_best_match_from_ai(model, item_edital, df_candidates):
     print("   - Asking AI for the best match...")
 
     # Prepare data for the prompt
-    candidates_json = df_candidates[['DESCRICAO', 'Marca', 'Modelo', 'Valor']].to_json(orient="records", force_ascii=False, indent=2)
+    candidates_json = df_candidates[['DESCRICAO', 'MARCA', 'MODELO', 'VALOR_MARGEM']].to_json(orient="records", force_ascii=False, indent=2)
 
     prompt = f"""
 <identidade>
@@ -103,7 +103,7 @@ def main():
 
     # Load environment variables (like API key)
     load_dotenv()
-    api_key = os.getenv("GOOGLE_API_KEY")
+    api_key = GOOGLE_API_KEY
     if not api_key:
         print("ERROR: GOOGLE_API_KEY not found in .env file.")
         return
@@ -133,7 +133,7 @@ def main():
         valor_unit_edital = item_edital['VALOR_UNIT']
         max_cost = valor_unit_edital * config.INITIAL_PRICE_FILTER_PERCENTAGE
 
-        df_candidates = df_base[df_base['Valor'] <= max_cost].copy()
+        df_candidates = df_base[df_base['VALOR_MARGEM'] <= max_cost].copy()
 
         if df_candidates.empty:
             print(f"⚠️ No products found below the max cost of R${max_cost:.2f}.")
@@ -162,7 +162,7 @@ def main():
 
         # --- 3. AI-Powered Matching ---
         ai_result = get_best_match_from_ai(model, item_edital, df_final_candidates)
-        time.sleep(5) # Basic rate limiting
+        time.sleep(15) # Basic rate limiting
 
         if ai_result and ai_result.get("best_match"):
             best_match_data = ai_result["best_match"]

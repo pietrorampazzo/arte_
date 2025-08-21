@@ -22,9 +22,9 @@ import hashlib
 # Makes the script robust by building absolute paths from the project root.
 _SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(_SCRIPT_DIR)
-CAMINHO_DADOS = os.path.join(PROJECT_ROOT, "base_produtos.xlsx")
-PASTA_SAIDA = os.path.join(PROJECT_ROOT, "RESULTADO")
-ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "produtos_categorizados.xlsx")
+CAMINHO_DADOS = r'C:\Users\pietr\OneDrive\.vscode\arte_\base_consolidada.xlsx'
+PASTA_SAIDA = r'C:\Users\pietr\OneDrive\.vscode\arte_\sheets\RESULTADO'
+ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "produtos_categorizados_v2.xlsx")
 
 # LLM Config
 # ATENÇÃO: Substitua pela sua chave de API. Não compartilhe esta chave.
@@ -32,8 +32,9 @@ GOOGLE_API_KEY = 'AIzaSyBdrzcton2jUCv5PSaXE38UCp-l8O42Fvc'
 LLM_MODEL = "gemini-2.5-flash"  # Modelo eficiente
 
 # Parâmetros
-BATCH_SIZE = 30  # Tamanho do batch para chamadas ao LLM
+BATCH_SIZE = 50  # Tamanho do batch para chamadas ao LLM
 MAX_RETRIES = 3  # Número de tentativas em caso de erro
+TEMPO = 15 
 
 # Logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -190,7 +191,7 @@ def processar_produtos():
             batch = df_to_process.iloc[i:i + BATCH_SIZE]
             descricoes_limpas = batch['DESCRICAO_LIMPA'].tolist()
             metadados = processar_batch_llm(model, descricoes_limpas)
-            time.sleep(30)
+            time.sleep(TEMPO)
             if len(metadados) != len(batch):
                 logger.warning(f"Inconsistência no batch {i}. Esperado: {len(batch)}, Recebido: {len(metadados)}. Preenchendo com erro.")
                 metadados = [{'CATEGORIA_PRINCIPAL': 'ERRO_ALINHAMENTO', 'SUBCATEGORIA': 'ERRO_ALINHAMENTO'}] * len(batch)

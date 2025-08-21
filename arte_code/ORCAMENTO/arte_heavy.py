@@ -39,9 +39,9 @@ GOOGLE_API_KEY = 'AIzaSyBdrzcton2jUCv5PSaXE38UCp-l8O42Fvc' # Mantendo como no se
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Caminhos para os arquivos
-CAMINHO_EDITAL = r"C:\Users\pietr\OneDrive\.vscode\arte_\master.xlsx"
-CAMINHO_BASE = r"C:\Users\pietr\OneDrive\.vscode\arte_\base_produtos.xlsx"
-output_dir = r"C:\Users\pietr\Meu Drive\arte_comercial\RESULTADO"
+CAMINHO_EDITAL = r"C:\Users\pietr\OneDrive\.vscode\arte_\sheets\EDITAL\master_edital.xlsx"
+CAMINHO_BASE = r"C:\Users\pietr\OneDrive\.vscode\arte_\sheets\PRODUTOS\base_produtos.xlsx"
+output_dir = r"C:\Users\pietr\OneDrive\.vscode\arte_\sheets\RESULTADO_proposta"
 
 # --- CARREGAMENTO E PRÉ-PROCESSAMENTO DOS DADOS ---
 try:
@@ -55,7 +55,7 @@ except FileNotFoundError as e:
 
 # Pré-processa base para JSON limitado
 # Limitar a base de fornecedores aqui é uma boa estratégia para controlar o tamanho do prompt
-df_base_filtrado = df_base[["DESCRICAO", "Marca", "Modelo", "Valor"]].head(600)
+df_base_filtrado = df_base[["DESCRICAO", "Marca", "Modelo", "Valor"]].head(580)
 base_produtos_json = df_base_filtrado.to_json(orient="records", force_ascii=False, indent=2)
 print(f"✅ Base filtrada: {len(df_base_filtrado)} produtos para análise")
 
