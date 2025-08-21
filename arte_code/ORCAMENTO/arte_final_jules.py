@@ -37,17 +37,26 @@ def get_best_match_from_ai(model, item_edital, df_candidates):
     
     # Prepare data for the prompt 
 
-    candidates_json = df_candidates[['DESCRICAO', 'categoria_principal', 'subcategoria', 'MARCA', 'MODELO', 'VALOR']].to_json(orient="records", force_ascii=False, indent=2)
+    candidates_json = df_candidates[['DESCRICAO', 'categoria_principal', 'subcategoria', 'MARCA', 'MODELO', 'VALOR_MARGEM']].to_json(orient="records", force_ascii=False, indent=2)
     
-    prompt = f"""<identidade>Você é um consultor sênior em licitações públicas governamentais, com mais de 20 anos de experiência em processos licitatórios para instrumentos musicais, equipamentos de som, áudio profissional e eletrônicos técnicos. Domina a Lei 14.133/21, princípios como isonomia, impessoalidade, economicidade e competitividade. Sua expertise combina análise de aparatos musicais, vendas de equipamentos e avaliação jurídica para impugnações. Sempre, sem ultrapassar valores de referência do edital, priorize o menor preço entre opções compatíveis.</identidade>
-<item_edital>{json.dumps(item_edital.to_dict(), ensure_ascii=False, indent=2)}</item_edital>
-<base_fornecedores_filtrada>{candidates_json}</base_fornecedores_filtrada>
+    prompt = f"""
+<identidade>
+Você é um consultor sênior em licitações públicas governamentais, com mais de 20 anos de experiência em processos licitatórios para instrumentos musicais, equipamentos de som, áudio profissional e eletrônicos técnicos. Domina a Lei 14.133/21, princípios como isonomia, impessoalidade, economicidade e competitividade. Sua expertise combina análise de aparatos musicais, vendas de equipamentos e avaliação jurídica para impugnações. Sempre, sem ultrapassar valores de referência do edital, priorize o menor preço entre opções compatíveis.
+</identidade>
+
+<item_edital>
+{json.dumps(item_edital.to_dict(), ensure_ascii=False, indent=2)}
+</item_edital>
+
+<base_fornecedores_filtrada>
+{candidates_json}
+</base_fornecedores_filtrada>
 
 <objetivo>
 1.  Analise tecnicamente a 'DESCRICAO' do <item_edital>.
 2.  Compare-a com cada produto na <base_fornecedores_filtrada>.
-3.  Selecione o produto da base que seja ao menos **95% compativel** com TODAS as especificações técnicas do edital. Upgrades (especificações superiores) são permitidos e desejáveis.
-4.  Dentro os produtos 100% compatíveis, escolha o de **menor 'Valor'**.
+3.  Selecione o produto da base que seja **75% compativel** com TODAS as especificações técnicas do edital. Upgrades (especificações superiores) são permitidos e desejáveis.
+4.  Dentro os produtos 75% compatíveis, escolha o de **menor 'Valor'**.
 5.  Responda **apenas** com um objeto JSON contendo os dados do produto escolhido.
 </objetivo>
 
@@ -59,10 +68,10 @@ Responda APENAS com um único objeto JSON. Não inclua ```json, explicações ou
     "Modelo": "Modelo do Produto",
     "Valor": 1234.56,
     "Descricao_fornecedor": "Descrição completa do produto na base",
-    "Compatibilidade_analise": "Explique brevemente por que este produto é 100% compatível, destacando as especificações que dão match."
+    "Compatibilidade_analise": "Explique brevemente por que este produto é 75% compatível, destacando as especificações que dão match."
   }}
 }}
-Se nenhum produto for 100% compatível, retorne:
+Se nenhum produto for 75% compatível, retorne:
 {{
   "best_match": null
 }}
@@ -99,8 +108,8 @@ def main():
     try:
         df_edital = pd.read_excel(config.CAMINHO_EDITAL)
         df_base = pd.read_excel(config.CAMINHO_BASE)
-        print(f"👾 Edital loaded: {len(df_edital)} items")
-        print(f"📯 Product base loaded: {len(df_base)} products")
+        print(f"✅ Edital loaded: {len(df_edital)} items")
+        print(f"✅ Product base loaded: {len(df_base)} products")
     except FileNotFoundError as e:
         print(f"ERROR: Could not load data files. Details: {e}")
         return
@@ -118,10 +127,10 @@ def main():
         valor_unit_edital = item_edital['VALOR_UNIT']
         max_cost = valor_unit_edital * config.INITIAL_PRICE_FILTER_PERCENTAGE
         
-        df_candidates = df_base[df_base['VALOR'] <= max_cost].copy()
+        df_candidates = df_base[df_base['VALOR_MARGEM'] <= max_cost].copy()
 
         if df_candidates.empty:
-            print(f"- ⚠️ No products found below the max cost of R${max_cost:.2f}.")
+            print(f"⚠️ No products found below the max cost of R${max_cost:.2f}.")
             status = "Nenhum Produto com Margem"
             # Append result and continue
             # (Logic to append will be added shortly)
@@ -129,14 +138,13 @@ def main():
 
         # --- 2. Category Filter ---
         item_category = categorize_item(item_edital['DESCRICAO'])
-        print(f"   - Edital item category identified as: {item_category}")
-        
-        # Correctly filter using the pre-existing 'categoria_principal' column from the product base
-        df_final_candidates = df_candidates[df_candidates['categoria_principal'] == item_category]
+        print(f"   - Item category: {item_category}")
+        df_candidates['categoria'] = df_candidates['DESCRICAO'].apply(categorize_item)
+        df_final_candidates = df_candidates[df_candidates['categoria'] == item_category]
 
         if df_final_candidates.empty:
-            print(f"- ⚠️ - Nenhum produto encontrado na categoria base: '{item_category}' (dentro do filtro de preço!).")
-            status = "Nenhum Produto na Categoria da Base"
+            print(f"⚠️ No products found in the same category '{item_category}' after price filtering.")
+            status = "Nenhum Produto na Categoria"
             # Append result and continue
             continue
         
@@ -144,15 +152,15 @@ def main():
 
         # --- 3. AI-Powered Matching ---
         ai_result = get_best_match_from_ai(model, item_edital, df_final_candidates)
-        time.sleep(10) # Basic rate limiting
+        time.sleep(5) # Basic rate limiting
 
         if ai_result and ai_result.get("best_match"):
             best_match_data = ai_result["best_match"]
-            print(f" ✅  - AI recommended: {best_match_data['Marca']} {best_match_data['Modelo']}")
+            print(f"   - AI recommended: {best_match_data['Marca']} {best_match_data['Modelo']}")
             # TODO: Implement Code-Side Verification here
             status = "Match Encontrado"
         else:
-            print("  ❌ - AI não encontrou um produto compativel.")
+            print("   - AI could not find a 75% compatible match.")
             status = "Nenhum Produto Compatível"
         
         # --- 4. Assemble Result ---

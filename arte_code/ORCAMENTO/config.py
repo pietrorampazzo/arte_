@@ -6,29 +6,31 @@ import pandas as pd
 # Using relative paths for better portability
 CAMINHO_EDITAL = r'C:\Users\pietr\OneDrive\.vscode\arte_\sheets\EDITAL\master_edital.xlsx'
 CAMINHO_BASE = r'C:\Users\pietr\OneDrive\.vscode\arte_\sheets\RESULTADO_metadados\produtos_categorizados_v2.xlsx'
-CAMINHO_SAIDA = "RESULTADO/propostas_geradas.xlsx"
+CAMINHO_SAIDA = "sheets/RESULTADO_proposta/propostas_geradas.xlsx"
 
 # --- Financial Parameters ---
 PROFIT_MARGIN = 0.53  # 53%
 INITIAL_PRICE_FILTER_PERCENTAGE = 0.60  # 60%
 
 # --- AI Model Configuration ---
-GEMINI_MODEL = "gemini-1.5-flash"
+GEMINI_MODEL = "gemini-2.0-flash-lite"
 
 # --- Categorization Keywords ---
 # This dictionary will be used for keyword-based categorization.
 # The keys are the categories, and the values are lists of keywords.
 CATEGORIZATION_KEYWORDS = {
-    "MESA_DE_SOM": ["mesa de som", "mesa digital", "mesa analogica", "mixer"],
-    "MICROFONE": ["microfone", "mic", "lapela", "headset"],
-    "CAIXA_DE_SOM": ["caixa de som", "caixa acustica", "monitor de palco", "subwoofer"],
-    "INSTRUMENTO_SOPRO": ["trompete", "bombardino", "trompa", "trombone", "tuba", "sousafone", "clarinete", "saxofone", "flauta"],
-    "INSTRUMENTO_PERCUSSAO": ["bateria", "bumbo", "timbales", "timpano", "surdo", "tarol", "caixa de guerra", "quadriton", "tambor", "afuché", "prato", "triângulo", "carrilhão", "sino"],
+    'ACESSORIO_CORDA' :['arco','cavalete','corda','corda','kit nut','kit rastilho'],
+    'ACESSORIO_GERAL' :['bag','banco','carrinho prancha','estante de partitura','suporte'],
+    'ACESSORIO_PERCURSSAO' :['baqueta','carrilhão','esteira','Máquina de Hi Hat','Pad para Bumbo','parafuso','pedal de bumbo','pele','prato','sino','talabarte','triângulo'],
+    'ACESSORIO_SOPRO' : ['graxa','oleo lubrificante','palheta de saxofone/clarinete'],
+    'EQUIPAMENTO_AUDIO' : ['fone de ouvido','globo microfone','Interface de guitarra','pedal','mesa de som','microfone'],
+    'EQUIPAMENTO_CABO' : ['cabo CFTV','cabo de rede','caixa medusa','Medusa','P10','P2xP10','painel de conexão','xlr M/F',],
+    'EQUIPAMENTO_SOM' : ['amplificador','caixa de som','cubo para guitarra',],
     "INSTRUMENTO_CORDA": ["violino", "viola", "violão", "guitarra", "baixo", "violoncelo"],
-    "INSTRUMENTO_TECLAS": ["piano", "lira", "teclado digital", "glockenspiel"],
-    "ACESSORIO": ["bocal", "lubrificante", "boquilha", "surdina", "graxa", "lever oil", "oleo", "palheta", "baqueta", "maquina de hi hat", "talabarte", "pele", "esteira", "corda", "arco", "cavalete", "estante", "suporte", "banco", "bag", "case"],
-    "CABO": ["cabo", "hdmi", "xlr", "p10", "p2", "medusa", "cat5", "cftv"],
-    "EQUIPAMENTO_AUDIO": ["amplificador", "cubo", "fone de ouvido", "powerplay"],
+    "INSTRUMENTO_PERCUSSAO": ["afuché", "bateria", "bombo", "bumbo", "caixa de guerra","caixa tenor", "ganza", "pandeiro", "quadriton", "reco reco", "surdo", "tambor", "tarol", "timbales"],
+    "INSTRUMENTO_SOPRO": ["trompete", "bombardino", "trompa", "trombone", "tuba","sousafone", "clarinete", "saxofone", "flauta", "tuba bombardão","flugelhorn","euphonium"],
+    "INSTRUMENTO_TECLAS": ["piano", "teclado digital", "glockenspiel", "metalofone"],
+
 }
 
 # --- Load Categorized Products ---
