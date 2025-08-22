@@ -41,7 +41,7 @@ except Exception:
     ZoneInfo = None
 
 # === Configuration ===
-BASE_DIR = r"G:\Meu Drive\arte_comercial"
+BASE_DIR = r"C:\Users\pietr\Meu Drive\arte_comercial"
 DOWNLOAD_DIR = os.path.join(BASE_DIR, "DOWNLOADS")
 ORCAMENTOS_DIR = os.path.join(BASE_DIR, "ORCAMENTOS")
 EXCEL_PATH = os.path.join(BASE_DIR, "EDITAIS_PC.xlsx")

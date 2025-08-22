@@ -6,7 +6,8 @@ import pandas as pd
 import google.generativeai as genai
 import os
 from dotenv import load_dotenv
-
+import json
+import time
 # Local imports
 import config
 
@@ -15,6 +16,7 @@ def categorize_item(description: str) -> str:
     Categorizes an item based on keywords in its description.
 
     Args:
+
         description: The description of the item.
 
     Returns:
@@ -26,8 +28,7 @@ def categorize_item(description: str) -> str:
             return category
     return "OUTROS"
 
-import json
-import time
+
 
 def get_best_match_from_ai(model, item_edital, df_candidates):
     """
@@ -110,52 +111,44 @@ def main():
 
     # Loop through each item in the bid
     for idx, item_edital in df_edital.iterrows():
-        print(f"\nProcessing item {idx + 1}/{total_items}: {item_edital['DESCRICAO'][:60]}...")
+        descricao = str(item_edital['DESCRICAO'])
+        print(f"\nProcessando item {idx + 1}/{total_items}: {descricao[:60]}...")
         status = ""
         best_match_data = None
 
         # --- 1. Profitability Filter ---
         valor_unit_edital = item_edital['VALOR_UNIT']
         max_cost = valor_unit_edital * config.INITIAL_PRICE_FILTER_PERCENTAGE
-        
         df_candidates = df_base[df_base['VALOR'] <= max_cost].copy()
 
         if df_candidates.empty:
             print(f"- ⚠️ No products found below the max cost of R${max_cost:.2f}.")
             status = "Nenhum Produto com Margem"
-            # Append result and continue
-            # (Logic to append will be added shortly)
-            continue
-
-        # --- 2. Category Filter ---
-        item_category = categorize_item(item_edital['DESCRICAO'])
-        print(f"   - Edital item category identified as: {item_category}")
-        
-        # Correctly filter using the pre-existing 'categoria_principal' column from the product base
-        df_final_candidates = df_candidates[df_candidates['categoria_principal'] == item_category]
-
-        if df_final_candidates.empty:
-            print(f"- ⚠️ - Nenhum produto encontrado na categoria base: '{item_category}' (dentro do filtro de preço!).")
-            status = "Nenhum Produto na Categoria da Base"
-            # Append result and continue
-            continue
-        
-        print(f"   - Found {len(df_final_candidates)} final candidates after filtering.")
-
-        # --- 3. AI-Powered Matching ---
-        ai_result = get_best_match_from_ai(model, item_edital, df_final_candidates)
-        time.sleep(10) # Basic rate limiting
-
-        if ai_result and ai_result.get("best_match"):
-            best_match_data = ai_result["best_match"]
-            print(f" ✅  - AI recommended: {best_match_data['Marca']} {best_match_data['Modelo']}")
-            # TODO: Implement Code-Side Verification here
-            status = "Match Encontrado"
         else:
-            print("  ❌ - AI não encontrou um produto compativel.")
-            status = "Nenhum Produto Compatível"
+            # --- 2. Category Filter ---
+            item_category = categorize_item(item_edital['DESCRICAO'])
+            print(f"   - Item do edital com a categoria: {item_category}")
+            df_final_candidates = df_candidates[df_candidates['categoria_principal'] == item_category]
+
+            if df_final_candidates.empty:
+                print(f"- ⚠️ - Nenhum produto encontrado na categoria base: '{item_category}' (dentro do filtro de preço!).")
+                status = "Nenhum Produto na Categoria da Base"
+            else:
+                print(f"   - Temos {len(df_final_candidates)} candidatos depois da filtragem.")
+                # --- 3. AI-Powered Matching ---
+                ai_result = get_best_match_from_ai(model, item_edital, df_final_candidates)
+                time.sleep(10) # Basic rate limiting
+
+                if ai_result and ai_result.get("best_match"):
+                    best_match_data = ai_result["best_match"]
+                    print(f" ✅  - AI recomenda: {best_match_data['Marca']} {best_match_data['Modelo']}")
+                    status = "Match Encontrado"
+                else:
+                    print("  ❌ - AI não encontrou um produto compativel.")
+                    status = "Nenhum Produto Compatível"
         
         # --- 4. Assemble Result ---
+        # This block is now ALWAYS executed for every item
         result_row = {
             'ARQUIVO': item_edital['ARQUIVO'],
             'Nº': item_edital['Nº'],

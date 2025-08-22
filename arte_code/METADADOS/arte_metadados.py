@@ -24,7 +24,7 @@ _SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(_SCRIPT_DIR)
 CAMINHO_DADOS = r'C:\Users\pietr\OneDrive\.vscode\arte_\base_consolidada.xlsx'
 PASTA_SAIDA = r'C:\Users\pietr\OneDrive\.vscode\arte_\sheets\RESULTADO'
-ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "produtos_categorizados_v2.xlsx")
+ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "produtos_categorizados_v3.xlsx")
 
 # LLM Config
 # ATENÇÃO: Substitua pela sua chave de API. Não compartilhe esta chave.
