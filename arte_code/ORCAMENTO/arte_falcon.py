@@ -10,16 +10,16 @@ import time
 # ============================================================
 
 # --- File Paths ---
-CAMINHO_EDITAL = r'C:\Users\pietr\OneDrive\.vscode\arte_\U_980403_N_900142025.xlsx'
-CAMINHO_BASE = r'C:\Users\pietr\OneDrive\.vscode\arte_\sheets\RESULTADO_metadados\produtos_categorizados_v2.xlsx'
-CAMINHO_SAIDA = "sheets/RESULTADO_proposta/propostas_geradas.xlsx"
+CAMINHO_EDITAL = r"C:\Users\pietr\Meu Drive\arte_comercial\master.xlsx"
+CAMINHO_BASE = r'C:\Users\pietr\OneDrive\.vscode\arte_\sheets\RESULTADO_metadados\produtos_categorizados_v3.xlsx'
+CAMINHO_SAIDA = "sheets/RESULTADO_proposta/master_agosto.xlsx"
 
 # --- Financial Parameters ---
 PROFIT_MARGIN = 0.53  # 53%
 INITIAL_PRICE_FILTER_PERCENTAGE = 0.60  # 60%
 
 # --- AI Model Configuration ---
-GEMINI_MODEL = "gemini-2.5-flash-lite"
+GEMINI_MODEL = "gemini-2.5-flash"
 
 # --- Categorization Keywords ---
 CATEGORIZATION_KEYWORDS = {
@@ -166,7 +166,7 @@ def main():
         }
 
         if best_match_data:
-            cost_price = best_match_data.get('Valor', 0)
+            cost_price = float(best_match_data.get('Valor') or 0)
             final_price = cost_price * (1 + PROFIT_MARGIN)
             result_row.update({
                 'MARCA_SUGERIDA': best_match_data.get('Marca'),

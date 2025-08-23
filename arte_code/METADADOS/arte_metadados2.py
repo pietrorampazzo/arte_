@@ -23,9 +23,9 @@ import hashlib
 # Makes the script robust by building absolute paths from the project root.
 _SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(_SCRIPT_DIR)
-CAMINHO_DADOS = r'C:\Users\pietr\OneDrive\.vscode\arte_\base_consolidada.xlsx'
-PASTA_SAIDA = r'C:\Users\pietr\OneDrive\.vscode\arte_\sheets\RESULTADO'
-ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "produtos_categorizados_v2.xlsx")
+CAMINHO_DADOS = r'C:\Users\pietr\OneDrive\.vscode\arte_\sheets\PRODUTOS\base_produtos_summary.xlsx'
+PASTA_SAIDA = r'C:\Users\pietr\OneDrive\.vscode\arte_\sheets\RESULTADO_metadados'
+ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "produtos_categorizados_v3.xlsx")
 
 # LLM Config
 # ATENÇÃO: Substitua pela sua chave de API. Não compartilhe esta chave.
@@ -35,7 +35,7 @@ LLM_MODEL = "gemini-2.5-flash"  # Modelo eficiente
 # Parâmetros
 BATCH_SIZE = 50  # Tamanho do batch para chamadas ao LLM
 MAX_RETRIES = 3  # Número de tentativas em caso de erro
-TEMPO = 15 
+TEMPO = 5 
 
 # Logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -86,31 +86,18 @@ def processar_batch_llm(model, batch_descricoes):
         "Sua tarefa é classificar cada descrição de produto fornecida usando ESTRITAMENTE as categorias e subcategorias definidas abaixo.\n\n"
         "**ESTRUTURA DE CATEGORIAS (USE APENAS ESTAS):**\n"
 
+        "EQUIPAMENTO_SOM : amplificador,caixa de som,cubo para guitarra\n"
+        "INSTRUMENTO_CORDA: violino, viola, violão, guitarra, baixo, violoncelo\n"
+        "INSTRUMENTO_PERCUSSAO: afuché, bateria, bombo, bumbo, caixa de guerra, ganza, pandeiro, quadriton, reco reco, surdo, tambor, tarol, timbales\n"
+        "INSTRUMENTO_SOPRO: trompete, bombardino, trompa, trombone, tuba,sousafone, clarinete, saxofone, flauta, tuba bombardão,flugelhorn,euphonium\n"
+        "INSTRUMENTO_TECLAS: piano, teclado digital, glockenspiel, metalofone\n"
+        "ACESSORIO_CORDA :arco,cavalete,corda,corda,kit nut,kit rastilho\n"
+        "ACESSORIO_GERAL :bag,banco,carrinho prancha,estante de partitura,suporte\n"
+        "ACESSORIO_PERCURSSAO :baqueta,carrilhão,esteira,Máquina de Hi Hat,Pad para Bumbo,parafuso,pedal de bumbo,pele,prato,sino,talabarte,triângulo\n"
+        "ACESSORIO_SOPRO : graxa,oleo lubrificante,palheta de saxofone/clarinete\n"
+        "EQUIPAMENTO_AUDIO : fone de ouvido,globo microfone,Interface de guitarra,pedal,mesa de som,microfone\n"
+        "EQUIPAMENTO_CABO : cabo CFTV,cabo de rede,caixa medusa,Medusa,P10,P2xP10,painel de conexão,xlr M/F\n"
 
-        "- **INSTRUMENTO_SOPRO**: trompete, bombardino, trompa, trombone, tuba, sousafone, clarinete, saxofone, flauta\n"
-        "- **INSTRUMENTO_PERCUSSAO**: bateria, bumbo, timbales, timpano, surdo, tarol, caixa de guerra, quadriton, tambor, afuché\n"
-        "- **INSTRUMENTO_CORDA**: violino, viola, violão, guitarra, baixo, violoncelo\n"
-        "- **INSTRUMENTO_TECLAS**: piano, Lira, teclado digital, Glockenspiel\n"
-        "- **ACESSORIO_SOPRO**: bocal, Lubrificante, boquilha, surdina, graxa, Lever Oil, oleo lubrificante, palheta de saxofone/clarinete\n"
-        "- **ACESSORIO_PERCUSSAO**: baqueta, Máquina de Hi Hat, talabarte, pele, esteira, prato, triângulo, carrilhão, sino\n"
-        "- **ACESSORIO_CORDA**: corda, arco, cavalete\n"
-        "- **ACESSORIO_GERAL**: estante de partitura, suporte, banco, bag\n"
-        "- **EQUIPAMENTO_SOM**: caixa de som, amplificador, cubo para guitarra\n"
-        "- **EQUIPAMENTO_AUDIO**: microfone, mesa áudio, mesa de som, fone de ouvido\n"
-        "- **EQUIPAMENTO_CABO**: cabo HDMI, xlr M/F, P10, P2xP10, Medusa, caixa medusa, Cabo CAT5e,cabo de rede, cabo CFTV \n"
-        "- **OUTROS**: use esta categoria apenas se o produto não se encaixar em nenhuma das categorias acima.\n\n"
-        
-        "ACESSORIO_CORDA :arco,cavalete,corda,corda,kit nut,kit rastilho"
-        "ACESSORIO_GERAL :bag,banco,carrinho prancha,estante de partitura,suporte"
-        "ACESSORIO_PERCURSSAO :baqueta,carrilhão,esteira,Máquina de Hi Hat,Pad para Bumbo,parafuso,pedal de bumbo,pele,prato,sino,talabarte,triângulo"
-        "ACESSORIO_SOPRO : graxa,oleo lubrificante,palheta de saxofone/clarinete"
-        "EQUIPAMENTO_AUDIO : fone de ouvido,globo microfone,Interface de guitarra,pedal,mesa de som,microfone,"
-        "EQUIPAMENTO_CABO : cabo CFTV,cabo de rede,caixa medusa,Medusa,P10,P2xP10,painel de conexão,xlr M/F"
-        "EQUIPAMENTO_SOM : amplificador,caixa de som,cubo para guitarra,"
-        "INSTRUMENTO_CORDA: violino, viola, violão, guitarra, baixo, violoncelo,"
-        "INSTRUMENTO_PERCUSSAO: afuché, bateria, bombo, bumbo, caixa de guerra, ganza, pandeiro, quadriton, reco reco, surdo, tambor, tarol, timbales,"
-        "INSTRUMENTO_SOPRO: trompete, bombardino, trompa, trombone, tuba,sousafone, clarinete, saxofone, flauta, tuba bombardão,flugelhorn,euphonium,"
-        "INSTRUMENTO_TECLAS: piano, teclado digital, glockenspiel, metalofone,"
         
         "**TAREFA:**\n"
         "Para CADA descrição na lista de entrada (há exatamente {len(batch_descricoes)} itens), determine a `CATEGORIA_PRINCIPAL` e a `SUBCATEGORIA`.\n"

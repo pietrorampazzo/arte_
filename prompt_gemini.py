@@ -15,19 +15,21 @@ genai.configure(api_key=api_key)
 
 # 2. Inicializar o Modelo
 # Escolha o modelo que deseja usar. 'gemini-1.5-flash' é uma ótima opção, rápida e poderosa.
-model = genai.GenerativeModel(model_name='gemini-2.5-flash')
+model = genai.GenerativeModel(model_name='gemini-1.5-flash')
 
 BASE_PRODUTOS = r'C:\Users\pietr\OneDrive\.vscode\arte_\sheets\PRODUTOS\base_consolidada.xlsx'
 
 # 3. A Função para "Promptar"
 def gerar_conteudo():
     """
-    Esta função cria um prompt dinâmico e pede ao modelo para gerar conteúdo.
+    Gemini esta comigo?
     """
 
     prompt = f"""
 
-    Faça uma pesquisa no Google ...
+    O que significa warning: in the working copy of 'arte_code/ORCAMENTO/arte_falcon.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tests/AGENTE_ORCAMENTO/arte_final.py', LF will be replaced by CRLF the next time Git touches it
+
 
     """
 
