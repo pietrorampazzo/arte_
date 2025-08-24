@@ -26,10 +26,8 @@ def gerar_conteudo():
     """
 
     prompt = f"""
-
-    O que significa warning: in the working copy of 'arte_code/ORCAMENTO/arte_falcon.py', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'tests/AGENTE_ORCAMENTO/arte_final.py', LF will be replaced by CRLF the next time Git touches it
-
+    
+ih ah lá, falando em express]ao geminiana, fala mais ai
 
     """
 

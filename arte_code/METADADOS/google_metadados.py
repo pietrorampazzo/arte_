@@ -1,3 +1,4 @@
+
 """
 INDEXADOR OTIMIZADO DE PRODUTOS MUSICAIS
 -----------------------------------------
@@ -14,6 +15,7 @@ import google.generativeai as genai
 import re
 import json
 import hashlib
+from dotenv import load_dotenv
 
 # =====================
 # CONFIGURAÇÕES BÁSICAS
@@ -22,19 +24,21 @@ import hashlib
 # Makes the script robust by building absolute paths from the project root.
 _SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(_SCRIPT_DIR)
-CAMINHO_DADOS = r'C:\Users\pietr\OneDrive\.vscode\arte_\base_consolidada.xlsx'
-PASTA_SAIDA = r'C:\Users\pietr\OneDrive\.vscode\arte_\sheets\RESULTADO'
-ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "produtos_categorizados_v3.xlsx")
+CAMINHO_DADOS = r'C:\Users\pietr\OneDrive\.vscode\arte_\sheets\PRODUTOS\produtos_o4-mini.xlsx'
+PASTA_SAIDA = r'C:\Users\pietr\OneDrive\.vscode\arte_\sheets\RESULTADO_metadados'
+ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "categoria_o4-mini_v3.xlsx")
 
-# LLM Config
-# ATENÇÃO: Substitua pela sua chave de API. Não compartilhe esta chave.
-GOOGLE_API_KEY = 'AIzaSyBdrzcton2jUCv5PSaXE38UCp-l8O42Fvc'
-LLM_MODEL = "gemini-2.5-flash"  # Modelo eficiente
+# --- LLM Config ---
+# A chave de API agora deve ser carregada de um arquivo .env para segurança.
+# Crie um arquivo .env na raiz do projeto com a linha: GOOGLE_API_KEY="sua_chave_aqui"
+load_dotenv()
+LLM_MODEL = "gemini-2.0-flash"  # Modelo eficiente
 
 # Parâmetros
 BATCH_SIZE = 50  # Tamanho do batch para chamadas ao LLM
 MAX_RETRIES = 3  # Número de tentativas em caso de erro
-TEMPO = 15 
+TEMPO = 5  # Delay entre chamadas de batch de categorização
+CURATION_DELAY = 15 # Delay entre chamadas de curadoria para evitar rate limit
 
 # Logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -45,6 +49,10 @@ logger = logging.getLogger(__name__)
 # =====================
 def configurar_llm():
     """Configura e inicializa o modelo de IA generativo."""
+    GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+    if not GOOGLE_API_KEY:
+        logger.error("Chave de API do Google (GOOGLE_API_KEY) não encontrada no arquivo .env.")
+        raise ValueError("GOOGLE_API_KEY não configurada.")
     try:
         genai.configure(api_key=GOOGLE_API_KEY)
         model = genai.GenerativeModel(LLM_MODEL)
@@ -78,24 +86,68 @@ def parse_llm_response(response_text):
     logger.warning("Nenhum JSON válido encontrado na resposta do LLM.")
     return None
 
+def curar_descricao_produto_llm(model, marca, modelo, descricao):
+    """Usa o LLM para pesquisar e criar uma descrição técnica concisa para um produto."""
+    prompt = f"""Você é um especialista em catalogação de produtos musicais e de áudio.
+Sua tarefa é criar uma descrição técnica para o produto abaixo, listando APENAS as especificações mais relevantes e confirmadas.
+Dê um google no produto usando as informações do produto para analise, priorize o site do fabricante ou de algum revendedor confiavel, para captar as informações reais do produto.
+Seu trabalho é fazer uma curadoria digital sobre os produtos, e buscar extidão nas informações.
+
+**Produto para Análise:**
+- **Marca:** {marca}
+- **Modelo:** {modelo}
+- **Descrição Conhecida:** "{descricao}"
+
+**Regras Essenciais:**
+1.  **Foco Total em Dados:** Liste apenas especificações técnicas concretas e verificáveis (ex: material, dimensões, tipo de conexão, resposta de frequência, etc.).
+2.  **Sem "Encheção":** NÃO inclua opiniões, marketing, frases vagas ou comentários.**ISSO É UMA NORMATIVA** diga apenas coisas voltadas ao produto!
+3.  **Omissão é Chave:** Se você não encontrar uma informação com alta certeza, **simplesmente não a mencione**. Não escreva "não encontrado", "desconhecido" ou "N/A". A ausência da informação é preferível.
+4.  **Formato Limpo:** Apresente as especificações como uma lista de características separadas por vírgulas.
+5.  **Relevância:** Forneça apenas especificações que fazem sentido para o tipo de produto. 
+
+**Exemplo (Violão):**
+Tampo em Spruce, laterais e fundo em Mogno, escala em Rosewood, 20 trastes, tarraxas cromadas.
+
+**Exemplo (Microfone):**
+Tipo Condensador, Padrão Polar Cardioide, Resposta de Frequência 20Hz-20kHz, Conexão XLR.
+
+**Descrição Técnica Concisa:**"""
+
+    for attempt in range(MAX_RETRIES):
+        try:
+            response = model.generate_content(prompt)
+            curated_desc = response.text.strip()
+            if curated_desc:
+                return curated_desc
+            else:
+                logger.warning(f"Tentativa de curadoria {attempt + 1} para '{marca} {modelo}' retornou resposta vazia.")
+        except Exception as e:
+            logger.error(f"Erro na API de curadoria (tentativa {attempt + 1}/{MAX_RETRIES}) para '{marca} {modelo}': {e}")
+            time.sleep(2)
+    
+    logger.error(f"Falha ao curar a descrição para '{marca} {modelo}' após {MAX_RETRIES} tentativas. Usando descrição original.")
+    return descricao
+
 def processar_batch_llm(model, batch_descricoes):
     """Envia um batch de descrições para o LLM e processa a resposta."""
     prompt = (
         "Você é um especialista em categorização de produtos para um e-commerce de instrumentos musicais e áudio.\n"
         "Sua tarefa é classificar cada descrição de produto fornecida usando ESTRITAMENTE as categorias e subcategorias definidas abaixo.\n\n"
         "**ESTRUTURA DE CATEGORIAS (USE APENAS ESTAS):**\n"
-        "- **INSTRUMENTO_SOPRO**: trompete, bombardino, trompa, trombone, tuba, sousafone, clarinete, saxofone, flauta\n"
-        "- **INSTRUMENTO_PERCUSSAO**: bateria, bumbo, timbales, timpano, surdo, tarol, caixa de guerra, quadriton, tambor, afuché\n"
-        "- **INSTRUMENTO_CORDA**: violino, viola, violão, guitarra, baixo, violoncelo\n"
-        "- **INSTRUMENTO_TECLAS**: piano, Lira, teclado digital, Glockenspiel\n"
-        "- **ACESSORIO_SOPRO**: bocal, Lubrificante, boquilha, surdina, graxa, Lever Oil, oleo lubrificante, palheta de saxofone/clarinete\n"
-        "- **ACESSORIO_PERCUSSAO**: baqueta, Máquina de Hi Hat, talabarte, pele, esteira, prato, triângulo, carrilhão, sino\n"
-        "- **ACESSORIO_CORDA**: corda, arco, cavalete\n"
-        "- **ACESSORIO_GERAL**: estante de partitura, suporte, banco, bag\n"
-        "- **EQUIPAMENTO_SOM**: caixa de som, amplificador, cubo para guitarra\n"
-        "- **EQUIPAMENTO_AUDIO**: microfone, mesa áudio, mesa de som, fone de ouvido\n"
-        "- **EQUIPAMENTO_CABO**: cabo HDMI, xlr M/F, P10, P2xP10, Medusa, caixa medusa, Cabo CAT5e,cabo de rede, cabo CFTV \n"
-        "- **OUTROS**: use esta categoria apenas se o produto não se encaixar em nenhuma das categorias acima.\n\n"
+
+        "EQUIPAMENTO_SOM : amplificador,caixa de som,cubo para guitarra\n"
+        "INSTRUMENTO_CORDA: violino, viola, violão, guitarra, baixo, violoncelo\n"
+        "INSTRUMENTO_PERCUSSAO: afuché, bateria, bombo, bumbo, caixa de guerra, ganza, pandeiro, quadriton, reco reco, surdo, tambor, tarol, timbales\n"
+        "INSTRUMENTO_SOPRO: trompete, bombardino, trompa, trombone, tuba,sousafone, clarinete, saxofone, flauta, tuba bombardão,flugelhorn,euphonium\n"
+        "INSTRUMENTO_TECLAS: piano, teclado digital, glockenspiel, metalofone\n"
+        "ACESSORIO_CORDA :arco,cavalete,corda,corda,kit nut,kit rastilho\n"
+        "ACESSORIO_GERAL :bag,banco,carrinho prancha,estante de partitura,suporte\n"
+        "ACESSORIO_PERCURSSAO :baqueta,carrilhão,esteira,Máquina de Hi Hat,Pad para Bumbo,parafuso,pedal de bumbo,pele,prato,sino,talabarte,triângulo\n"
+        "ACESSORIO_SOPRO : graxa,oleo lubrificante,palheta de saxofone/clarinete\n"
+        "EQUIPAMENTO_AUDIO : fone de ouvido,globo microfone,Interface de guitarra,pedal,mesa de som,microfone\n"
+        "EQUIPAMENTO_CABO : cabo CFTV,cabo de rede,caixa medusa,Medusa,P10,P2xP10,painel de conexão,xlr M/F\n"
+
+        
         "**TAREFA:**\n"
         "Para CADA descrição na lista de entrada (há exatamente {len(batch_descricoes)} itens), determine a `CATEGORIA_PRINCIPAL` e a `SUBCATEGORIA`.\n"
         "Retorne EXATAMENTE {len(batch_descricoes)} objetos JSON, um por descrição, na ordem da lista.\n\n"
@@ -183,18 +235,36 @@ def processar_produtos():
 
     # 3. Processar apenas os produtos novos com o LLM
     if not df_to_process.empty:
-        logger.info(f"Iniciando processamento de {len(df_to_process)} produtos com o LLM.")
-        df_to_process['DESCRICAO_LIMPA'] = df_to_process['DESCRICAO'].apply(clean_html)
+        logger.info(f"Iniciando processamento de {len(df_to_process)} novos produtos.")
 
+        # --- ETAPA 3.1: CURADORIA DA DESCRIÇÃO (NOVO) ---
+        logger.info(f"Iniciando etapa de curadoria para {len(df_to_process)} produtos.")
+        curated_descriptions = []
+        for _, row in tqdm(df_to_process.iterrows(), total=df_to_process.shape[0], desc="Curando descrições de produtos"):
+            original_desc = clean_html(row['DESCRICAO'])
+            curated_desc = curar_descricao_produto_llm(
+                model,
+                row.get('MARCA', 'N/A'),
+                row.get('MODELO', 'N/A'),
+                original_desc
+            )
+            curated_descriptions.append(curated_desc)
+            time.sleep(CURATION_DELAY)
+        
+        df_to_process['DESCRICAO_CURADA'] = curated_descriptions
+
+        # --- ETAPA 3.2: CATEGORIZAÇÃO EM BATCH ---
+        logger.info("Iniciando etapa de categorização em batch.")
         metadados_all = []
-        for i in tqdm(range(0, len(df_to_process), BATCH_SIZE), desc="Processando batches de produtos"):
-            batch = df_to_process.iloc[i:i + BATCH_SIZE]
-            descricoes_limpas = batch['DESCRICAO_LIMPA'].tolist()
-            metadados = processar_batch_llm(model, descricoes_limpas)
+        descricoes_para_categorizar = df_to_process['DESCRICAO_CURADA'].tolist()
+
+        for i in tqdm(range(0, len(descricoes_para_categorizar), BATCH_SIZE), desc="Categorizando produtos"):
+            batch_descricoes = descricoes_para_categorizar[i:i + BATCH_SIZE]
+            metadados = processar_batch_llm(model, batch_descricoes)
             time.sleep(TEMPO)
-            if len(metadados) != len(batch):
-                logger.warning(f"Inconsistência no batch {i}. Esperado: {len(batch)}, Recebido: {len(metadados)}. Preenchendo com erro.")
-                metadados = [{'CATEGORIA_PRINCIPAL': 'ERRO_ALINHAMENTO', 'SUBCATEGORIA': 'ERRO_ALINHAMENTO'}] * len(batch)
+            if len(metadados) != len(batch_descricoes):
+                logger.warning(f"Inconsistência no batch {i}. Esperado: {len(batch_descricoes)}, Recebido: {len(metadados)}. Preenchendo com erro.")
+                metadados = [{'CATEGORIA_PRINCIPAL': 'ERRO_ALINHAMENTO', 'SUBCATEGORIA': 'ERRO_ALINHAMENTO'}] * len(batch_descricoes)
             metadados_all.extend(metadados)
 
         df_metadados = pd.DataFrame(metadados_all)
@@ -202,7 +272,8 @@ def processar_produtos():
         df_metadados.reset_index(drop=True, inplace=True)
 
         df_newly_processed = pd.concat([df_to_process, df_metadados], axis=1)
-        df_newly_processed = df_newly_processed.drop(columns=['DESCRICAO_LIMPA'])
+        df_newly_processed['DESCRICAO'] = df_newly_processed['DESCRICAO_CURADA'] # Substitui a descrição original pela curada
+        df_newly_processed = df_newly_processed.drop(columns=['DESCRICAO_CURADA'])
 
         # Combina os produtos existentes com os recém-processados
         df_final = pd.concat([df_existing_processed, df_newly_processed], ignore_index=True)
