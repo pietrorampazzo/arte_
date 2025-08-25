@@ -32,7 +32,7 @@ ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "categoria_o4-mini_v3.xlsx")
 # A chave de API agora deve ser carregada de um arquivo .env para segurança.
 # Crie um arquivo .env na raiz do projeto com a linha: GOOGLE_API_KEY="sua_chave_aqui"
 load_dotenv()
-LLM_MODEL = "gemini-2.0-flash"  # Modelo eficiente
+LLM_MODEL = "gemini-2.5-flash-lite"  # Modelo eficiente
 
 # Parâmetros
 BATCH_SIZE = 50  # Tamanho do batch para chamadas ao LLM

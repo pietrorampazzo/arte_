@@ -56,11 +56,9 @@ PALAVRAS_CHAVE = [
     r'violão', r'Guitarra', r'Baixo', r'Violino', r'Viola', r'Cavaquinho',r'Bandolim', r'Ukulele', 
     r'Microfone', r'Microfone direcional', r'Suporte microfone', r'Microfone Dinâmico', r'Microfone de Lapela',
     r'Base microfone', r'Pedestal microfone', r'Medusa para microfone', r'Pré-amplificador microfone',
-
     r'Caixa Acústica', r'Caixa de Som', r'Caixa som', r'Subwoofer', 
     r'Amplificador de áudio', r'Amplificador som', r'Amplificador fone ouvido'
     r'Piano', r'Suporte para teclado', r'Mesa áudio', r'Interface de Áudio',
-    
     r'Pedestal', r'Pedestal caixa acústica', r'Pedal Efeito', r'fone de ouvido', r'headset', 
     r'Bateria Eletrônica', r'Cabo extensor',r'Tela projeção', r'Projetor Multimídia', 
     
