@@ -1,290 +1,247 @@
 """
-Nipsey.py - Orquestrador para automação contínua de licitações governamentais.
+ORQUESTRADOR PRINCIPAL - SISTEMA DE AUTOMAÇÃO ARTE
+==================================================
 
-Funcionalidades:
-- Agenda execução diária às 08:00.
-- Executa arte_orquestra_gemini.py para baixar editais e atualizar master.xlsx.
-- Executa arte_heavy2.py para mapear fornecedores e gerar orçamento.
-- Cria/atualiza cards no Trello com markdown organizado e anexa PDFs (RelacaoItens.pdf) e orçamento (master_proposta_corzinha.xlsx).
-- Mantém log detalhado para auditoria.
+Este script coordena todos os processos de automação:
+1. Download de editais (arte_orquestra.py)
+2. Processamento de metadados (arte_metadados.py) 
+3. Matching de produtos (arte_heavy.py)
 
 Autor: arte_comercial
-Data: 25/08/2025
+Data: 2025
 Versão: 1.0.0
 """
+
 import os
 import sys
 import time
-import logging
-import re
-import json
-from datetime import datetime
 import subprocess
-import schedule
-import requests
-import pandas as pd
-from hashlib import md5
-from pathlib import Path
-
-# === Configurações ===
-BASE_DIR = r"C:\Users\pietr\Meu Drive\arte_comercial"
-LOG_DIR = os.path.join(BASE_DIR, "LOGS")
-ARTE_ORQUESTRA_SCRIPT = os.path.join(BASE_DIR, "arte_orquestra_gemini.py")
-ARTE_HEAVY_SCRIPT = os.path.join(BASE_DIR, "arte_heavy2.py")
-MASTER_XLSX = os.path.join(BASE_DIR, "master.xlsx")
-PROPOSTA_XLSX = os.path.join(BASE_DIR, "sheets/RESULTADO_proposta/master_proposta_corzinha.xlsx")
-DOWNLOAD_DIR = os.path.join(BASE_DIR, "DOWNLOADS")
-LIVRO_RAZAO_PATH = os.path.join(BASE_DIR, "livro_razao.xlsx")
-
-# Configurações Trello
-API_KEY = "683cba47b43c3a1cfb10cf809fecb685"
-TOKEN = "ATTA89e63b1ce30ca079cef748f3a99cda25de9a37f3ba98c35680870835d6f2cae034C088A8"
-LISTA_PREPARANDO = "6650f3369bb9bacb525d1dc8"  # ID da lista do Trello
+from datetime import datetime
+import logging
 
 # Configuração de logging
-os.makedirs(LOG_DIR, exist_ok=True)
-LOG_FILE = os.path.join(LOG_DIR, f"nipsey_{datetime.now().strftime('%Y%m%d')}.log")
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    handlers=[
-        logging.FileHandler(LOG_FILE),
-        logging.StreamHandler(sys.stdout)
-    ]
-)
-logger = logging.getLogger()
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+# Evita a duplicação de logs se o script for importado em outro lugar
+if logger.hasHandlers():
+    logger.handlers.clear()
 
-# === Funções de Suporte ===
-def run_script(script_path, script_name):
-    """Executa um script Python e registra o resultado."""
-    logger.info(f"Iniciando execução do script: {script_name}")
-    start_time = time.time()
-    
-    try:
-        result = subprocess.run(
-            [sys.executable, script_path],
-            capture_output=True,
-            text=True,
-            check=True
-        )
-        logger.info(f"Script {script_name} concluído em {time.time() - start_time:.2f} segundos.")
-        logger.debug(f"Saída do {script_name}:\n{result.stdout}")
-        if result.stderr:
-            logger.warning(f"Avisos/Erros do {script_name}:\n{result.stderr}")
+formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+
+# File handler com UTF-8
+file_handler = logging.FileHandler('arte_orchestrator.log', mode='a', encoding='utf-8')
+file_handler.setFormatter(formatter)
+logger.addHandler(file_handler)
+
+# Stream handler (console) com UTF-8
+# Força o stdout a usar UTF-8. Essencial para o Windows.
+try:
+    sys.stdout.reconfigure(encoding='utf-8')
+    sys.stderr.reconfigure(encoding='utf-8')
+except (TypeError, AttributeError):
+    # Passa se a reconfiguração não for suportada (ex: em alguns IDEs ou versões do Python)
+    pass
+stream_handler = logging.StreamHandler(sys.stdout)
+stream_handler.setFormatter(formatter)
+logger.addHandler(stream_handler)
+
+# Configurações de caminhos
+BASE_DIR = r"C:\Users\pietr\OneDrive\.vscode\arte_"
+DOWNLOADS_DIR = os.path.join(BASE_DIR, "DOWNLOADS")
+SCRIPTS_DIR = os.path.join(BASE_DIR, "arte_code")
+
+# Caminhos dos scripts
+DOWNLOAD_SCRIPT = os.path.join(SCRIPTS_DIR, "DOWNLOAD", "arte_orquestra.py")
+METADADOS_SCRIPT = os.path.join(SCRIPTS_DIR, "METADADOS", "arte_metadados.py")
+HEAVY_SCRIPT = os.path.join(SCRIPTS_DIR, "ORCAMENTO", "arte_heavy.py")
+
+class ArteOrchestrator:
+    def __init__(self):
+        self.start_time = datetime.now()
+        self.log_file = f"arte_orchestrator_{self.start_time.strftime('%Y%m%d_%H%M%S')}.log"
+        
+    def log_step(self, step_name, message):
+        """Registra um passo do processo"""
+        timestamp = datetime.now().strftime("%H:%M:%S")
+        logger.info(f"[{timestamp}] {step_name}: {message}")
+        
+    def check_prerequisites(self):
+        """Verifica se todos os pré-requisitos estão atendidos"""
+        self.log_step("VERIFICAÇÃO", "Verificando pré-requisitos...")
+        
+        # Verificar se os diretórios existem
+        required_dirs = [BASE_DIR, DOWNLOADS_DIR, SCRIPTS_DIR]
+        for dir_path in required_dirs:
+            if not os.path.exists(dir_path):
+                logger.error(f"❌ Diretório não encontrado: {dir_path}")
+                return False
+                
+        # Verificar se os scripts existem
+        required_scripts = [DOWNLOAD_SCRIPT, METADADOS_SCRIPT, HEAVY_SCRIPT]
+        for script_path in required_scripts:
+            if not os.path.exists(script_path):
+                logger.error(f"❌ Script não encontrado: {script_path}")
+                return False
+                
+        # Verificar arquivo .env
+        env_file = os.path.join(BASE_DIR, ".env")
+        if not os.path.exists(env_file):
+            logger.warning(f"⚠️ Arquivo .env não encontrado em: {env_file}")
+            logger.warning("Certifique-se de que a GOOGLE_API_KEY está configurada")
+        
+        self.log_step("VERIFICAÇÃO", "✅ Todos os pré-requisitos atendidos")
         return True
-    except subprocess.CalledProcessError as e:
-        logger.error(f"Erro ao executar {script_name}: {e}")
-        logger.error(f"Saída de erro: {e.stderr}")
-        return False
-    except Exception as e:
-        logger.error(f"Erro inesperado ao executar {script_name}: {e}")
-        return False
-
-def load_processed_cards():
-    """Carrega cards já criados no Trello para evitar duplicatas."""
-    try:
-        url = f"https://api.trello.com/1/lists/{LISTA_PREPARANDO}/cards?key={API_KEY}&token={TOKEN}"
-        response = requests.get(url)
-        response.raise_for_status()
-        cards = response.json()
-        processed = {re.search(r'Edital: (\d+)', card['name']).group(1) for card in cards if re.search(r'Edital: (\d+)', card['name'])}
-        logger.info(f"Carregados {len(processed)} cards existentes do Trello.")
-        return processed
-    except Exception as e:
-        logger.error(f"Erro ao carregar cards do Trello: {e}")
-        return set()
-
-def generate_markdown_for_card(edital, df_proposta, df_master):
-    """Gera conteúdo em markdown para o card do Trello."""
-    df_edital = df_master[df_master['ARQUIVO'].str.contains(str(edital), na=False)]
-    df_proposta_edital = df_proposta[df_proposta['ARQUIVO'].str.contains(str(edital), na=False)] if os.path.exists(PROPOSTA_XLSX) else pd.DataFrame()
-
-    if df_edital.empty:
-        return "Nenhum item encontrado para este edital."
-
-    markdown = "## Itens do Edital\n"
-    markdown += "| Nº | Descrição | Unidade | Qtde | Valor Unit. | Valor Total | Local Entrega | Intervalo Lances |\n"
-    markdown += "|----|-----------|---------|------|-------------|-------------|---------------|------------------|\n"
-    
-    for _, row in df_edital.iterrows():
-        markdown += (
-            f"| {row['Nº']} | {row['DESCRICAO'][:100]}... | {row.get('UNID_FORN', 'N/A')} | {row.get('QTDE', 'N/A')} | "
-            f"{row.get('VALOR_UNIT', 'N/A')} | {row.get('VALOR_TOTAL', 'N/A')} | {row.get('LOCAL_ENTREGA', 'N/A')} | "
-            f"{row.get('INTERVALO_LANCES', 'N/A')} |\n"
-        )
-
-    if not df_proposta_edital.empty:
-        markdown += "\n## Sugestões de Fornecedores\n"
-        for _, row in df_proposta_edital.iterrows():
-            markdown += f"**Item Nº {row['Nº']} - {row['DESCRICAO_EDITAL'][:50]}...**\n"
-            markdown += f"- **Marca**: {row.get('MARCA_SUGERIDA', 'N/A')}\n"
-            markdown += f"- **Modelo**: {row.get('MODELO_SUGERIDO', 'N/A')}\n"
-            markdown += f"- **Valor**: R$ {row.get('CUSTO_FORNECEDOR', 'N/A')} (+53%) = R$ {row.get('PRECO_FINAL_VENDA', 'N/A')}\n"
-            markdown += f"- **Descrição Fornecedor**: {row.get('DESCRICAO_FORNECEDOR', 'N/A')}\n"
-            markdown += f"- **Análise de Compatibilidade**: {row.get('ANALISE_COMPATIBILIDADE', 'N/A')}\n\n"
-
-    return markdown
-
-def create_or_update_trello_card(uasg, edital, file_name, comprador, dia_disputa, df_proposta, df_master):
-    """Cria ou atualiza um card no Trello com anexos."""
-    card_name = f"Comprador: {comprador} - UASG: {uasg} - Edital: {edital}"
-    card_description = (
-        f"**Detalhes do Edital**\n"
-        f"- Arquivo: {file_name}\n"
-        f"- Comprador: {comprador}\n"
-        f"- UASG: {uasg}\n"
-        f"- Edital: {edital}\n"
-        f"- Data de Disputa: {dia_disputa if dia_disputa else 'Não especificada'}\n"
-    )
-
-    # Gerar markdown com itens e sugestões
-    markdown_content = generate_markdown_for_card(edital, df_proposta, df_master)
-    card_description += f"\n{markdown_content}"
-
-    # Converter data de disputa para formato Trello
-    due_date = None
-    if dia_disputa:
+        
+    def run_script(self, script_path, script_name):
+        """
+        Executa um script Python e transmite toda a sua saída (stdout e stderr) em tempo real.
+        """
+        self.log_step(script_name, f"Iniciando execução...")
+        original_dir = os.getcwd()
+        process = None
         try:
-            possible_formats = ["%d-%m-%Y - %H:%M", "%d/%m/%Y - %H:%M", "%Y-%m-%d %H:%M", "%Y/%m/%d %H:%M"]
-            for fmt in possible_formats:
-                try:
-                    parsed_date = datetime.strptime(dia_disputa.replace('h', ':').replace('m', ''), fmt)
-                    due_date = parsed_date.strftime("%Y-%m-%dT%H:%M:%S-03:00")
-                    break
-                except ValueError:
-                    continue
-        except Exception as e:
-            logger.error(f"Erro ao processar data de disputa: {e}")
+            script_dir = os.path.dirname(script_path)
+            os.chdir(script_dir)
 
-    # Verificar se o card já existe
-    processed_cards = load_processed_cards()
-    card_id = None
-    if str(edital) in processed_cards:
-        logger.info(f"Card para edital {edital} já existe. Atualizando...")
-        # Buscar ID do card
-        url = f"https://api.trello.com/1/lists/{LISTA_PREPARANDO}/cards?key={API_KEY}&token={TOKEN}"
-        response = requests.get(url)
-        for card in response.json():
-            if re.search(rf'Edital: {edital}\b', card['name']):
-                card_id = card['id']
-                break
-        if card_id:
-            url = f"https://api.trello.com/1/cards/{card_id}?key={API_KEY}&token={TOKEN}"
-            params = {'desc': card_description}
-            if due_date:
-                params['due'] = due_date
-            response = requests.put(url, params=params)
-            logger.info(f"Card atualizado: {card_name}")
-    else:
-        # Criar novo card
-        url = f"https://api.trello.com/1/cards?key={API_KEY}&token={TOKEN}"
-        params = {
-            'name': card_name,
-            'desc': card_description,
-            'idList': LISTA_PREPARANDO
-        }
-        if due_date:
-            params['due'] = due_date
-        response = requests.post(url, params=params)
-        if response.status_code == 200:
-            card_id = response.json()['id']
-            logger.info(f"Card criado: {card_name} (ID: {card_id})")
-        else:
-            logger.error(f"Falha ao criar card: {response.text}")
+            env = os.environ.copy()
+            env["PYTHONUTF8"] = "1"
+
+            process = subprocess.Popen(
+                [sys.executable, "-u", script_path],
+                stdout=subprocess.PIPE,
+                stderr=subprocess.STDOUT,
+                text=True,
+                encoding='utf-8',
+                errors='replace',
+                env=env
+            )
+
+            if process.stdout:
+                for line in iter(process.stdout.readline, ''):
+                    logger.info(f"[{script_name}] {line.strip()}")
+
+            process.wait(timeout=3600)
+
+            if process.returncode == 0:
+                self.log_step(script_name, "✅ Executado com sucesso")
+                return True
+            else:
+                self.log_step(script_name, f"❌ Erro na execução (código {process.returncode})")
+                return False
+
+        except subprocess.TimeoutExpired:
+            self.log_step(script_name, "❌ Timeout - script demorou mais de 1 hora")
+            if process:
+                process.kill()
             return False
-
-    # Anexar arquivos
-    if card_id:
-        # Anexar RelacaoItens.pdf
-        file_path = os.path.join(DOWNLOAD_DIR, f"{file_name.replace('.zip', '')}/RelacaoItens.pdf")
-        if os.path.exists(file_path):
-            with open(file_path, 'rb') as f:
-                files = {'file': f}
-                attach_url = f"https://api.trello.com/1/cards/{card_id}/attachments?key={API_KEY}&token={TOKEN}"
-                response = requests.post(attach_url, files=files)
-                if response.status_code == 200:
-                    logger.info(f"Anexo adicionado: {file_path}")
-                else:
-                    logger.error(f"Falha ao anexar {file_path}: {response.text}")
-
-        # Anexar master_proposta_corzinha.xlsx
-        if os.path.exists(PROPOSTA_XLSX):
-            with open(PROPOSTA_XLSX, 'rb') as f:
-                files = {'file': f}
-                attach_url = f"https://api.trello.com/1/cards/{card_id}/attachments?key={API_KEY}&token={TOKEN}"
-                response = requests.post(attach_url, files=files)
-                if response.status_code == 200:
-                    logger.info(f"Anexo adicionado: {PROPOSTA_XLSX}")
-                else:
-                    logger.error(f"Falha ao anexar {PROPOSTA_XLSX}: {response.text}")
-
-    return True
-
-def pipeline_diario():
-    """Executa o pipeline completo: extração, mapeamento e atualização no Trello."""
-    logger.info("="*60)
-    logger.info(f"Iniciando pipeline diário - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-    logger.info("="*60)
-
-    # Passo 1: Executar arte_orquestra_gemini.py
-    logger.info("Passo 1: Extraindo editais (arte_orquestra_gemini.py)")
-    success_orquestra = run_script(ARTE_ORQUESTRA_SCRIPT, "arte_orquestra_gemini.py")
-    
-    if not success_orquestra:
-        logger.error("Falha na extração de editais. Abortando pipeline.")
-        return
-
-    # Verificar se master.xlsx foi gerado/atualizado
-    if not os.path.exists(MASTER_XLSX):
-        logger.error(f"Arquivo master.xlsx não encontrado em {MASTER_XLSX}. Abortando mapeamento.")
-        return
-
-    # Passo 2: Executar arte_heavy2.py
-    logger.info("Passo 2: Mapeando fornecedores (arte_heavy2.py)")
-    success_heavy = run_script(ARTE_HEAVY_SCRIPT, "arte_heavy2.py")
-    
-    if not success_heavy:
-        logger.error("Falha no mapeamento de fornecedores. Prosseguindo para Trello com dados parciais.")
-    
-    # Passo 3: Criar/atualizar cards no Trello
-    logger.info("Passo 3: Criando/atualizando cards no Trello")
-    try:
-        df_master = pd.read_excel(MASTER_XLSX)
-        df_proposta = pd.read_excel(PROPOSTA_XLSX) if os.path.exists(PROPOSTA_XLSX) else pd.DataFrame()
-        df_livro_razao = pd.read_excel(LIVRO_RAZAO_PATH) if os.path.exists(LIVRO_RAZAO_PATH) else pd.DataFrame()
-        
-        # Processar apenas editais novos ou atualizados
-        processed_cards = load_processed_cards()
-        new_bids = df_livro_razao[df_livro_razao['Timestamp'].str.contains(datetime.now().strftime('%Y-%m-%d'))]
-        
-        for _, bid in new_bids.iterrows():
-            uasg = bid['UASG']
-            edital = bid['Edital']
-            file_name = bid['Arquivo Download']
-            comprador = bid['Comprador']
-            dia_disputa = bid['Dia Disputa']
+        except Exception as e:
+            self.log_step(script_name, f"❌ Erro inesperado: {str(e)}")
+            return False
+        finally:
+            os.chdir(original_dir)
             
-            if str(edital) not in processed_cards or os.path.exists(PROPOSTA_XLSX):
-                logger.info(f"Processando card para edital {edital}...")
-                create_or_update_trello_card(uasg, edital, file_name, comprador, dia_disputa, df_proposta, df_master)
+    def check_files_updated(self, file_paths, timeout_minutes=5):
+        """Verifica se os arquivos foram atualizados recentemente"""
+        self.log_step("VERIFICAÇÃO", "Verificando atualização de arquivos...")
         
-        logger.info("Processo de criação/atualização de cards concluído.")
-    except Exception as e:
-        logger.error(f"Erro ao processar cards no Trello: {e}")
-
-    logger.info("Pipeline diário concluído!")
+        current_time = time.time()
+        for file_path in file_paths:
+            if os.path.exists(file_path):
+                file_time = os.path.getmtime(file_path)
+                time_diff = (current_time - file_time) / 60  # em minutos
+                
+                if time_diff <= timeout_minutes:
+                    self.log_step("VERIFICAÇÃO", f"✅ {os.path.basename(file_path)} atualizado recentemente")
+                else:
+                    self.log_step("VERIFICAÇÃO", f"⚠️ {os.path.basename(file_path)} não foi atualizado recentemente")
+            else:
+                self.log_step("VERIFICAÇÃO", f"❌ {os.path.basename(file_path)} não encontrado")
+                
+    def run_pipeline(self, steps=None):
+        """Executa o pipeline completo ou etapas específicas"""
+        if steps is None:
+            steps = ['download', 'matching']
+            
+        self.log_step("ORQUESTRADOR", f"Iniciando pipeline: {', '.join(steps)}")
+        
+        # Verificar pré-requisitos
+        if not self.check_prerequisites():
+            logger.error("❌ Falha na verificação de pré-requisitos. Abortando.")
+            return False
+            
+        success_count = 0
+        total_steps = len(steps)
+        
+        # Etapa: Download de editais
+        if 'download' in steps:
+            self.log_step("PIPELINE", "=== ETAPA: DOWNLOAD DE EDITAIS ===")
+            if self.run_script(DOWNLOAD_SCRIPT, "DOWNLOAD_EDITAIS"):
+                success_count += 1
+                # Verificar se o master.xlsx foi atualizado
+                master_file = os.path.join(DOWNLOADS_DIR, "master.xlsx")
+                self.check_files_updated([master_file])
+            else:
+                logger.error("❌ Falha no download de editais. Continuando com próximas etapas...")
+                
+        
+                
+        # Etapa: Matching de produtos
+        if 'matching' in steps:
+            self.log_step("PIPELINE", "=== ETAPA: MATCHING DE PRODUTOS ===")
+            if self.run_script(HEAVY_SCRIPT, "MATCHING_PRODUTOS"):
+                success_count += 1
+            else:
+                logger.error("❌ Falha no matching de produtos.")
+                
+        
+    def show_status(self):
+        """Mostra o status atual dos arquivos"""
+        self.log_step("STATUS", "Verificando status dos arquivos principais...")
+        
+        key_files = [
+            os.path.join(DOWNLOADS_DIR, "master.xlsx"),
+            os.path.join(DOWNLOADS_DIR, "summary.xlsx"),
+            os.path.join(DOWNLOADS_DIR, "livro_razao.xlsx"),
+            os.path.join(DOWNLOADS_DIR, "RESULTADO_metadados", "categoria_o4-mini_v4.xlsx"),
+            os.path.join(DOWNLOADS_DIR, "ORCAMENTOS", "master_heavy.xlsx")
+        ]
+        
+        for file_path in key_files:
+            if os.path.exists(file_path):
+                size = os.path.getsize(file_path) / 1024  # KB
+                mtime = datetime.fromtimestamp(os.path.getmtime(file_path))
+                self.log_step("STATUS", f"✅ {os.path.basename(file_path)}: {size:.1f}KB, modificado em {mtime.strftime('%d/%m/%Y %H:%M')}")
+            else:
+                self.log_step("STATUS", f"❌ {os.path.basename(file_path)}: não encontrado")
 
 def main():
-    """Configura o agendamento para execução diária."""
-    logger.info("Iniciando Nipsey.py - Orquestrador de Pipeline Contínuo")
+    """Função principal"""
+    print("="*60)
+    print("🎵 ORQUESTRADOR ARTE - SISTEMA DE AUTOMAÇÃO")
+    print("="*60)
     
-    # Agendar execução diária às 08:00
-    schedule.every().day.at("08:00").do(pipeline_diario)
+    orchestrator = ArteOrchestrator()
     
-    logger.info("Aguardando próxima execução agendada às 08:00...")
-    while True:
-        schedule.run_pending()
-        time.sleep(60)  # Verifica a cada 60 segundos
+    if len(sys.argv) > 1:
+        command = sys.argv[1].lower()
+        
+        if command == "status":
+            orchestrator.show_status()
+        elif command == "download":
+            orchestrator.run_pipeline(['download'])
+        elif command == "matching":
+            orchestrator.run_pipeline(['matching'])
+        elif command == "full":
+            orchestrator.run_pipeline()
+        else:
+            print("Comandos disponíveis:")
+            print("  python nipsey.py status    - Mostra status dos arquivos")
+            print("  python nipsey.py download  - Executa apenas download")
+            print("  python nipsey.py matching  - Executa apenas matching")
+            print("  python nipsey.py full      - Executa pipeline completo")
+    else:
+        # Execução padrão: pipeline completo
+        orchestrator.run_pipeline()
 
 if __name__ == "__main__":
     main()

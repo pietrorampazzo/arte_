@@ -7,6 +7,11 @@ import fitz  # PyMuPDF
 import pandas as pd
 
 
+# === Configuração dos diretórios ===
+PASTA_ORIGEM = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS"
+PASTA_DESTINO_PDF = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS"
+PASTA_XLSX = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS"
+
 def tratar_dataframe(df):
     """
     Realiza o tratamento do DataFrame:
@@ -273,10 +278,7 @@ def pdfs_para_xlsx(input_dir, output_dir):
     print(f"\nProcessamento concluído! Arquivos salvos em: {output_dir}")
 
 
-# === Configuração dos diretórios ===
-PASTA_ORIGEM = r"C:\Users\pietr\Meu Drive\arte_comercial\DOWNLOADS"
-PASTA_DESTINO_PDF = r"C:\Users\pietr\Meu Drive\arte_comercial\DOWNLOADS"
-PASTA_XLSX = r"C:\Users\pietr\Meu Drive\arte_comercial\ORCARMENTO"
+
 
 if __name__ == "__main__":
     print("=== DESCOMPACTADOR DE ARQUIVOS ZIP ===")
