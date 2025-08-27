@@ -44,7 +44,7 @@ except Exception:
 BASE_DIR = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS"
 DOWNLOAD_DIR = os.path.join(BASE_DIR, "EDITAIS")  # Arquivos baixados vão para EDITAIS
 ORCAMENTOS_DIR = os.path.join(BASE_DIR, "ORCAMENTOS")
-LIVRO_RAZAO_PATH = os.path.join(BASE_DIR, "livro_razao.xlsx") # Ledger de todos os editais processados
+LIVRO_RAZAO_PATH = os.path.join(BASE_DIR, "livro_razão.xlsx") # Ledger de todos os editais processados
 SUMMARY_EXCEL_PATH = os.path.join(BASE_DIR, "summary.xlsx") # Este é o arquivo com todos os itens dos novos editais
 FINAL_MASTER_PATH = os.path.join(BASE_DIR, "master.xlsx") # Este será o arquivo final filtrado
 
@@ -189,7 +189,7 @@ class WavecodeAutomation:
             self.driver.get(self.base_url)
             email_field = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input[type='text'][placeholder*='email']")))
             password_field = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input[type='password']")))
-            login_button = self.wait.until(EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'ACESSAR')]")))
+            login_button = self.wait.until(EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'ACESSAR')]" )))
 
             email_field.clear()
             email_field.send_keys(self.login_email)
@@ -230,7 +230,7 @@ class WavecodeAutomation:
             self.log("Iniciando rolagem para carregar editais...")
             self.scroll_to_load_editais()
 
-            self.wait.until(EC.presence_of_element_located((By.XPATH, "//p[contains(text(), 'Disputa:') or contains(text(), 'Edital:')]")))
+            self.wait.until(EC.presence_of_element_located((By.XPATH, "//p[contains(text(), 'Disputa:') or contains(text(), 'Edital:')]" )))
             self.log("✅ Página de editais carregada.")
             self.save_debug_screenshot("editais_page_loaded")
             return True
@@ -304,14 +304,16 @@ class WavecodeAutomation:
                         _, ext = os.path.splitext(new_file)
                         ext = ext or '.zip'
                         clean_edital = re.sub(r'[^\w\-]', '_', str(edital))
-                        clean_comprador = re.sub(r'[^\w\-]', '_', comprador)
                         clean_dia_disputa = dia_disputa.replace(':', 'h').replace(' - ', '_').replace('/', '-') + 'm'
-                        new_name = f"U_{uasg}_E_{clean_edital}_C_{clean_comprador}_{clean_dia_disputa}{ext}"
+                        
+                        # Novo formato de nome de arquivo (UASG_EDITAL_DIADISPUTA) para evitar nomes longos.
+                        new_name = f"U_{uasg}_E_{clean_edital}_{clean_dia_disputa}{ext}"
                         new_path = os.path.join(self.download_dir, new_name)
                         
                         counter = 1
                         while os.path.exists(new_path):
-                            new_path = os.path.join(self.download_dir, f"U_{uasg}_E_{clean_edital}_C_{clean_comprador}_{clean_dia_disputa}_{counter}{ext}")
+                            # Adiciona contador se o arquivo já existir
+                            new_path = os.path.join(self.download_dir, f"U_{uasg}_E_{clean_edital}_{clean_dia_disputa}_{counter}{ext}")
                             counter += 1
                         os.rename(os.path.join(self.download_dir, new_file), new_path)
                         self.log(f"✅ Arquivo baixado: {new_name}")
@@ -433,25 +435,12 @@ class WavecodeAutomation:
             except Exception as e:
                 self.log(f"✗ Erro ao descompactar {arquivo_zip.name}: {str(e)}")
 
-    def extrair_e_copiar_pdfs(self, input_dir=None, output_dir=None):
-        pasta_origem = Path(input_dir or self.download_dir)
-        pasta_destino = Path(output_dir or self.download_dir)
-        padrao_relacao = re.compile(r"RelacaoItens\d+\.pdf", re.IGNORECASE)
-        copiados = 0
-        for subpasta in pasta_origem.iterdir():
-            if subpasta.is_dir():
-                for arquivo in subpasta.glob("*.pdf"):
-                    if padrao_relacao.fullmatch(arquivo.name):
-                        nome_pasta = subpasta.name
-                        novo_nome = f"{nome_pasta}.pdf"
-                        destino_final = pasta_destino / novo_nome
-                        shutil.copy2(arquivo, destino_final)
-                        self.log(f"✅ Copiado: {novo_nome}")
-                        copiados += 1
-                        break
-        self.log(f"🎉 {copiados} PDFs movidos")
+    
 
     def extract_items_from_text(self, text, arquivo_nome):
+        """
+        Extrai itens do texto do edital PDF.
+        """
         items = []
         text = re.sub(r'\n+', '\n', text)
         text = re.sub(r'\s+', ' ', text)
@@ -466,8 +455,13 @@ class WavecodeAutomation:
             end_pos = item_matches[i + 1].start() if i + 1 < len(item_matches) else len(text)
             item_text = text[start_pos:end_pos]
 
-            descricao_match = re.search(r'Descrição Detalhada:\s*(.*?)(?=Tratamento Diferenciado:)|Aplicabilidade Decreto|$',
-                                       item_text, re.DOTALL | re.IGNORECASE)
+            # Fix: Correctly format the regex pattern without line breaks
+            descricao_match = re.search(
+                r'Descrição Detalhada:\s*(.*?)(?=Tratamento Diferenciado:|Aplicabilidade Decreto|$)',
+                item_text, 
+                re.DOTALL | re.IGNORECASE
+            )
+            
             descricao = ""
             if descricao_match:
                 descricao = descricao_match.group(1).strip()
@@ -478,16 +472,17 @@ class WavecodeAutomation:
             if descricao:
                 item_completo += f" {descricao}"
 
+            # Rest of the existing extraction code...
             quantidade_match = re.search(r'Quantidade Total:\s*(\d+)', item_text, re.IGNORECASE)
             quantidade = quantidade_match.group(1) if quantidade_match else ""
 
             valor_unitario = ""
-            valor_unitario_match = re.search(r'Valor Unitário[^:]*:\s*R?\$?\s*([\d.,]+)', item_text, re.IGNORECASE)
+            valor_unitario_match = re.search(r'Valor Unitário[^:]*:\s*R?$?\s*([\d.,]+)', item_text, re.IGNORECASE)
             if valor_unitario_match:
                 valor_unitario = valor_unitario_match.group(1)
 
             valor_total = ""
-            valor_total_match = re.search(r'Valor Total[^:]*:\s*R?\$?\s*([\d.,]+)', item_text, re.IGNORECASE)
+            valor_total_match = re.search(r'Valor Total[^:]*:\s*R?$?\s*([\d.,]+)', item_text, re.IGNORECASE)
             if valor_total_match:
                 valor_total = valor_total_match.group(1)
 
@@ -495,7 +490,7 @@ class WavecodeAutomation:
             unidade = unidade_match.group(1).strip() if unidade_match else ""
 
             intervalo = ""
-            for pattern in [r'Intervalo Mínimo entre Lances[^:]*:\s*R?\$?\s*([\d.,]+)', r'Intervalo[^:]*:\s*R?\$?\s*([\d.,]+)']:
+            for pattern in [r'Intervalo Mínimo entre Lances[^:]*:\s*R?$?\s*([\d.,]+)', r'Intervalo[^:]*:\s*R?$?\s*([\d.,]+)']:
                 intervalo_match = re.search(pattern, item_text, re.IGNORECASE)
                 if intervalo_match:
                     intervalo = intervalo_match.group(1)
@@ -586,38 +581,7 @@ class WavecodeAutomation:
 
         return df[colunas_desejadas + outras_colunas]
 
-    def pdfs_para_xlsx(self, input_dir=None, output_dir=None):
-        input_dir = input_dir or self.download_dir
-        output_dir = output_dir or self.orcamentos_dir
-        os.makedirs(output_dir, exist_ok=True)
-        if not os.path.exists(input_dir):
-            self.log(f"Erro: Diretório de entrada não encontrado: {input_dir}")
-            return
-        pdf_files = [f for f in os.listdir(input_dir) if f.lower().endswith('.pdf')]
-        if not pdf_files:
-            self.log(f"Nenhum arquivo PDF encontrado em: {input_dir}")
-            return
-        self.log(f"Encontrados {len(pdf_files)} arquivos PDF para processar:")
-        for pdf_file in pdf_files:
-            self.log(f"  - {pdf_file}")
-        self.log("-" * 60)
-        for file_name in pdf_files:
-            try:
-                pdf_path = os.path.join(input_dir, file_name)
-                items = self.process_pdf_file(pdf_path)
-                if items:
-                    df = pd.DataFrame(items)
-                    xlsx_name = os.path.splitext(file_name)[0] + ".xlsx"
-                    df['ARQUIVO'] = xlsx_name # Garante consistência no nome do arquivo para etapas futuras
-                    df = self.tratar_dataframe(df)
-                    output_path = os.path.join(output_dir, xlsx_name)
-                    df.to_excel(output_path, index=False)
-                    self.log(f"✅ Processado: {file_name} → {xlsx_name} ({len(items)} itens)")
-                else:
-                    self.log(f"❌ Nenhum item encontrado em: {file_name}")
-            except Exception as e:
-                self.log(f"❌ Erro ao processar {file_name}: {e}")
-        self.log(f"\nProcessamento concluído! Arquivos salvos em: {output_dir}")
+    
 
     def clean_dataframe(self, df):
         if df.empty:
@@ -628,76 +592,9 @@ class WavecodeAutomation:
                 df[col] = df[col].astype(str).str.replace(' ', '').replace('nan', '')
         return df
 
-    def combine_excel_files(self, input_dir=None, output_file=None):
-        input_dir = input_dir or self.orcamentos_dir
-        output_file = output_file or SUMMARY_EXCEL_PATH
-        excel_files = [f for f in os.listdir(input_dir) if f.endswith('.xlsx') and f != os.path.basename(output_file)]
-        if not excel_files:
-            self.log("Nenhum arquivo Excel encontrado para combinar.")
-            return
-        dados_combinados = []
-        for arquivo in excel_files:
-            try:
-                df = self.clean_dataframe(pd.read_excel(os.path.join(input_dir, arquivo)))
-                dados_combinados.append(df)
-            except Exception as e:
-                self.log(f"Erro ao processar {arquivo}: {e}")
-
-        if dados_combinados:
-            df_combinado = pd.concat(dados_combinados, ignore_index=True)
-            df_combinado = self.tratar_dataframe(df_combinado)
-            df_combinado.to_excel(output_file, index=False, sheet_name='Resumo')
-            self.log(f"✅ Master Excel salvo: {output_file}")
+    
             
-    def filtrar_e_atualizar_master(self):
-        """
-        Filtra itens da planilha de resumo gerada (summary.xlsx) com base em palavras-chave
-        e os adiciona ao topo da planilha principal (master.xlsx).
-        """
-        self.log("Iniciando filtragem de itens para a planilha master...")
-        
-        # Passo 1: Carregar summary.xlsx
-        if not os.path.exists(SUMMARY_EXCEL_PATH):
-            self.log(f"❌ Arquivo de resumo não encontrado: {SUMMARY_EXCEL_PATH}. Abortando a filtragem.")
-            return
-
-        df_summary = pd.read_excel(SUMMARY_EXCEL_PATH)
-        self.log(f"Planilha summary carregada: {len(df_summary)} linhas.")
-
-        # Passo 2: Filtrar itens relevantes
-        if 'DESCRICAO' not in df_summary.columns:
-            self.log("❌ Coluna 'DESCRICAO' não encontrada na planilha. Não é possível filtrar.")
-            return
-        
-        mask = df_summary['DESCRICAO'].apply(lambda x: bool(REGEX_FILTRO.search(str(x))))
-        df_filtrado = df_summary[mask].copy()
-        
-        if df_filtrado.empty:
-            self.log("Nenhum item relevante encontrado para adicionar à master. Encerrando.")
-            return
-            
-        self.log(f"Itens filtrados: {len(df_filtrado)} de {len(df_summary)} totais.")
-
-        # Passo 3: Carregar master.xlsx (ou criar se não existir)
-        if os.path.exists(FINAL_MASTER_PATH):
-            df_master = pd.read_excel(FINAL_MASTER_PATH)
-            self.log(f"Planilha master carregada: {len(df_master)} linhas existentes.")
-        else:
-            df_master = pd.DataFrame(columns=df_filtrado.columns)
-            self.log("Planilha master não encontrada. Criando uma nova.")
-
-        # Garantir que as colunas sejam compatíveis
-        for col in df_filtrado.columns:
-            if col not in df_master.columns:
-                df_master[col] = pd.NA
-
-        # Passo 4: Concatenar filtrados no topo e remover duplicatas
-        df_atualizado = pd.concat([df_filtrado, df_master], ignore_index=True)
-        df_atualizado = df_atualizado.drop_duplicates(subset=['ARQUIVO', 'Nº', 'DESCRICAO'], keep='first')
-
-        # Passo 5: Salvar master atualizada
-        df_atualizado.to_excel(FINAL_MASTER_PATH, index=False)
-        self.log(f"✅ Master atualizada salva: {len(df_atualizado)} linhas totais. Novos itens adicionados: {len(df_filtrado)}.")
+    
 
     def create_trello_card(self, uasg, edital, file_name, comprador, dia_disputa):
         try:
@@ -821,18 +718,198 @@ class WavecodeAutomation:
         except Exception as e:
             self.log(f"❌ Erro ao processar master.xlsx para criar cards no Trello: {e}")
 
+    def processar_novos_editais(self, newly_downloaded_bids):
+        """
+        Processa cada novo edital baixado, extrai itens e os retorna para atualização.
+        """
+        all_new_items = []
+        
+        for bid in newly_downloaded_bids:
+            file_name = bid.get('file_name')
+            if not file_name:
+                continue
+
+            self.log(f"--- Processando edital: {file_name} ---")
+            
+            # O caminho para a pasta descompactada tem o mesmo nome do .zip, sem a extensão
+            unzip_dir = Path(self.download_dir) / Path(file_name).stem
+            
+            if not unzip_dir.is_dir():
+                self.log(f"  ⚠️  Pasta descompactada não encontrada em: {unzip_dir}. Pulando.")
+                continue
+
+            # Encontra todos os PDFs dentro da pasta descompactada
+            pdf_files = list(unzip_dir.glob('**/*.pdf'))
+            self.log(f"  Encontrados {len(pdf_files)} PDFs em {unzip_dir}")
+
+            for pdf_path in pdf_files:
+                try:
+                    items = self.process_pdf_file(str(pdf_path))
+                    if items:
+                        # Adiciona o nome do arquivo de edital original para referência
+                        for item in items:
+                            item['ARQUIVO'] = file_name
+                        all_new_items.extend(items)
+                        self.log(f"  ✅ Extraídos {len(items)} itens de {pdf_path.name}")
+                except Exception as e:
+                    self.log(f"  ❌ Erro ao processar o PDF {pdf_path.name}: {e}")
+
+        return all_new_items
+
+    def atualizar_planilhas_incrementais(self, all_new_items):
+        """
+        Atualiza as planilhas summary.xlsx e master.xlsx de forma incremental.
+        """
+        if not all_new_items:
+            self.log("Nenhum item novo para adicionar às planilhas.")
+            return
+
+        df_new = pd.DataFrame(all_new_items)
+        df_new = self.tratar_dataframe(df_new)
+
+        # --- Atualização do Summary ---
+        self.log(f"\n[5/7] Atualizando summary.xlsx com {len(df_new)} novos itens...")
+        try:
+            if os.path.exists(SUMMARY_EXCEL_PATH):
+                df_summary = pd.read_excel(SUMMARY_EXCEL_PATH)
+                df_summary_updated = pd.concat([df_summary, df_new], ignore_index=True)
+            else:
+                df_summary_updated = df_new
+            
+            df_summary_updated.to_excel(SUMMARY_EXCEL_PATH, index=False, sheet_name='Resumo')
+            self.log("✅ summary.xlsx atualizado.")
+        except Exception as e:
+            self.log(f"❌ Erro ao atualizar summary.xlsx: {e}")
+
+        # --- Atualização do Master ---
+        self.log(f"\n[6/7] Atualizando master.xlsx...")
+        mask = df_new['DESCRICAO'].apply(lambda x: bool(REGEX_FILTRO.search(str(x))))
+        df_new_filtered = df_new[mask]
+
+        if not df_new_filtered.empty:
+            try:
+                if os.path.exists(FINAL_MASTER_PATH):
+                    df_master = pd.read_excel(FINAL_MASTER_PATH)
+                    df_master_updated = pd.concat([df_master, df_new_filtered], ignore_index=True)
+                else:
+                    df_master_updated = df_new_filtered
+                
+                # Garante que as colunas sejam tratadas como string para evitar erros de tipo no drop_duplicates
+                str_cols = ['ARQUIVO', 'Nº', 'DESCRICAO']
+                for col in str_cols:
+                    if col in df_master_updated.columns:
+                        df_master_updated[col] = df_master_updated[col].astype(str)
+
+                df_master_updated.drop_duplicates(subset=str_cols, keep='first', inplace=True)
+                df_master_updated.to_excel(FINAL_MASTER_PATH, index=False)
+                self.log(f"✅ master.xlsx atualizado com {len(df_new_filtered)} novos itens relevantes.")
+            except Exception as e:
+                self.log(f"❌ Erro ao atualizar master.xlsx: {e}")
+        else:
+            self.log("Nenhum item novo relevante para adicionar ao master.xlsx.")
+
+    def processar_novos_editais(self, newly_downloaded_bids):
+        """
+        Processa cada novo edital baixado, extrai itens e os retorna para atualização.
+        """
+        all_new_items = []
+        
+        for bid in newly_downloaded_bids:
+            file_name = bid.get('file_name')
+            if not file_name:
+                continue
+
+            self.log(f"--- Processando edital: {file_name} ---")
+            
+            # O caminho para a pasta descompactada tem o mesmo nome do .zip, sem a extensão
+            unzip_dir = Path(self.download_dir) / Path(file_name).stem
+            
+            if not unzip_dir.is_dir():
+                self.log(f"  ⚠️  Pasta descompactada não encontrada em: {unzip_dir}. Pulando.")
+                continue
+
+            # Encontra todos os PDFs dentro da pasta descompactada
+            pdf_files = list(unzip_dir.glob('**/*.pdf'))
+            self.log(f"  Encontrados {len(pdf_files)} PDFs em {unzip_dir}")
+
+            for pdf_path in pdf_files:
+                try:
+                    items = self.process_pdf_file(str(pdf_path))
+                    if items:
+                        # Adiciona o nome do arquivo de edital original para referência
+                        for item in items:
+                            item['ARQUIVO'] = file_name
+                        all_new_items.extend(items)
+                        self.log(f"  ✅ Extraídos {len(items)} itens de {pdf_path.name}")
+                except Exception as e:
+                    self.log(f"  ❌ Erro ao processar o PDF {pdf_path.name}: {e}")
+
+        return all_new_items
+
+    def atualizar_planilhas_incrementais(self, all_new_items):
+        """
+        Atualiza as planilhas summary.xlsx e master.xlsx de forma incremental.
+        """
+        if not all_new_items:
+            self.log("Nenhum item novo para adicionar às planilhas.")
+            return
+
+        df_new = pd.DataFrame(all_new_items)
+        df_new = self.tratar_dataframe(df_new)
+
+        # --- Atualização do Summary ---
+        self.log(f"\n[5/7] Atualizando summary.xlsx com {len(df_new)} novos itens...")
+        try:
+            if os.path.exists(SUMMARY_EXCEL_PATH):
+                df_summary = pd.read_excel(SUMMARY_EXCEL_PATH)
+                df_summary_updated = pd.concat([df_summary, df_new], ignore_index=True)
+            else:
+                df_summary_updated = df_new
+            
+            df_summary_updated.to_excel(SUMMARY_EXCEL_PATH, index=False, sheet_name='Resumo')
+            self.log("✅ summary.xlsx atualizado.")
+        except Exception as e:
+            self.log(f"❌ Erro ao atualizar summary.xlsx: {e}")
+
+        # --- Atualização do Master ---
+        self.log(f"\n[6/7] Atualizando master.xlsx...")
+        mask = df_new['DESCRICAO'].apply(lambda x: bool(REGEX_FILTRO.search(str(x))))
+        df_new_filtered = df_new[mask]
+
+        if not df_new_filtered.empty:
+            try:
+                if os.path.exists(FINAL_MASTER_PATH):
+                    df_master = pd.read_excel(FINAL_MASTER_PATH)
+                    df_master_updated = pd.concat([df_master, df_new_filtered], ignore_index=True)
+                else:
+                    df_master_updated = df_new_filtered
+                
+                # Garante que as colunas sejam tratadas como string para evitar erros de tipo no drop_duplicates
+                str_cols = ['ARQUIVO', 'Nº', 'DESCRICAO']
+                for col in str_cols:
+                    if col in df_master_updated.columns:
+                        df_master_updated[col] = df_master_updated[col].astype(str)
+
+                df_master_updated.drop_duplicates(subset=str_cols, keep='first', inplace=True)
+                df_master_updated.to_excel(FINAL_MASTER_PATH, index=False)
+                self.log(f"✅ master.xlsx atualizado com {len(df_new_filtered)} novos itens relevantes.")
+            except Exception as e:
+                self.log(f"❌ Erro ao atualizar master.xlsx: {e}")
+        else:
+            self.log("Nenhum item novo relevante para adicionar ao master.xlsx.")
+
     def run(self, max_pages_to_process=5):
         """
-        Executa o pipeline completo de automação, incluindo a lógica de paginação por número de página.
-        :param max_pages_to_process: O número máximo de páginas a serem processadas.
+        Executa o pipeline completo de automação de forma incremental.
         """
         print("="*60)
-        print("🤖 WAVECODE AUTOMATION - PIPELINE v2.0")
+        print("🤖 WAVECODE AUTOMATION - PIPELINE v2.1 (Incremental)")
         print("="*60)
         
+        # Etapa 1: Download de novos editais
         newly_downloaded_bids = []
         try:
-            self.log("[1/7] Iniciando automação do navegador...")
+            self.log("[1/7] Iniciando automação do navegador para download...")
             self.setup_driver()
             processed_bids = self.load_processed_bids()
 
@@ -840,26 +917,20 @@ class WavecodeAutomation:
                 for page_num in range(1, max_pages_to_process + 1):
                     self.log(f"--- Iniciando ciclo para a Página {page_num} ---")
                     if page_num > 1:
-                        self.log(f"Navegando para a página de número {page_num}...")
+                        # Navega para a próxima página
                         try:
-                            page_button = self.wait.until(
-                                EC.element_to_be_clickable(
-                                    (By.XPATH, f"//ul[contains(@class, 'pagination')]//li[text()='{page_num}']")
-                                )
-                            )
+                            page_button = self.wait.until(EC.element_to_be_clickable((By.XPATH, f"//ul[contains(@class, 'pagination')]//li[text()='{page_num}']")))
                             self.driver.execute_script("arguments[0].click();", page_button)
                             self.log(f"✅ Clique na página '{page_num}' realizado.")
                             time.sleep(3)
                             self.scroll_to_load_editais()
-
                         except TimeoutException:
                             self.log(f"⚠️ Página de número '{page_num}' não foi encontrada. Fim da paginação.")
                             break
                         except Exception as e:
                             self.log(f"❌ Erro ao tentar navegar para a página {page_num}: {e}")
-                            self.save_debug_screenshot(f"pagination_error_page_{page_num}")
                             break
-
+                    
                     downloads_in_page = self.process_editais_page(page_num, processed_bids)
                     newly_downloaded_bids.extend(downloads_in_page)
         
@@ -872,30 +943,28 @@ class WavecodeAutomation:
                 self.log("Navegador fechado.")
         
         if not newly_downloaded_bids:
-            self.log("✅ Nenhum edital novo encontrado ou baixado. Pipeline concluído sem processamento de arquivos.")
+            self.log("✅ Nenhum edital novo encontrado ou baixado. Pipeline concluído.")
             return
         
+        # Etapas de processamento de arquivos
         self.log(f"\n[2/7] Atualizando livro razão com {len(newly_downloaded_bids)} novos editais...")
         self.update_ledger(newly_downloaded_bids)
 
         self.log(f"\n[3/7] Descompactando arquivos...")
         self.descompactar_arquivos()
         
-        self.log("\n[4/7] Extraindo e processando PDFs...")
-        self.extrair_e_copiar_pdfs()
-        self.pdfs_para_xlsx()
+        self.log("\n[4/7] Processando conteúdo dos novos editais...")
+        all_new_items = self.processar_novos_editais(newly_downloaded_bids)
         
-        self.log("\n[5/7] Consolidando itens no summary.xlsx...")
-        self.combine_excel_files()
-        
-        self.log("\n[6/7] Filtrando itens relevantes para o master.xlsx...")
-        self.filtrar_e_atualizar_master()
+        # Etapas 5 & 6: Atualização incremental das planilhas
+        self.atualizar_planilhas_incrementais(all_new_items)
 
+        # Etapa 7: Criação de cards no Trello
         self.create_trello_cards_for_master_items(newly_downloaded_bids)
 
         print("\n🎉 PIPELINE CONCLUÍDO!")
-        print(f"📁 Arquivos de orçamento em: {self.orcamentos_dir}")
-        print(f"📊 Master Final Filtrada: {FINAL_MASTER_PATH}")
+        print(f"📊 Summary atualizado: {SUMMARY_EXCEL_PATH}")
+        print(f"✨ Master Final atualizado: {FINAL_MASTER_PATH}")
         print(f"📖 Livro Razão atualizado: {LIVRO_RAZAO_PATH}")
 
 if __name__ == "__main__":
