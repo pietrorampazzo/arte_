@@ -217,7 +217,7 @@ class ArteOrchestrator:
 def main():
     """Função principal"""
     print("="*60)
-    print("🎵 ORQUESTRADOR ARTE - SISTEMA DE AUTOMAÇÃO")
+    print("🐳 ORQUESTRADOR ARTE - SISTEMA DE AUTOMAÇÃO")
     print("="*60)
     
     orchestrator = ArteOrchestrator()

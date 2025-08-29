@@ -184,12 +184,12 @@ def processar_batch_llm(batch_descricoes: list[str]) -> list[dict]:
         "INSTRUMENTO_PERCUSSAO: afuché, bateria, bombo, bumbo, caixa de guerra, ganza, pandeiro, quadriton, reco reco, surdo, tambor, tarol, timbales\n"
         "INSTRUMENTO_SOPRO: trompete, bombardino, trompa, trombone, tuba,sousafone, clarinete, saxofone, flauta, tuba bombardão,flugelhorn,euphonium\n"
         "INSTRUMENTO_TECLAS: piano, teclado digital, glockenspiel, metalofone\n"
-        "ACESSORIO_CORDA :arco,cavalete,corda,corda,kit nut,kit rastilho\n"
-        "ACESSORIO_GERAL :bag,banco,carrinho prancha,estante de partitura,suporte\n"
+        "ACESSORIO_CORDA :arco, cavalete, corda, corda, kit nut, kit rastilho, \n"
+        "ACESSORIO_GERAL :bag,banco,carrinho prancha,estante de partitura, suporte\n"
         "ACESSORIO_PERCURSSAO :baqueta,carrilhão,esteira,Máquina de Hi Hat,Pad para Bumbo,parafuso,pedal de bumbo,pele,prato,sino,talabarte,triângulo\n"
         "ACESSORIO_SOPRO : graxa,oleo lubrificante,palheta de saxofone/clarinete\n"
         "EQUIPAMENTO_AUDIO : fone de ouvido,globo microfone,Interface de guitarra,pedal,mesa de som,microfone\n"
-        "EQUIPAMENTO_CABO : cabo CFTV,cabo de rede,caixa medusa,Medusa,P10,P2xP10,painel de conexão,xlr M/F\n"
+        "EQUIPAMENTO_CABO : cabo CFTV, cabo de rede, Medusa, switch, cabo_musical\n"
 
         
         "**TAREFA:**\n"

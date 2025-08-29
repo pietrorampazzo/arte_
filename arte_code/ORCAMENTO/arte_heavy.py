@@ -13,9 +13,9 @@ from openpyxl.styles import PatternFill
 
 # --- File Paths ---
 BASE_DIR = r"C:\Users\pietr\OneDrive\.vscode\arte_"
-CAMINHO_EDITAL = os.path.join(BASE_DIR, "DOWNLOADS", "master.xlsx")
-CAMINHO_BASE = os.path.join(BASE_DIR, 'DOWNLOADS', 'RESULTADO_metadados', 'categoria_o4-mini_v4.xlsx')
-CAMINHO_SAIDA = os.path.join(BASE_DIR, "DOWNLOADS", "ORCAMENTOS", "master_heavy.xlsx")
+CAMINHO_EDITAL = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master.xlsx"
+CAMINHO_SAIDA = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\RESULTADO_metadados\master_heavy.xlsx"
+CAMINHO_BASE = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\RESULTADO_metadados\categoria_o4-mini_v4.xlsx"
 
 # --- Financial Parameters ---
 PROFIT_MARGIN = 0.53  # MARGEM DE LUCRO 
@@ -40,10 +40,10 @@ CATEGORIZATION_KEYWORDS = {
     'ACESSORIO_PERCURSSAO': ['baqueta','carrilhão','esteira','Máquina de Hi Hat','Pad para Bumbo','parafuso','pedal de bumbo','pele','prato','sino','talabarte','triângulo'],
     'ACESSORIO_SOPRO': ['graxa','oleo lubrificante','palheta de saxofone/clarinete'],
     'EQUIPAMENTO_AUDIO': ['fone de ouvido','globo microfone','Interface de guitarra','pedal','mesa de som','microfone'],
-    'EQUIPAMENTO_CABO': ['cabo CFTV','cabo de rede','caixa medusa','Medusa','P10','P2xP10','painel de conexão','xlr M/F'],
+    'EQUIPAMENTO_CABO': ['cabo CFTV','cabo de rede','caixa medusa','Medusa','painel de conexão','patch panel','régua de energia','switch', 'cabos de som'],
     'EQUIPAMENTO_SOM': ['amplificador','caixa de som','cubo para guitarra'],
     "INSTRUMENTO_CORDA": ["violino","viola","violão","guitarra","baixo","violoncelo"],
-    "INSTRUMENTO_PERCUSSAO": ["afuché","bateria","bombo","bumbo","caixa de guerra","caixa tenor","ganza","pandeiro","quadriton","reco reco","surdo","tambor","tarol","timbales"],
+    "INSTRUMENTO_PERCUSSAO": ["afuché","bateria","bombo","caixa tenor","ganza","pandeiro","quadriton","quintoton","reco reco","surdo","tambor","tarol","timbales"],
     "INSTRUMENTO_SOPRO": ["trompete","bombardino","trompa","trombone","tuba","sousafone","clarinete","saxofone","flauta","tuba bombardão","flugelhorn","euphonium"],
     "INSTRUMENTO_TECLAS": ["piano","teclado digital","glockenspiel","metalofone"],
 }
@@ -92,7 +92,7 @@ def gerar_conteudo_com_fallback(prompt: str, modelos: list[str]) -> str | None:
 
 def categorize_item(description: str, categories: list) -> str:
     """Usa o modelo de IA para classificar o item em uma das categorias fornecidas."""
-    print("-🪼- Asking AI for the item category...")
+    print("-🗣️Asking AI for the item category...")
     
     prompt = f"""
     <objetivo>
@@ -128,7 +128,7 @@ def categorize_item(description: str, categories: list) -> str:
 
 def get_best_match_from_ai(item_edital, df_candidates):
     """Usa o modelo de IA para encontrar o melhor match dentro dos candidatos."""
-    print("-🪼- Asking AI for the best match...")
+    print("-🗣️Asking AI for the best match...")
 
     candidates_json = df_candidates[['DESCRICAO','categoria_principal','subcategoria','MARCA','MODELO','VALOR']] \
                         .to_json(orient="records", force_ascii=False, indent=2)
@@ -277,7 +277,7 @@ def main():
                     status = "Match Encontrado"
                     data_to_populate = best_match_data
                 elif closest_match_data:
-                    print(f"- 🧿 AI sugere como mais próximo: {closest_match_data.get('Marca', 'N/A')} {closest_match_data.get('Modelo', 'N/A')}")
+                    print(f"- 💍 AI sugere como mais próximo: {closest_match_data.get('Marca', 'N/A')} {closest_match_data.get('Modelo', 'N/A')}")
                     if reasoning:
                         print(f"    Motivo: {reasoning}")
                     status = "Match Parcial (Sugestão)"
@@ -288,27 +288,37 @@ def main():
                         print(f"    Motivo: {reasoning}")
                     status = "Nenhum Produto Compatível"
 
+
         result_row = {
             'ARQUIVO': item_edital['ARQUIVO'],
             'Nº': item_edital['Nº'],
             'DESCRICAO_EDITAL': item_edital['DESCRICAO'],
             'VALOR_UNIT_EDITAL': item_edital['VALOR_UNIT'],
             'STATUS': status,
+            'QTDE': item_edital.get('QTDE', 0),
+            'LOCAL_ENTREGA': item_edital.get('LOCAL_ENTREGA', ''),
+            'INTERVALO_LANCES': item_edital.get('INTERVALO_LANCES', ''),
             'MOTIVO_INCOMPATIBILIDADE': reasoning if status != "Match Encontrado" else None
-        }
+}
+
+
 
         if data_to_populate:
             cost_price = float(data_to_populate.get('Valor') or 0)
             final_price = cost_price * (1 + PROFIT_MARGIN)
+            margem_valor = final_price - cost_price
+            qtde = int(item_edital.get('QTDE', 0) or 0)
+            margem_total = margem_valor * qtde
             result_row.update({
-                'MARCA_SUGERIDA': data_to_populate.get('Marca'),
-                'MODELO_SUGERIDO': data_to_populate.get('Modelo'),
-                'CUSTO_FORNECEDOR': cost_price,
-                'PRECO_FINAL_VENDA': final_price,
-                'MARGEM_LUCRO_VALOR': final_price - cost_price,
-                'DESCRICAO_FORNECEDOR': data_to_populate.get('Descricao_fornecedor'),
-                'ANALISE_COMPATIBILIDADE': data_to_populate.get('Compatibilidade_analise')
-            })
+        'MARCA_SUGERIDA': data_to_populate.get('Marca'),
+        'MODELO_SUGERIDO': data_to_populate.get('Modelo'),
+        'CUSTO_FORNECEDOR': cost_price,
+        'PRECO_FINAL_VENDA': final_price,
+        'MARGEM_LUCRO_VALOR': margem_valor,
+        'MARGEM_LUCRO_TOTAL': margem_total,
+        'DESCRICAO_FORNECEDOR': data_to_populate.get('Descricao_fornecedor'),
+        'ANALISE_COMPATIBILIDADE': data_to_populate.get('Compatibilidade_analise')
+    })
 
         results.append(result_row)
 
@@ -323,12 +333,15 @@ def main():
     # Concatenar com dados existentes
     df_final = pd.concat([df_existing, df_results], ignore_index=True)
 
+
     output_columns = [
-        'ARQUIVO','Nº','STATUS','DESCRICAO_EDITAL','VALOR_UNIT_EDITAL',
-        'MARCA_SUGERIDA','MODELO_SUGERIDO','CUSTO_FORNECEDOR',
-        'PRECO_FINAL_VENDA','MARGEM_LUCRO_VALOR','MOTIVO_INCOMPATIBILIDADE',
-        'DESCRICAO_FORNECEDOR','ANALISE_COMPATIBILIDADE'
-    ]
+    'ARQUIVO','Nº','STATUS','DESCRICAO_EDITAL','VALOR_UNIT_EDITAL',
+    'MARCA_SUGERIDA','MODELO_SUGERIDO','QTDE','CUSTO_FORNECEDOR',
+    'PRECO_FINAL_VENDA','MARGEM_LUCRO_VALOR','MARGEM_LUCRO_TOTAL',
+    'MOTIVO_INCOMPATIBILIDADE','DESCRICAO_FORNECEDOR','ANALISE_COMPATIBILIDADE',
+    'LOCAL_ENTREGA','INTERVALO_LANCES']
+
+    
     for col in output_columns:
         if col not in df_final.columns:
             df_final[col] = ''

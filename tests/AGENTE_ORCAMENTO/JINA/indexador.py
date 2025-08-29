@@ -63,6 +63,11 @@ class ProcessadorMusical:
                         valor REAL,
                         categoria_principal TEXT,
                         subcategoria TEXT,
+                        fabricante TEXT,
+                        aplicacao TEXT,
+                        nivel TEXT,
+                        especificacoes_tecnicas JSON,
+                        compatibilidade JSON,
                         metadados JSON
                     )
                 """)
@@ -249,7 +254,21 @@ class IndexadorMusical:
                                 continue
 
                             embeddings.append(embedding)
-                            novos_produtos.append((idx, texto, str(row['Marca']) if not pd.isna(row['Marca']) else "", str(row['Modelo']) if not pd.isna(row['Modelo']) else "", float(row['Valor']) if not pd.isna(row['Valor']) else 0.0, metadados.get('categoria_principal', 'OUTROS'), metadados.get('subcategoria', 'OUTROS'), json.dumps(metadados)))
+                            novos_produtos.append((
+                                idx,
+                                texto,
+                                str(row['Marca']) if not pd.isna(row['Marca']) else "",
+                                str(row['Modelo']) if not pd.isna(row['Modelo']) else "",
+                                float(row['Valor']) if not pd.isna(row['Valor']) else 0.0,
+                                metadados.get('categoria_principal', 'OUTROS'),
+                                metadados.get('subcategoria', 'OUTROS'),
+                                metadados.get('fabricante', ''),
+                                metadados.get('aplicacao', ''),
+                                metadados.get('nivel', ''),
+                                json.dumps(metadados.get('especificacoes_tecnicas', {})),
+                                json.dumps(metadados.get('compatibilidade', [])),
+                                json.dumps(metadados)
+                            ))
                     except Exception as e:
                         logger.error("Erro ao processar batch (índices %d a %d): %s. Salvando progresso parcial.", batch_indices[0], batch_indices[-1], str(e))
                         with open(ULTIMO_BATCH_ARQUIVO, 'w') as f:
@@ -293,7 +312,12 @@ class IndexadorMusical:
                 'Valor': [p[4] for p in novos_produtos],
                 'categoria_principal': [p[5] for p in novos_produtos],
                 'subcategoria': [p[6] for p in novos_produtos],
-                'metadados': [p[7] for p in novos_produtos]
+                'fabricante': [p[7] for p in novos_produtos],
+                'aplicacao': [p[8] for p in novos_produtos],
+                'nivel': [p[9] for p in novos_produtos],
+                'especificacoes_tecnicas': [p[10] for p in novos_produtos],
+                'compatibilidade': [p[11] for p in novos_produtos],
+                'metadados': [p[12] for p in novos_produtos]
             })
             self.df_mapeamento.to_excel(ARQUIVO_MAPEAMENTO, index=False)
 
@@ -302,8 +326,8 @@ class IndexadorMusical:
                     conn.execute(
                         """
                         INSERT OR REPLACE INTO produtos
-                        (id_produto, descricao, marca, modelo, valor, categoria_principal, subcategoria, metadados)
-                        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                        (id_produto, descricao, marca, modelo, valor, categoria_principal, subcategoria, fabricante, aplicacao, nivel, especificacoes_tecnicas, compatibilidade, metadados)
+                        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                         """,
                         produto
                     )

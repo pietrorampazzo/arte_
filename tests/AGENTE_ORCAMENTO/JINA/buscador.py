@@ -160,13 +160,28 @@ class ProcessadorConsultaMusical:
 
     def criar_embedding(self, metadados, texto_original):
         """Cria embedding estruturado usando JINA"""
-        partes = [
+        # Extrai campos principais
+        campos = [
             f"CATEGORIA: {metadados.get('categoria_principal', 'OUTROS')}",
             f"SUBCATEGORIA: {metadados.get('subcategoria', 'OUTROS')}",
-            f"ESPECIFICACOES: {json.dumps(metadados, ensure_ascii=False)}",
+            f"FABRICANTE: {metadados.get('fabricante', '')}",
+            f"MODELO: {metadados.get('modelo', '')}",
+            f"APLICACAO: {metadados.get('aplicacao', '')}",
+            f"NIVEL: {metadados.get('nivel', '')}",
             f"DESCRICAO: {texto_original.strip()}"
         ]
-        texto_completo = " || ".join(partes)
+        
+        # Adiciona especificações técnicas se existirem
+        especs = metadados.get('especificacoes_tecnicas', {})
+        if especs:
+            campos.append(f"ESPECIFICACOES: {json.dumps(especs, ensure_ascii=False)}")
+            
+        # Adiciona compatibilidade se existir
+        compat = metadados.get('compatibilidade', [])
+        if compat:
+            campos.append(f"COMPATIBILIDADE: {','.join(compat)}")
+            
+        texto_completo = " || ".join(campos)
         return self.get_jina_embedding(texto_completo)
 
 class MatchingMusicalHierarquico:
@@ -179,20 +194,31 @@ class MatchingMusicalHierarquico:
         """Calcula score de compatibilidade entre metadados"""
         score = 0.0
         pesos = {
-            'categoria_principal': 0.4,
-            'subcategoria': 0.3,
-            'afinacao': 0.1,
-            'numero_pistos_valvulas': 0.05,
-            'dimensao': 0.05,
-            'material': 0.05,
-            'potencia': 0.05
+            'categoria_principal': 0.3,
+            'subcategoria': 0.2,
+            'fabricante': 0.15,
+            'modelo': 0.1,
+            'aplicacao': 0.1,
+            'nivel': 0.05
         }
+        
+        # Comparação de campos principais
         for campo, peso in pesos.items():
             valor_consulta = metadados_consulta.get(campo)
             valor_produto = metadados_produto.get(campo)
-            if valor_consulta and valor_produto and valor_consulta == valor_produto:
-                score += peso
-        return score
+            if valor_consulta and valor_produto:
+                if valor_consulta == valor_produto:
+                    score += peso
+                    
+        # Comparação de especificações técnicas
+        especs_consulta = metadados_consulta.get('especificacoes_tecnicas', {})
+        especs_produto = metadados_produto.get('especificacoes_tecnicas', {})
+        for campo in ['material', 'dimensoes', 'potencia']:
+            if campo in especs_consulta and campo in especs_produto:
+                if especs_consulta[campo] == especs_produto[campo]:
+                    score += 0.05
+        
+        return min(score, 1.0)  # Limitar o score máximo a 1.0
 
     def matching_hierarquico(self, consulta_texto):
         """Executa matching hierárquico"""
