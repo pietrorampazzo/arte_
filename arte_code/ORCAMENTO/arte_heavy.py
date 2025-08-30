@@ -14,8 +14,8 @@ from openpyxl.styles import PatternFill
 # --- File Paths ---
 BASE_DIR = r"C:\Users\pietr\OneDrive\.vscode\arte_"
 CAMINHO_EDITAL = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master.xlsx"
-CAMINHO_SAIDA = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\RESULTADO_metadados\master_heavy.xlsx"
-CAMINHO_BASE = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\RESULTADO_metadados\categoria_o4-mini_v4.xlsx"
+CAMINHO_SAIDA = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx"
+CAMINHO_BASE = r"DOWNLOADS/RESULTADO_metadados/categoria_claude_sonnet_v5.xlsx"
 
 # --- Financial Parameters ---
 PROFIT_MARGIN = 0.53  # MARGEM DE LUCRO 
@@ -30,36 +30,32 @@ LLM_MODELS_FALLBACK = [
     "gemini-2.5-flash-lite",
     "gemini-2.0-flash",
     "gemini-2.5-pro",
-    "gemini-1.5-flash",  
+    "gemini-1.5-flash", 
 ]
 
-# --- Categorization Keywords ------------------------------------
-CATEGORIZATION_KEYWORDS = {
-    'ACESSORIO_CORDA': ['arco','cavalete','corda','kit nut','kit rastilho'],
-    'ACESSORIO_GERAL': ['bag','banco','carrinho prancha','estante de partitura','suporte'],
-    'ACESSORIO_PERCURSSAO': ['baqueta','carrilhão','esteira','Máquina de Hi Hat','Pad para Bumbo','parafuso','pedal de bumbo','pele','prato','sino','talabarte','triângulo'],
-    'ACESSORIO_SOPRO': ['graxa','oleo lubrificante','palheta de saxofone/clarinete'],
-    'EQUIPAMENTO_AUDIO': ['fone de ouvido','globo microfone','Interface de guitarra','pedal','mesa de som','microfone'],
-    'EQUIPAMENTO_CABO': ['cabo CFTV','cabo de rede','caixa medusa','Medusa','painel de conexão','patch panel','régua de energia','switch', 'cabos de som'],
-    'EQUIPAMENTO_SOM': ['amplificador','caixa de som','cubo para guitarra'],
-    "INSTRUMENTO_CORDA": ["violino","viola","violão","guitarra","baixo","violoncelo"],
-    "INSTRUMENTO_PERCUSSAO": ["afuché","bateria","bombo","caixa tenor","ganza","pandeiro","quadriton","quintoton","reco reco","surdo","tambor","tarol","timbales"],
-    "INSTRUMENTO_SOPRO": ["trompete","bombardino","trompa","trombone","tuba","sousafone","clarinete","saxofone","flauta","tuba bombardão","flugelhorn","euphonium"],
-    "INSTRUMENTO_TECLAS": ["piano","teclado digital","glockenspiel","metalofone"],
-}
+# --- Subcategorization Keywords ------------------------------------
+# A IA agora usará esta lista para identificar a subcategoria diretamente.
+ALL_SUBCATEGORIES = [
+    'arco', 'cavalete', 'corda', 'kit nut', 'kit rastilho', 'bag', 'banco', 
+    'carrinho prancha', 'estante de partitura', 'suporte', 'baqueta', 
+    'carrilhão', 'esteira', 'Máquina de Hi Hat', 'Pad para Bumbo', 'parafuso', 
+    'pedal de bumbo', 'pele', 'prato', 'sino', 'talabarte', 'triângulo', 
+    'graxa', 'oleo lubrificante', 'palheta de saxofone/clarinete', 
+    'fone de ouvido', 'globo microfone', 'Interface de guitarra', 'pedal', 
+    'mesa de som', 'microfone', 'cabo CFTV', 'cabo de rede', 'caixa medusa', 
+    'Medusa', 'P10', 'P2xP10', 'painel de conexão', 'xlr M/F', 'amplificador', 
+    'caixa de som', 'cubo para guitarra', "violino", "viola", "violão", 
+    "guitarra", "baixo", "violoncelo", "afuché", "bateria", "bombo", "bumbo", 
+    "caixa de guerra", "caixa tenor", "ganza", "pandeiro", "quadriton", 
+    "reco reco", "surdo", "tambor", "tarol", "timbales", "trompete", 
+    "bombardino", "trompa", "trombone", "tuba", "sousafone", "clarinete", 
+    "saxofone", "flauta", "tuba bombardão", "flugelhorn", "euphonium", 
+    "piano", "teclado digital", "glockenspiel", "metalofone"
+]
 
-def load_categorized_products(file_path):
-    """Carrega produtos categorizados de uma planilha Excel."""
-    try:
-        df = pd.read_excel(file_path)
-        return df.set_index('ID_PRODUTO')[['categoria_principal', 'subcategoria']].to_dict('index')
-    except FileNotFoundError:
-        print(f"ERROR: Could not load categorized products file: {file_path}")
-        return {}
-
-# ============================================================
+# ============================================================ 
 # FUNÇÕES DE SUPORTE
-# ============================================================
+# ============================================================ 
 
 def gerar_conteudo_com_fallback(prompt: str, modelos: list[str]) -> str | None:
     """
@@ -72,7 +68,6 @@ def gerar_conteudo_com_fallback(prompt: str, modelos: list[str]) -> str | None:
             model = genai.GenerativeModel(nome_modelo)
             response = model.generate_content(prompt)
 
-            # Verifica se a resposta veio vazia (comum com filtros de segurança)
             if not response.parts:
                 finish_reason = response.candidates[0].finish_reason.name if response.candidates else 'N/A'
                 print(f"   - ❌ A GERAÇÃO RETORNOU VAZIA. Motivo: {finish_reason}. Isso pode ser causado por filtros de segurança.")
@@ -82,7 +77,7 @@ def gerar_conteudo_com_fallback(prompt: str, modelos: list[str]) -> str | None:
             return response.text
         except google_exceptions.ResourceExhausted as e:
             print(f"- ⚠️ Cota excedida para o modelo '{nome_modelo}'. Tentando o próximo da lista.")
-            time.sleep(5)  # Pausa para não sobrecarregar o próximo modelo imediatamente
+            time.sleep(5)
             continue
         except Exception as e:
             print(f"   - ❌ Erro inesperado com o modelo '{nome_modelo}': {e}")
@@ -90,40 +85,45 @@ def gerar_conteudo_com_fallback(prompt: str, modelos: list[str]) -> str | None:
     print("   - ❌ FALHA TOTAL: Todos os modelos na lista de fallback falharam.")
     return None
 
-def categorize_item(description: str, categories: list) -> str:
-    """Usa o modelo de IA para classificar o item em uma das categorias fornecidas."""
-    print("-🗣️Asking AI for the item category...")
+def get_subcategory_from_ai(description: str, subcategories: list) -> str:
+    """Usa o modelo de IA para extrair a subcategoria mais apropriada da descrição do item."""
+    print("-🗣️ Asking AI for the item subcategory...")
     
     prompt = f"""
     <objetivo>
     Você é um especialista em instrumentos musicais e equipamentos de áudio.
-    Sua tarefa é classificar o item a seguir na categoria mais apropriada de uma lista fornecida.
-    Responda APENAS com o nome da categoria escolhida.
+    Sua tarefa é analisar a descrição do item a seguir e identificar a qual subcategoria de produto ele pertence.
+    Responda APENAS com o nome da subcategoria da lista fornecida que melhor descreve o item.
+    Se o item parecer uma combinação ou não se encaixar perfeitamente, escolha a subcategoria do componente principal. 
     </objetivo>
 
     <item_descricao>
     {description}
     </item_descricao>
 
-    <lista_de_categorias>
-    {json.dumps(categories, indent=2)}
-    </lista_de_categorias>
+    <lista_de_subcategorias_validas>
+    {json.dumps(subcategories, indent=2)}
+    </lista_de_subcategorias_validas>
 
-    Categoria:
+    Subcategoria:
     """
     
     response_text = gerar_conteudo_com_fallback(prompt, LLM_MODELS_FALLBACK)
     if response_text:
-        category = response_text.strip().replace("'", "").replace('"', '')
-        if category in categories:
-            return category
+        # Limpa a resposta para garantir que seja apenas a subcategoria
+        subcategory = response_text.strip().replace("'", "").replace('"', '').lower()
+        
+        # Validação para garantir que a IA retornou uma subcategoria válida da lista
+        if subcategory in [s.lower() for s in subcategories]:
+            # Retorna a subcategoria com a capitalização original da lista
+            original_case_subcategory = next(s for s in subcategories if s.lower() == subcategory)
+            return original_case_subcategory
         else:
-            print(f"   - WARNING: AI returned an invalid category: '{category}'. Defaulting to OUTROS.")
+            print(f"   - WARNING: AI returned an invalid or new subcategory: '{subcategory}'. Defaulting to OUTROS.")
             return "OUTROS"
     else:
-        print(f"   - ERROR: AI call for categorization failed for all models.")
+        print(f"   - ERROR: AI call for subcategorization failed for all models.")
         return "OUTROS"
-
 
 
 def get_best_match_from_ai(item_edital, df_candidates):
@@ -179,7 +179,7 @@ Retorne "best_match" como `null`. Adicionalmente, inclua "closest_match" com os 
     response_text = gerar_conteudo_com_fallback(prompt, LLM_MODELS_FALLBACK)
     if response_text:
         try:
-            cleaned_response = response_text.strip().replace("```json","").replace("```","")
+            cleaned_response = response_text.strip().replace("```json","",).replace("```","")
             return json.loads(cleaned_response)
         except json.JSONDecodeError as e:
             print(f"   - ERROR decoding JSON from AI: {e}")
@@ -187,9 +187,9 @@ Retorne "best_match" como `null`. Adicionalmente, inclua "closest_match" com os 
     else:
         return {"best_match": None, "closest_match": None, "reasoning": "Falha na chamada da API para todos os modelos de fallback."}
 
-# ============================================================
+# ============================================================ 
 # MAIN
-# ============================================================
+# ============================================================ 
 
 def main():
     print("Starting the product matching process...")
@@ -211,17 +211,14 @@ def main():
         print(f"ERROR: Could not load data files. Details: {e}")
         return
 
-    # Carregar dados existentes se o arquivo de saída já existir
     if os.path.exists(CAMINHO_SAIDA):
         print(f"   - Loading existing data from: {os.path.basename(CAMINHO_SAIDA)}")
         df_existing = pd.read_excel(CAMINHO_SAIDA)
-        # Criar uma chave única para identificar itens já processados
         existing_keys = set(zip(df_existing['ARQUIVO'].astype(str), df_existing['Nº'].astype(str)))
     else:
         df_existing = pd.DataFrame()
         existing_keys = set()
 
-    # Filtrar edital para processar apenas itens novos
     df_edital_new = df_edital[~df_edital.apply(lambda row: (str(row['ARQUIVO']), str(row['Nº'])) in existing_keys, axis=1)].copy()
 
     if df_edital_new.empty:
@@ -234,7 +231,7 @@ def main():
 
     for idx, item_edital in df_edital_new.iterrows():
         descricao = str(item_edital['DESCRICAO'])
-        print(f"\n 📈 Processing new item {idx + 1}/{total_new_items}: {descricao[:60]}...")
+        print(f"\n 📈 Processing new item {df_edital_new.index.get_loc(idx) + 1}/{total_new_items}: {descricao[:60]}...")
         status = ""
         best_match_data = None
         closest_match_data = None
@@ -255,16 +252,20 @@ def main():
                 print(f"- ⚠️ Nenhum produto encontrado abaixo do custo máximo de R${max_cost:.2f}.")
             status = "Nenhum Produto com Margem"
         else:
-            item_category = categorize_item(descricao, list(CATEGORIZATION_KEYWORDS.keys()))
+            # --- LÓGICA DE FILTRAGEM ATUALIZADA ---
+            # 1. Obter a subcategoria específica via IA
+            item_subcategory = get_subcategory_from_ai(descricao, ALL_SUBCATEGORIES)
             time.sleep(10)
-            print(f"   - AI categorized item as: {item_category}")
-            df_final_candidates = df_candidates[df_candidates['categoria_principal'] == item_category]
+            print(f"   - AI categorized item into subcategory: {item_subcategory}")
+
+            # 2. Filtrar a base de dados pela subcategoria retornada
+            df_final_candidates = df_candidates[df_candidates['subcategoria'].str.lower() == item_subcategory.lower()]
 
             if df_final_candidates.empty:
-                print(f"- ⚠️ Nenhum produto encontrado na categoria '{item_category}'.")
-                status = "Nenhum Produto na Categoria"
+                print(f"- ⚠️ Nenhum produto encontrado na subcategoria '{item_subcategory}'.")
+                status = "Nenhum Produto na Subcategoria"
             else:
-                print(f"  🦆 - Temos {len(df_final_candidates)} candidatos depois da filtragem.")
+                print(f"  🦆 - Temos {len(df_final_candidates)} candidatos após a filtragem por subcategoria.")
                 ai_result = get_best_match_from_ai(item_edital, df_final_candidates)
                 time.sleep(30)
 
@@ -299,9 +300,7 @@ def main():
             'LOCAL_ENTREGA': item_edital.get('LOCAL_ENTREGA', ''),
             'INTERVALO_LANCES': item_edital.get('INTERVALO_LANCES', ''),
             'MOTIVO_INCOMPATIBILIDADE': reasoning if status != "Match Encontrado" else None
-}
-
-
+        }
 
         if data_to_populate:
             cost_price = float(data_to_populate.get('Valor') or 0)
@@ -310,15 +309,15 @@ def main():
             qtde = int(item_edital.get('QTDE', 0) or 0)
             margem_total = margem_valor * qtde
             result_row.update({
-        'MARCA_SUGERIDA': data_to_populate.get('Marca'),
-        'MODELO_SUGERIDO': data_to_populate.get('Modelo'),
-        'CUSTO_FORNECEDOR': cost_price,
-        'PRECO_FINAL_VENDA': final_price,
-        'MARGEM_LUCRO_VALOR': margem_valor,
-        'MARGEM_LUCRO_TOTAL': margem_total,
-        'DESCRICAO_FORNECEDOR': data_to_populate.get('Descricao_fornecedor'),
-        'ANALISE_COMPATIBILIDADE': data_to_populate.get('Compatibilidade_analise')
-    })
+                'MARCA_SUGERIDA': data_to_populate.get('Marca'),
+                'MODELO_SUGERIDO': data_to_populate.get('Modelo'),
+                'CUSTO_FORNECEDOR': cost_price,
+                'PRECO_FINAL_VENDA': final_price,
+                'MARGEM_LUCRO_VALOR': margem_valor,
+                'MARGEM_LUCRO_TOTAL': margem_total,
+                'DESCRICAO_FORNECEDOR': data_to_populate.get('Descricao_fornecedor'),
+                'ANALISE_COMPATIBILIDADE': data_to_populate.get('Compatibilidade_analise')
+            })
 
         results.append(result_row)
 
@@ -330,17 +329,15 @@ def main():
 
     df_results = pd.DataFrame(results)
     
-    # Concatenar com dados existentes
     df_final = pd.concat([df_existing, df_results], ignore_index=True)
 
-
     output_columns = [
-    'ARQUIVO','Nº','STATUS','DESCRICAO_EDITAL','VALOR_UNIT_EDITAL',
-    'MARCA_SUGERIDA','MODELO_SUGERIDO','QTDE','CUSTO_FORNECEDOR',
-    'PRECO_FINAL_VENDA','MARGEM_LUCRO_VALOR','MARGEM_LUCRO_TOTAL',
-    'MOTIVO_INCOMPATIBILIDADE','DESCRICAO_FORNECEDOR','ANALISE_COMPATIBILIDADE',
-    'LOCAL_ENTREGA','INTERVALO_LANCES']
-
+        'ARQUIVO','Nº','STATUS','DESCRICAO_EDITAL','VALOR_UNIT_EDITAL',
+        'MARCA_SUGERIDA','MODELO_SUGERIDO','QTDE','CUSTO_FORNECEDOR',
+        'PRECO_FINAL_VENDA','MARGEM_LUCRO_VALOR','MARGEM_LUCRO_TOTAL',
+        'MOTIVO_INCOMPATIBILIDADE','DESCRICAO_FORNECEDOR','ANALISE_COMPATIBILIDADE',
+        'LOCAL_ENTREGA','INTERVALO_LANCES'
+    ]
     
     for col in output_columns:
         if col not in df_final.columns:
@@ -351,31 +348,35 @@ def main():
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    writer = pd.ExcelWriter(CAMINHO_SAIDA, engine='openpyxl')
-    df_final.to_excel(writer, index=False, sheet_name='Proposta')
+    try:
+        writer = pd.ExcelWriter(CAMINHO_SAIDA, engine='openpyxl')
+        df_final.to_excel(writer, index=False, sheet_name='Proposta')
 
-    workbook = writer.book
-    worksheet = writer.sheets['Proposta']
+        workbook = writer.book
+        worksheet = writer.sheets['Proposta']
 
-    green_fill = PatternFill(start_color='C6EFCE', end_color='C6EFCE', fill_type='solid')
-    yellow_fill = PatternFill(start_color='FFEB9C', end_color='FFEB9C', fill_type='solid')
-    red_fill = PatternFill(start_color='FFC7CE', end_color='FFC7CE', fill_type='solid')
+        green_fill = PatternFill(start_color='C6EFCE', end_color='C6EFCE', fill_type='solid')
+        yellow_fill = PatternFill(start_color='FFEB9C', end_color='FFEB9C', fill_type='solid')
+        red_fill = PatternFill(start_color='FFC7CE', end_color='FFC7CE', fill_type='solid')
 
-    for row_idx, status in enumerate(df_final['STATUS'], 2):
-        fill_to_apply = None
-        if status == "Match Encontrado":
-            fill_to_apply = green_fill
-        elif status == "Match Parcial (Sugestão)":
-            fill_to_apply = yellow_fill
-        elif status in ["Nenhum Produto com Margem", "Nenhum Produto na Categoria", "Nenhum Produto Compatível"]:
-            fill_to_apply = red_fill
+        for row_idx, status in enumerate(df_final['STATUS'], 2):
+            fill_to_apply = None
+            if status == "Match Encontrado":
+                fill_to_apply = green_fill
+            elif status == "Match Parcial (Sugestão)":
+                fill_to_apply = yellow_fill
+            elif status in ["Nenhum Produto com Margem", "Nenhum Produto na Subcategoria", "Nenhum Produto Compatível"]:
+                fill_to_apply = red_fill
 
-        if fill_to_apply:
-            for col_idx in range(1, len(df_final.columns) + 1):
-                worksheet.cell(row=row_idx, column=col_idx).fill = fill_to_apply
-    
-    writer.close()
-    print(f"✅ Success! Output file updated at: {CAMINHO_SAIDA}")
+            if fill_to_apply:
+                for col_idx in range(1, len(df_final.columns) + 1):
+                    worksheet.cell(row=row_idx, column=col_idx).fill = fill_to_apply
+        
+        writer.close()
+        print(f"✅ Success! Output file updated at: {CAMINHO_SAIDA}")
+    except Exception as e:
+        print(f"❌ Error writing output file: {e}")
+
 
 if __name__ == "__main__":
     main()

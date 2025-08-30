@@ -25,9 +25,9 @@ from dotenv import load_dotenv
 # Makes the script robust by building absolute paths from the project root.
 _SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(_SCRIPT_DIR)
-CAMINHO_DADOS = r'C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\PRODUTOS\produtos_o4-mini.xlsx'
+CAMINHO_DADOS = r"C:\Users\pietr\Downloads\Erro de processamento.xlsx"
 PASTA_SAIDA = r'C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\RESULTADO_metadados'
-ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "categoria_o4-mini_v5.xlsx")
+ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "categoria_claude_sonnet_v6.xlsx")
 
 # --- LLM Config ---
 # A chave de API agora deve ser carregada de um arquivo .env para segurança.
@@ -133,10 +133,15 @@ def curar_descricoes_em_batch_llm(batch_produtos: list[dict]) -> list[str]:
 Sua tarefa é criar uma descrição técnica concisa para CADA produto na lista JSON abaixo.
 
 **Regras Essenciais para CADA produto:**
-1.  **Foco em Dados:** Liste apenas especificações técnicas concretas e verificáveis (ex: material, dimensões, tipo de conexão). Use o Google para confirmar as informações.
-2.  **Sem "Encheção":** NÃO inclua opiniões, marketing, ou frases vagas.
-3.  **Omissão é Chave:** Se não encontrar uma informação com certeza, não a mencione.
-4.  **Formato Limpo:** Apresente as especificações como uma lista de características separadas por vírgulas.
+1. **Foco em Dados:** Liste apenas especificações técnicas concretas e verificáveis (ex: material, dimensões, tipo de conexão). Use o Google para confirmar as informações.
+2. **Sem "Encheção":** NÃO inclua opiniões, marketing, ou frases vagas.
+3. **Omissão é Chave:** Se não encontrar uma informação com certeza, não a mencione.
+4. **Formato Limpo:** Apresente as especificações como uma lista de características separadas por vírgulas.
+5. **Instrução:** Complete a descrição com: tipo do produto e suas principais características técnicas.
+
+**Exemplo de Descrição Curada:**
+- Produto: "Fone de Ouvido XYZ"
+- Descrição Curada: "Fone de ouvido over-ear, driver de 40mm, resposta de frequência 20Hz-20kHz, impedância 32 ohms, cabo destacável de 1.2m." 
 
 **ENTRADA (Lista de {len(batch_produtos)} produtos):**
 {produtos_json}
@@ -190,7 +195,6 @@ def processar_batch_llm(batch_descricoes: list[str]) -> list[dict]:
         "ACESSORIO_SOPRO : graxa,oleo lubrificante,palheta de saxofone/clarinete\n"
         "EQUIPAMENTO_AUDIO : fone de ouvido,globo microfone,Interface de guitarra,pedal,mesa de som,microfone\n"
         "EQUIPAMENTO_CABO : cabo CFTV, cabo de rede, Medusa, switch, cabo_musical\n"
-
         
         "**TAREFA:**\n"
         "Para CADA descrição na lista de entrada (há exatamente {len(batch_descricoes)} itens), determine a `CATEGORIA_PRINCIPAL` e a `SUBCATEGORIA`.\n"
