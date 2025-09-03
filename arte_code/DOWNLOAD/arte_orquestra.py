@@ -16,7 +16,6 @@ Versão: 2.0.0 (Fluxo de Trello condicional e Livro Razão)
 import os
 import time
 import re
-import glob
 import zipfile
 import shutil
 from pathlib import Path
@@ -58,7 +57,7 @@ PALAVRAS_CHAVE = [
     r'Microfone', r'Microfone direcional', r'Suporte microfone', r'Microfone Dinâmico', r'Microfone de Lapela',
     r'Base microfone', r'Pedestal microfone', r'Medusa para microfone', r'Pré-amplificador microfone',
     r'Caixa Acústica', r'Caixa de Som', r'Caixa som', r'Subwoofer', r'tarol', r'Estante - partitura',
-    r'Amplificador de áudio', r'Amplificador som', r'Amplificador fone ouvido', r'Aparelho Som'
+    r'Amplificador de áudio', r'Amplificador som', r'Amplificador fone ouvido'
     r'Piano', r'Suporte para teclado', r'Mesa áudio', r'Interface de Áudio', r'Piano',
     r'Pedestal', r'Pedestal caixa acústica', r'Pedal Efeito', r'fone de ouvido', r'headset', 
     r'Bateria Eletrônica', r'Cabo extensor',r'Tela projeção', r'Projetor Multimídia', 
@@ -307,12 +306,12 @@ class WavecodeAutomation:
                         clean_edital = re.sub(r'[^\w\-]', '_', str(edital))
                         clean_comprador = re.sub(r'[^\w\-]', '_', comprador)
                         clean_dia_disputa = dia_disputa.replace(':', 'h').replace(' - ', '_').replace('/', '-') + 'm'
-                        new_name = f"U_{uasg}_E_{clean_edital}_{clean_dia_disputa}{ext}"
+                        new_name = f"U_{uasg}_E_{clean_edital}_C_{clean_comprador}_{clean_dia_disputa}{ext}"
                         new_path = os.path.join(self.download_dir, new_name)
                         
                         counter = 1
                         while os.path.exists(new_path):
-                            new_path = os.path.join(self.download_dir, f"U_{uasg}_E_{clean_edital}_{clean_dia_disputa}_{counter}{ext}")
+                            new_path = os.path.join(self.download_dir, f"U_{uasg}_E_{clean_edital}_C_{clean_comprador}_{clean_dia_disputa}_{counter}{ext}")
                             counter += 1
                         os.rename(os.path.join(self.download_dir, new_file), new_path)
                         self.log(f"✅ Arquivo baixado: {new_name}")
@@ -822,35 +821,6 @@ class WavecodeAutomation:
         except Exception as e:
             self.log(f"❌ Erro ao processar master.xlsx para criar cards no Trello: {e}")
 
-    def limpar_arquivos(self):
-        """
-        Exclui todos os arquivos PDF da pasta EDITAIS e todas as planilhas
-        da pasta ORCAMENTOS.
-        """
-        self.log("Limpando arquivos gerados...")
-
-        # --- Excluir PDFs em EDITAIS ---
-        arquivos_pdf = glob.glob(os.path.join(self.download_dir, '**', '*.pdf'), recursive=True)
-        self.log(f"Encontrados {len(arquivos_pdf)} arquivos PDF para excluir em {self.download_dir}.")
-        for f in arquivos_pdf:
-            try:
-                os.remove(f)
-            except OSError as e:
-                self.log(f"ERRO ao excluir {os.path.basename(f)}: {e.strerror}")
-
-        # --- Excluir Planilhas em ORCAMENTOS ---
-        planilhas_orcamento = glob.glob(os.path.join(self.orcamentos_dir, '**', '*.xls*'), recursive=True)
-        self.log(f"Encontrados {len(planilhas_orcamento)} planilhas para excluir em {self.orcamentos_dir}.")
-        for f in planilhas_orcamento:
-            try:
-                os.remove(f)
-            except OSError as e:
-                self.log(f"ERRO ao excluir {os.path.basename(f)}: {e.strerror}")
-
-        self.log("Limpeza concluída.")
-
-    
-
     def run(self, max_pages_to_process=5):
         """
         Executa o pipeline completo de automação, incluindo a lógica de paginação por número de página.
@@ -920,10 +890,8 @@ class WavecodeAutomation:
         
         self.log("\n[6/7] Filtrando itens relevantes para o master.xlsx...")
         self.filtrar_e_atualizar_master()
-        self.create_trello_cards_for_master_items(newly_downloaded_bids)
 
-        self.log("\n[7/7] Consolidando itens no summary.xlsx...")
-        self.limpar_arquivos()
+        self.create_trello_cards_for_master_items(newly_downloaded_bids)
 
         print("\n🎉 PIPELINE CONCLUÍDO!")
         print(f"📁 Arquivos de orçamento em: {self.orcamentos_dir}")

@@ -25,13 +25,14 @@ from dotenv import load_dotenv
 # Makes the script robust by building absolute paths from the project root.
 _SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(_SCRIPT_DIR)
-CAMINHO_DADOS = r"C:\Users\pietr\Downloads\Erro de processamento.xlsx"
-PASTA_SAIDA = r'C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\RESULTADO_metadados'
-ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "categoria_claude_sonnet_v6.xlsx")
+CAMINHO_DADOS = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\PRODUTOS\produtos_summary.xlsx"
+PASTA_SAIDA = r'DOWNLOADS/PRODUTOS/'
+ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "categoria_sonnet.xlsx")
 
 # --- LLM Config ---
 # A chave de API agora deve ser carregada de um arquivo .env para segurança.
 load_dotenv()
+
 # O script tentará os modelos nesta ordem. Se um falhar por cota, ele passa para o próximo.
 # Usando nomes padrão da API para garantir compatibilidade.
 LLM_MODELS_FALLBACK = [        
