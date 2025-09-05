@@ -36,12 +36,11 @@ from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 from datetime import datetime
 try:
-    from zoneinfo import ZoneInfo  # Py 3.9+
+    from zoneinfo import ZoneInfo  
 except Exception:
     ZoneInfo = None
 
 # === Configuration ===
-
 BASE_DIR = r"C:\Users\pietr\OneDrive\.vscode\arte_"
 DOWNLOAD_DIR = os.path.join(BASE_DIR, "DOWNLOADS")
 ORCAMENTOS_DIR = os.path.join(BASE_DIR, "ORCAMENTOS")
