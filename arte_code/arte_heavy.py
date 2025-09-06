@@ -11,9 +11,9 @@ from openpyxl.styles import PatternFill
 # ======================================================================
 
 # --- File Paths ---
-BASE_DIR = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master.xlsx"
+BASE_DIR = r"C:\Users\pietr\OneDrive\.vscode\arte_"
 CAMINHO_EDITAL = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master.xlsx"
-CAMINHO_BASE = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\categoria_sonnet.xlsx"
+CAMINHO_BASE = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\RESULTADO_metadados\categoria_sonnet.xlsx"
 CAMINHO_SAIDA = os.path.join(BASE_DIR, "DOWNLOADS", "ORCAMENTOS", "master_heavy.xlsx")
 
 # --- Financial Parameters ---
@@ -92,7 +92,7 @@ def gerar_conteudo_com_fallback(prompt: str, modelos: list[str]) -> str | None:
 
 def categorize_item(description: str, categories: list) -> str:
     """Usa o modelo de IA para classificar o item em uma das categorias fornecidas."""
-    print("-🗣️Asking AI for the item category...")
+    print("-🪼 Asking AI for the item category...")
     
     prompt = f"""
     <objetivo>
@@ -128,7 +128,7 @@ def categorize_item(description: str, categories: list) -> str:
 
 def get_best_match_from_ai(item_edital, df_candidates):
     """Usa o modelo de IA para encontrar o melhor match dentro dos candidatos."""
-    print("-🗣️Asking AI for the best match...")
+    print("-🪼 Asking AI for the best match...")
 
     candidates_json = df_candidates[['DESCRICAO','categoria_principal','subcategoria','MARCA','MODELO','VALOR']] \
                         .to_json(orient="records", force_ascii=False, indent=2)
@@ -195,7 +195,7 @@ def main():
     print("Starting the product matching process...")
 
     load_dotenv()
-    api_key = os.getenv("GOOGLE_API_KEY")
+    api_key = os.getenv("GOOGLE_API_PAGO")
     if not api_key:
         print("ERROR: GOOGLE_API_KEY not found in .env file.")
         return

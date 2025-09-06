@@ -202,7 +202,7 @@ class ArteOrchestrator:
             os.path.join(DOWNLOADS_DIR, "master.xlsx"),
             os.path.join(DOWNLOADS_DIR, "summary.xlsx"),
             os.path.join(DOWNLOADS_DIR, "livro_razao.xlsx"),
-            os.path.join(DOWNLOADS_DIR, "RESULTADO_metadados", "categoria_o4-mini_v4.xlsx"),
+            os.path.join(DOWNLOADS_DIR, "RESULTADO_metadados", "categoria_sonnet.xlsx"),
             os.path.join(DOWNLOADS_DIR, "ORCAMENTOS", "master_heavy.xlsx")
         ]
         
@@ -235,10 +235,10 @@ def main():
             orchestrator.run_pipeline()
         else:
             print("Comandos disponíveis:")
-            print("  python nipsey.py status    - Mostra status dos arquivos")
-            print("  python nipsey.py download  - Executa apenas download")
-            print("  python nipsey.py matching  - Executa apenas matching")
-            print("  python nipsey.py full      - Executa pipeline completo")
+            print("  python arte_code\nipsey.py status    - Mostra status dos arquivos")
+            print("  python arte_code\nipsey.py download  - Executa apenas download")
+            print("  python arte_code\nipsey.py matching - Executa apenas matching")
+            print("  python arte_code\nipsey.py full      - Executa pipeline completo")
     else:
         # Execução padrão: pipeline completo
         orchestrator.run_pipeline()

@@ -51,13 +51,14 @@ def test_files():
         (os.path.join(downloads_dir, "master.xlsx"), "master.xlsx"),
         (os.path.join(downloads_dir, "summary.xlsx"), "summary.xlsx"),
         (os.path.join(downloads_dir, "livro_razao.xlsx"), "livro_razao.xlsx"),
-        (os.path.join(downloads_dir, "PRODUTOS", "produtos_o4-mini.xlsx"), "produtos_o4-mini.xlsx"),
-        (os.path.join(downloads_dir, "RESULTADO_metadados", "categoria_o4-mini_v4.xlsx"), "categoria_o4-mini_v4.xlsx"),
+        (os.path.join(downloads_dir, "PRODUTOS", "base_produtos.xlsx"), "produtos_o4-mini.xlsx"),
+        (os.path.join(downloads_dir, "RESULTADO_metadados", "categoria_sonnet.xlsx"), "categoria_sonnet.xlsx"),
     ]
     
     all_good = True
     for file_path, description in files_to_test:
         if os.path.exists(file_path):
+
             try:
                 # Tenta abrir o arquivo Excel
                 df = pd.read_excel(file_path)
@@ -151,7 +152,7 @@ def test_dependencies():
 def main():
     """Função principal de teste"""
     print("="*60)
-    print("🧪 TESTE DE INTEGRIDADE DO SISTEMA ARTE")
+    print("TESTE DE INTEGRIDADE DO SISTEMA ARTE")
     print("="*60)
     
     tests = [
