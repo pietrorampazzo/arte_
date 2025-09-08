@@ -26,7 +26,7 @@ _SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(_SCRIPT_DIR)
 CAMINHO_DADOS = r"DOWNLOADS/PRODUTOS/base_produtos.xlsx"
 PASTA_SAIDA = r'C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS'
-ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "categoria_sonnet.xlsx")
+ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "categoria_GROK.xlsx")
 
 # --- LLM Config ---
 # A chave de API agora deve ser carregada de um arquivo .env para segurança.
@@ -34,12 +34,12 @@ load_dotenv()
 
 # O script tentará os modelos nesta ordem. Se um falhar por cota, ele passa para o próximo.
 # Usando nomes padrão da API para garantir compatibilidade.
-LLM_MODELS_FALLBACK = [        
+LLM_MODELS_FALLBACK = [    
+    "gemini-2.5-pro",    
     "gemini-2.5-flash",
     "gemini-2.5-flash-lite",
     "gemini-2.0-flash",
     "gemini-2.0-flash-lite",
-    "gemini-2.5-pro",
     "gemini-1.5-flash",  
 ]
 LLM_MODEL_PRIMARY = LLM_MODELS_FALLBACK[0]

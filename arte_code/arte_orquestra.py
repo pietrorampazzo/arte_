@@ -46,8 +46,7 @@ except Exception:
 
 # === Configuration ===
 BASE_DIR = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS"
-DOWNLOAD_DIR = os.path.join(BASE_DIR, "EDITAIS")  # Arquivos baixados vão para EDITAIS
-ORCAMENTOS_DIR = os.path.join(BASE_DIR, "ORCAMENTOS")
+DOWNLOAD_DIR = os.path.join(BASE_DIR, "EDITAIS")  # Arquivos baixados e processados vão para EDITAIS
 LIVRO_RAZAO_PATH = os.path.join(BASE_DIR, "livro_razao.xlsx") # Ledger de todos os editais processados
 SUMMARY_EXCEL_PATH = os.path.join(BASE_DIR, "summary.xlsx") # Este é o arquivo com todos os itens dos novos editais
 FINAL_MASTER_PATH = os.path.join(BASE_DIR, "master.xlsx") # Este será o arquivo final filtrado
@@ -78,7 +77,6 @@ LISTAS_PREPARANDO = ['6650f3369bb9bacb525d1dc8']
 class WavecodeAutomation:
     def __init__(self, debug=True):
         self.download_dir = DOWNLOAD_DIR
-        self.orcamentos_dir = ORCAMENTOS_DIR
         self.base_url = "https://app2.wavecode.com.br/"
         self.login_email = "pietromrampazzo@gmail.com"
         self.login_password = "Piloto@314"
@@ -86,7 +84,6 @@ class WavecodeAutomation:
         self.wait = None
         self.debug = debug
         os.makedirs(self.download_dir, exist_ok=True)
-        os.makedirs(self.orcamentos_dir, exist_ok=True)
         self.processed_cards = set()
 
     def load_processed_bids(self):
@@ -193,7 +190,7 @@ class WavecodeAutomation:
             self.driver.get(self.base_url)
             email_field = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input[type='text'][placeholder*='email']")))
             password_field = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input[type='password']")))
-            login_button = self.wait.until(EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'ACESSAR')]")))
+            login_button = self.wait.until(EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'ACESSAR')]" )))
 
             email_field.clear()
             email_field.send_keys(self.login_email)
@@ -263,7 +260,7 @@ class WavecodeAutomation:
         last_height = self.driver.execute_script("return document.body.scrollHeight")
         while True:
             self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(3)
+            time.sleep(5)
             new_height = self.driver.execute_script("return document.body.scrollHeight")
             if new_height == last_height:
                 break
@@ -310,7 +307,7 @@ class WavecodeAutomation:
         try:
             files_before = set(os.listdir(self.download_dir))
             self.driver.execute_script("arguments[0].scrollIntoView(true);", download_element)
-            time.sleep(3)
+            time.sleep(8)
             if download_element.tag_name == 'a':
                 self.driver.execute_script("window.open(arguments[0].href, '_blank');", download_element)
                 self.driver.switch_to.window(self.driver.window_handles[-1])
@@ -322,7 +319,7 @@ class WavecodeAutomation:
             max_wait = 2
             waited = 0
             while waited < max_wait:
-                time.sleep(3)
+                time.sleep(8)
                 waited += 2
                 files_after = set(os.listdir(self.download_dir))
                 new_files = files_after - files_before
@@ -333,12 +330,12 @@ class WavecodeAutomation:
                         clean_edital = re.sub(r'[^\w\-]', '_', str(edital))
                         clean_comprador = re.sub(r'[^\w\-]', '_', comprador)
                         clean_dia_disputa = dia_disputa.replace(':', 'h').replace(' - ', '_').replace('/', '-') + 'm'
-                        new_name = f"U_{uasg}_E_{clean_edital}_C_{clean_comprador}_{clean_dia_disputa}{ext}"
+                        new_name = f"U_{uasg}_E_{clean_edital}_{clean_dia_disputa}{ext}"
                         new_path = os.path.join(self.download_dir, new_name)
                         
                         counter = 1
                         while os.path.exists(new_path):
-                            new_path = os.path.join(self.download_dir, f"U_{uasg}_E_{clean_edital}_C_{clean_comprador}_{clean_dia_disputa}_{counter}{ext}")
+                            new_path = os.path.join(self.download_dir, f"U_{uasg}_E_{clean_edital}_{clean_dia_disputa}_{counter}{ext}")
                             counter += 1
                         os.rename(os.path.join(self.download_dir, new_file), new_path)
                         self.log(f"✅ Arquivo baixado: {new_name}")
@@ -478,7 +475,7 @@ class WavecodeAutomation:
                 comprador = "Desconhecido"
 
             self.log(
-                f"✅ Extraído: UASG={uasg}, Edital={edital}, Comprador='{comprador}', Disputa='{dia_disputa}'"
+                f"🔍 Informações extraído: UASG={uasg}, Edital={edital}, Comprador='{comprador}', Disputa='{dia_disputa}'"
             )
             return uasg, edital, comprador, dia_disputa
 
@@ -530,36 +527,21 @@ class WavecodeAutomation:
             self.save_debug_screenshot(f"process_page_{page_num}_error")
             return 0
 
-    def limpar_diretorios():
-        # Obtém o caminho do diretório onde o script está localizado
-        script_dir = os.path.dirname(os.path.abspath(__file__))
-        # Constrói o caminho para o diretório 'arte_'
-        base_dir = os.path.dirname(script_dir)
-
-        # Define os diretórios a serem limpos
-        diretorios_para_limpar = [
-            os.path.join(base_dir, 'DOWNLOADS', 'EDITAIS'),
-            os.path.join(base_dir, 'DOWNLOADS', 'ORCAMENTOS')
-        ]
-
-        # Define as extensões dos arquivos a serem deletados
-        extensoes_para_deletar = ['.pdf', '.zip', '.xlsx']
-
-        for diretorio in diretorios_para_limpar:
-            if not os.path.exists(diretorio):
-                print(f"Diretório não encontrado: {diretorio}")
-                continue
-
-            print(f"Limpando o diretório: {diretorio}")
-            for root, dirs, files in os.walk(diretorio):
-                for file in files:
-                    if any(file.lower().endswith(ext) for ext in extensoes_para_deletar):
-                        file_path = os.path.join(root, file)
-                        try:
-                            os.remove(file_path)
-                            print(f"  Deletado arquivo: {file_path}")
-                        except OSError as e:
-                            print(f"  Erro ao deletar o arquivo {file_path}: {e}")
+    def limpar_diretorios(self):
+        """
+        Limpa apenas os arquivos na raiz do diretório de downloads (EDITAIS),
+        preservando as subpastas de cada edital.
+        """
+        self.log(f"Limpando arquivos na raiz de: {self.download_dir}")
+        
+        for item_name in os.listdir(self.download_dir):
+            item_path = os.path.join(self.download_dir, item_name)
+            if os.path.isfile(item_path):
+                try:
+                    os.remove(item_path)
+                    self.log(f"  Deletado arquivo: {item_name}")
+                except OSError as e:
+                    self.log(f"  Erro ao deletar o arquivo {item_name}: {e}")
 
     def descompactar_arquivos(self, input_dir=None):
         pasta = Path(input_dir or self.download_dir)
@@ -605,8 +587,7 @@ class WavecodeAutomation:
             end_pos = item_matches[i + 1].start() if i + 1 < len(item_matches) else len(text)
             item_text = text[start_pos:end_pos]
 
-            descricao_match = re.search(r'Descrição Detalhada:\s*(.*?)(?=Tratamento Diferenciado:)|Aplicabilidade Decreto|$',
-                                       item_text, re.DOTALL | re.IGNORECASE)
+            descricao_match = re.search(r'Descrição Detalhada:\s*(.*?)(?=Tratamento Diferenciado:|Aplicabilidade Decreto|$)', item_text, re.DOTALL | re.IGNORECASE)
             descricao = ""
             if descricao_match:
                 descricao = descricao_match.group(1).strip()
@@ -621,12 +602,12 @@ class WavecodeAutomation:
             quantidade = quantidade_match.group(1) if quantidade_match else ""
 
             valor_unitario = ""
-            valor_unitario_match = re.search(r'Valor Unitário[^:]*:\s*R?\$?\s*([\d.,]+)', item_text, re.IGNORECASE)
+            valor_unitario_match = re.search(r'Valor Unitário[^:]*:\s*R?$?\s*([\d.,]+)', item_text, re.IGNORECASE)
             if valor_unitario_match:
                 valor_unitario = valor_unitario_match.group(1)
 
             valor_total = ""
-            valor_total_match = re.search(r'Valor Total[^:]*:\s*R?\$?\s*([\d.,]+)', item_text, re.IGNORECASE)
+            valor_total_match = re.search(r'Valor Total[^:]*:\s*R?$?\s*([\d.,]+)', item_text, re.IGNORECASE)
             if valor_total_match:
                 valor_total = valor_total_match.group(1)
 
@@ -634,7 +615,7 @@ class WavecodeAutomation:
             unidade = unidade_match.group(1).strip() if unidade_match else ""
 
             intervalo = ""
-            for pattern in [r'Intervalo Mínimo entre Lances[^:]*:\s*R?\$?\s*([\d.,]+)', r'Intervalo[^:]*:\s*R?\$?\s*([\d.,]+)']:
+            for pattern in [r'Intervalo Mínimo entre Lances[^:]*:\s*R?$?\s*([\d.,]+)', r'Intervalo[^:]*:\s*R?$?\s*([\d.,]+)']:
                 intervalo_match = re.search(pattern, item_text, re.IGNORECASE)
                 if intervalo_match:
                     intervalo = intervalo_match.group(1)
@@ -727,7 +708,7 @@ class WavecodeAutomation:
 
     def pdfs_para_xlsx(self, input_dir=None, output_dir=None):
         input_dir = input_dir or self.download_dir
-        output_dir = output_dir or self.orcamentos_dir
+        output_dir = output_dir or self.download_dir # Centralizado em EDITAIS
         os.makedirs(output_dir, exist_ok=True)
         if not os.path.exists(input_dir):
             self.log(f"Erro: Diretório de entrada não encontrado: {input_dir}")
@@ -768,7 +749,7 @@ class WavecodeAutomation:
         return df
 
     def combine_excel_files(self, input_dir=None, output_file=None):
-        input_dir = input_dir or self.orcamentos_dir
+        input_dir = input_dir or self.download_dir # Centralizado em EDITAIS
         output_file = output_file or SUMMARY_EXCEL_PATH
         excel_files = [f for f in os.listdir(input_dir) if f.endswith('.xlsx') and f != os.path.basename(output_file)]
         if not excel_files:
@@ -991,7 +972,7 @@ class WavecodeAutomation:
                             )
                             self.driver.execute_script("arguments[0].click();", page_button)
                             self.log(f"✅ Clique na página '{page_num}' realizado.")
-                            time.sleep(3)
+                            time.sleep(8)
                             self.scroll_to_load_editais()
 
                         except TimeoutException:
@@ -1030,19 +1011,19 @@ class WavecodeAutomation:
         self.log("\n[5/8] Consolidando itens no summary.xlsx...")
         self.combine_excel_files()
         
-        self.log("\n[6/8] Filtrando itens relevantes para o master.xlsx...")
+        self.log("[6/8] Filtrando itens relevantes para o master.xlsx...")
         self.filtrar_e_atualizar_master()
 
-        self.log("\n[7/8] Filtrando itens relevantes para o master.xlsx...")
+        self.log("[7/8] Limpando arquivos temporários da pasta de download...")
         self.limpar_diretorios()  
 
-        self.log("\n[8/8] Create cards no Trello para novos editais com itens no master...")
+        self.log("[8/8] Create cards no Trello para novos editais com itens no master...")
         self.create_trello_cards_for_master_items(newly_downloaded_bids)
 
 
 
         print("\n🎉 PIPELINE CONCLUÍDO!")
-        print(f"📁 Arquivos de orçamento em: {self.orcamentos_dir}")
+        print(f"📁 Arquivos processados em: {self.download_dir}")
         print(f"📊 Master Final Filtrada: {FINAL_MASTER_PATH}")
         print(f"📖 Livro Razão atualizado: {LIVRO_RAZAO_PATH}")
 

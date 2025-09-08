@@ -12,8 +12,8 @@ from openpyxl.styles import PatternFill
 
 # --- File Paths ---
 BASE_DIR = r"C:\Users\pietr\OneDrive\.vscode\arte_"
-CAMINHO_EDITAL = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master.xlsx"
-CAMINHO_BASE = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\RESULTADO_metadados\categoria_sonnet.xlsx"
+CAMINHO_EDITAL = os.path.join(BASE_DIR, "DOWNLOADS", "master.xlsx")
+CAMINHO_BASE = os.path.join(BASE_DIR, "DOWNLOADS", "RESULTADO_metadados", "categoria_GROK.xlsx")
 CAMINHO_SAIDA = os.path.join(BASE_DIR, "DOWNLOADS", "ORCAMENTOS", "master_heavy.xlsx")
 
 # --- Financial Parameters ---
@@ -21,8 +21,6 @@ PROFIT_MARGIN = 0.53  # MARGEM DE LUCRO
 INITIAL_PRICE_FILTER_PERCENTAGE = 0.60  # FILTRO DE PREÇO DOS PRODUTOS NA BASE
 
 # --- AI Model Configuration ---
-# Lista de modelos para fallback. O script tentará o primeiro e, em caso de
-# erro de cota, passará para o próximo da lista.
 LLM_MODELS_FALLBACK = [
     "gemini-2.0-flash-lite",
     "gemini-2.5-flash",
@@ -47,7 +45,6 @@ CATEGORIZATION_KEYWORDS = {
     "INSTRUMENTO_TECLAS": ["piano","teclado digital","glockenspiel","metalofone"],
 }
 
-
 def load_categorized_products(file_path):
     """Carrega produtos categorizados de uma planilha Excel."""
     try:
@@ -57,9 +54,9 @@ def load_categorized_products(file_path):
         print(f"ERROR: Could not load categorized products file: {file_path}")
         return {}
 
-# ============================================================
+# ============================================================ 
 # FUNÇÕES DE SUPORTE
-# ============================================================
+# ============================================================ 
 
 def gerar_conteudo_com_fallback(prompt: str, modelos: list[str]) -> str | None:
     """
@@ -72,7 +69,6 @@ def gerar_conteudo_com_fallback(prompt: str, modelos: list[str]) -> str | None:
             model = genai.GenerativeModel(nome_modelo)
             response = model.generate_content(prompt)
 
-            # Verifica se a resposta veio vazia (comum com filtros de segurança)
             if not response.parts:
                 finish_reason = response.candidates[0].finish_reason.name if response.candidates else 'N/A'
                 print(f"   - ❌ A GERAÇÃO RETORNOU VAZIA. Motivo: {finish_reason}. Isso pode ser causado por filtros de segurança.")
@@ -82,7 +78,7 @@ def gerar_conteudo_com_fallback(prompt: str, modelos: list[str]) -> str | None:
             return response.text
         except google_exceptions.ResourceExhausted as e:
             print(f"- ⚠️ Cota excedida para o modelo '{nome_modelo}'. Tentando o próximo da lista.")
-            time.sleep(5)  # Pausa para não sobrecarregar o próximo modelo imediatamente
+            time.sleep(5)
             continue
         except Exception as e:
             print(f"   - ❌ Erro inesperado com o modelo '{nome_modelo}': {e}")
@@ -90,40 +86,62 @@ def gerar_conteudo_com_fallback(prompt: str, modelos: list[str]) -> str | None:
     print("   - ❌ FALHA TOTAL: Todos os modelos na lista de fallback falharam.")
     return None
 
-def categorize_item(description: str, categories: list) -> str:
-    """Usa o modelo de IA para classificar o item em uma das categorias fornecidas."""
-    print("-🪼 Asking AI for the item category...")
-    
-    prompt = f"""
-    <objetivo>
-    Você é um especialista em instrumentos musicais e equipamentos de áudio.
-    Sua tarefa é classificar o item a seguir na categoria mais apropriada de uma lista fornecida.
-    Responda APENAS com o nome da categoria escolhida.
-    </objetivo>
+def get_item_classification(description: str, categories_with_subcategories: dict) -> dict | None:
+    """Usa o modelo de IA para classificar o item, retornando categoria e subcategoria."""
+    print("-🪼 Asking AI for item classification (category and subcategory)...")
 
-    <item_descricao>
-    {description}
-    </item_descricao>
+    prompt = f"""<objetivo>
+Você é um especialista em instrumentos musicais e equipamentos de áudio.
+Sua tarefa é classificar o item a seguir, identificando sua categoria principal e uma subcategoria específica.
+- A categoria principal DEVE ser uma da lista <lista_de_categorias_principais>.
+- A subcategoria DEVE ser o tipo específico do produto (ex: 'violão', 'guitarra', 'pedal de bumbo', 'microfone dinâmico').
+Responda APENAS com um objeto JSON.
+</objetivo>
 
-    <lista_de_categorias>
-    {json.dumps(categories, indent=2)}
-    </lista_de_categorias>
+<item_descricao>
+{description}
+</item_descricao>
 
-    Categoria:
-    """
-    
+<lista_de_categorias_principais>
+{json.dumps(list(categories_with_subcategories.keys()), indent=2)}
+</lista_de_categorias_principais>
+
+<exemplos_de_subcategorias_por_categoria>
+{json.dumps({k: v[:3] for k, v in categories_with_subcategories.items()}, indent=2)}
+</exemplos_de_subcategorias_por_categoria>
+
+<formato_saida>
+{{
+  "categoria_principal": "NOME_DA_CATEGORIA_PRINCIPAL",
+  "subcategoria": "NOME_DA_SUBCATEGORIA_ESPECIFICA"
+}}
+</formato_saida>
+
+JSON:
+"""
+
     response_text = gerar_conteudo_com_fallback(prompt, LLM_MODELS_FALLBACK)
     if response_text:
-        category = response_text.strip().replace("'", "").replace('"', '')
-        if category in categories:
-            return category
-        else:
-            print(f"   - WARNING: AI returned an invalid category: '{category}'. Defaulting to OUTROS.")
-            return "OUTROS"
-    else:
-        print(f"   - ERROR: AI call for categorization failed for all models.")
-        return "OUTROS"
+        try:
+            cleaned_response = response_text.strip().replace("```json", "").replace("```", "")
+            classification = json.loads(cleaned_response)
+            
+            if 'categoria_principal' in classification and 'subcategoria' in classification:
+                if classification['categoria_principal'] in categories_with_subcategories:
+                    return classification
+                else:
+                    print(f"   - WARNING: AI returned an invalid main category: '{classification['categoria_principal']}'.")
+                    return None
+            else:
+                print("   - WARNING: AI response is missing required keys ('categoria_principal', 'subcategoria').")
+                return None
 
+        except json.JSONDecodeError as e:
+            print(f"   - ERROR decoding JSON from AI for classification: {e}")
+            return None
+    else:
+        print("   - ERROR: AI call for classification failed for all models.")
+        return None
 
 
 def get_best_match_from_ai(item_edital, df_candidates):
@@ -179,17 +197,17 @@ Retorne "best_match" como `null`. Adicionalmente, inclua "closest_match" com os 
     response_text = gerar_conteudo_com_fallback(prompt, LLM_MODELS_FALLBACK)
     if response_text:
         try:
-            cleaned_response = response_text.strip().replace("```json","").replace("```","")
+            cleaned_response = response_text.strip().replace("```json", "").replace("```", "")
             return json.loads(cleaned_response)
         except json.JSONDecodeError as e:
             print(f"   - ERROR decoding JSON from AI: {e}")
-            return {"best_match": None, "closest_match": None, "reasoning": f"Erro na decodificação do JSON da API: {e}"}
+            return {{ "best_match": None, "closest_match": None, "reasoning": f"Erro na decodificação do JSON da API: {e}"}}
     else:
-        return {"best_match": None, "closest_match": None, "reasoning": "Falha na chamada da API para todos os modelos de fallback."}
+        return { "best_match": None, "closest_match": None, "reasoning": "Falha na chamada da API para todos os modelos de fallback."}
 
-# ============================================================
+# ============================================================ 
 # MAIN
-# ============================================================
+# ============================================================ 
 
 def main():
     print("Starting the product matching process...")
@@ -211,17 +229,14 @@ def main():
         print(f"ERROR: Could not load data files. Details: {e}")
         return
 
-    # Carregar dados existentes se o arquivo de saída já existir
     if os.path.exists(CAMINHO_SAIDA):
         print(f"   - Loading existing data from: {os.path.basename(CAMINHO_SAIDA)}")
         df_existing = pd.read_excel(CAMINHO_SAIDA)
-        # Criar uma chave única para identificar itens já processados
         existing_keys = set(zip(df_existing['ARQUIVO'].astype(str), df_existing['Nº'].astype(str)))
     else:
         df_existing = pd.DataFrame()
         existing_keys = set()
 
-    # Filtrar edital para processar apenas itens novos
     df_edital_new = df_edital[~df_edital.apply(lambda row: (str(row['ARQUIVO']), str(row['Nº'])) in existing_keys, axis=1)].copy()
 
     if df_edital_new.empty:
@@ -255,16 +270,47 @@ def main():
                 print(f"- ⚠️ Nenhum produto encontrado abaixo do custo máximo de R${max_cost:.2f}.")
             status = "Nenhum Produto com Margem"
         else:
-            item_category = categorize_item(descricao, list(CATEGORIZATION_KEYWORDS.keys()))
-            time.sleep(10)
-            print(f"   - AI categorized item as: {item_category}")
-            df_final_candidates = df_candidates[df_candidates['categoria_principal'] == item_category]
+            classification = get_item_classification(descricao, CATEGORIZATION_KEYWORDS)
+            time.sleep(10) 
+
+            df_final_candidates = pd.DataFrame()
+            filter_level = "Nenhum"
+
+            if classification:
+                main_category = classification.get('categoria_principal')
+                subcategory = classification.get('subcategoria')
+                print(f"   - AI classified item as: Categoria='{main_category}', Subcategoria='{subcategory}'")
+
+                if subcategory:
+                    df_filtered_sub = df_candidates[df_candidates['subcategoria'].str.contains(subcategory, case=False, na=False)]
+                    if not df_filtered_sub.empty:
+                        print(f"  - ✅ Found {len(df_filtered_sub)} candidates matching SUBCATEGORY '{subcategory}'.")
+                        df_final_candidates = df_filtered_sub
+                        filter_level = "Subcategoria"
+
+                if df_final_candidates.empty and main_category:
+                    print(f"  - ⚠️ No candidates found for subcategory '{subcategory}'. Trying main category...")
+                    df_filtered_main = df_candidates[df_candidates['categoria_principal'] == main_category]
+                    if not df_filtered_main.empty:
+                        print(f"  - ✅ Found {len(df_filtered_main)} candidates matching MAIN CATEGORY '{main_category}'.")
+                        df_final_candidates = df_filtered_main
+                        filter_level = "Categoria Principal"
+
+                if df_final_candidates.empty:
+                    print(f"  - ⚠️ No candidates found for main category '{main_category}'. Using all price-filtered products...")
+                    df_final_candidates = df_candidates
+                    filter_level = "Apenas Preço"
+            
+            else:
+                print("   - ⚠️ AI classification failed. Using all price-filtered products as fallback.")
+                df_final_candidates = df_candidates
+                filter_level = "Apenas Preço (Falha na IA)"
 
             if df_final_candidates.empty:
-                print(f"- ⚠️ Nenhum produto encontrado na categoria '{item_category}'.")
+                print(f"- ⚠️ Nenhum produto encontrado após todas as tentativas de filtro.")
                 status = "Nenhum Produto na Categoria"
             else:
-                print(f"  🦆 - Temos {len(df_final_candidates)} candidatos depois da filtragem.")
+                print(f"  🦆 - Temos {len(df_final_candidates)} candidatos para a IA (filtrado por: {filter_level}).")
                 ai_result = get_best_match_from_ai(item_edital, df_final_candidates)
                 time.sleep(30)
 
@@ -320,7 +366,6 @@ def main():
 
     df_results = pd.DataFrame(results)
     
-    # Concatenar com dados existentes
     df_final = pd.concat([df_existing, df_results], ignore_index=True)
 
     output_columns = [
