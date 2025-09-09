@@ -46,7 +46,8 @@ except Exception:
 
 # === Configuration ===
 BASE_DIR = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS"
-DOWNLOAD_DIR = os.path.join(BASE_DIR, "EDITAIS")  # Arquivos baixados e processados vão para EDITAIS
+DOWNLOAD_DIR = os.path.join(BASE_DIR, "EDITAIS")  # Arquivos baixados vão para EDITAIS
+ORCAMENTOS_DIR = os.path.join(BASE_DIR, "EDITAIS", "aba")
 LIVRO_RAZAO_PATH = os.path.join(BASE_DIR, "livro_razao.xlsx") # Ledger de todos os editais processados
 SUMMARY_EXCEL_PATH = os.path.join(BASE_DIR, "summary.xlsx") # Este é o arquivo com todos os itens dos novos editais
 FINAL_MASTER_PATH = os.path.join(BASE_DIR, "master.xlsx") # Este será o arquivo final filtrado
@@ -77,6 +78,7 @@ LISTAS_PREPARANDO = ['6650f3369bb9bacb525d1dc8']
 class WavecodeAutomation:
     def __init__(self, debug=True):
         self.download_dir = DOWNLOAD_DIR
+        self.orcamentos_dir = ORCAMENTOS_DIR
         self.base_url = "https://app2.wavecode.com.br/"
         self.login_email = "pietromrampazzo@gmail.com"
         self.login_password = "Piloto@314"
@@ -84,6 +86,7 @@ class WavecodeAutomation:
         self.wait = None
         self.debug = debug
         os.makedirs(self.download_dir, exist_ok=True)
+        os.makedirs(self.orcamentos_dir, exist_ok=True)
         self.processed_cards = set()
 
     def load_processed_bids(self):
@@ -190,7 +193,7 @@ class WavecodeAutomation:
             self.driver.get(self.base_url)
             email_field = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input[type='text'][placeholder*='email']")))
             password_field = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input[type='password']")))
-            login_button = self.wait.until(EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'ACESSAR')]" )))
+            login_button = self.wait.until(EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'ACESSAR')]")))
 
             email_field.clear()
             email_field.send_keys(self.login_email)
@@ -528,20 +531,54 @@ class WavecodeAutomation:
             return 0
 
     def limpar_diretorios(self):
-        """
-        Limpa apenas os arquivos na raiz do diretório de downloads (EDITAIS),
-        preservando as subpastas de cada edital.
-        """
-        self.log(f"Limpando arquivos na raiz de: {self.download_dir}")
-        
-        for item_name in os.listdir(self.download_dir):
-            item_path = os.path.join(self.download_dir, item_name)
-            if os.path.isfile(item_path):
+        # Obtém o caminho do diretório onde o script está localizado
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        # Constrói o caminho para o diretório 'arte_'
+        base_dir = os.path.dirname(script_dir)
+
+        # Define os diretórios a serem limpos (apenas na raiz)
+        diretorios_para_limpar = [
+            os.path.join(base_dir, 'DOWNLOADS', 'EDITAIS'),
+            os.path.join(base_dir, 'DOWNLOADS', 'ORCAMENTOS')
+        ]
+
+        # Define as extensões dos arquivos a serem deletados
+        extensoes_para_deletar = ['.pdf', '.zip', '.xlsx']
+
+        for diretorio in diretorios_para_limpar:
+            if not os.path.exists(diretorio):
+                print(f"Diretório não encontrado: {diretorio}")
+                continue
+
+            print(f"Limpando a raiz do diretório: {diretorio}")
+            # Itera apenas sobre os arquivos na raiz do diretório, não nas subpastas
+            for item in os.listdir(diretorio):
+                item_path = os.path.join(diretorio, item)
+                # Verifica se é um arquivo e se a extensão corresponde
+                if os.path.isfile(item_path) and any(item.lower().endswith(ext) for ext in extensoes_para_deletar):
+                    try:
+                        os.remove(item_path)
+                        print(f"  Deletado arquivo: {item_path}")
+                    except OSError as e:
+                        print(f"  Erro ao deletar o arquivo {item_path}: {e}")
+
+    def limpar_patio(self):
+        """Limpa os arquivos .xlsx intermediários da pasta 'patio'."""
+        diretorio = self.orcamentos_dir
+        if not os.path.exists(diretorio):
+            self.log(f"Diretório do pátio não encontrado: {diretorio}")
+            return
+
+        self.log(f"Limpando o diretório do pátio: {diretorio}")
+        for item in os.listdir(diretorio):
+            item_path = os.path.join(diretorio, item)
+            # Deleta apenas arquivos .xlsx
+            if os.path.isfile(item_path) and item.lower().endswith('.xlsx'):
                 try:
                     os.remove(item_path)
-                    self.log(f"  Deletado arquivo: {item_name}")
+                    self.log(f"  Deletado arquivo do pátio: {item_path}")
                 except OSError as e:
-                    self.log(f"  Erro ao deletar o arquivo {item_name}: {e}")
+                    self.log(f"  Erro ao deletar o arquivo {item_path}: {e}")
 
     def descompactar_arquivos(self, input_dir=None):
         pasta = Path(input_dir or self.download_dir)
@@ -587,7 +624,8 @@ class WavecodeAutomation:
             end_pos = item_matches[i + 1].start() if i + 1 < len(item_matches) else len(text)
             item_text = text[start_pos:end_pos]
 
-            descricao_match = re.search(r'Descrição Detalhada:\s*(.*?)(?=Tratamento Diferenciado:|Aplicabilidade Decreto|$)', item_text, re.DOTALL | re.IGNORECASE)
+            descricao_match = re.search(r'Descrição Detalhada:\s*(.*?)(?=Tratamento Diferenciado:)|Aplicabilidade Decreto|$',
+                                       item_text, re.DOTALL | re.IGNORECASE)
             descricao = ""
             if descricao_match:
                 descricao = descricao_match.group(1).strip()
@@ -602,12 +640,12 @@ class WavecodeAutomation:
             quantidade = quantidade_match.group(1) if quantidade_match else ""
 
             valor_unitario = ""
-            valor_unitario_match = re.search(r'Valor Unitário[^:]*:\s*R?$?\s*([\d.,]+)', item_text, re.IGNORECASE)
+            valor_unitario_match = re.search(r'Valor Unitário[^:]*:\s*R?\$?\s*([\d.,]+)', item_text, re.IGNORECASE)
             if valor_unitario_match:
                 valor_unitario = valor_unitario_match.group(1)
 
             valor_total = ""
-            valor_total_match = re.search(r'Valor Total[^:]*:\s*R?$?\s*([\d.,]+)', item_text, re.IGNORECASE)
+            valor_total_match = re.search(r'Valor Total[^:]*:\s*R?\$?\s*([\d.,]+)', item_text, re.IGNORECASE)
             if valor_total_match:
                 valor_total = valor_total_match.group(1)
 
@@ -615,7 +653,7 @@ class WavecodeAutomation:
             unidade = unidade_match.group(1).strip() if unidade_match else ""
 
             intervalo = ""
-            for pattern in [r'Intervalo Mínimo entre Lances[^:]*:\s*R?$?\s*([\d.,]+)', r'Intervalo[^:]*:\s*R?$?\s*([\d.,]+)']:
+            for pattern in [r'Intervalo Mínimo entre Lances[^:]*:\s*R?\$?\s*([\d.,]+)', r'Intervalo[^:]*:\s*R?\$?\s*([\d.,]+)']:
                 intervalo_match = re.search(pattern, item_text, re.IGNORECASE)
                 if intervalo_match:
                     intervalo = intervalo_match.group(1)
@@ -708,7 +746,7 @@ class WavecodeAutomation:
 
     def pdfs_para_xlsx(self, input_dir=None, output_dir=None):
         input_dir = input_dir or self.download_dir
-        output_dir = output_dir or self.download_dir # Centralizado em EDITAIS
+        output_dir = output_dir or self.orcamentos_dir
         os.makedirs(output_dir, exist_ok=True)
         if not os.path.exists(input_dir):
             self.log(f"Erro: Diretório de entrada não encontrado: {input_dir}")
@@ -749,7 +787,7 @@ class WavecodeAutomation:
         return df
 
     def combine_excel_files(self, input_dir=None, output_file=None):
-        input_dir = input_dir or self.download_dir # Centralizado em EDITAIS
+        input_dir = input_dir or self.orcamentos_dir
         output_file = output_file or SUMMARY_EXCEL_PATH
         excel_files = [f for f in os.listdir(input_dir) if f.endswith('.xlsx') and f != os.path.basename(output_file)]
         if not excel_files:
@@ -1014,8 +1052,9 @@ class WavecodeAutomation:
         self.log("[6/8] Filtrando itens relevantes para o master.xlsx...")
         self.filtrar_e_atualizar_master()
 
-        self.log("[7/8] Limpando arquivos temporários da pasta de download...")
-        self.limpar_diretorios()  
+        self.log("[7/8] Limpando arquivos temporários...")
+        self.limpar_diretorios()
+        self.limpar_patio()
 
         self.log("[8/8] Create cards no Trello para novos editais com itens no master...")
         self.create_trello_cards_for_master_items(newly_downloaded_bids)
@@ -1023,7 +1062,7 @@ class WavecodeAutomation:
 
 
         print("\n🎉 PIPELINE CONCLUÍDO!")
-        print(f"📁 Arquivos processados em: {self.download_dir}")
+        print(f"📁 Arquivos de orçamento em: {self.orcamentos_dir}")
         print(f"📊 Master Final Filtrada: {FINAL_MASTER_PATH}")
         print(f"📖 Livro Razão atualizado: {LIVRO_RAZAO_PATH}")
 

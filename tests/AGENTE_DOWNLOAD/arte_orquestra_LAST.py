@@ -47,7 +47,7 @@ except Exception:
 # === Configuration ===
 BASE_DIR = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS"
 DOWNLOAD_DIR = os.path.join(BASE_DIR, "EDITAIS")  # Arquivos baixados vão para EDITAIS
-ORCAMENTOS_DIR = os.path.join(BASE_DIR, "ORCAMENTOS")
+ORCAMENTOS_DIR = os.path.join(BASE_DIR, "EDITAIS", "patio")
 LIVRO_RAZAO_PATH = os.path.join(BASE_DIR, "livro_razao.xlsx") # Ledger de todos os editais processados
 SUMMARY_EXCEL_PATH = os.path.join(BASE_DIR, "summary.xlsx") # Este é o arquivo com todos os itens dos novos editais
 FINAL_MASTER_PATH = os.path.join(BASE_DIR, "master.xlsx") # Este será o arquivo final filtrado

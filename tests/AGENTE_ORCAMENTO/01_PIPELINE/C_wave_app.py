@@ -7,7 +7,7 @@ Pipeline sequencial:
 """
 import os
 from A_download_edital import main as download_editais
-import B_depx
+import tests.functions.B_depx as B_depx
 
 PASTA_DOWNLOAD = r"C:\Users\pietr\Meu Drive\arte_comercial\DOWNLOADS"
 PASTA_ORCAMENTOS = r"C:\Users\pietr\Meu Drive\arte_comercial\ORÇARMENTO"
