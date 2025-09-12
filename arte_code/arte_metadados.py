@@ -26,7 +26,7 @@ _SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(_SCRIPT_DIR)
 CAMINHO_DADOS = r"DOWNLOADS/PRODUTOS/base_produtos.xlsx"
 PASTA_SAIDA = r'C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS'
-ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "categoria_GROK.xlsx")
+ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "categoria_GEMINI.xlsx")
 
 # --- LLM Config ---
 # A chave de API agora deve ser carregada de um arquivo .env para segurança.

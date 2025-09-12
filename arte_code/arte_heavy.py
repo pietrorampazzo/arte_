@@ -77,7 +77,7 @@ def gerar_conteudo_com_fallback(prompt: str, modelos: list[str]) -> str | None:
             print(f"   - Sucesso com o modelo '{nome_modelo}'.")
             return response.text
         except google_exceptions.ResourceExhausted as e:
-            print(f"- ⚠️ Cota excedida para o modelo '{nome_modelo}'. Tentando o próximo da lista.")
+            print(f"- Cota excedida para o modelo '{nome_modelo}'. Tentando o próximo da lista.")
             time.sleep(5)
             continue
         except Exception as e:
@@ -92,9 +92,9 @@ def get_item_classification(description: str, categories_with_subcategories: dic
 
     prompt = f"""<objetivo>
 Você é um especialista em instrumentos musicais e equipamentos de áudio.
-Sua tarefa é classificar o item a seguir, identificando sua categoria principal e uma subcategoria específica.
-- A categoria principal DEVE ser uma da lista <lista_de_categorias_principais>.
-- A subcategoria DEVE ser o tipo específico do produto (ex: 'violão', 'guitarra', 'pedal de bumbo', 'microfone dinâmico').
+Sua tarefa é classificar o item a seguir, identificando sua `categoria_principal` e `subcategoria` com base na estrutura fornecida.
+- A `categoria_principal` DEVE ser uma das chaves da estrutura abaixo.
+- A `subcategoria` DEVE ser um dos valores da lista associada à categoria principal escolhida.
 Responda APENAS com um objeto JSON.
 </objetivo>
 
@@ -102,13 +102,9 @@ Responda APENAS com um objeto JSON.
 {description}
 </item_descricao>
 
-<lista_de_categorias_principais>
-{json.dumps(list(categories_with_subcategories.keys()), indent=2)}
-</lista_de_categorias_principais>
-
-<exemplos_de_subcategorias_por_categoria>
-{json.dumps({k: v[:3] for k, v in categories_with_subcategories.items()}, indent=2)}
-</exemplos_de_subcategorias_por_categoria>
+<estrutura_de_categorias_e_subcategorias_permitidas>
+{json.dumps(categories_with_subcategories, indent=2, ensure_ascii=False)}
+</estrutura_de_categorias_e_subcategorias_permitidas>
 
 <formato_saida>
 {{
@@ -338,6 +334,11 @@ def main():
             'ARQUIVO': item_edital['ARQUIVO'],
             'Nº': item_edital['Nº'],
             'DESCRICAO_EDITAL': item_edital['DESCRICAO'],
+            'UNID_FORN': item_edital.get('UNID_FORN'),
+            'QTDE': item_edital.get('QTDE'),
+            'VALOR_TOTAL': item_edital.get('VALOR_TOTAL'),
+            'LOCAL_ENTREGA': item_edital.get('LOCAL_ENTREGA'),
+            'INTERVALO_LANCES': item_edital.get('INTERVALO_LANCES'),
             'VALOR_UNIT_EDITAL': item_edital['VALOR_UNIT'],
             'STATUS': status,
             'MOTIVO_INCOMPATIBILIDADE': reasoning if status != "Match Encontrado" else None
@@ -346,12 +347,16 @@ def main():
         if data_to_populate:
             cost_price = float(data_to_populate.get('Valor') or 0)
             final_price = cost_price * (1 + PROFIT_MARGIN)
+            margem_lucro_valor = final_price - cost_price
+            qtde = int(item_edital.get('QTDE') or 0)
+            lucro_total = margem_lucro_valor * qtde
             result_row.update({
                 'MARCA_SUGERIDA': data_to_populate.get('Marca'),
                 'MODELO_SUGERIDO': data_to_populate.get('Modelo'),
                 'CUSTO_FORNECEDOR': cost_price,
                 'PRECO_FINAL_VENDA': final_price,
-                'MARGEM_LUCRO_VALOR': final_price - cost_price,
+                'MARGEM_LUCRO_VALOR': margem_lucro_valor,
+                'LUCRO_TOTAL': lucro_total,
                 'DESCRICAO_FORNECEDOR': data_to_populate.get('Descricao_fornecedor'),
                 'ANALISE_COMPATIBILIDADE': data_to_populate.get('Compatibilidade_analise')
             })
@@ -369,9 +374,11 @@ def main():
     df_final = pd.concat([df_existing, df_results], ignore_index=True)
 
     output_columns = [
-        'ARQUIVO','Nº','STATUS','DESCRICAO_EDITAL','VALOR_UNIT_EDITAL',
-        'MARCA_SUGERIDA','MODELO_SUGERIDO','CUSTO_FORNECEDOR',
-        'PRECO_FINAL_VENDA','MARGEM_LUCRO_VALOR','MOTIVO_INCOMPATIBILIDADE',
+        'ARQUIVO','Nº','STATUS','DESCRICAO_EDITAL',
+        'UNID_FORN', 'QTDE', 'VALOR_UNIT_EDITAL', 'VALOR_TOTAL',
+        'LOCAL_ENTREGA', 'INTERVALO_LANCES',
+        'MARCA_SUGERIDA', 'MODELO_SUGERIDO', 'CUSTO_FORNECEDOR',
+        'PRECO_FINAL_VENDA','MARGEM_LUCRO_VALOR', 'LUCRO_TOTAL', 'MOTIVO_INCOMPATIBILIDADE',
         'DESCRICAO_FORNECEDOR','ANALISE_COMPATIBILIDADE'
     ]
     for col in output_columns:

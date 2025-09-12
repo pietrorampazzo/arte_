@@ -1,0 +1,15 @@
+2025-09-10 15:57:56,416 - __main__ - INFO - Loading tender data from Excel...
+2025-09-10 15:57:56,585 - utils_licitacoes - ERROR - Error loading Excel file: Worksheet named 'Licitações' not found
+2025-09-10 15:57:56,586 - __main__ - ERROR - Error running endpoint tests: Worksheet named 'Licitações' not found
+2025-09-10 15:58:54,105 - __main__ - ERROR - Error loading previous results: DataFrame index must be unique for orient='index'.
+2025-09-10 15:58:54,110 - utils_licitacoes - ERROR - Error loading Excel file: Worksheet named 'Licitações' not found
+2025-09-10 15:58:54,110 - __main__ - ERROR - Error monitoring tenders: Worksheet named 'Licitações' not found
+2025-09-10 15:58:54,110 - __main__ - ERROR - Error in tender monitoring: Worksheet named 'Licitações' not found
+2025-09-10 15:59:41,101 - __main__ - ERROR - Error loading previous results: DataFrame index must be unique for orient='index'.
+2025-09-10 15:59:41,109 - utils_licitacoes - ERROR - Error loading Excel file: Worksheet named 'Licitações' not found
+2025-09-10 15:59:41,110 - __main__ - ERROR - Error monitoring tenders: Worksheet named 'Licitações' not found
+2025-09-10 15:59:41,110 - __main__ - ERROR - Error in tender monitoring: Worksheet named 'Licitações' not found
+2025-09-10 16:00:54,889 - __main__ - ERROR - Error loading previous results: DataFrame index must be unique for orient='index'.
+2025-09-10 16:00:54,902 - utils_licitacoes - ERROR - Error loading Excel file: Missing required columns: ['UASG', 'EDITAL', 'Item']
+2025-09-10 16:00:54,902 - __main__ - ERROR - Error monitoring tenders: Missing required columns: ['UASG', 'EDITAL', 'Item']
+2025-09-10 16:00:54,902 - __main__ - ERROR - Error in tender monitoring: Missing required columns: ['UASG', 'EDITAL', 'Item']
