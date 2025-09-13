@@ -14,7 +14,7 @@ Características:
 - Código leve e eficiente
 
 Autor: Sistema Manus
-Data: Janeiro 2025
+Data: 2025
 Versão: 4.0 Final
 """
 

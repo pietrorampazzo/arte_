@@ -1,0 +1,306 @@
+EDITAL - PREGÃO ELETRÔNICO Nº 03/2025 — EACH/USP
+
+ANEXO Ill - MODELO DE TERMO DE CONTRATO
+Lei nº 14.133, de 1º de abril de 2021
+Fornecimento — Licitação (Pregão)
+
+Processo SEI nº 154.00007211/2025-02
+Contrato nº [NN/2025]-[EACH]
+
+CONTRATO QUE ENTRE SI CELEBRAM A UNIVERSIDADE
+DE SÃO PAULO, POR INTERMÉDIO DA ESCOLA DE
+ARTES, CIÊNCIAS E HUMANIDADES DA UNIVERSIDADE
+DE SÃO PAULO E A EMPRESA [NOME DA EMPRESA]
+OBJETIVANDO O FORNECIMENTO DE AQUISIÇÃO DE
+NOTEBOOK PARA DESENVOLVIMENTO.
+
+Ao(s) DD dia(s) do mês de MMM do ano de AAAA, a UNIVERSIDADE DE SÃO PAULO, por
+intermédio da(o) ESCOLA DE ARTES, CIÊNCIAS E HUMANIDADES DA UNIVERSIDADE DE
+SÃO PAULO, inscrita no C.N.P.J. sob nº 63.025.530/0062-26, localizada(o) no(a) Rua Arlindo
+Béttio, 1000 — Ermelino Matarazzo — 03828-000, neste ato representada por seu(ua) Diretor
+Prof. Dr. Ricardo Ricci Uvinha,por delegação de competência, nos termos da Portaria GR nº
+8.321/2024 e alterações posteriores, na Universidade de São Paulo, doravante denominado
+CONTRATANTE e, de outro lado, a empresa [NOME DA EMPRESA], CNPJ nº [CNPJ nº],
+sediada à [endereço completo], representada na forma de seu estatuto social, doravante
+denominada simplesmente CONTRATADA, e em observância às disposições da Lei n.º 14.133
+de 1º de abril de 2021, demais legislações aplicáveis e normativas referidas no presente contrato,
+vigentes no âmbito da Universidade de São Paulo, resolvem celebrar o presente Termo de
+Contrato, mediante as cláusulas e condições a seguir enunciadas.
+
+CLÁUSULA PRIMEIRA — OBJETO (art. 92, [ e |])
+
+1.3. O objeto do presente instrumento é a contratação de Aquisição de Notebook para
+Desenvolvimento, nas condições estabelecidas no Termo de Referência.
+1.4. Objeto da contratação:
+
+ITEM ESPECIFICAÇÃO CATMAT | UNIDADE | QUANTIDAD VALOR VALOR
+DE E UNITÁRIO TOTAL
+MEDIDA
+Notebook Classe: Unidade 2
+EA 7010
+Especificações:
+1 Características gerais PDM:
+8435
+Marca: Apple
+PP Código:
+Linha: MacBook Pro
+
+Página 43|/60
+Aprovado pelo Parecer PG.P. nº 5018/2024 (versão 13/03/2024)
+Edital de Pregão — Bens e Serviços - Lei nº 14.133, de 2021
+
+Documento assinado digitalmente - Por favor verifique o HASH de autenticidade na página 61 desse documento.
+
+
+EDITAL - PREGÃO ELETRÔNICO Nº 03/2025 — EACH/USP
+
+TJ
+
+Modelo: MacBook Pro |618643
+14" M3 Pro Modelo
+alfanumérico:
+MRX33LL/A
+
+Processador Placa
+gráfica: M3 PRO Core
+(14-Core)
+
+Marca do processador:
+Apple
+
+Linha do processador:
+M3
+
+Modelo do
+processador: M3 Pro
+
+Quantidade de
+núcleos:11
+
+Bateria
+
+Tipo de bateria:
+Polímero de lítio
+Memória
+
+Memória RAM: 18 GB
+
+Capacidade de disco
+SSD: 512 GB
+
+Tela
+
+Taxa de atualização da
+tela: 120 Hz Resolução
+da tela: 3024 px x 1964
+
+px
+
+Com tela tátil: Não
+
+Tamanho da tela: 14 "
+Sistema operacional
+
+Nome do sistema
+operacional: macOS
+
+Conectividade
+Portas de vídeo: HDMI
+
+Portas USB: Thunderbolt
+4
+
+Quantidade total de
+
+Página 44|/60
+Aprovado pelo Parecer PG.P. nº 5018/2024 (versão 13/03/2024)
+Edital de Pregão — Bens e Serviços - Lei nº 14.133, de 2021
+
+Documento assinado digitalmente - Por favor verifique o HASH de autenticidade na página 61 desse documento.
+
+
+EDITAL - PREGÃO ELETRÔNICO Nº 03/2025 — EACH/USP
+
+TJ
+
+portas USB: 3
+Com USB: Sim
+
+Com Wi-Fi: Sim
+Com HDMI: Sim
+
+Com saída para fones de
+ouvido: Sim
+
+Com leitor de cartão de
+memória: Sim
+
+Notebook Classe: Unidade 2
+Especificações: 7010
+Processador PDOM:
+8435
+compatível com Intelº digo:
+Core"" Ultra7 155H — | CÓdieo:
+619126
+
+(cache de 24 MB, 16
+núcleos, 22 threads, até
+4,8 GHz)
+
+Sistema operacional
+Windows 11 Pro
+(português — Brasil)
+Placa de vídeo:
+NVIDIAº? GeForce RTX""
+4060, 8 GB GDDR6
+
+Tela
+
+2 16", QHD+
+(2560x1600), WVA,
+antirreflexo, 300 nits
+
+Memória
+
+32GB DDR5 (2x16GB)
+5600MT/s; Expansível
+até 64GB (2 slots
+soDIMM)
+
+Armazenamento
+SSD de 512GB PCle
+NVMe M.2
+
+Cor Prata Gelo - Com
+revestimento em
+Alumínio
+
+Assistência técnica 1
+
+Página 45|/60
+Aprovado pelo Parecer PG.P. nº 5018/2024 (versão 13/03/2024)
+Edital de Pregão — Bens e Serviços - Lei nº 14.133, de 2021
+
+Documento assinado digitalmente - Por favor verifique o HASH de autenticidade na página 61 desse documento.
+
+
+EDITAL - PREGÃO ELETRÔNICO Nº 03/2025 — EACH/USP
+
+TJ
+
+ano de garantia básica
+via correios
+
+Teclado retroiluminado
+em português, com
+tecla Windows Copilot
+e leitor de impressão
+digital (compatível
+apenas com Windows)
+
+Portas
+
+1 Entrada de áudio
+universal*
+
+2 USB 3.2 Type-A de 12
+geração
+
+1 Tomada de energia 1
+Thunderbolt"“ 4.0
+
+1 HDM|I2.1
+
+Slots
+1 slot de cartão SD
+
+Câmera
+
+Webcam widescreen
+FHD (1080p) integrada
+com matriz digital de
+microfone duplo e
+redução de ruído
+temporal ativada
+
+Áudio e alto-falantes
+Dedicada:
+Alto-falantes estéreo
+com Waves
+MaxxAudio*º Pro e
+núcleos Dolby Atmos, 2
+W x 4=totalde 8 W, 2
+alto-falantes na parte
+frontal, 2 alto-falantes
+inferiores
+
+Chassi
+Material do chassi
+externo
+
+Página 46/60
+Aprovado pelo Parecer PG.P. nº 5018/2024 (versão 13/03/2024)
+Edital de Pregão — Bens e Serviços - Lei nº 14.133, de 2021
+
+Documento assinado digitalmente - Por favor verifique o HASH de autenticidade na página 61 desse documento.
+
+
+EDITAL - PREGÃO ELETRÔNICO Nº 03/2025 — EACH/USP
+
+TJ
+
+Revestimento externo
+de alumínio
+
+Wireless:
+
+Intelº Wi-Fi 6E AX211,
+2x2, 802.11ax,
+Bluetoothº wireless
+card
+
+Bateria principal:
+Bateria de 6 células e
+90Wh (integrada)
+
+Energia:
+Adaptador E5 130
+Watts Type-C (Bivolt)
+
+1.5. . Vinculam esta contratação, independentemente de transcrição:
+
+1.5.1. — Edital da Licitação - [PREGÃO] nº NN/AAAA - [SIGLA DA UNIDADE]
+1.5.2. . Termo de Referência;
+
+1.5.3. — Proposta Comercial datada de [NN/NN/NNNN];--
+
+1.54. — Eventuais anexos dos documentos supracitados.
+
+2. — CLÁUSULA SEGUNDA - VIGÊNCIA E PRORROGAÇÃO
+
+2.1. O prazo de vigência da contratação é de 30 (trinta) dias contados do(a) data de assinatura
+do contrato, na forma do artigo 105 da Lei nº 14.133, de 2021
+
+21.1. O prazo de vigência será automaticamente prorrogado, independentemente de
+termo aditivo, quando o objeto não for concluído no período firmado acima,
+ressalvadas as providências cabíveis no caso de culba do CONTRATADO,
+previstas neste instrumento.
+
+CLÁUSULA TERCEIRA - MODELOS DE EXECUÇÃO E GESTÃO CONTRATUAIS
+(art. 92, IV, Vil e XVII)
+
+3.1. O regime de execução contratual, os modelos de gestão e de execução, assim como os
+prazos e condições de conclusão, entrega, observação e recebimento do objeto constam no
+Termo de Referência, anexo a este Contrato.
+
+4. — CLÁUSULA QUARTA - SUBCONTRATAÇÃO
+
+4.1. Não será admitida a subcontratação do objeto contratual
+
+Página 47|/60
+Aprovado pelo Parecer PG.P. nº 5018/2024 (versão 13/03/2024)
+Edital de Pregão — Bens e Serviços - Lei nº 14.133, de 2021
+
+Documento assinado digitalmente - Por favor verifique o HASH de autenticidade na página 61 desse documento.
+
+

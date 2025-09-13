@@ -26,7 +26,7 @@ def gerar_conteudo():
 
     prompt = f"""
     
-  HELLO WORLD
+  HELLO WORLD gemini 
 
     """
 

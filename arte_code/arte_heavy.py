@@ -5,6 +5,7 @@ import os
 from dotenv import load_dotenv
 import json
 import time
+import logging
 from openpyxl.styles import PatternFill
 # ======================================================================
 # CONFIGURAÇÕES E CONSTANTES
@@ -44,6 +45,18 @@ CATEGORIZATION_KEYWORDS = {
     "INSTRUMENTO_SOPRO": ["trompete","bombardino","trompa","trombone","tuba","sousafone","clarinete","saxofone","flauta","tuba bombardão","flugelhorn","euphonium"],
     "INSTRUMENTO_TECLAS": ["piano","teclado digital","glockenspiel","metalofone"],
 }
+
+# --- Logging Configuration ---
+LOG_FILE = os.path.join(BASE_DIR, "DOWNLOADS", "arte_heavy.log")
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler(LOG_FILE, encoding='utf-8'),
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger(__name__)
 
 def load_categorized_products(file_path):
     """Carrega produtos categorizados de uma planilha Excel."""
@@ -206,11 +219,13 @@ Retorne "best_match" como `null`. Adicionalmente, inclua "closest_match" com os 
 # ============================================================ 
 
 def main():
+    logger.info("Starting the product matching process...")
     print("Starting the product matching process...")
 
     load_dotenv()
     api_key = os.getenv("GOOGLE_API_PAGO")
     if not api_key:
+        logger.error("GOOGLE_API_KEY not found in .env file.")
         print("ERROR: GOOGLE_API_KEY not found in .env file.")
         return
 
@@ -219,26 +234,33 @@ def main():
     try:
         df_edital = pd.read_excel(CAMINHO_EDITAL)
         df_base = pd.read_excel(CAMINHO_BASE)
+        logger.info(f"Loaded {len(df_edital)} items from {os.path.basename(CAMINHO_EDITAL)} and {len(df_base)} products from {os.path.basename(CAMINHO_BASE)}")
         print(f"👾 Edital loaded: {len(df_edital)} items from {os.path.basename(CAMINHO_EDITAL)}")
         print(f"📯 Product base loaded: {len(df_base)} products from {os.path.basename(CAMINHO_BASE)}")
     except FileNotFoundError as e:
+        logger.error(f"Could not load data files. Details: {e}")
         print(f"ERROR: Could not load data files. Details: {e}")
         return
 
     if os.path.exists(CAMINHO_SAIDA):
+        logger.info(f"Loading existing processed data from {os.path.basename(CAMINHO_SAIDA)}")
         print(f"   - Loading existing data from: {os.path.basename(CAMINHO_SAIDA)}")
         df_existing = pd.read_excel(CAMINHO_SAIDA)
         existing_keys = set(zip(df_existing['ARQUIVO'].astype(str), df_existing['Nº'].astype(str)))
+        logger.info(f"Found {len(existing_keys)} already processed items.")
     else:
         df_existing = pd.DataFrame()
         existing_keys = set()
+        logger.info("No existing output file found. Processing all items as new.")
 
     df_edital_new = df_edital[~df_edital.apply(lambda row: (str(row['ARQUIVO']), str(row['Nº'])) in existing_keys, axis=1)].copy()
 
     if df_edital_new.empty:
+        logger.info("No new items to process. Output file is up to date.")
         print("\n✅ No new items to process. The output file is already up to date.")
         return
 
+    logger.info(f"Identified {len(df_edital_new)} new items to process.")
     print(f"   - Found {len(df_edital_new)} new items to process.")
     results = []
     total_new_items = len(df_edital_new)
@@ -414,6 +436,7 @@ def main():
                 worksheet.cell(row=row_idx, column=col_idx).fill = fill_to_apply
     
     writer.close()
+    logger.info(f"Successfully updated output file with {len(results)} new processed items at {CAMINHO_SAIDA}")
     print(f"✅ Success! Output file updated at: {CAMINHO_SAIDA}")
 
 if __name__ == "__main__":

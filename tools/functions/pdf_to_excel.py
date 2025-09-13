@@ -4,7 +4,7 @@ import re
 import pandas as pd
 
 # Diretórios locais
-input_dir = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\EDITAIS"
+input_dir = r"C:\Users\pietr\OneDrive\.vscode\arte_\tests\EDITAIS_TESTE"
 output_dir = r"C:\Users\pietr\OneDrive\Área de Trabalho\ARTE\ORCAMENTOS"
 
 def extract_items_from_text(text):
