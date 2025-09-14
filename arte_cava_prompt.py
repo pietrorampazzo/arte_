@@ -1,225 +1,194 @@
 import os
-import re
 import pandas as pd
-import fitz  # PyMuPDF
-import logging
 import google.generativeai as genai
-import google.api_core.exceptions as google_exceptions
 from dotenv import load_dotenv
-import time
+from io import StringIO
 import json
-from dotenv import load_dotenv
-# --- CONFIGURAÇÃO INICIAL ---
-# Chama a função para carregar as variáveis do arquivo .env
-load_dotenv() 
 
-LLM_MODELS_FALLBACK = [
+load_dotenv()
+api_key = os.getenv("GOOGLE_API_KEY")
+genai.configure(api_key=api_key)
+model = genai.GenerativeModel(model_name='gemini-2.5-flash-lite')
 
-    "gemini-2.5-flash-lite",
-    "gemini-2.0-flash",
-    "gemini-2.5-pro",
-    "gemini-1.5-flash",
-    "gemini-2.0-flash-lite",
-    "gemini-2.5-flash",
-]
+def chamar_llm(prompt):
+    try:
+        response = model.generate_content(prompt)
+        return response.text
+    except Exception as e:
+        print(f"Erro na chamada da LLM: {e}")
+        return None
 
-def gerar_conteudo_com_fallback(prompt, models):
-    """Tenta gerar conteúdo usando uma lista de modelos em fallback."""
-    for model_name in models:
+def processar_pasta(pasta_path):
+    xlsx_path = None
+    txt_path = None
+
+    # Encontra dinamicamente os arquivos .xlsx e .txt na pasta
+    for arquivo in os.listdir(pasta_path):
+        if arquivo.endswith('.xlsx') and not arquivo.startswith('~'):
+            xlsx_path = os.path.join(pasta_path, arquivo)
+        elif arquivo.endswith('.txt') and arquivo != 'resposta_bruta.txt': # Ignora o arquivo de resposta bruta
+            txt_path = os.path.join(pasta_path, arquivo)
+
+    # Verifica se ambos os arquivos foram encontrados
+    if not xlsx_path:
+        print(f"AVISO: Arquivo .xlsx não encontrado em {pasta_path}. Pulando pasta.")
+        return
+    if not txt_path:
+        print(f"AVISO: Arquivo .txt de referência não encontrado em {pasta_path}. Pulando pasta.")
+        return
+
+    print(f"Processando: {pasta_path}")
+    try:
+        # Ler xlsx
+        df = pd.read_excel(xlsx_path)
+
+        # Ler txt
+        with open(txt_path, 'r', encoding='utf-8') as f:
+            texto_pdf = f.read()
+    except Exception as e:
+        print(f"ERRO ao ler arquivos em {pasta_path}: {e}")
+        return
+
+    # Construir prompt
+    prompt = f'''
+    Sua tarefa é extrair a descrição de referência para cada item de uma tabela, usando um texto de PDF como fonte.
+
+    A tabela de itens original é:
+    {df[['Nº', 'DESCRICAO']].to_csv(index=False)}
+
+    O texto de referência do PDF é:
+    {texto_pdf}
+
+    Para cada item, encontre sua descrição detalhada no PDF.
+    
+    Retorne o resultado como um objeto JSON contendo uma única chave "itens". 
+    O valor de "itens" deve ser um array de objetos, onde cada objeto representa um item e possui duas chaves: "Nº" (string) e "REFERENCIA" (string).
+
+    O formato de saída DEVE ser um JSON válido, como no exemplo abaixo:
+    {{
+      "itens": [
+        {{
+          "Nº": "1",
+          "REFERENCIA": "Descrição detalhada do item 1."
+        }},
+        {{
+          "Nº": "2",
+          "REFERENCIA": "Descrição do item 2, que pode ter vírgulas e outros caracteres."
+        }}
+      ]
+    }}
+
+    IMPORTANTE: Retorne APENAS o objeto JSON, sem nenhuma explicação, acentos graves de markdown, ou qualquer outro texto antes ou depois.
+    '''
+
+    resposta = chamar_llm(prompt)
+    if resposta:
+        df_referencia = None
         try:
-            logging.info(f"Tentando chamada à API com o modelo: {model_name}...")
-            model = genai.GenerativeModel(model_name)
-            response = model.generate_content(prompt)
-            logging.info(f"Sucesso com o modelo '{model_name}'.")
-            return response.text
-        except Exception as e:
-            logging.warning(f"Falha ao usar o modelo '{model_name}': {e}")
-            time.sleep(2)  # Pausa antes de tentar o próximo modelo
-    logging.error("Falha em todos os modelos de fallback.")
-    return None
+            # Limpa a resposta para remover ```json ... ```
+            clean_response = resposta.strip()
+            if clean_response.startswith('```json'):
+                clean_response = clean_response[7:].strip()
+            if clean_response.endswith('```'):
+                clean_response = clean_response[:-3].strip()
+            
+            data = json.loads(clean_response)
+            df_referencia = pd.DataFrame(data['itens'])
+            print(f"SUCESSO: Resposta da LLM processada como JSON para {pasta_path}.")
 
-class EditalExtractor:
-    def __init__(self, input_dir, output_dir, gemini_key=None):
-        self.input_dir = input_dir
-        self.output_dir = output_dir
-        os.makedirs(self.output_dir, exist_ok=True)
-        logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
-        self.log = logging.info
-        self.gemini_configured = False
-        if gemini_key:
-            genai.configure(api_key=gemini_key)
-            self.gemini_configured = True
-
-    def process_pdf_file(self, pdf_path):
-        self.log(f"Processando: {pdf_path}")
-        text = ""
-        try:
-            with fitz.open(pdf_path) as doc:
-                for page in doc:
-                    text += page.get_text()
-        except Exception as e:
-            self.log(f"Erro ao processar PDF {pdf_path}: {e}")
-            return ""
-        if not text.strip():
-            self.log(f"Aviso: Nenhum texto extraído de {pdf_path}")
-            return ""
-        return text
-
-    def extract_items_from_text(self, text, arquivo_nome):
-        items = []
-        text = re.sub(r"\n+", "\n", text)
-        text = re.sub(r"\s+", " ", text)
-
-        item_pattern = re.compile(r"(\d+)\s*-\s*([^0-9]+?)(?=Descrição Detalhada:)", re.DOTALL | re.IGNORECASE)
-        item_matches = list(item_pattern.finditer(text))
-
-        for i, match in enumerate(item_matches):
-            item_num = match.group(1).strip()
-            item_nome = match.group(2).strip()
-            start_pos = match.start()
-            end_pos = item_matches[i + 1].start() if i + 1 < len(item_matches) else len(text)
-            item_text = text[start_pos:end_pos]
-
-            descricao_match = re.search(
-                r"Descrição Detalhada:\s*(.*?)(?=Tratamento Diferenciado:|Aplicabilidade Decreto|$)",
-                item_text,
-                re.DOTALL | re.IGNORECASE,
-            )
-            descricao = descricao_match.group(1).strip() if descricao_match else ""
-
-            items.append({
-                "ARQUIVO": arquivo_nome,
-                "Número do Item": item_num,
-                "Descrição": f"{item_nome} {descricao}".strip()
-            })
-        return items
-
-    def tratar_dataframe(self, df):
-        if df.empty:
-            return df
-        df = df.rename(columns={
-            "ARQUIVO": "ARQUIVO",
-            "Número do Item": "Nº",
-            "Descrição": "DESCRICAO"
-        })
-        return df
-
-    def validate_and_match_llm(self, df, termo_text, folder_name):
-        """
-        Usa Gemini com fallback para validar se os descritivos encontrados no termo
-        correspondem aos itens da RelacaoItens.
-        """
-        if not self.gemini_configured:
-            self.log("Gemini não configurado. Pulando validação LLM.")
-            return {i: "" for i in df["Nº"]}
-
-        prompt = f"""
-Você é um especialista em editais públicos.
-Recebeu dois conjuntos de informações:
-
-1. Relação de Itens extraída do edital (Item + Descrição)
-{df.to_dict(orient='records')}
-
-2. Texto extraído de seções como 'CONDIÇÕES GERAIS DA CONTRATAÇÃO', 'MODELO DE PLANILHA DE PROPOSTA' e outros:
-{termo_text}
-
-Tarefa:
-- Validar se existem correspondências entre os itens da RelaçãoItens e as descrições do texto.
-- Retornar um dicionário JSON com o formato:
-  {{ "item_numero": "descricao de referencia validada" }}
-- O número de itens deve bater com a RelaçãoItens.
-- Caso não encontre descrição confiável, retorne string vazia.
-"""
-
-        for model_name in LLM_MODELS_FALLBACK:
+        except (json.JSONDecodeError, KeyError) as e:
+            print(f"FALHA no parsing de JSON para {pasta_path}: {e}. Tentando fallback com separador.")
             try:
-                self.log(f"Tentando chamada LLM com modelo: {model_name}")
-                model = genai.GenerativeModel(model_name)
-                response = model.generate_content(prompt)
+                # Fallback: Tentar ler como CSV com separador |
+                df_referencia = pd.read_csv(StringIO(resposta), sep='|', engine='python')
+                if 'Nº' not in df_referencia.columns or 'REFERENCIA' not in df_referencia.columns:
+                     raise ValueError("Colunas esperadas não encontradas no fallback de CSV.")
+                print(f"SUCESSO (Fallback): Resposta da LLM processada como CSV para {pasta_path}.")
+            except Exception as fallback_e:
+                print(f"FALHA (Fallback): Não foi possível processar a resposta da LLM para {pasta_path}: {fallback_e}")
+                with open(os.path.join(pasta_path, 'resposta_bruta.txt'), 'w', encoding='utf-8') as f:
+                    f.write(resposta)
+                df_referencia = None # Garante que não prossiga com dados ruins
+
+        if df_referencia is not None and not df_referencia.empty:
+            try:
+                # Garante que a coluna de junção não tenha tipos mistos e seja a mesma (Nº)
+                key_col = df.columns[0] # Assume que a primeira coluna é a chave
+                df[key_col] = df[key_col].astype(str)
+                df_referencia['Nº'] = df_referencia['Nº'].astype(str)
                 
-                # Limpa a resposta para extrair o JSON
-                cleaned_response = response.text.strip()
-                if cleaned_response.startswith("```json"):
-                    cleaned_response = cleaned_response[7:]
-                if cleaned_response.endswith("```"):
-                    cleaned_response = cleaned_response[:-3]
+                # Junta o DataFrame original com as referências encontradas
+                df_merged = pd.merge(df, df_referencia, on='Nº', how='left')
+
+                # Organiza as colunas na ordem desejada
+                desired_order = ['Nº', 'DESCRICAO', 'REFERENCIA', 'QTDE', 'VALOR_UNIT', 'VALOR_TOTAL', 'UNID_FORN', 'LOCAL_ENTREGA', 'ARQUIVO']
                 
-                mapping = json.loads(cleaned_response)
-
-                if isinstance(mapping, dict) and mapping:
-                    return mapping
+                # Aplica regras para dados ausentes
+                if 'ARQUIVO' not in df_merged.columns:
+                    df_merged['ARQUIVO'] = os.path.basename(pasta_path)
                 else:
-                    self.log(f"Modelo {model_name} retornou vazio ou formato inválido. Tentando próximo...")
-            except (json.JSONDecodeError, AttributeError, google_exceptions.GoogleAPICallError) as e:
-                self.log(f"Erro com modelo {model_name}: {e}. Tentando próximo...")
-            except Exception as e:
-                self.log(f"Erro inesperado com modelo {model_name}: {e}. Tentando próximo...")
+                    df_merged['ARQUIVO'].fillna(os.path.basename(pasta_path), inplace=True)
 
-
-        self.log("Todos os modelos falharam. Retornando mapping vazio.")
-        return {i: "" for i in df["Nº"]}
-
-    def process_folder(self, folder_path):
-        self.log(f"Processando pasta: {folder_path}")
-        relacao_text = ""
-        termo_text = ""
-
-        for file in os.listdir(folder_path):
-            if file.lower().endswith(".pdf"):
-                path = os.path.join(folder_path, file)
-                text = self.process_pdf_file(path)
-                if "RelacaoItens" in file:
-                    relacao_text = text
+                if 'REFERENCIA' in df_merged.columns:
+                    df_merged['REFERENCIA'].fillna('-', inplace=True)
                 else:
-                    termo_text += text
+                    df_merged['REFERENCIA'] = '-'
 
-        if not relacao_text:
-            self.log("Arquivo RelacaoItens não encontrado ou vazio. Pulando pasta.")
-            return pd.DataFrame()
+                existing_cols_in_order = [col for col in desired_order if col in df_merged.columns]
+                df_result = df_merged[existing_cols_in_order]
+                
+                # Salvar novo arquivo com nome baseado na pasta
+                nome_da_pasta = os.path.basename(pasta_path)
+                novo_nome_arquivo = f"{nome_da_pasta}_master.xlsx"
+                output_filename = os.path.join(pasta_path, novo_nome_arquivo)
+                df_result.to_excel(output_filename, index=False)
+                print(f"SUCESSO: Arquivo final salvo em {output_filename}")
+                return # Finaliza o processamento bem sucedido
 
-        items = self.extract_items_from_text(relacao_text, os.path.basename(folder_path))
-        if not items:
-            self.log("Nenhum item extraído da RelacaoItens. Pulando pasta.")
-            return pd.DataFrame()
+            except Exception as merge_e:
+                print(f"FALHA ao mesclar dados e salvar para {pasta_path}: {merge_e}")
+                # Salva a resposta bruta se a mesclagem falhar
+                with open(os.path.join(pasta_path, 'resposta_bruta.txt'), 'w', encoding='utf-8') as f:
+                    f.write(resposta)
 
-        df = pd.DataFrame(items)
-        df = self.tratar_dataframe(df)
-        mapping = self.validate_and_match_llm(df, termo_text, os.path.basename(folder_path))
-        df["REFERENCIA"] = df["Nº"].astype(str).map(mapping)
-        df["PASTA"] = os.path.basename(folder_path)
-        return df
+    # Se a resposta da LLM for nula ou o processamento falhar antes de salvar
+    # salvamos o arquivo original com defaults.
+    print(f"AVISO: Não foi possível obter ou processar a referência da LLM para {pasta_path}. Salvando com dados existentes e defaults.")
+    df_merged = df.copy() # Usa o dataframe original
+    
+    # Aplica regras para dados ausentes
+    if 'ARQUIVO' not in df_merged.columns:
+        df_merged['ARQUIVO'] = os.path.basename(pasta_path)
+    else:
+        df_merged['ARQUIVO'].fillna(os.path.basename(pasta_path), inplace=True)
 
-    def run(self):
-        self.log("Iniciando processamento de todas as pastas...")
-        df_consolidado = pd.DataFrame()
-        for folder in os.listdir(self.input_dir):
-            folder_path = os.path.join(self.input_dir, folder)
-            if os.path.isdir(folder_path):
-                df_pasta = self.process_folder(folder_path)
-                if not df_pasta.empty:
-                    df_consolidado = pd.concat([df_consolidado, df_pasta], ignore_index=True)
-        if df_consolidado.empty:
-            self.log("Nenhum dado extraído de todas as pastas.")
-            return
-        output_file = os.path.join(self.output_dir, "master_modelo_consolidado.xlsx")
-        df_consolidado.to_excel(output_file, index=False)
-        self.log(f"Arquivo consolidado salvo em: {output_file}")
-        self.log("Processamento concluído.")
+    if 'REFERENCIA' not in df_merged.columns:
+        df_merged['REFERENCIA'] = '-'
+    else:
+        df_merged['REFERENCIA'].fillna('-', inplace=True)
+
+    desired_order = ['Nº', 'DESCRICAO', 'REFERENCIA', 'QTDE', 'VALOR_UNIT', 'VALOR_TOTAL', 'UNID_FORN', 'LOCAL_ENTREGA', 'ARQUIVO']
+    existing_cols_in_order = [col for col in desired_order if col in df_merged.columns]
+    df_result = df_merged[existing_cols_in_order]
+    
+    nome_da_pasta = os.path.basename(pasta_path)
+    novo_nome_arquivo = f"{nome_da_pasta}_master.xlsx"
+    output_filename = os.path.join(pasta_path, novo_nome_arquivo)
+    df_result.to_excel(output_filename, index=False)
+    print(f"SUCESSO (com dados de fallback): Arquivo salvo em {output_filename}")
 
 
 def main():
-    load_dotenv()
-    gemini_api_key = os.getenv("GOOGLE_API_KEY")
-    if not gemini_api_key:
-        print("A chave da API Gemini não foi encontrada no arquivo .env. Defina a variável de ambiente GEMINI_API_KEY.")
-        # Opcional: Sair se a chave for essencial
-        # return
+    # O diretório principal agora aponta para a pasta 'EDITAIS'
+    diretorio_principal = './EDITAIS'
+    if not os.path.isdir(diretorio_principal):
+        print(f"ERRO: O diretório '{diretorio_principal}' não foi encontrado.")
+        return
 
-    input_dir = r"C:\Users\pietr\OneDrive\.vscode\arte_\tests\EDITAIS_TESTE"
-    output_dir = r"C:\Users\pietr\OneDrive\.vscode\arte_\tests"
-    # Passa a chave da API para o extrator. Se for None, o LLM será pulado.
-    extractor = EditalExtractor(input_dir, output_dir, gemini_key=gemini_api_key)
-    extractor.run()
+    for pasta_edital in os.listdir(diretorio_principal):
+        pasta_path = os.path.join(diretorio_principal, pasta_edital)
+        if os.path.isdir(pasta_path):
+            processar_pasta(pasta_path)
 
 if __name__ == "__main__":
     main()

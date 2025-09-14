@@ -1,20 +1,14 @@
-# 1. Importar a biblioteca necessária
+
 import google.generativeai as genai
-import os # Usado para pegar a chave da API do ambiente
+import os 
 from dotenv import load_dotenv
 
-# --- CONFIGURAÇÃO INICIAL ---
-# Chama a função para carregar as variáveis do arquivo .env
 load_dotenv() 
 
-# É fundamental configurar sua chave de API. 
-# É uma boa prática guardá-la como uma variável de ambiente.
-# Substitua "SUA_API_KEY" pela sua chave real se não for usar variáveis de ambiente.
 api_key = os.getenv("GOOGLE_API_KEY") 
 genai.configure(api_key=api_key)
 
-# 2. Inicializar o Modelo
-# Escolha o modelo que deseja usar. 'gemini-1.5-flash' é uma ótima opção, rápida e poderosa.
+# Escolha o modelo que deseja usar. 'gemini-2.5-flash' é uma ótima opção, rápida e poderosa.
 model = genai.GenerativeModel(model_name='gemini-2.5-flash')
 
 

@@ -1,0 +1,608 @@
+PREFEITURA MUNICIPAL DE MARECHAL FLORIANO
+ESTADO DO ESPÍRITO SANTO
+
+ANEXO - ESPECIFICAÇÃO DOS LOTES COM MÉDIAS
+
+Lote 00001 COMPUTADOR NOTEBOOK 8GB RAM, SSD480, W11 PRO
+
+lItem(*) Especificação Quantidade Valor Total
+
+COMPUTADOR NOTEBOOK 8GB RAM, SSD480, W11
+
+PRO - COMPUTADOR NOTEBOOK
+
+TELA:
+
+*Tamanho mínimo da tela: 14 pol;
+
+*Resolução mínima: 1366 x 768;
+
+PROCESSADOR:
+
+*Arquitetura x86, com suporte a 32 bits e 64 bits, com
+
+frequência mínima de 3 GHz (sem utilização de
+
+overclock) e tecnologia de núcleos múltiplos, com
+
+mínimo de 4MB de memória cache e com no mínimo
+
+dois núcleos físicos;
+
+*Deve ser capaz de se comunicar com memórias
+
+RAM do tipo DDRA4, na frequência mínima de 2400
+
+MHz; e
+
+*Deve possuir controladora gráfica com as seguintes
+
+características mínimas: frequência de 1000MHz,
+
+suporte a DirectX 11, suporte a aceleração 3D e
+
+resolução de 1366 x 768 (060Hz.
+
+PLACA PRINCIPAL (PLACA MÃE):
+
+*Deve suportar integralmente o processador
+
+supracitado;
+
+*Deve ser do mesmo fabricante do equipamento ou
+
+projetada especificamente para o equipamento;
+
+*Deve possuir, no mínimo, dois slots para memória
+
+RAM do tipo DDRA4, na frequência mínima de 2400
+
+MHz e que permita expansão mínima até 16GB;
+
+*Deve possuir tecnologia dual channel;
+
+*Deve possuir, no mínimo, uma interface SATA (6
+
+Bb/s) e uma interface M.2 NVMe, à qual deverá estar
+00001 | 00020367 conectada a unidade de armazenamento fornecida UND 2,00 4.681,2500 9.862,50
+
+com o equipamento;
+
+*Deve suportar unidade de armazenamento do tipo
+
+Hard Disk Drive (HDD), Solid State Drive (SSD);
+
+*Deve possuir interface de rede Wi-Fi 802.11b/g/n e
+
+interface cabeada on-board, com uma porta RJ45
+
+Plug&Play, para comunicação a 10 / 100 / 1000 Mb/s,
+
+padrão Ethernet, Fast-Ethernet e Gigabit Ethernet;
+
+*Deve possuir interface de som com conexões para
+
+microfone, fone de ouvido e caixa acústica; e
+
+*Deve possuir no mínimo três interfaces USB sendo,
+
+no mínimo, uma do tipo USB 3.0.
+
+MEMÓRIA RAM:
+
+*Memória RAM do tipo DDRA4, com frequência mínima
+
+de 2400 MHz;
+
+*Deve possuir, no mínimo, 8GB instalado.
+
+*Deve ser totalmente compatível com a placa mãe.
+
+UNIDADE DE ARMAZENAMENTO:
+
+*Unidade de estado de solido (SSD);
+
+*Capacidade mínima de 480GB;
+
+“Velocidade mínima de leitura: S00MB/s;
+
+“Velocidade mínima de gravação: 350MB/s;
+
+INTERFACE DE VÍDEO:
+
+*Deve suportar resoluções de 1366 x 768;
+
+*Deve ter conexão HDMI para monitor externo;
+
+*Deve ser capaz de operar com a tela principal e mais
+
+um monitor simultaneamente e sem uso de
+
+adaptadores;
+
+
+PREFEITURA MUNICIPAL DE MARECHAL FLORIANO
+ESTADO DO ESPÍRITO SANTO
+
+ANEXO - ESPECIFICAÇÃO DOS LOTES COM MÉDIAS
+
+*Deve permitir operar com o espelhamento da imagem
+em ambos os monitores;
+
+*Deve permitir expandir a imagem entre os monitores
+conectados, com recurso de área de trabalho única —
+estender a área de trabalho a ambos os monitores; e
+*Deve suportar atualização de 60 Hz (Q 1366 x 768.
+
+TECLADO:
+
+*Deve ser do padrão ABNT-2; e
+
+*A impressão sobre as teclas deve ser do tipo
+permanente, não podendo apresentar desgaste por
+abrasão em uso prolongado;
+
+TOUCHPAD:
+
+*Deve suportar múltiplos toques e identificar
+comandos básicos como scroll e zoom.
+
+CHASSI:
+
+*Deve ser de cor neutra (preto, cinza ou branco);
+*Deve acompanhar auto falante integrado;
+*Deve acompanhar web cam integrado com
+resolução mínima de 1024x768 pixels; e
+
+*Deve acompanhar microfone integrado.
+
+CONECTIVIDADE:
+*Placa de Wi-Fi 802.11b/g/n;
+
+FONTE DE ALIMENTAÇÃO:
+
+*Fonte de alimentação externa, com ajuste automático
+das tensões de entrada (127v a 240v);
+
+*O conjunto total que liga o computador à tomada
+elétrica não pode ter comprimento inferior à 1,5m.
+
+BATERIA:
+
+*Deve ser integrada ao computador;
+*Mínimo de 2 células e 30 Wh.
+
+SISTEMA OPERACIONAL
+*Microsoft Windows 11 Pro;
+
+*Deve ser compatível com o processador
+supracitado;
+*A licença fornecida deve ser embarcada (OEM).
+
+GARANTIA:
+
+*No mínimo 12 mêses on-site.
+
+2 9.362,50
+
+ooooz COMPUTADOR DESKTOP INTERMEDIÁRIO COM MONITOR DE 23
+
+COMPUTADOR DESKTOP INTERMEDIÁRIO COM
+MONITOR DE 23" - 1- PROCESSADOR
+Desempenho: Atingir índice de, no mínimo, 17.000
+pontos para o desempenho, tendo como referência a
+base de dados Passmark CPU Mark, disponível no
+site htto://Awww.cpubenchmark.net/cpu list.php, sem
+utilização de técnicas de elevação;
+
+00002 | 00021054 |O processador ofertado deverá pertencer à geração UN 10,00 5.492,0000 54.920,00
+mais recente disponibilizada pelo fabricante do
+equipamento, com base na data de publicação do
+edital, ou superior, se limitando a duas versões
+anteriores a mais recente disponibilizada pelo
+fabricante do processador.
+
+Possuir no mínimo 06(seis) núcleos físicos de
+processamento;
+Cache total de no mínimo 16 MB;
+
+
+PREFEITURA MUNICIPAL DE MARECHAL FLORIANO
+
+ESTADO DO ESPÍRITO SANTO
+
+Controladora gráfica integrada com suporte a DirectX.
+2 Memória RAM: Memória RAM 16GB DDR-4 3200
+MHz, instalada em um único módulo.
+
+O tamanho total de memória RAM suportado pelo
+equipamento ofertado deverá ser de no mínimo 32
+GB.
+
+3 Placa Mãe: Ser do mesmo fabricante do
+microcomputador ou projetada especificamente para
+o modelo de microcomputador ofertado, não sendo
+aceitas placas de livre comercialização no mercado;
+Mínimo 02 (dois) slots para memória; Possuir no
+mínimo 6 (seis) portas USB, Sendo pelo menos 4
+(quatro) padrão USB 3.0 ou superior; Com pelo
+menos 2 (duas) portas USB 3.0 ou superior
+instaladas na parte frontal do gabinete, não sendo
+permitida a utilização de hubs ou adaptadores PCI; O
+chipset deve ser da mesma marca do fabricante do
+processador; Deve suportar a tecnologia Trusted
+Plataform Module (TPM) versão 2.0; Não serão
+aceitas soluções com chip externo, acondicionado
+em slot, do qual o chip possa ser removido; Deverá
+acompanhar software de ativação e gerenciamento
+da solução TPM;
+
+4 BIOS: Desenvolvida pelo mesmo fabricante do
+equipamento em flash rom ou com direito de
+copyright, devidamente comprovado, devendo
+permitir a atualizações por meio de software; O
+fabricante do computador deverá ter livre direito de
+edição sobre a BIOS em caso de copyright, o
+fabricante da BIOS deverá atestar o livre direito de
+edição. Deverá exibir a logomarca do fabricante do
+equipamento; Deverá ser desenvolvida em português
+ou inglês, compatível com o padrão UEFI 2.5, sendo o
+fabricante do computador membro da UEFI.ORG,
+comprovado através do
+
+site htto://www.uefi.org/members, em qualquer
+categoria; Possibilitar que a senha de acesso ao
+BIOS seja ativada e desativada via setup; Permitir
+senhas de setup para power on e administrador;
+Permitir inserir registro de controle patrimonial, de pelo
+menos 10 (dez) caracteres em memória não volátil;
+Deverá possuir campo específico com o número de
+série do equipamento, gravado em memória não volátil
+e campo não editável; Deverá possuir sistema de
+diagnóstico, independente do sistema operacional,
+capaz de verificar a saúde do sistema de pelo
+menos: processador; disco rígido; funcionalidade de
+portas USB e memória RAM; A fim de permitir o teste
+do equipamento com independência do sistema
+operacional instalado, o software de diagnóstico
+deve ser capaz de ser executado na inicialização do
+post;
+
+5 Interfaces de Comunicação: Controladora de rede
+integrada à placa mãe com velocidade de
+10/100/1000 Mbits/s, padrões ethernet, autosense,
+full-duplex, com conector padrão rj-45; Deverá
+possuir interface de rede Wireless 802.11 ac interna;
+Controladora de som com conectores de saída e
+microfone;
+
+6 Controladora de Vídeo: Interface com controladora
+de vídeo integrada com pelo menos 2GB de alocação
+dinâmica de memória de vídeo;
+
+Deverá possuir interface de vídeo digital compatível
+com a do monitor entregue;
+
+Deverá possuir, pelo menos, 02 (duas) interfaces
+digitais;
+
+Compatibilidade com a tecnologia DirectX e OpenGL
+
+ANEXO - ESPECIFICAÇÃO DOS LOTES COM MÉDIAS
+
+
+PREFEITURA MUNICIPAL DE MARECHAL FLORIANO
+ESTADO DO ESPÍRITO SANTO
+
+ANEXO - ESPECIFICAÇÃO DOS LOTES COM MÉDIAS
+
+na versão mais atual disponibilizada e suportada pelo
+fabricante.
+
+7 Armazenamento:
+
+Capacidade mínima de 512 GB;
+
+Padrão de conexão M.2 Card;
+
+Interface PCle Gen. 4 NVMe ou superior;
+Capacidade de leitura de no mínimo 1.600 MB/s;
+Capacidade de escrita de no mínimo 1000 MB/s;
+Sistema para monitoramento e detecção de
+pré-falhas SMART (Self- Monitoring, Analysis and
+Reporting Technology).
+
+8 Teclado:
+
+Alfanumérico, Padrão ABNT Il, sendo do mesmo
+fabricante do microcomputador ou projetado
+especificamente para o modelo de microcomputador
+ofertado, não sendo aceito teclado de livre
+comercialização;
+
+Conector USB tipo-A com fio de, no mínimo, 1 metro
+de comprimento;
+
+O teclado deverá ser do mesmo fabricante do
+equipamento ofertado, sendo aceito em regime de
+OEM (Original Equipment Manufacturer);
+
+Possuir leds com indicação de Numlock
+(ativado/desativado) e CapsLock
+(ativado/desativado), e base com regulagem de
+inclinação;
+
+Possuir identificação das teclas com serigrafia a
+quente, ou equivalente, resistente ao apagamento por
+uso prolongado.
+
+9 Mouse: Tecnologia óptica, de conformação
+ambidestra, com botão esquerdo, direito e central
+próprio para rolagem; Resolução de 1000 (mil) DPI ou
+
+superior; Mouse USB com fio de, no mínimo, 1 metro
+de comprimento; Deve ser fornecido Mouse-Pad. O
+mouse deverá ser do mesmo fabricante do
+equipamento ofertado, sendo aceito em regime de
+OEM.
+
+10 Gabinete: O gabinete deverá ser do tipo Small
+Form Factor; Serão aceitos parafusos recartilhados
+para a abertura do gabinete. Não serão aceitas
+quaisquer adaptações sobre o gabinete original do
+fabricante do equipamento; Conectores frontais para
+headphone e microfone sendo aceita interface tipo
+combo; Alto-falante integrado ao gabinete ou placa
+mãe ou monitor; Fonte de alimentação externa ao
+gabinete, devendo ser do mesmo fabricante do
+equipamento, com tensão de entrada 110/220 VAC,
+dimensionada para suportar a configuração máxima
+do equipamento, com eficiência mínima de 85%. O
+cabo de força deverá estar de acordo com a
+exigência da nova norma do INMETRO NBR 14136;
+Deve possibilitar a instalação de cadeado ou lacre de
+segurança em slot ou trava externa específica de
+forma a impedir a abertura do gabinete;
+
+11 Monitor: Led ou Icd; Deverá possuir, no mínimo,
+23,8 na diagonal, no formato 16:9; Deverá suportar
+resolução nativa, mínima de 1920x1080; Possuir
+tecnologia IPS (In-Plane Switching); Deverá possuir
+brilho de 250 cd/m?; O Tempo de resposta não deve
+ultrapassar 7ms; Deverá possuir, pelo menos, uma
+interface digital e caso necessite de adaptador para
+conexão com a placa de vídeo integrada, este deverá
+ser fornecido com o monitor; Deve possuir interface
+de Deve possuir fonte de alimentação interna com
+tensão de entrada bivolt automática, acompanhado de
+
+
+PREFEITURA MUNICIPAL DE MARECHAL FLORIANO
+ESTADO DO ESPÍRITO SANTO
+
+ANEXO - ESPECIFICAÇÃO DOS LOTES COM MÉDIAS
+
+cabo de alimentação no padrão NBR14.136; O monitor
+ofertado deverá possuir cor predominante similar ao
+microcomputador ofertado; Deverá possuir base com
+ajustes: inclinação, altura (devendo ser do mesmo
+fabricante do monitor ofertado; Deverão ser
+fornecidos todos os cabos para a interconexão dos
+equipamentos ofertados; Certificação TCO 7.0, ou
+superior, comprovando que o monitor ofertado atende
+as exigências e padrões de sustentabilidade,
+reduzindo em seu processo de construção o impacto
+ambiental. Essa característica deverá ser
+comprovada pela listagem do modelo do monitor no
+site http://tco.brightly.se/pls/nvp/!tco search;
+
+12 GERENCIAMENTO E SEGURANÇA
+
+O equipamento deve possuir gestão térmica e de
+energia de forma automática;
+
+Deverá possuir ferramenta de diagnóstico, para no
+mínimo verificar a saúde do sistema de pelo menos:
+Processador; Memória não volátil (SSD M.2 Card),
+Memória volátil (RAM), devendo realizar a varredura
+em sua totalidade dos blocos/setores dos
+dispositivos de armazenamento citados;
+
+Detectar qualquer alteração de configuração de
+memória e disco rígido, alteração na temperatura do
+Processador (CPU) e possível falha no disco rígido.
+13 Sistema Operacional:
+
+Acompanhar licença de sistema operacional
+Microsoft Windows 11 Pro 64bits, para uso
+corporativo na modalidade OEM (Original Equipment
+Manufacturer) ou ESD (Eletronic Software Delivery),
+em português do Brasil (PT BR);
+
+O licenciamento do sistema operacional deverá ser
+fornecido pelo fabricante do equipamento ofertado,
+que por questões de segurança a chave de ativação
+deverá ser embarcada no próprio BIOS, o qual
+deverá ser consultada no processo ativação desta
+licença;
+
+O software Microsoft Windows deverá ser fornecido
+instalado e pronto para funcionamento, ou
+pré-instalado;
+
+O fabricante deve disponibilizar download gratuito de
+todos os drivers de dispositivos do equipamento
+ofertado, na versão mais atual para download e
+eventuais atualizações, que serão findadas após
+descontinuidade do software por parte do fabricante.
+14 Diversos: Deverá ser apresentado prospecto com
+as características técnicas de todos os componentes
+do equipamento ou documento oficial do fabricante,
+como placa principal, processador, memória,
+interface de rede, fonte de alimentação, disco rígido,
+unidade leitora de mídia óptica, mouse, teclado e
+vídeo, incluindo especificação de marca, modelo, e
+outros elementos que de forma inequívoca
+identifiquem e comprovem as configurações cotadas,
+possíveis expansões e upgrades, através de
+certificados, manuais técnicos, folders e demais
+literaturas técnicas editadas pelos fabricantes. Serão
+aceitas cópias das especificações obtidas em sítios
+dos fabricantes na internet, em que constem o
+respectivo endereço eletrônico; Deverá ser fornecida
+a documentação técnica original de todos os
+componentes do hardware e sistema operacional
+comprovando as características e especificações
+técnicas solicitadas no edital e todos os softwares
+fornecidos; Todos os equipamentos a serem
+entregues deverão ser idênticos, ou seja, todos os
+componentes e internos de mesmos modelos e marca
+
+
+
+PREFEITURA MUNICIPAL DE MARECHAL FLORIANO
+ESTADO DO ESPÍRITO SANTO
+
+ANEXO - ESPECIFICAÇÃO DOS LOTES COM MÉDIAS
+
+conforme informados na proposta comercial. Caso o
+componente não mais se encontra disponível no
+mercado, admitem-se substitutos com qualidade e
+características idênticas ou superiores da mesma
+marca, mediante declaração técnica; As unidades do
+equipamento deverão ser entregues devidamente
+acondicionadas em embalagens individuais
+adequadas, que utilizem materiais recicláveis, de
+forma a garantir a máxima proteção durante o
+transporte e a armazenagem;
+
+15 Compatibilidade: Os modelos dos equipamentos
+(monitor e desktop) ofertados deverão estar em
+conformidade com ROHS (Restriction Of Hazardous
+Substances); Apresentar certificado HCL (Microsoft
+Windows Catalogue) para Windows 11 (64 bits) ou
+comprovação através de acesso à página internet da
+Microsoft que garanta a total compatibilidade com o
+sistema operacional, para a marca e modelo do
+equipamento ofertado; Ser compatível com o sistema
+operacional LINUX com, pelo menos, 1 (uma)
+distribuição para versões de mercado para desktop.
+à comprovação deverá ser feita através da presença
+modelo na lista de equipamentos homologados em
+uma das distribuições LINUX do mercado; O modelo
+do equipamento ofertado deverá estar em
+conformidade com a Portaria Inmetro nº 170. À
+comprovação deverá ser efetuada mediante
+apresentação do certificado emitido por laboratório
+credenciado ao Inmetro que ateste, conforme
+regulamentação específica, a adequação dos
+requisitos de segurança para o usuário e instalações,
+compatibilidade eletromagnética e eficiência
+energética ou apresentar certificado de
+conformidade, para o modelo de microcomputador
+ofertado, contra incidentes elétricos e combustão dos
+materiais elétricos, (Norma IEC 60950/61000)
+comprovado através de certificado ou relatório de
+avaliação de conformidade emitido por um órgão
+credenciado pelo Inmetro ou certificado internacional;
+O modelo ofertado deve possuir certificação EPEAT
+BRONZE (comprovado através do
+
+link www.EPEAT.net) ou Certificado de Rotulagem
+Ambiental emitido pela ABNT (tipo série ISO 14000); O
+fabricante devera possuir sistema de gestão
+ambiental conforme norma ISO 14001; Os
+equipamentos devem pertencer à linha corporativa do
+fabricante não sendo aceitos equipamentos
+destinados ao mercado de varejo;
+
+3 A exigência da compatibilidade com as normas
+
+IEC 60950 ou UL 60950 garante que os equipamentos
+não oferecem riscos aos usuários durante sua
+utilização, como choque elétrico, interferência
+eletromagnética, etc.;
+
+4 A exigência da conformidade com a NBR 10152
+
+ou ISO 7779/9296 garante que o equipamento não
+produza níveis de ruídos prejudiciais à saúde do
+usuário;
+
+5 A ABNT NBR ISO 14001 é uma norma aceita
+internacionalmente que define os requisitos para
+colocar um sistema da gestão ambiental em vigor,
+visando o melhoramento do desempenho das
+empresas por meio da utilização eficiente e racional
+dos recursos e da redução da quantidade de
+resíduos gerados diminuindo o impacto ao meio
+ambiente;
+
+6 Portaria INMETRO número 170/2012 estabelece
+os requisitos para o Programa de Avaliação da
+
+
+PREFEITURA MUNICIPAL DE MARECHAL FLORIANO
+
+ESTADO DO ESPÍRITO SANTO
+
+Conformidade de Bens de Informática com foco na
+segurança, na compatibilidade eletromagnética e na
+eficiência energética, através do mecanismo de
+certificação voluntária, atendendo aos requisitos
+normativos, visando à diminuição de acidentes, o
+aumento da qualidade e diminuição do consumo de
+energia dos produtos;
+
+Ser membro do RBA (Responsible Business Alliance)
+7, atendendo ao conjunto de padrões sociais,
+ambientais e éticos da indústria, que fazem
+referência a normas e padrões internacionais,
+incluindo a Declaração Universal dos Direitos
+Humanos, Padrões Internacionais de Trabalho da
+OCDE, Diretrizes da OCDE para Empresas
+Multinacionais, padrões ISO e SA e muito mais.
+
+16 Garantia:
+
+Deverá possuir garantia mínima de 12 (doze) meses
+do fabricante para os equipamentos ofertados
+(microcomputador e monitor), com reposição de
+peças, mão de obra e atendimento no local na
+modalidade 8x5, devendo ser comprovada através da
+apresentação do part number, service tag ou código
+de extensão da garantia junto ao fabricante. Toda a
+garantia deve ser dada pelo fabricante, com
+atendimento por empresa (s) pertencente (s) à sua
+rede autorizada, devidamente capacitada (s) para tal
+função; A garantia do conjunto dos equipamentos
+especificados acima (gabinete, monitor, teclado e
+mouse) deverá ser prestada por um único fabricante;
+O tempo máximo de solução do equipamento será de
+até 3 dias, a partir da abertura do chamado. Caso não
+seja providenciado o término do reparo do
+equipamento no prazo estabelecido, a contratada
+deverá providenciar sua substituição por outro
+equipamento com características e capacidades
+iguais ou superiores ao item substituído; Deverá ser
+disponibilizada central telefônica para abertura de
+chamados técnicos através de ligação gratuita para
+atendimento técnico, bem como possuir site na
+internet, com a disponibilização de drivers, firmwares
+e todas as atualizações existentes relativas ao
+equipamento ofertado.
+
+Os equipamentos serão submetidos a testes de
+reinstalação do sistema operacional Windows, a fim
+de verificar se a licença é original embarcada na
+bios/placa mãe.
+
+Não serão aceitas etiquetas.
+
+ANEXO - ESPECIFICAÇÃO DOS LOTES COM MÉDIAS
+
+Valor Total Geral
+
+64.282,50
+
+

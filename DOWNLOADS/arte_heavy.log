@@ -1,4 +1,4 @@
-2025-09-12 12:01:15,395 - INFO - Starting the product matching process...
-2025-09-12 12:01:15,541 - INFO - Loaded 365 items from master.xlsx and 1360 products from categoria_GROK.xlsx
-2025-09-12 12:01:15,542 - INFO - No existing output file found. Processing all items as new.
-2025-09-12 12:01:15,547 - INFO - Identified 365 new items to process.
+2025-09-14 10:07:36,491 - INFO - Starting the product matching process...
+2025-09-14 10:07:36,607 - INFO - Loaded 177 items from master.xlsx and 1360 products from categoria_GROK.xlsx
+2025-09-14 10:07:36,608 - INFO - No existing output file found. Processing all items as new.
+2025-09-14 10:07:36,610 - INFO - Identified 177 new items to process.
