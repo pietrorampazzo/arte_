@@ -13,8 +13,8 @@ from openpyxl.styles import PatternFill
 
 # --- File Paths ---
 BASE_DIR = r"C:\Users\pietr\OneDrive\.vscode\arte_"
-CAMINHO_EDITAL = os.path.join(BASE_DIR, "DOWNLOADS", "master.xlsx")
-CAMINHO_BASE = os.path.join(BASE_DIR, "DOWNLOADS", "RESULTADO_metadados", "categoria_GROK.xlsx")
+CAMINHO_EDITAL = os.path.join(BASE_DIR, "EDITAIS", "master.xlsx")
+CAMINHO_BASE = os.path.join(BASE_DIR, "DOWNLOADS", "RESULTADO_metadados", "categoria_GEMINI.xlsx")
 CAMINHO_SAIDA = os.path.join(BASE_DIR, "DOWNLOADS", "ORCAMENTOS", "master_heavy.xlsx")
 
 # --- Financial Parameters ---
@@ -44,6 +44,7 @@ CATEGORIZATION_KEYWORDS = {
     "INSTRUMENTO_PERCUSSAO": ["afuché","bateria","bombo","bumbo","caixa de guerra","caixa tenor","ganza","pandeiro","quadriton","reco reco","surdo","tambor","tarol","timbales"],
     "INSTRUMENTO_SOPRO": ["trompete","bombardino","trompa","trombone","tuba","sousafone","clarinete","saxofone","flauta","tuba bombardão","flugelhorn","euphonium"],
     "INSTRUMENTO_TECLAS": ["piano","teclado digital","glockenspiel","metalofone"],
+    "INFORMATICA" :  ["projetor", "ssd", "fonte energia", "drone"]
 }
 
 # --- Logging Configuration ---
@@ -101,7 +102,7 @@ def gerar_conteudo_com_fallback(prompt: str, modelos: list[str]) -> str | None:
 
 def get_item_classification(description: str, categories_with_subcategories: dict) -> dict | None:
     """Usa o modelo de IA para classificar o item, retornando categoria e subcategoria."""
-    print("-🪼 Asking AI for item classification (category and subcategory)...")
+    print("- Asking AI for item classification (category and subcategory)...")
 
     prompt = f"""<objetivo>
 Você é um especialista em instrumentos musicais e equipamentos de áudio.
@@ -155,14 +156,14 @@ JSON:
 
 def get_best_match_from_ai(item_edital, df_candidates):
     """Usa o modelo de IA para encontrar o melhor match dentro dos candidatos."""
-    print("-🪼 Asking AI for the best match...")
+    print(" - Asking AI for the best match...")
 
     candidates_json = df_candidates[['DESCRICAO','categoria_principal','subcategoria','MARCA','MODELO','VALOR']] \
                         .to_json(orient="records", force_ascii=False, indent=2)
 
     prompt = f"""<identidade>Você é um consultor de licitações com 20+ anos de experiência em áudio/instrumentos, focado na Lei 14.133/21, economicidade e menor preço.</identidade>
 <objetivo>
-1. Analise tecnicamente o item do edital: "{item_edital['DESCRICAO']}"
+1. Analise tecnicamente o item do edital: Descrição: "{item_edital['DESCRICAO']}" Referência: "{item_edital.get('REFERENCIA', 'N/A')}"
 2. Compare-o com cada produto na <base_fornecedores_filtrada>.
 3. **Seleção Primária**: Encontre o produto da base que seja >=95% compatível. Dentre os compatíveis, escolha o de **menor 'Valor'**.
 4. **Seleção Secundária**: Se nenhum produto for >=95% compatível, identifique o produto tecnicamente mais próximo e detalhe as especificações que não foram atendidas.
@@ -280,7 +281,7 @@ def main():
             max_cost = valor_unit_edital * INITIAL_PRICE_FILTER_PERCENTAGE
             df_candidates = df_base[df_base['VALOR'] <= max_cost].copy()
         else:
-            print("- ℹ️ Valor de referência do edital é R$0.00 ou inválido. Analisando todos os produtos da base.")
+            print("- Valor de referência do edital é R$0.00 ou inválido. Analisando todos os produtos da base.")
             df_candidates = df_base.copy()
 
         if df_candidates.empty:
@@ -302,7 +303,7 @@ def main():
                 if subcategory:
                     df_filtered_sub = df_candidates[df_candidates['subcategoria'].str.contains(subcategory, case=False, na=False)]
                     if not df_filtered_sub.empty:
-                        print(f"  - ✅ Found {len(df_filtered_sub)} candidates matching SUBCATEGORY '{subcategory}'.")
+                        print(f"  - 📦 Found {len(df_filtered_sub)} candidates matching SUBCATEGORY '{subcategory}'.")
                         df_final_candidates = df_filtered_sub
                         filter_level = "Subcategoria"
 
@@ -310,7 +311,7 @@ def main():
                     print(f"  - ⚠️ No candidates found for subcategory '{subcategory}'. Trying main category...")
                     df_filtered_main = df_candidates[df_candidates['categoria_principal'] == main_category]
                     if not df_filtered_main.empty:
-                        print(f"  - ✅ Found {len(df_filtered_main)} candidates matching MAIN CATEGORY '{main_category}'.")
+                        print(f"  - 📦 Found {len(df_filtered_main)} candidates matching MAIN CATEGORY '{main_category}'.")
                         df_final_candidates = df_filtered_main
                         filter_level = "Categoria Principal"
 
@@ -328,7 +329,7 @@ def main():
                 print(f"- ⚠️ Nenhum produto encontrado após todas as tentativas de filtro.")
                 status = "Nenhum Produto na Categoria"
             else:
-                print(f"  🦆 - Temos {len(df_final_candidates)} candidatos para a IA (filtrado por: {filter_level}).")
+                print(f" - Temos {len(df_final_candidates)} candidatos para a IA (filtrado por: {filter_level}).")
                 ai_result = get_best_match_from_ai(item_edital, df_final_candidates)
                 time.sleep(30)
 

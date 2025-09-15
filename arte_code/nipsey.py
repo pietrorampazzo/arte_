@@ -178,7 +178,7 @@ class ArteOrchestrator:
             if self.run_script(DOWNLOAD_SCRIPT, "DOWNLOAD_EDITAIS"):
                 success_count += 1
                 # Verificar se o master.xlsx foi atualizado
-                master_file = os.path.join(DOWNLOADS_DIR, "master.xlsx")
+                master_file = os.path.join(BASE_DIR, "EDITAIS", "master.xlsx")
                 self.check_files_updated([master_file])
             else:
                 logger.error("❌ Falha no download de editais. Continuando com próximas etapas...")
@@ -199,7 +199,7 @@ class ArteOrchestrator:
         self.log_step("STATUS", "Verificando status dos arquivos principais...")
         
         key_files = [
-            os.path.join(DOWNLOADS_DIR, "master.xlsx"),
+            os.path.join(BASE_DIR, "EDITAIS", "master.xlsx"),
             os.path.join(DOWNLOADS_DIR, "summary.xlsx"),
             os.path.join(DOWNLOADS_DIR, "livro_razao.xlsx"),
             os.path.join(DOWNLOADS_DIR, "RESULTADO_metadados", "categoria_sonnet.xlsx"),

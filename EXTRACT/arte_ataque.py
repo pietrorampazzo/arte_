@@ -203,6 +203,27 @@ def construir_prompt_referencia(df, texto_pdf):
     IMPORTANTE: Use '<--|-->' como separador. Não inclua nenhuma explicação ou formatação extra.
     """
 
+def construir_prompt_extracao_itens(texto_pdf):
+    """Constrói o prompt para o modelo de linguagem extrair itens do zero."""
+    return f"""
+    Sua tarefa é analisar o texto de um edital de licitação e extrair TODOS os itens que estão sendo licitados.
+    O texto do edital é:
+    {texto_pdf}
+
+    Para cada item encontrado, extraia seu número e a descrição completa.
+
+    Retorne o resultado usando a sequência '<--|-->' como separador. NÃO use aspas.
+    A saída deve ter apenas 2 colunas: 'Nº' e 'REFERENCIA'.
+
+    O formato de saída DEVE ser:
+    Nº<--|-->REFERENCIA
+    1<--|-->Descrição detalhada do item 1.
+    2<--|-->Descrição detalhada do item 2, que pode ter vírgulas, e não causa problema.
+    3<--|-->Outra descrição.
+
+    IMPORTANTE: Use '<--|-->' como separador. Não inclua nenhuma explicação ou formatação extra. Liste todos os itens que encontrar.
+    """
+
 # =====================================================================================
 # 3. ORQUESTRADOR PRINCIPAL
 # =====================================================================================
@@ -211,8 +232,8 @@ def processar_pasta_edital(pasta_path):
     """
     Orquestra o pipeline completo para uma única pasta de edital.
     Etapa 1: Extrai texto do PDF principal.
-    Etapa 2: Extrai itens da Relação de Itens.
-    Etapa 3: Enriquece os dados com IA.
+    Etapa 2: Extrai itens da Relação de Itens (se existir).
+    Etapa 3: Usa IA para extrair ou enriquecer dados.
     """
     nome_pasta = pasta_path.name
     print(f"\n--- Processando Edital: {nome_pasta} ---")
@@ -237,84 +258,100 @@ def processar_pasta_edital(pasta_path):
     else:
         print(f"  [ETAPA 1/3] AVISO: Nenhum PDF principal encontrado na pasta.")
 
-    # --- ETAPA 2: Extrair itens da Relação de Itens ---
+    # --- ETAPA 2: Extrair itens da Relação de Itens (se existir) ---
     print(f"  [ETAPA 2/3] Extraindo itens da Relação de Itens...")
     caminho_xlsx_itens = pasta_path / f"{nome_pasta}.xlsx"
     itens_encontrados = []
     for pdf_relacao in pasta_path.glob("RelacaoItens*.pdf"):
         itens_encontrados.extend(processar_pdf_relacao_itens(pdf_relacao))
     
-    if not itens_encontrados:
-        print("    > AVISO: Nenhum item encontrado nos PDFs 'Relação de Itens'. Pulando para o próximo edital.")
-        return None, None # Retorna None para indicar que não pode continuar
+    df_itens = pd.DataFrame()
+    if itens_encontrados:
+        print(f"    > {len(itens_encontrados)} itens encontrados em PDFs 'Relação de Itens'.")
+        df_itens = pd.DataFrame(itens_encontrados)
+        df_itens["ARQUIVO"] = nome_pasta
+        df_itens = tratar_dataframe(df_itens)
+        df_itens.to_excel(caminho_xlsx_itens, index=False)
+        print(f"    > Planilha de itens criada: {caminho_xlsx_itens.name}")
+    else:
+        print("    > AVISO: Nenhum PDF 'Relação de Itens' encontrado ou nenhum item extraído.")
 
-    df_itens = pd.DataFrame(itens_encontrados)
-    df_itens["ARQUIVO"] = nome_pasta
-    df_itens = tratar_dataframe(df_itens)
-    df_itens.to_excel(caminho_xlsx_itens, index=False)
-    print(f"    > Planilha de itens criada: {caminho_xlsx_itens.name} com {len(df_itens)} itens.")
-
-    # --- ETAPA 3: Enriquecer com IA ---
-    print(f"  [ETAPA 3/3] Enriquecendo dados com IA...")
+    # --- ETAPA 3: Enriquecer ou Extrair com IA ---
+    print(f"  [ETAPA 3/3] Processando com IA...")
     if not caminho_txt.exists():
-        print("    > AVISO: Arquivo PDF.txt não encontrado. Não é possível enriquecer os dados.")
+        print("    > AVISO: Arquivo PDF.txt não encontrado. Não é possível usar a IA.")
+        # Se não temos nem itens nem texto, não há o que fazer.
+        if df_itens.empty:
+            return None, None
+        # Se temos itens mas não texto, retornamos os itens brutos.
         return df_itens, None
 
     with open(caminho_txt, 'r', encoding='utf-8') as f:
         texto_pdf_bruto = f.read()
 
-    prompt = construir_prompt_referencia(df_itens, texto_pdf_bruto)
+    # Decide qual prompt usar
+    if not df_itens.empty:
+        print("    > Construindo prompt para ENRIQUECER itens existentes...")
+        prompt = construir_prompt_referencia(df_itens, texto_pdf_bruto)
+    else:
+        print("    > Construindo prompt para EXTRAIR itens do texto do edital...")
+        prompt = construir_prompt_extracao_itens(texto_pdf_bruto)
+
     resposta_llm = chamar_llm(prompt)
 
     if resposta_llm:
         try:
             clean_response = resposta_llm.strip().replace('`', '').replace('csv', '')
-            
-            lines = clean_response.splitlines()
-            
-            # Skip empty lines
-            lines = [line for line in lines if line.strip()]
+            lines = [line for line in clean_response.splitlines() if line.strip()]
 
-            # Get header from the first line, handling potential empty response
             if not lines:
                 raise ValueError("A resposta da LLM está vazia.")
 
             header = lines[0].split('<--|-->')
-            
-            # Process data lines
             data = []
             for line in lines[1:]:
                 parts = line.split('<--|-->', 1)
                 if len(parts) == 2:
                     data.append(parts)
                 elif len(parts) == 1:
-                    # Handle case where there is no delimiter
                     data.append([parts[0], ''])
 
             df_referencia = pd.DataFrame(data, columns=header)
+            df_referencia.rename(columns=lambda x: x.strip(), inplace=True) # Limpa espaços nos headers
 
-            key_col = df_itens.columns[0] # 'Nº'
-            df_itens[key_col] = df_itens[key_col].astype(str)
-            df_referencia[key_col] = df_referencia[key_col].astype(str)
-            
-            df_merged = pd.merge(df_itens, df_referencia, on=key_col, how='left')
-            
-            desired_order = ['Nº', 'DESCRICAO', 'REFERENCIA', 'QTDE', 'VALOR_UNIT', 'VALOR_TOTAL', 'UNID_FORN', 'LOCAL_ENTREGA', 'ARQUIVO']
-            df_result = df_merged[[col for col in desired_order if col in df_merged.columns]]
-            
+            df_result = pd.DataFrame()
+            if not df_itens.empty:
+                # ENRIQUECIMENTO: Merge dos dados extraídos com os da LLM
+                key_col = df_itens.columns[0]  # 'Nº'
+                df_itens[key_col] = df_itens[key_col].astype(str)
+                df_referencia[key_col] = df_referencia[key_col].astype(str)
+                
+                df_merged = pd.merge(df_itens, df_referencia, on=key_col, how='left')
+                
+                desired_order = ['Nº', 'DESCRICAO', 'REFERENCIA', 'QTDE', 'VALOR_UNIT', 'VALOR_TOTAL', 'UNID_FORN', 'LOCAL_ENTREGA', 'ARQUIVO']
+                df_result = df_merged[[col for col in desired_order if col in df_merged.columns]]
+            else:
+                # EXTRAÇÃO: O resultado da LLM é o resultado final
+                df_referencia['ARQUIVO'] = nome_pasta
+                # Garante que as colunas pedidas existam
+                if 'Nº' not in df_referencia.columns or 'REFERENCIA' not in df_referencia.columns:
+                     raise ValueError("A resposta da LLM não contém as colunas 'Nº' e 'REFERENCIA'.")
+                df_result = df_referencia[['Nº', 'REFERENCIA', 'ARQUIVO']]
+
             output_filename = pasta_path / f"{nome_pasta}_master.xlsx"
             df_result.to_excel(output_filename, index=False)
-            print(f"    >✅ SUCESSO! Planilha enriquecida salva como: {output_filename.name}")
+            print(f"    >✅ SUCESSO! Planilha de IA salva como: {output_filename.name}")
             return df_itens, df_result
         except Exception as e:
             print(f"    >❌ FALHA ao processar a resposta da LLM: {e}")
-            # Salva a resposta bruta para depuração
             with open(pasta_path / 'resposta_bruta_erro.txt', 'w', encoding='utf-8') as f:
                 f.write(resposta_llm)
     else:
         print("    > FALHA: Não foi possível obter resposta da LLM.")
 
+    # Retorna o df_itens original se a IA falhar, para que ele ainda entre no summary
     return df_itens, None
+
 
 
 def main():

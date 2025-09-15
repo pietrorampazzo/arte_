@@ -195,6 +195,7 @@ def processar_batch_llm(batch_descricoes: list[str]) -> list[dict]:
         "ACESSORIO_SOPRO : graxa,oleo lubrificante,palheta de saxofone/clarinete\n"
         "EQUIPAMENTO_AUDIO : fone de ouvido,globo microfone,Interface de guitarra,pedal,mesa de som,microfone\n"
         "EQUIPAMENTO_CABO : cabo CFTV, cabo de rede, Medusa, switch, cabo_musical\n"
+        "INFORMATICA: projetor, ssd, fonte energia, drone\n"
         
         "**TAREFA:**\n"
         "Para CADA descrição na lista de entrada (há exatamente {len(batch_descricoes)} itens), determine a `CATEGORIA_PRINCIPAL` e a `SUBCATEGORIA`.\n"

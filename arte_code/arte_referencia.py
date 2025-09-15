@@ -54,7 +54,7 @@ except ImportError:
 # --- Caminhos dos Arquivos ---
 BASE_DIR = r"C:\Users\pietr\OneDrive\.vscode\arte_"
 EDITAIS_DIR = os.path.join(BASE_DIR, "DOWNLOADS", "EDITAIS_TESTE")
-MASTER_XLSX_PATH = os.path.join(BASE_DIR, "DOWNLOADS", "master.xlsx")
+MASTER_XLSX_PATH = os.path.join(BASE_DIR, "EDITAIS", "master.xlsx")
 OUTPUT_PATH = os.path.join(BASE_DIR, "DOWNLOADS", "ORCAMENTOS", "master_heavy.xlsx")
 
 # --- Extensões Suportadas ---
@@ -716,7 +716,7 @@ def gerar_master_heavy(df_merged: pd.DataFrame, output_path: str) -> bool:
         return True
         
     except Exception as e:
-        log_error(f"Erro ao gerar arquivo final: {str(e)}")
+        log_error(f"❌ Erro ao gerar arquivo final: {str(e)}")
         return False
 
 # ======================================================================
@@ -758,7 +758,7 @@ def main():
             return False
             
     except Exception as e:
-        log_error(f"Erro ao carregar master.xlsx: {str(e)}")
+        log_error(f"❌ Erro ao carregar master.xlsx: {str(e)}")
         return False
     
     # Percorrer diretório de editais
@@ -844,12 +844,12 @@ def main():
     
     if sucesso:
         print("\n" + "=" * 80)
-        log_success("PROCESSO CONCLUÍDO COM SUCESSO!")
+        log_success("✅ PROCESSO CONCLUÍDO COM SUCESSO!")
         log_info(f"Arquivo gerado: {OUTPUT_PATH}")
         print("=" * 80)
         return True
     else:
-        log_error("PROCESSO FINALIZADO COM ERROS")
+        log_error("✅ PROCESSO FINALIZADO COM ERROS")
         return False
 
 if __name__ == "__main__":

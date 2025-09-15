@@ -1,0 +1,119 @@
+1<--|-->- LM358 Amplificador Operacional 300120 - R$ 1,61 R$ 80,50
+2<--|-->- LM 741 Amplificador Operacional - Kit com ; 269160 | Unidade R$ 7,07 R$ 353,50 5 Unidades
+3<--|-->- CA3140 Amplificador Operacional 269160 -
+4<--|-->- LM324 Amplificador Operacional - Kit com 5 Unidades 393760 Unidade R$ 6,12 R$ 306,00
+5<--|-->- TL072 Amplificador Operacional 393782 -
+6<--|-->- NE5532P Ampllhcador Operacional 269160 -
+7<--|-->- LM358 SMD Ampllhcador Operacional 300120 | Unidade | 50 R$ 1,51 R$ 75,50
+8<--|-->u LM347 Ampllhcador OperaCIonaI 300120 -
+9<--|-->- CD4017 Circuito Integrado Contador 363131 | Unidade 50 R$ 1,81 R$ 90,50 Década
+10<--|-->74HC393 Circuito Integrado Contador Binario 291575 Unidade RS 1,61 R$ 80,50
+11<--|-->74HC4017 Circuito Integrado - Contador R$ 1,61 R$ 80,50 12 |Johnson 291575 | Unidade
+12<--|-->74HC4040 Contador de Ondulação Binário
+13<--|-->74LS47 Circuito Integrado - Decodificador u |, SEAMentos 264683 | Unidade | 50 R$ 4,04 R$ 202,00
+14<--|-->CD4028 Circuito Integrado - Decodificador BCD Decimal 269771 | Unidade
+15<--|-->HT12E Circuito Integrado - Codificador de Sinal 433737 Unidade
+16<--|-->ICL7107 Circuito Integrado WS7107 - Decodificador Display 7 segmentos 348886 | Unidade
+17<--|-->LM339 Comparador de Tensão - Kit com 5 Unidades 257297 | Unidade
+18<--|-->MCP3008 Conversor Analógico Digital 10 461354 | Unidade Bits ADC ORIGINAL
+19<--|-->MAXA485 ESA Circuito integrado SMD - 21 | Conversor RS485/RS422 - Original 4112/3 | Unidade
+20<--|-->MAX485 Circuito Integrado - Conversor | RS485/RS422 - Original 398140 | Unidade
+21<--|-->MAX232 Circuito Integrado - Conversor | TTL/RS232 399140 | Unidade
+22<--|-->ULN2803 Driver Controlador de Motor de Passo 257296 Unidade
+23<--|-->L293NE Driver Controlador de Motor -- 401091 Unidade
+24<--|-->CD4027 Circuito Integrado - Dual JK Flip- -- 269771 Unidade Flop
+25<--|-->74HC174 Circuito Integrado - Flip-Flop -- ; 257238 Unidade tipo D
+26<--|-->74HC138 Circuito Integrado - | . 257238 Unidade Demultiplexador
+27<--|-->Optoacoplador 4N25
+28<--|-->Optoacoplador MOC3010
+29<--|-->Optoacoplador MOC3020
+30<--|-->MAXA485 Circuito Integrado - Conversor 398140 | RS485/RS422 Unidade
+31<--|-->Optoacoplador TIL111 257244 - RS 111,00
+32<--|-->74HC04 Circuito Integrado Porta NOT 478329 | Unidade
+33<--|-->CD4011 Circuito Integrado - Porta NAND 433737 Unidade
+34<--|-->CD4001 Circuito Integrado - Porta NOR 433737 | Unidade
+35<--|-->CD4071 Circuito Integrado - Porta OR 472813 | Unidade
+36<--|-->CD4030 Quad Porta XOR Gate 472811 - Rs 101,00
+37<--|-->74HC21 Circuito Integrado - Porta AND 620980 | Unidade
+38<--|-->74HC164 Circuito Integrado - Shift Regi 620980 Unidade ster
+39<--|-->74HC166 Circuito Integrado - Shift | 41 Register 620980 | Unidade
+40<--|-->NE555 Temporizador de Precisão 257246
+41<--|-->LM3914 Circuito Integrado - Indicador de Barra 286338 | Unidade
+42<--|-->74HC14 Inversor Schmitt Trigger 620980 -
+43<--|-->74HC4046 Circuito de Bloqueio de Fase 291575 Unidade
+44<--|-->CH340G Circuito Integrado SMD - USB para UART 614761 | Unidade
+45<--|-->- DESLIGADAS, DIP, 4 pinos, 6x6x5mm, 100 peças por lote
+46<--|-->Kit Push Button 6x6 4.3 a 1,5mm com 200 257566 | Unidade Peças + Case
+47<--|-->Reed Switch Chave Magnética Ampola 257566 o Reed Dourada 14x2mm Unidade DAc
+48<--|-->Termlstor NTC 10K - Kit com 5 unldades 472886 n
+49<--|-->Interruptor nga/Desllga tipo Gangorra 183582 22 224 00 10A/120 6A/250V - Preto Unidade R92,24 | R$224,
+50<--|-->Interruptor Pulsador 16mm DS-212 3A 369068 | preto Corpo em Metal Unidade 52 2
+51<--|-->Botão On Off PBS-11A / Chave Push a5755e | unmeas ) 195 | nezas Button 3A com Trava
+52<--|-->Chave Fim de Curso 23âmm Micro Switch 605376 | Unidag 3T 5A KW11-32-5 neace
+53<--|-->Chave Fim de Curso com Rolete 5A 250V -
+54<--|-->Kit Conector JST 2 Pinos Macho + Fêmea 629075 | 2.02 2020 RC - Passo 2,54mm Unidade 10
+55<--|-->Botoeira de Emergência com Trava NA/NF 175079 | 22mm Vermelho BS545 Unidade
+56<--|-->Conector de Bateria 9V para P4 - Ideal 277654 Unidade para Arduino
+57<--|-->Conector Plug P4 Macho 2,1xX5,59mm 399894 | Rosqueável
+58<--|-->Prensa Cabo PG7 I|IP67 para Condutor de 3.5 a Gm 308180 | Unidade
+59<--|-->Emenda de Cabos com Engate Rápido 208076 | 250V 8A 2 Vias - Kit com 5 Unidades Unidade
+60<--|-->Conector Tipo Wago 3 Fios Emenda 474276 | Unidad Rápida 32A 250V - Kit com 5 Unidades
+61<--|-->Módulo Jack P4 (2,1xX5,5mm) com 2 Saídas 445303 | Unidade para Projetos
+62<--|-->Adaptador USB 3 em 1 para Micro USB, 135943 |
+63<--|-->Kit Terminal Tubular Ilhós 2,5/4,0 / 6,0 / 623854 | 10mm2 com 200 Peças
+64<--|-->Projetos
+65<--|-->M|n| Cooler 12V 30x30mm para PrOJetos -
+66<--|-->Fonte de Allmentaçao para Arduino 9VDC 142538 | 1A Plug P4 Unidade
+67<--|-->Fonte para ESP32 5V 2.2A Micro USB -
+68<--|-->Regulador de Tensão Ajustável MT3608
+69<--|-->Fonte de Alimentação Chaveada 5VDC 1A
+70<--|-->|V|Inl Palnel Solar Fotovoltaico 5V 200mA 628648 n
+71<--|-->Mlnl Fonte Hi- Llnk SVDC 0.6A 3W HLK- PMO1 100-240VAC 603557 | Unidade
+72<--|-->Fonte Chaveada Colmeia 12V 3A 36W Bivolt - MS-36-12 346444 Unldade
+73<--|-->Regulador de Tensão Ajustável LM317T DC Step Down - Saída 1,2V a 37VDC SRA
+74<--|-->Regulador de Tensão Ajustável Dc Step Up 610049 - Saída 12V a 35V (6A 100W) CECO RDAAS
+75<--|-->Mini Gerador de Energia Eólico 5.5V 630104 Unidade 100mA
+76<--|-->Fonte Chaveada 5V 3.4A (2 x 1.7A) USB 191184 | Dupla para Arduino, ESP32 e Celular - Unidade
+77<--|-->|V|Inl Palnel Solar Fotovoltaico 5V 200mA - 628648 -
+78<--|-->Gravador AVR Programador Atmel USBasp ISP V2.0 262460 Unidade
+79<--|-->|V|Inl Alto-falante para Projetos (com fios) -
+80<--|-->M|n| Alto-falante 3W 4 Ohms 40mm para 391716 | Unidade Projetos
+81<--|-->Placa de Circuito Impresso Ilhada 432 186343 | Furos Dupla Face - 5x7cm Unidade
+82<--|-->Suporte para 2 Pilhas AAA com Tampa + 370310 | Botão ON/OFF e JST - Ideal para Micro:bit unidade
+83<--|-->Suporte para 4 Baterias 18650 Li-ion com 610426 Unidade Slots Independentes
+84<--|-->Suporte para 2 Baterias CR2032 2 Slots com Tampa + Botão ON/OFF 610426 | Unidade
+85<--|-->Kit de sortimento de capacitores eletrolíticos SMD DIP, 16V 25V 35V 50V | 472561 Unidade 400V, 1uF 2.2uF 4.7uF 10uF 33uF 47uF 100uF 220uF 470uF 1000uF 1500uF
+86<--|-->Capacitores eletrolíticos de alumínio 16- SQV mix Capacitor eletrolítico Kit sortido e 472561 | Unidade caixa de armazenamento - 510 Pçs/lote O0.1UF-1000UF 24 Valores
+87<--|-->Kit de sortimento de capacitores eletrolíticos, Variedade de Alta Frequência, 16V 25V 35V 50V 400V, 1uF 2.2uF 4.7uF 10uF 15uF 22uF 47uF 100uF 470uF 1000uF 472561 | Unidade 24 valores — 391 peças 10V 10V 16 16V 16V
+88<--|-->Kit sortido de Capacitores cerâmicos 50V 614776 | Unidade e caixa de armazenamento 36 valores — 3600 peças 1 Conjunto Caixa de Capacitores cerâmicos (3600 Pcs)
+89<--|-->Especificações: Dielétrico: Cerâmico Capacidade: O0.1pF-100nF Tensão de Withstand: 50(V) 100 pcs de cada capacidade: 1pF 2pF 5pF 10pF 12pF 15pF 18pF 22pF 27pF 30pF 33pF 39pF 47pF 50pF 56pF 68pF 82pF 100pF 120F 150pF 200pF 330pF 470pF 560pF 820pF 1 nF 1.2nF 1.5nF 2.2nF 3.3nNF 4.70F 6.8nhF cerâmicos (3600 Pcs)
+90<--|-->Kit sortido de Capacitores cerâmicos de alta tensão e caixa de armazenamento 15 valores — 20 pcs cada — Total 300 pcs 1 Conjunto Caixa de Capacitores 614776 | Unidade cerâmicos (3600 Pcs) Especificações: Dielétrico: Cerâmico Capacidade: 1KV, 2KV e 3KV 20 pcs de cada capacidade: 3KV102-3KV222-3KV472-3KV103-3KV101- 3KV221-1KV222-1KV103-1KV223-2KV471- 2KV 561-2KV681-2KV102-2KV152-2KV332 2
+91<--|-->Kit livro de amostra, capacitor SMD, DIY 336374 | Unidade 92 valores — 50 pcs cada Modelo 0805 Capacitor Chip SMT 4600x0805 SMD
+92<--|-->Kit livro de amostra, capacitor SMD, DIY 336374 Unidade 90 valores — 50 pcs cada O.5pF a 10uF
+93<--|-->Kit sortido de Diodo Zener e caixa de armazenamento 30 valores — 20 pcs cada — Total 600 pcs KIT Dlodo Zener 1W 3V-47V 472669 | Unidade 30 valores * 20PCS = 600PCS 1N4727A 1N4737A |1N4747 3VO0 7V5 A 20V 1N4728A 1N4738A |1N4748 3V3 8eV2 A 22V 1N4729A 1N4739A |1N4749 3V6 9V1 A 24V 103 1N4730A 1N4740A |1N4750 4V3 10V A 27V 1N4731A I1N4741A |1N4751 4V3 11V A 3OV 1N4732A I1N4742A |1N4752 4V7 12V A 33V 1N4733A 1N4743A |1N4753 5SV1 13V A 36V 1N4734A I1N4744A |1N4754 5V6 15V A 39V 1N4735A I1N4745A |1N4755 6V2 16V A 43V 1N4736A 1N4746A |1N4756 ev8 18V A 47V
+94<--|-->Kit sortido de Diodo Zener SMD LL34 15 valores — 20 pcs cada — Total 300 pcs 104 |3V , 3V3, 3V9, 4V7, 5V1 472669 | Unidade 7V5, 8V2, 10V, 12V, 15V l6v, 18v, 20v, 24v, 1N4148
+95<--|-->Kit sortido de Diodo retificador SMD, 472431 | Diodo de recuperação rápida, Diodo Schottky, Diodo interruptor. Kit com 260 pcs Diodo do retificador: M1 SMA 20PCS M2 20PCS SMA M4 SMA 20PCS M7 SMA 20PCS SMA 10PCS S2M
+96<--|-->S3M 5PCS SMB Diodo De Recuperação Rápida: SMA S10PCS RS1M SMA S10PCS US1M SMA S10PCS ES1D SMA S10PCS ES1) Diodo Schottky: SS14 SMA 10PCS SS110 SMA 10PCS SS24 SMA 10PCS SS210 SMA 10PCS SS34 SMA 10PCS SS310 SMA 10PCS SS54 5PCS SMB Diodo Schottky: Impressão BAT54C: KL3 10PCS SOT-23 Impressão BAT54S: KL4 10PCS SOT-23 Diodo do interruptor: Impressão BAV99: A7 10PCS SOT-23 Impressão BAV70: A4 10PCS SOT-23 Diodo do interruptor: LL4148 20PCS LL-34
+97<--|-->Kit sortido de Diodo retificador com caixa. Kit com 200 peças 10 valores com 20pcs cada . 1N4001 1A/50V . 1N4002 1A/100V . 1N4003 1A/200V . 1N4004 1A/400V 472431 | . 1N4005 1A/600V . 1N4006 1A/800V . 1N4007 1A/1000V . 1N5817 1A/20V . I1N5818 1A/30V 10. 1N5819 1A4/40V
+98<--|-->Kit sortido de transistor com caixa. Kit com 200 peças 10 valores com 20pcs cada 603539 | BC 337 BC 327 2N2222 2N2907 2N3904 2N390 S8050 S8550 A1015 C1815
+99<--|-->Kit sortido de transistor com caixa. Kit com 50 peças 601181 | 10 valores com 5pcs cada 17805 L7806 L7808 L7809 L7810 L7812 L7805 L7818 L7824 LM317T
+100<--|-->Kit sortido de transistor de efeito de campo com caixa. Kit com 50 peças 10 valores com 5pcs cada 2N60x5 peças 4N60x5 peças SN60x5 peças 8N60x5 peças 10N60x5 peças 12N60x5 peças 20N60x5 peças 13003x5 peças MBR20100 x 5 peças 75NF75x5 peças 620995
+101<--|-->Kit sortido de transistor de chip SMD com 292441 | caixa. Kit com 2800 peças 28 valores com 100pcs cada 1.MMBT5401 * 100pcs 2.MMBT5551 * 100pcs 3.BAT54S * 100pcs 4.BAT54A * 100pcs 7. S8550 * 100pcs 6.58050 * 100pcs4 7.58550 * 100pcs 8.BC817-40 * 100pcs 9.BC807-40 * 100pcs 10.BAV70 * 100pcs 11,2N7002 * 100 peças 12.MMBTA42 * 100pcs 13.2SC1815 * 100pcs 14.MMBT2222 * 100pcs 15.2SC3356 * 100pcs 16.2SC1623 * 100pcs 17.MMBT3904 * 100pcs 18.MMBT3906 * 100pcs
+102<--|-->19.MMBT2907 * 100pcs 20.TL431 * 100pcs 21.8/2301 * 100pcs 22.59013 * 100pcs 23.59014 * 100pcs 24.59015 * 100pcs 25.59018 * 100pcs 26.AO03400 * 100pcs 27.BAV99 * 100pcs 28.BAW56 * 100pcs
+103<--|-->Kit sortido de capacitor de poliester com caixa. Kit com 660 peças 24 valores 2A221 2A331 0.22nF |[0.33nF 30pcs 30pcs 2A332 2A392 3.3nF 3.9nF 30pcs 30pcs 111 232 2AA 362377 | 39nF 47nF S ó 30pcs 30 pes 2A681 2A102 0.68nF 1nF 30pcs 30pcs 2A103 2A153 10nF 15nF 30pcs 30pcs 2A104 2A154 100nF 150nF 20pcs 20pcs
+104<--|-->Kit de transistor regulador de tensão. 112 |Kit com 10 peças — L7805CV A52947 |
+105<--|-->Detector de Tensão por Aproximação, - Detector de Tensão AC; - Tipo Chave de Teste; - Verificador de tensão por aproximação; - Totalmente fabricada em 395961 | material isolante; - Aviso sonoro e luminoso; - Indicação de presença de fase; - Formato de caneta; - Dupla Isolação; - Exclusiva função lanterna; - Função de
+106<--|-->- Botão momentâneo interruptor Mouting 475079 | Buraco 16 milímetros Ação Tipo: Momentâneo Tipo do contato: NÃO Pólos: SPST Tensão nominal: 3A/250V 6A/127VAC Terminais Quantidade: 2 pinos Jogo de resistores de carbono: 333924 | Potência: 1/4W Escala dos resistores: 10 * 10MQO Tolerância do resistor: + 5%. Tamanho do resistor: L * W/8*2mm/0,31*0,07" Valor: 75 diferentes Quantidade: 1500PCS (20PCS em cada tipo) 1 ohm 180 ohm 220k 2.2 ohm 200 ohm 300K 4,7 ohm 220 ohm 330K 5.6 ohm 270 ohm 470K 7.50hm 3300hm 510k 8.2 ohm 390 ohm 560K 10 ohm 470 ohm 680K 15 ohm 510 ohm 750k 22 ohm 680 ohm 1M 27 ohm 820 ohm 1.5 M 33 ohm 1K 2M 39 ohm 1.5k 3.3 M 47 ohm 2K 47M 56 ohm 2. 2K 5.6 M 68 ohm 3K 10 M
+107<--|-->75 ohm 82 ohm 100 ohm 120 ohm 150 ohm
+108<--|-->Conjunto de resistores SMD 1206 333924 | Potência: 1/4W Escala do resistor: 10 “ 10MO Tolerância do resistor: + 5%. Tamanho do resistor: 2*1mm/0,07*0,04 polegadas (L * W) Valor: 170 diferentes Quantidade: 3400PCS (20PCS em cada tipo) 10 100 1000 1K0 10K0 100K0 110 110 1100 11K0 11K0 110K0 1 120 120 1200 12K0 12K0 120K0 1 130 130 1300 13K0 13K0 130K0 1. 150 150 1500 15K0 15K0 150K0 1 1.60 160 1600 16K0 16K0 160K0 1. 1.8º 180 1800 18KkK0 18K0 180K0 1 200 200 2000 2Kº —20K0 200K0 220 220 2200 22K0 22K0 220K0 2. 240 240 2400 24K0 24KkK0 240K0 2. 270 270 2700 27KkKº 27Kº 270K0 2. 300 300 3000 3.0KP 30K0 300KO 330 330 3300 33K0 33K0 330KO0 3. 360 360 3600 3.6KkK0 36KkK0 360K0 3. 3.90 390 3900 3.9K) 39kK0N 390KO0 3. 430 430 4300 43K0 43K0 430K0 4 470 470 4700 4.7K0 47K0 470K0 4 5.10 510 5100 5.1K0 51K0 510K0 5. 5.60 560 5600 5.6KkK0 56KkK0 560K0 5. 6.20 620 6200 6.2Kº 62Kº 620K0 &. 6.80 680 6800 68KkKN 68KN 68O0KN &. 7.50 750 7500 7.5Kº 75K0 750K0 7. 8.20 820 8200 82K0 82Kk0O 820KO &. 9.10 910 9100 91K0 O91KN 910K0N O.
+109<--|-->Vogo de resistores de carbono: 333924 | Potência: 1/4W Escala dos resistores: 10 * 10MO Tolerância do resistor: + 5%. Tamanho do resistor: L * W/8*2mm/0,31*0,07" Valor: 156 diferentes Quantidade: 3120PCS (20PCS em cada tipo) Especificações como segue: 1, 1.2, 1.3, 1.5, 1.6, 1.8, 2, 2.2,2.7,3,33, 3.6, 3.9, 4.3, 4.7, 5.1, 5.6, 6.2, 6.8, 7.5, 8.2, 9.1, 10, 11, 12, 15, 18, 20, 22, 24, 27, 30, 33, 36, 39, 43, 47, 51, 56, 62, 68, 75, 82, 91, 100, 110, 120, 130, 150, 160, 180, 200, 220, 240, 270, 300, 330, 360, 390, 430, 470, 510, 560, 620, 680, 750, 820, 910, 1M, 1.2M,1.5M, 1.8M, 2M, 2.2M, 2.4M, 3M, 3.3M, 3.9M, 4.7M, 5.1M, 5,6M, 6,2M, 6,8M, 8,2M, 10M
+110<--|-->Mini Cooler 5V 25xX25mm para ESC e 307692 | Projetos
+111<--|-->Display OLED 0.96" SPI 128x64 Branco 379868 | para Arduino
+112<--|-->Placa Nano V3 Arduino Compatível + Cabo 414000 | USB
+113<--|-->Sensor Ultrassônico de Distância HC-SRO4 461033
+114<--|-->Sensor Ultrassônico ISN-SRO4M-2
+115<--|-->Fonte Chaveada 12V 5A comutada
+116<--|-->Módulo eletrônico WiFi Wemos D1 Mini 160833 | V3 (Esp8266)
+117<--|-->Módulo Regulador de Tensão Step Down 265163 | DC-DC 12-24V para 5V 3A
+118<--|-->Chave Fim de Curso com Rolete micro 626234 | switch (3 pinos, SPDT, 1A, 125V, AC, 12x6x6mm)
+119<--|-->

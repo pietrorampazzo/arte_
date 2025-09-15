@@ -48,7 +48,7 @@ def test_files():
     downloads_dir = os.path.join(base_dir, "DOWNLOADS")
     
     files_to_test = [
-        (os.path.join(downloads_dir, "master.xlsx"), "master.xlsx"),
+        (os.path.join(base_dir, "EDITAIS", "master.xlsx"), "master.xlsx"),
         (os.path.join(downloads_dir, "summary.xlsx"), "summary.xlsx"),
         (os.path.join(downloads_dir, "livro_razao.xlsx"), "livro_razao.xlsx"),
         (os.path.join(downloads_dir, "PRODUTOS", "base_produtos.xlsx"), "produtos_o4-mini.xlsx"),

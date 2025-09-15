@@ -50,7 +50,7 @@ DOWNLOAD_DIR = os.path.join(BASE_DIR, "EDITAIS")  # Arquivos baixados vão para 
 ORCAMENTOS_DIR = os.path.join(BASE_DIR, "EDITAIS", "aba")
 LIVRO_RAZAO_PATH = os.path.join(BASE_DIR, "livro_razao.xlsx") # Ledger de todos os editais processados
 SUMMARY_EXCEL_PATH = os.path.join(BASE_DIR, "summary.xlsx") # Este é o arquivo com todos os itens dos novos editais
-FINAL_MASTER_PATH = os.path.join(BASE_DIR, "master.xlsx") # Este será o arquivo final filtrado
+FINAL_MASTER_PATH = os.path.join(r"C:\Users\pietr\OneDrive\.vscode\arte_\EDITAIS", "master.xlsx") # Este será o arquivo final filtrado
 
 # Palavras-chave para filtro do arte_orca
 PALAVRAS_CHAVE = [
@@ -61,10 +61,10 @@ PALAVRAS_CHAVE = [
     r'Microfone', r'Microfone direcional', r'Suporte microfone', r'Microfone Dinâmico', r'Microfone de Lapela',
     r'Base microfone', r'Pedestal microfone', r'Medusa para microfone', r'Pré-amplificador microfone',
     r'Caixa Acústica', r'Caixa de Som', r'Caixa som', r'Subwoofer', r'tarol', r'Estante - partitura',
-    r'Amplificador de áudio', r'Amplificador som', r'Amplificador fone ouvido'
+    r'Amplificador de áudio', r'Amplificador som', r'Amplificador fone ouvido',
     r'Piano', r'Suporte para teclado', r'Mesa áudio', r'Interface de Áudio', r'Piano',
     r'Pedestal', r'Pedestal caixa acústica', r'Pedal Efeito', r'fone de ouvido', r'headset', 
-    r'Bateria Eletrônica', r'Cabo extensor',r'Tela projeção', r'Projetor Multimídia', 
+    r'Bateria Eletrônica', r'Cabo extensor',r'Tela projeção', r'Projetor Multimídia', r'Peças E Acessórios Instrumento Musical'
     
 ]
 REGEX_FILTRO = re.compile('|'.join(PALAVRAS_CHAVE), re.IGNORECASE)
