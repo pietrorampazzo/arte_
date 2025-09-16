@@ -13,10 +13,10 @@ from openpyxl.styles import PatternFill
 
 # --- File Paths ---
 BASE_DIR = r"C:\Users\pietr\OneDrive\.vscode\arte_"
-CAMINHO_EDITAL = os.path.join(BASE_DIR, "EDITAIS", "master.xlsx")
+CAMINHO_EDITAL = os.path.join(BASE_DIR, "DOWNLOADS", "master.xlsx")
 CAMINHO_BASE = os.path.join(BASE_DIR, "DOWNLOADS", "RESULTADO_metadados", "categoria_GEMINI.xlsx")
-CAMINHO_SAIDA = os.path.join(BASE_DIR, "DOWNLOADS", "ORCAMENTOS", "master_heavy.xlsx")
-
+CAMINHO_SAIDA = os.path.join(BASE_DIR, "DOWNLOADS", "master_heavy.xlsx")
+CAMINHO_HEAVY_EXISTENTE = CAMINHO_SAIDA
 # --- Financial Parameters ---
 PROFIT_MARGIN = 0.53  # MARGEM DE LUCRO 
 INITIAL_PRICE_FILTER_PERCENTAGE = 0.60  # FILTRO DE PREÇO DOS PRODUTOS NA BASE
@@ -243,10 +243,10 @@ def main():
         print(f"ERROR: Could not load data files. Details: {e}")
         return
 
-    if os.path.exists(CAMINHO_SAIDA):
-        logger.info(f"Loading existing processed data from {os.path.basename(CAMINHO_SAIDA)}")
-        print(f"   - Loading existing data from: {os.path.basename(CAMINHO_SAIDA)}")
-        df_existing = pd.read_excel(CAMINHO_SAIDA)
+    if os.path.exists(CAMINHO_HEAVY_EXISTENTE):
+        logger.info(f"Loading existing processed data from {os.path.basename(CAMINHO_HEAVY_EXISTENTE)}")
+        print(f"   - Loading existing data from: {os.path.basename(CAMINHO_HEAVY_EXISTENTE)}")
+        df_existing = pd.read_excel(CAMINHO_HEAVY_EXISTENTE)
         existing_keys = set(zip(df_existing['ARQUIVO'].astype(str), df_existing['Nº'].astype(str)))
         logger.info(f"Found {len(existing_keys)} already processed items.")
     else:
@@ -263,7 +263,6 @@ def main():
 
     logger.info(f"Identified {len(df_edital_new)} new items to process.")
     print(f"   - Found {len(df_edital_new)} new items to process.")
-    results = []
     total_new_items = len(df_edital_new)
 
     for idx, item_edital in df_edital_new.iterrows():
@@ -356,7 +355,8 @@ def main():
         result_row = {
             'ARQUIVO': item_edital['ARQUIVO'],
             'Nº': item_edital['Nº'],
-            'DESCRICAO_EDITAL': item_edital['DESCRICAO'],
+            'DESCRICAO': item_edital['DESCRICAO'],
+            'REFERENCIA': item_edital.get('REFERENCIA'),
             'UNID_FORN': item_edital.get('UNID_FORN'),
             'QTDE': item_edital.get('QTDE'),
             'VALOR_TOTAL': item_edital.get('VALOR_TOTAL'),
@@ -384,61 +384,58 @@ def main():
                 'ANALISE_COMPATIBILIDADE': data_to_populate.get('Compatibilidade_analise')
             })
 
-        results.append(result_row)
+        # Append the result to existing data
+        df_existing = pd.concat([df_existing, pd.DataFrame([result_row])], ignore_index=True)
 
-    print("\nProcess finished. Generating output file...")
+        # Save incrementally
+        df_final = df_existing
 
-    if not results:
-        print("- ⚠️ No new results were generated to add.")
-        return
+        output_columns = [
+            'ARQUIVO','Nº','DESCRICAO','REFERENCIA','STATUS',
+            'UNID_FORN', 'QTDE', 'VALOR_UNIT_EDITAL', 'VALOR_TOTAL',
+            'LOCAL_ENTREGA', 'INTERVALO_LANCES',
+            'MARCA_SUGERIDA', 'MODELO_SUGERIDO', 'CUSTO_FORNECEDOR',
+            'PRECO_FINAL_VENDA','MARGEM_LUCRO_VALOR', 'LUCRO_TOTAL', 'MOTIVO_INCOMPATIBILIDADE',
+            'DESCRICAO_FORNECEDOR','ANALISE_COMPATIBILIDADE'
+        ]
+        for col in output_columns:
+            if col not in df_final.columns:
+                df_final[col] = ''
+        df_final = df_final[output_columns]
 
-    df_results = pd.DataFrame(results)
-    
-    df_final = pd.concat([df_existing, df_results], ignore_index=True)
+        output_dir = os.path.dirname(CAMINHO_SAIDA)
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
 
-    output_columns = [
-        'ARQUIVO','Nº','STATUS','DESCRICAO_EDITAL',
-        'UNID_FORN', 'QTDE', 'VALOR_UNIT_EDITAL', 'VALOR_TOTAL',
-        'LOCAL_ENTREGA', 'INTERVALO_LANCES',
-        'MARCA_SUGERIDA', 'MODELO_SUGERIDO', 'CUSTO_FORNECEDOR',
-        'PRECO_FINAL_VENDA','MARGEM_LUCRO_VALOR', 'LUCRO_TOTAL', 'MOTIVO_INCOMPATIBILIDADE',
-        'DESCRICAO_FORNECEDOR','ANALISE_COMPATIBILIDADE'
-    ]
-    for col in output_columns:
-        if col not in df_final.columns:
-            df_final[col] = ''
-    df_final = df_final[output_columns]
+        writer = pd.ExcelWriter(CAMINHO_SAIDA, engine='openpyxl')
+        df_final.to_excel(writer, index=False, sheet_name='Proposta')
 
-    output_dir = os.path.dirname(CAMINHO_SAIDA)
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+        workbook = writer.book
+        worksheet = writer.sheets['Proposta']
 
-    writer = pd.ExcelWriter(CAMINHO_SAIDA, engine='openpyxl')
-    df_final.to_excel(writer, index=False, sheet_name='Proposta')
+        green_fill = PatternFill(start_color='C6EFCE', end_color='C6EFCE', fill_type='solid')
+        yellow_fill = PatternFill(start_color='FFEB9C', end_color='FFEB9C', fill_type='solid')
+        red_fill = PatternFill(start_color='FFC7CE', end_color='FFC7CE', fill_type='solid')
 
-    workbook = writer.book
-    worksheet = writer.sheets['Proposta']
+        for row_idx, status in enumerate(df_final['STATUS'], 2):
+            fill_to_apply = None
+            if status == "Match Encontrado":
+                fill_to_apply = green_fill
+            elif status == "Match Parcial (Sugestão)":
+                fill_to_apply = yellow_fill
+            elif status in ["Nenhum Produto com Margem", "Nenhum Produto na Categoria", "Nenhum Produto Compatível"]:
+                fill_to_apply = red_fill
 
-    green_fill = PatternFill(start_color='C6EFCE', end_color='C6EFCE', fill_type='solid')
-    yellow_fill = PatternFill(start_color='FFEB9C', end_color='FFEB9C', fill_type='solid')
-    red_fill = PatternFill(start_color='FFC7CE', end_color='FFC7CE', fill_type='solid')
+            if fill_to_apply:
+                for col_idx in range(1, len(df_final.columns) + 1):
+                    worksheet.cell(row=row_idx, column=col_idx).fill = fill_to_apply
+        
+        writer.close()
+        logger.info(f"Incremental save after processing item {idx + 1}/{total_new_items} at {CAMINHO_SAIDA}")
+        print(f"   - Incremental save completed for item {idx + 1}/{total_new_items}.")
 
-    for row_idx, status in enumerate(df_final['STATUS'], 2):
-        fill_to_apply = None
-        if status == "Match Encontrado":
-            fill_to_apply = green_fill
-        elif status == "Match Parcial (Sugestão)":
-            fill_to_apply = yellow_fill
-        elif status in ["Nenhum Produto com Margem", "Nenhum Produto na Categoria", "Nenhum Produto Compatível"]:
-            fill_to_apply = red_fill
-
-        if fill_to_apply:
-            for col_idx in range(1, len(df_final.columns) + 1):
-                worksheet.cell(row=row_idx, column=col_idx).fill = fill_to_apply
-    
-    writer.close()
-    logger.info(f"Successfully updated output file with {len(results)} new processed items at {CAMINHO_SAIDA}")
-    print(f"✅ Success! Output file updated at: {CAMINHO_SAIDA}")
+    logger.info("All new items processed and saved incrementally.")
+    print("✅ All new items processed and saved incrementally.")
 
 if __name__ == "__main__":
     main()

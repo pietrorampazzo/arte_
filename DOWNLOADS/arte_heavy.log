@@ -51,3 +51,101 @@
 2025-09-15 18:44:47,598 - INFO - Loading existing processed data from master_heavy.xlsx
 2025-09-15 18:44:47,629 - INFO - Found 171 already processed items.
 2025-09-15 18:44:47,632 - INFO - Identified 166 new items to process.
+2025-09-15 20:17:03,624 - INFO - Starting the product matching process...
+2025-09-15 20:17:03,741 - INFO - Loaded 166 items from master.xlsx and 1359 products from categoria_GEMINI.xlsx
+2025-09-15 20:17:03,742 - INFO - No existing output file found. Processing all items as new.
+2025-09-15 20:17:03,744 - INFO - Identified 166 new items to process.
+2025-09-15 20:40:22,081 - INFO - Starting the product matching process...
+2025-09-15 20:40:22,174 - INFO - Loaded 194 items from master.xlsx and 1359 products from categoria_GEMINI.xlsx
+2025-09-15 20:40:22,175 - INFO - No existing output file found. Processing all items as new.
+2025-09-15 20:40:22,177 - INFO - Identified 194 new items to process.
+2025-09-15 21:44:47,000 - INFO - Starting the product matching process...
+2025-09-15 21:44:47,136 - INFO - Loaded 179 items from master.xlsx and 1359 products from categoria_GEMINI.xlsx
+2025-09-15 21:44:47,138 - INFO - No existing output file found. Processing all items as new.
+2025-09-15 21:44:47,140 - INFO - Identified 179 new items to process.
+2025-09-16 01:07:07,474 - INFO - Starting the product matching process...
+2025-09-16 01:07:07,565 - INFO - Loaded 179 items from master.xlsx and 1359 products from categoria_GEMINI.xlsx
+2025-09-16 01:07:07,567 - INFO - No existing output file found. Processing all items as new.
+2025-09-16 01:07:07,569 - INFO - Identified 179 new items to process.
+2025-09-16 01:07:39,968 - INFO - Starting the product matching process...
+2025-09-16 01:07:40,062 - INFO - Loaded 179 items from master.xlsx and 1359 products from categoria_GEMINI.xlsx
+2025-09-16 01:07:40,064 - INFO - No existing output file found. Processing all items as new.
+2025-09-16 01:07:40,065 - INFO - Identified 179 new items to process.
+2025-09-16 01:10:42,156 - INFO - Starting the product matching process...
+2025-09-16 01:10:42,280 - INFO - Loaded 179 items from master.xlsx and 1359 products from categoria_GEMINI.xlsx
+2025-09-16 01:10:42,282 - INFO - No existing output file found. Processing all items as new.
+2025-09-16 01:10:42,286 - INFO - Identified 179 new items to process.
+2025-09-16 01:14:57,569 - INFO - Starting the product matching process...
+2025-09-16 01:14:57,663 - INFO - Loaded 179 items from master.xlsx and 1359 products from categoria_GEMINI.xlsx
+2025-09-16 01:14:57,664 - INFO - No existing output file found. Processing all items as new.
+2025-09-16 01:14:57,666 - INFO - Identified 179 new items to process.
+2025-09-16 01:19:27,390 - INFO - Starting the product matching process...
+2025-09-16 01:19:27,476 - INFO - Loaded 193 items from master.xlsx and 1359 products from categoria_GEMINI.xlsx
+2025-09-16 01:19:27,478 - INFO - No existing output file found. Processing all items as new.
+2025-09-16 01:19:27,481 - INFO - Identified 193 new items to process.
+2025-09-16 01:52:28,701 - INFO - Starting the product matching process...
+2025-09-16 01:52:28,863 - INFO - Loaded 193 items from master.xlsx and 1359 products from categoria_GEMINI.xlsx
+2025-09-16 01:52:28,865 - INFO - No existing output file found. Processing all items as new.
+2025-09-16 01:52:28,880 - INFO - Identified 193 new items to process.
+2025-09-16 01:53:38,508 - INFO - Incremental save after processing item 1/193 at C:\Users\pietr\OneDrive\.vscode\arte_\EDITAIS\master_heavy.xlsx
+2025-09-16 01:54:42,723 - INFO - Incremental save after processing item 2/193 at C:\Users\pietr\OneDrive\.vscode\arte_\EDITAIS\master_heavy.xlsx
+2025-09-16 01:56:17,582 - INFO - Starting the product matching process...
+2025-09-16 01:56:17,745 - INFO - Loaded 193 items from master.xlsx and 1359 products from categoria_GEMINI.xlsx
+2025-09-16 01:56:17,747 - INFO - No existing output file found. Processing all items as new.
+2025-09-16 01:56:17,752 - INFO - Identified 193 new items to process.
+2025-09-16 01:57:32,428 - INFO - Incremental save after processing item 1/193 at C:\Users\pietr\OneDrive\.vscode\arte_\EDITAIS\master_heavy.xlsx
+2025-09-16 01:58:40,449 - INFO - Incremental save after processing item 2/193 at C:\Users\pietr\OneDrive\.vscode\arte_\EDITAIS\master_heavy.xlsx
+2025-09-16 01:58:46,995 - INFO - Starting the product matching process...
+2025-09-16 01:58:47,090 - INFO - Loaded 193 items from master.xlsx and 1359 products from categoria_GEMINI.xlsx
+2025-09-16 01:58:47,093 - INFO - No existing output file found. Processing all items as new.
+2025-09-16 01:58:47,095 - INFO - Identified 193 new items to process.
+2025-09-16 01:59:55,439 - INFO - Incremental save after processing item 1/193 at C:\Users\pietr\OneDrive\.vscode\arte_\EDITAIS\master_heavy.xlsx
+2025-09-16 02:00:59,245 - INFO - Incremental save after processing item 2/193 at C:\Users\pietr\OneDrive\.vscode\arte_\EDITAIS\master_heavy.xlsx
+2025-09-16 02:02:04,494 - INFO - Incremental save after processing item 3/193 at C:\Users\pietr\OneDrive\.vscode\arte_\EDITAIS\master_heavy.xlsx
+2025-09-16 02:02:04,565 - INFO - Incremental save after processing item 4/193 at C:\Users\pietr\OneDrive\.vscode\arte_\EDITAIS\master_heavy.xlsx
+2025-09-16 02:02:59,336 - INFO - Starting the product matching process...
+2025-09-16 02:02:59,434 - INFO - Loaded 193 items from master.xlsx and 1359 products from categoria_GEMINI.xlsx
+2025-09-16 02:02:59,435 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-16 02:02:59,442 - INFO - Found 4 already processed items.
+2025-09-16 02:02:59,444 - INFO - Identified 189 new items to process.
+2025-09-16 02:04:04,946 - INFO - Incremental save after processing item 5/189 at C:\Users\pietr\OneDrive\.vscode\arte_\EDITAIS\master_heavy.xlsx
+2025-09-16 02:07:07,662 - INFO - Incremental save after processing item 6/189 at C:\Users\pietr\OneDrive\.vscode\arte_\EDITAIS\master_heavy.xlsx
+2025-09-16 02:08:12,431 - INFO - Incremental save after processing item 7/189 at C:\Users\pietr\OneDrive\.vscode\arte_\EDITAIS\master_heavy.xlsx
+2025-09-16 02:09:16,329 - INFO - Starting the product matching process...
+2025-09-16 02:09:16,418 - INFO - Loaded 193 items from master.xlsx and 1359 products from categoria_GEMINI.xlsx
+2025-09-16 02:09:16,418 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-16 02:09:16,425 - INFO - Found 7 already processed items.
+2025-09-16 02:09:16,427 - INFO - Identified 186 new items to process.
+2025-09-16 02:10:24,016 - INFO - Incremental save after processing item 8/186 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:11:26,947 - INFO - Incremental save after processing item 9/186 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:12:30,643 - INFO - Incremental save after processing item 10/186 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:13:34,567 - INFO - Incremental save after processing item 11/186 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:14:39,234 - INFO - Incremental save after processing item 12/186 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:15:46,404 - INFO - Incremental save after processing item 13/186 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:16:58,366 - INFO - Incremental save after processing item 14/186 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:18:01,963 - INFO - Incremental save after processing item 15/186 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:19:06,870 - INFO - Incremental save after processing item 16/186 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:20:19,377 - INFO - Incremental save after processing item 17/186 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:21:27,992 - INFO - Incremental save after processing item 18/186 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:22:33,828 - INFO - Incremental save after processing item 19/186 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:23:49,863 - INFO - Incremental save after processing item 20/186 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:24:53,261 - INFO - Incremental save after processing item 21/186 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:25:59,709 - INFO - Incremental save after processing item 22/186 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:27:03,329 - INFO - Incremental save after processing item 23/186 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:28:16,021 - INFO - Incremental save after processing item 24/186 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:29:16,958 - INFO - Starting the product matching process...
+2025-09-16 02:29:17,067 - INFO - Loaded 193 items from master.xlsx and 1359 products from categoria_GEMINI.xlsx
+2025-09-16 02:29:17,068 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-16 02:29:17,079 - INFO - Found 11 already processed items.
+2025-09-16 02:29:17,082 - INFO - Identified 182 new items to process.
+2025-09-16 02:30:24,512 - INFO - Incremental save after processing item 2/182 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:30:24,575 - INFO - Incremental save after processing item 4/182 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:31:28,810 - INFO - Incremental save after processing item 6/182 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:32:32,318 - INFO - Incremental save after processing item 7/182 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:33:35,242 - INFO - Incremental save after processing item 9/182 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:34:39,923 - INFO - Incremental save after processing item 10/182 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:35:54,564 - INFO - Incremental save after processing item 12/182 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:37:03,067 - INFO - Incremental save after processing item 13/182 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:38:11,489 - INFO - Incremental save after processing item 14/182 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:39:16,110 - INFO - Incremental save after processing item 15/182 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-16 02:40:26,615 - INFO - Incremental save after processing item 18/182 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
