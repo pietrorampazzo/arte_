@@ -19,10 +19,12 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # --- Configurações de Caminhos ---
-BASE_DIR = Path(r"c:\Users\pietr\OneDrive\.vscode\arte_")
+BASE_DIR = Path(r"c:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS")
 PASTA_EDITAIS = BASE_DIR / "EDITAIS"
 SUMMARY_EXCEL_PATH = PASTA_EDITAIS / "summary.xlsx"
 FINAL_MASTER_PATH = PASTA_EDITAIS / "master.xlsx"
+
+
 
 # --- Configurações de Ferramentas Externas ---
 POPLER_PATH = BASE_DIR / "scripts" / "Release-25.07.0-0" / "poppler-25.07.0" / "Library" / "bin"

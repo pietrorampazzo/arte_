@@ -1,0 +1,752 @@
+APÊNDICE |l DO TERMO DE REFERÊNCIA
+ESPECIFICAÇÃO TÉCNICA
+
+1 - RELAÇÃO DE ITENS E DESCRIÇÃO DETALHADA:
+GRUPO 1
+
+ITEM 1 - MULTÍMETRO INDUSTRIAL: Multímetro Industrial de Precisão Com
+Registrador de Dados -Qualidade equivalente ou superior ao modelo YOKOGAWA
+TY720 - Especificações: 50.000 contagens | display 4% dígitos | precisão básica
+0,020% | medição TRUE RMS | display duplo | banda AC de 10Hz a 100KHz |
+medição e exibição simultânea de DC e AC | detecção RMS/MEAN comutável | filtro
+passa-baixa (LPF) | medição de resistência Lo-Power com escala de 5k e resolução
+de 0,001k | suporte a gerenciamento de dados | memória de 10.000 pontos no modo
+datalogger | comunicação USB com software | design robusto para ambientes
+severos | conforme EN61010-1 1000V CAT ll / 600V CAT IV | borne de segurança
+contra inserção incorreta de cabos | mede: tensão CC/CA, DCV+ACV, corrente
+CC/CA, DCA+ACA, resistência, frequência, temperatura, capacitância, ciclo de
+trabalho, decibéis, continuidade, teste de diodo, resistência de baixa potência |
+funções: retenção de dados, retenção automática e de pico, valores
+máx/mín/médios, zero em resistência e capacitância, cálculo relativo e percentual,
+memória manual e de registro, desligamento automático, luz de fundo LED branco |
+display LCD 5 dígitos (7 segmentos) | gráfico de barras com 51 segmentos |
+indicadores de polaridade, sobrecarga "OL" e bateria fraca | faixa de operação: -20 a
++55ºC | inclui: multímetro, pontas de prova, interface ótica para PC, cabo USB,
+bolsa de proteção.
+
+Garantia de 3 anos do fabricante.
+
+Imagem ilustrativa: Print retirado do site do fabricante do modelo referência <
+
+https://tmi.yokogawa.com/> em 26/08/2025
+
+4+-46-TEMP.
+A vAmA COM vo
+
+
+
+ITEM 2 - MULTÍMETRO DIGITAL PORTÁTIL: Multímetro Digital portátil | Qualidade
+equivalente ou superior ao modelo Fluke 106 | Tensão AC: 6,000 V / 60 V/600 V|
+Resolução: 0,001 V / 0,01 V /0,1 V | Precisão: +1,0% + 3 | Tensão DC: 6,000 V / 60
+V / 600 V | Resolução: 0,001 V /0,01 V/0,1 V | Precisão: +0,5% + 3 | Milivolts AC:
+até 600 mV | Precisão: +3% | Resistência: 400 O a 40 MO | Resolução: 0,1 O a 0,01
+MO | Precisão: até +1,5% + 3 | Capacitância: 50 nF a 1000 uF | Resolução: 0,01 nF
+a 1 uF | Precisão: até +5% + 5 | Frequência: 50 Hz a 100 kHz | Ciclo de trabalho: 1%
+a 99% | Corrente AC/DC: 4 A e 10 A | Resolução: 0,001 A / 0,01 A | Precisão: +1,5%
++ 3 | Display: 6000 contagens, atualização 3 vezes/s | Retenção de dados (data
+hold) | Alerta sonoro de continuidade | Impedância de entrada: >10 MQ <100 pF |
+Proteção contra sobrecarga: até 600 V | Categoria de segurança: CAT Ill 600V, IEC
+61010-1 | Grau de poluição 2 | Alimentação: 2 pilhas AAA | Autonomia: >200h |
+Temperatura de operação: O “C a 40 ºC | Umidade relativa: até 90% | Altitude de
+operação: até 2000 m | Dimensões aproximadas: 142 x 69 x 28 mm | IP40 |
+Proteção de corrente com fusível Fast 11A, 1000V | Ambiente eletromagnético: IEC
+61326-1 (uso portátil).
+
+Garantia de um ano do fabricante
+
+Imagem ilustrativa: Print retirado do site do fabricante do modelo referência <
+https://www.fluke.com/pt-br> em 26/08/2025
+
+
+
+ITEM 3 - RUGOSÍMETRO: Rugosímetro Portátil, qualidade equivalente ou superior
+ao modelo Mahr PS 10 6910230, Código do fornecedor: 6910230 | USB MicroSD |
+Compacto, leve, simples e intuitivo para medição de rugosidade | Display ajustável
+4.3" TFT sensível ao toque | Backup de dados via arquivos TXT, X3P ou PDF
+criados diretamente no equipamento | Inclusão de comentários nos arquivos PDF |
+Autonomia para 1200 medições | Unidade de avanço removível | Medição na
+horizontal e vertical | 31 parâmetros de superfície com funções laboratoriais |
+Acesso rápido e resultados em segundos | Micras: 2um | Parâmetros: Ra, Rq, Rz,
+Ry (JIS), Rz (JIS), RMax, Rp, RDA (ASME), Rom (ASME), Rpk, Rk, Rvk, Mr1, Mr2,
+A1, A2, Vo, Rt, RPc, Rmr (tp JIS/ASME), RS8m, RSk, RS, CR, CF, CL, R, Ar, Rx, R3z
+| Armazenamento: 1350 perfis, 500.000 resultados, 250 arquivos PDF | Memória
+expansível até 32 GB via cartão microSD/SDHC | Interface: USB, MarConnect
+RS232 | Proteção: IP40 | Bateria de lítio recarregável | Capacidade: 350 um |
+Resolução de perfil: ê nm | Cutoff automático conforme ISO/JIS: 0,25 mm, 0,8 mm,
+2,5 mm | Número de cutoff selecionável: 1 a 16 | Comprimento de avaliação
+ISO/JIS: 1,5 mm, 4,8 mm, 15 mm (N x Lc) | Avaliação ISO 12085 (MOTIF): 1,2,4,38,
+12, 16 mm | Avaliação ISO/JIS: 1,25 mm, 4,0 mm, 12,5 mm | Força de medição:
+0,75 mN | Iltens inclusos: 01 Rugosímetro Portátil PS 10, 01 unidade de avanço
+destacável, 01 apalpador conforme norma, 01 bateria recarregável incorporada, 01
+padrão de rugosidade integrado, 01 certificado de calibração Mahr, 01 proteção para
+apalpador, 01 carregador, 03 adaptadores, 01 estojo com alça de ombro, 01 cabo
+USB, 01 extensão de 1,2m para unidade de avanço, 01 software MarCom
+Professional (download gratuito), 01 manual | Dimensões aproximadas: 27 x 15x 18
+cm (AxLxP).
+
+Garantia: 12 meses
+
+Imagem  ilustrativa: Print retirado do site do fabricante do modelo
+referência<https://metrology.mahr.com/pt-br/> em 26/08/2025
+
+
+
+GRUPO 2
+
+ITEM 4 - SOPRADOR TÉRMICO: Soprador térmico com dois estágios de operação
+| Potência 1º estágio: 750 W | Temperatura 1º estágio: 300 “C | Fluxo de ar 1º
+estágio: 280 L/min | Potência 2º estágio: 1500 W (ou superior) | Temperatura 2º
+estágio: 500 ºC (ou superior) | Fluxo de ar 2º estágio: 500 L/min (ou superior) |
+Alimentação: elétrica (com cabo) | Tensão: bivolt ou 127 V | Tipo de resistência:
+cerâmica | Sistema de controle de temperatura eletrônico | Corpo em material
+resistente ao calor | Empunhadura ergonômica com proteção térmica | Uso contínuo
+e profissional | Acompanha bicos direcionadores para diferentes aplicações | Deve
+acompanhar Manual em português.
+
+Garantia mínima: 12 meses
+
+Imagem ilustrativa:
+
+ITEM 5 - FURADEIRA DE IMPACTO: Furadeira de impacto 1/2º (13 mm), potência
+mínima de 850 W, qualidade equivalente ou superior à GSB 16 RE | Tensão: 127 V |
+Tipo: com e sem impacto | Mandril metálico de 1/2” com chave | Velocidade variável
+e reversível | Empunhadura auxiliar com limitador de profundidade | Capacidade de
+perfuração: 13 mm em aço, 16 mm em concreto e 30 mm em madeira | Controle
+eletrônico de velocidade com gatilho de dois dedos | Rotação mínima: 3.200 rpm |
+Impacto: mínimo 48.000 ipm | Botão trava para trabalhos contínuos | Peso
+aproximado: 1,8kg | Acompanha: maleta plástica resistente para transporte,
+empunhadura lateral, limitador de profundidade e manual em português.
+
+Garantia mínima de 12 meses.
+
+Imagem ilustrativa:
+
+
+
+ITEM 6 - PARAFUSADEIRA SEM FIO: Parafusadeira e chave de impacto elétrica |
+Com maleta de transporte | 15 regulagens de torque | Leve e fácil de manusear sem
+fios | Carregamento por fonte bivolt versátil e eficiente | LED de iluminação durante o
+uso | Acompanha maleta com jogo de soquetes com 46 peças. Qualidade
+equivalente ou superior a Bosch ou Makita.
+
+Garantia mínima de 3 meses.
+
+Imagem ilustrativa:
+
+
+
+GRUPO 3
+
+ITEM 7 - TRANSPALETE HIDRÁULICO MANUAL: Altura dos garfos abaixados
+(mm): 75 | Altura dos garfos elevados (mm): 190 | Altura total (mm): 1225 |
+Capacidade de carga (Kg): 2500 | Comprimento total (mm): 1533 | Comprimento útil
+do garfo (mm): 1150 | Curso total (mm): 115 | Largura Externa do Garfo (mm):
+680mm (Opcional 525mm sob consulta) | Peso aproximado (Kg): 75 | Roda
+direcional (mm): & 180x50 com rolamento de blind. dupla | Roda tandem (mm): &
+T4x70 com rolamento de blind. dupla | Rodas: Tenden Poliuretano | Qualidade
+equivalente ou superior ao tipo Paletrans.
+
+Garantia mínima de 3 meses.
+
+Imagem ilustrativa:
+
+ITEM 8 - CARRINHO DE CARGA TIPO PLATAFORMA: Carrinho de carga do tipo
+plataforma, sem grade | Estrutura em aço carbono reforçado com pintura
+eletrostática ou galvanização | Capacidade mínima de carga: 300 kg | Base com
+chapa de aço ou madeira compensada revestida | Rodízios reforçados: 2 fixos e 2
+giratórios com freio | Rodas de borracha maciça ou PU, mínimo 6” de diâmetro |
+Alça para manuseio ergonômica | Plataforma com dimensões mínimas de 100 cm
+(C) x 60 cm (L) | Altura total do carrinho: até 110 cm | Peso máximo do carrinho
+vazio: 40 Kkg | Uso: interno e externo, em piso regular | Manual em português, se
+aplicável.
+
+Garantia mínima: 12 meses
+
+Imagem ilustrativa:
+
+
+
+ITEM 9 - ESCADA ARTICULADA 16 DEGRAUS: Tipo de posição: Multifuncional |
+Materiais da estrutura: Alumínio | Quantidade de degraus: 16 | Altura máxima da
+escada: 4,23 m | Altura da escada fechada: 1,14 m | Largura da escada: 38,4 cm | É
+extensível: Sim | É dobrável: Sim | Peso aproximado: 12,42 kg | Peso máximo
+suportado: 150 kg | Distância entre os degraus: 25 cm | Altura da escada andaime:
+1,11 m | Altura da escada tesoura: 1,91 cm | Quantidade de posições: 13 | Com
+degraus antiderrapantes: Sim | Com pés antiderrapantes: Sim | Com trava de
+segurança: Sim.
+
+Garantia mínima de 3 meses.
+
+Imagem ilustrativa:
+
+ITEM 10 - ESCADA DE 8 DEGRAUS: Altura total aberta: 220 cm | Largura total
+aberta: 129,5 cm | Altura até o patamar: 173 cm | Altura total fechada: 233 cm |
+Largura inferior: 49,5 cm | Largura superior: 31 cm | Espessura fechada: 10,5 cm |
+Quantidade de degraus: 8 | Composição: Alumínio reforçado, chapa de aço
+galvanizada, plástico.
+
+Garantia mínima de 3 meses.
+
+ITEM 11 - ESCADA DE 5 DEGRAUS: Escada dupla (degrau largo) com 5 degraus,
+fabricada em alumínio, indicada para uso doméstico ou institucional leve. Degraus
+com superfície antiderrapante, altura total de no mínimo 1,53 m, plataforma superior
+de apoio, sapatas emborrachadas para maior estabilidade, estrutura leve e
+resistente com capacidade de carga de pelo menos 120 kg. Certificação do
+INMETRO ou equivalente.
+
+Garantia de 12 meses.
+
+Imagem ilustrativa:
+
+
+
+GRUPO 4
+
+ITEM 12 - CARRINHO DE LIMPEZA MULTIFUNCIONAL: Kit de limpeza com 4
+rodas para atividades de limpeza de pisos e superfícies em geral | Composto por: 01
+carrinho com estrutura reforçada e rodízios, 01 balde espremedor para mop com
+capacidade de 30 litros, 01 cabo de alumínio com 1,40 m de comprimento, 01 garra
+euro plástica, 01 placa sinalizadora de piso molhado (cuidado), 01 pá tipo pop para
+resíduos, 01 conjunto mop de 60 cm e 01 refil mop tipo loop com cinta.
+
+Garantia mínima de 03 (três) meses.
+
+Imagem ilustrativa:
+
+ITEM 13 - LAVADORA DE ALTA PRESSÃO SEMI-PROFISSIONAL: Lavadora de
+alta pressão, qualidade equivalente ou superior ao modelo Karcher | Potência
+mínima: 2000 Watts | Motor brushless (sem escovas) de indução | Pressão mínima:
+1800 psi ou superior | Vazão mínima: 500 L/h | Tensão: 127V | Mangueira de alta
+pressão com mínimo 10 metros | Cabo elétrico com mínimo 5 metros | Sistema stop
+total (desliga ao soltar o gatilho) | Bico ajustável ou conjunto de bicos para diferentes
+tipos de jato | Filtro de entrada de água | Reservatório para detergente com
+aplicador externo | Rodas para transporte | Estrutura robusta para uso contínuo |
+Manual em português.
+
+Garantia mínima de 12 meses.
+
+Imagem ilustrativa:
+
+
+
+GRUPO 5
+
+ITEM 14 - CADEIRA CAIXA ALTA: Cadeira caixa alta, estrutura giratória e base
+aranha, sem braço, mocho alto, cor preta | Assento de espuma injetada
+anatomicamente com 45 mm de espessura, tamanho 47 x 43 x 6 cm | Encosto de
+espuma injetada anatomicamente com 40 mm de espessura, tamanho 42 x 40 x 6
+cm | Altura do assento: mínima 66 cm / máxima 75 cm | Base giratória com pistão a
+gás e aranha de 5 hastes de aço com sapata | Tipo de regulagem: altura do assento
+e altura do encosto | Mecanismo back system com 2 alavancas de regulagem com
+movimento de inclinação | De acordo com a Norma Regulamentadora NR17 |
+Capacidade de carga: até 120 kg | Revestido em couro sintético preto.
+
+Garantia mínima de 3 (três) anos.
+
+Imagem ilustrativa:
+
+ITEM 15 - TROCADOR DE FRALDA DE PAREDE: Trocador de fraldas de parede,
+rebatível quando não está em uso, com mesa em polietileno de alta resistência com
+estrutura em aço zincado ou inoxidável | Superfície lisa, sem cantos vivos, com
+acolchoamento impermeável, macio, atóxico e de fácil higienização | Capacidade
+mínima de carga: 15 kg | Cinto de segurança ajustável | Suporte com travas de
+
+
+segurança | Dimensões mínimas da superfície útil quando aberto: 85 cm (C) x 57 em
+(L) | Instalação: fixação em parede | Cor branco, bege ou cinza | Manual em
+português, se aplicável.
+
+Garantia mínima: 12 meses
+
+Imagem ilustrativa:
+
+Referência: https://wWww.greice.com.br/trocador-de-fraldas-greice/
+
+n "
+" !'_
+"
+
+ITEM 16 - LOUSA DE VIDRO: Lousa de vidro temperado, medidas: 6 MM - 3,00m X
+1,20m - Material: Vidro temperado (6 mm a 8 mm de espessura). Acabamento:
+Fosco (jateado). Fundo: Pintura na cor branca opaca, em tinta PU ou epóxi,
+resistente a riscos e à umidade, na cor branca. Instalação: pinos metálicos inox com
+espaçadores de até 2 cm. Com calha inferior para apoio de marcadores. Garantia
+de atendimento à NBR 14698 (Vidro temperado) e demais normas de segurança
+aplicáveis. Caso a dimensão padrão não esteja disponível, poderão ser aceitas
+lousas em dois painéis acoplados, sem prejuízo estético ou funcional.
+
+Garantia de 12 meses contra defeitos de fabricação.
+
+Imagem ilustrativa:
+
+
+
+GRUPO 6
+
+ITEM 17 - CAPACHO DE FIBRA DE COCO: Capacho de fibra de coco, costurado
+com espessura mínima de 30mm aproximadamente e mínimo de 600 fios por
+centímetro quadrado. Produto confeccionado com fibras vegetais resistentes, que
+proporcionam excelente retenção de sujeira e umidade, preservando a limpeza
+interna e reduzindo custos de manutenção. Tamanho 1,7/0m x 0,7/0Om. Personalizado
+com logo do IFSP.
+
+Garantia: 12 meses, contra defeito de fabricação.
+
+Imagem ilustrativa:
+
+ITEM 18 - CAPACHO DE FIBRA DE COCO: Capacho de fibra de coco, costurado
+com espessura mínima de 30mm aproximadamente e mínimo de 600 fios por
+centímetro quadrado Produto confeccionado com fibras vegetais resistentes, que
+proporcionam excelente retenção de sujeira e umidade, preservando a limpeza
+interna e reduzindo custos de manutenção. Tamanho 1,30m x 0,60m. Personalizado
+com logo do IFSP.
+
+Garantia: 12 meses, contra defeito de fabricação.
+
+
+
+GRUPO 7
+
+ITEM 19 - APARELHO DE AR CONDICIONADO: Aparelho de ar-condicionado
+30.000 BTUs. Qualidade equivalente ou superior ao Modelo: TAC 32CSG?2 - TCL |
+Tipo Split Hi-Wall | Capacidade de refrigeração: 30.000 BTUs/h | Ciclo: Frio |
+Classificação energética mínima A (Selo Procel) | Gás refrigerante ecológico R-32
+ou superior | Tecnologia Inverter | Função timer, sleep e modo turbo | Modo de
+operação silencioso | Filtro de ar removível e lavável | Controle remoto com display
+digital | Tensão de alimentação: 220V monofásico ou conforme necessidade |
+Serpentina de cobre | Indicador de temperatura no display | Vazão mínima de ar:
+900 m?/h | Instalação interna (evaporadora) e externa (condensadora) | Manual de
+instalação e operação em português | Compatível com normas da ABNT e
+certificação do Inmetro.
+
+Garantia mínima de 12 meses.
+
+Imagem llustrativa:
+
+| ToL
+
+ITEM 20 - FRIGOBAR: Frigobar | Sistema de refrigeração frost free (sem formação
+de gelo) ou degelo cycle defrost | Degelo automático ou semi-automático |
+Capacidade líquida mínima: 100 L | Freezer interno mínimo de 10L | Classificação
+energética mínima A (Selo Procel) | Termostato ajustável | Prateleiras removíveis e
+reguláveis | Compartimento para frutas/legumes | Porta-latas ou porta-garrafas |
+Iluminação interna | Tensão bivolt ou 127 V | Pés niveladores | Cor branca, preta ou
+inox | Baixo nível de ruído | Dimensões máximas: 90 cm (A) x 55 cm (L) x 60 cm (P)
+
+
+| Peso máximo: 30 kg | 1 porta com vedação magnética | Acompanha cabo de
+alimentação e manual em português.
+
+Garantia mínima de 12 meses.
+
+Imagem llustrativa:
+
+
+
+GRUPO 8
+
+ITEM 21 - TELEVISÃO 70”: Smart TV 70”, qualidade equivalente ou superior à
+Samsung 7ODUT77O00 | com controle remoto | Conversor digital integrado | Tela LED
+plana, painel RGB 8 bits | Resolução 4K (3840 x 2160), taxa de atualização 120 Hz
+MR | Vídeo: Mega Contraste, UHD Dimming, PurColor, Contrast Enhancer, Auto
+Motion Plus, Modo Filme | Áudio: Dolby Digital Plus, DTS Codec, alto-falante 2
+canais, potência RMS 20W, Multiroom Link | Smart Service: aplicativos, navegador
+Web | Convergência: espelhamento TV—mobile e mobile-TV, DLNA, 360 Video
+Player, Wi-Fi Direct | Recursos: Instant On, processador Quad Core, acessibilidade
+(guia de voz, ampliar, contraste), Digital Clean View, busca automática de canais,
+Connect Share (HDD e USB 2.0), POP incorporado, Modo Jogo, Ultra Clean View,
+sensor ecológico | Wi-Fi integrado | Timer On/Off | Entradas: 3 HDMI, 2 USB, 1
+vídeo componente, 1 vídeo composto (comum), 1 rede, 1 RF, 1 saída óptica |
+Entrada áudio/vídeo | Sistemas de TV: NTSC, PAL-M, PAL-N, ISDB-TB | Consumo:
+220W | Classificação ENCE: A | Tensão: Bivolt | Dimensões aproximadas s/ base:
+1688,9 x 971,2 x 66,0 mm | Dimensões aproximadas c/ base: 1688,9 x 1052,6 x
+384,9 mm | Peso aproximado s/ base: 35,2 kg | Peso aproximado c/ base: 38,8 Kkg.
+Garantia: 1 ano
+
+Imagem ilustrativa:
+
+INº
+
+TV tudõ em |
+
+mas | ( l
+|
+em | cm
+P aa nNCIO | Senhos
+'mnmh“ mª““ºny Hna por fora
+POSarOSa por cientr,
+
+re:w
+mq | Sootea
+
+ITEM 22 - PEDESTAL PARA TRANSPORTE DE TV: Pedestal indicado para TVs
+LED/LCD/Plasma/3D de 32" a 75" com peso até 50kg e compatíveis com padrão de
+fixação VESA 200x100, 200x200, 200x300, 300x200, 300x300, 400x200, 400x300,
+400x400, 600x200 ou 600x400 mm (HxV).Normalmente encontrado em televisores
+com tela de 32 até 75". Pedestal de Chão com Regulagem de Altura. Bandeja de
+apoio para DVDs player, Blu-Ray, Notebook. Bandeja superior de apoio para
+
+
+Webcam. FUNÇÕES: Regulagem de altura da TV. Passagem interna para fiação.
+Regulagem de altura da bandeja inferior. Regulagem de altura da bandeja superior.
+Rodízios para movimentar o pedestal sobre superfícies planas. CAPACIDADE DE
+CARGA: Carga máxima do suporte para TV: Até 50Kkg. Carga máxima sobre a
+bandeja inferior: Até 10kg. Carga máxima sobre a bandeja superior: até 5Kkg.
+ALTURA: (Medida do chão ao centro da base de monitor): Altura Mínima: 1290mm.
+Altura Intermediária 13/0mm. Altura Máxima: 1450mm,* 3 opções de altura para a
+TV EXTRAS: 02 Rodízios com trava para evitar movimentações indesejadas.
+DADOS TÉCNICOS: Material: Aço Carbono. Medidas aproximadas da Bandeja
+Inferior: 48,5 x 29,3 em (LxP). Medidas aproximadas da Bandeja Superior: 22,8 x
+29,8 cm (LxP). Medida aproximada da Base de Chão: 66,5 x 88 cm. Dimensões
+aproximadas da embalagem: (A x L x P): 36 x 96 x 12 cm. Peso aproximado bruto:
+15 Kkg.
+
+Garantia mínima de 3 meses.
+
+Imagem ilustrativa:
+
+ITEM 23 - MICROFONE: Microfone sem fio + Receptor | Alimentação: pilhas AAA |
+Frequência da portadora: 640 MHz — 690 MHz | Padrão polar: Cardioide | Sistema
+de transmissão: sem fio UHF multicanal/multifrequência | Alcance: até 100 metros |
+
+
+Sincronização de frequência: infravermelho | Resposta de frequência: 40 Hz — 20
+kHz (+3 dB).
+
+Garantia: 12 meses.
+
+Imagem ilustrativa:
+
+Á.
+
+ITEM 24 - TRANSMISSOR E RECEPTOR DE ÁUDIO E VÍDEO: Transmissor e
+Receptor de Áudio e Vídeo sem fio | Alcance de transmissão: mínimo 30m em
+ambiente aberto com sinal estável | Resolução suportada: Full HD 1080p a 60Hz |
+Frequência de operação: 5GHz (baixa interferência) | Conectividade: Transmissor
+com entrada HDMI e alimentação via USB-C (opcional) / Receptor com saída HDMI
+e alimentação via USB | Compatibilidade: notebooks, PCs, consoles (PS4/PS5),
+projetores, TVs e monitores | Instalação: plug & play, sem necessidade de software
+ou rede Wi-Fi | Emparelhamento: automático, pré-configurado de fábrica | Latência:
+baixa, ideal para apresentações, vídeos e jogos | Temperatura de operação: até
+50ºC | LED indicador: pisca durante a conexão e permanece aceso quando
+emparelhado.
+
+Garantia: 3 meses.
+
+Imagem ilustrativa:
+
+
+ITEM 25 - CAIXA DE SOM MÓVEL COM MICROFONES: Equivalente ou superior a
+Marca: JBL | Linha: PartyBox | Modelo: JBLPBENCOREZ22MICBR | Modelo
+alfanumérico: JIBLPBENCORE2Z2MICBR | Cor: Preto | Formato do alto-falante: Caixa
+| Com luzes LED: Sim | Com modo mãos livres: Sim | Com função Karaokê: Sim |
+Com efeito de voz: Sim | Com rádio: Não | É portátil: Sim | É sem fio: Sim | É gamer:
+Não | É profissional: Não | É monitor de palco: Não | Com visor: Não | Sistemas
+operacionais compatíveis: Android, iOS e Windows Phone | Largura x Profundidade
+x Altura: 33,86 cm x 26,3 cm x 31,95 cm | Peso: 6,39 kg | Tipos de alimentação:
+Bateria | Homologação Anatel nº: 004632507120 | Fabricante: Harman International
+Industries | É resistente ao pó: Não | Tipo de bateria: Íon de lítio | Com NFC: Não |
+Classificação IP: IPX4 | Potência de saída (RMS): 100 kW | Tipos de alto-falante:
+Woofer | Configuração de canais: 5.4 | Resposta em frequência: 40 Hz — 20 kHz |
+Autonomia máxima da bateria: 15 h | Inclui bateria recarregável: Sim | Voltagem da
+bateria: 5V | Inclui carregador: Sim | Com base: Não | Com microfone: Sim | Inclui
+suporte: Não | Inclui controle remoto: Não | Lugares de colocação: De piso | É à
+prova d'água: Não | É adequado para uso ao ar livre: Sim | Inclui rodas: Não | Inclui
+puxador: Sim | Com Bluetooth: Sim | Com Wi-Fi: Não | Conectores de entrada: USB.
+Garantia: 3 meses.
+
+Imagem ilustrativa:
+
+ITEM 26 - CAIXA DE SOM MÓVEL: Caixa de som, qualidade equivalente ou
+superior a JBL Party Speaker Ultimate | Potência RMS: 1100W | Bluetooth |
+Entradas duplas para microfone e violão/guitarra | Resistente à água: à prova de
+respingos | Sintonizador | Alça para transporte | Consumo: 1100W | Dimensões
+aproximadas: 104 cm (A) x 45,5 cm (L) x 44 cm (P) | Peso aproximado: 39,5 kg |
+
+
+Conteúdo da embalagem: 01 caixa de som, 01 guia de início rápido/ manual, 01
+cartão de garantia/certificado de segurança, 01 cabo de energia.
+
+Garantia: 01 ano (3 meses legais + 9 meses concedidos pelo fabricante).
+
+Imagem ilustrativa:
+
+
+
+GRUPO 9
+
+ITEM 27 - SKATE: Tipo de skateboard, Street Semiprofissional, Material dos trucks:
+Alumínio. Material dos rolamentos: Rolamentos de skate feitos de aço, cerâmica e
+titânio. Material do deck: Eucalipto, Quantidade de lâminas do deck 7, Comprimento
+x Largura, 3.14 cm x 0./8 cm, Peso máximo suportado 100 Kkg, Com lixa, Semi
+Profissional Completo Montado. Cor das rodas: livre
+
+Marca: Progress - PGS, Narina - qualidade equivalente ou similar
+
+Garantia mínima de 3 meses.
+
+Imagem ilustrativa:
+
+https://www.mercadolivre.com.br/skate-completo-montado-criancas-adolescentes-at
+e-100kg-rodas-mulher-rolamentos-cinza/p/MLB53811507tHpolycard client=search-no
+rdic&wid=MLB5576264638&search layout=stack&position=4&type=product&trackin
+g id=f1ceo0b49-1b50-4bd1-ab72-73efo56/74455b&sid=search
+
+ITEM 28 - SLACKLINE: Kit Slackline Completo 10m Profissional - Modelo Nokaya
+Slackline - qualidade equivalente ou superior.
+
+Fita de 10m (Largura:50mm | 100% Poliéster)
+
+.Catraca de Tensão (com Fita Rabicho 2,0m)
+
+.Protetores de Árvore 1m x 15cm (2un.)
+
+.Corda de BackUp 8mm x 3,25m (corda extra de segurança para a catraca)
+
+Grafite em Pó para lubrificação da catraca
+
+Garantia: 3 meses
+
+Imagem ilustrativa:
+
+
+https://www.mercadolivre.com.br/Kit-slacKkline-completo-1O0m-profissional--nokaya-sla
+ckline/up/MLBU1411634364?pdp filters=seller id%3A146687455tpolycard client=r
+ecommendations vip-seller items-above&reco backend=ranker-retsys-same-seller
+&reco model=rk entity sameseller&reco client=vip-seller items-above&reco item =
+pos=O0&reco backend type=low level&reco id=8414b4ae-6Gdb8-4199-a054-cc1880
+36ca13&wid=MLB1831377310&sid=recos
+
+ITEM 29 - PETECA PARA BADMINTON: Kit de Petecas De Badminton De Nylon 6
+Unidades Amarelo, Marca Vollo - qualidade equivalente ou superior.
+
+Especificações: Cor: Amarela, peso aproximado: 6g cada, dimensões aproximadas:
+6,5cm x 8,5cm. Tubo com 6 unidades.
+
+Garantia: 30 dias
+
+Imagem ilustrativa:
+
+https://www.mercadolivre.com.br/kKkit-de-petecas-de-badminton-de-nylon-6-unidades-
+amarelo-vollo/p/MLB24770353ttpolycard client=search-nordic&wid=MLB451912623
+O&search layout=grid&position=3&type=product&tracking id=c933abf2-51ff-4caa-af
+63-4a7 50f468bfa&sid=search
+
+
+GRUPO 10
+
+ITEM 30 - CABOS DE ENERGIA Y TRIPOLAR: Configuração do Cabo: Tipo: Cabo
+tipo Y / derivação | Entradas/Saídas: 1 plugue macho tripolar (entrada), 2 conectores
+fêmeas tripolares (saída) | Distribuição: Fase, neutro e terra conectados
+paralelamente para alimentação conjunta | Capacidade de corrente: 10 amperes
+totais, divididos entre os dois equipamentos | Obs.: Os dois dispositivos somados
+não devem ultrapassar 10A | 2. Condutores: Material: Cobre eletrolítico flexível |
+Bitola recomendada: 3 x 1,00 mm? | Norma: NBR NM 247-3 | 3. Isolação Interna:
+Material: PVC ou borracha termoplástica | Cores padrão dos fios: Fase: Preto ou
+marrom | Neutro: Azul | Terra: Verde ou verde/amarelo | 4. Revestimento Externo:
+Capa única em PVC flexível | Alta resistência contra abrasão e calor | Cor típica:
+Preta | Diâmetro externo: Aproximadamente 7—8 mm por ramo.
+
+Garantia: mínimo 3 meses
+
+Imagem ilustrativa:
+
+ITEM 31 - NÍVEL DE MÃO DE 3 BOLHAS: Nível 3 Bolhas 18" (45 cm -
+STHT42073-LA) | Tamanho: 18" (45 cm) | Cor: Amarelo e preto | Frascos:
+Horizontal, vertical e 45º | Precisão: 0,0005" | Peso líquido aproximado: 500 g |
+Composição: Alumínio.
+
+Garantia mínima de 3 meses.
+
+Imagem ilustrativa:
+
+
+
+ITEM 32 - NÍVEL DE MÃO COM LASER: Laser com interruptor, base com régua
+em alumínio de 6 polegadas ou 15 cm e trena de aço de 2,5 metros | Trena de 2,5 m
+| Laser 63-680nm, potência máxima de saída 5mW, Classe llla | Laser atinge até 8
+m de distância | Funciona com 3 baterias AG13 (inclusas) | Nível bolha vertical,
+horizontal e inclinado | Régua em centímetros e polegadas | Projeta o feixe na
+horizontal, vertical ou em cruz (ajuste para cima ou para baixo o canhão do laser).
+Garantia mínima de 3 meses.
+
+Imagem ilustrativa:
+
+ITEM 33 - KIT COM 4 RODÍZIOS GIRATÓRIOS 5”: Kit com 4 rodízios com base
+giratória de 5", largura mínima de 50 mm e diâmetro mínimo de 125 a 150mm, para
+Carrinho Plataforma, sendo 2 rodas com freio e 2 rodas livres. Em material
+poliuretano largo, base em chapa de aço zincado, proporcionando resistência à
+oxidação/corrosão. Peso mínimo por roda: 100 kg. Rodas adequadas para uso em
+pisos de cimento irregular.
+
+Garantia mínima de 3 meses.
+
+Imagem ilustrativa:
+
+
+
+Foto do carrinho que vai receber as rodas:
+
+Lamues
+&
+
+ITEM 34 - KIT COM 4 RODÍZIOS GIRATÓRIOS 50MM: Kit com 4 rodízios com base
+giratória de 50 mm, 2 com trava e 2 sem trava, fixação por chapa U com abertura de
+19 mm. Anti-risco, em material gel silicone, acabamento brilhante. Altura mínima
+total: 6,4 cm. Peso mínimo por roda: 50 kg.
+
+Garantia: 3 meses.
+
+Imagem ilustrativa:
+
+ITEM 35 - CHAVEIROS COM ETIQUETAS: Chaveiros de poliestireno, para
+identificação de chaves, cores diversas, com etiqueta para identificação |
+Acabamento: Plástico | Medidas aproximadas: 0,5 X 2,7 X 7,3 cm.
+
+Garantia mínima de 3 meses.
+
+Imagem ilustrativa:
+
+
+
+ITEM 36 - SUPORTE DE PAREDE PARA CONTROLE REMOTO: Suporte de
+parede para controle remoto de ar condicionado. Dimensões externas aproximadas:
+34x84x70 mm (Espessura x Altura x Largura) | Dimensões internas aproximadas:
+30x82x66 mm (Espessura x Altura x Largura) | Aplicação: Controles com até 30 mm
+de espessura máxima, 66 mm de comprimento máximo, 200 mm de altura máxima |
+Material: Plástico ABS | Fixação: parafusos (incluso no Kit).
+
+Garantia mínima de 3 meses.
+
+Imagem ilustrativa:
+
+e
+
+ITEM 37 - TONNER PARA IMPRESSORA HP: tonner modelo Q2612A para
+impressora HP Laser Jet 3050 original ou compatível.
+
+Garantia mínima de 3 meses.
+
+Imagem ilustrativa:
+
+
+
+ITEM 38 - VASOS PARA PLANTAS: Vaso para plantas, diâmetro da boca: 63 cm
+de altura - 80 cm de largura - 68 cm. Medida da base: 44 cm. Capacidade para
+220L (modelo 3 da imagem que contém as medidas) com pé fixo de diâmetro 45
+cm. Cor bege. Material: Polietileno
+
+Garantia: 5 anos
+
+Imagem ilustrativa:
+
+D Q o o
+
+37 cm 41 cm 63 cm 60 cm
+
+— lá%in ló%in 24 %in 23%in
+
+4)» 35 cm 50 cm 80 cm 40 cm
+
+42 cm 46 cm 680m  73cm
+
+o 16"%ú4in 18%in  26%in 28%in
+
+31 cm 31 om 44 cm 45 cm
+
+I -I 12%in / 12%in / 17%in/ 17 %in
+30L 601 220L mt
+7,93 gol 15,85 gal 5812 gal 29,59 gal
+
+[ãl 30B rodizio — JOBnndzio 450 péfixo 450»::
+A . .º 5
+
+
+GRUPO 11
+
+ITEM 39 - HD EXTERNO PORTÁTIL: HD Externo Portátil | Capacidade: 1TB | Cor:
+Preto | Interface: USB 2.0/3.0 | Taxa de Transferência: até 5 Gb/s | Velocidade de
+Transferência: até 480 Mb/s | Temperatura de Operação: 5ºC a 35ºC | Temperatura
+de Armazenamento: -20ºC a 65ºC | Tipo: HDD externo portátil | Dimensão da
+Embalagem (A/P/L): 15,0 mm / 110,6 mm / 82,1 mm | Requisitos do Sistema:
+Windows 7/8/8.1/10/11, Mac OS X 10.6 ou posterior, Linux Kernel 2.6 ou posterior |
+Certificações: FCC-ICES, CE, BSMI, ROCM, VCCI, EAC, KC, UKCA.
+
+Garantia: 3 meses.
+
+Imagem ilustrativa:
+
+ITEM 40 - TELEFONE VOIP: Telefone VoIlP | Contas SIP: 2 | Alimentação: PoE
+IEEE 802.3af Ativo | Display: 128x48 pixels monocromático com backlight | Teclas
+programáveis: 2 (L1 e L2) | Teclas softkeys: 4 | Agenda: 500 contatos + agenda
+remota (XML/LDAP) | Funções: WhiteList, Blacklist, Não Perturbe, Mudo, Hold,
+Chamada em Espera, Intercom, Chamada anônima, Desvio, Transferência,
+Rediscagem, Correio de voz, Conferência, HotLine, Histórico de chamadas, SIP
+Hotspot, Multicast | Histórico de chamadas: Recebidas, Geradas, Perdidas e
+Desviadas | Status do sistema: LED de status + display | Desvios: ocupado, não
+atende, sempre | Transferência: cega e/ou com atendimento | Interface LAN/WAN:
+10/100 Mbps RJ45 | VLAN compatível IEEE 802.1Q | Configuração e atualização via
+navegador web ou teclado | Modo IP: Estático, DHCP, PPPoE | Protocolos de
+Internet: IPv4 e IPv6 | Protocolos: VolIP TCP/UDP, DNS, DNS-SRV, NAT, STUN,
+VLAN, TLS, QoS, LLDP/LLDP-MED, OpenVPN | Auto provisionamento: DHCP,
+HTTP/HTTPS, FTP, TFTP, RTP/RTCP/SRTP, SNTP, TRO69 | Protocolo SIP: 2.0 |
+Modo de operação de rede: Bridge | Áudio: CNG, VAD, cancelamento de eco, PCL,
+AGC | CODECs: G.711A/U, G.726-16/24/32/40, G.729AB, iLBC, OPUS, G.722 (HD
+Voice) | Método DTMF: In-band, Out-of-Band (RFC2833) / SIP INFO | Formas de
+atendimento: viva-voz, headset RJ9, monofone | Fonte de alimentação: Entrada
+100-240 Vac / 50-60Hz, Saída 5V/0,6A | Potência máxima: 3 W | Temperatura de
+operação: 0ºC a 45ºC.
+
+
+Garantia: 3 meses
+Imagem ilustrativa:
+
+ITEM 41 - IMPRESSORA A LASER: Impressora laser colorida, qualidade
+equivalente ou superior a HP (linha Color LaserJet Pro) | Tecnologia: Laser colorida |
+Velocidade: =27 ppm (A4) mono e cor | Primeira página: <9 s (mono), <11 s (cor) |
+Resolução: 600x600 dpi (nativo) até 1200 dpi (aprimorado) | Duplex: automático
+(frente e verso) | Ciclo mensal: =50.000 págs | Volume recomendado: 750—4.000
+págs/mês | Linguagens: PCL5/6, PostScript 3, PDF direto | Memória: 2512 MB |
+Processador: 21 GHz | Conectividade: USB 2.0, Gigabit Ethernet, Wi-Fi 802.11ac,
+Wi-Fi Direct | Mobile: AirPrint, Mopria, (e-mail/Cloud print equivalente) | Segurança:
+IPsec, SNMPv3, 802.1X, PIN/Job Storage, Secure Boot/firmware assinado,
+desativação de portas | Bandejas: 250 folhas (principal) + 50 folhas (MP); opcional
+bandeja adicional 550 folhas | Saída: 150 folhas | Formatos: A6 a A4/Letter; Ofício |
+Mídias: 60-220 g/m? (com duplex até 200 g/m?) | Consumíveis: 4 toners CMYK
+independentes; rendimento ISO/IEC 19798 — K >=2.400 págs, C/M/Y >=2.100 págs;
+unidade de imagem/rolo 2=50.000 págs | Recursos: calibração automática de cores,
+impressão segura, servidor Web embarcado | Ruído: <51 dB(A) em operação |
+Energia: €<600 W (pico), <1 W (sleep); Energy Star/Procel A (ou equivalente) |
+Sistemas: Windows 10/11, macOS atual, Linux | Dimensões máx.: s<420x470x300
+mm (LxPx*A) | Peso: <18 kg | Alimentação: 100—240 V 50/60 Hz.
+
+Garantia: 12 meses (on-site ou balcão).
+
+Imagem ilustrativa:
+
+——n
+
+=
+
+
+
+ITEM 42 - MICROCONTROLADOR KIT ES32LAB CAM (ESP32 + DISPLAY +
+CÂMERA OV2640): Kit ES32Lab Cam | Composição: Placa ES32Lab + Shield
+ESP32 compatível + Shield Display TFT Colorido compatível + Shield Câmera
+OV2640 compatível | Biblioteca exclusiva e exemplos práticos inclusos | Compatível
+com diversas shields ESP32 | Circuitos onboard: 6 LEDs de indicação, 2
+potenciômetros, sensor LDR (luz ambiente), sensor de temperatura analógico,
+teclado com 5 teclas, sensor de tensão DC, buzzer, conector P2 para áudio via DAC
+nativo ESP32 | Leitor de cartão micro SD | Conector para displays SPI TFT coloridos
+| Conexão RTC físico 12C | Conector 12C para periféricos adicionais | Ponte H para
+controle de 2 motores DC | Expansão de 8 GPIOs via 12C | Conector para
+expansões |2S | Conector pronto para câmera OV2640 (captura de imagens) |
+Controlador de carga/descarga de bateria de lítio | Fontes de alimentação: 3,3V e
+o5V.
+
+Garantia: 3 meses.
+
+Imagem ilustrativa:
+
+
+

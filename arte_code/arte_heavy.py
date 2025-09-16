@@ -173,7 +173,6 @@ def get_best_match_from_ai(item_edital, df_candidates):
 
 <formato_saida>
 Responda APENAS com um único objeto JSON. Não inclua ```json, explicações ou qualquer outro texto.
-
 **CASO 1: Encontrou um produto >=95% compatível.**
 {{
   "best_match": {{
@@ -198,11 +197,7 @@ Retorne "best_match" como `null`. Adicionalmente, inclua "closest_match" com os 
     "Compatibilidade_analise": "Análise da compatibilidade parcial com detalhes. Ex: 'Atende [especificação A, B], mas falha em [especificação C (material), D (potência)].'"
   }}
 }}
-</formato_saida>
-
-<base_fornecedores_filtrada>
-{candidates_json}
-</base_fornecedores_filtrada>"""
+</formato_saida><base_fornecedores_filtrada>{candidates_json}</base_fornecedores_filtrada>"""
 
     response_text = gerar_conteudo_com_fallback(prompt, LLM_MODELS_FALLBACK)
     if response_text:
@@ -431,8 +426,8 @@ def main():
                     worksheet.cell(row=row_idx, column=col_idx).fill = fill_to_apply
         
         writer.close()
-        logger.info(f"Incremental save after processing item {idx + 1}/{total_new_items} at {CAMINHO_SAIDA}")
-        print(f"   - Incremental save completed for item {idx + 1}/{total_new_items}.")
+        logger.info(f"✅ Incremental save after processing item {idx + 1}/{total_new_items} at {CAMINHO_SAIDA}")
+        print(f"✅ - Incremental save completed for item {idx + 1}/{total_new_items}.")
 
     logger.info("All new items processed and saved incrementally.")
     print("✅ All new items processed and saved incrementally.")
