@@ -366,7 +366,13 @@ def main():
             cost_price = float(data_to_populate.get('Valor') or 0)
             final_price = cost_price * (1 + PROFIT_MARGIN)
             margem_lucro_valor = final_price - cost_price
-            qtde = int(item_edital.get('QTDE') or 0)
+            qtde_val = item_edital.get('QTDE')
+            qtde = 0
+            if pd.notna(qtde_val):
+                try:
+                    qtde = int(float(qtde_val))
+                except (ValueError, TypeError):
+                    qtde = 0
             lucro_total = margem_lucro_valor * qtde
             result_row.update({
                 'MARCA_SUGERIDA': data_to_populate.get('Marca'),

@@ -1,0 +1,1951 @@
+TRIBUNAL
+DE CONTAS DE
+
+RORAIMA
+
+TRIBUNAL DE CONTAS DE RORAIMA
+Rua Agnelo Bittencourt nº 126, - Bairro Centro, Boa Vista/RR, CEP 69301-430
+Telefone: (95) 2121-4444 - http://www.tcerr.tc.br
+
+EDITAL Nº 014/2025
+
+Processo nº 002347/2025
+
+LICITAÇÃO Nº 014/2025 - PREGÃO ELETRÔNICO
+PARTICIPAÇÃO EXCLUSIVA DE MICROEMPRESA (ME) E EMPRESAS DE PEQUENO PORTE (EPP)
+
+O Tribunal de Contas do Estado de Roraima, por intermédio da Comissão de Contratação, nomeada pela portaria nº
+279/2025/TCERR, torna público que REALIZARÁ LICITAÇÃO NA MODALIDADE PREGÃO, NA FORMA
+ELETRÔNICA, nos termos daLei N.º 14.133/2021, Resoluçãonº 021/2023-TCERR-PLENO, Resolução nº
+002/2024 - TOCERR-PLENO, Lei Complementar nº 123/2006 e demais legislações aplicáveis e pelas condições e
+exigências constantes do presente Edital e em conformidade com a autorização contida no Processo SEI nº 002347/2025.
+
+OBJETO:
+
+O objeto da presente licitação é a AQUISIÇÃO DE TELEVISORES E MICROCOMPUTADORES DE USO
+DEDICADO, DESTINADOS À IMPLEMENTAÇÃO DE UM SISTEMA DE MONITORAMENTO PROATIVO E EM
+TEMPO REAL DOS SERVIÇOS E DA INFRAESTRUTURA DE TI DO TRIBUNAL DE CONTAS DO ESTADO DE
+
+RORAIMA (TCE-RR), conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.
+
+A licitação será por GRUPO DE ITENS, contendo dois ou mais itens, conforme tabela constante do item 4 - Anexo [ -
+Termo de Referência.
+
+CRITÉRIO DE JULGAMENTO:
+
+O critério de julgamento adotado será o MENOR PREÇO, observadas as exigências contidas neste Edital e seus Anexos
+quanto às especificações do objeto.
+
+DA SESSÃO PÚBLICA DO PREGÃO ELETRÔNICO
+
+Abertura da sessão: 25/09/2025 às 10h00min (horário de BRASÍLIA/DF)
+
+ENDEREÇO ELETRÔNICO: https://www.gov.br/compras/pt-br
+
+E-mail: cpl(ateerr.te.br
+
+NOME INSTITUCIONAL: TRIBUNAL DE CONTAS DO ESTADO DE RORAIMA - CNPJ nº 84.008.440/0001-
+85.
+
+Fazem parte integrante deste EDITAL, para todos os fins e efeitos, os seguintes anexos:
+ANEXO 1 — Termo de Referência;
+
+ANEXO II — Modelo de apresentação da proposta de preços;
+
+ANEXO III — Modelo de declaração de inexistência de práticas de nepotismo;
+
+ANEXO IV — Minuta de Instrumento de Contrato;
+
+1. PREÂMBULO
+
+
+1.1. A abertura da presente licitação dar-se-á em sessão pública, e será aberta automaticamente pelo sistema eletrônico
+(comunicação pela Internet), dirigida pelo Pregoeiro, a ser realizada conforme indicado a seguir, de acordo com a
+legislação referida no preâmbulo deste Edital. Todas as referências de tempo neste Edital, no aviso e durante a sessão
+pública observarão obrigatoriamente o horário de Brasília/DF e, desta forma, serão registradas no sistema eletrônico e
+na documentação relativa ao certame.
+
+1.2. As propostas deverão ser enviadas a partir da data de início do acolhimento no sistema eletrônico até o horário limite
+da abertura da sessão.
+
+1.3. Eventualmente, não havendo expediente na data marcada, ficará a reunião adiada para o primeiro dia útil
+subsequente, mantidos o mesmo horário e endereço eletrônico anteriormente estabelecido, desde que não haja
+comunicação do Pregoeiro(a) em contrário.
+
+1.4. Este edital será publicado na forma da lei e estará à disposição dos interessados, pela internet, nos
+endereços https://www.gov.br/compras/pt-br ewww.teerr.te.br (menu “LICITAÇÕES”), no Portal Nacional de
+Contratações Públicas (PNCP) e poderá ser obtido, ainda, sem ônus, junto ao Pregoeiro ou à Equipe de apoio, em mídia
+digital, no Edifício sede do Tribunal de Contas do Estado de Roraima, sito na Rua Professor Agnelo Bittencourt, 126 —
+Centro, Boa Vista/Roraima, térreo, Comissão Permanente de Licitação - CPL, no horário de 8h 30min às 14h 30min
+(horário de Brasília/DF), devendo aos interessados a entrega do CD-R ou pen-drive para que seja providenciada a
+gravação.
+
+2. DOS RECURSOS ORÇAMENTÁRIOS
+2.1 A despesa decorrente da presente contratação correrá por conta da seguinte dotação:
+
+Unidade Gestora: Tribunal de Contas do Estado de Roraima.
+
+* Projetode Trabalho: 01.032.002.2012.9900
+e Fonte(s): 1500
+
+* Naturezada Despesa: 4.4.90-52 — Equipamentos e Material Permanente.
+
+3. DO PREÇO MÁXIMO
+
+3.1. O preço estimado é valor obtido por método matemático aplicado em série de preços coletados, desconsiderando-se,
+na sua composição, os valores inexequíveis e os excessivamente elevados, de acordo com o que dispõe o inciso X da
+Resolução nº 017/2023-TCERR-PLENO.
+
+4. DAS CONDIÇÕES PARA PARTICIPAÇÃO
+
+4.1. Poderão participar EXCLUSIVAMENTE MICROEMPRESAS OU EMPRESAS DE PEQUENO PORTE , nos
+termos do art. 48, inciso I, da Lei Complementar n.º 123/2006 que estiverem previamente credenciadas perante o sistema
+eletrônico provido pela Secretaria de Logística e Tecnologia da Informação do Ministério do Planejamento, Orçamento e
+Gestão (SLTI), por meio do sitiohttps://www.gov.br/compras/pt-br/.
+
+4.2. Para ter acesso ao sistema eletrônico, os interessados em participar deste Pregão deverão dispor de chave de
+identificação e senha pessoal, obtidas junto à SLTI, onde também deverão informar-se a respeito do seu funcionamento e
+regulamento e receber instruções detalhadas para sua correta utilização.
+
+4.3. É de responsabilidade do cadastrado conferir a exatidão dos seus dados cadastrais nos Sistemas relacionados no item
+anterior e mantê-los atualizados junto aos órgãos responsáveis pela informação, devendo proceder, imediatamente, à
+correção ou à alteração dos registros tão logo identifique incorreção ou aqueles se tornem desatualizados.
+
+4.4. O uso da senha de acesso pela licitante é de sua responsabilidade exclusiva, incluindo qualquer transação por ele
+efetuada diretamente, ou por seu representante, não cabendo ao provedor do sistema ou ao TCERR, responsabilidade por
+eventuais danos decorrentes do uso indevido da senha, ainda que por terceiros.
+
+4.5. Não poderão disputar esta licitação:
+
+4.5.1. Pessoa física ou JjJurídica que se encontre, ao tempo da licitação, impossibilitada de participar em decorrência de
+sanção que lhe foi imposta, no âmbito da sanção;
+
+4.5.2. Aquele que mantenha vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com
+dirigente do órgão ou entidade contratante ou com agente público que desempenhe função na licitação ou atue na
+fiscalização ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente em linha reta, colateral ou por
+afinidade, até o terceiro grau, devendo essa proibição constar expressamente do edital de licitação;
+
+4.5.3. Empresas controladoras, controladas ou coligadas, nos termos da Lei nº 6.404, de 15 de dezembro de 1976,
+concorrendo entre si;
+
+
+
+4.5.4. Pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do edital, tenha sido condenada
+Judicialmente, com trânsito em julgado, por exploração de trabalho infantil, por submissão de trabalhadores a condições
+análogas às de escravo ou por contratação de adolescentes nos casos vedados pela legislação trabalhista.
+
+4.5.4.1. O impedimento de que trata o item 4.5.1., será também aplicado ao licitante que atue em substituição a
+outra pessoa, física ou jurídica, com o intuito de burlar a efetividade da sanção a ela aplicada, inclusive a sua
+controladora, controlada ou coligada, desde que devidamente comprovado o ilícito ou a utilização fraudulenta da
+personalidade jJurídica do licitante.
+
+4.5.5. Não poderá participar, direta ou indiretamente, da licitação ou da execução do contrato agente público do órgão ou
+entidade contratante, devendo ser observadas as situações que possam configurar conflito de interesses no exercício ou
+após o exercício do cargo ou emprego, nos termos da legislação que disciplina a matéria, conforme $ 1º do art. 9º da Lei
+nº 14.133, de 2021.
+
+4.5.6. Empresas cujo estatuto ou contrato social não seja pertinente e compatível com o objeto desta licitação.
+4.5.7. Empresas em processo de falência;
+4.5.8. Empresas estrangeiras não autorizadas a funcionar no país.
+
+4.5.9. Não será permitida a partição de pessoa jurídica constituída por meio de consórcio, em razão do baixo valor e da
+baixa complexidade do objeto, sob pena de perder a economia de escala.
+
+5. DOS ESCLARECIMENTOS E DA IMPUGNAÇÃO AO EDITAL
+
+5.1. Qualquer pessoa é parte legítima para impugnar edital de licitação por irregularidade ou para solicitar esclarecimento
+sobre os seus termos, devendo encaminhar o pedido até 3 (três) dias úteis antes da data de abertura da sessão pública, por
+meio eletrônico, na forma prevista no edital de licitação.
+
+5.2. O Pregoeiro responderá aos pedidos de esclarecimentos e/ou impugnação no prazo de até 3 (três) dias úteis contado
+da data de recebimento do pedido, limitado ao último dia útil anterior à data da abertura do certame, e poderá requisitar
+subsídios formais aos responsáveis pela elaboração do edital de licitação e dos anexos.
+
+5.3. A resposta ao pedido de esclarecimento não deve ser utilizada para fins de retificar os termos do edital e/ou seus
+anexos no curso do procedimento, devendo, nesse caso, ser avaliada criteriosamente pelo Pregoeiro, se a questão
+levantada pelo interessado tem força de alterar cláusula editalícia que afete a formulação das propostas das licitantes, em
+especial quando a resposta for subsidiada pela manifestação de unidade técnica, observando-se o contido $1º do art. 55 da
+Lei 14.133/2021.
+
+5.4. Na análise da impugnação, o Pregoeiro tem o dever de diligenciar, especialmente quando for apontada cláusula
+editalícia restritiva da competitividade, devendo realizar a revisão criteriosa do instrumento convocatório, ainda que a
+impugnação não seja tempestiva.
+
+5.5. A impugnação não possui efeito suspensivo, sendo a sua concessão medida excepcional que deverá ser motivada
+pelo Pregoeiro, nos autos do processo de licitação.
+
+5.6. Acolhida a impugnação contra o edital de licitação, será definida e publicada nova data para realização do certame,
+observados os prazos fixados no art. 16 da Resolução nº 021/2023 TCERR-PLENO.
+
+5.7. As respostas aos pedidos de esclarecimentos e as impugnações serão divulgadas em sítio eletrônico do TCERR e no
+sistema, dentro do prazo estabelecido no item 5.1. e vincularão os participantes e o Tribunal de Contas do Estado de
+Roraima.
+
+6. DA APRESENTAÇÃO DA PROPOSTA DE PREÇOS
+
+6.1. Após a divulgação do edital de licitação, os licitantes encaminharão, exclusivamente por meio do sistema, a proposta
+de preço, até a data e o horário estabelecidos para abertura da sessão pública.
+
+6.2. No cadastramento da proposta inicial, o licitante declarará, em campo próprio do sistema, que:
+
+6.2.1. O cumprimento dos requisitos para a habilitação e a conformidade de sua proposta com as exigências do
+edital de licitação e que está ciente e concorda com as condições contidas neste edital e seus anexos, bem como de
+que a proposta apresentada compreende a integralidade dos custos para atendimento dos direitos trabalhistas
+assegurados na Constituição Federal, nas leis trabalhistas, nas normas infralegais, nas convenções coletivas de
+trabalho e nos termos de ajustamento de conduta vigentes na data de sua entrega em definitivo, e ainda, as
+declarações abaixo:
+
+6.2.2. Não emprega menor de 18 anos em trabalho noturno, perigoso ou insalubre e não emprega menor de 16 anos,
+salvo menor, a partir de 14 anos, na condição de aprendiz, nos termos do artigo 7º, XXXIII, da Constituição;
+
+6.2.3. Não possui empregados executando trabalho degradante ou forçado, observando o disposto nos incisos III e
+IV do art. 1º e no inciso III do art. 5º da Constituição Federal;
+
+
+6.2.4. Cumpre as exigências de reserva de cargos para pessoa com deficiência e para reabilitado da Previdência
+Social, previstas em lei e em outras normas específicas.
+
+6.3. O fornecedor enquadrado como microempresa, empresa de pequeno porte deverá declarar, ainda, em campo próprio
+do sistema eletrônico, que cumpre os requisitos estabelecidos no artigo 3º da Lei Complementar nº 123, de 2006, estando
+apto a usufruir do tratamento favorecido estabelecido em seus arts. 42 a 49, observado o disposto nos $$ 1º ao 3º do art.
+4º, da Lei n.º 14.133, de 2021.
+
+6.4. A falsidade da declarações de que trata o item 6.2.1, sujeitará o licitante às sanções previstas na Lei nº 14.133, de
+2021.
+
+6.5. Os licitantes poderão retirar ou substituir a proposta até a abertura da sessão pública.
+
+6.6. Os licitantes poderão retirar ou substituir a proposta ou, na hipótese de a fase de habilitação anteceder as fases de
+apresentação de propostas e lances e de julgamento, os documentos de habilitação anteriormente inseridos no sistema, até
+a abertura da sessão pública.
+
+6.7. Não haverá ordem de classificação na etapa de apresentação da proposta e dos documentos de habilitação pelo
+licitante, o que ocorrerá somente após os procedimentos de abertura da sessão pública e da fase de envio de lances.
+
+6.8. Serão disponibilizados para acesso público os documentos que compõem a proposta dos licitantes convocados para
+apresentação de propostas, após a fase de envio de lances
+
+6.9. Quando do cadastramento da proposta, na forma estabelecida no item 6.1. o licitante poderá parametrizar o seu valor
+final mínimo e obedecerá às seguintes regras:
+
+6.9.1. a aplicação do intervalo mínimo de diferença de valores ou de percentuais entre os lances, que incidirá tanto
+em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta;
+
+6.9.2. os lances serão de envio automático pelo sistema, respeitado o valor final mínimo estabelecido e o intervalo
+de que trata o item 6.10.1.
+
+6.10. O valor final mínimo de que trata o item 6.9. poderá ser alterado pelo fornecedor durante a fase de disputa, sendo
+vedado:
+
+6.10.1. valor superior a lance já registrado pelo fornecedor no sistema, quando adotado o critério de julgamento por
+menor preço.
+
+6.11. O valor final mínimo parametrizado na forma do item 6.9. possuirá caráter sigiloso para os demais fornecedores e
+para o promotor da licitação, podendo ser disponibilizado estrita e permanentemente aos órgãos de Controle Externo e
+Interno.
+
+6.12 O licitante deverá enviar sua proposta mediante o preenchimento, no sistema eletrônico, dos seguintes campos:
+6.12.1 Valor total do contrato de acordo com o prazo de vigência, conforme Anexo I - Termo de Referência.
+
+6.12.2. Descrição do objeto, contendo as informações conforme as especificação constantes do Anexo I - Termo de
+Referência, em conformidade com o ANEXO II — Modelo de Proposta de Preços.
+
+6.12.3. Todas as especificações do objeto contidas na proposta vinculam o licitante.
+
+6.13. Nos valores propostos estarão inclusos todos os custos operacionais, encargos previdenciários, trabalhistas,
+tributários, comerciais e quaisquer outros que incidam direta ou indiretamente na execução do objeto.
+
+6.14. Se o regime tributário da empresa implicar o recolhimento de tributos em percentuais variáveis, a cotação
+adequada será a que corresponde à média dos efetivos recolhimentos da empresa nos últimos doze meses.
+
+6.15. Independentemente do percentual de tributo inserido na planilha, no pagamento serão retidos na fonte os
+percentuais estabelecidos na legislação vigente.
+
+6.16. A apresentação das propostas implica obrigatoriedade do cumprimento das disposições nelas contidas, em
+conformidade com o que dispõe o Termo de Referência, assumindo o proponente o compromisso de executar o objeto
+licitado nos seus termos, bem como de fornecer os materiais, equipamentos, ferramentas e utensílios necessários, em
+quantidades e qualidades adequadas à perfeita execução contratual, promovendo, quando requerido, sua substituição.
+
+6.17. O prazo de validade da proposta não será inferior a 60 (sessenta) dias, a contar da data de sua apresentação.
+
+7. DA ABERTURA DA SESSÃO PÚBLICA E DA CLASSIFICAÇÃO DAS PROPOSTAS.
+
+7.1. A abertura da presente licitação dar-se-á automaticamente em sessão pública, por meio de sistema eletrônico, na
+data, horário e local indicados neste Edital.
+
+7.2. Os licitantes poderão retirar ou substituir a proposta ou os documentos de habilitação, quando for o caso,
+anteriormente inseridos no sistema, até a abertura da sessão pública.
+
+7.3. Será desclassificada a proposta que identifique o licitante.
+
+
+7.4. A desclassificação será sempre fundamentada e registrada no sistema, com acompanhamento em tempo real por
+todos os participantes.
+
+7.5. A não desclassificação da proposta não impede o seu julgamento definitivo em sentido contrário, levado a efeito na
+fase de aceitação.
+
+7.6. O sistema ordenará automaticamente as propostas classificadas, sendo que somente estas participarão da fase de
+lances.
+
+7.7. O sistema disponibilizará campo próprio para troca de mensagens entre o Pregoeiro e os licitantes, sendo vedada
+outra forma de comunicação.
+
+8. DO MODO DE DISPUTA E FORMULAÇÃO DE LANCES
+
+8.1 Iniciada a etapa competitiva, observado o modo de disputa adotado neste Edital, os licitantes deverão encaminhar
+lances exclusivamente por meio de sistema eletrônico, sendo imediatamente informados do seu recebimento e do valor
+consignado no registro.
+
+8.2. O lance deverá ser ofertado pelo valor total global, conforme prazo de vigência disposto no Anexo 1 - termo de
+Referência.
+
+8.3. Os licitantes poderão oferecer lances sucessivos, observando o horário fixado para abertura da sessão e as regras
+estabelecidas no Edital.
+
+8.4. O licitante somente poderá oferecer lance de valor inferior ao último por ele ofertado e registrado pelo sistema.
+
+8.5. O intervalo mínimo de diferença de valores ou percentuais entre os lances, que incidirá tanto em relação aos lances
+intermediários quanto em relação à proposta que cobrir a melhor oferta deverá ser de R$ 10,00 (dez reais).
+
+8.6. O modo de disputa "aberto", será adotado para o envio de lances no pregão eletrônico e os licitantes apresentarão
+lances públicos e sucessivos, com prorrogações.
+
+8.7. A etapa de lances da sessão pública terá duração de dez minutos e, após isso, será prorrogada automaticamente pelo
+sistema quando houver lance ofertado nos últimos dois minutos do período de duração da sessão pública.
+
+8.7.1. A prorrogação automática da etapa de lances, de que trata o subitem anterior, será de dois minutos e ocorrerá
+sucessivamente sempre que houver lances enviados nesse período de prorrogação, inclusive no caso de lances
+intermediários.
+
+8.7.2. Não havendo novos lances na forma estabelecida nos itens anteriores, a sessão pública encerrar-se-á
+automaticamente e o sistema ordenará e divulgará os lances conforme a ordem final de classificação.
+
+8.8. Definida a melhor proposta, se a diferença em relação à proposta classificada em segundo lugar for de pelo menos
+5% (cinco por cento), o Pregoeiro, auxiliado pela equipe de apoio, poderá admitir o reinício da disputa aberta, para a
+definição das demais colocações.
+
+8.9. Após o reinício previsto no item supra, os licitantes serão convocados para apresentar lances intermediários.
+
+8.10. Após o término dos prazos estabelecidos nos subitens anteriores, o sistema ordenará e divulgará os lances segundo
+a ordem crescente de valores.
+
+8.11. Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for recebido e registrado em
+primeiro lugar.
+
+8.12. Durante o transcurso da sessão pública, os licitantes serão informados, em tempo real, do valor do menor lance
+registrado, vedada a identificação do licitante.
+
+8.13. No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do Pregão, o sistema eletrônico poderá
+permanecer acessível aos licitantes para a recepção dos lances.
+
+8.14. Quando a desconexão do sistema eletrônico para o Pregoeiro, persistir por tempo superior a dez minutos, a sessão
+pública será suspensa e reiniciada somente após decorridas vinte e quatro horas da comunicação do fato pelo Pregoeiro,
+aos participantes, no sítio eletrônico utilizado para divulgação.
+
+8.15. Caso o licitante não apresente lances, concorrerá com o valor de sua proposta.
+8.16. Só poderá haver empate entre propostas iguais (não seguidas de lances);
+
+8.17. Havendo eventual empate entre propostas ou lances, o critério de desempate será aquele previsto no art. 60 da Lei
+nº 14.133, de 2021.
+
+9. DA FASE DE JULGAMENTO
+
+9.1. Encerrada a etapa de envio de lances da sessão pública, o Pregoeiro realizará a verificação da conformidade da
+proposta classificada em primeiro lugar quanto à adequação ao objeto do certame e, observado o disposto no art. 33 da
+
+
+Resolução nº 021/2023-TCERR-PLENO, à compatibilidade do preço em relação ao estimado para a contratação,
+conforme definido no edital.
+
+9.2. Desde que previsto no edital, o Pregoeiro, em relação ao licitante provisoriamente vencedor, realizará análise e
+avaliação da conformidade da proposta, mediante homologação de amostras, exame de conformidade e prova de
+
+conceito, entre outros testes de interesse do Tribunal de Contas do Estado de Roraima de modo a comprovar sua
+aderência às especificações definidas no Termo de Referência ou no Projeto Básico.
+
+9.3. O Pregoeiro solicitará envio da proposta de preços (MODELO DO ANEXO IJ), e, se necessário, dos documentos
+complementares, adequada ao último lance ofertado, no prazo máximo de 3 (três) horas, prorrogável por igual período,
+contado da solicitação.
+
+9.3.1. A prorrogação de que trata o item anterior, poderá ocorrer nas seguintes situações:
+I - por solicitação do licitante, mediante Justificativa aceita pelo Pregoeiro; ou
+
+U - de oficio, a critério do Pregoeiro, quando constatado que o prazo estabelecido não é suficiente para o envio dos
+documentos exigidos no edital para a verificação de conformidade de que trata o item 9.1.
+
+9.4. O Pregoeiro poderá requerer auxilio técnico do demandante ou de unidade técnica para fins de análise de
+conformidade das especificações contidas na proposta selecionada com as especificações do objeto pretendido.
+
+9.5. Na hipótese da proposta de o primeiro colocado permanecer acima do preço máximo definido para a contratação, o
+Pregoeiro poderá negociar condições mais vantajosas, após definido o resultado do julgamento.
+
+9.5.1. A negociação será realizada por meio do sistema e poderá ser acompanhada pelos demais licitantes.
+
+9.5.2. Quando o primeiro colocado, mesmo após a negociação, for desclassificado em razão de sua proposta
+permanecer acima do preço máximo definido para a contratação, a negociação poderá ser feita com os demais
+licitantes classificados, exclusivamente por meio do sistema, respeitada a ordem de classificação estabelecida no $2º
+do art. 21 da Resolução nº 021/2023-TCERR-PLENO, ou, em caso de propostas intermediárias empatadas, serão
+utilizados os critérios de desempate definidos no art. 27 da Resolução nº 021/2023-TCERR-PLENO.
+
+9.5.3. Concluída a negociação, se houver, o resultado será registrado na ata da sessão pública, devendo esta ser
+anexada aos autos do processo de contratação.
+
+9.6. Caso a proposta do licitante vencedor não atenda ao quantitativo total estimado para a contratação, poderá ser
+convocada a quantidade de licitantes necessária para alcançar o total estimado, respeitada a ordem de classificação,
+observado o preço da proposta vencedora.
+
+9.7. É indício de inexequibilidade as propostas de valores inferiores a 50% (cinquenta por cento) do valor orçado pelo
+Tribunal de Contas do Estado de Roraima.
+
+9.7.1 A inexequibilidade, na hipótese de que trata o item anterior, só será considerada após diligência do Pregoeiro
+que comprove:
+
+I - que o custo do licitante ultrapassa o valor da proposta; e
+II - inexistirem custos de oportunidade capazes de justificar o vulto da oferta.
+
+9.7.2. Se houver indícios de inexequibilidade da proposta de preço, ou em caso da necessidade de esclarecimentos
+complementares, poderão ser efetuadas diligências, para que a empresa comprove a exequibilidade da proposta.
+
+9.8. Encerrada a fase de julgamento, após a verificação de conformidade da proposta, o Pregoeiro verificará a
+documentação de habilitação do licitante conforme disposições contidas neste edital de licitação, observado o disposto no
+item 10 deste edital.
+
+9.9. Encerrada a fase de julgamento da proposta, o pregoeiro verificará se o licitante provisoriamente classificado em
+primeiro lugar atende às condições de participação no certame, conforme previsto no art. 14 da Lei nº 14.133/2021,
+especialmente quanto à existência de sanção que impeça a participação no certame ou a futura contratação, mediante a
+consulta aos seguintes cadastros:
+
+a) SICAF;
+
+b) Cadastro Nacional de Empresas Inidôneas e Suspensas - CEIS, mantido pela Controladoria-Geral da União
+(https://www.portaltransparencia.gov.br/sancoes/ceis); e
+
+c) Cadastro Nacional de Empresas Punidas — CNEP, mantido pela Controladoria-Geral da União
+(https://www.portaltransparencia.gov.br/sancoes/cnep).
+
+9.10. A consulta aos cadastros será realizada em nome da empresa licitante e também de seu sócio majoritário, por força
+da vedação de que trata o artigo 12 da Lei nº 8.429, de 1992.
+
+9.11. Constatada a existência de sanção, o licitante será reputado inabilitado, por falta de condição de participação.
+9.12. Caso atendidas as condições de participação, será iniciado o procedimento de habilitação.
+
+9.13. Caso o licitante provisoriamente classificado em primeiro lugar tenha se utilizado de algum tratamento favorecido
+
+
+às ME/EPPs, o pregoeiro verificará se faz jus ao benefício, em conformidade com o item 6.3. deste edital.
+9.14. Verificadas as condições de participação e de utilização do tratamento favorecido, o pregoeiro examinará a
+proposta classificada em primeiro lugar quanto à adequação ao objeto e à compatibilidade do preço em relação ao
+máximo estipulado para contratação neste Edital e em seus anexos.
+9.15. Será desclassificada a proposta vencedora que:
+9.15.1. contiver vícios insanáveis;
+9.15.2. não obedecer às especificações técnicas contidas no Anexo I - Termo de Referência;
+9.15.3. apresentar preços inexequíveis ou permanecerem acima do preço máximo definido para a contratação;
+9.15.4. não tiverem sua exequibilidade demonstrada, quando exigido pela Administração;
+
+9.15.5. apresentar desconformidade com quaisquer outras exigências deste Edital ou seus anexos, desde que
+insanável.
+
+9.15.6. Caso o custo global estimado do objeto licitado tenha sido decomposto em seus respectivos custos unitários
+por meio de Planilha de Custos e Formação de Preços elaborada pela Administração, o licitante classificado em
+primeiro lugar será convocado para apresentar Planilha por ele elaborada, com os respectivos valores adequados ao
+valor final da sua proposta, sob pena de não aceitação da proposta.
+
+9.15.7. Erros no preenchimento da planilha não constituem motivo para a desclassificação da proposta. A planilha
+poderá ser ajustada pelo fornecedor, no prazo indicado pelo sistema, desde que não haja majoração do preço e que se
+comprove que este é o bastante para arcar com todos os custos da contratação;
+
+9.15.7.1. O ajuste de que trata o item acima, se limita a sanar erros ou falhas que não alterem a substância das
+propostas;
+
+9.15.8. Considera-se erro no preenchimento da planilha passível de correção a indicação de recolhimento de
+impostos e contribuições na forma do Simples Nacional, quando não cabível esse regime.
+
+9.15.9. Para fins de análise da proposta quanto ao cumprimento das especificações do objeto, poderá ser colhida a
+manifestação escrita do setor requisitante do serviço ou da área especializada no objeto
+
+9.15.10. O Pregoeiro, poderá, no julgamento das propostas, sanar erros ou falhas que não alterem a sua substância e
+sua validade jurídica, atribuindo-lhes eficácia para fins de classificação, observado o disposto no art. 55 da Lei nº
+9.784, de 29 de janeiro de 1999,
+
+9.15.11. Cabe ao Pregoeiro indicar de forma clara e objetiva as inconsistências sanáveis na proposta e/ou planilhas
+apresentadas pelo licitante, sem alteração do valor declarado vencedor.
+
+9.15.12. Na hipótese de necessidade de suspensão da sessão pública para a realização de diligências, com vistas ao
+saneamento de que trata o item 9.15.10, o seu reinício somente poderá ocorrer mediante aviso prévio no sistema
+com, no mínimo, 24 (vinte e quatro) horas de antecedência, e a ocorrência será registrada em ata.
+
+10. DA HABILITAÇÃO
+
+10.1. Para habilitação dos licitantes, serão exigidos os documentos necessários e suficientes para demonstrar a
+capacidade do licitante de realizar o objeto da licitação, nos termos dos arts. 62 a 70 da Lei nº 14.133, de 2021.
+10.1.1. A documentação exigida para fins de habilitação Jurídica, fiíscal, social e trabalhista e econômico-financeira,
+desde que previsto no edital de licitação, poderá ser substituída pelo registro cadastral no SICAF.
+
+10.2. A habilitação das licitantes será verificada por meio do SICAF e da documentação complementar especificada neste
+Edital.
+
+10.3. Os documentos exigidos para habilitação que não estejam contemplados no SICAF, serão enviados por meio do
+sistema, quando solicitado pelo Pregoeiro, até a conclusão da fase de habilitação.
+
+10.4. As licitantes deverão apresentar a seguinte documentação complementar:
+10.4.1. Habilitação Jurídica:
+
+10.4.1.1. Empresário Individual: inscrição no Registro Público de Empresas Mercantis, a cargo da Junta
+Comercial da respectiva sede;
+
+10.4.1.2. Microempreendedor Individual - MEI: Certificado da Condição de Microempreendedor Individual -
+CCMEI, cuja aceitação ficará condicionada à verificação da sua autenticidade;
+
+10.4.1.3. Sociedade Empresária, Sociedade Limitada Unipessoal — SLU ou sociedade identificada como
+Empresa Individual de Responsabilidade Limitada - EIRELI: inscrição do ato constitutivo, estatuto ou
+contrato social no Registro Público de Empresas Mercantis, a cargo da Junta Comercial da respectiva sede,
+acompanhada de documento comprobatório de seus administradores;
+
+
+10.4.1.4. Sociedade Empresária Estrangeira: portaria de autorização de funcionamento no Brasil, publicada no
+Diário Oficial da União e arquivada na Junta Comercial da unidade federativa onde se localizar a filial,
+agência, sucursal ou estabelecimento, a qual será considerada como sua sede;
+
+10.4.1.5. Sociedade Simples: inscrição do ato constitutivo no Registro Civil de Pessoas Jurídicas do local de
+sua sede, acompanhada de documento comprobatório de seus administradores;
+
+10.4.1.6. Filial, Sucursal ou Agência de Sociedade Simples ou Empresária: inscrição do ato constitutivo da
+filial, sucursal ou agência da sociedade simples ou empresária, respectivamente, no Registro Civil das Pessoas
+Jurídicas ou no Registro Público de Empresas Mercantis onde opera, com averbação no Registro onde tem
+sede a matriz;
+
+10.4.1.7. Consorcio: Não será permitida a partição de pessoa jurídica constituída por meio de consorcio, em
+razão do baixo valor e da baixa complexidade do objeto, sob pena de perder a economia de escala.
+
+10.4.2. Habilitação Fiscal, Social e Trabalhista:
+10.4.2.1. Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas.
+
+10.4.2.2 Prova de regularidade fiscal perante a Fazenda Nacional, mediante apresentação de certidão conjunta
+federal expedida pela Secretaria da Receita Federal do Brasil (RFB) e pela Procuradoria-Geral da Fazenda
+Nacional (PGFN), referente a todos os créditos tributários federais e à Dívida Ativa da União (DAU) por elas
+administrados, inclusive aqueles relativos à Seguridade Social, nos termos da Portaria Conjunta nº 1.751, de
+02 de outubro de 2014, do Secretário da Receita Federal do Brasil e da Procuradora-Geral da Fazenda
+Nacional.
+
+10.4.2.3. Prova de regularidade junto ao Fundo de Garantia do Tempo de Serviço (FGTS).
+
+10.4.2.4. Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante a
+apresentação de certidão negativa ou positiva com efeito de negativa, nos termos do Título VII-A da
+Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943.
+
+10.4.2.5. Prova de regularidade com a Fazenda Municipal do domicílio ou sede do fornecedor.
+
+10.4.2.6. Declaração de Inexistência de Trabalho Infantil, em cumprimento do inciso XXXIII, da Constituição
+Federal.
+
+10.4.2.7. Em se tratando de filial, os documentos de habilitação jurídica e regularidade fiscal deverão estar em
+nome da filial, exceto aqueles que, pela própria natureza, são emitidos somente em nome da matriz.
+
+10.4.2.8. Caso a licitante seja considerada isenta dos tributos estaduais ou municipais relacionados ao objeto
+da contratação, deverá comprovar tal condição mediante a apresentação de declaração da Fazenda Estadual ou
+Municipal do seu domicílio ou sede, ou outra equivalente, na forma da lei.
+
+10.4.2.9. O fornecedor ou prestador enquadrado como microempreendedor individual que pretenda auferir os
+benefícios do tratamento diferenciado previstos na Lei Complementar 123, de 2006, estará dispensado da
+prova de inscrição nos cadastros de contribuintes estadual e municipal, uma vez que o Certificado de
+Condição de Microempreendedor Individual — CCMEI supre as exigências de inscrição nos cadastros fiscais,
+na medida em que essas informações constam no próprio Certificado.
+
+10.4.3. Qualificação Econômico-Financeira:
+10.4.3.1. Certidão Negativa de Falência expedida pelo distribuidor da sede do fornecedor;
+
+10.4.3.2. Índices de Liquidez Geral (LG), Solvência Geral (SG) e Liquidez Corrente (LC), superiores a |
+(um), comprovados mediante a apresentação pelo licitante de balanço patrimonial, demonstração de resultado
+de exercício e demais demonstrações contábeis dos 2 (dois) últimos exercícios sociais e obtidos pela aplicação
+das seguintes fórmulas:
+a) Liquidez Geral (LG) = (Ativo Circulante + Realizável a Longo Prazo )/( Passivo Circulante +
+Passivo Não Circulante);
+
+b) Solvência Geral (SG)= (Ativo Total)/(Passivo Circulante +Passivo não Circulante); e
+c) Liquidez Corrente (LC) = (Ativo Circulante)/(Passivo Circulante).
+
+10.4.3.3. Empresas criadas no exercício financeiro da licitação deverão atender a todas as exigências de
+habilitação e poderão substituir os demonstrativos contábeis pelo balanço de abertura, nos termos do art. 65,
+$1º, da Lei 14.133/2021.
+
+10.4.3.4. O balanço patrimonial, demonstração de resultado de exercício e demais demonstrações contábeis
+limitar-se-ão ao último exercício no caso de a pessoa jJurídica ter sido constituída há menos de 2 anos.
+
+10.4.3.5. Os documentos acima referenciados deverão ser exigidos com base no limite definido pela Receita
+Federal do Brasil para transmissão da Escrituração Contábil Digital - ECD ao SPED.
+
+
+10.4.3.6. O atendimento dos índices econômicos previstos neste item deverá ser atestado mediante declaração
+assinada por profissional habilitado da área contábil, apresentada pelo licitante.
+10.4.3.7. A habilitação da licitante poderá será comprovada por meio do Sistema de Cadastro Unificado de
+Fornecedores (SICAF), nos documentos por ele abrangidos.
+10.5. Após a apresentação dos documentos de habilitação, fica vedada a substituição ou a apresentação de novos
+documentos, salvo em sede de diligência, para:
+I - complementação de informações acerca dos documentos já apresentados pelos licitantes e desde que
+necessária para apurar fatos existentes à época da abertura do certame; e
+II - atualização de documentos cuja validade tenha expirado após a data de recebimento das propostas.
+III - suprir ausência de documento de cunho declaratório emitido unilateralmente pelo licitante.
+
+10.6. Na hipótese de que trata o item 10.4, os documentos deverão ser apresentados em formato digital, via sistema, no
+prazo máximo de 3 (três) horas, após solicitação do Pregoeiro, no sistema eletrônico prorrogável por igual período, nas
+situações elencadas:
+
+I - por solicitação do licitante, mediante justificativa aceita pelo Pregoeiro; ou
+II - de ofício, a critério do Pregoeiro quando constatado que o prazo estabelecido não é suficiente para o envio
+dos documentos exigidos no edital para a verificação de conformidade de que trata o caput do art. 28.
+10.7. A verificação pelo Pregoeiro, em sítios eletrônicos oficiais de órgãos e entidades emissores de certidões constitui
+meio legal de prova, para fins de habilitação.
+10.8. Na análise dos documentos de habilitação, o Pregoeiro poderá sanar erros ou falhas, na forma estabelecida no
+Capítulo XI da Resolução nº 021/2023-TCERR-PLENO.
+
+10.9. Na hipótese de o licitante não atender às exigências para habilitação, o Pregoeiro, examinará a proposta
+subsequente e assim sucessivamente, na ordem de classificação, até a apuração de uma proposta que atenda ao edital de
+licitação, observado o item 9.3. do edital.
+
+10.10. Serão disponibilizados para acesso público os documentos de habilitação dos licitantes convocados para a
+apresentação da documentação habilitatória, após concluídos os procedimentos de que trata o item 10.8. do Edital.
+
+10.11. AÀ comprovação da regularidade fiscal e trabalhista das microempresas e das empresas de pequeno porte será
+exigida nos termos da legislação pertinente.
+
+10.12 Para comprovação da inexistência de práticas de nepotismo, o licitante deverá apresentar, declaração de que não
+mantém vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com dirigente do Contratante
+ou com servidor que desempenhe função no procedimento licitatório ou na contratação direta, bem como atue na
+fiscalização ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente em linha reta, colateral ou por
+afinidade, até o terceiro grau, conforme MODELO do ANEXO III, deste Edital.
+
+11. RECURSOS
+
+11.1. Qualquer licitante poderá, durante o prazo de 10 (dez) minutos, de forma imediata após o término do julgamento
+das propostas e do ato de habilitação ou inabilitação, em campo próprio do sistema, manifestar sua intenção de recorrer,
+sob pena de preclusão, ficando a autoridade superior autorizada a adjudicar o objeto ao licitante declarado vencedor.
+
+11.1.1. As razões do recurso deverão ser apresentadas em momento único, em campo próprio no sistema, no prazo
+de 3 (três) dias úteis, contados a partir da data de intimação ou de lavratura da ata de habilitação ou inabilitação ou,
+na hipótese de adoção da inversão de fases prevista no $1º do art. 7º da Resolução nº 021/2023-TCERR-PLENO,
+da ata de julgamento.
+
+11.1.2. Os demais licitantes ficarão intimados para, se desejarem, apresentar suas contrarrazões, no prazo de 3 (três)
+dias úteis, contado da data de intimação pessoal ou de divulgação da interposição do recurso.
+
+11.2. Será assegurado ao licitante vista dos elementos indispensáveis à defesa de seus interesses.
+11.3. O acolhimento do recurso importará na invalidação apenas dos atos que não possam ser aproveitados.
+
+11.4. Em hipótese alguma haverá rejeição sumária das razões de recursos, competindo ao Agente de Contratação apenas
+a análise dos pressupostos recursais antes do seu regular prosseguimento.
+
+12. DA HOMOLOGAÇÃO
+
+12.1. Encerradas as fases de julgamento e habilitação, e exauridos os recursos administrativos, o processo licitatório será
+encaminhado à autoridade superior, que poderá:
+
+12.1.1. determinar o retorno dos autos para saneamento de irregularidades;
+
+
+12.1.2. revogar a licitação por motivo de conveniência e oportunidade;
+
+12.1.3. proceder à anulação da licitação, de ofício ou mediante provocação de terceiros, sempre que presente
+ilegalidade insanável;
+
+12.1.4. adjudicar o objeto e homologar a licitação.
+
+12.2. Ao pronunciar a nulidade, a autoridade indicará expressamente os atos com vícios insanáveis, tornando sem efeito
+todos os subsequentes que deles dependam, e dará ensejo à apuração de responsabilidade de quem lhes tenha dado causa.
+
+12.2.1. O motivo determinante para a revogação do processo licitatório deverá ser resultante de fato superveniente
+devidamente comprovado.
+
+12.2.2. Nos casos de anulação e revogação, deverá ser assegurada a prévia manifestação dos interessados.
+
+13. DA CONVOCAÇÃO DO VENCEDOR
+
+13.1. Após a homologação, o licitante vencedor será convocado para assinar o termo de contrato, ou aceitar ou retirar o
+instrumento equivalente, no prazo de 03 (três) dias úteis, sob pena de decair o direito à contratação, sem prejuízo das
+sanções previstas na Lei nº 14.133, de 2021, e em outras legislações aplicáveis.
+
+13.1.1. O prazo de convocação poderá ser prorrogado | (uma) vez, por igual período, mediante solicitação da parte
+durante seu transcurso, devidamente Jjustificada e desde que o motivo apresentado seja aceito pelo Tribunal de
+Contas do Estado de Roraima.
+
+13.1.2. Na hipótese de o vencedor da licitação não assinar o contrato, ou não aceitar ou não retirar o instrumento
+equivalente no prazo e nas condições estabelecidas, outro licitante poderá ser convocado, respeitada a ordem de
+classificação, para celebrar a contratação, ou instrumento equivalente, nas condições propostas pelo licitante
+vencedor, sem prejuízo da aplicação das sanções previstas na Lei nº 14.133, de 2021, e em outras legislações
+aplicáveis.
+
+13.1.3. Caso nenhum dos licitantes aceitar a contratação nos termos do item 13.1.2, o Tribunal de Contas do Estado
+de Roraima, observados o valor estimado e sua eventual atualização nos termos do edital de licitação, poderá:
+
+13.1.3.1. convocar os licitantes remanescentes para negociação, na ordem de classificação, com vistas à
+obtenção de preço melhor, mesmo que acima do preço do adjudicatário;
+
+13.1.3.2. adjudicar e celebrar o contrato nas condições ofertadas pelos licitantes remanescentes, atendida a
+ordem classificatória, quando frustrada a negociação de melhor condição.
+
+13.1.4. A recusa injustificada do adjudicatário em assinar o contrato, ou em aceitar ou retirar o instrumento
+equivalente no prazo estabelecido no instrumento convocatório caracterizará o descumprimento total da obrigação
+assumida e o sujeitará às penalidades legalmente estabelecidas e à imediata perda da garantia da proposta em favor
+do Tribunal de Contas do Estado de Roraima.
+
+13.1.5. A regra do do item 13.1.4, não se aplicará aos licitantes remanescentes convocados na forma do subitem
+13.1.3.1.
+
+14. DA SANÇÃO ADMINISTRATIVA
+14.1. O licitante será responsabilizado administrativamente pelas seguintes infrações:
+14.1.1. deixar de entregar a documentação exigida para o certame;
+14.1.2. não manter a proposta, salvo em decorrência de fato superveniente devidamente justificado;
+
+14.1.3. não celebrar o contrato ou não entregar a documentação exigida para a contratação, quando convocado
+dentro do prazo de validade de sua proposta;
+
+14.1.4. apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração falsa durante a
+licitação ou a execução do contrato;
+
+14.1.5. fraudar a licitação ou praticar ato fraudulento na execução do contrato;
+14.1.6. comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+14.1.7. praticar atos ilícitos com vistas a frustrar os objetivos da licitação;
+14.1.8. praticar ato lesivo previsto no art. 5º da Lei 12.846/2013.
+
+14.2. A sanção de MULTA será aplicada ao responsável, tomando como base o valor do contrato licitado, nas infrações
+administrativas abaixo relacionadas:
+
+a) deixar de entregar a documentação exigida para o certame;
+
+b) não manter a proposta, salvo em decorrência de fato superveniente devidamente justificado;
+
+
+Multa: 10% (dez por cento).
+
+c) não celebrar o contrato ou não entregar a documentação exigida para a contratação, quando convocado
+dentro do prazo de validade de sua proposta;
+
+Multa: 15% (quinze por cento).
+
+d) apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração falsa durante a
+licitação ou a execução do contrato;
+
+e) fraudar a licitação ou praticar ato fraudulento na execução do contrato;
+
+f ) comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+£g) praticar atos ilícitos com vistas a frustrar os objetivos da licitação;
+
+b) praticar ato lesivo previsto no art. 5º da Lei 12.846/2013.
+
+Multa: 20% (vinte por cento).
+
+14.3. Será aplicada a sanção de IMPEDIMENTO DE LICITAR E CONTRATAR com o Tribunal de Contas do
+Estado de Roraima pelo prazo máximo de 3 (três) anos quando não se justificar a imposição de penalidade mais grave, no
+caso de cometimento das infrações previstas nos subitens 14.1.1 e 14.1.2 (Pena: 6 (seis) meses, contados da publicação
+do extrato da sanção no Diário Eletrônico do TCERR.) e subitem 14.1.3 (Pena: 2 (dois) anos, contados da publicação do
+extrato da sanção no Diário Eletrônico do TCERR).
+
+14.4. Será aplicada a sanção de DECLARAÇÃO DE INIDONEIDADE que impedirá o responsável de licitar e
+contratar no âmbito da Administração Pública direta e indireta de todos os entes federativos, no caso de cometimento das
+sanções previstas nos subitens 14.1.4 e 14.1.5 (Pena: 3 (três) anos, contados da publicação do extrato da sanção no Diário
+Eletrônico do TCERR) e subitens 14.1.6., 14.1.7. e 14.1.8 (Pena: 6 (seis) anos, contados da publicação do extrato da
+sanção no Diário Eletrônico do TCERR.
+
+14.5. Será aplicada a sanção de declaração de inidoneidade para licitar ou contratar com a Administração Pública direta
+e indireta, de todos os entes federativos, no caso de cometimento de qualquer das infrações indicadas no item 14.1, pelo
+prazo de 3 (três) anos, quando se justificar a imposição de penalidade mais grave.
+
+15. CRITÉRIOS DE SUSTENTABILIDADE
+15.1. O objeto deverá respeitar as normas e princípios ambientais, atendendo os critérios de sustentabilidade.
+15.2. Controle Remoto com Alimentação por Energia Solar:
+
+15.2.1. A exigência de controle remoto com alimentação por energia solar ou luz ambiente visa promover a
+aquisição de equipamentos alinhados aos princípios de sustentabilidade ambiental e eficiência energética,
+conforme orientações da Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010) e práticas sustentáveis na
+Administração Pública.
+
+15.2.2. Esse tipo de controle é recarregado por meio da exposição à luz natural ou artificial, eliminando a
+necessidade de pilhas descartáveis. Isso contribui para a redução de resíduos tóxicos, menor impacto ambiental e
+redução de custos com manutenção e reposição de baterias ao longo do tempo.
+
+15.2.3. A adoção dessa característica assegura a aquisição de produtos com maior durabilidade, menor demanda
+de insumos consumíveis e alinhamento com critérios de responsabilidade socioambiental, em conformidade com os
+princípios da Lei nº 14.133/2021 (Nova Lei de Licitações).
+
+16. DAS DISPOSIÇÕES FINAIS
+
+16.1. A autoridade superior ou delegatário poderá revogar o procedimento licitatório de que trata este edital, por motivo
+de conveniência e oportunidade, e deverá anular por ilegalidade insanável, de ofício ou por provocação de terceiros,
+assegurada a prévia manifestação dos interessados.
+
+16.2. O motivo determinante para a revogação do processo licitatório deverá ser resultante de fato superveniente
+devidamente comprovado.
+
+16.3. Ao pronunciar a nulidade do certame, a autoridade indicará expressamente os atos com vícios insanáveis, tornando
+sem efeito todos os subsequentes que deles dependam, e dará ensejo à apuração de responsabilidade de quem lhes tenha
+dado causa.
+
+16.3.1. Na hipótese da ilegalidade de que trata o 16.1, ser constatada durante a execução contratual, aplica-se o
+disposto no art. 147 da Lei nº 14.133, de 2021.
+
+16.4. Este edital deverá ser lido e interpretado na íntegra, não sendo aceitas alegações de desconhecimento após a
+inserção da proposta no sistema eletrônico.
+
+16.5. Os horários estabelecidos no edital de licitação, no aviso e durante a sessão pública observarão o horário de
+
+
+Brasília, Distrito Federal, inclusive para contagem de tempo e registro no sistema eletrônico e na documentação relativa
+ao certame.
+
+16.6. Será divulgada ata da sessão pública no sistema eletrônico.
+
+16.7. Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a realização do certame na data
+marcada, a sessão será automaticamente transferida para o primeiro dia útil subsequente, no mesmo horário
+anteriormente estabelecido, desde que não haja comunicação em contrário, pelo Pregoeiro.
+
+16.8. A homologação do resultado desta licitação não implicará direito à contratação.
+
+16.9. As normas disciplinadoras da licitação serão sempre interpretadas em favor da ampliação da disputa entre os
+interessados, desde que não comprometam o interesse da Administração, o princípio da isonomia, a finalidade e a
+segurança da contratação.
+
+16.10. Os licitantes assumem todos os custos de preparação e apresentação de suas propostas e a Administração não será,
+em nenhum caso, responsável por esses custos, independentemente da condução ou do resultado do processo licitatório.
+
+16.11. Em caso de divergência entre disposições deste Edital e de seus anexos ou demais peças que compõem o processo,
+prevalecerá as deste Edital.
+
+16.12. Os casos omissos decorrentes da aplicação deste instrumento convocatório serão dirimidos pela Diretoria de
+Gestão Administrativa e Financeira, que poderá propor normas complementares e disponibilizar informações adicionais,
+em meio eletrônico.
+
+Boa Vista-RR, 11 de setembro de 2025.
+
+AMÉLIO VALMIR MARTINI MACHADO
+Diretor de Gestão Administrativa e Financeira
+
+ANEXO I - DO EDITAL
+TERMO DE REFERÊNCIA
+
+Processo nº 002347/2025
+
+l. OBJETO
+
+O objeto do presente instrumento é a aquisição de televisores e microcomputadores de uso dedicado, destinados à
+implementação de um sistema de monitoramento proativo e em tempo real dos serviços e da infraestrutura de TI do
+Tribunal de Contas do Estado de Roraima (TCE-RR).
+
+2. FUNDAMENTAÇÃO DA CONTRATAÇÃO
+2.1. A presente contratação fundamenta-se nos Estudos Técnico Preliminar - ETP (ep. 1080961).
+
+2.2. O objeto do presente estudo está contemplado no item 9 do Plano Anual de Contratações 01 DITIN (ep. 1007908) e
+encontra-se previsto na proposta orçamentária (ep. 0958101), sob o elemento de despesa 44.90.52 — Equipamentos e
+Material Permanente.
+
+3. NATUREZA E ENQUADRAMENTO DO OBJETO
+3.1. Natureza do objeto:
+Serviço (art. 6º, inciso XI, da Lei 14.133/2021).
+
+3.2. Enquadramento/Categoria do objeto:
+Bens e serviços comuns (art. 6º, inciso XIII, da Lei 14.133/2021).
+
+4, DESCRIÇÃO DO OBJETO E VALOR(ES) ESTIMADO(S)
+
+4.1. Segue abaixo as descrições gerais dos serviços e valores estimados dos itens que compõem o objeto deste
+termo:
+
+
+VALOR
+ITEM OBJETO QUANTIDADE |. UNIDADE MÁXIMO VALOR
+UNITÁRIO
+
+SMART TV
+
+Especificações Mínimas:
+
+- Tamanho da tela: 55 polegadas;
+- Tecnologia da tela: LED;
+
+- Resolução: Ultra HD 4K;
+
+- Taxa de atualização: 60Hz;
+
+- Recursos de vídeo: Conversor Digital
+Integrado;
+
+- Potência do Áudio: (RMS): 20W;
+- Outras conexões (mínimo): 3 HDMI,
+
+Bluetooth, LAN, Wi-Fi, entrada RF
+1 - WI-FI: integrado, Sim; 10 Unid. R$ 3.500,00 R$ 35.000,00
+
+- Acessórios: controle remoto, cabo de força,
+Manual do usuário.
+
+- Controle remoto com alimentação por
+energia solar ou luz ambiente.
+
+- —Alimentação: ACI100-240V-  50/60Hz,
+Sensor Ecológico, Economia de energia
+automática.
+
+- Padrão de Furação: VESA
+- Garantia: 12 meses pelo fabricante.
+
+- Marca/Modelo de referência: Samsung
+Smart TV 55" UHD 4K.
+
+
+
+Mini Microcomputador de uso dedicado
+para TV
+
+Especificações Mínimas:
+
+- Processador: Quad-core, mínimo de 2.9
+GHz, arquitetura x86 ou ARM;
+
+- Memória RAM: no mínimo 16 GB;
+
+- Armazenamento: SSD de no mínimo 512
+GB;
+
+- Vídeo: Saídas com, no mínimo, duas portas
+HDMI  compatíveis com resolução 4K
+(3840x2160);
+
+- Conectividade: Wi-Fi dual band (2.4/5GHz),
+Ethernet RJ-45 Gigabit, Bluetooth 4.2;
+
+- Portas: Mínimo de 3 USBs (sendo pelo
+menos | USB 3.0);
+
+- Sistema Operacional: Windows 11 Pro com
+
+2 | licença — permanente, — com i.nicialização 4 Unid. R$2.850,00 | R$11.400,00
+automática em URL  predefinida (modo
+kiosque);
+
+- Fator de forma: Mini PC com opção de
+fixação padrão VESA;
+
+- Alimentação: Fonte externa bivolt (AC100-
+240V- 50/60Hz), consumo máximo de 20W,
+com fonte inclusa;
+
+- Funcionalidades adicionais: Operação
+silenciosa, suporte a gerenciamento remoto
+(SSH, RDP ou similar);
+
+- Compatibilidade: Dashboards e sistemas de
+monitoramento (ex.: Zabbix, Grafana, GLPT);
+
+- Garantia: 12 meses pelo fabricante;
+
+- Marca/Modelo de Referência: Mini Pc Intel
+Nuc Celeron Quadcore 3.4ghz l6gb Ram
+512gb.
+
+Valor Total Estimado da Contratação R$ 46.400,00
+
+Tabela 1 - Descrição do Objeto e Valor(es) Estimado(s)
+
+5. PARCELAMENTO DO OBJETO
+
+5.1. Nos termos do art. 47, inciso II, da Lei Federal nº 14.133/2021, o parcelamento deve ser adotado quando viável e
+vantajoso. Contudo, considerando a aquisição de apenas dez unidades do Item 1 e quatro do Item 2, verifica-se que o
+fracionamento não traria benefícios técnicos, econômicos ou competitivos. Portanto, o parcelamento do objeto não se
+aplica nesta contratação.
+
+6. CRITÉRIOS DE SUSTENTABILIDADE
+6.1. O objeto deverá respeitar as normas e princípios ambientais, atendendo os critérios de sustentabilidade.
+
+6.2. Controle Remoto com Alimentação por Energia Solar:
+
+A exigência de controle remoto com alimentação por energia solar ou luz ambiente visa promover a aquisição de
+equipamentos alinhados aos princípios de sustentabilidade ambiental e eficiência energética, conforme orientações da
+Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010) e práticas sustentáveis na Administração Pública.
+
+Esse tipo de controle é recarregado por meio da exposição à luz natural ou artifícial, eliminando a necessidade de pilhas
+descartáveis. Isso contribui para a redução de resíduos tóxicos, menor impacto ambiental e redução de custos com
+
+
+manutenção e reposição de baterias ao longo do tempo.
+
+A adoção dessa característica assegura a aquisição de produtos com maior durabilidade, menor demanda de insumos
+consumíveis e alinhamento com critérios de responsabilidade socioambiental, em conformidade com os princípios da Lei
+nº 14.133/2021 (Nova Lei de Licitações).
+
+7. PRAZO E LOCAL DE ENTREGA
+
+7.1. O prazo de entrega do objeto é de até 45 dias, contados da assinatura do contrato e na forma do art. 183 da Lei
+14.133/2021.
+
+7.2. O objeto será entregue no endereço da Sede Administrativa do TCERR: Rua Agnelo Bittencourt, nº 126 — Centro,
+Boa Vista - RR - CEP: 69.301-430, , preferencialmente no horário 8:00h às 12:00h.
+
+7.3. O prazo de entrega do objeto poderá ser prorrogado, quando apresentada pelo Contratado Justificativa aceita pelo
+Contratante.
+
+7.4. Eventual pedido de prorrogação deverá ser interposto junto ao responsável pela fiscalização do contrato dentro do
+prazo de entrega do objeto, sob pena de indeferimento sumário.
+
+8. GARANTIA E ASSISTÊNCIA TÉCNICA
+8.1. Os produtos terão garantia mínima de 12 meses, a contar do recebimento definitivo.
+8.2. Respondem pela garantia do objeto a Contratada e o fabricante dos produtos.
+
+8.3. Durante o período de garantia, a Contratada responde por eventuais vícios, defeitos ou incorreções resultantes da
+execução ou de materiais empregados nos serviços, devendo promover os reparos necessários no prazo de até 10 dias
+úteis, contados da comunicação formal, podendo requerer de prazo superior, mediante autorização do Contratante.
+
+9, VIGÊNCIA DO CONTRATO
+
+9.1. A vigência contratual tem início a partir da data da última assinatura das partes no termo de contrato até a entrega
+definitiva do objeto.
+
+10. MODELO DE GESTÃO DO CONTRATO
+
+10.1. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as normas da Lei nº
+14.133/2021, onde cada parte responderá pelas consequências de sua inexecução total ou parcial.
+
+10.2. As comunicações entre o Contratante e o Contratado que exigirem formalidade de atos deverão ser realizadas
+sempre por meio eletrônico.
+
+10.3. A execução do contrato será acompanhada e fiscalizada por fiscal devidamente designado para esse fim, com
+atribuições de representar o Contratante no âmbito da execução do contrato.
+
+10.4. Identificada qualquer inexatidão ou irregularidade no cumprimento das cláusulas contratuais, o fiscal emitirá
+notificações para a correção, determinando prazo para tal ato.
+
+10.5. Caso ocorram descumprimento das obrigações contratuais, o fiscal do contrato atuará tempestivamente na solução
+do problema, reportando os fatos ao gestor do contrato para que tome as providências cabíveis, quando ultrapassar a sua
+competência.
+
+11. FORMA E CONDIÇÓES DE RECEBIMENTO
+11.1. O objeto será recebido pelo fiscal ou equipe de fiscalização conforme etapas a seguir:
+
+11.1.1. Provisoriamente: de forma sumária, no ato da entrega, juntamente com a nota fiscal ou instrumento de
+cobrança equivalente, por meio de Termo de Recebimento Provisório, para posterior verificação de sua
+conformidade com as especificações constantes neste termo e na proposta.
+
+11.1.2. Recebimento Definitivo: ocorrerá no prazo de até 10 dias úteis, a contar do recebimento provisório, após a
+verificação da qualidade e quantidade do material e consequente aceitação mediante Termo de Recebimento
+Definitivo.
+
+11.2. Caso o objeto seja de fácil verificação acerca da sua conformidade com as especificações contidas neste termo,
+excepcionalmente, o recebimento poderá ocorrer em única etapa, de forma definitiva.
+
+
+11.3. O prazo para recebimento definitivo poderá ser excepcionalmente prorrogado, desde que justificado junto ao fiscal
+do contrato.
+
+11.4. Os bens entregues poderão ser rejeitados no todo ou em parte, inclusive antes do recebimento provisório, quando
+estiverem em desacordo com as especificações constantes no Termo de Referência e proposta adjudicada, devendo ser
+substituídos às custas do Contratado no prazo de até 15 dias úteis, a contar da notificação, sem prejuízo da aplicação das
+penalidades cabíveis.
+
+11.5.O prazo para o saneamento de inconsistências na execução do objeto não será computado para os fins de
+recebimento definitivo.
+
+11.6. O recebimento provisório ou definitivo não exclui a responsabilidade pelas obrigações contratais posteriores e
+garantia pertinente ao objeto.
+
+12. FORMA E CONDIÇÕES DE PAGAMENTO
+
+12.1. Para fins de pagamento, a nota fiscal eletrônica será encaminhada pelo Contratado, via e-mail, exclusivamente ao
+fiscal do contrato, cujo endereço eletrônico será repassado oportunamente.
+
+12.2. Orientações para a emissão da nota fiscal/fatura/recibo e retenção tributária:
+
+a) A Contratada deverá observar quando da emissão da nota fiscal ou documento de cobrança equivalente às
+disposições da Instrução Normativa RFB nº 1234/2012 alterada pela Instrução Normativa RFB nº 2145/2023,
+em especial o art. 2º-A, parágrafos 2º e 3º e os arts. 3º e 11, e os anexos da instrução normativa inicialmente
+citada, sem prejuízos do cumprimento das legislações pertinente ao INSS (União), ICMS (Estado) e ISS
+(Município);
+
+b) As alíquotas do tributos decorrentes da atividade empresarial da Contratada deverão constar expressamente no
+corpo da nota fiscal ou documento equivalente, bem como as informações acerca de eventual isenção tributária;
+
+c) Em razão da extinção do convênio entre o Governo do Estado de Roraima e a União (DOU 219 de 22/11/2022 -
+Seção 3/Pag. 50), passam a ser de exclusiva responsabilidade da Contratada o recolhimento da CSLL, COFINS e
+PIS/PASEP.
+
+12.3. Caso a Contratada não cumpra integralmente o disposto no item anterior, o pagamento não será processado até que
+ocorra a devida correção.
+
+12.4. O Contratado regularmente optante pelo Simples Nacional, nos termos da Lei Complementar 123/2006, não sofrerá
+a retenção tributária quanto aos impostos e contribuições abrangidos por aquele regime, desde que apresente
+comprovação, por meio de documento oficial, de que faz jus ao tratamento tributário favorecido previsto na referida Lei
+Complementar.
+
+12.5. O pagamento dos itens ocorrerá em até 10 dias úteis, após o atesto da nota fiscal, por meio de ordem bancária para
+crédito no banco, agência e conta corrente indicados pelo Contratado.
+
+12.6. Para fins de pagamento, o Contratado deverá está adimplente com a Fazenda Federa e Estadual e/ou Municipal,
+incluindo a regularidade perante a Justiça do Trabalho e ao Fundo de Garantia por Tempo de Serviço (FGTS).
+
+12.7. Não será aceito como comprovação da regularidade fiscal perante a Fazenda Municipal a certidão emitida/validada
+na condição de contribuinte.
+
+12.8. A nota fiscal que for apresentada com erro deverá ser imediatamente substituída, ficando o pagamento sustado e o
+prazo para pagamento suspenso até que o Contratado providencie a substituição.
+
+12.9. No preço contratado deverão estar inclusos todos os tributos, taxas, encargos, seguros, fretes e quaisquer outras
+despesas que incidam sobre o objeto.
+
+12.10. No caso de atraso do pagamento, salvo se por culpa do Contratado, serão devidos pelo Contratante encargos
+moratórios à taxa nominal de 6% a.a. (seis por cento ao ano), capitalizados diariamente em regime de juros simples,
+conforme a seguinte fórmula: EM = I x N x VP, onde: EM = Encargos moratórios devidos. N = Número de dias entre a
+data prevista para o pagamento e a do efetivo pagamento. I = Índice de compensação financeira = 0,00016438. e VP =
+Valor do pagamento em atraso.
+
+13. FORMA E CONDIÇÕES DE REAJUSTAMENTO
+
+13.1. Os preços contratados poderão ser reajustados após o transcurso de 1 (um) ano, contados da data limite para
+apresentação da proposta ou do orçamento referenciado, por meio do Indice de Preços ao Consumidor Amplo -
+IPCA/IBGE.
+
+13.2. Para o cálculo do reajuste será adotada a seguinte fórmula:
+
+
+IR = (if- ii) / ji
+
+Onde:
+
+IR = Índice de Reajustamento.
+
+ii - índice inicial: índice do mês de apresentação da proposta.
+if - índice final: índice correspondente a data do reajuste.
+
+13.3. O reajuste de preços deverá ser solicitado formalmente pelo Contratado antes de eventual prorrogação do contrato,
+decaindo tal direito caso seja firmado termo aditivo prorrogatório sem a devida manifestação quanto ao reajuste.
+
+14. OBRIGAÇÕES DO CONTRATADO
+
+14.1. Providenciar, imediatamente após a assinatura do termo de contrato, as tratativas necessárias ao cumprimento
+célere da obrigação.
+
+14.2. Entregar e/ou executar o objeto no prazo e no local pactuado, sob pena de aplicação das penalidades previstas neste
+termo.
+
+14.3. Substituir os produtos ou refazerem desacordo com as especificações exigidas neste termo ou que apresentem
+defeitos ou imperfeições.
+
+14.4. Responder, integralmente, por perdas e danos que vier a causar ao Contratante ou a terceiros em razão de ação ou
+omissão, dolosa ou culposa, de seus empregados, independente de outras cominações contratuais ou legais a que estiver
+sujeita.
+
+14.5. Manter durante toda a execução do contrato as condições de habilitação e qualificação exigidas no procedimento de
+contratação, devendo comunicar imediatamente ao Contratante a superveniência de fato impeditivo da manutenção
+dessas condições, em atendimento ao disposto no art. 92, inciso XVI, da Lei 14.133/2021.
+
+14.6. Manter atualizado os dados inicialmente fornecidos na proposta adjudicada.
+
+15. OBRIGAÇÕES DO CONTRATANTE
+
+15.1. Efetuar o pagamento no prazo informado neste termo.
+
+15.2. Acompanhar e fiscalizar a execução do contrato.
+
+15.3. Verificar o cumprimento das especificações exigidas, podendo rejeitá-las quando não atenderem ao solicitado.
+15.4. Prestar toda e qualquer informação necessária à perfeita execução do contrato.
+
+15.5. Documentar as ocorrências imprevistas.
+
+16. FORMA E CRITÉRIO DE SELEÇÃO
+
+A seleção do fornecedor ocorrerá por meio de procedimento licitatório na modalidade Pregão, sob a forma Eletrônica,
+com adoção do critério de julgamento pelo menor preço, conforme Resolução nº 21/2023 - TCERR - PLENO, ep.
+0823180.
+
+17. EXIGÊNCIAS DE HABILITAÇÃO
+
+Sem prejuízo dos demais documentos que venham a ser solicitados em edital de licitação, a licitante deverá apresentar os
+documentos abaixo para fins de habilitação:
+
+17.1. Habilitação Jurídica:
+
+17.1.1. Empresário Individual: inscrição no Registro Público de Empresas Mercantis, a cargo da Junta
+Comercial da respectiva sede.
+
+17.1.2. Microempreendedor Individual - MEI: Certificado da Condição de Microempreendedor Individual
+- CCMEIL, cuja aceitação ficará condicionada à verificação da sua autenticidade.
+
+17.1.3. Sociedade Empresária, Sociedade Limitada Unipessoal — SLU ou sociedade identificada como
+Empresa Individual de Responsabilidade Limitada - EIRELI: inscrição do ato constitutivo, estatuto ou
+contrato social no Registro Público de Empresas Mercantis, a cargo da Junta Comercial da respectiva sede,
+acompanhada de documento comprobatório de seus administradores.
+
+17.1.4. Sociedade Empresária Estrangeira: portaria de autorização de funcionamento no Brasil, publicada
+no Diário Oficial da União e arquivada na Junta Comercial da unidade federativa onde se localizar a filial,
+
+
+agência, sucursal ou estabelecimento, a qual será considerada como sua sede.
+
+17.1.5. Sociedade Simples: inscrição do ato constitutivo no Registro Civil de Pessoas Jurídicas do local de
+sua sede, acompanhada de documento comprobatório de seus administradores.
+
+17.1.6. Filial, Sucursal ou Agência de Sociedade Simples ou Empresária: inscrição do ato constitutivo da
+filial, sucursal ou agência da sociedade simples ou empresária, respectivamente, no Registro Civil das Pessoas
+Jurídicas ou no Registro Público de Empresas Mercantis onde opera, com averbação no Registro onde tem
+sede a matriz.
+
+17.1.7. Consorcio: Não será permitida a partição de pessoa jurídica constituída por meio de consorcio, em
+razão do baixo valor e da baixa complexidade do objeto, sob pena de perder a economia de escala.
+
+17.2. Habilitação Fiscal, Social e Trabalhista:
+17.2.1. Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas;
+
+17.2.2. Prova de regularidade fiscal perante a Fazenda Nacional, mediante apresentação de certidão
+conjunta federal expedida pela Secretaria da Receita Federal do Brasil (RFB) e pela Procuradoria-Geral da
+Fazenda Nacional (PGFN), referente a todos os créditos tributários federais e à Dívida Ativa da União (DAU)
+por elas administrados, inclusive aqueles relativos à Seguridade Social, nos termos da Portaria Conjunta nº
+1.751, de 02 de outubro de 2014, do Secretário da Receita Federal do Brasil e da Procuradora-Geral da
+Fazenda Nacional;
+
+17.2.3. Prova de regularidade junto ao Fundo de Garantia do Tempo de Serviço (FGTS);
+
+17.2.4. Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante a
+apresentação de certidão negativa ou positiva com efeito de negativa, nos termos do Título VII-A da
+Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943;
+
+17.2.5. Prova de regularidade com a Fazenda Estadual e/ou Municipal do domicílio ou sede do fornecedor.
+
+17.2.6. Declaração de Inexistência de Trabalho Infantil, em cumprimento do inciso XXXIII, da
+Constituição Federal.
+
+17.2.7. Em se tratando de filial, os documentos de habilitação jurídica e regularidade fiscal deverão estar
+em nome da filial, exceto aqueles que, pela própria natureza, são emitidos somente em nome da matriz
+
+17.2.8. Caso a licitante seja considerada isenta dos tributos estaduais ou municipais relacionados ao objeto da
+contratação, deverá comprovar tal condição mediante a apresentação de declaração da Fazenda Estadual ou
+Municipal do seu domicílio ou sede, ou outra equivalente, na forma da lei.
+
+17.3. Qualificação Econômico-Financeira:
+17.3.1. Certidão Negativa de Falência expedida pelo distribuidor da sede do fornecedor.
+
+17.3.2. Índices de Liquidez Geral (LG), Solvência Geral (SG) e Liquidez Corrente (LC), superiores a 1 (um),
+comprovados mediante a apresentação pelo licitante de balanço patrimonial, demonstração de resultado de exercício
+e demais demonstrações contábeis dos 2 (dois) últimos exercícios sociais na forma da lei e obtidos pela aplicação
+das seguintes fórmulas:
+17.3.2.1. Liquidez Geral (LG) = (Ativo Circulante + Realizável a Longo Prazo )J( Passivo Circulante +
+Passivo Não Circulante);
+
+17.3.2.2. Solvência Geral (SG)= (Ativo Total)/(Passivo Circulante +Passivo não Circulante); e
+17.3.2.3. Liquidez Corrente (LC) = (Ativo Circulante)/(Passivo Circulante).
+
+17.3.3. Empresas criadas no exercício financeiro da licitação deverão atender a todas as exigências de habilitação e
+poderão substituir os demonstrativos contábeis pelo balanço de abertura, nos termos do art. 65,$1º, da Lei
+14.133/2021.
+
+17.3.4. O balanço patrimonial, demonstração de resultado de exercício e demais demonstrações contábeis limitar-se-
+ão ao último exercício no caso de a pessoa jurídica ter sido constituída há menos de 2 anos.
+
+17.3.5. Os documentos acima referenciados deverão ser exigidos com base no limite definido pela Receita Federal
+do Brasil para transmissão da Escrituração Contábil Digital - ECD ao SPED.
+
+17.3.6. O atendimento dos índices econômicos previstos neste item deverá ser atestado mediante declaração
+assinada por profissional habilitado da área contábil, apresentada pelo licitante.
+
+17.4. A habilitação da licitante poderá será comprovada por meio do Sistema de Cadastro Unificado de Fornecedores
+(SICAF), nos documentos por ele abrangidos.
+
+
+18. ADEQUAÇÃO ORÇAMENTÁRIA
+18.1 A despesa decorrente da presente contratação correrá por conta da seguinte dotação:
+
+Unidade Gestora: Tribunal de Contas do Estado de Roraima.
+
+* Projetode Trabalho: 01.032.002.2012.9900
+e Fonte(s): 1500
+
+e Naturezada Despesa: 4.4.90-52 — Equipamentos e Material Permanente.
+
+19. EQUIPE DE PLANEJAMENTO DA CONTRATAÇÃO
+Portaria Nº 880/2025/TCERR (ep. 1076274).
+
+Integrante Requisitante Integrante Técnico Integrante Administrativo
+NILKEM BARRETO CRISPIM NILKEM BARRETO CRISPIM VLADIMIR MARTINI MACHADO
+Chefe de Divisão Chefe de Divisão Chefe de Divisão
+
+Aprovação
+
+CARLOS DE ARAÚJO FREIRE
+Diretor de Tecnologia da Informação
+
+ANEXO ÚNICO - ESPECIFICAÇÕES DO OBJETO
+
+VALOR
+ITEM OBJETO QUANTIDADE | UNIDADE MÁXIMO VALOR
+UNITÁRIO
+
+
+
+SMART TV
+
+Especificações Mínimas:
+
+- Tamanho da tela: 55 polegadas;
+- Tecnologia da tela: LED;
+
+- Resolução: Ultra HD 4K;
+
+- Taxa de atualização: 60Hz;
+
+- Recursos de vídeo: Conversor Digital
+Integrado;
+
+- Potência do Áudio: (RMS): 20W;
+
+- Outras conexões (mínimo): 3 HDMI,
+Bluetooth, LAN, Wi-Fi, entrada RF
+
+- WI-FI: integrado, Sim;
+
+- Acessórios: controle remoto, cabo de força,
+Manual do usuário.
+
+- Controle remoto comalimentação por
+energia solar ou luz ambiente.
+
+- —Alimentação: ACI100-240V-  50/60Hz,
+Sensor Ecológico, Economia de  energia
+automática.
+
+- Padrão de Furação: VESA
+- Garantia: 12 meses pelo fabricante.
+
+- Marca/Modelo de referência: Samsung
+Smart TV 55" UHD 4K.
+
+10
+
+Unid.
+
+R$
+
+R$
+
+
+
+Mini Microcomputador de uso dedicado
+para TV
+
+Especificações Mínimas:
+
+- Processador: Quad-core, mínimo de 2.9
+GHz, arquitetura x86 ou ARM;
+
+- Memória RAM: no mínimo 16 GB;
+
+- Armazenamento: SSD de no mínimo 512
+GB;
+
+- Vídeo: Saídas com, no mínimo, duas portas
+HDMI compatíveis com resolução 4K
+(3840x2160);
+
+- Conectividade: Wi-Fi dual band (2.4/5SGHz),
+Ethernet RJ-45 Gigabit, Bluetooth 4.2;
+
+- Portas: Mínimo de 3 USBs (sendo pelo
+menos | USB 3.0);
+
+- Sistema Operacional: Windows 11 Pro com
+
+2 licença— permanente, com  inicialização 4 Unid. R$ R$
+automática em URL  predefinida (modo
+kiosque);
+
+- Fator de forma: Mini PC com opção de
+fixação padrão VESA;
+
+- Alimentação: Fonte externa bivolt (AC100-
+240V- 50/60Hz), consumo máximo de 20W,
+com fonte inclusa;
+
+- Funcionalidades adicionais: Operação
+silenciosa, suporte a gerenciamento remoto
+(SSH, RDP ou similar);
+
+- Compatibilidade: Dashboards e sistemas de
+monitoramento (ex.: Zabbix, Grafana, GLPT);
+
+- Garantia: 12 meses pelo fabricante;
+
+- Marca/Modelo de Referência: Mini Pc Intel
+Nuc Celeron Quadcore 3.4ghz l6gb Ram
+512gb.
+
+ANEXO II - DO EDITAL
+MODELO DE APRESENTAÇÃO DAS PROPOSTAS DE PREÇOS
+
+REF: Licitação nº 014/2025- Pregão Eletrônico
+
+Prezados Senhores,
+
+Estamos cotando o GRUPO DE ITENS, a seguir relacionado, com vista ao seu fornecimento ao Tribunal de Contas do
+Estado de Roraima/Boa Vista/RR, de acordo com o disposto na Lei no. 14.133, de 01 de abril de 2021.
+
+
+
+Valor Unitário
+
+- WI-FI: integrado, Sim;
+
+- Acessórios: controle remoto, cabo de força, Manual do
+usuário.
+
+- Controle remoto com alimentação por energia solar ou
+luz ambiente.
+
+- —Alimentação: ACI100-240V-  50/60H7z,  Sensor
+Ecológico, Economia de energia automática.
+
+- Padrão de Furação: VESA
+- Garantia: 12 meses pelo fabricante.
+
+- Marca/Modelo de referência: Samsung Smart TV 55"
+UHD 4K.
+
+Item Descrição dos Produtos Unid. | Quantidade R$ Valor Total R$
+SMART TV
+Especificações Mínimas:
+- Tamanho da tela: 55 polegadas;
+- Tecnologia da tela: LED;
+- Resolução: Ultra HD 4K;
+- Taxa de atualização: 60Hz;
+- Recursos de vídeo: Conversor Digital Integrado;
+- Potência do Áudio: (RMS): 20W;
+- Outras conexões (mínimo): 3 HDMI, Bluetooth, LAN,
+Wi-Fi, entrada RF
+
+1 Unid. 10
+
+
+
+Mini Microcomputador de uso dedicado para TV
+Especificações Mínimas:
+
+- Processador: Quad-core, mínimo de 2.9 GHz, arquitetura
+x86 ou ARM;
+
+- Memória RAM: no mínimo 16 GB;
+- Armazenamento: SSD de no mínimo 512 GB;
+
+- Vídeo: Saídas com, no mínimo, duas portas HDMI
+compatíveis com resolução 4K (3840x2160);
+
+- Conectividade: Wi-Fi dual band (2.4/5GHz), Ethernet
+RJ-45 Gigabit, Bluetooth 4.2;
+
+- Portas: Mínimo de 3 USBs (sendo pelo menos 1 USB
+3.0);
+
+2 - Sistema Operacional: Windows 11 Pro com licença Unid 04
+permanente, com inicialização automática em URL
+predefinida (modo kiosque);
+
+- Fator de forma: Mini PC com opção de fixação padrão
+VESA;
+
+- Alimentação: Fonte externa bivolt (ACI00-240V-
+50/60Hz), consumo máximo de 20W, com fonte inclusa;
+
+- Funcionalidades adicionais: Operação  silenciosa,
+suporte a gerenciamento remoto (SSH, RDP ou similar);
+
+- Compatibilidade: Dashboards e  sistemas de
+monitoramento (ex.: Zabbix, Grafana, GLPIT);
+
+- Garantia: 12 meses pelo fabricante;
+
+- Marca/Modelo de Referência: Mini Pc Intel Nuc
+Celeron Quadcore 3.4ghz 16gb Ram 512gb.
+
+Valor Total Estimado do Grupo Único R$
+
+Valor numérico e por extenso: Valor Total da Proposta
+
+Validade da Proposta: dias (MÍNIMO DE 60 DIAS CORRIDOS)
+
+Prazo de Pagamento: até o 10 dias úteis após o atesto da nota fiscal no TCE/RR.
+
+Empresa:
+
+Endereço: Bairro:
+CEP: Fone/Fax: /
+
+Email:
+
+Inscrição Estadual: Nº.
+Corrente: Nº.Agência: Banco:
+
+R$:
+
+Conta
+
+Declaração: Estão incluídos todos os encargos trabalhistas, previdenciários, fiscais, comerciais, de transporte, entrega e
+
+outros de qualquer natureza que se fizerem indispensáveis à perfeita contratação do objeto da licitação.
+
+(*) Os valores máximos individuais e totais dos itens estão descritos no Anexo I Do Edital.
+
+Boa Vista, de de 2025.
+
+Assinatura e Identificação do Representante
+
+
+
+ANEXO III - DO EDITAL
+
+MODELO DE DECLARAÇÃO DE INEXISTÊNCIA DE PRÁTICAS DE NEPOTISMO
+
+“DECLARAÇÃO”
+
+Ref.: Licitação nº 014/2025- Pregão Eletrônico - Processo SEI n.º 002347/2025
+
+AÀ empresa ... , inserita no CNPJ nº .s , por intermédio de seu representante legal o
+ST , Pportador da carteira de identidade Nl e do CPF mº
+....................... , DECLARA, especialmente para a Licitação nº 014/2025- Pregão Eletrônico - Processo SEI n.º
+002347/2025, que em seu quadro societário não compõe nenhum integrante que sejam Sócios cônjuge, companheiro ou
+parente em linha reta ou colateral até o terceiro grau, inclusive, dos respectivos membros ou Conselheiros vinculados, ou
+
+servidor investido em cargo de direção e de assessoramento, conforme dispõe o art. 2º, inciso V, da Resolução CNJ n. 7.
+
+Boa Vista-RR, de de 2025.
+
+(representante legal)
+
+ANEXO IV - DO EDITAL
+MINUTA DE CONTRATO
+
+Processo nº 002347/2025
+
+CONTRATANTE
+- TRIBUNAL
+DE CONTAS
+DO ESTADO
+DE
+RORAIMA,
+pessoa Jjurídica
+de direito
+público, com
+sede na Rua.
+Prof. Agnelo
+Bitencourt, — nº
+
+126, centro,
+nesta capital,
+inscrito no
+CNPJ nº
+84.008.440/0001-
+85, neste ato
+representado
+
+pelo Senhor
+
+
+l. CLÁUSULA PRIMEIRA - DO OBJETO
+
+Amélio Valmir
+Martini
+
+Machado,
+Diretor de
+Gestão
+Administrativa e
+Financeira,
+
+autorizado — por
+meio da Portaria
+nO
+60/2025/TCE-
+RR.
+
+CONTRATADA
+— (inserir
+nome), pessoa
+Jurídica de
+direito privado,
+inscrita no
+CNPJ nº (inserir
+dados),
+estabelecida
+comercialmente
+na (inserir
+endereço do
+estabelecimento),
+neste ato
+representada
+pelo (inserir
+denominação),
+Senhor(a)
+(inserir nome),
+portador do CPF
+nº (inserir
+dados) e RG nº
+(inserir . dados),
+email:  (inserir
+
+dados).
+
+AQUISIÇÃO DE TELEVISORES E MICROCOMPUTADORES DE USO DEDICADO, DESTINADOS À
+
+IMPLEMENTAÇÃO DE UM SISTEMA DE MONITORAMENTO PROATIVO E EM TEMP
+
+O REAL DOS
+
+SERVIÇOS E DA INFRAESTRUTURA DE TI DO TRIBUNAL DE CONTAS DO ESTADO DE RORAIMA (TCE-
+
+RR).
+
+2. CLÁUSULA SEGUNDA - DA DESCRIÇÃO DO OBJETO E VALOR
+2.1. O valor total da contração é de R$ .....
+
+2.2 A descrição e valores dos itens que compõem o objeto do presente Termo seguem abaixo detalhado:
+
+VALOR
+OBJETO QUANTIDADE | UNIDADE MÁXIMO
+UNITÁRIO
+
+ITEM
+
+VALOR
+
+SMART TV
+Marca/Modelo de Referência: 10 Unid.
+
+
+
+Mini Microcomputador de uso dedicado
+
+para TV
+4 Unid.
+Marca/Modelo de Referência:
+
+Valor Total da Contratação R$
+
+2.3. As especificações técnicas constam no Termo de Referência.
+
+3. CLÁUSULA TERCEIRA - DOS CRITÉRIOS DE SUSTENTABILIDADE
+3.1. O objeto deverá respeitar as normas e princípios ambientais, atendendo os critérios de sustentabilidade.
+
+3.2. Controle Remoto com Alimentação por Energia Solar:
+
+A exigência de controle remoto com alimentação por energia solar ou luz ambiente visa promover a aquisição de
+equipamentos alinhados aos princípios de sustentabilidade ambiental e eficiência energética, conforme orientações da
+Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010) e práticas sustentáveis na Administração Pública.
+
+Esse tipo de controle é recarregado por meio da exposição à luz natural ou artifícial, eliminando a necessidade de pilhas
+descartáveis. Isso contribui para a redução de resíduos tóxicos, menor impacto ambiental e redução de custos com
+manutenção e reposição de baterias ao longo do tempo.
+
+A adoção dessa característica assegura a aquisição de produtos com maior durabilidade, menor demanda de insumos
+consumíveis e alinhamento com critérios de responsabilidade socioambiental, em conformidade com os princípios da Lei
+nº 14.133/2021 (Nova Lei de Licitações).
+
+4. CLÁUSULA QUARTA - DO PRAZO E LOCAL DE ENTREGA
+
+4.1. O prazo de entrega do objeto é de até 45 dias, contados da assinatura do contrato e na forma do art. 183 da Lei
+14.133/2021.
+
+4.2. O objeto será entregue no endereço da Sede Administrativa do TCERR: Rua Agnelo Bittencourt, nº 126 — Centro,
+Boa Vista - RR - CEP: 69.301-430, , preferencialmente no horário 8:00h às 12:00h.
+
+4.3. O prazo de entrega do objeto poderá ser prorrogado, quando apresentada pelo Contratado Jjustificativa aceita pelo
+Contratante.
+
+4.,4. Eventual pedido de prorrogação deverá ser interposto junto ao responsável pela fiscalização do contrato dentro do
+prazo de entrega do objeto, sob pena de indeferimento sumário.
+
+5. CLÁUSULA QUINTA - DA GARANTIA E ASSISTÊNCIA TÉCNICA
+5.1. Os produtos terão garantia mínima de 12 meses, a contar do recebimento definitivo.
+5.2. Respondem pela garantia do objeto a Contratada e o fabricante dos produtos.
+
+5.3. Durante o período de garantia, a Contratada responde por eventuais vícios, defeitos ou incorreções resultantes da
+execução ou de materiais empregados nos serviços, devendo promover os reparos necessários no prazo de até 10 dias
+úteis, contados da comunicação formal, podendo requerer de prazo superior, mediante autorização do Contratante.
+
+6. CLÁUSULA SEXTA - DA VIGÊNCIA DO CONTRATO
+
+A vigência contratual tem início a partir da data da última assinatura das partes no termo de contrato até a entrega
+definitiva do objeto.
+
+7. CLÁUSULA SÉTIMA - DO MODELO DE GESTÃO DO CONTRATO
+
+7.1. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as normas da Lei nº
+14.133/2021, onde cada parte responderá pelas consequências de sua inexecução total ou parcial.
+
+7.2. As comunicações entre o Contratante e o Contratado que exigirem formalidade de atos deverão ser realizadas sempre
+por meio eletrônico.
+
+7.3. A execução do contrato será acompanhada e fiscalizada por fiscal devidamente designado para esse fim, com
+atribuições de representar o Contratante no âmbito da execução do contrato.
+
+
+7.4. Identificada qualquer inexatidão ou irregularidade no cumprimento das cláusulas contratuais, o fiscal emitirá
+notificações para a correção, determinando prazo para tal ato.
+
+7.5. Caso ocorram descumprimento das obrigações contratuais, o fiscal do contrato atuará tempestivamente na solução do
+problema, reportando os fatos ao gestor do contrato para que tome as providências cabíveis, quando ultrapassar a sua
+competência.
+
+8. CLÁUSULA OITAVA - DA FORMA E CONDIÇÕES DE RECEBIMENTO
+8.1. O objeto será recebido pelo fiscal ou equipe de fiscalização conforme etapas a seguir:
+
+8.1.1. Provisoriamente: de forma sumária, no ato da entrega, juntamente com a nota fiscal ou instrumento de
+cobrança equivalente, por meio de Termo de Recebimento Provisório, para posterior verificação de sua
+conformidade com as especificações constantes neste termo e na proposta.
+
+8.1.2. Recebimento Definitivo: ocorrerá no prazo de até 10 dias úteis, a contar do recebimento provisório, após a
+verificação da qualidade e quantidade do material e consequente aceitação mediante Termo de Recebimento
+Definitivo.
+
+8.2. Caso o objeto seja de fácil verificação acerca da sua conformidade com as especificações contidas neste termo,
+excepcionalmente, o recebimento poderá ocorrer em única etapa, de forma definitiva.
+
+8.3. O prazo para recebimento definitivo poderá ser excepcionalmente prorrogado, desde que justificado junto ao fiscal
+do contrato.
+
+8.4. Os bens entregues poderão ser rejeitados no todo ou em parte, inclusive antes do recebimento provisório, quando
+estiverem em desacordo com as especificações constantes no Termo de Referência e proposta adjudicada, devendo ser
+substituídos às custas do Contratado no prazo de até 15 dias úteis, a contar da notificação, sem prejuízo da aplicação das
+penalidades cabíveis.
+
+8.5. O prazo para o saneamento de inconsistências na execução do objeto não será computado para os fins de recebimento
+definitivo.
+
+8.6. O recebimento provisório ou definitivo não exclui a responsabilidade pelas obrigações contratais posteriores e
+garantia pertinente ao objeto.
+
+9. CLÁUSULA NONA - DA FORMA E CONDIÇÕES DE PAGAMENTO
+
+9.1. Para fins de pagamento, a nota fiscal eletrônica será encaminhada pelo Contratado, via e-mail, exclusivamente ao
+fiscal do contrato, cujo endereço eletrônico será repassado oportunamente.
+
+9.2. Orientações para a emissão da nota fiscal/fatura/recibo e retenção tributária:
+
+a) A Contratada deverá observar quando da emissão da nota fiscal ou documento de cobrança equivalente às
+disposições da Instrução Normativa RFB nº 1234/2012 alterada pela Instrução Normativa RFB nº 2145/2023,
+em especial o art. 2º-A, parágrafos 2º e 3º e os arts. 3º e 11, e os anexos da instrução normativa inicialmente
+citada, sem prejuízos do cumprimento das legislações pertinente ao INSS (União), ICMS (Estado) e ISS
+(Município);
+
+b) As alíquotas do tributos decorrentes da atividade empresarial da Contratada deverão constar expressamente no
+corpo da nota fiscal ou documento equivalente, bem como as informações acerca de eventual isenção tributária;
+
+c) Em razão da extinção do convênio entre o Governo do Estado de Roraima e a União (DOU 219 de 22/11/2022 -
+Seção 3/Pag. 50), passam a ser de exclusiva responsabilidade da Contratada o recolhimento da CSLL, COFINS e
+PIS/PASEP.
+
+9.3. Caso a Contratada não cumpra integralmente o disposto no item anterior, o pagamento não será processado até que
+ocorra a devida correção.
+
+9.4. O Contratado regularmente optante pelo Simples Nacional, nos termos da Lei Complementar 123/2006, não sofrerá a
+retenção tributária quanto aos impostos e contribuições abrangidos por aquele regime, desde que apresente comprovação,
+por meio de documento oficial, de que faz jus ao tratamento tributário favorecido previsto na referida Lei Complementar.
+
+9.5. O pagamento dos itens ocorrerá em até 10 dias úteis, após o atesto da nota fiíscal, por meio de ordem bancária para
+crédito no banco, agência e conta corrente indicados pelo Contratado.
+
+9.6. Para fins de pagamento, o Contratado deverá está adimplente com a Fazenda Federa e Estadual e/ou Municipal,
+incluindo a regularidade perante a Justiça do Trabalho e ao Fundo de Garantia por Tempo de Serviço (FGTS).
+
+9.7. Não será aceito como comprovação da regularidade fiscal perante a Fazenda Municipal a certidão emitida/validada
+na condição de contribuinte.
+
+
+9.8. A nota fiscal que for apresentada com erro deverá ser imediatamente substituída, ficando o pagamento sustado e o
+prazo para pagamento suspenso até que o Contratado providencie a substituição.
+
+9.9. No preço contratado deverão estar inclusos todos os tributos, taxas, encargos, seguros, fretes e quaisquer outras
+despesas que incidam sobre o objeto.
+
+9.10. No caso de atraso do pagamento, salvo se por culpa do Contratado, serão devidos pelo Contratante encargos
+moratórios à taxa nominal de 6% a.a. (seis por cento ao ano), capitalizados diariamente em regime de juros simples,
+conforme a seguinte fórmula: EM = I x N x VP, onde: EM = Encargos moratórios devidos. N = Número de dias entre a
+data prevista para o pagamento e a do efetivo pagamento. I = Índice de compensação financeira = 0,00016438. e VP =
+Valor do pagamento em atraso.
+
+10. CLÁUSULA DÉCIMA - DA FORMA E CONDIÇÕES DE REAJUSTAMENTO
+
+10.1. Os preços contratados poderão ser reajustados após o transcurso de 1 (um) ano, contados da data limite para
+apresentação da proposta ou do orçamento referenciado, por meio do Indice de Preços ao Consumidor Amplo -
+IPCA/IBGE.
+
+10.2. Para o cálculo do reajuste será adotada a seguinte fórmula:
+IR = (if- ii) / ji
+
+Onde:
+
+IR = Índice de Reajustamento.
+
+ii - índice inicial: índice do mês de apresentação da proposta.
+
+if - índice final: índice correspondente a data do reajuste.
+
+10.3. O reajuste de preços deverá ser solicitado formalmente pelo Contratado antes de eventual prorrogação do contrato,
+decaindo tal direito caso seja firmado termo aditivo prorrogatório sem a devida manifestação quanto ao reajuste.
+
+11. CLÁUSULA DÉCIMA PRIMEIRA - DAS OBRIGAÇÕES DA CONTRATADA
+
+11.1. Providenciar, imediatamente após a assinatura do termo de contrato, as tratativas necessárias ao cumprimento
+célere da obrigação.
+
+11.2. Entregar e/ou executar o objeto no prazo e no local pactuado, sob pena de aplicação das penalidades previstas neste
+termo.
+
+11.3. Substituir os produtos ou refazerem desacordo com as especificações exigidas neste termo ou que apresentem
+defeitos ou imperfeições.
+
+11.4. Responder, integralmente, por perdas e danos que vier a causar ao Contratante ou a terceiros em razão de ação ou
+omissão, dolosa ou culposa, de seus empregados, independente de outras cominações contratuais ou legais a que estiver
+sujeita.
+
+11.5. Manter durante toda a execução do contrato as condições de habilitação e qualificação exigidas no procedimento de
+contratação, devendo comunicar imediatamente ao Contratante a superveniência de fato impeditivo da manutenção
+dessas condições, em atendimento ao disposto no art. 92, inciso XVI, da Lei 14.133/2021.
+
+11.6. Manter atualizado os dados inicialmente fornecidos na proposta adjudicada.
+
+12. CLÁUSULA DÉCIMA SEGUNDA - DAS OBRIGAÇÕES DO CONTRATANTE
+
+12.1. Efetuar o pagamento no prazo informado neste termo.
+
+12.2. Acompanhar e fiscalizar a execução do contrato.
+
+12.3. Verificar o cumprimento das especificações exigidas, podendo rejeitá-las quando não atenderem ao solicitado.
+12.4. Prestar toda e qualquer informação necessária à perfeita execução do contrato.
+
+12.5. Documentar as ocorrências imprevistas.
+
+13. CLÁUSULA DÉCIMA TERCEIRA - DAS SANÇÕES ADMINISTRATIVAS
+
+13.1 Comete infração administrativa no âmbito da execução do contrato, nos termos da Lei 14.133/2021, o
+Contratado que:
+
+13.1.1. dar causa à inexecução parcial do contrato;
+
+
+13.1.2. dar causa à inexecução parcial do contrato, que cause grave dano ao Contratante;
+13.1.3. dar causa à inexecução total do contrato;
+
+13.1.4. ensejar o retardamento da execução ou da entrega do objeto sem motivo Jjustificado;
+13.1.5. prestar declaração falsa durante a execução do contrato;
+
+13.1.6. praticar ato fraudulento na execução do contrato;
+
+13.1.7. comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+
+13.1.8. praticar ato lesivo previsto no art. 5º da Lei 12.846/2013.
+
+13.2. O Contratado que cometer quaisquer das infrações discriminadas no item 13.1 ficará sujeita, sem prejuízo
+das responsabilidades civil e criminal, às seguintes sanções:
+
+13.2.1 ADVERTÊNCIA: no caso de cometimento da infração administrativa prevista no subitem 13.1.1, quando
+não se justificar a imposição de penalidade mais grave.
+
+13.2.2. MULTA:
+
+a) de 10% sobre o valor do contrato no caso de cometimento das infrações administrativas previstas nos
+subitens 13.1.1 e 13.1.4.
+
+b) de 15% sobre o valor do contrato no caso de cometimento das infrações administrativas previstas nos
+subitens 13.1.2 e 13.1.3.
+
+c) de 20% sobre o valor do contrato no caso de cometimento das infrações administrativas previstas nos
+subitens 13.1.5 a 13.1.8.
+
+13.2.3. MULTA MORATÓRIA : de 1% sobre o valor da ordem de serviço ou item, por dia de atraso
+injustificado na execução, limitada a 15%, podendo ser convertida em multa compensatória no caso de extinção
+unilateral do contrato, sem prejuízo da aplicação cumulativa com outras sanções previstas em lei.
+
+13.2.3.1. Não havendo garantia contratual, ocorrerá a retenção preventiva do valor presumido da multa
+moratória antes da instauração do regular procedimento administrativo.
+
+13.2.3.2. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor do pagamento
+eventualmente devido pelo Contratante ao Contratado, além da perda desse valor, a diferença será descontada
+da garantia prestada, se houver, ou será cobrada judicialmente.
+
+13.2.4. IMPEDIMENTO DE LICITAR E CONTRATAR: pelo prazo de 2 anos, no caso de cometimento das
+infrações administrativas previstas nos subitens 13.1.2 e 13.1.3, e de 6 meses, no caso de cometimento da infração
+administrativa previstas no subitem 13.1.4, quando não se justificar a imposição de penalidade mais grave.
+
+13.2.5. DECLARAÇÃO DE INIDONEIDADE: pelo prazo de 3 anos, no caso de cometimento das infrações
+administrativas previstas nos subitens 13.1.5e 13.1.6,e de 6 anos,no caso de cometimento da infração
+administrativa previstas no subitens 13.1.7 e 13.1.8, bem como pelo prazo de 3 anos, no caso de cometimento das
+infrações 13.1.2 a 13.1.4, quando se justificar a imposição de penalidade mais grave.
+
+13.2.6. As sanções previstas nos subitens 13.2.1, 13.2.4 e 13.2.5 poderão ser aplicadas cumulativamente com a
+prevista no subitem 13.2.2.
+
+13.3. A aplicação das sanções previstas neste item não exclui, em hipótese alguma, a obrigação de reparação integral do
+dano causado ao Contratante.
+
+13.4. O exercício do direito ao contraditório e a ampla defesa acerca da imputação das infrações previstas neste item
+ocorrerá no âmbito do processo administrativo sancionatório.
+
+13.5. O processo administrativo sancionatório seguirá às disposições da Resolução pertinente.
+
+13.6. No caso de abertura de processo administrativo sancionatório destinado a apuração de infrações contratuais e
+eventual aplicação de sanção administrativa, as comunicações ao Contratado serão realizadas preferencialmente por meio
+do endereço de correio eletrônico (e-mail) informado na proposta adjudicada ou o constante no Sistema de Cadastro
+Unificado de Fornecedores (SICAF).
+
+14.
+
+13.6.1. O Contratado deverá manter atualizado o endereço de correio eletrônico (e-mail) informado na proposta e no
+Sistema de Cadastro Unificado de Fornecedores (SICAF)., e confirmar o recebimento das mensagens provenientes
+do Tribunal de Contas do Estado de Roraima, não podendo alegar o desconhecimento do recebimento das
+comunicações por este meio como Jjustificativa para se eximir das responsabilidades assumidas ou de eventuais
+sanções aplicadas.
+
+CLÁUSULA DÉCIMA QUARTA - DA ADEQUAÇÃO ORÇAMENTÁRIA
+
+14.1. A despesa decorrente da presente contratação correrá por conta da seguinte dotação:
+
+
+Unidade Gestora: Tribunal de Contas do Estado de Roraima.
+
+* Projetode Trabalho: 01.032.002.2012.9900
+e Fonte: 1500
+* Naturezada Despesa: 4.4.90-52 — Equipamentos e Material Permanente.
+
+* Notade Empenho:
+
+15. CLÁUSULA DÉCIMA QUINTA - DA FORMA DE EXTINÇÃO DO CONTRATO
+
+15.1. A rescisão do contrato ocorrerá motivadamente e com fundamento no art. 137 da Lei nº 14.133/2021, e se dará com
+observância nos artigos 138 e 139 da mesma norma.
+
+15.1.1. No caso de rescisão provocada por inadimplemento da Contratada, o Contratante poderá reter,
+cautelarmente, os créditos decorrentes do contrato até o valor dos prejuízos causados, já calculados ou estimados.
+
+15.2. No procedimento de rescisão contratual, será assegurado o contraditório e a ampla defesa à Contratada, que após
+formalmente intimada, terá o prazo decadencial de 15 dias úteis para manifestação.
+
+16. CLÁUSULA DÉCIMA SEXTA - DO AMPARO LEGAL
+O presente contrato é regido pela Lei nº 14.133/2021 e tudo o que consta nos autos do Processo SEI 2347/2025.
+
+17. CLÁUSULA DÉCIMA SÉTIMA - DOS CASOS OMISSOS
+
+Os casos omissos serão decididos pelo Contratante, segundo as disposições contidas na Lei nº 14.133/2021 e demais
+normas aplicáveis.
+
+18. CLÁUSULA DÉCIMA OITAVA - DO FORO
+
+Fica eleito o foro da cidade de Boa Vista como competente para dirimir dúvidas decorrentes deste contrato, com exclusão
+de qualquer outro, por mais privilegiado que seja.
+
+AMÉLIO VALMIR MARTINI MACHADO (Inserir Nome)
+(inserir cargo)
+
+(Nome da Empresa)
+Representante da Contratada
+
+Diretor de Gestão Administrativa e Financeira
+Representante do Contratante
+
+ei I : Documento assinado eletronicamente por AMELIO VALMIR MARTINI MACHADO, Diretor(a), em 11/09/2025, às
+;?mm"] ª 11:54, conforme horário oficial de Roraima, com fundamento na Resolução TCE/RR nº 06/2018, Portaria da Presidência-
+eletrônica TCE/RR nº 744/2017.
+
+Referência: Processo nº 002347/2025 SEI nº 1115446
+
+

@@ -1,0 +1,4047 @@
+PREFEITURA DE
+
+MONTE ALTO *=
+
+EDITAL Nº 148/2.025
+
+(REGISTRO DE PREÇOS DE MATERIAL DE CONSTRUÇÃO)
+
+PREGÃO ELETRÔNICO Nº 90113/2.025
+
+PROCESSO SA/DL Nº 200/2.025
+
+SEI Nº 1643/2.025-10
+
+LOCAL DA SESSÃO PÚBLICA: Portal de Compras do Governo Federal —
+
+ENDEREÇO ELETRÔNICO: https://www.gov.br/compras/pt-br/
+
+PORTAL NACIONAL DE CONTRATAÇÕES PÚBLICAS — PNCP
+https://pncp.gov.br/app/editais/
+
+UASG: 986727
+
+DATA DO INÍCIO DO PRAZO PARA ENVIO DA PROPOSTA ELETRÔNICA: 12/09/2025
+DATA E HORA DA ABERTURA DA SESSÃO PÚBLICA: 29/09/2025, às 9:00 horas (horário
+
+de Brasília)
+PREÂMBULO
+
+A Sessão Pública de processamento do pregão eletrônico será realizada no
+endereço eletrônico https://www.gov.br/compras/pt-br/, às 9:00 horas (horário de Brasília), do dia
+29 de setembro de 2.025 e havendo a necessidade de prorrogação o Pregoeiro definirá o horário
+de início da segunda sessão.
+
+A reunião será conduzida pelo Pregoeiro, com o auxílio da Equipe de Apoio,
+designados nos autos do processo em epígrafe.
+
+As propostas deverão obedecer às especificações deste instrumento convocatório
+e seus anexos e ser encaminhadas por meio eletrônico após o registro dos interessados em
+participar do certame e o credenciamento de seus representantes no Portal de compras do
+Governo Federal.
+
+Como condição de validade e eficácia, os licitantes deverão praticar seus atos em
+formato eletrônico.
+
+Todas as informações e esclarecimentos a respeito do presente Edital poderão
+ser obtidos no site do Portal de Compras do Governo Federal, https://www.gov.br/compras/pt-br/
+referente ao presente pregão eletrônico, nos campos próprios disponíveis.
+
+Qualquer alteração ulterior será disponibilizada nas páginas da Internet
+www.montealto.sp.gov.br e www.gov.br/compras/pt-br e no Portal Nacional de Contratações
+Públicas (PNCP).
+
+A Prefeita do Município de Monte Alto torna público que se acha aberta nesta
+Prefeitura Municipal, inscrita no CNPJ sob nº. 51.816.247/0001-11, com sede administrativa à
+rua Dr. Raul da Rocha Medeiros, nº. 1.390, licitação na modalidade PREGÃO, na forma
+ELETRÔNICA, do tipo menor preço, do modo aberto e fechado, abrigado nos autos do Processo
+Administrativo nº 200/2.025, conforme estabelecido neste instrumento convocatório.
+
+Todos os procedimentos do presente certame obedecerão a Lei federal nº. 14.133,
+de 1º de abril de 2.021, o Decreto Municipal nº 4.645, de 27 de julho de 2.023.
+
+As propostas deverão atender todas as exigências e especificações constantes
+deste edital e dos anexos que dele fazem parte integrante.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+
+PREFEITURA DE
+
+MONTE ALTO *=
+
+Integram o presente edital:
+
+Anexo |
+
+- Modelo de Proposta Comercial;
+
+Anexo |l
+
+- Termo de Referência;
+
+Anexo |ll
+
+- Minuta da Ata de Registro de Preços;
+
+Anexo |V
+
+- Modelo de Declarações;
+
+Anexo V
+
+- Termo de Opção e Declaração de Microempresa ou Empresa de
+Pequeno Porte; e
+
+Anexo VI
+
+- Decreto Municipal nº 4.645, de 27 de julho de 2.023.
+
+A despesa decorrente da presente licitação será suportada por recurso de dotação
+própria na vigente lei orçamentária, com as seguintes classificações contábeis:
+
+02.14.01.13.392.0052.2126.3.3.90.30.00
+Ficha Analítica nº 1727
+
+02.14.02.04.122.0052.2073.3.3.90.30.00
+Ficha Analítica nº 1759
+
+02.14.02.13.695.0048.2106.3.3.90.30.00
+Ficha Analítica nº 1775
+
+02.14.03.13.392.0023.2045.3.3.90.30.00
+Ficha Analítica nº 1780
+
+02.14.03.13.392.0023.2146.3.3.90.30.00
+Ficha Analítica nº 1796
+
+02.14.03.13.392.0023.2164.3.3.90.30.00
+Ficha Analítica nº 1804
+
+02.02.01.04.122.0003.2007.3.3.90.30.00
+Ficha Analítica nº 098
+
+02.05.01.04.122.0010.2024.3.3.90.30.00
+Ficha Analítica nº 273
+
+02.06.02.12.122.0016.2030.3.3.90.30.00
+Ficha Analítica nº 403
+
+02.06.02.12.361.0016.2031.3.3.90.30.00
+Ficha Analítica nº 448
+
+02.06.02.12.365.0016.2032.3.3.90.30.00
+Ficha Analítica nº 508
+
+02.06.02.12.365.0016.2033.3.3.90.30.00
+Ficha Analítica nº 547
+
+02.06.06.12.306.0017.2036.3.3.90.30.00
+Ficha Analítica nº 638
+
+02.07.02.10.301.0021.2040.3.3.90.30.00
+Ficha Analítica nº 756
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+
+PREFEITURA DE
+
+MONTE ALTO ==
+
+02.07.06.10.303.0021.2104.3.3.90.30.00
+Ficha Analítica nº 958
+
+02.08.01.27.812.0022.2042 .3.3.90.30.00
+Ficha Analítica nº 990
+
+02.08.02.27.812.0024.2050.3.3.90.30.00
+Ficha Analítica nº 1016
+
+02.09.01.08.122.0025.2051.3.3.90.30.00
+Ficha Analítica nº 1047
+
+02.09.07.08.241.0026.2142.3.3.90.30.00
+Ficha Analítica nº 1120
+
+02.11.01.04.122.0036.2075.3.3.90.30.00
+Ficha Analítica nº 1403
+
+02.11.02.20.605.0037 .2076.3.3.90.30.00
+Ficha Analítica nº 1434
+
+02.11.03.18.541.0038.2013.3.3.90.30.00
+Ficha Analítica nº 1457
+
+02.11.03.18.541.0038.2081.3.3.90.30.00
+Ficha Analítica nº 1483
+
+02.12.01.04.122.0039.2082 .3.3.90.30.00
+Ficha Analítica nº 1543
+
+02.12.02.15.451.0040.2083.3.3.90.30.00
+Ficha Analítica nº 1571
+
+02.12.04.15.452.0041.2085.3.3.90.30.00
+Ficha Analítica nº 1611
+
+02.15.03.04.122.0009.2023.3.3.90.30.00
+Ficha Analítica nº 1882
+
+1-DO OBJETO
+
+11 - Constitui objeto deste pregão o registro de preços de material de
+construção para atendimento às diversas secretarias municipais, tudo conforme especificações,
+quantidade estimada e condições estabelecidas neste Edital e Anexos, visando contratações
+futuras.
+
+1.2 - O presente processo de licitação seguirá as seguintes fases, em
+sequência: apresentação de propostas e lances, julgamento, habilitação, resolução de recursos,
+caso houver, adjudicação do objeto licitado e homologação.
+
+2 - DA PARTICIPAÇÃO
+2.1 - Poderão participar deste Pregão interessados cujo ramo de atividade seja
+
+compatível com o objeto desta licitação, e que estejam com Credenciamento regular no Sistema
+de Cadastramento Unificado de Fornecedores — SICAF.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+2.1.1 - As empresas não cadastradas no SICAF que tiverem interesse em
+participar do presente pregão deverão providenciar o seu cadastramento e sua habilitação junto
+ao sítio eletrônico: https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/sicaf-digital.
+
+2.2 - Para os itens: 1 ao 4, do Anexo |, deste Edital, soamente poderão participar
+microempresas e empresas de pequeno porte do ramo de atividade pertinente ao objeto da
+contratação que atenderem a todas as exigências de credenciamento e de habilitação.
+
+2.3 - Para os itens: 5 ao 115, do Anexo |, deste Edital, poderão participar deste
+pregão as empresas interessadas do ramo de atividade pertinente ao objeto da contratação que
+atenderem a todas as exigências de credenciamento e de habilitação.
+
+2.4 - Estarão impedidas de participar as empresas que:
+
+2.4.1 - Que estejam com o direito de licitar e contratar temporariamente suspenso,
+ou que tenham sido impedidas de licitar e contratar com a Administração de Monte Alto, com
+base no artigo 156, inciso IIl, da Lei Federal nº 14.133/21;
+
+2.4.2 - Que tenham sido declaradas inidôneas pela Administração Pública federal,
+estadual ou municipal, nos termos do artigo 156, inciso IV, da Lei Federal nº 14.133/21;
+
+24.3 - Que possuam vínculo de natureza técnica, comercial, econômica,
+financeira, trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente
+público que desempenhe função na licitação ou atue na fiscalização ou na gestão do contrato,
+ou que deles seja cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até
+o terceiro grau, nos termos do inciso IV, do artigo 14, da Lei Federal nº 14.133/21;
+
+2.4.4 - Que, nos 5 (cinco) anos anteriores à divulgação do edital, tenha sido
+condenada judicialmente, com trânsito em julgado, por exploração de trabalho infantil, por
+submissão de trabalhadores a condições análogas às de escravo ou por contratação de
+adolescentes nos casos vedados pela legislação trabalhista, nos termos do inciso VI, do artigo
+14, da Lei Federal nº 14.133/21;
+
+2.4.5 - Que estejam reunidas em consórcio ou sejam controladoras, coligadas ou
+subsidiárias entre si;
+
+2.4.6 - Que tenham sido proibidas pelo Plenário do CADE de participar de
+licitações promovidas pela Administração Pública federal, estadual, municipal, direta e indireta,
+em virtude de prática de infração à ordem econômica, nos termos do artigo 38, inciso Il, da Lei
+Federal nº 12.529/2011;
+
+2.4.7 - Que tenham sido proibidas de contratar com o Poder Público em razão de
+condenação por ato de improbidade administrativa, nos termos do artigo 12 da Lei Federal nº
+8.429/1992;
+
+2.4.8 - Que tenham sido declaradas inidôneas para contratar com a Administração
+Pública pelo Plenário do Tribunal de Contas do Estado de São Paulo, nos termos do artigo 108
+da Lei Complementar Estadual nº 709/1993;
+
+2.4.9 - Que constar qualquer impedimento de contratar com a Administração
+pública no Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS) e o Cadastro Nacional
+de Empresas Punidas (CNEP);
+
+2.5 - A participação no certame está condicionada, ainda, a que o interessado
+declare, ao acessar o ambiente eletrônico de contratações do Portal de Compras do Governo
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+Federal, mediante assinalação nos campos próprios, que inexiste qualquer fato impeditivo de
+sua participação no certame ou de sua contratação, bem como que conhece e aceita os
+regulamentos do Sistema Compras.gov.br, relativos ao pregão eletrônico.
+
+2.6 - A licitante responde integralmente por todos os atos praticados no pregão
+eletrônico, por seus representantes devidamente credenciados, assim como pela utilização da
+chave e senha de acesso ao sistema, ainda que indevidamente, inclusive por pessoa não
+credenciada como sua representante.
+
+2.6.1 - Em caso de perda ou quebra do sigilo da chave de acesso, caberá ao
+interessado — efetuar o seu  cancelamento por meio do  sítio  eletrônico
+https://www.gov.br/compras/pt-br.
+
+2.7 - Cada representante credenciado poderá representar apenas uma licitante
+em cada pregão eletrônico.
+
+2.8 - O envio da proposta vinculará a licitante ao cumprimento de todas as
+condições e obrigações inerentes ao certame.
+
+3 - DO CREDENCIAMENTO
+
+3.1 - O Credenciamento é o nível básico do registro cadastral no Sistema de
+Cadastramento Unificado de Fornecedores — SICAF, que permite a participação dos
+interessados na modalidade licitatória Pregão, em sua forma eletrônica, e dar-se-á pela
+atribuição, pelo órgão provedor, de chave de identificação e de senha, pessoal e intransferível,
+para acesso ao sistema eletrônico.
+
+3.2 - O cadastro no SICAF poderá ser iniciado no Portal de Compras do Governo
+Federal, no sítio https://www.gov.br/compras/pt-br/, com a solicitação de login e senha pelo
+interessado.
+
+3.3 - O credenciamento junto ao provedor do sistema implica a responsabilidade
+do licitante ou de seu representante legal e a presunção de sua capacidade técnica para
+realização das transações inerentes a este Pregão.
+
+3.4 - O uso da senha de acesso pelo licitante é de sua responsabilidade exclusiva,
+incluindo qualquer transação efetuada diretamente ou por seu representante, não cabendo ao
+provedor do sistema, ou à Prefeitura de Monte Alto, promotora da licitação, responsabilidade por
+eventuais danos decorrentes de uso indevido de suas credenciais de acesso, ainda que por
+terceiros.
+
+3.5 - É de responsabilidade do cadastrado conferir a exatidão dos seus dados
+cadastrais no SICAF e mantê-los atualizados junto aos órgãos responsáveis pela informação,
+devendo proceder, imediatamente, à correção ou à alteração dos registros tão logo identifique
+incorreção ou aqueles se tornem desatualizados.
+
+3.6 - Nenhuma pessoa, ainda que munida de procuração, poderá representar mais
+de uma empresa no presente certame, sob pena de exclusão sumária das representadas.
+
+4 - DA PROPOSTA
+4.1 - O licitante deverá encaminhar a proposta, com a descrições dos objetos
+ofertados e preços, por meio do sistema eletrônico, até a data e horário marcados para abertura
+
+da sessão, quando, então, encerrar-se-á automaticamente a etapa de envio dessa
+documentação.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+4.2 - O envio da proposta ocorrerá por meio de chave de acesso e senha.
+
+4.3 - Todas as referências de tempo no Edital, no aviso e durante a sessão pública
+observarão o horário de Brasília — DF.
+
+4.,4 - O licitante será responsável por todas as transações que forem efetuadas em
+seu nome no sistema eletrônico, assumindo como firmes e verdadeiras suas propostas e lances.
+
+4,5 - Incumbirá ao licitante acompanhar as operações no sistema eletrônico
+durante a sessão pública do Pregão, ficando responsável pelo ônus decorrente da perda de
+negócios diante da inobservância de quaisquer mensagens emitidas pelo sistema, de sua
+desconexão ou por sua omissão quando chamado à manifestação via “chat”.
+
+4,6 - Até a abertura da sessão, os licitantes poderão retirar ou substituir as
+propostas apresentadas.
+
+4.7 - O licitante deverá enviar sua proposta mediante o preenchimento, no sistema
+eletrônico, dos seguintes campos:
+
+4.7.1 - Preço correspondente ao valor unitário e total de cada item, de acordo com
+os preços praticados no mercado, conforme estabelece o art. 23 da Lei 14.133/21, em algarismo,
+expresso em moeda corrente nacional (R$), considerando as características constantes do
+Anexo |, deste Edital.
+
+4.8 - Todas as especificações do objeto contidas na proposta vinculam a
+Contratada.
+
+4.,9 - Nos valores propostos estarão inclusos todos os custos operacionais,
+encargos previdenciários, trabalhistas, tributários, comerciais e quaisquer outros que incidam
+direta ou indiretamente sobre o objeto a ser contratado por este Edital.
+
+4.9.1 - As propostas não poderão impor condições e deverão limitar-se ao objeto
+desta licitação, sendo desconsideradas quaisquer alternativas de preço ou qualquer outra
+condição não prevista no Edital e seus anexos.
+
+4.9.2 - Não será admitida cotação de mais de uma marca e quantidade inferior
+prevista neste Edital.
+
+4.9.3 - Quando se tratar de marca que possa identificar o licitante, deverá colocar
+no campo próprio os seguintes dizeres: “marca própria”.
+
+4.10 - Não será estabelecida, nessa etapa do certame, ordem de classificação
+entre as propostas apresentadas, o que somente ocorrerá após a realização dos procedimentos
+de negociação e julgamento da proposta.
+
+4.11 - Os documentos que compõem a proposta do licitante melhor classificado
+somente serão disponibilizados para avaliação do Pregoeiro e para acesso público após o
+encerramento do envio de lances.
+
+4,12- AÀ empresa licitante detentora do menor preço para os itens 50, 70 e 99, do
+Anexo |, deverá apresentar catálogo ou folder ou folheto ou manual de instruções do
+fabricante do equipamento ofertado, em português ou traduzido, contendo informações técnicas,
+que demonstre o atendimento às especificações mínimas solicitadas nas descrições contidas no
+Anexos |l, deste Edital;
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+4.13 - Não serão admitidas ofertas de equipamento fora das especificações do
+objeto licitado, sob pena de desclassificação da proposta.
+
+4.14 - O prazo de validade da proposta será de 60 (sessenta) dias contados a
+partir da data de sua apresentação.
+
+5 - DA DOCUMENTAÇÃO DE HABILITAÇÃO
+
+5.1 - Será exigida apresentação dos seguintes documentos de habilitação, apenas
+pelo(s) licitante(s) vencedor(es):
+
+5.1.1º - HABILITAÇÃO JURÍDICA:
+
+a) Demonstração da capacidade de o  licitante exercer direitos e assumir
+obrigações, por meio da comprovação de sua existência jurídica, através dos seguintes
+documentos, conforme o caso:
+
+b) Prova de registro comercial, no caso de empresa individual;
+
+c) Ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado
+na Junta Comercial, no caso de sociedades mercantis e, no caso de sociedades por ações,
+acompanhado de documentos de eleição de seus administradores, no qual deverá estar
+contemplado, dentre os objetivos sociais, a execução de atividade da mesma natureza ou
+compatíveis com o objeto da licitação.
+
+5.1.2 - Quanto à QUALIFICAÇÃO TÉCNICA OPERACIONAL:
+
+a) Prova que possui conhecimento técnico e experiência prática no fornecimento
+de material de construção ou compatível com o objeto licitado, por meio da apresentação de
+certidão ou atestado expedido necessariamente em nome do licitante;
+
+a.1) Só serão considerados válidos os atestados em papel timbrado, com
+identificação do nome, CNPJ e endereço do emissor. O atestado deverá ser datado e assinado
+por pessoa física, devidamente identificada com o nome, cargo exercido, números de telefone
+e/ou de correio eletrônico para contato, estando as informações sujeitas à conferência pelo
+Pregoeiro.
+
+a.2) O documento de comprovação da capacidade técnica poderá ser objeto de
+diligência, a critério do Pregoeiro, para efeito de complementação das informações ou para
+atestar sua fidedignidade.
+
+a.3) Não será admitido atestado emitido pelo próprio sócio da empresa licitante ou
+por pessoa com vínculo de parentesco direto ou por empresas coligadas.
+
+5.1.3 - REGULARIDADE FISCAL, SOCIAL E TRABALHISTA:
+
+a) Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas do Ministério da
+Fazenda (CNPJ);
+
+b) Prova de inscrição no Cadastro de Contribuintes Estadual ou Municipal, relativo
+
+à sede ou domicílio da licitante, pertinente ao seu ramo de atividade e compatível com o objeto
+do certame;
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+c) Prova de regularidade para com as fazendas: Federal (incluindo as
+contribuições sociais), Estadual (inscritos em dívida ativa) e municipal (mobiliário), ou outras
+equivalentes, na forma da lei;
+
+d) Prova de regularidade perante o Fundo de Garantia por Tempo de Serviço
+(FGTS), por meio da apresentação da CRF - Certificado de Regularidade do FGTS;
+
+e) Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho.
+
+5.1.3.1 - Para efeito de prova de regularidade fiscal, social e trabalhista serão
+admitidas certidões positiva de débitos, com efeito de negativas.
+
+5.1.4 - QUALIFICAÇÃO ECONÔMICA-FINANCEIRA:
+
+5.1.4.1 - Certidão negativa de falência expedida nos últimos 60 (sessenta) dias,
+anteriores à data da realização da sessão pública eletrônica do pregão, expedida pelo distribuidor
+da sede da pessoa jurídica.
+
+5.1.5- Se o licitante for a matriz, todos os documentos deverão estar em nome da
+maitriz, e se for a filial, todos os documentos deverão estar em nome da filial, exceto aqueles
+documentos que, pela própria natureza, comprovadamente, forem emitidos somente em nome
+da matriz.
+
+5.2 - Não serão aceitos “protocolos de entrega” ou “solicitação de documentos”
+em substituição aos documentos ora exigidos, inclusive no que se refere às certidões.
+
+5.3 - Na hipótese de não constar prazo de validade nas certidões apresentadas, a
+Administração aceitará como válidas as expedidas até 60 (sessenta) dias imediatamente
+anteriores à data de apresentação das propostas.
+
+5.4 - Declarações subscritas por representante legal do licitante, elaboradas em
+papel timbrado conforme modelo mostrado no Anexo IV, deste Edital, atestando que:
+
+a) Nos termos do inciso Vl, do artigo 68 da Lei Federal nº 14.133/21, que a
+empresa encontra-se em situação regular perante o Ministério do Trabalho, no que se refere à
+observância do disposto no inciso XXXIII do artigo 7º da Constituição Federal;
+
+b) Estar ciente da obrigação de manter o endereço da empresa atualizado junto à
+Prefeitura de Monte Alto, e de que as notificações e comunicações formais decorrentes da
+execução do contrato (Pedidos de Compra) serão efetuadas através do Sítio Eletrônico da
+Prefeitura e Diário Oficial do Município de Monte Alto e que os recurso administrativos
+decorrentes da execução contratual deverão ser encaminhados exclusivamente pelo correio
+eletrônico licita&gmontealto.sp.gov.br;
+
+c) Para microempresas ou empresas de pequeno porte: que a empresa não possui
+qualquer dos impedimentos previstos nos $$ 4º e seguintes todos do artigo 3º da Lei
+Complementar nº 123 de 14 de dezembro de 2006 e alterações, cujos termos conheço na íntegra;
+
+d) Que tomou conhecimento das reais condições e peculiaridades inerentes ao
+fornecimento dos produtos, bem como coletaram informações de todos os dados e elementos
+necessários à perfeita elaboração da proposta comercial, responsabilizando-se por manter as
+garantias que vincularem a proposta ao presente processo licitatório, em nome da empresa que
+represento e certos de que não nos caberá, a posteriori, nenhuma reclamação de
+desconhecimento do objeto licitado;
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+e) Estar ciente de que, para efeito de processamento da licitação em ambiente
+eletrônico, foram adotados os itens Compras.Gov mais semelhantes ao descrito no Anexo |.
+Havendo divergência entre a descrição do objeto existente no Edital e a utilizada pelo Sistema
+Compras.Gov, deve prevalecer o estabelecido no Edital e seus anexos;
+
+f) De que conhece a obrigação de assinar a Ata de Registro de Preços, para o
+caso de ser adjudicatária no pregão, no prazo definido no Edital e que tem pleno conhecimento
+das sanções previstas nos incisos IV e VI, do art. 155, da Lei Federal nº 14.133/21 e Decreto
+Municipal nº. 4.645, de 27 de julho de 2023, em caso de descumprimento da formalização do
+documento;
+
+g) De que cumpre as exigências de reserva de cargos para pessoa com deficiência
+e para reabilitado da Previdência Social, previstas em lei e em outras normas específicas.
+
+5.5 - Para a comprovação de enquadramento como microempresa ou empresa de
+pequeno porte, as licitantes deverão apresentar:
+
+5.5.1 - Declaração de microempresa ou empresa de pequeno porte que deverá
+ser feita de acordo com o modelo estabelecido no Anexo V, deste Edital;
+
+5.5.2 - quando optante pelo SIMPLES nacional: comprovante da opção pelo
+SIMPLES obtido no sítio da Secretaria da Receita Federal;
+
+5.5.3 - quando não optante pelo SIMPLES nacional: declaração de Imposto de
+Renda ou Balanço Patrimonial e demonstração do resultado do exercício — DRE, comprovando
+ter receita bruta dentro dos limites estabelecidos nos incisos | e |Il, do artigo 3º da Lei
+Complementar nº 123/06.
+
+5.6 - Os documentos de habilitação deverão ser apresentados no original ou por
+qualquer processo de cópia, autenticada por cartório ou por consulta pública em sítios eletrônicos
+de instituições expedidoras ou que a sua autenticidade seja feita por agente da Administração
+municipal, mediante apresentação de original ou de declaração de autenticidade por advogado,
+sob sua responsabilidade pessoal.
+
+5.7 - O reconhecimento de firma somente será exigido quando houver dúvida de
+autenticidade, salvo imposição legal.
+
+5.8 - Não serão aceitos “protocolos de entrega” ou “solicitação de documentos”
+em substituição aos documentos ora exigidos, inclusive no que se refere às certidões.
+
+5.9 - Se algum documento apresentar falha não sanável na sessão, acarretará a
+inabilitação da proponente.
+
+5.10 - O Pregoeiro, a seu critério, diligenciará efetuando consulta direta na Internet
+nos “sites” dos órgãos expedidores para verificar a veracidade de documentos obtidos por este
+meio eletrônico.
+
+6 - DO PROCEDIMENTO E DO JULGAMENTO DAS PROPOSTAS
+
+6.1 - A abertura da presente licitação dar-se-á em sessão pública, por meio de
+sistema eletrônico, na data, horário e local indicados neste Edital.
+
+6.2 - O Pregoeiro verificará as propostas apresentadas, desclassificando desde
+logo aquelas que não estejam em conformidade com os requisitos estabelecidos neste Edital,
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+contenham vícios insanáveis, ilegalidades, ou apresentarem irregularidades ou defeitos capazes
+de dificultar o julgamento.
+
+6.2.1 - A desclassificação se dará por decisão motivada do Pregoeiro, observado
+o disposto no artigo 59, da Lei Federal nº 14.133/21, fundamentada e registrada no sistema, com
+acompanhamento em tempo real por todos os participantes.
+
+6.2.2 - A não desclassificação da proposta não impede o seu julgamento definitivo
+em sentido contrário, levado a efeito na fase de aceitação.
+
+6.3 - O sistema ordenará automaticamente as propostas classificadas, sendo que
+somente estas participarão da fase de lances.
+
+6.4 - Iniciada a etapa competitiva, os licitantes poderão oferecer lances
+sucessivos, exclusivamente por meio do sistema eletrônico, sendo o licitante imediatamente
+informado do seu recebimento e respectivo horário de registro e valor.
+
+6.5 - O lance deverá ser ofertado pelo valor unitário do item.
+
+6.6 - O licitante somente poderá oferecer lance inferior ao último por ele ofertado
+e registrado pelo sistema.
+
+6.6.1 - O intervalo mínimo de diferença de valores entre os lances, que incidirá
+tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor
+oferta, será de R$ 0,01 (um centavo);
+
+6.6.2 - O intervalo entre os lances enviados pelo mesmo licitante não poderá ser
+inferior a vinte (20) segundos e o intervalo entre lances não poderá ser inferior a três (3)
+segundos.
+
+6.7 - Será adotado para o envio de lances no pregão eletrônico o modo de disputa
+“aberto e fechado”, em que os licitantes apresentarão lances públicos e sucessivos, com lance
+final e fechado.
+
+6.8 - A etapa de lances da sessão pública terá duração inicial de 15 (quinze)
+minutos. Após esse prazo, o sistema encaminhará aviso de fechamento iminente dos lances,
+após o que transcorrerá o período de tempo de até 10 (dez) minutos, aleatoriamente
+determinado.
+
+6.9 - Encerrado o prazo previsto no item anterior, o sistema abrirá oportunidade
+para que, em até 5 (cinco) minutos, o autor da oferta de valor mais baixo e os das ofertas com
+preços até 10% (dez por cento) superior àquela possam ofertar um lance final, sigiloso até o
+encerramento deste prazo.
+
+6.9.1 - Não havendo pelo menos três ofertas nas condições definidas neste item,
+poderão os autores dos melhores lances, na ordem de classificação, até o máximo de três,
+oferecer um lance final e fechado em até 5 (cinco) minutos, o qual será sigiloso até o
+encerramento deste prazo.
+
+6.10 - Após o término dos prazos estabelecidos nos itens anteriores, o sistema
+ordenará os lances segundo a ordem crescente de valores.
+
+6.10.1 - Não havendo lance final e fechado classificado na forma estabelecida nos
+itens anteriores, haverá o reinício da etapa fechada, para que os demais licitantes, até o máximo
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+de 3 (três), na ordem de classificação, possam ofertar, em até 5 (cinco) minutos, um lance final
+e fechado, o qual será sigiloso até o encerramento deste prazo.
+
+6.11 - Poderá o Pregoeiro, auxiliado pela equipe de apoio, justificadamente,
+admitir o reinício da etapa fechada, caso nenhum licitante classificado na etapa de lance fechado
+atender às exigências de habilitação.
+
+6.12 - Durante o transcurso da sessão pública, os licitantes serão informados, em
+tempo real, do valor do menor lance registrado, vedada a identificação do licitante.
+
+6.13 - No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva
+do Pregão, o sistema eletrônico poderá permanecer acessível aos licitantes para a recepção dos
+lances.
+
+6.13.1 - Quando a desconexão do sistema eletrônico para o pregoeiro persistir por
+tempo superior a 10 (dez) minutos, a sessão pública será suspensa e reiniciada somente
+decorridas 24 (vinte e quatro) horas após a comunicação do fato aos participantes, no portal de
+Compras do Governo Federal — “Compras.gov.br”.
+
+6.14 - O critério de julgamento adotado será o menor preço unitário, conforme
+definido neste Edital e seus anexos.
+
+6.15 - Caso o licitante não apresente lances, concorrerá com o valor de sua
+proposta e, na hipótese de desistência de apresentar outros lances, valerá o último lance por ele
+ofertado, para efeito de ordenação das propostas.
+
+6.16 - Encerrada a etapa de lances, será efetivada a verificação automática, junto
+à Receita Federal, do porte da entidade empresarial. O sistema identificará em coluna própria as
+microempresas e empresas de pequeno porte, procedendo, à comparação com os valores da
+primeira colocada, se esta for empresa de maior porte, assim como das demais classificadas,
+para o fim de aplicar-se o disposto nos artigos 44 e 45 da Lei Complementar nº 123/06.
+
+6.16.1 - Nessas condições, as propostas de microempresas e empresas de
+pequeno porte que se encontrarem na faixa de até 5% (cinco por cento) acima da proposta ou
+lance de menor preço serão consideradas empatadas com a primeira colocada.
+
+6.16.2 - A melhor classificada nos termos do item anterior terá o direito de
+encaminhar uma última oferta para desempate, obrigatoriamente em valor inferior ao da primeira
+colocada, no prazo de 5 (cinco) minutos controlados pelo sistema, contados após a comunicação
+automática para tanto.
+
+6.16.3 - Caso a microempresa ou a empresa de pequeno porte melhor classificada
+desista ou não se manifeste no prazo estabelecido, serão convocadas as demais licitantes
+microempresa e empresa de pequeno porte que se encontrem naquele intervalo de 5% (cinco
+por cento), na ordem de classificação, para o exercício do mesmo direito, no prazo estabelecido
+no subitem anterior.
+
+6.16.4 - No caso de equivalência dos valores apresentados pelas microempresas
+e empresas de pequeno porte que se encontrem nos intervalos estabelecidos nos subitens
+anteriores, será realizado sorteio entre elas para que se identifique aquela que primeiro poderá
+apresentar melhor oferta.
+
+6.17 - A ordem de apresentação pelos licitantes é utilizada como um dos critérios
+
+de classificação, de maneira que só poderá haver empate entre propostas iguais (não seguidas
+de lances), ou entre lances finais da fase fechada do modo de disputa aberto e fechado.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+6.17.1 - Havendo eventual empate entre propostas ou lances, o critério de
+desempate será aquele previsto no art. 60 da Lei nº 14.133, de 2021, nesta ordem:
+
+6.17.1.1 - disputa final, hipótese em que os licitantes empatados poderão
+apresentar nova proposta em ato contínuo à classificação;
+
+6.17.1.2 - avaliação do desempenho contratual prévio dos licitantes, para a qual
+deverão preferencialmente ser utilizados registros cadastrais para efeito de atesto de
+cumprimento de obrigações previstos nesta Lei;
+
+6.17.1.3 - desenvolvimento pelo licitante de ações de equidade entre homens e
+mulheres no ambiente de trabalho, conforme regulamento;
+
+6.17.1.4 - desenvolvimento pelo licitante de programa de integridade, conforme
+orientações dos órgãos de controle.
+
+6.18 - Encerrada a etapa de envio de lances da sessão pública, o pregoeiro deverá
+encaminhar, pelo sistema eletrônico, contraproposta ao licitante que tenha apresentado o melhor
+preço, para que seja obtida melhor proposta, vedada a negociação em condições diferentes das
+previstas neste Edital.
+
+6.18.1 - A negociação será realizada por meio do sistema, podendo ser
+acompanhada pelos demais licitantes.
+
+6.19 - Sempre que a proposta não for aceita, e antes de o Pregoeiro passar à
+subsequente, haverá nova verificação, pelo sistema, da eventual ocorrência do empate previsto
+nos artigos 44 e 45 da Lei Complementar nº 123/06, seguindo-se a disciplina antes estabelecida.
+
+6.20 - Encerrada a etapa de negociação, o pregoeiro examinará a proposta
+classificada em primeiro lugar quanto à adequação ao objeto e à compatibilidade do preço em
+relação ao máximo estipulado para contratação neste Edital e em seus anexos.
+
+6.21 - O licitante detentor da melhor oferta, no prazo de 2 (duas) horas, contado
+da solicitação efetuada no sistema eletrônico, deverá encaminhar:
+
+6.21.1 - Catálogo, folheto, ou folder, ou manual de instruções do fabricante
+dos equipamentos descritos nos itens 50, 70 e 99, do Anexo |, deste Edital, conforme subitem
+4.12, deste Edital.
+
+6.21.2 - Sua proposta final, que deverá ser formulada nos termos do Anexo | —
+Modelo de Proposta Comercial, ser redigida em língua portuguesa em uma via, sem emendas,
+rasuras, entrelinhas ou ressalvas, devendo a última folha ser assinada pelo licitante ou seu
+representante legal, com a indicação do nome ou razão social da proponente, nº do CNPJ,
+endereço completo telefone, e-mail, bem como o nome e nº do RG de seu representante legal;
+conter a indicação do banco, número da conta e agência do licitante detentor da melhor proposta,
+para fins de pagamento.
+
+6.22 - O Pregoeiro poderá convocar o licitante para enviar documento digital, por
+meio de funcionalidade disponível no sistema, estabelecendo no “chat” prazo mínimo de 2 (duas)
+horas, sob pena de não aceitação da proposta.
+
+6.22.1- O prazo estabelecido pelo Pregoeiro poderá ser prorrogado por solicitação
+
+escrita e justificada do licitante, formulada antes de findo o prazo estabelecido, e formalmente
+aceita pelo Pregoeiro.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+6.23 - Será desclassificada a proposta ou o lance vencedor que:
+
+6.23.1 - Contenha vício insanável ou ilegalidade;
+6.23.2 - Não obedeça às especificações contidas em edital;
+
+6.23.3 - Não tiver sua exequibilidade demonstrada, quando exigido pela
+Administração;
+
+6.23.4 - Que omitir a apresentação do catálogo ou folder ou folheto ou manual de
+instruções do fabricante dos equipamentos descritos nos itens 50, 70 e 99, do Anexo |, deste
+Edital, ofertado ou que estejam em desconformidade com as especificações deste Edital.
+
+6.23.5 - Apresentar desconformidade com quaisquer outras exigências do edital,
+desde que insanável.
+
+6.23.6 - Apresentar preço final superior ao orçamento estimado ou que apresentar
+preço manifestamente inexequível.
+
+6.23.6.1 - Considera-se inexequível a proposta de preços ou menor lance que,
+comprovadamente, for insuficiente para a cobertura dos custos da contratação, apresente preços
+global ou unitários simbólicos, irrisórios ou de valor zero, incompatíveis com os preços dos
+insumos e salários de mercado, acrescidos dos respectivos encargos, exceto quando se
+referirem a materiais e instalações de propriedade do próprio licitante, para os quais ele renuncie
+a parcela ou à totalidade da remuneração.
+
+6.23.6.2 - Se houver indícios de inexequibilidade da proposta de preço, ou em
+caso da necessidade de esclarecimentos complementares, poderão ser efetuadas diligências,
+na forma do &$ 2º do art. 59 da Lei nº 14.133/21.
+
+6.24 - Se a proposta ou lance vencedor for desclassificado, o Pregoeiro examinará
+a proposta ou lance subsequente, e, assim sucessivamente, na ordem de classificação.
+
+6.25 - Havendo necessidade, o Pregoeiro suspenderá a sessão, informando no
+“chat” a nova data e horário para a sua continuidade.
+
+7 - DO PROCEDIMENTO E DO JULGAMENTO DA HABILITAÇÃO
+
+7.1 - Como condição prévia ao exame da documentação de habilitação do licitante
+detentor da proposta classificada em primeiro lugar, o Pregoeiro verificará o eventual
+descumprimento das condições de participação do licitante detentor da proposta classificada em
+primeiro lugar, especialmente quanto à existência de sanção que impeça a participação no
+certame ou a futura contratação, mediante a consulta aos seguintes cadastros:
+
+7.1.1 - SICAF;
+
+7.1.2 - Cadastro Nacional de Empresas Inidôneas e Suspensas — CEIS, mantido
+pela Controladoria-Geral da União;
+
+7.1.3 - Cadastro Nacional de Condenações Cíveis por Atos de Improbidade
+Administrativa, mantido pelo Conselho Nacional de Justiça;
+
+7.1.4 - Lista de Inidôneos, mantida pelo Tribunal de Contas da União — TCU;
+
+7.1.5 - Relação de empresas apenadas pelo Governo do Estado de São Paulo;
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+7.1.6 - Relação de empresas apenadas pela Administração Municipal de Monte
+
+Alto.
+
+T.1.7 - AÀ consulta aos cadastros será realizada em nome da empresa licitante e
+também de seu sócio majoritário, por força do artigo 12 da Lei Federal nº 8.429/1992, que prevê,
+dentre as sanções impostas ao responsável pela prática de ato de improbidade administrativa, a
+proibição de contratar com o Poder Público, inclusive por intermédio de pessoa jurídica da qual
+seja sócio majoritário.
+
+7.1.8 - Constatada a existência de sanção, o Pregoeiro reputará o licitante
+inabilitado, por falta de condição de participação.
+
+7.2 - O julgamento da habilitação, observando as seguintes diretrizes:
+
+a) A habilitação dos licitantes será verificada por meio da apresentação dos
+documentos relativos à habilitação jurídica, à regularidade fiscal, social e trabalhista, à
+qualificação econômica financeira e qualificação técnica exigidos na Cláusula Quinta, deste
+Edital.
+
+a.1) O Pregoeiro poderá valer-se dos documentos de habilitação que constem do
+SICAF, assegurado aos demais licitantes o direito de acesso aos dados constantes dos sistemas.
+
+a.2) Os documentos exigidos para habilitação serão enviados por meio do
+sistema, em formato digital, no prazo de 2 (duas) horas, prorrogável em caso de solicitação
+tempestiva e justificada, contado da solicitação do Pregoeiro.
+
+b) Caso os dados e informações constantes nos documentos de habilitação ou no
+cadastramento no SICAF não atendam aos requisitos estabelecidos no item 5 deste Edital, o
+Pregoeiro verificará a possibilidade de suprir ou sanear eventuais omissões ou falhas mediante
+consultas efetuadas por outros meios eletrônicos hábeis de informações. Essa verificação será
+certificada pelo Pregoeiro na ata da sessão pública, devendo ser anexados aos autos os
+documentos obtidos por meio eletrônico, salvo impossibilidade devidamente certificada e
+justificada;
+
+c) A licitante poderá suprir eventuais omissões ou sanear falhas relativas ao
+cumprimento dos requisitos e condições de habilitação estabelecidos neste Edital mediante a
+apresentação de documentos, preferencialmente via sistema, a ser solicitado pelo Pregoeiro no
+chat do sistema, desde que os envie no curso da própria sessão pública e antes de ser proferida
+decisão sobre a habilitação;
+
+d) A Administração municipal' não se responsabilizará pela eventual
+indisponibilidade dos meios eletrônicos hábeis de informações, no momento da verificação a que
+se refere a alínea “b”, ou dos meios para a transmissão de cópias de documentos a que se refere
+a alínea “C”, ambas deste subitem 7.2, ressalvada a indisponibilidade de seus próprios meios. Na
+hipótese de ocorrerem essas indisponibilidades e/ou não sendo supridas ou saneadas as
+eventuais omissões ou falhas, na forma prevista nas alíneas “b” e “C”, a licitante será inabilitada,
+mediante decisão motivada;
+
+e) a prova de autenticidade de cópia de documento público ou particular poderá
+ser feita perante agente da Administração, mediante apresentação de original ou de declaração
+de autenticidade por advogado, sob sua responsabilidade pessoal;
+
+f)| AÀ comprovação da regularidade fiscal e trabalhista de microempresas,
+
+empresas de pequeno porte ou cooperativas que preencham as condições estabelecidas no
+artigo 34 da Lei Federal nº 11.488/2007 será exigida apenas para efeito de celebração do
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+contrato. Não obstante, a apresentação de todas as certidões e documentos exigidos para a
+comprovação da regularidade fiscal, social e trabalhista será obrigatória na fase de habilitação,
+ainda que apresentem alguma restrição ou impedimento;
+
+f.1) A prerrogativa tratada na alínea “F abrange apenas a regularidade fiscal, social
+e trabalhista do licitante enquadrado como microempresa, empresa de pequeno porte ou
+cooperativa que preencha as condições estabelecidas no artigo 34 da Lei Federal nº
+11.488/2007, não abrangendo os demais requisitos de habilitação exigidos neste Edital, os quais
+deverão ser comprovados durante o certame licitatório;
+
+g) Constatado o cumprimento dos requisitos e condições estabelecidos no Edital,
+a licitante será habilitada e declarada vencedora do certame;
+
+h) Por meio de aviso lançado no sistema, o Pregoeiro informará às demais
+licitantes que poderão consultar as informações cadastrais da licitante vencedora utilizando
+opção disponibilizada no próprio sistema para tanto. O Pregoeiro deverá, ainda, informar o teor
+dos documentos recebidos por meio eletrônico.
+
+7.3- A licitante habilitada nas condições da alínea “F' do item 7.2 deverá comprovar
+sua regularidade fiscal, social e trabalhista sob pena de decadência do direito à contratação, sem
+prejuízo da aplicação das sanções cabíveis, mediante a apresentação das competentes
+certidões negativas de débitos, ou positivas com efeito de negativa, no prazo de 5 (cinco) dias
+úteis, contado a partir do momento em que a licitante for declarada vencedora do certame,
+prorrogável por igual período, a critério da Administração.
+
+7.4 - Ocorrendo a habilitação na forma indicada na alínea “P', do item 7.2, a sessão
+pública será suspensa pelo Pregoeiro, observados os prazos previstos no item 7.3 para que a
+licitante vencedora possa comprovar a regularidade fiscal, social e trabalhista.
+
+7.5 - Por ocasião da retomada da sessão, o Pregoeiro decidirá motivadamente
+sobre a comprovação ou não da regularidade fiscal e trabalhista de que trata o item 7.3, ou sobre
+a prorrogação de prazo para a mesma comprovação.
+
+7.6 - Se a oferta não for aceitável, se a licitante desatender às exigências para a
+habilitação, ou não sendo saneada a irregularidade fiscal e trabalhista, nos moldes dos itens 7.3,
+o Pregoeiro, respeitada a ordem de classificação, examinará a oferta subsequente de menor
+preço, negociará com o seu autor, decidirá sobre a sua aceitabilidade e, em caso positivo,
+verificará as condições de habilitação e assim sucessivamente, até a apuração de uma oferta
+aceitável cujo autor atenda aos requisitos de habilitação, caso em que será declarado vencedor.
+
+7.7 - Serão convocados os demais licitantes classificados para participar de nova
+sessão pública do pregão, com vistas à celebração da contratação, quando a adjudicatária deixar
+de apresentar no prazo estabelecido os documentos de habilitação, nos termos do subitem 7.3,
+do Edital.
+
+7.8 - A Administração municipal poderá exigir o reconhecimento de firma em
+documento que restar dúvida de autenticidade.
+
+8 - DA ATA, DO PRAZO DE VALIDADE E DO CANCELAMENTO DO REGISTRO
+DOS PREÇOS.
+
+8.1 - A ata de registro de preços, documento vinculativo e obrigacional, com
+característica de compromisso para futura contratação, no qual serão registrados o objeto e os
+preços, para o licitante, será subscrita pelo convocado e pela autoridade municipal, no prazo de
+3 (três) dias úteis, contados da notificação publicada em resumo no Diário Oficial do Município.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+8.1.1 - O licitante convocado que deixar de assinar a ata no prazo fixado, dela será
+excluído. A recusa equivale à infração prevista no artigo 156 da lei federal nº 14.133/21,
+sujeitando-o à aplicação da multa fixada no artigo 35, do Decreto Municipal nº 4.645, de 27 de
+julho de 2.025.
+
+8.1.2 - Será registrado somente o preço do licitante vencedor do certame.
+
+8.1.3 - O preço registrado somente será alterado na hipótese prevista no inciso |,
+alínea d, do artigo 124, da Lei federal nº 14.133/21.
+
+8.1.4 - A ata de registro de preço implicará em compromisso de fornecimento nas
+condições estabelecidas neste Edital, mas não obrigará a Administração municipal a contratar.
+
+8.1.5- A Prefeitura de Monte Alto será a única contratante do fornecimento dos
+produtos de preços registrado.
+
+8.2 - O registro de preços terá validade de 1 (um) ano, cujo prazo iniciar-se-á a
+partir da data da publicação da respectiva ata.
+
+8.2.1 - O prazo de vigência da ata de registro poderá ser prorrogado, por igual
+período, desde que comprovado o preço vantajoso para a Administração Municipal.
+
+8.3 - O cancelamento do registro de preços ocorrerá quando o fornecedor:
+
+8.3.1 - recusar-se a retirar o instrumento contratual equivalente, no prazo
+estabelecido, sem justificativa aceitável;
+
+8.3.2 - não aceitar reduzir o seu preço registrado, na hipótese deste se tornar
+superior àqueles praticados no mercado;
+
+8.3.3 - for declarado inidôneo ou impedido de contratar com a Administração, nos
+termos dos artigos 7º. e 87, respectivamente, das Lei Federais nº. 8.666/93, alterada
+posteriormente, Lei Federal nº. 10.520/02 e art. 156, do Lei federal nº 14.133/21.
+
+8.3.4 — descumprir sua obrigação para a entrega dos produtos de preços
+registrados, relacionados nos Pedidos de Compra emitidos, dentro do prazo fixado.
+
+8.3.5 - Ocorrendo culpa da empresa fornecedora, em caso de cancelamento da
+ata de registro de preços, será aberto procedimento administrativo para aplicação das sanções
+previstas no artigo 156, da Lei Federal nº 14.133/21.
+
+9 - DA CONTRATAÇÃO E DA GARANTIA
+
+9.1 - Contado a partir da data da notificação publicada em resumo no Diário Oficial
+do Município, os fornecedores dos bens nela incluídos, terão o prazo máximo de 3 (três) dias
+úteis para assinar a ata de registro de preços.
+
+9.1.1 - O prazo fixado no item anterior admite prorrogação apenas uma única vez,
+desde que por igual período e que o convocado apresente convincente justificativa até o último
+dia do primeiro período de tempo.
+
+9.1.2 - A recusa injustificada do adjudicatário em assinar a ata de registro de
+preços no prazo estabelecido caracterizará o descumprimento total da obrigação assumida e o
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+sujeitará às penalidades legalmente estabelecidas e à imediata perda da garantia de proposta,
+nos termos do & 5º, do artigo 90, da Lei federal nº 14.133/21.
+
+9.2 - Não será exigida a prestação de garantia contratual, conforme faculdade
+esculpida no artigo 96, da Lei Federal nº 14.133/21.
+
+9.3 - Se, por ocasião da formalização da ata, as certidões de regularidade de
+débito da adjudicatária perante o Sistema de Seguridade Social (INSS), o Fundo de Garantia por
+Tempo de Serviço (FGTS) e a Fazenda Nacional, estiverem com os prazos de validade vencidos,
+a Unidade requisitante do órgão licitante verificará a situação por meio eletrônico hábil de
+informações, certificando nos autos do processo a regularidade e anexando os documentos
+passíveis de obtenção por tais meios, salvo impossibilidade devidamente justificada.
+
+9.4 - Se não for possível atualizá-las por meio eletrônico hábil de informações, o
+fornecedor será notificado para, no prazo de 2 (dois) dias úteis, comprovar a sua situação de
+regularidade de que trata este item, mediante a apresentação das certidões respectivas com
+prazos de validade em vigência, sob pena de a contratação não se realizar.
+
+9.5 - O registro de preços na ata não obriga a Prefeitura Municipal de Monte Alto
+a firmar as contratações que dele poderão advir, ficando-lhe facultada a utilização de outros
+meios, respeitada a legislação vigente, assegurando-se ao beneficiário do registro a preferência
+de contratação em igualdade de condições.
+
+10 - DO FORNECIMENTO DO OBJETO DA LICITAÇÃO
+
+10.1 - O objeto desta licitação deverá ser entregue em até 10 (dez) dias corridos,
+contados a partir do recebimento do Pedido de Compra, no Almoxarifado Municipal, localizado
+na Rua dos Lírios, nº 495, correndo por conta da contratada todas as despesas de transporte,
+embalagem, tributos, encargos trabalhistas e previdenciários decorrentes.
+
+10.2 - Só serão emitidos atestados de recebimento se os produtos entregues
+estiverem plenamente de acordo com as especificações constantes deste edital e seus anexos.
+
+10.3 - As parcelas deverão ser entregues em quantidades de acordo com as
+necessidades de consumo, acompanhada da nota fiscal.
+
+10.4 - AÀ empresa adjudicatária obriga-se a entregar qualquer que seja a
+quantidade dos produtos registrados, não sendo admitido o acúmulo de pedidos para entrega
+posterior.
+
+10.5 - Só serão emitidos atestados de recebimento se os produtos entregues
+estiverem plenamente de acordo com as especificações constantes deste edital e seus anexos.
+
+11 - DO RECEBIMENTO DO OBJETO DA LICITAÇÃO
+
+11.1 - Na impossibilidade de se examinar detalhadamente os produtos no
+momento da entrega, estes serão recebidos provisoriamente em até 5 (cinco) dias úteis da data
+do feito, cuja comprovação dar-se-á através de aposição de carimbo próprio em qualquer espaço
+da nota fiscal.
+
+11.2- O recebimento definitivo do objeto dar-se-á no prazo de 5 (cinco) dias úteis,
+após o recebimento provisório, desde que o responsável pela tarefa conclua pela conformidade
+e aceitação das especificações e quantidades contratadas, mediante recibo passado no verso
+do documento fiscal correspondente.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+11.2.1 - Na hipótese de confirmação de defeitos ou divergências quanto às
+características dos produtos contratados, será concedido o prazo de 5 (cinco) dias corridos para
+a sua substituição, vedada a aplicação de qualquer penalidade durante esse período.
+
+11.2.2 - Caso seja constatada diferença a menor de quantidades, o prazo máximo
+para a complementação será de 5 (cinco) dias, com início a partir da notificação.
+
+12 - DA FORMA DE PAGAMENTO
+
+12.1 - O pagamento pelo fornecimento do objeto desta licitação será efetuado em
+30 (trinta) dias, contados a partir da efetiva entrega dos produtos, atestada pelo recibo de que
+trata o item 11.2 anterior.
+
+12.2 - O pagamento será processado através de ordem ou depósito bancário em
+conta corrente indicada pela empresa contratada.
+
+12.3 - Não será iniciada a contagem de prazo, caso os documentos fiscais
+apresentados ou outros necessários à liquidação da despesa contenham incorreções.
+
+12.4 - AÀ contagem do prazo para pagamento considerará dias corridos e terá início
+e encerramento em dias de expediente normal na sede administrativa da Prefeitura Municipal de
+Monite Alto.
+
+12.5- O pagamento efetuado em desacordo com o estabelecido no antecedente
+item 13.1, será compensado por juros moratórios, à razão de 0,5% (meio por cento) ao mês,
+calculados “pró rata tempore" em relação ao atraso verificado.
+
+12.6 - Nos termos do Decreto Municipal nº 4.655, publicado no Diário Oficial do
+Município no dia 4 de agosto de 2023, que regulamenta a IN RFB 1234/2012, o Município de
+Monte Alto efetuará as RETENÇÕES RELATIVAS AO IMPOSTO DE RENDA incidente sobre o
+fornecimento de bens e prestações de serviços, conforme alíquotas dispostas na tabela anexa
+ao referido decreto.
+
+13 - DAS SANÇÕES
+
+13.1 - Ficará impedida de licitar e contratar com a Prefeitura Municipal de Monte
+Alto, bem como o descredenciamento no SICAF, pelo prazo de 3 (três) anos, ou, enquanto
+perdurarem os motivos determinantes da punição, a pessoa física ou jurídica que praticar
+quaisquer atos previstos no artigo 155, da Lei Federal nº 14.133/21 e do Decreto Municipal nº.
+4.645, de 27 de julho de 2023.
+
+13.2 - A sanção de que trata o item anterior poderá ser aplicada juntamente com
+as multas moratórias previstas no Decreto nº. 4.645, de 27 de julho de 2023, integrante deste
+Edital, garantido o exercício da prévia e ampla defesa.
+
+14 - DA IMPUGNAÇÃO AO EDITAL, DO RECURSO, DA ADJUDICAÇÃO E DA
+HOMOLOGAÇÃO
+
+14.1 - Com até 3 (três) dias úteis anteriores da data fixada para a abertura do
+
+certame, qualquer pessoa poderá solicitar esclarecimentos, providências ou impugnar o ato
+convocatório do pregão eletrônico.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+14.2 - As impugnações e os pedidos de esclarecimentos serão formulados por
+meio eletrônico, em campo próprio do sistema ou através do correio eletrônico
+licitaQgmontealto.sp.gov.br. As impugnações e os pedidos de esclarecimentos não suspendem
+OS prazos previstos no certame.
+
+14.2.1 - As impugnações serão decididas pelo subscritor do Edital e os pedidos
+de esclarecimentos respondidos pelo Pregoeiro ou Unidade Requisitante no prazo de até 3 (três)
+dias úteis limitado ao dia útil anterior à data fixada para a abertura do certame.
+
+14.2.2 - Acolhida a impugnação contra o ato convocatório, será designada nova
+data para realização da sessão pública, se for o caso.
+
+14.3 - A entrega da proposta, sem que tenha sido tempestivamente impugnado o
+edital, implicará na plena aceitação, por parte dos interessados, das condições nele
+estabelecidas.
+
+14.4 - Divulgado o vencedor ou, se for o caso, saneada a irregularidade fiscal e
+trabalhista nos moldes dos itens 7.2 a 7.4, o Pregoeiro informará às licitantes por meio de
+mensagem lançada no sistema que poderão interpor recurso, imediata e motivadamente, por
+meio eletrônico, utilizando exclusivamente o campo próprio disponibilizado no sistema.
+
+14.5 - Havendo interposição de recurso o Pregoeiro informará aos recorrentes que
+poderão apresentar memoriais contendo as razões recursais no prazo de 3 (três) dias úteis após
+o encerramento da sessão pública, sob pena de preclusão. Os demais licitantes poderão
+apresentar contrarrazões ao(s) recurso(s) interposto(s) no prazo comum de 03 (três) dias úteis
+contados a partir do término do prazo para apresentação, pelo(s) recorrente(s), dos memoriais
+recursais, sendo-lhes assegurada vista aos autos do processo no endereço indicado no
+preâmbulo deste Edital.
+
+14.6 - Os recursos e as contrarrazões serão oferecidos por meio eletrônico no sítio
+WWW.gov.br/compras/pt-br, opção “RECURSO”. A apresentação de documentos relativos às
+peças antes indicadas, se houver, será efetuada mediante protocolo dentro dos prazos
+estabelecidos no item 14.5.
+
+14.7 - A falta de interposição do recurso na forma prevista no item 14.6 importará
+na decadência do direito de recorrer, podendo o Pregoeiro declarar o vencedor do certame na
+própria sessão pública e, em seguida, propor à autoridade competente os atos de adjudicação e
+homologação do procedimento licitatório.
+
+14.8 - O recurso terá efeito suspensivo e o seu acolhimento importará a
+invalidação dos atos insuscetíveis de aproveitamento.
+
+15 - DAS DISPOSIÇÕES FINAIS
+
+15.1 - As normas disciplinadoras desta licitação serão interpretadas em favor da
+ampliação da disputa, respeitada a igualdade de oportunidade entre as licitantes, desde que não
+comprometam o interesse público, a finalidade e a segurança da contratação.
+
+15.2 - Os casos omissos serão solucionados pelo Pregoeiro e as questões
+relativas ao sistema, pelo Portal de Compras do Governo Federal.
+
+15.3 - Das sessões públicas de processamento do pregão serão lavradas atas
+circunstanciadas a serem assinadas pelo Pregoeiro.
+
+15.4 - O sistema manterá sigilo quanto à identidade das licitantes:
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+15.4.1 - Para o Pregoeiro, até a etapa de negociação com o autor da melhor oferta;
+
+15.4.2 - Para os demais participantes, até a etapa de habilitação;
+
+15.5 - Será excluído do certame o licitante que, por quaisquer meios, antes ou
+durante a sessão pública, franqueie, permita ou possibilite a sua identificação para a
+Administração municipal, para o Pregoeiro ou para os demais participantes em qualquer
+momento, desde a publicação do aviso até a conclusão da etapa de negociação, especialmente
+no preenchimento do formulário eletrônico para a entrega das propostas.
+
+15.6 - A exclusão de que trata o item anterior dar-se-á por meio de
+desclassificação do licitante na etapa "Análise de Propostas" e/ou pela não aceitabilidade do
+preço pelo Pregoeiro na etapa "Análise da Aceitabilidade de Preço”".
+
+15.7 - No julgamento das propostas e da habilitação, o Pregoeiro poderá sanar
+erros ou falhas que não alterem a substância das propostas, dos documentos e sua validade
+jurídica, mediante despacho fundamentado, registrado em ata e acessível a todos, atribuindo-
+lhes validade e eficácia para fins de habilitação e classificação.
+
+15.7.1 - As falhas passíveis de saneamento na documentação apresentada pelo
+licitante são aquelas cujo conteúdo retrate situação fática ou jurídica já existente na data da
+abertura da sessão pública deste pregão eletrônico.
+
+15.7.2 - O desatendimento de exigências formais não essenciais não importará no
+afastamento do licitante, desde que seja possível o aproveitamento do ato, observados os
+princípios da isonomia e do interesse público.
+
+15.8 - Ao licitante caberá acompanhar as operações no sistema eletrônico, durante
+a sessão pública, respondendo pelos ônus decorrentes de sua desconexão ou da inobservância
+de quaisquer mensagens emitidas pelo sistema ou pelo Pregoeiro, via chat.
+
+15.9 - O resultado deste pregão e os demais atos pertinentes a esta licitação,
+sujeitos à publicação, serão divulgados no Portal Nacional da Contratações Públicas — PNCP,
+no Diário Oficia do Município e nos sítios eletrônicos: www.montealto.sp.gov.br. e
+https://www.gov.br/compras/pt-br.
+
+15.10 - Os prazos indicados neste Edital em dias corridos, quando vencidos em
+dia não útil, prorrogam-se para o dia útil subsequente.
+
+15.11 - Para dirimir quaisquer questões decorrentes desta licitação, não resolvidas
+na esfera administrativa, será competente o foro da Comarca de Monte Alto.
+
+Monte Alto, 11 de setembro de 2.025.
+
+Maria Helena Aguiar Rettondini
+Prefeita
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+ANEXO | - MODELO DE PROPOSTA COMERCIAL
+
+PREGÃO ELETRÔNICO Nº 90113/2.025
+PROC. SA/DL Nº 200/2.025
+
+Objeto: Registro de preços de materiais hidráulicos.
+
+Apresentamos nossa proposta para o registro de preços dos produtos a seguir relacionados, de
+conformidade com as regras editalícias estabelecidas no edital pertinente:
+
+Valor Unitário Valor
+Marca
+
+Descrição (*) . | Unidade Ofertado Subtotal
+
+Ofertada R$ R$
+
+Itens exclusivos para microempresas e empresas de pequeno porte
+
+1 Arame galvanizado nº 16 165 Rolo 2Kg
+Arame Recozido nº 18, rolo, ;
+2 1,24mm 190 | Quilograma
+
+Arco de serra; com arco para
+lâmina 12"; e cabo fechado em
+3 alumínio com pintura 16 Unidade
+eletrostática; de profundidade
+de corte 90 mm
+
+Argamassa externa, saco com
+
+20 quilos 420 Saco 20kg
+
+Itens abertos à participação de todas as licitantes interessadas
+
+Big Bag, Medida:
+1,20x0,90x0,90cm no material
+5 Ráfia. (Balancim de 600 Unidade
+Sustentacao Tipo Big
+Bag,1.000 Kg ou superior)
+
+Areia fina - usada em rebocos,
+
+6 fabricação de concreto/mist. 760 M?
+argamassa.
+
+7 Areia média lavada 780 M?
+Bloco baiano de 8 furos - 9 X
+
+8 19 X 19 - Bloco cerâmico de 74000 Unidade
+vedação.
+
+Broca para Madeira 3 Pontas
+3,4,5,6,/7,8,9e 10 mm -
+(conjunto com 8 peças) - Ponta
+Espiral Duplo - Ponta
+centralizadora. Uso Indicado:
+
+9 madeira, madeira dura, 1020 Unidade
+madeira maciça, madeira
+macia, placas de aglomerado
+de madeira, contraplacado,
+placas de madeira
+estratificadas.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+MONTE ALTO
+
+sm
+F
+
+10
+
+Broca aço rápido HSS, longa,
+para metais 2mm x 49mm
+
+1500
+
+Unidade
+
+11
+
+Broca aço rápido HSS, longa,
+para metais 4mm x 7omm
+
+1500
+
+Unidade
+
+12
+
+Broca aço rápido HSS, longa,
+para metais Gmm x 93mm
+
+1500
+
+Unidade
+
+13
+
+Broca aço rápido HSS, longa,
+para metais g8mm x 165mm
+
+1500
+
+Unidade
+
+14
+
+Broca Wiídea em cruz para
+concreto( conjunto com 5
+peças), 4,5,6,8 E 10mm.
+
+7TO
+
+Unidade
+
+15
+
+Bucha de 10mm com anel
+
+3000
+
+Unidade
+
+16
+
+Bucha de 6mm com anel
+
+3000
+
+Unidade
+
+117
+
+Bucha de 8mm com anel
+
+4000
+
+Unidade
+
+18
+
+Cabo para Enxada, Madeira de
+Eucalipto, com Comprimento
+entre 1,50 mt e 1,80 mt
+
+161
+
+Unidade
+
+19
+
+Caçamba, Masseira para
+concreto, Caixa Masseira
+Pedreiro Construção 20 Litros
+em Aço Reforçado SFO04
+
+45
+
+Unidade
+
+20
+
+Cadeado 25mm - Cadeado de
+Latão Maciço, de 25omm, Haste
+de Aco, Cromado
+
+108
+
+Unidade
+
+21
+
+Cadeado 30mm - Cadeado de
+Latão Maciço, de 30mm, Haste
+de Aco Cromado Ou Similar
+
+108
+
+Unidade
+
+22
+
+Cadeado 40mm - Cadeado,
+Latão, Largura Min 40mm,
+Altura Min 338mm, Espessura
+Min 12mm
+
+152
+
+Unidade
+
+23
+
+Cadeado 50mm - Cadeado
+Latão Maciço 50 Mm 5 Pinos
+Haste de 50 Mm Segredo
+Único
+
+152
+
+Unidade
+
+24
+
+Caixa masseira reforçada com
+capacidade de 40 litros. PVC
+
+Unidade
+
+25
+
+Cal hidratado - saco c/ 20
+quilos
+
+2260
+
+Saco 20Kg
+
+26
+
+Carrinho gari/Coletora plástica
+com rodas e capacidade de
+120L.
+
+80
+
+Unidade
+
+27
+
+Carriola para pedreiro em
+chapa c/ pneu de câmara.
+
+54
+
+Unidade
+
+28
+
+Cavadeira universal articulada
+com cabo de madeira.
+
+27
+
+Unidade
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+29
+
+Colher de pedreiro nº 08. Em
+aço SAE 9"
+
+5 Unidade
+
+30
+
+Colher de pedreiro nº 09. Em
+aço SAE 9"
+
+34 Unidade
+
+31
+
+Conector grampo para haste
+cobreada. Utilizado em fixação
+de cabos junto à haste de
+aterramento de 1/2" ou 5/8".
+
+101 Unidade
+
+32
+
+Disco de Corte Metal e Inox 9"X
+5/64 X 7/8"
+
+100 Unidade
+
+33
+
+Disco de Corte Metal e Inox 4
+1/2" X 1,2mm X 7/8" (114mm X
+1,2mm X 22mm), corte fino, de
+1,0Omm a 1,2mm espessura.
+
+100 Unidade
+
+34
+
+Disco diamantado segmentado,
+disco de Corte, 110 v 20mm,
+com furo central.
+
+50 Unidade
+
+35
+
+Disco diamantado turbo 4", 110
+x 20mm.
+
+10 Unidade
+
+36
+
+Disco lâmina serra circular para
+madeira 110 x 20mm 40 dentes
+
+5 Unidade
+
+37
+
+Enxada; Em Aco Temperado
+Sae 1045, Forjada; Com
+Tamanho Aproximado de (224
+x 296)mm, Olho Redondo; Com
+Cabo de Cabo Medindo 1,30m
+de Comprimento e até 40mm
+de Diametro,1,5 lb e Com
+Cunha;
+
+200 Unidade
+
+38
+
+Enxadão em ferro,
+278xX105mm, com cabo de
+madeira. 2,5/3,0 libras
+
+63 Unidade
+
+39
+
+Escada extensível de alumínio
+2 X 7 acoplados lado a lado
+,altura aproximada fechada
+2,40m, altura aproximada
+aberta 2,20m,com trava de
+segurança nos degraus,
+antiderrapante. (7 degraus)
+
+12 Unidade
+
+40
+
+Escada Extensível De Alumínio
+Capacidade: 150 KG
+
+Tipo Sapata: Borracha
+Antiderrapante
+
+Tipo Degraus: 2 X 13
+Quantidade Degraus: 26 UN
+Altura Fechada: 4,16 M
+Altura Aberta: 3,89 M
+Material: Alumínio
+
+Altura Estendida: 6,88 M
+Características Adicionais:
+Rodízios Na Parte Superior
+
+10 Unidade
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+41
+
+Escala métrica de madeira,
+dobrável, com 2 metros,
+graduação em milímetros e
+polegadas e com alto nível de
+precisão.
+
+30 Unidade
+
+42
+
+Fechadura externa para porta
+de ferro - Externa
+
+40mm ,cilindro 55mm,espessura
+Da Porta 20 a 35mm;
+Fabricada Em Aco; Maçaneta
+Em Formato Alavanca.
+
+90 Conjunto
+
+43
+
+Fechadura externa para porta
+de madeira - Fechadura de
+Embutir Em Aco Inoxidavel,
+Fech. Externa, Macaneta Alav.
+
+90 Conjunto
+
+44
+
+Ferro CA 50 diâmetro 10,0
+mm(3/8"), barra c/ 12 metros.
+Vergalhão..
+
+620 BR12M
+
+45
+
+Ferro CA 50 diâmetro 12,5 mm
+(1/2"), barra c/ 12 metros.
+Vergalhão.
+
+460 BR12M
+
+46
+
+Ferro CA 60 diâmetro 5 mm,
+barra c/ 12 metros. Vergalhão.
+
+620 BR12M
+
+47
+
+Ferro CA 50 diâmetro 6,3 mm
+(1/4"), barra c/ 12 metros.
+Vergalhão.
+
+780 BR12M
+
+48
+
+Ferro CA 50 diâmetro 8,0 mm
+(5/16"), barra c/ 12 metros.
+Vergalhão.
+
+470 BR12M
+
+49
+
+Forcado com Cabo, 4 Dentes,
+Aço Carbono
+Temperado (FORCADO RETO)
+
+130 Unidade
+
+50
+
+Furadeira de impacto 5/8",
+controle de velocidade,
+velocidade variável, rotação
+reversível, 2 velocidades
+mecânicas, limitador de torque,
+potência a partir de 1010W.
+APRESENTAR CATÁLOGO
+
+5 Unidade
+
+51
+
+Gadanho Em Ferro Com 4
+Dentes e Cabo Em Madeira
+(FORCADO CURVO)
+
+26 Unidade
+
+52
+
+Garrafão Térmico Capacidade
+3,0 L, com tampa rosqueável,
+polipropileno.
+
+42 Unidade
+
+53
+
+Garrafão Térmico Capacidade
+5,0 L, Corpo Polietileno,
+Revest. Interno, Polip.copol.,
+azul - Botijão térmico.
+
+65 Unidade
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+54
+
+Garrafão Térmico Capacidade
+12,0 L, Em Polipropileno,
+C/alca, dupla camada, Azul,
+Cltripés - Botijão térmico.
+
+17 Unidade
+
+55
+
+Grampo galvanizado para
+cercas 9 X 1" - sacos 01 Kg,
+usado em reforço de arame
+farpado e telas.
+
+26 Pacote 1Kg
+
+56
+
+Guia de Concreto, medida
+aproximada até (30 X 80 X
+10)OM, Resistência
+200KGF/CM? - (Guia Meio Fio).
+
+150 Unidade
+
+57
+
+Guia de Concreto 1M X
+0,380CM
+
+100 Unidade
+
+58
+
+Haste de aterramento cobreada
+10,0mm X 2,4 metros com
+conector
+
+50 Unidade
+
+59
+
+Lápis de carpinteiro retangular.
+
+52 Unidade
+
+60
+
+Lima chata 8 polegadas, sem
+cabo, caixa com 12 peças.
+
+4 Conjunto
+
+61
+
+Lima; de Aço Temperado;
+Medindo 8"; Modelo de Enxada;
+203mm, com cabo.
+
+T7 Unidade
+
+62
+
+Linha de nylon 100 metros - Kit
+
+de Acessorios P/pedreiro, Linha
+Em Nylon Tipo Liso, Rolo de 0,
+
+80mm
+
+Carretel
+
+55 100M
+
+63
+
+Mangueira de nivel 3/8, flexível,
+PVC, atóxica e cristal
+transparente.
+
+5300 M
+
+64
+
+Marreta oitavada de 1Kg com
+cabo de madeira.
+
+28 Unidade
+
+65
+
+Martelo orelha, tipo unha
+carpinteiro com cabo de
+madeira, corpo cromado, aço
+carbono 27mm.
+
+34 Unidade
+
+66
+
+Metro de madeira simples,
+dobrável, de 1 metro.
+
+30 Unidade
+
+67
+
+Nivel manual de alumínio -
+Nivel de Mao, Aluminio, Perfil
+T, 35cm, 2 Bolhas
+
+24 Unidade
+
+68
+
+Pá de bico, pintura eletrostática
+a pó, na cor preta, com cabo de
+madeira de 71 cm.
+
+52 Unidade
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+
+MONTE
+
+PREFEITURA DE
+
+ALTO
+
+sm
+F
+
+69
+
+Pá de bico, pintura eletrostática
+a pó, na cor preta, sem cabo.
+
+30 Unidade
+
+7TO
+
+Parafusadeira/furadeira, 1/2"
+com 2 baterias, 20V Li-lon e
+carregador bivolt.
+
+APRESENTAR CATÁLOGO
+
+6 Unidade
+
+TI
+
+Parafuso Philips Rosca
+Chipboard Cabeça Chata 4,0 X
+40 MM
+
+3100 Unidade
+
+72
+
+Parafuso Philips Rosca
+Chipboard Cabeça Chata 5,0 X
+50 MM
+
+3100 Unidade
+
+73
+
+Parafuso Philips Rosca
+Chipboard Cabeça Chata 6,0 X
+TO MM
+
+3100 Unidade
+
+TA
+
+Parafuso sextavado rosca
+soberba 1/4 x 60Omm com
+bucha e arruela.
+
+3100 Unidade
+
+T5
+
+Parafuso sextavado rosca
+soberba 3/16 x 50mm com
+bucha e arruela.
+
+3100 Unidade
+
+76
+
+Parafuso modelo escápula
+zincado 6 - 3/4 x 57mm ou
+similar com bucha.
+
+3100 Unidade
+
+T7
+
+Parafuso modelo pitão zincado
+5,5 x TOmMM
+
+1000 Unidade
+
+78
+
+Pedra brita nº 2
+
+1400 M?
+
+ráo)
+
+Pedra brita nº 3
+
+1100 M?
+
+80
+
+Pedra brita O,tipo pedrisco
+limpo e seco Pedrisco
+Prov.britamento de Pedra
+P/bloco, Pontiagudo, Fino
+(PEDRA PARA CONCRETO 0)
+
+1245 M?
+
+81
+
+Peneira de café, aro 80 cm e
+borda de madeira.
+
+27 Unidade
+
+82
+
+Peneira de feijão Aro 70 cm e
+borda de madeira.
+
+24 Unidade
+
+83
+
+Picareta chibanca c/ cabo de
+madeira com aproximadamente
+largura 20cm X altura 100cm.
+
+29 Unidade
+
+84
+
+Pó de Pedra Brita - pedra brita
+3/8
+
+1390 M?
+
+85
+
+Prego 12 x 12
+
+20 Pacote 1Kg
+
+86
+
+Prego 13 x 18
+
+20 Pacote 1Kg
+
+87
+
+Prego 15 x 15
+
+25 Pacote 1Kg
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+88
+
+Prego 17 x 21
+
+46 Pacote 1Kg
+
+89
+
+Prego 18 x 24
+
+46 Pacote 1Kg
+
+90
+
+Prego 19 x 27
+
+46 Pacote 1Kg
+
+91
+
+Prego 22 x 42
+
+46 Pacote 1Kg
+
+92
+
+Prego 22 x 48
+
+40 Pacote 1Kg
+
+93
+
+Prego 24 x 60
+
+45 Pacote 1Kg
+
+94
+
+Prego 25 x 72
+
+40 Pacote 1Kg
+
+95
+
+Rebite de repuxo 3,2 x 12mm
+
+3000 Unidade
+
+96
+
+Rebite de repuxo 4,0 x 16mm
+
+3000 Unidade
+
+97
+
+Régua de alumínio para
+pedreiro de 2m.
+
+20 Unidade
+
+98
+
+Régua para pedreiro de
+alumínio de 3m.
+
+19 Unidade
+
+99
+
+Serra elétrica/Motoserra portátil
+tipo Sabre 6', maleta e baterias
+20V. Capacidade de corte
+51mm, bivolt. Itens inclusos: 01
+motoserra,02 baterias 20V, 01
+carregador bivolt, 01 chave
+biela, 01 chave philips e 01
+frasco aplicação de óleo.
+APRESENTAR CATÁLOGO
+
+2 Unidade
+
+100
+
+Tábua de madeira com
+medidas aproximadas de 30cm
+largura X 2,5cm espessura X
+3,00 metros comprimento.
+
+7T7TO Unidade
+
+101
+
+Tesoura de poda de galhos
+secos com cabo telescópico.
+Tesourão de jardim em aço
+carbono.
+
+5 Unidade
+
+102
+
+Tesoura de poda profissional 8
+polegadas e trava
+mola.Ferramenta de pequeno
+porte com cabo emborrachado.
+
+5 Unidade
+
+103
+
+Tesoura para cerca viva com
+lâmina metálica e cabo de
+madeira com peso 500gr ou
+mais. Tesoura metálica lisa.
+
+5 Unidade
+
+104
+
+Tijolo comum tipo pó de mico/
+Tijolo Maciço Ceramico para
+Alvenaria, aproximadamente
+(4,5 x 9 x 20)cm, Comum
+
+181000 | Unidade
+
+105
+
+Tomada simples sobrepor
+sistema x 10A 2P+T
+
+600 Unidade
+
+106
+
+Torques para armador -
+Torques de Aco Forjado e
+Temperado, 12",
+C/acab.pintado, Mandibula
+Afiada
+
+20 Unidade
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+Trena de Fibra de Vidro,
+107 |Simples, 20 M, Em Embal. 14 Unidade
+Plastica
+
+Trena; Fita de Aco Revestida
+Em Nylon; Estojo Anatomico
+Em Abs de Alta Resistencia,
+108 | Com Revestimento Em 22 Unidade
+Borracha Termoplastica;
+Medindo 5 Metros de
+Comprimento.
+
+Tubo de concreto pré-moldado
+PA1 ou PA2Z, concreto armado
+diâmetro 1000
+
+mm, ,comprimento min 1,0M
+IMáx 1,5M, com encaixe de
+bolsa (macho-fêmea).
+
+109 520 Unidade
+
+Tubo de concreto pré-moldado
+PA1 ou PA2 , concreto armado
+diâmetro 800 mm,comprimento
+min 1,0M /Máx 1,5M, com
+encaixe de bolsa(macho-
+fêmea).
+
+110 640 Unidade
+
+Tubo de concreto pré-moldado
+PA1 ou PA2,concreto armado
+diâmetro 400 mm,comprimento
+min 1,0M /Máx 1,5M, com
+encaixe de bolsa(macho-
+fêmea).
+
+111 100 Unidade
+
+Tubo de concreto pré-moldado
+PA1 ou PA2,concreto armado
+diâmetro 600 mm,comprimento
+min 1,0M /Máx 1,5M, com
+encaixe de bolsa(macho-
+fêmea).
+
+112 430 Unidade
+
+Vanga com lâmina de aço corte
+reta, 220 x 310mm, cabo de
+madeira - pá vanga corte
+quadrado.
+
+Vassoura de jardinagem com
+palhetas de aço (metálica), 22
+dentes, com cabo de madeira e
+regulável.
+
+113 34 Unidade
+
+114 560 Unidade
+
+Vassoura para Jardinagem fixa,
+cerdas em polipropileno de alta
+resistência, cabo 120cm e 22
+lâminas.
+
+115 520 Unidade
+
+VALOR TOTAL DA PROPOSTA
+
+(*) Os licitantes ficam cientes de que, para efeito de processamento da licitação em ambiente
+eletrônico, foram adotados os itens Compras.Gov mais semelhantes ao descrito neste anexo.
+Havendo divergência entre a descrição do objeto existente neste anexo e a utilizada pelo Sistema
+Compras.Gov deve prevalecer o estabelecido no Edital e neste Anexo | - Modelo de Proposta
+Comercial.
+
+| - O prazo de validade de nossa proposta é de 60 (sessenta) dias corridos, a contar da data da sessão
+pública do pregão eletrônico.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+& MONTE ALTO =
+
+|l - Declaramos que o VALOR TOTAL DA PROPOSTA é irreajustável, e nele estão incluídos: os tributos,
+fretes, alimentação, estadia, encargos sociais; as despesas e obrigações financeiras de qualquer natureza;
+e todos os componentes de custo dos bens necessários à perfeita satisfação do objeto desta licitação.
+
+11l - Declaramos que a proposta econômica compreende a integralidade dos custos para atendimento dos
+direitos trabalhistas assegurados na Constituição Federal, nas leis trabalhistas, nas normas infralegais,
+nas convenções coletivas de trabalho e nos termos de ajustamento de conduta vigentes na data de entrega
+das propostas.
+
+IV - Declaramos, ainda, conhecer integralmente os termos do Edital do Pregão Eletrônico nº 90113/2.025
+e Seus anexos, aos quais nos sujeitamos.
+
+RAZÃO SOCIAL DO PROPONENTE:
+ENDEREÇO:
+CEP: FONE: FAX:
+E-MAIL: CNPJ:
+de de 2.025.
+(CIDADE)
+ASSINATURA DO RESPONSÁVEL
+NOME COMPLETO: CARGO:
+
+PESSOA CREDENCIADA OU AUTORIZADA PARA ASSINAR O FUTURO CONTRATO
+NOME COMPLETO: CARGO:
+CPF:
+
+RG:
+Nota: O proponente deverá rubricar a 1º via desta planilha/proposta.
+
+MODELO - A PROPOSTA DEVE SER EMITIDA EM PAPEL TIMBRADO DA EMPRESA LICITANTE
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+MONTE ALTO *=
+
+ANEXO |ll - TERMO DE REFERÊNCIA
+
+PREGÃO ELETRÔNICO Nº 90113/2.025
+PROC. SA/DL Nº 200/2.025
+
+1. OBJETO
+
+Registro de Preços para aquisição imediata e futura de materiais de construção
+necessários ao atendimento das necessidades de manutenção da infraestrutura de todos os
+prédios da Prefeitura Municipal de Monte Alto/SP, conforme especificações, condições,
+quantidades e exigências estabelecidas neste Termo.
+
+1.1. Especificação
+
+1.1.1. Especificações conforme planilha:
+
+ITEM Descrição CATMAT Quant. Unidade
+1  |Arame galvanizado nº 16 396480 165 Rolo 2Kg
+2 |Arame Recozido nº 18, rolo, 1,24mm 452807 190 Quilograma
+
+Arco de serra; com arco para lâmina 12"; e
+3 |cabofechado em alumínio com pintura 265028 16 Unidade
+eletrostática; de profundidade de corte 90 mm
+
+4 | Argamassa externa, saco com 20 quilos 315173 420 Saco 20Kkg
+
+Big Bag, Medida: 1,20x0,90x0,90cm no
+5 |material Ráfia. (Balancim de Sustentação 322101 600 Unidade
+Tipo Big Bag,1.000 Kg ou superior)
+
+Areia fina - usada em rebocos, fabricação de
+
+; 348315 760 M*?
+concreto/mist. argamassa.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+*
+MONTE ALTO =
+T7 |Areia média lavada 216954 780 M*
+8 Bloço paiano de 8 fyros - 9 X 19 X 19 - Bloco 382067 74000 Unidade
+cerâmico de vedação.
+Broca para Madeira 3 Pontas 3,4,5,6,7,8,
+9 e 10 mm - (conjunto com 8 peças) - Ponta
+Espiral Duplo - Ponta centralizadora. Uso
+9 |Indicado: madeira, madeira dura, madeira 426206 1020 Unidade
+maciça, madeira macia, placas de
+aglomerado de madeira, contraplacado,
+placas de madeira estratificadas.
+10 Broca aço rápido HSS, longa, para metais 448971 1500 Unidade
+2mm x 49mm
+1 Broca aço rápido HSS, longa, para metais 319897 1500 Unidade
+4mm x 7/omm
+12 Broca aço rápido HSS, longa, para metais 319911 1500 Unidade
+6mm x 93mm
+13 Broca aço rápido HSS, longa, para metais 312691 1500 Unidade
+8mm x 165mm
+Broca Wiídea em cruz para concreto( conjunto 442620 ;
+18 com 5 peças), 4,5,6,8 E 10mm. genérico á Unidade
+15  |Bucha de 10mm com anel 613895 3000 Unidade
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+
+PREFEITURA DE
+
+*
+MONTE ALTO =
+16 |Bucha de 6Bmm com anel 613896 3000 Unidade
+17 | Bucha de 8mm com anel 613897 4000 Unidade
+Cabo para Enxada, Madeira de Eucalipto, ;
+” com Comprimento entre 1,50 mt e 1,80 mt 380635 161 Unidade
+Caçamba, Masseira para concreto, Caixa
+19 |Masseira Pedreiro Construção 20 Litros em 337523 45 Unidade
+Aço Reforçado SF04
+Cadeado 25mm - Cadeado de Latão Maciço, ;
+á de 25mm, Haste de Aco, Cromado 234256 108 Unidade
+Cadeado 30mm - Cadeado de Latão Maciço, ;
+21 de 30mm, Haste de Aco Cromado Ou Similar 351603 108 Unidade
+Cadeado 40mm - Cadeado, Latão, Largura
+22 | Min 40mm, Altura Min 33mm, Espessura Min 256534 152 Unidade
+12mm
+Cadeado 50mm - Cadeado Latão Maciço 50 ;
+á Mm 5 Pinos Haste de 50 Mm Segredo Unico 342316 152 Unidade
+Caixa masseira reforçada com capacidade de ;
+24 40 litros. PVC 440848 5 Unidade
+25 |Calhidratado - saco c/ 20 quilos 248941 2260 Saco 20Kg
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+
+PREFEITURA DE
+
+*
+MONTE ALTO =
+
+26 Carrinho gari/Coletora plástica com rodas e 483309 80 Unidade
+capacidade de 120L.
+
+27 C;arriola para pedreiro em chapa c/ pneu de 468625 54 Unidade
+câmara.
+
+28 Cavadeira universal articulada com cabo de 486505 o7 Unidade
+madeira.
+
+29 |Colher de pedreiro nº 08. Em aço SAE 9" 413905 5 Unidade
+
+30 |Colher de pedreiro nº 09. Em aço SÃE 9" 483242 34 Unidade
+Conector grampo para haste cobreada.
+
+31 |Utilizado em fixação de cabos junto à haste 402783 101 Unidade
+de aterramento de 1/2" ou 5/8".
+
+32 |Disco de Corte Metal e Inox 9"X 5/64 X 7/8" 454314 100 Unidade
+Disco de Corte Metal e Inox 4 1/2" X 1,2mm X
+
+33 |7/8" (114mm X 1,2mm X 22mm), corte fino, 482967 100 Unidade
+de 1,0mm a 1,2mm espessura.
+Disco diamantado segmentado, disco de ;
+
+” Corte, 110 v 20Omm, com furo central. 376675 SO Unidade
+
+35 | Disco diamantado turbo 4", 110 x 20mm. 213521 10 Unidade
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+
+PREFEITURA DE
+
+MONTE ALTO
+
+sm
+F
+
+36
+
+Disco lâmina serra circular para madeira 110
+x 20mm 40 dentes
+
+336280
+
+Unidade
+
+37
+
+Enxada; Em Aco Temperado Sae 1045,
+Forjada; Com Tamanho Aproximado de (224
+x 296)mm, Olho Redondo; Com Cabo de
+Cabo Medindo 1,30m de Comprimento e até
+40mm de Diametro,1,5 lb e Com Cunha;
+
+438645
+
+200
+
+Unidade
+
+38
+
+Enxadão em ferro, 2/8X105mm, com cabo de
+madeira. 2,5/3,0 libras
+
+234676
+
+63
+
+Unidade
+
+39
+
+Escada extensível de alumínio 2 X 7
+acoplados lado a lado ,altura aproximada
+fechada 2,40m, altura aproximada aberta
+2,20m,com trava de segurança nos degraus,
+antiderrapante. (7 degraus)
+
+449874
+
+Unidade
+
+40
+
+Escada Extensível De Alumínio
+Capacidade: 150 KG
+
+Tipo Sapata: Borracha Antiderrapante
+Tipo Degraus: 2 X 13
+
+Quantidade Degraus: 26 UN
+
+Altura Fechada: 4,16 M
+
+Altura Aberta: 3,89 M
+
+Material: Alumínio
+
+Altura Estendida: 6,88 M
+Características Adicionais: Rodízios Na Parte
+Superior
+
+456462
+
+Unidade
+
+41
+
+Escala métrica de madeira, dobrável, com 2
+metros, graduação em milímetros e
+polegadas e com alto nível de precisão.
+
+259173
+
+30
+
+Unidade
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+
+PREFEITURA DE
+
+sm
+MONTEALIO =
+
+Fechadura externa para porta de ferro -
+Externa 40mm cilindro 55mm,espessura Da ;
+
+42 Porta 20 a 39mm; Fabricada Em Aco; 343460 9 Conjunto
+Maçaneta Em Formato Alavanca.
+Fechadura externa para porta de madeira -
+
+43 |Fechadura de Embutir Em Aco Inoxidavel, 328658 90 Conjunto
+Fech. Externa, Macaneta Alav.
+
+44 Ferro CA 50 diâmetNrO 10,0 mm(3/8"), barra c/ 270736 620 BR12M
+12 metros. Vergalhão..
+
+45 Ferro CA 50 diâmetNrO 12,5 mm (1/2"), barra c/ 271701 460 BR12M
+12 metros. Vergalhão.
+
+46 Ferro CA 60 diârpetro 5 mm, barra c/ 12 256992 620 BR12M
+metros. Vergalhão.
+
+47 Ferro CA 50 diâmetNro 6,3 mm (1/4"), barra c/ 255612 780 BR12M
+12 metros. Vergalhão.
+
+48 Ferro CA 50 diâmetNro 8,0 mm (5/16"), barra c/ 251607 470 BR12M
+12 metros. Vergalhão.
+Forcado com Cabo, 4 Dentes, Aço Carbono ;
+
+49  Temperado (FORCADO RETO) 396872 150 Unidade
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+
+PREFEITURA DE
+
+sm
+MONTE ALTO =
+Furadeira de impacto 5/8", controle de
+velocidade, velocidade variável, rotação 483723
+50 |reversível, 2 velocidades mecânicas, limitador enérico 5 Unidade
+de torque, potência a partir de 1010W. 9
+APRESENTAR CATALOGO
+Gadanho Em Ferro Com 4 Dentes e Cabo ;
+1 |Em Madeira (FORCADO CURVO) 4045586 26 Unidade
+52 Garrafão Térn]ico Capgcidqde 3,0 L, com 230718 42 Unidade
+tampa rosqueável, polipropileno.
+Garrafão Térmico Capacidade 5,0 L, Corpo
+53 |Polietileno, Revest. Interno, Polip.copol., azul 364644 65 Unidade
+- Botijão térmico.
+Garrafão Térmico Capacidade 12,0 L, Em
+54 |Polipropileno, C/alca, dupla camada, Azul, 429430 7 Unidade
+Cltripés - Botijão térmico.
+Grampo galvanizado para cercas 9 X 1" -
+55 |sacos 01 Kg, usado em reforço de arame 610425 26 Pacote 1Kg
+farpado e telas.
+Guia de Concreto, medida aproximada até
+56 |1(30 X 80 X10)CM, Resistência 200KGF/CM2 466620 150 Unidade
+- (Guia Meio Fio).
+57 |Guiade Concreto 1M X 0,30CM 483181 100 Unidade
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+
+PREFEITURA DE
+
+MONTE ALTO
+
+sm
+F
+
+Haste de aterramento cobreada 10,0mm X
+
+É 2,4 metros com conector 212152 » Unidade
+
+59 |Lápis de carpinteiro retangular. 316333 52 Unidade
+
+6o Lima chata 8 polegadas, sem cabo, caixa 433269 4 Conjunto
+com 12 peças.
+Lima; de Aço Temperado; Medindo 8"; ;
+
+ú Modelo de Enxada; 2083mm, com cabo. 338129 7 Unidade
+Linha de nylon 100 metros - Kit de Acessorios
+
+62 | P/pedreiro, Linha Em Nylon Tipo Liso, Rolo 448861 55 Carretel 100M
+de O, 8Omm
+
+63 Maqgueira de nivel 3/8, flexível, PVC, atóxica 600557 5300 M
+e cristal transparente.
+
+64 Marrelta oitavada de 1Kg com cabo de 377500 28 Unidade
+madeira.
+Martelo orelha, tipo unha carpinteiro com
+
+65 |cabode madeira, corpo cromado, aço 341794 34 Unidade
+
+carbono 27mm.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+
+PREFEITURA DE
+
+*
+MONTE ALTO =
+66 Metro de madeira simples, dobrável, de 1 217680 30 Unidade
+metro.
+Nivel manual de alumínio - Nivel de Mao, ;
+67” | ajuminio, Perfil T, 35cm, 2 Bolhas 601642 24 Unidade
+Pá de bico, pintura eletrostática a pó, na cor ;
+& preta, com cabo de madeira de 71 cm. 466631 2 Unidade
+69 Pá de bico, pintura eletrostática a pó, na cor 466631 30 Unidade
+preta, sem cabo.
+Parafusadeira/furadeira, 1/2" com 2 baterias, 444951
+T0 | 20V Li-lon e carregador bivolt. enérico 6 Unidade
+APRESENTAR CATALOGO 9
+Parafuso Philips Rosca Chipboard Cabeça ;
+71 Chata 4,0 X 40 MM 356393 3100 Unidade
+Parafuso Philips Rosca Chipboard Cabeça ;
+72 Chata 5,0 X 50 MM 458719 3100 Unidade
+Parafuso Philips Rosca Chipboard Cabeça ;
+73 Chata 6,0 X70 MM 415677 3100 Unidade
+74 Parafuso sextavado rosca soberba 1/4 x 457724 3100 Unidade
+60mm com bucha e arruela.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+
+PREFEITURA DE
+
+*
+MONTEALIO =
+
+75 Parafuso sextavado rosca soberba 3/16 x 454815 3100 Unidade
+50mm com bucha e arruela.
+
+76 Parafuso mpdplo escápula zincado 6 - 3/4 x 262872 3100 Unidade
+57mm ou similar com bucha.
+
+TT |Parafuso modelo pitão zincado 5,5 x 70Omm 432724 1000 Unidade
+
+78 |Pedra brita nº 2 216958 1400 M*
+
+79 |Pedra brita nº 3 216959 1100 M?
+Pedra brita O,tipo pedrisco limpo e seco
+Pedrisco Prov.britamento de Pedra P/bloco, 3
+
+80 | pontiagudo, Fino (PEDRA PARA 216969 1245 M
+CONCRETO 0)
+
+81 Peneira de café, aro 80 cm e borda de 377442 o7 Unidade
+madeira.
+
+82 Penelra de feijão Aro 70 cm e borda de 374188 24 Unidade
+madeira.
+Picareta chibanca c/ cabo de madeira com
+
+83 |aproximadamente largura 20cm X altura 376821 29 Unidade
+100cm.
+
+84 |Pó de Pedra Brita - pedra brita 3/8 291297 1390 M*
+
+85 |Prego 12x 12 317912 20 Pacote 1Kg
+
+86 |Prego 13x18 612488 20 Pacote 1Kg
+
+87 |Prego15x15 317911 25 Pacote 1Kg
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+
+PREFEITURA DE
+
+*
+MONTEALIO =
+
+88 |Prego 17 x21 609322 46 Pacote 1Kg
+89 |Prego 18 x 24 238186 46 Pacote 1Kg
+90 |Prego 19 x 27 214387 46 Pacote 1Kg
+91 |Prego 22 x 42 234742 46 Pacote 1Kg
+92 |Prego 22 x 48 244993 40 Pacote 1Kg
+93 |Prego 24 x 60 617709 45 Pacote 1Kg
+94 |Prego25x72 443410 40 Pacote 1Kg
+95 | Rebite de repuxo 3,2 x 12mm 480801 3000 Unidade
+96 |Rebite de repuxo 4,0 x 16mm 432887 3000 Unidade
+97 | Régua de alumínio para pedreiro de 2m. 313933 20 Unidade
+98 |Régua para pedreiro de alumínio de 3m. 3/3514 19 Unidade
+
+Serra elétrica/Motoserra portátil tipo Sabre 6',
+
+maleta e baterias 20V. Capacidade de corte
+
+51mm, bivolt. Itens inclusos: 01 motoserra,02 ;
+* baterias 20V, 01 carregador bivolt, 01 chave 283970 ? Unidade
+
+biela, 01 chave philips e 01 frasco aplicação
+
+de óleo. APRESENTAR CATALOGO
+
+Tábua de madeira com medidas aproximadas
+100 |de 30cm largura X 2,5cm espessura X 3,00 480519 7TTO Unidade
+
+metros comprimento.
+
+Tesoura de poda de galhos secos com cabo
+101 |telescópico. Tesourão de jardim em aço 613887 5 Unidade
+
+carbono.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+
+PREFEITURA DE
+
+MONTE ALTO
+
+sm
+F
+
+102
+
+Tesoura de poda profissional 8 polegadas e
+trava mola.Ferramenta de pequeno porte com
+cabo emborrachado.
+
+468664
+
+Unidade
+
+103
+
+Tesoura para cerca viva com lâmina metálica
+e cabo de madeira com peso 500gr ou mais.
+Tesoura metálica lisa.
+
+247785
+
+Unidade
+
+104
+
+Tijolo comum tipo pó de mico/ Tijolo Maciço
+Ceramico para Alvenaria, aproximadamente
+(4,5 x 9 x 20)cm, Comum
+
+2/2157
+
+181000
+
+Unidade
+
+105
+
+Tomada simples sobrepor sistema x 10A
+2P+T
+
+460971
+
+600
+
+Unidade
+
+106
+
+Torques para armador - Torques de Aco
+Forjado e Temperado, 12", C/acab.pintado,
+Mandibula Afiada
+
+310497
+
+20
+
+Unidade
+
+107
+
+Trena de Fibra de Vidro, Simples, 20 M, Em
+Embal. Plastica
+
+239308
+
+Unidade
+
+108
+
+Trena; Fita de Aco Revestida Em Nylon;
+Estojo Anatomico Em Abs de Alta
+Resistencia, Com Revestimento Em Borracha
+Termoplastica; Medindo 5 Metros de
+Comprimento.
+
+234031
+
+22
+
+Unidade
+
+109
+
+Tubo de concreto pré-moldado PA1 ou PA?,
+concreto armado diâmetro 1000
+
+mm, ,comprimento min 1,0M /Máx 1,5M, com
+encaixe de bolsa (macho-fêmea).
+
+461061
+
+520
+
+Unidade
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+
+PREFEITURA DE
+
+MONTE ALTO *=
+
+Tubo de concreto pré-moldado PA1 ou PA? ,
+concreto armado diâmetro 800
+
+mm, ,comprimento min 1,0M /Máx 1,5M, com
+encaixe de bolsa(macho-fêmea).
+
+110 461059 640 Unidade
+
+Tubo de concreto pré-moldado PA1 ou
+
+PAZ2 concreto armado diâmetro 400
+
+mm, ,comprimento min 1,0M /Máx 1,5M, com
+encaixe de bolsa(macho-fêmea).
+
+111 461055 100 Unidade
+
+Tubo de concreto pré-moldado PA1 ou
+
+PAZ2 concreto armado diâmetro 600
+
+mm, ,comprimento min 1,0M /Máx 1,5M, com
+encaixe de bolsa(macho-fêmea).
+
+112 473661 430 Unidade
+
+Vanga com lâmina de aço corte reta, 220 x
+113 |310mm, cabo de madeira - pá vanga corte 249585 34 Unidade
+quadrado.
+
+Vassoura de jardinagem com palhetas de aço
+114 | (metálica), 22 dentes, com cabo de madeira e 417310 560 Unidade
+regulável.
+
+Vassoura para Jardinagem fixa, cerdas em
+115 | polipropileno de alta resistência, cabo 120cm 450643 520 Unidade
+e 22 lâminas.
+
+1.1.2 Para os itens nº 50, nº 70 e nº 99, as empresas licitantes detentoras dos menores
+preços, deverão apresentar catálogo, folder, folheto ou manual de instruções do
+fabricante dos equipamentos ofertados, em português ou traduzido, contendo
+informações técnicas, que demonstre o atendimento às especificações mínimas
+solicitadas nas descrições contidas neste Termo de Referência.
+
+1.2. Quantidade
+
+A quantidade estimada da contratação foi obtida com base na necessidade de reposição
+dos materiais que se desgastaram e no que futuramente possa se desgastar.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+MONTE ALTO ==
+
+2. JUSTIFICATIVA E OBJETIVO DA CONTRATAÇÃO
+
+A presente contratação visa possibilitar a aquisição, através de sistema de registro de
+preços, de materiais de construção diversos, de modo a que este departamento possa
+atuar, realizando obras e projetos de infraestrutura nas suas diversas unidades,
+contribuindo assim para que os servidores e colaboradores da Prefeitura desenvolvam
+seus trabalhos num ambiente adequado e confortável e possa assim haver um
+atendimento de excelência para todos.
+
+O material de construção que vier a ser adquirido será utilizado em projetos como
+construção, reforma e manutenção de prédios públicos, estradas, pontes, entre outros.
+
+3. ESTIMATIVA DE PREÇOS E PREÇOS REFERENCIAIS
+
+O custo estimado deste Registro é sigiloso.
+
+4. OBRIGAÇÕES DA ADMINISTRAÇÃO MUNICIPAL
+
+4.,1. São obrigações da contratante:
+
+4.1.1. Receber o objeto no prazo e condições estabelecidas na solicitação da compra;
+
+4.1.2. Comunicar à empresa contratada, por escrito, sobre imperfeições, falhas ou
+irregularidades verificadas no objeto fornecido, para que seja substituído, reparado ou
+corrigido;
+
+4.1.3. Efetuar o pagamento à empresa contratada no valor correspondente ao
+fornecimento do objeto, no prazo e forma estabelecidos no Edital e seus anexos;
+
+5. OBRIGAÇÕES DA EMPRESA A SER CONTRATADA
+
+5.1. A empresa a ser contratada deve cumprir todas as obrigações constantes da
+proposta aceita e, ainda:
+
+5.1.1. Efetuar a entrega do objeto em perfeitas condições, conforme especificações,
+prazo e local constantes da proposta, acompanhado da respectiva nota fiscal, na qual
+constarão as indicações referentes à: marca fabricante, modelo, procedência e prazo de
+garantia ou validade;
+
+5.1.3. Substituir, reparar ou corrigir, às suas expensas, no prazo fixado neste Termo de
+Referência, o objeto com avarias ou defeitos;
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+MONTE ALTO ==
+
+5.1.4. Comunicar à Contratante, no prazo máximo de 24 (vinte e quatro) horas que
+antecede a data da entrega, os motivos que impossibilitem o cumprimento do prazo
+previsto, com a devida comprovação;
+
+5.1.5. O objeto da presente licitação será requisitado de forma parcelada, conforme a
+demanda e as entregas deverão ocorrer em 10 (dez) dias corridos, contados a partir do
+recebimento da Autorização de Fornecimento, no almoxarifado Municipal, na Rua dos
+Lírios, nº 495, correndo por conta da empresa contratada todas as despesas de
+transporte, embalagem, tributos, encargos trabalhistas e previdenciários decorrentes;
+
+5.1.6. O recebimento definitivo do objeto dar-se-á no prazo de 5 (cinco) dias úteis, após
+o recebimento provisório, desde que o responsável pela tarefa conclua pela
+conformidade e aceitação das especificações e quantidades contratadas, mediante
+recibo passado no verso do documento fiscal correspondente.
+
+6. FORMA E PRAZO DE PAGAMENTO
+
+O prazo de vigência do Registro de Preços será de 01 (um) ano, a contar da data de
+assinatura da Ata de Registro de Preços.
+
+6.1. O pagamento será realizado no prazo máximo de até 30 (trinta) dias, contados a
+partir do recebimento da Nota Fiscal ou Fatura, através de ordem bancária, para crédito
+em banco, agência e conta corrente indicados pelo contratado.
+
+6.1.1. A Nota Fiscal/Fatura liquidada deverá, obrigatoriamente, conter o mesmo
+CNPJ/MF do vencedor da contratação e atestada pelo fiscal do contrato.
+
+6.2. Considera-se ocorrido o recebimento da nota fiscal ou fatura quando o órgão
+contratante atestar a execução do objeto do contrato.
+
+6.3. Constatando-se alguma irregularidade da contratada, será providenciada sua
+notificação, por escrito, para que, no prazo de 5 (cinco) dias úteis, regularize sua situação
+ou, no mesmo prazo, apresente sua defesa. O prazo poderá ser prorrogado uma vez,
+por igual período, a critério da contratante.
+
+7. RECURSOS ORÇAMENTÁRIOS
+
+As despesas decorrentes da presente contratação serão suportadas por recursos de
+dotação própria na Lei Orçamentária.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+MONTE ALTO *=
+
+ANEXO Ill - MINUTA DA ATA DE REGISTRO DE PREÇOS
+ATA DE REGISTRO DE PREÇOS Nº 12.025
+PROCESSO SA/DLNº  /2.025
+
+Pela presente Ata de Registro de Preços, de um lado A PREFEITURA MUNICIPAL DE
+MONTE ALTO, inscrita no CNPJ/MF sob nº 51.816.247/0001-11, doravante denominada
+PREFEITURA, representada pelo senhor , RG: nº , Secretário
+, de acordo com a atribuição que lhe foi conferida pelo artigo 13,
+do Decreto nº 2.127, de 11 de outubro de 2.005 e ulteriores alterações, e de outro lado
+a empresa , inscrita no CNPJ/MF sob nº , Sediada
+na rua/avenida ,nº . ,dacidadede , Estado de ;
+adjudicatária do Pregão para Registro de Preços nº — /2.025, representada pelo seu
+, senhor , portador do RG nº , daqui por diante
+denominada FORNECEDORA, resolvem REGISTRAR os preços, com integral
+observância da Lei Federal nº 14.133, de 1º de abril de 2.021, e Decreto Municipal nº
+4.645, de 27 de julho de 2023, mediante as cláusulas e condições seguintes:
+
+1— DO OBJETO E PREÇOS
+
+1.1 - Constitui objeto da presente Ata o registro de preço dos itens dela constante, nos
+termos do artigo 40, da Lei Federal nº 14.133/21, e do Decreto Municipal nº 4.645,
+de 27 de julho de 2023.
+
+1.2 - O preço registrado tem caráter orientativo (preço máximo), cabendo aos Órgãos
+Participantes a obrigação de promover pesquisa de mercado antes da utilização
+desta Ata, pesquisa essa cujo resultado deverá constar do campo próprio da
+
+requisição.
+
+1.3 - O preço registrado na presente Ata refere-se aos seguintes itens:
+
+Quantidade
+Iltem Especificações Unidade Máxima Marca
+Anual
+
+Valor Valor
+Unitário Subtotal
+
+2— DA VALIDADE DO REGISTRO DE PREÇOS
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+MONTE ALTO *=
+
+2.1 - O prazo de validade da presente Ata de Registro de Preços é de um ano, contados
+
+a partir da data de sua assinatura.
+3— DAS CONDIÇÕES DE EXECUÇÃO E PRAZOS
+
+3.1 - A FORNECEDORA deverá providenciar a retirada do Pedido de Compra no prazo
+de ) dias úteis a partir da data do recebimento da notificação do Departamento
+de Administração de Materiais, órgão Gerenciador do Sistema de Registro de Preços.
+
+3.1.1- O prazo fixado poderá ser prorrogado por igual período, desde que devidamente
+justificado o motivo e aceito pela PREFEITURA.
+
+3.1.2- O compromisso da execução só estará caracterizado mediante o recebimento de
+
+um ou do outro instrumento contratual referido no item 3.1, desta cláusula.
+
+3.1.3 - Se a FORNECEDORA se negar a receber o Pedido de Compra, este será
+enviados pelo correio eletrônico ou via postal, considerando-se como efetivamente
+
+recebidos na data do registro da correspondência, para todos os efeitos legais.
+
+3.2 - No ato da retirada do Pedido de Compra, a FORNECEDORA deverá apresentar
+
+cópia autenticada dos seguintes documentos:
+3.2.1 - Certidão Negativa de Débito — CND, para com o Sistema de Seguridade Social;
+
+3.2.2 - Certidão de Regularidade de Situação — CRS, para com o Fundo de Garantia por
+Tempo de Serviço — FGTS;
+
+3.2.3 - Certidão Negativa de débitos tributários mobiliários, expedida pelo Departamento
+de Tributos e Rendas do Município de Monte Alto, ainda que a empresa tenha sede em
+outro Município. No caso da empresa não estiver inscrita no Cadastro de Contribuintes
+deste Município, declaração firmada por seu representante legal, especificando que nada
+deve à Fazenda de Monte Alto, relativamente aos tributos ou taxas relacionadas com o
+objeto licitado.
+
+3.3 - O prazo para a para a entrega dos produtos são de 10 (dez) dias corridos, contado
+da emissão do “Pedido de Compra”, correndo por conta da FORNECEDORA, todas as
+despesas decorrentes de frete, seguros, obrigações sociais, mão-de-obra, impostos,
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+MONTE ALTO ==
+
+taxas e demais encargos não especificados, não podendo invocar dúvida ou hipótese
+
+para a modificação dos preços registrados.
+
+3.4 - O objeto da presente Ata será entregue no Almoxarifado Municipal, narua——--- ,
+nº , oportunidade que será promovida a ampla conferência das especificações e
+quantidades recebidas. Para fins de comprovação do adimplemento das obrigações da
+FORNECEDORA, lavrar-se-á termo circunstanciado e assinado pelas partes, cuja cópia
+será encaminhada ao Departamento de Contabilidade da PREFEITURA, até 2 (dois) dias
+antes da data aprazada para o pagamento do fornecimento do produto.
+
+3.5 - A FORNECEDORA fica obrigada a atender todos os Pedidos de Compra emitidos
+durante a vigência da Ata, ainda que o efetivo cumprimento ocorra no prazo máximo de
+
+dez dias após o término de sua validade.
+4 - DAS PENALIDADES
+
+41 - Pelo descumprimento do ajuste, a FORNECEDORA sujeitar-se-á às multas
+moratórias previstas no Decreto nº. 4.645, de 27 de julho de 2023, garantido o exercício
+
+da prévia e ampla defesa.
+
+4.1.1 - É cabível, ainda, a aplicação das demais sanções estabelecidas no artigo 156, da
+Lei Federal nº 14.133/21.
+
+5— DAS CONDIÇÕES DE PAGAMENTO
+
+5.1 - O prazo de pagamento será de ( ) dias, a contar da data do efetivo
+recebimento do objeto, atestado na forma do item 3.4, da cláusula terceira desta Ata.
+
+5.1.1 - A contagem do prazo para pagamento considerará dias corridos e terá início e
+encerramento em dias de expediente normal na sede administrativa da PREFEITURA.
+
+5.1.2 - Caso haja a necessidade de providências complementares por parte da
+FORNECEDORA, ou ocorram outras situações impeditivas à liquidação da despesa, a
+fluência do prazo será interrompida, reiniciando-se a sua contagem a partir da data em
+
+que estas foram cumpridas.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+MONTE ALTO *=
+
+5.2 - O pagamento do objeto desta Ata será efetuado por crédito em conta bancária
+
+indicada pela FORNECEDORA, ou, através de cheque nominal em seu favor, caso opte
+
+por esta forma em sua proposta.
+6 - DA READEQUAÇÃO DOS PREÇOS
+
+6.1 - Durante o período de vigência da Ata, os preços registrados não sofrerão
+reajustamentos, ressalvada a superveniência de normas federais ou estaduais aplicáveis
+à espécie, considerada, para base inicial de análise, a demonstração da composição de
+custos apresentada pela FORNECEDORA.
+
+6.2 - Durante a validade da Ata, os preços registrados não poderão ficar acima dos
+praticados no mercado. Independentemente da provocação do Órgão Gerenciador do
+SRP, no caso de redução dos preços de mercado, ainda que temporária, a
+FONECEDORA obriga-se a comunicar à PREFEITURA o novo preço que substituirá o
+então registrado.
+
+6.2.1 - Caso a FORNECEDORA venha a se locupletar com a redução efetiva de preços
+de mercado não repassada à PREFEITURA, ficará sujeita à restituição do que houver
+recebido indevidamente.
+
+7 — DA AUTORIZAÇÃO PARA A CONTRATAÇÃO
+
+T7.1 - As contratações decorrentes desta Ata serão autorizadas, caso a caso, pela
+autoridade superior da PREFEITURA, à vista da prévia e obrigatória pesquisa de preços
+realizada pelo Órgão Participante, da qual possa verificar-se a compatibilidade do preço
+registrado com o do mercado.
+
+7.2 - A formalização das contratações derivadas desta Ata dar-se-á através da emissão
+do Contrato Administrativo ou da Nota de Empenho pelo Departamento de Contabilidade
+da PREFEITURA, conforme o caso, precedida pela Autorização de Execução.
+
+8 — DA PROTEÇÃO DE DADOS PESSOAIS
+
+8.1 - As partes deverão observar as disposições da Lei Federal nº 13./09, de 14 de
+agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), e alterações, quando do
+tratamento de dados pessoais e dados pessoais sensíveis a que tenham acesso, para o
+
+propósito de execução e acompanhamento deste contrato, não podendo divulgar,
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+MONTE ALTO *=
+
+revelar, produzir, utilizar ou deles dar conhecimento a terceiros estranhos a esta
+
+contratação, a não ser por força de obrigação legal ou regulatória.
+9 - DAS DISPOSIÇÕES GERAIS
+
+8.1 - Para solucionar quaisquer questões oriundas desta Ata é competente, por força de
+lei, o Foro da Comarca de Monte Alto, Estado de São Paulo.
+
+E, por estarem justas e contratadas, assinam as partes a presente Ata, em três vias de
+igual teor, obrigando-se por si e sucessores para que surta todos os efeitos de direito, o
+
+que dão por bom, firme e valioso.
+
+Monte Alto, — de de 2.025.
+
+PREFEITURA PRESTADORA
+
+TESTEMUNHAS
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+TERMO DE CIÊNCIA E DE NOTIFICAÇÃO
+
+CONTRATANTE:
+CONTRATADO:
+
+CONTRATO Nº (DE ORIGEM):
+OBJETO:
+
+Pelo presente TERMO, nós, abaixo identificados:
+
+1.
+a)
+
+b)
+
+C)
+
+d)
+
+e)
+2.
+a)
+
+b)
+
+Estamos CIENTES de que:
+
+o ajuste acima referido, seus aditamentos, bem como o acompanhamento de sua
+execução contratual, estarão sujeitos a análise e julgamento pelo Tribunal de Contas do
+Estado de São Paulo, cujo trâmite processual ocorrerá pelo sistema eletrônico;
+poderemos ter acesso ao processo, tendo vista e extraindo cópias das manifestações de
+interesse, Despachos e Decisões, mediante regular cadastramento no Sistema de
+Processo Eletrônico, em consonância com o estabelecido na Resolução nº 01/2011 do
+TCESP;
+
+além de disponíveis no processo eletrônico, todos os Despachos e Decisões que vierem
+a ser tomados, relativamente ao aludido processo, serão publicados no Diário Oficial do
+Estado, Caderno do Poder Legislativo, parte do Tribunal de Contas do Estado de São
+Paulo, em conformidade com o artigo 90 da Lei Complementar nº 709, de 14 de janeiro
+de 1993, iniciando-se, a partir de então, a contagem dos prazos processuais, conforme
+regras do Código de Processo Civil;
+
+as informações pessoais dos responsáveis pela contratante e e interessados estão
+cadastradas no módulo eletrônico do “Cadastro Corporativo TCESP — CadTCESP”, nos
+termos previstos no Artigo 2º das Instruções nº01/2020, conforme “Declaração(ões) de
+Atualização Cadastral” anexa (s);
+
+é de exclusiva responsabilidade do contratado manter seus dados sempre atualizados.
+Damor-nos por NOTIFICADOS para:
+
+O acompanhamento dos atos do processo até seu julgamento final e consequente
+publicação;
+
+Se for o caso e de nosso interesse, nos prazos e nas formas legais e regimentais, exercer
+
+o direito de defesa, interpor recursos e o que mais couber.
+
+LOCAL e DATA:
+
+AUTORIDADE MÁXIMA DO ÓRGÃO/ENTIDADE:;:
+
+Nome:
+
+Cargo:
+
+CPF:
+
+RESPONSÁVEIS PELA HOMOLOGAÇÃO DO CERTAME RATIFICAÇÃO DA
+DISPENSA/INEXIGIBILIDADE DE LICITAÇÃO:
+
+Nome:
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+* MONTE ALTO =
+
+Cargo:
+CPF:
+
+Assinatura:
+
+RESPONSÁVEI E ASSINARAMO A TE:
+Pelo contratante:
+
+Nome:
+
+Cargo:
+
+CPF:
+
+Assinatura:
+
+Pel ntr
+
+Nome:
+
+Cargo:
+
+CPF:
+
+Assinatura:
+
+RDENADOR DE DESPESAS DA CONTRATANTE:
+Nome:
+Cargo:
+CPF:
+Assinatura:
+GESTOR(ES) DO CONTRATO:
+Nome:
+Cargo:
+CPF:
+Assinatura:
+
+DEMAIS RESPONSÁVEI
+
+Tipo de ato sob sua responsabilidade:
+Nome:
+
+Cargo:
+
+CPF:
+
+Assinatura:
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+ANEXO IV - MODELO DE DECLARAÇÕES
+
+Pregão Eletrônico nº — /2.025
+Processo SA/DL nº — /2.025
+
+Eu (nome completo), representante legal da
+empresa (denominação da pessoa jurídica), participante do Pregão
+Eletrônico nº — /2.025, da Prefeitura Municipal de Monte Alto, DECLARO, sob as penas da lei:
+
+a) Nos termos do inciso Vl, do artigo 68 da Lei Federal nº 14.133/21, que a
+empresa encontra-se em situação regular perante o Ministério do Trabalho, no que se refere à
+observância do disposto no inciso XXXIII do artigo 7º da Constituição Federal;
+
+b) Estar ciente da obrigação de manter o endereço da empresa atualizado junto à
+Prefeitura de Monte Alto, e de que as notificações e comunicações formais decorrentes da
+execução do contrato (Pedidos de Compra) serão efetuadas através do Sítio Eletrônico da
+Prefeitura e Diário Oficial do Município de Monte Alto e que os recurso administrativos
+decorrentes da execução contratual deverão ser encaminhados exclusivamente pelo correio
+eletrônico licita&gmontealto.sp.gov.br;
+
+c) Para microempresas ou empresas de pequeno porte: que a empresa não possui
+qualquer dos impedimentos previstos nos $$ 4º e seguintes todos do artigo 3º da Lei
+Complementar nº 123 de 14 de dezembro de 2006 e alterações, cujos termos conheço na íntegra;
+
+d) Que tomou conhecimento das reais condições e peculiaridades inerentes ao
+fornecimento dos produtos, bem como coletaram informações de todos os dados e elementos
+necessários à perfeita elaboração da proposta comercial, responsabilizando-se por manter as
+garantias que vincularem a proposta ao presente processo licitatório, em nome da empresa que
+represento e certos de que não nos caberá, a posteriori, nenhuma reclamação de
+desconhecimento do objeto licitado;
+
+e) Estar ciente de que, para efeito de processamento da licitação em ambiente
+eletrônico, foram adotados os itens Compras.Gov mais semelhantes ao descrito no Anexo |.
+Havendo divergência entre a descrição do objeto existente no Edital e a utilizada pelo Sistema
+Compras.Gov, deve prevalecer o estabelecido no Edital e seus anexos;
+
+f) De que conhece a obrigação de assinar a Ata de Registro de Preços, para o
+caso de ser adjudicatária no pregão, no prazo definido no Edital e que tem pleno conhecimento
+das sanções previstas nos incisos IV e VI, do art. 155, da Lei Federal nº 14.133/21 e Decreto
+Municipal nº. 4.645, de 27 de julho de 2023, em caso de descumprimento da formalização do
+documento;
+
+g) De que cumpre as exigências de reserva de cargos para pessoa com deficiência
+e para reabilitado da Previdência Social, previstas em lei e em outras normas específicas.
+
+p de .s de 2.025.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+MONTE ALTO *=
+
+ANEXO V
+
+TERMO DE OPÇÃO E DECLARAÇÃO PARA MICROEMPRESA
+OU EMPRESA DE PEQUENO PORTE
+
+o
+
+, com sede na . , cidade de
+
+CNPJ nº , vem através de seu representante legal
+
+infra-assinado, com fundamento no artigo 3º e seus parágrafos da Lei Complementar nº
+
+123, de 15 de dezembro 2.006, estando apta, portanto, a participar do procedimento
+licitatório do Pregão Eletrônico nº — /2.02, da Prefeitura de Monte Alto,
+
+DECLARA ser.
+
+I:I Microempresa nos termos do enquadramento previsto nos
+
+incisos | e 1l e 88 1º e 2º, bem como não possui qualquer dos impedimentos previstos
+nos S$ 4º e seguintes todos do artigo 3º da Lei Complementar nº 123, de 14 de dezembro
+de 2006, alterada pela Lei Complementar nº 147, de 7 de agosto de 2014.
+
+I:I Empresa de pequeno porte nos termos do enquadramento
+
+previsto nos incisos | e |l e S$ 1º e 2º, bem como não possui qualquer dos impedimentos
+previstos nos $$ 4º e seguintes todos do artigo 3º da Lei Complementar nº 123, de 14 de
+dezembro de 2006, alterada pela Lei Complementar nº 147, de 7 de agosto de 2014.
+
+Declara que não celebrou no presente ano-calendário contratos
+
+com a Administração pública cujos valores somados extrapolem a receita bruta máxima
+admitida para fins de enquadramento como empresa de pequeno porte.
+
+; de de 2.025.
+(localidade)
+
+(assinatura)
+
+Nome:
+RG:
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+MONTE ALTO *=
+
+ANEXO VI - Decreto nº. 4.645, de 27 de julho de 2023.
+
+Regulamenta a Lei nº 14.133, de 1º de abril de 2021, que “dispõe
+sobre Licitações e Contratos Administrativos, no Município de Monte
+Alto”.
+
+MARIA HELENA AGUIAR RETTONDINI, Prefeita Municipal de Monte Alto,
+Estado de São Paulo, no uso das atribuições que lhe confere os incisos XI, do artigo 87, da Lei
+Orgânica do Município,
+
+DECRETA:
+
+CAPÍTULO |
+DISPOSIÇÕES GERAIS
+
+Art. 1º. Este decreto regulamenta a Lei nº 14.133, de 1º de abril de 2021, que dispõe
+sobre Licitações e Contratos Administrativos, no âmbito do Município de Monte Alto-SP.
+
+Art. 2º. O disposto neste Decreto abrange todos os órgãos da administração pública
+direta ou indireta do Poder Executivo do Município de Monte Alto-SP.
+
+Parágrafo único. O Poder Legislativo poderá aderir às normas regulamentares da Lei
+Federal nº 14.133, de 1º de abril de 2021, contidas neste decreto municipal.
+
+Art.3º. Na aplicação deste Decreto serão observados os princípios da legalidade, da
+impessoalidade, da moralidade, da publicidade, da eficiência, do interesse público, da probidade
+administrativa, da igualdade, do planejamento, da transparência, da eficácia, da segregação de
+funções, da motivação, da vinculação ao edital, do julgamento objetivo, da segurança jurídica,
+da razoabilidade, da competitividade, da proporcionalidade, da celeridade, da economicidade e
+do desenvolvimento nacional sustentável.
+
+CAPÍTULO |!
+DOS AGENTES QUE ATUAM NO PROCESSO DE CONTRATAÇÃO
+
+Art. 4º. Ao Agente de Contratação, ou, conforme o caso, à Comissão de Contratação,
+incumbe a condução da fase externa do processo licitatório, incluindo o recebimento e o
+julgamento das propostas, a negociação de condições mais vantajosas com o primeiro colocado,
+o exame de documentos, cabendo-lhes ainda:
+
+| - conduzir a sessão pública;
+
+|l - receber, examinar e decidir as impugnações e os pedidos de esclarecimentos ao edital e aos
+anexos, além de poder requisitar subsídios formais aos responsáveis pela elaboração desses
+documentos;
+
+lll - verificar a conformidade da proposta em relação aos requisitos estabelecidos no edital;
+IV - coordenar a sessão pública e o envio de lances, quando for o caso;
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+V - verificar e julgar as condições de habilitação;
+
+Vl - sanear erros ou falhas que não alterem a substância das propostas, dos documentos de
+habilitação e sua validade jurídica;
+
+VII - receber, examinar e decidir os recursos e encaminhá-los à autoridade competente quando
+mantiver sua decisão;
+
+VIII - indicar o vencedor do certame;
+IX - conduzir os trabalhos da equipe de apoio; e
+
+X - encaminhar o processo devidamente instruído à autoridade competente e propor a sua
+homologação.
+
+$ 1º. O Pregoeiro conduzirá o Diálogo Competitivo, cabendo-lhe, no que couber, as
+atribuições listadas acima, sem prejuízo de outras tarefas inerentes a essa modalidade.
+
+$ 2º. Caberá ao Agente de Contratação ou à Comissão de Contratação, além dos
+procedimentos auxiliares a que se refere a Lei nº 14.133, de 1º de abril de 2021, a instrução dos
+processos de contratação direta nos termos do art. 72 da citada Lei.
+
+$ 3º. O Agente de Contratação, assim como os membros do Pregoeiro, poderão ser
+servidores efetivos ou empregados públicos dos quadros permanentes do Município.
+
+$ 4º. O Agente de Contratação e o Pregoeiro contarão, sempre que considerarem
+necessário, com o suporte dos órgãos de assessoramento jurídico e de controle interno para o
+desempenho das funções listadas acima.
+
+$ 5º. O Agente de Contratação e o Pregoeiro contarão com auxílio permanente de
+Equipe de Apoio formada por, no mínimo, 3 (três) membros, dentre servidores efetivos ou
+ocupantes de cargos em comissão da Prefeitura.
+
+$ 6º. Em licitação na modalidade Pregão, o Agente de Contratação responsável pela
+condução do certame será designado Pregoeiro.
+
+Art. 5º. Na designação de agente público para atuar como Fiscal ou Gestor de
+contratos de que trata a Lei nº 14.133, de 1º de abril de 2021, a autoridade municipal observará
+o seguinte:
+
+| - a designação de agentes públicos deve considerar a sua formação acadêmica ou técnica, ou
+seu conhecimento em relação ao objeto contratado;
+
+|l - a segregação entre as funções, vedada a designação do mesmo agente público para atuação
+simultânea naquelas mais suscetíveis a riscos durante o processo de contratação; e
+
+lll — previamente à designação, verificar-se-á o comprometimento concomitante do agente com
+outros serviços, além do quantitativo de contratos sob sua responsabilidade, com vistas a uma
+adequada fiscalização contratual.
+
+CAPÍTULO IIl
+DO PLANO DE CONTRATAÇÕES ANUAL
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+Art. 6º. O Município poderá elaborar Plano de Contratações Anual, com o objetivo de
+racionalizar as contratações dos órgãos sob sua competência, garantir o alinhhamento com o seu
+planejamento estratégico e subsidiar a elaboração das respectivas leis orçamentárias.
+
+Parágrafo único. Na elaboração do Plano de Contratações Anual do Município,
+observar-se-á como parâmetro normativo, no que couber, o disposto na Instrução Normativa nº
+1, de 10 de janeiro de 2019, da Secretaria de Gestão do Ministério da Economia.
+
+CAPÍTULO |V
+DO ESTUDO TÉCNICO PRELIMINAR
+
+Art. 7º. Em âmbito municipal, a obrigação de elaborar Estudo Técnico Preliminar
+aplica-se à aquisição de bens e à contratação de serviços e obras, inclusive locação e
+contratações de soluções de Tecnologia da Informação e Comunicação — TIC, ressalvado o
+disposto no art. 8º deste decreto.
+
+Art. 8º. Em âmbito municipal, a elaboração do Estudo Técnico Preliminar será
+opcional nos seguintes casos:
+
+| - contratação de obras, serviços, compras e locações, cujos valores se enquadrem nos limites
+dos incisos | e |l do art. 75 da Lei nº 14.133, de 1º de abril de 2021, independentemente da forma
+de contratação;
+
+|l - dispensas de licitação previstas nos incisos VII, VIIlI, do art. 75, da Lei nº 14.133, de 1º de
+abril de 2021;
+
+lll - contratação de remanescente nos termos dos $$ 2º a 7º do art. 90 da Lei nº 14.133, de 1º de
+abril de 2021;
+
+IV - quaisquer alterações contratuais realizadas por meio de Termo Aditivo, inclusive acréscimos
+quantitativos e prorrogações contratuais relativas a serviços contínuos.
+
+CAPÍTULO V
+DO CATÁLOGO ELETRÔNICO DE PADRONIZAÇÃO DE COMPRAS
+
+Art. 9º. O Município elaborará catálogo eletrônico de padronização de compras,
+serviços e obras, o qual poderá ser utilizado em licitações cujo critério de julgamento seja o de
+menor preço ou o de maior desconto e conterá toda a documentação e os procedimentos próprios
+da fase interna de licitações, assim como as especificações dos respectivos objetos.
+
+Parágrafo único. Enquanto não for elaborado o catálogo eletrônico a que se refere o
+caput, será adotado, nos termos do art. 19, Il, da Lei nº 14.133, de 1º de abril de 2021, os
+Catálogos CATMAT e CATSER, do Sistema Integrado de Administração de Serviços Gerais -
+SIASG, do Governo Federal, ou o que vier a substituí-los.
+
+Art. 10. Os itens de consumo adquiridos para suprir as demandas do Município
+deverão ser de qualidade comum, não superior à necessária para cumprir às finalidades as quais
+se destinam, vedada a aquisição de artigos de luxo.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+$ 1º. Na especificação de itens de consumo, a Administração buscará a escolha do
+produto que, atendendo de forma satisfatória à demanda a que se propõe, apresente o melhor
+preço.
+
+$ 2º. Considera-se bem de consumo de luxo o que se revelar, sob os aspectos de
+qualidade e preço, superior ao necessário para a execução do objeto e satisfação das
+necessidades da Administração municipal.
+
+CAPÍTULO VI
+DA PESQUISA DE PREÇOS
+
+Art. 11. No procedimento de pesquisa de preços realizado em âmbito municipal, os
+parâmetros previstos no $ 1º do art. 23 da Lei nº 14.133, de 1º de abril de 2021, são
+autoaplicáveis, no que couber.
+
+Art. 12. Adotar-se-á, para a obtenção do preço estimado, cálculo que incida sobre um
+conjunto de três ou mais preços, oriundos de um ou mais dos parâmetros de que trata o $ 1º do
+art. 23 da Lei nº 14.133, de 1º de abril de 2021, desconsiderados os valores inexequiíveis,
+inconsistentes e os excessivamente elevados.
+
+8 1º. Resultando dos preços obtidos a partir dos parâmetros de que trata o $ 1º do
+art. 23 da Lei nº 14.133, de 1º de abril de 2021, o valor estimado poderá ser, a critério da
+Administração, a média, a mediana ou o menor dos valores obtidos na pesquisa de preços,
+podendo ainda ser utilizados outros critérios ou métodos, desde que devidamente justificados
+nos autos pelo gestor responsável e aprovados pela autoridade competente.
+
+$ 2º. Os preços coletados devem ser analisados de forma crítica, em especial,
+quando houver grande variação entre os valores apresentados.
+
+$83º. A desconsideração dos valores inexequíveis, inconsistentes ou excessivamente
+elevados, será acompanhada da devida motivação.
+
+8 4º. Excepcionalmente, será admitida a determinação de preço estimado com base
+em menos de três preços, desde que devidamente justificada nos autos.
+
+Art. 13. Na pesquisa de preço relativa às contratações de prestação de serviços com
+dedicação de mão de obra exclusiva, observar-se-á como parâmetro normativo, no que couber,
+o disposto na Instrução Normativa nº 5, de 26 de maio de 2017, da Secretaria de Gestão do
+Ministério do Planejamento e Gestão.
+
+Art. 14. Na elaboração do orçamento de referência de obras e serviços de engenharia
+a serem realizadas em âmbito municipal, quando se tratar de recursos próprios, observar-se-á
+como parâmetro normativo, no que couber, o disposto no Decreto Federal nº 7.983, de 8 de abril
+de 2013, e na Portaria Interministerial 13.395, de 5 de junho de 2020.
+
+CAPÍTULO VII
+DO LEILÃO
+
+Art. 15. Nas licitações realizadas na modalidade Leilão, serão observados os
+seguintes procedimentos operacionais:
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+| — realização de avaliação prévia dos bens a serem leiloados, que deverá ser feita com base nos
+seus preços de mercado, a partir da qual serão fixados os valores mínimos para arrematação.
+
+|l — designação de um Agente de Contratação para atuar como leiloeiro, o qual contará com o
+auxílio de Equipe de Apoio conforme disposto no $ 5º do art. 4º deste regulamento, ou,
+alternativamente, contratação de um leiloeiro oficial para conduzir o certame.
+
+lll — elaboração do edital de abertura da licitação contendo informações sobre descrição dos
+bens, seus valores mínimos, local e prazo para visitação, forma e prazo para pagamento dos
+bens arrematados, condição para participação, dentre outros.
+
+IV — realização da sessão pública em que serão recebidos os lances e, ao final, declarados os
+vencedores dos lotes licitados.
+
+8 1º. O edital não deverá exigir a comprovação de requisitos de habilitação por parte
+dos licitantes.
+
+$ 2º. A sessão pública poderá ser realizada eletronicamente, por meio de plataforma
+que assegure a integridade dos dados e informações e a confiabilidade dos atos nela praticados.
+
+CAPÍTULO VIII
+DO CICLO DE VIDA DO OBJETO LICITADO
+
+Art. 16. Desde que objetivamente mensuráveis, os fatores vinculados ao ciclo de vida
+do objeto licitado poderão ser considerados para a definição do menor dispêndio para a
+Administração Pública Municipal.
+
+$ 1º. A modelagem de contratação mais vantajosa para a Administração Pública,
+considerado todo o ciclo de vida do objeto, deve ser considerada ainda na fase de planejamento
+da contratação, a partir da elaboração do Estudo Técnico Preliminar e do Termo de Referência.
+
+$ 2º. Na estimativa de despesas de manutenção, utilização, reposição, depreciação
+e impacto ambiental, poderão ser utilizados parâmetros diversos, tais como históricos de
+contratos anteriores, séries estatísticas disponíveis, informações constantes de publicações
+especializadas, métodos de cálculos usualmente aceitos ou eventualmente previstos em
+legislação, trabalhos técnicos e acadêmicos, dentre outros.
+
+CAPÍTULO IX
+DO JULGAMENTO POR TÉCNICA E PREÇO
+
+Art. 17. Para o julgamento por técnica e preço, o desempenho pretérito na execução
+de contratos com a Administração Pública deverá ser considerado na pontuação técnica.
+
+Parágrafo único. Em âmbito municipal, considera-se autoaplicável o disposto nos $$
+3º e 4º do art. 88 da Lei nº 14.133, de 1º de abril de 2021, cabendo ao edital da licitação detalhar
+a forma de cálculo da pontuação técnica.
+
+CAPÍTULO X
+DA CONTRATAÇÃO DE SOFTWARE DE USO DISSEMINADO
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+Art. 18. O processo de gestão estratégica das contratações de software de uso
+disseminado no Município deve ter em conta aspectos como adaptabilidade, reputação, suporte,
+confiança, a usabilidade e considerar ainda a relação custo-benefício, devendo a contratação de
+licenças ser alinhada às reais necessidades do Município com vistas a evitar gastos com
+produtos não utilizados.
+
+CAPÍTULO XI
+DA NEGOCIAÇÃO DE PREÇOS MAIS VANTAJOSOS
+
+Art. 19. Na negociação de preços mais vantajosos para a administração, o Agente de
+Contratação ou o Pregoeiro poderá oferecer contraproposta.
+
+CAPÍTULO XII
+DA HABILITAÇÃO
+
+Art. 20. Para efeito de verificação dos documentos de habilitação, será permitida,
+desde que prevista em edital, a sua realização por processo eletrônico de comunicação a
+distância, ainda que se trate de licitação realizada presencialmente nos termos do $ 5º do art. 17
+da Lei nº 14.133, de 1º de abril de 2021, assegurado aos demais licitantes o direito de acesso
+aos dados constantes dos sistemas.
+
+Parágrafo único. Se o envio da documentação ocorrer a partir de sistema
+informatizado prevendo acesso por meio de chave de identificação e senha do interessado,
+presume-se a devida segurança quanto à autenticidade e autoria, sendo desnecessário o envio
+de documentos assinados digitalmente com padrão ICP-Brasil.
+
+Art. 21. Para efeito de verificação da qualificação técnica, quando não se tratar de
+contratação de obras e serviços de engenharia, os atestados de capacidade técnico-profissional
+e técnico operacional poderão ser substituídos por outra prova de que o profissional ou a
+empresa possui conhecimento técnico e experiência prática na execução de serviço de
+características semelhantes, tais como, por exemplo, termo de contrato ou notas fiscais
+abrangendo a execução de objeto compatível com o licitado, desde que, em qualquer caso, o
+Agente de Contratação ou o Pregoeiro realize diligência para confirmar tais informações.
+
+Art. 22. Não serão admitidos atestados de responsabilidade técnica de profissionais
+que, comprovadamente, tenham dado causa à aplicação das sanções previstas nos incisos lll e
+IV do caput do art. 156 da Lei nº 14.133, de 1º de abril de 2021, em decorrência de orientação
+proposta, de prescrição técnica ou de qualquer ato profissional de sua responsabilidade.
+
+CAPÍTULO XIIl
+DO SISTEMA DE REGISTRO DE PREÇOS
+
+Art. 23. Em âmbito municipal, é permitida a adoção do sistema de registro de preços
+para contratação de bens e serviços comuns, inclusive de engenharia, sendo vedada a adoção
+do sistema de registro de preços para contratação de obras de engenharia, bem como nas
+hipóteses de dispensa e inexigibilidade de licitação.
+
+Art. 24. As licitações municipais processadas pelo sistema de registro de preços
+poderão ser adotadas nas modalidades de licitação Pregão ou Concorrência.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+$ 1º. Em âmbito municipal, na licitação para registro de preços, não será admitida a
+cotação de quantitativo inferior ao máximo previsto no edital, sob pena de desclassificação.
+
+$ 2º. O edital deverá informar o quantitativo mínimo previsto para cada contrato
+oriundo da ata de registro de preços, com vistas a reduzir o grau de incerteza do licitante na
+elaboração da sua proposta, sem que isso represente ou assegure ao fornecedor direito subjetivo
+à contratação.
+
+Art. 25. Nos casos de licitação para registro de preços, o órgão ou entidade promotora
+da licitação deverá, na fase de planejamento da contratação, divulgar aviso de intenção de
+registro de preços - IRP, concedendo o prazo mínimo de 8 (oito) dias úteis para que outros órgãos
+ou entidades registrem eventual interesse em participar do processo licitatório.
+
+$ 1º. O procedimento previsto no caput poderá ser dispensado mediante justificativa.
+
+$ 2º. Cabe ao órgão ou entidade promotora da licitação analisar o pedido de
+participação e decidir, motivadamente, se aceitará ou recusará o pedido de participação.
+
+$ 3º Na hipótese de inclusão, na licitação, dos quantitativos indicados pelos
+participantes na fase da IRP, o edital deverá ser ajustado de acordo com o quantitativo total a
+ser licitado.
+
+Art. 26. A ata de registro de preços terá prazo de validade de até 1 (um) ano, podendo
+ser prorrogado por igual período desde que comprovada a vantajosidade dos preços registrados.
+
+Art. 27. A ata de registro de preços não será objeto de reajuste, repactuação, revisão,
+ou supressão ou acréscimo quantitativo ou qualitativo, sem prejuízo da incidência desses
+institutos aos contratos dela decorrente, nos termos da Lei nº 14.133, de 1º de abril de 2021.
+
+Art. 28. O registro do fornecedor será cancelado quando:
+| - descumprir as condições da ata de registro de preços;
+
+ll - não retirar a nota de empenho ou instrumento equivalente no prazo estabelecido pela
+Administração, sem justificativa aceitável;
+
+I1ll - não aceitar reduzir o preço de contrato decorrente da ata, na hipótese deste se tornar superior
+àqueles praticados no mercado; ou
+
+IV - sofrer as sanções previstas nos incisos |ll ou IV do caput do art. 156 da Lei nº 14.133, de 1º
+de abril de 2021.
+
+Parágrafo único. O cancelamento de registros nas hipóteses previstas nos incisos |,
+ll e IV do caput será formalizado por despacho fundamentado.
+
+Art. 29. O cancelamento do registro de preços também poderá ocorrer por fato
+superveniente, decorrente de caso fortuito ou força maior, que prejudique o cumprimento da ata,
+devidamente comprovados e justificados:
+
+| - por razão de interesse público; ou
+
+|l - a pedido do fornecedor.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+CAPÍTULO XIV
+DO CREDENCIAMENTO
+
+Art. 30. O credenciamento poderá ser utilizado quando a administração pretender
+formar uma rede de prestadores de serviços, pessoas físicas ou jurídicas, e houver inviabilidade
+de competição em virtude da possibilidade da contratação de qualquer uma das empresas
+credenciadas.
+
+$ 1º. O credenciamento será divulgado por meio de edital de chamamento público,
+que deverá conter as condições gerais para o ingresso de qualquer prestador interessado em
+integrar a lista de credenciados, desde que preenchidos os requisitos definidos no referido
+documento.
+
+$ 2º. A administração fixará o preço a ser pago ao credenciado, bem como as
+respectivas condições de reajustamento.
+
+$ 3º. A escolha do credenciado poderá ser feita por terceiros sempre que este for o
+beneficiário direto do serviço.
+
+$ 4º. Quando a escolha do prestador for feita pela administração, o instrumento
+convocatório deverá fixar a maneira pela qual será feita a distribuição dos serviços, desde que
+tais critérios sejam aplicados de forma objetiva e impessoal.
+
+$ 5º. O prazo mínimo para recebimento de documentação dos interessados não
+poderá ser inferior a 30 (trinta) dias.
+
+$ 6º. O prazo para credenciamento deverá ser reaberto, no mínimo, uma vez a cada
+12 (doze) meses, para ingresso de novos interessados.
+
+CAPÍTULO XV
+DO REGISTRO CADASTRAL
+
+Art. 31. Enquanto não for efetivamente implementado o Portal Nacional de
+Contratações Públicas (PNCP) previsto no art. 87 da Lei n.º 14.133, de 1º de abril de 2021, o
+sistema de registro cadastral de fornecedores do Município será regido, no que couber, pelo
+disposto na Instrução Normativa nº 3, de 26 de abril de 2018 (Sicaf — Sistema de Cadastramento
+Unificado de Fornecedores), da Secretaria de Gestão do Ministério do Planejamento,
+Desenvolvimento e Gestão.
+
+Parágrafo único. Em nenhuma hipótese as licitações realizadas pelo Município serão
+restritas a fornecedores previamente cadastrados na forma do disposto no caput deste artigo,
+exceto se o cadastramento for condição indispensável para autenticação na plataforma utilizada
+para realização do certame ou procedimento de contratação direta.
+
+CAPÍTULO XVI
+DO CONTRATO NA FORMA ELETRÔNICA
+
+Art. 32. Os contratos e termos aditivos celebrados entre o Município e os particulares
+poderão adotar a forma eletrônica.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+É MONTE ALTO =
+
+Parágrafo único. Para assegurar a confiabilidade dos dados e informações, as
+assinaturas eletrônicas apostas no contrato deverão ser classificadas como qualificadas, por
+meio do uso de certificado digital pelas partes subscritoras, nos termos do art. 4º, inc. IIl, da Lei
+nº 14.063, de 23 de setembro de 2020.
+
+CAPÍTULO XVII
+DA SUBCONTRATAÇÃO
+
+Art. 33. A possibilidade de subcontratação, se for o caso, deve ser expressamente
+prevista no edital ou no instrumento de contratação direta, ou alternativamente no contrato ou
+instrumento equivalente, o qual deve, ainda, informar o percentual máximo permitido para
+subcontratação.
+
+8 1º. É vedada a subcontratação de pessoa física ou jurídica, se aquela ou os
+dirigentes desta mantiverem vínculo de natureza técnica, comercial, econômica, financeira,
+trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente público que
+desempenhe função na licitação ou atue na fiscalização ou na gestão do contrato, ou se deles
+forem cônjuge, companheiro ou parente em linha reta, colateral, ou por afinidade, até o terceiro
+grau, devendo essa proibição constar expressamente do edital de licitação.
+
+8 2º. É vedada cláusula que permita a subcontratação da parcela principal do objeto,
+entendida esta como o conjunto de itens para os quais, como requisito de habilitação técnico-
+operacional, foi exigida apresentação de atestados com o objetivo de comprovar a execução de
+serviço, pela licitante ou contratada, com características semelhantes.
+
+$ 3º. No caso de fornecimento de bens, a indicação de produtos que não sejam de
+fabricação própria não deve ser considerada subcontratação.
+
+CAPÍTULO XVII!
+DO RECEBIMENTO PROVISÓRIO E DEFINITIVO
+
+Art. 34. O objeto do contrato será recebido:
+| - em se tratando de obras e serviços:
+
+a) provisoriamente, em até 15 (quinze) dias da comunicação escrita do contratado de término da
+execução;
+
+b) definitivamente, após prazo de observação ou vistoria, que não poderá ser superior a 90
+(noventa) dias, salvo em casos excepcionais, devidamente justificados e previstos no ato
+convocatório ou no contrato.
+
+|l - em se tratando de compras:
+a) provisoriamente, em até 15 (quinze) dias da comunicação escrita do contratado;
+
+b) definitivamente, para efeito de verificação da qualidade e quantidade do material e
+consequente aceitação, em até 30 (trinta) dias da comunicação escrita do contratado.
+
+Parágrafo único. O edital ou o instrumento de contratação direta, ou alternativamente o contrato
+ou instrumento equivalente, poderá prever apenas o recebimento definitivo, podendo ser
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+
+PREFEITURA DE
+
+MONTE ALTO *=
+
+dispensado o recebimento provisório de gêneros perecíveis e alimentação preparada, objetos de
+pequeno valor, ou demais contratações que não apresentem riscos consideráveis à
+Administração.
+
+CAPÍTULO XIX
+DAS SANÇÕES
+
+Art. 35. Observados o contraditório e a ampla defesa, a inexecução total ou parcial
+do contrato celebrado ou compromisso assumido, autoriza a aplicação de multa:
+
+| - de 20 a 30% (trinta por cento) calculada sobre o valor total ou parte da obrigação não
+cumprida;
+
+ll - no valor igual à diferença de preço resultante da nova contratação realizada para
+complementação do interrompido;
+
+Parágrafo único. As penalidades previstas nos incisos | e |l deste artigo são
+alternativas, prevalecendo a de maior valor.
+
+CAPÍTULO XX
+DAS DISPOSIÇÕES FINAIS
+
+Art. 36. Em âmbito municipal, a convocação dos interessados em participar do
+certame licitatório será efetuada mediante divulgação e manutenção do inteiro teor do ato
+convocatório e de seus anexos no Portal Nacional de Contratações Públicas (PNCP), na página
+eletrônica mantida no site oficial do Município de Monte Alto-SP, assim como em aviso resumido
+no Diário Oficial do Município e Diário Oficial do Estado de São Paulo.
+
+Parágrafo único. Até a integração com o Portal Nacional de Contratações Públicas,
+a publicidade dos procedimentos fundados nas Leis federais nº 8.666, de 21 de junho de 1993,
+nº10.520, de 17 de julho de 2002e nº 14.133, de 1º de abril de 2021 far-se-á no Diário Oficial do
+
+Município, no Portal da Transparência e nos demais meios de divulgação aplicáveis no caso
+concreto.
+
+Art. 37. Este decreto entra em vigor na data de sua publicação.
+
+Monte Alto, 27 de julho de 2023.
+
+PREGÃO ELETRÔNICO Nº 90113/2.025 - PROCESSO SA/DL Nº 200/2.025
+
+

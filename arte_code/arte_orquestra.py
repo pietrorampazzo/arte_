@@ -245,11 +245,11 @@ class WavecodeAutomation:
             editais_encontrados = self.driver.find_elements(By.XPATH, "//div[contains(@class, 'item-body-block')]//p[text()='UASG']")
             
             if not editais_encontrados:
-                self.log("✅ Página carregada, mas nenhum edital foi encontrado. Encerrando a etapa de download de forma limpa.")
+                self.log("⏭️ Página carregada, mas nenhum edital foi encontrado. Encerrando a etapa de download de forma limpa.")
                 self.save_debug_screenshot("no_editais_found")
                 return False
 
-            self.log(f"✅ Página de editais carregada com {len(editais_encontrados)} itens.")
+            self.log(f"⏭️ Página de editais carregada com {len(editais_encontrados)} itens.")
             self.save_debug_screenshot("editais_page_loaded")
             return True
             
@@ -270,7 +270,7 @@ class WavecodeAutomation:
                 break
             last_height = new_height
         self.driver.execute_script("window.scrollTo(0, 0);")
-        self.log("✅ Rolagem concluída!")
+        self.log("⏭️ Rolagem concluída!")
 
     def find_download_buttons(self):
         """
@@ -523,7 +523,7 @@ class WavecodeAutomation:
                 
                 time.sleep(1)
             
-            self.log(f"✅ Página {page_num}: {len(newly_downloaded)} novos editais baixados.")
+            self.log(f"⏭️ Página {page_num}: {len(newly_downloaded)} novos editais baixados.")
             return newly_downloaded
             
         except Exception as e:
@@ -1010,7 +1010,7 @@ class WavecodeAutomation:
                                 )
                             )
                             self.driver.execute_script("arguments[0].click();", page_button)
-                            self.log(f"✅ Clique na página '{page_num}' realizado.")
+                            self.log(f"⏭️ Clique na página '{page_num}' realizado.")
                             time.sleep(8)
                             self.scroll_to_load_editais()
 
