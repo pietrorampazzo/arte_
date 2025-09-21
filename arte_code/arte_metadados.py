@@ -9,6 +9,7 @@ import os
 import time
 import logging
 import pandas as pd
+from openpyxl import load_workbook
 from tqdm import tqdm
 import google.generativeai as genai
 import google.api_core.exceptions as google_exceptions
@@ -25,7 +26,7 @@ from dotenv import load_dotenv
 _SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(_SCRIPT_DIR)
 CAMINHO_DADOS = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\PRODUTOS\ultra_base.xlsx"
-PASTA_SAIDA = r'C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\RESULTADO_metadados'
+PASTA_SAIDA = r'C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\METADADOS'
 ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "categoria_GPT.xlsx")
 
 # --- LLM Config ---
@@ -35,24 +36,43 @@ load_dotenv()
 # O script tentará os modelos nesta ordem. Se um falhar por cota, ele passa para o próximo.
 # Usando nomes padrão da API para garantir compatibilidade.
 LLM_MODELS_FALLBACK = [  
-    "gemini-2.5-pro",
-    "gemini-2.0-flash",
     "gemini-2.0-flash-lite",    
     "gemini-2.5-flash",
-    "gemini-2.5-flash-lite",
-
     "gemini-1.5-flash",  
+    "gemini-2.5-flash-lite",
+    "gemini-2.5-pro",
+    "gemini-2.0-flash",
 ]
 LLM_MODEL_PRIMARY = LLM_MODELS_FALLBACK[0]
 
 # Parâmetros de Processamento
-BATCH_SIZE = 30  # Tamanho do batch para chamadas ao LLM
+BATCH_SIZE = 15  # Tamanho do batch para chamadas ao LLM
 MAX_RETRIES = 3  # Número de tentativas em caso de erro
 TEMPO = 10  # Delay (em segundos) entre chamadas de BATCH de categorização.
 
 # Logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
+
+# --- Estrutura de Categorias ---
+# Centralizar as categorias facilita a manutenção e a consistência com o prompt.
+CATEGORIAS_PRODUTOS = {
+    "EQUIPAMENTO_SOM": ["caixa_ativa", "caixa_passiva", "caixa_portatil", "line_array", "subwoofer_ativo", "subwoofer_passivo", "amplificador_potencia", "cabeçote_amplificado", "coluna_vertical", "monitor_de_palco"],
+    "EQUIPAMENTO_AUDIO": ["microfone_dinamico", "microfone_condensador", "microfone_lapela", "microfone_sem_fio", "microfone_instrumento", "mesa_analogica", "mesa_digital", "interface_audio", "processador_dsp", "fone_monitor", "sistema_iem", "pedal_efeitos"],
+    "INSTRUMENTO_CORDA": ["violao", "guitarra", "contra_baixo", "violino", "violoncelo", "ukulele", "cavaquinho"],
+    "INSTRUMENTO_PERCUSSAO": ["bateria_acustica", "bateria_eletronica", "repinique", "rocari", "tantan", "rebolo", "surdo_mao", "cuica", "zabumba", "caixa_guerra", "bombo_fanfarra", "lira_marcha", "tarol", "malacacheta", "caixa_bateria", "pandeiro", "tamborim", "reco_reco", "agogô", "triangulo", "chocalho", "afuche", "cajon", "bongo", "conga", "djembé", "timbal", "atabaque", "berimbau", "tam_tam", "caxixi", "carilhao", "xequerê", "prato"],
+    "INSTRUMENTO_SOPRO": ["saxofone", "trompete", "trombone", "trompa", "clarinete", "flauta", "tuba", "flugelhorn", "bombardino", "corneta", "cornetão"],
+    "INSTRUMENTO_TECLADO": ["teclado_digital", "piano_acustico", "piano_digital", "sintetizador", "controlador_midi", "glockenspiel", "metalofone"],
+    "ACESSORIO_MUSICAL": ["banco_teclado", "estante_partitura", "suporte_microfone", "suporte_instrumento", "carrinho_transporte", "case_bag", "afinador", "metronomo", "cabos_audio", "palheta", "cordas", "oleo_lubrificante", "graxa", "surdina", "bocal_trompete", "pele_percussao", "baqueta", "talabarte", "pedal_bumbo", "chimbal_hihat"],
+    "EQUIPAMENTO_TECNICO": ["ssd", "fonte_energia", "switch_rede", "projetor", "drone"]
+}
+
+def append_df_to_excel(filename, df, **to_excel_kwargs):
+    """Anexa um DataFrame a um arquivo .xlsx existente sem reescrever o arquivo inteiro."""
+    with pd.ExcelWriter(filename, engine='openpyxl', mode='a', if_sheet_exists='overlay') as writer:
+        # Escreve o DataFrame sem o cabeçalho, começando da primeira linha vazia.
+        df.to_excel(writer, header=False, startrow=writer.sheets['Sheet1'].max_row, **to_excel_kwargs)
+
 
 # =====================
 # FUNÇÕES DE APOIO
@@ -208,26 +228,9 @@ def processar_batch_llm(batch_descricoes: list[str]) -> list[dict]:
     """Envia um batch de descrições para o LLM e processa a resposta."""
     prompt = (
         "Você é um especialista em categorização de produtos para um e-commerce de instrumentos musicais e áudio.\n"
-        "Sua tarefa é classificar cada descrição de produto fornecida usando ESTRITAMENTE as categorias e subcategorias definidas abaixo.\n\n"
+        f"Sua tarefa é classificar cada descrição de produto fornecida usando ESTRITAMENTE as categorias e subcategorias definidas abaixo.\n\n"
         "**ESTRUTURA DE CATEGORIAS (USE APENAS ESTAS):**\n"
-
-        "EQUIPAMENTO_SOM : caixa_ativa, caixa_passiva, caixa_portatil, line_array, subwoofer_ativo, subwoofer_passivo, amplificador_potencia, cabeçote_amplificado, coluna_vertical, monitor_de_palco"
-
-        "EQUIPAMENTO_AUDIO : microfone_dinamico, microfone_condensador, microfone_lapela, microfone_sem_fio, microfone_instrumento, mesa_analogica, mesa_digital, interface_audio, processador_dsp, fone_monitor, sistema_iem, pedal_efeitos"
-
-        "INSTRUMENTO_CORDA : violao, guitarra, contra_baixo, violino, violoncelo, ukulele, cavaquinho"
-
-        "INSTRUMENTO_PERCUSSAO : bateria_acustica, repinique, rocari, tantan, rebolo,surdo_mao, cuica, zabumba, caixa_guerra, bombo_fanfarra, lira_marcha,tarol, malacacheta, caixa_bateria, pandeiro, tamborim,reco_reco, agogô, triangulo, chocalho, afuche, cajon, bongo, conga, djembé, timbal, atabaque, berimbau,tam_tam, caxixi, carilhao, xequerê, prato"
-
-        "INSTRUMENTO_SOPRO : saxofone, trompete, trombone, trompa, clarinete, flauta, tuba, flugelhorn, bombardino, corneta, cornetão"
-
-        "INSTRUMENTO_TECLADO : teclado_digital, piano_acustico, piano_digital, sintetizador, controlador_midi, glockenspiel, metalofone"
-
-        "ACESSORIO_MUSICAL : banco_teclado, estante_partitura, suporte_microfone, suporte_instrumento, carrinho_transporte, case_bag, afinador, metronomo, cabos_audio, palheta, cordas, oleo_lubrificante, graxa, surdina, bocal_trompete, pele_percussao, baqueta, talabarte, pedal_bumbo, chimbal_hihat"
-
-        "EQUIPAMENTO_TECNICO : ssd, fonte_energia, switch_rede, projetor, drone"
-
-        
+        f"{json.dumps(CATEGORIAS_PRODUTOS, indent=2, ensure_ascii=False)}\n\n"
         "**TAREFA:**\n"
         "Para CADA descrição na lista de entrada (há exatamente {len(batch_descricoes)} itens), determine a `CATEGORIA_PRINCIPAL` e a `SUBCATEGORIA`.\n"
         "Retorne EXATAMENTE {len(batch_descricoes)} objetos JSON, um por descrição, na ordem da lista.\n\n"
@@ -265,139 +268,124 @@ def processar_batch_llm(batch_descricoes: list[str]) -> list[dict]:
 def processar_produtos():
     """
     Função principal que orquestra a leitura, processamento e gravação dos dados.
-    Implementa uma lógica de atualização incremental para processar apenas produtos novos ou alterados.
+    Processa produtos em lotes e salva o progresso a cada lote bem-sucedido.
     """
     os.makedirs(PASTA_SAIDA, exist_ok=True)
-    configurar_llm()  # Apenas configura a API, não retorna mais o modelo
-    
+
+    # --- Prepara o arquivo de saída ---
+    # Se o arquivo não existe, cria com o cabeçalho correto.
+    if not os.path.exists(ARQUIVO_SAIDA):
+        logger.info(f"Criando novo arquivo de saída: {ARQUIVO_SAIDA}")
+        ordem_final_colunas = ['ID_PRODUTO', 'categoria_principal', 'subcategoria', 'MARCA', 'MODELO', 'VALOR', 'DESCRICAO']
+        pd.DataFrame(columns=ordem_final_colunas).to_excel(ARQUIVO_SAIDA, index=False)
+
+    configurar_llm()
+
     # 1. Carregar e preparar a base de produtos de origem
     logger.info(f"Carregando dados de origem de: {CAMINHO_DADOS}")
     df_source = pd.read_excel(CAMINHO_DADOS)
-    # Padroniza nomes das colunas para MAIÚSCULAS para consistência
     df_source.columns = [str(c).strip().upper() for c in df_source.columns]
-
-    # Gera IDs únicos para a base de produtos atual
     df_source['ID_PRODUTO'] = df_source.apply(generate_product_id, axis=1)
     df_source = df_source.dropna(subset=['DESCRICAO']).reset_index(drop=True)
 
     df_to_process = pd.DataFrame()
-    df_existing_processed = pd.DataFrame()
 
     # 2. Verificar se já existe uma base processada para fazer a comparação
-    if os.path.exists(ARQUIVO_SAIDA):
-        logger.info(f"Arquivo de metadados existente encontrado. Verificando atualizações...")
+    logger.info(f"Arquivo de metadados existente encontrado. Verificando atualizações...")
+    try:
         df_processed = pd.read_excel(ARQUIVO_SAIDA)
-        
-        # --- VERIFICAÇÃO DE COMPATIBILIDADE ---
-        # Se o arquivo antigo não tiver a coluna 'ID_PRODUTO', força um reprocessamento completo.
-        if 'ID_PRODUTO' not in df_processed.columns:
-            logger.warning("O arquivo de metadados existente é de uma versão antiga (sem ID_PRODUTO).")
-            logger.warning("Será feito um reprocessamento completo de toda a base de produtos para atualizar.")
-            df_to_process = df_source.copy()
-            df_existing_processed = pd.DataFrame() # Reseta os dados existentes
-        else:
-            # Lógica de sincronização padrão
-            source_ids = set(df_source['ID_PRODUTO'])
-            processed_ids = set(df_processed['ID_PRODUTO'])
+    except Exception as e:
+        logger.error(f"Erro ao ler o arquivo Excel existente: {e}. Tratando como se não existisse.")
+        df_processed = pd.DataFrame(columns=['ID_PRODUTO']) # Cria um DF vazio para continuar
 
-            new_ids = source_ids - processed_ids
-            deleted_ids = processed_ids - source_ids
-
-            if new_ids:
-                logger.info(f"Encontrados {len(new_ids)} novos produtos para processar.")
-                df_to_process = df_source[df_source['ID_PRODUTO'].isin(new_ids)].copy()
-            else:
-                logger.info("Nenhum produto novo para processar.")
-
-            if deleted_ids:
-                logger.info(f"Encontrados {len(deleted_ids)} produtos removidos da base. Eles serão excluídos.")
-
-            # Mantém apenas os produtos que ainda existem e já foram processados
-            df_existing_processed = df_processed[~df_processed['ID_PRODUTO'].isin(deleted_ids)]
-            logger.info(f"{len(df_existing_processed)} produtos existentes serão mantidos.")
-    else:
-        logger.info("Nenhum arquivo de metadados existente. Processando todos os produtos da base.")
+    if 'ID_PRODUTO' not in df_processed.columns or df_processed.empty:
+        if not df_processed.empty:
+            logger.warning("O arquivo de metadados existente é de uma versão antiga ou está vazio. Reprocessando tudo.")
+            # Recria o arquivo com o cabeçalho correto
+            ordem_final_colunas = ['ID_PRODUTO', 'categoria_principal', 'subcategoria', 'MARCA', 'MODELO', 'VALOR', 'DESCRICAO']
+            pd.DataFrame(columns=ordem_final_colunas).to_excel(ARQUIVO_SAIDA, index=False)
+            logger.info("Arquivo antigo recriado para garantir consistência.")
         df_to_process = df_source.copy()
-
-    # 3. Processar apenas os produtos novos com o LLM
-    if not df_to_process.empty:
-        logger.info(f"Iniciando processamento de {len(df_to_process)} novos produtos.")
-
-        # --- ETAPA 3.1: CURADORIA DA DESCRIÇÃO (NOVO) ---
-        logger.info(f"Iniciando etapa de CURADORIA EM BATCH para {len(df_to_process)} produtos.")
-        curated_descriptions_all = []
-        # Prepara os dados para o batch, incluindo o ID para remapeamento
-        produtos_para_curar = df_to_process.apply(
-            lambda row: {
-                'id': row['ID_PRODUTO'],
-                'marca': row.get('MARCA', 'N/A'),
-                'modelo': row.get('MODELO', 'N/A'),
-                'descricao': clean_html(row['DESCRICAO'])
-            }, axis=1
-        ).tolist()
-
-        for i in tqdm(range(0, len(produtos_para_curar), BATCH_SIZE), desc="Curando descrições em batch"):
-            batch_produtos = produtos_para_curar[i:i + BATCH_SIZE]
-            curated_batch = curar_descricoes_em_batch_llm(batch_produtos)
-            curated_descriptions_all.extend(curated_batch)
-            time.sleep(TEMPO)
-
-        df_to_process['DESCRICAO_CURADA'] = curated_descriptions_all
-
-        # --- ETAPA 3.2: CATEGORIZAÇÃO EM BATCH (usando descrições curadas) ---
-        logger.info("Iniciando etapa de categorização em batch.")
-        metadados_all = []
-        descricoes_para_categorizar = df_to_process['DESCRICAO_CURADA'].tolist()
-
-        for i in tqdm(range(0, len(descricoes_para_categorizar), BATCH_SIZE), desc="Categorizando produtos"):
-            batch_descricoes = descricoes_para_categorizar[i:i + BATCH_SIZE]
-            metadados = processar_batch_llm(batch_descricoes)
-            time.sleep(TEMPO)
-            if len(metadados) != len(batch_descricoes):
-                logger.warning(f"Inconsistência no batch {i}. Esperado: {len(batch_descricoes)}, Recebido: {len(metadados)}. Preenchendo com erro.")
-                metadados = [{'CATEGORIA_PRINCIPAL': 'ERRO_ALINHAMENTO', 'SUBCATEGORIA': 'ERRO_ALINHAMENTO'}] * len(batch_descricoes)
-            metadados_all.extend(metadados)
-
-        df_metadados = pd.DataFrame(metadados_all)
-        df_to_process.reset_index(drop=True, inplace=True)
-        df_metadados.reset_index(drop=True, inplace=True)
-
-        df_newly_processed = pd.concat([df_to_process, df_metadados], axis=1)
-        df_newly_processed['DESCRICAO'] = df_newly_processed['DESCRICAO_CURADA'] # Substitui a descrição original pela curada
-        df_newly_processed = df_newly_processed.drop(columns=['DESCRICAO_CURADA'])
-
-        # Combina os produtos existentes com os recém-processados
-        df_final = pd.concat([df_existing_processed, df_newly_processed], ignore_index=True)
     else:
-        logger.info("Nenhum produto novo para processar. A base final será a base existente (com exclusões).")
-        df_final = df_existing_processed
+        source_ids = set(df_source['ID_PRODUTO'])
+        processed_ids = set(df_processed['ID_PRODUTO'])
+        new_ids = source_ids - processed_ids
+        deleted_ids = processed_ids - source_ids
 
-    # 4. Formatar e salvar o arquivo de saída final
-    if not df_final.empty:
-        logger.info("Formatando colunas para o padrão de saída final.")
-
-        rename_map = {'CATEGORIA_PRINCIPAL': 'categoria_principal', 'SUBCATEGORIA': 'subcategoria'}
-        df_final = df_final.rename(columns=rename_map)
-
-        ordem_final_colunas = ['ID_PRODUTO', 'categoria_principal', 'subcategoria', 'MARCA', 'MODELO', 'VALOR', 'DESCRICAO']
-
-        # Garante que todas as colunas existam, preenchendo com NA se necessário
-        for col in ordem_final_colunas:
-            if col not in df_final.columns:
-                df_final[col] = pd.NA
-
-        # Reordena e remove colunas extras
-        df_final = df_final[ordem_final_colunas]
-
-        logger.info(f"Salvando arquivo final com {len(df_final)} produtos em: {ARQUIVO_SAIDA}")
-        df_final.to_excel(ARQUIVO_SAIDA, index=False)
-        logger.info("Operação concluída com sucesso!")
-    else:
-        if os.path.exists(ARQUIVO_SAIDA):
-            os.remove(ARQUIVO_SAIDA)
-            logger.info(f"Todos os produtos foram removidos. Arquivo '{ARQUIVO_SAIDA}' deletado.")
+        if new_ids:
+            logger.info(f"Encontrados {len(new_ids)} novos produtos para processar.")
+            df_to_process = df_source[df_source['ID_PRODUTO'].isin(new_ids)].copy()
         else:
-            logger.info("Nenhum produto para salvar. O arquivo de saída não será criado.")
+            logger.info("Nenhum produto novo para processar.")
+
+        if deleted_ids:
+            logger.info(f"Encontrados {len(deleted_ids)} produtos removidos. Eles serão excluídos da base final.")
+            df_cleaned = df_processed[~df_processed['ID_PRODUTO'].isin(deleted_ids)].copy()
+            df_cleaned.to_excel(ARQUIVO_SAIDA, index=False)
+            logger.info(f"Arquivo atualizado com {len(df_cleaned)} produtos após remoção.")
+
+    # 3. Processar novos produtos em lotes e salvar incrementalmente
+    if not df_to_process.empty:
+        logger.info(f"Iniciando processamento incremental de {len(df_to_process)} novos produtos.")
+        
+        produtos_para_processar = df_to_process.to_dict('records')
+
+        for i in tqdm(range(0, len(produtos_para_processar), BATCH_SIZE), desc="Processando e salvando lotes"):
+            batch_produtos_dict = produtos_para_processar[i:i + BATCH_SIZE]
+            df_batch_to_process = pd.DataFrame(batch_produtos_dict)
+
+            # --- ETAPA 3.1: CURADORIA DO BATCH ---
+            logger.info(f"Lote {i//BATCH_SIZE + 1}: Iniciando curadoria de {len(df_batch_to_process)} produtos.")
+            produtos_para_curar = df_batch_to_process.apply(
+                lambda row: {
+                    'id': row['ID_PRODUTO'],
+                    'marca': row.get('MARCA', 'N/A'),
+                    'modelo': row.get('MODELO', 'N/A'),
+                    'descricao': clean_html(row['DESCRICAO'])
+                }, axis=1
+            ).tolist()
+            
+            curated_batch = curar_descricoes_em_batch_llm(produtos_para_curar)
+            df_batch_to_process['DESCRICAO_CURADA'] = curated_batch
+            
+            # --- ETAPA 3.2: CATEGORIZAÇÃO DO BATCH ---
+            logger.info(f"Lote {i//BATCH_SIZE + 1}: Iniciando categorização.")
+            descricoes_para_categorizar = df_batch_to_process['DESCRICAO_CURADA'].tolist()
+            metadados = processar_batch_llm(descricoes_para_categorizar)
+
+            if len(metadados) != len(descricoes_para_categorizar):
+                logger.error(f"Lote {i//BATCH_SIZE + 1}: Inconsistência no batch. Pulando salvamento deste lote.")
+                continue
+
+            df_metadados = pd.DataFrame(metadados)
+            df_batch_to_process.reset_index(drop=True, inplace=True)
+            df_metadados.reset_index(drop=True, inplace=True)
+
+            df_batch_processed = pd.concat([df_batch_to_process, df_metadados], axis=1)
+            df_batch_processed['DESCRICAO'] = df_batch_processed['DESCRICAO_CURADA']
+            df_batch_processed = df_batch_processed.drop(columns=['DESCRICAO_CURADA'])
+
+            # --- ETAPA 3.3: SALVAMENTO INCREMENTAL ---
+            try:
+                rename_map = {'CATEGORIA_PRINCIPAL': 'categoria_principal', 'SUBCATEGORIA': 'subcategoria'}
+                df_batch_processed = df_batch_processed.rename(columns=rename_map)
+                ordem_final_colunas = ['ID_PRODUTO', 'categoria_principal', 'subcategoria', 'MARCA', 'MODELO', 'VALOR', 'DESCRICAO']
+
+                for col in ordem_final_colunas:
+                    if col not in df_batch_processed.columns:
+                        df_batch_processed[col] = pd.NA
+
+                df_to_append = df_batch_processed[ordem_final_colunas]
+
+                append_df_to_excel(ARQUIVO_SAIDA, df_to_append, index=False)
+                logger.info(f"Lote {i//BATCH_SIZE + 1} processado e anexado ao arquivo de saída.")
+
+            except Exception as e:
+                logger.error(f"Erro ao salvar o lote {i//BATCH_SIZE + 1}: {e}. Progresso do lote perdido.")
+            
+            time.sleep(TEMPO)
+
+    logger.info("Processamento incremental concluído.")
 
 # =====================
 # EXECUTAR O SCRIPT

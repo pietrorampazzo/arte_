@@ -17,7 +17,7 @@ import colorsys
 # --- File Paths ---
 BASE_DIR = r"C:\Users\pietr\OneDrive\.vscode\arte_"
 CAMINHO_EDITAL = os.path.join(BASE_DIR, "DOWNLOADS", "master.xlsx")
-CAMINHO_BASE = os.path.join(BASE_DIR, "DOWNLOADS", "RESULTADO_metadados", "categoria_GPT.xlsx")
+CAMINHO_BASE = os.path.join(BASE_DIR, "DOWNLOADS", "METADADOS", "categoria_GPT.xlsx")
 CAMINHO_SAIDA = os.path.join(BASE_DIR, "DOWNLOADS", "master_heavy.xlsx")
 CAMINHO_HEAVY_EXISTENTE = CAMINHO_SAIDA
 # --- Financial Parameters ---
@@ -43,7 +43,7 @@ CATEGORIZATION_KEYWORDS = {
 
         "INSTRUMENTO_CORDA" : ["violao", "guitarra", "contra_baixo", "violino", "violoncelo", "ukulele", "cavaquinho"],
 
-        "INSTRUMENTO_PERCUSSAO" : ["bateria_acustica", "repinique", "rocari", "tantan", "rebolo","surdo_mao", "cuica", "zabumba", "caixa_guerra", "bombo_fanfarra", "lira_marcha","tarol", "malacacheta", "caixa_bateria", "pandeiro", "tamborim","reco_reco", "agogô", "triangulo", "chocalho", "afuche", "cajon", "bongo", "conga", "djembé", "timbal", "atabaque", "berimbau","tam_tam", "caxixi", "carilhao", "xequerê", "prato"],
+        "INSTRUMENTO_PERCUSSAO" : ["bateria_acustica", "bateria_eletronica", "repinique", "rocari", "tantan", "rebolo","surdo_mao", "cuica", "zabumba", "caixa_guerra", "bombo_fanfarra", "lira_marcha","tarol", "malacacheta", "caixa_bateria", "pandeiro", "tamborim","reco_reco", "agogô", "triangulo", "chocalho", "afuche", "cajon", "bongo", "conga", "djembé", "timbal", "atabaque", "berimbau","tam_tam", "caxixi", "carilhao", "xequerê", "prato"],
 
         "INSTRUMENTO_SOPRO" : ["saxofone", "trompete", "trombone", "trompa", "clarinete", "flauta", "tuba", "flugelhorn", "bombardino", "corneta", "cornetão"],
 
@@ -224,6 +224,92 @@ Retorne "best_match" como `null`. Adicionalmente, inclua "closest_match" com os 
                     return { "best_match": None, "closest_match": None, "reasoning": f"Erro na decodificação do JSON da API após {MAX_RETRIES} tentativas: {e}"}
     else:
         return { "best_match": None, "closest_match": None, "reasoning": "Falha na chamada da API para todos os modelos de fallback."}
+
+def get_top_5_matches_by_category(item_edital, df_candidates, category_type):
+    """
+    2nd and 3rd LLM:
+    Analyzes products filtered by category_type ('categoria_principal' or 'subcategoria') and returns top 5 matches.
+    """
+    print(f" - Asking AI for top 5 matches by {category_type}...")
+
+    candidates_json = df_candidates[['DESCRICAO','categoria_principal','subcategoria','MARCA','MODELO','VALOR']] \
+                        .to_json(orient="records", force_ascii=False, indent=2)
+
+    prompt = f"""<identidade>Você é um consultor de licitações experiente em áudio/instrumentos, focado em análise técnica e econômica.</identidade>
+<objetivo>
+1. Analise tecnicamente o item do edital: Descrição: "{item_edital['DESCRICAO']}" Referência: "{item_edital.get('REFERENCIA', 'N/A')}"
+2. Compare-o com os produtos na base filtrada por {category_type}.
+3. Retorne os 5 produtos mais compatíveis tecnicamente, ordenados do melhor para o pior.
+4. Use pesquisas na internet para confirmar as especificações técnicas.
+5. Responda apenas com um array JSON contendo objetos com as seguintes chaves: Marca, Modelo, Valor, Descricao_fornecedor, Compatibilidade_analise.
+</objetivo>
+
+<formato_saida>
+[
+  {{
+    "Marca": "Marca do Produto",
+    "Modelo": "Modelo do Produto",
+    "Valor": 1234.56,
+    "Descricao_fornecedor": "Descrição completa do produto na base",
+    "Compatibilidade_analise": "Análise quantitativa da compatibilidade."
+  }},
+  ...
+]
+</formato_saida><base_fornecedores_filtrada>{candidates_json}</base_fornecedores_filtrada>"""
+
+    response_text = gerar_conteudo_com_fallback(prompt, LLM_MODELS_FALLBACK)
+    if response_text:
+        try:
+            cleaned_response = response_text.strip().replace("```json", "").replace("```", "")
+            return json.loads(cleaned_response)
+        except json.JSONDecodeError as e:
+            print(f"   - ERROR decoding JSON from AI for top 5 matches by {category_type}: {e}")
+            return []
+    else:
+        return []
+
+def get_best_match_from_combined(item_edital, combined_products):
+    """
+    4th LLM:
+    Receives combined list of products (from 2nd and 3rd LLMs) and selects the best product.
+    """
+    print(" - Asking AI to select the best product from combined candidates...")
+
+    candidates_json = json.dumps(combined_products, ensure_ascii=False, indent=2)
+
+    prompt = f"""<identidade>Você é um consultor de licitações experiente em áudio/instrumentos, focado em análise técnica e econômica.</identidade>
+<objetivo>
+1. Analise tecnicamente o item do edital: Descrição: "{item_edital['DESCRICAO']}" Referência: "{item_edital.get('REFERENCIA', 'N/A')}"
+2. Compare-o com os produtos fornecidos na lista combinada.
+3. Selecione o produto que melhor atende às especificações técnicas e econômicas.
+4. Responda apenas com um objeto JSON contendo Marca, Modelo, Valor, Descricao_fornecedor, Compatibilidade_analise.
+</objetivo>
+
+<formato_saida>
+{{
+  "Marca": "Marca do Produto",
+  "Modelo": "Modelo do Produto",
+  "Valor": 1234.56,
+  "Descricao_fornecedor": "Descrição completa do produto na base",
+  "Compatibilidade_analise": "Análise quantitativa da compatibilidade."
+}}
+</formato_saida>
+
+<produtos_combinados>
+{candidates_json}
+</produtos_combinados>
+"""
+
+    response_text = gerar_conteudo_com_fallback(prompt, LLM_MODELS_FALLBACK)
+    if response_text:
+        try:
+            cleaned_response = response_text.strip().replace("```json", "").replace("```", "")
+            return json.loads(cleaned_response)
+        except json.JSONDecodeError as e:
+            print(f"   - ERROR decoding JSON from AI for combined best match: {e}")
+            return None
+    else:
+        return None
 
 def calculate_compatibility_score(analise: str, edital_subcategory: str | None, product_subcategory: str | None) -> float:
     """
@@ -428,10 +514,51 @@ def main():
             closest_match_data = ai_result.get("closest_match")
             reasoning = ai_result.get("reasoning")
 
-            if best_match_data:
-                print(f" ✅ - AI recomenda: {best_match_data.get('Marca', 'N/A')} {best_match_data.get('Modelo', 'N/A')}")
-                status = "Match Encontrado"
-                data_to_populate = best_match_data
+            if best_match_data and best_match_data.get('Compatibilidade_analise'):
+                match_percent = None
+                match = re.search(r'atende a (\d+) de (\d+)', best_match_data['Compatibilidade_analise'], re.IGNORECASE)
+                if match:
+                    attended, total = map(int, match.groups())
+                    if total > 0:
+                        match_percent = (attended / total) * 100
+
+                if match_percent is not None and match_percent >= 95:
+                    print(f" ✅ - AI recomenda: {best_match_data.get('Marca', 'N/A')} {best_match_data.get('Modelo', 'N/A')} com compatibilidade {match_percent:.2f}%")
+                    status = "Match Encontrado"
+                    data_to_populate = best_match_data
+                else:
+                    if match_percent is not None:
+                        print(f" - Compatibilidade abaixo de 95% ({match_percent:.2f}%). Executando LLMs adicionais para análise.")
+                    else:
+                        print(" - Compatibilidade não pôde ser determinada. Executando LLMs adicionais para análise.")
+                    top5_main = []
+                    if classification and classification.get('categoria_principal'):
+                        df_main_cat = df_candidates[df_candidates['categoria_principal'] == classification['categoria_principal']]
+                        if not df_main_cat.empty:
+                            top5_main = get_top_5_matches_by_category(item_edital, df_main_cat, 'categoria_principal')
+
+                    top5_sub = []
+                    if classification and classification.get('subcategoria'):
+                        df_sub_cat = df_candidates[df_candidates['subcategoria'].str.contains(classification['subcategoria'], case=False, na=False)]
+                        if not df_sub_cat.empty:
+                            top5_sub = get_top_5_matches_by_category(item_edital, df_sub_cat, 'subcategoria')
+
+                    combined_candidates = top5_main + top5_sub
+
+                    if combined_candidates:
+                        best_combined = get_best_match_from_combined(item_edital, combined_candidates)
+                        if best_combined:
+                            print(f" ✅ - LLM combinado recomenda: {best_combined.get('Marca', 'N/A')} {best_combined.get('Modelo', 'N/A')}")
+                            status = "Match Encontrado (LLM Combinado)"
+                            data_to_populate = best_combined
+                        else:
+                            print(" ❌ - LLM combinado não encontrou produto adequado.")
+                            status = "Nenhum Produto Compatível (LLM Combinado)"
+                            data_to_populate = None
+                    else:
+                        print(" ❌ - Nenhum candidato encontrado nas análises por categoria e subcategoria.")
+                        status = "Nenhum Produto Compatível (LLM Categoria/Subcategoria)"
+                        data_to_populate = None
             elif closest_match_data:
                 print(f"- 🧿 AI sugere como mais próximo: {closest_match_data.get('Marca', 'N/A')} {closest_match_data.get('Modelo', 'N/A')}")
                 if reasoning:

@@ -5872,3 +5872,412 @@
 2025-09-19 09:01:34,387 - INFO - [MATCHING_PRODUTOS] - Asking AI for the best match...
 2025-09-19 09:01:34,388 - INFO - [MATCHING_PRODUTOS] - Tentando chamada à API com o modelo: gemini-2.0-flash-lite...
 2025-09-19 09:01:57,036 - INFO - [MATCHING_PRODUTOS] - Sucesso com o modelo 'gemini-2.0-flash-lite'.
+2025-09-21 17:59:22,777 - INFO - [17:59:22] ORQUESTRADOR: Iniciando pipeline: download, matching
+2025-09-21 17:59:22,779 - INFO - [17:59:22] VERIFICAÇÃO: Verificando pré-requisitos...
+2025-09-21 17:59:22,779 - INFO - [17:59:22] VERIFICAÇÃO: ✅ Todos os pré-requisitos atendidos
+2025-09-21 17:59:22,780 - INFO - [17:59:22] PIPELINE: === ETAPA: DOWNLOAD DE EDITAIS ===
+2025-09-21 17:59:22,780 - INFO - [17:59:22] DOWNLOAD_EDITAIS: Iniciando execução...
+2025-09-21 17:59:24,565 - INFO - [DOWNLOAD_EDITAIS] ============================================================
+2025-09-21 17:59:24,566 - INFO - [DOWNLOAD_EDITAIS] 🤖 WAVECODE AUTOMATION - PIPELINE v2.0
+2025-09-21 17:59:24,566 - INFO - [DOWNLOAD_EDITAIS] ============================================================
+2025-09-21 17:59:24,567 - INFO - [DOWNLOAD_EDITAIS] [17:59:24] [1/8] Iniciando automação do navegador...
+2025-09-21 17:59:24,567 - INFO - [DOWNLOAD_EDITAIS] [17:59:24] Configurando Chrome WebDriver...
+2025-09-21 17:59:31,777 - INFO - [DOWNLOAD_EDITAIS] [17:59:31] Chrome WebDriver configurado com sucesso!
+2025-09-21 17:59:31,822 - INFO - [DOWNLOAD_EDITAIS] [17:59:31] Carregados 148 registros do livro razão.
+2025-09-21 17:59:31,824 - INFO - [DOWNLOAD_EDITAIS] [17:59:31] Acessando portal Wavecode...
+2025-09-21 17:59:38,194 - INFO - [DOWNLOAD_EDITAIS] [17:59:38] ✅ Login bem-sucedido
+2025-09-21 17:59:38,334 - INFO - [DOWNLOAD_EDITAIS] [17:59:38] 📸 Screenshot salvo: debug_login_success_20250921_175938.png
+2025-09-21 17:59:38,334 - INFO - [DOWNLOAD_EDITAIS] [17:59:38] Navegando para seção de editais...
+2025-09-21 17:59:44,116 - INFO - [DOWNLOAD_EDITAIS] [17:59:44] Iniciando rolagem para carregar editais...
+2025-09-21 17:59:44,116 - INFO - [DOWNLOAD_EDITAIS] [17:59:44] Rolando página para carregar todos os editais...
+2025-09-21 17:59:49,221 - INFO - [DOWNLOAD_EDITAIS] [17:59:49] ⏭️ Rolagem concluída!
+2025-09-21 17:59:54,255 - INFO - [DOWNLOAD_EDITAIS] [17:59:54] ⏭️ Página de editais carregada com 20 itens.
+2025-09-21 17:59:54,486 - INFO - [DOWNLOAD_EDITAIS] [17:59:54] 📸 Screenshot salvo: debug_editais_page_loaded_20250921_175954.png
+2025-09-21 17:59:54,487 - INFO - [DOWNLOAD_EDITAIS] [17:59:54] --- Iniciando ciclo para a Página 1 ---
+2025-09-21 17:59:54,487 - INFO - [DOWNLOAD_EDITAIS] [17:59:54] Processando página 1...
+2025-09-21 17:59:54,487 - INFO - [DOWNLOAD_EDITAIS] [17:59:54] Procurando botões de download…
+2025-09-21 17:59:54,528 - INFO - [DOWNLOAD_EDITAIS] [17:59:54] Encontrados 20 cabeçalhos de ação.
+2025-09-21 17:59:55,024 - INFO - [DOWNLOAD_EDITAIS] [17:59:55] Encontrados 20 botões de download (setas).
+2025-09-21 17:59:55,025 - INFO - [DOWNLOAD_EDITAIS] [17:59:55] Encontrados 20 botões de download para processar.
+2025-09-21 17:59:55,025 - INFO - [DOWNLOAD_EDITAIS] [17:59:55] 🔍 Extraindo informações para o item 1…
+2025-09-21 17:59:55,248 - INFO - [DOWNLOAD_EDITAIS] [17:59:55] 🔍 Informações extraído: UASG=985867, Edital=901042025, Comprador='Governo do Estado do Rio de Janeiro / Município de Nova Friburgo', Disputa='16/10/2025 - 10:00'
+2025-09-21 17:59:55,248 - INFO - [DOWNLOAD_EDITAIS] [17:59:55] ⏭️  Pulando edital já processado: UASG 985867, Edital 901042025
+2025-09-21 17:59:55,249 - INFO - [DOWNLOAD_EDITAIS] [17:59:55] 🔍 Extraindo informações para o item 2…
+2025-09-21 17:59:55,418 - INFO - [DOWNLOAD_EDITAIS] [17:59:55] 🔍 Informações extraído: UASG=985867, Edital=901242025, Comprador='Governo do Estado do Rio de Janeiro / Município de Nova Friburgo', Disputa='07/10/2025 - 10:00'
+2025-09-21 17:59:55,420 - INFO - [DOWNLOAD_EDITAIS] [17:59:55] ⏭️  Pulando edital já processado: UASG 985867, Edital 901242025
+2025-09-21 17:59:55,420 - INFO - [DOWNLOAD_EDITAIS] [17:59:55] 🔍 Extraindo informações para o item 3…
+2025-09-21 17:59:55,547 - INFO - [DOWNLOAD_EDITAIS] [17:59:55] 🔍 Informações extraído: UASG=160194, Edital=900112025, Comprador='MINISTÉRIO DA DEFESA / Comando do Exército / Comando Militar do Nordeste / 7ª Região Militar/7ª Divisão de Exército', Disputa='30/09/2025 - 09:00'
+2025-09-21 17:59:55,548 - INFO - [DOWNLOAD_EDITAIS] [17:59:55] ⏭️  Pulando edital já processado: UASG 160194, Edital 900112025
+2025-09-21 17:59:55,548 - INFO - [DOWNLOAD_EDITAIS] [17:59:55] 🔍 Extraindo informações para o item 4…
+2025-09-21 17:59:55,626 - INFO - [DOWNLOAD_EDITAIS] [17:59:55] 🔍 Informações extraído: UASG=160110, Edital=900072025, Comprador='MINISTÉRIO DA DEFESA / Comando do Exército / Departamento de Educação e Cultura do Exército / Diretoria de Ensino Preparatório e Assistêncial / Colégio Militar de Juiz de Fora', Disputa='30/09/2025 - 09:00'
+2025-09-21 17:59:55,626 - INFO - [DOWNLOAD_EDITAIS] [17:59:55] ⏭️  Pulando edital já processado: UASG 160110, Edital 900072025
+2025-09-21 17:59:55,626 - INFO - [DOWNLOAD_EDITAIS] [17:59:55] 🔍 Extraindo informações para o item 5…
+2025-09-21 17:59:55,726 - INFO - [DOWNLOAD_EDITAIS] [17:59:55] 🔍 Informações extraído: UASG=987805, Edital=900532025, Comprador='PREFEITURA MUNICIPAL DE REALEZA', Disputa='03/10/2025 - 08:30'
+2025-09-21 18:00:12,156 - INFO - [DOWNLOAD_EDITAIS] [18:00:12] ❌ Timeout aguardando download
+2025-09-21 18:00:13,156 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] 🔍 Extraindo informações para o item 6…
+2025-09-21 18:00:13,273 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] 🔍 Informações extraído: UASG=926605, Edital=900132025, Comprador='Governo do Estado de Mato Grosso do Sul / defensoria pública geral do estado do mato grosso do sul', Disputa='03/10/2025 - 13:30'
+2025-09-21 18:00:13,273 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] ⏭️  Pulando edital já processado: UASG 926605, Edital 900132025
+2025-09-21 18:00:13,274 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] 🔍 Extraindo informações para o item 7…
+2025-09-21 18:00:13,373 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] 🔍 Informações extraído: UASG=925302, Edital=901662025, Comprador='Governo do Estado da Paraíba / Secretaria de Estado da Administração da Paraíba', Disputa='01/10/2025 - 09:00'
+2025-09-21 18:00:13,374 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] ⏭️  Pulando edital já processado: UASG 925302, Edital 901662025
+2025-09-21 18:00:13,375 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] 🔍 Extraindo informações para o item 8…
+2025-09-21 18:00:13,481 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] 🔍 Informações extraído: UASG=453902, Edital=900402025, Comprador='MINISTERIO PUBLICO DO ESTADO DO PARANA', Disputa='03/10/2025 - 13:00'
+2025-09-21 18:00:13,481 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] ⏭️  Pulando edital já processado: UASG 453902, Edital 900402025
+2025-09-21 18:00:13,482 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] 🔍 Extraindo informações para o item 9…
+2025-09-21 18:00:13,581 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] 🔍 Informações extraído: UASG=926590, Edital=900012025, Comprador='conselho regional de educação física 11a região - mato grosso do sul', Disputa='30/09/2025 - 09:00'
+2025-09-21 18:00:13,582 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] ⏭️  Pulando edital já processado: UASG 926590, Edital 900012025
+2025-09-21 18:00:13,582 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] 🔍 Extraindo informações para o item 10…
+2025-09-21 18:00:13,671 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] 🔍 Informações extraído: UASG=986205, Edital=900602025, Comprador='PREFEITURA MUNICIPAL DE BARRA BONITA', Disputa='30/09/2025 - 08:30'
+2025-09-21 18:00:13,672 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] ⏭️  Pulando edital já processado: UASG 986205, Edital 900602025
+2025-09-21 18:00:13,672 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] 🔍 Extraindo informações para o item 11…
+2025-09-21 18:00:13,813 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] 🔍 Informações extraído: UASG=928048, Edital=900332025, Comprador='FUNDAÇÃO DE ASSISTÊNCIA SOCIAL DE CAXIAS DO SUL/RS', Disputa='30/09/2025 - 09:00'
+2025-09-21 18:00:13,814 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] ⏭️  Pulando edital já processado: UASG 928048, Edital 900332025
+2025-09-21 18:00:13,814 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] 🔍 Extraindo informações para o item 12…
+2025-09-21 18:00:13,938 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] 🔍 Informações extraído: UASG=50001, Edital=900752025, Comprador='PODER JUDICIÁRIO / Superior Tribunal de Justiça', Disputa='01/10/2025 - 10:00'
+2025-09-21 18:00:13,939 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] ⏭️  Pulando edital já processado: UASG 50001, Edital 900752025
+2025-09-21 18:00:13,939 - INFO - [DOWNLOAD_EDITAIS] [18:00:13] 🔍 Extraindo informações para o item 13…
+2025-09-21 18:00:14,058 - INFO - [DOWNLOAD_EDITAIS] [18:00:14] 🔍 Informações extraído: UASG=740034, Edital=900032025, Comprador='MINISTÉRIO DA DEFESA / COMANDO DA MARINHA / ESTALEIRO DE MANUTENÇÃO DA ILHA DA MADEIRA', Disputa='01/10/2025 - 09:00'
+2025-09-21 18:00:30,271 - INFO - [DOWNLOAD_EDITAIS] [18:00:30] ❌ Timeout aguardando download
+2025-09-21 18:00:31,272 - INFO - [DOWNLOAD_EDITAIS] [18:00:31] 🔍 Extraindo informações para o item 14…
+2025-09-21 18:00:31,431 - INFO - [DOWNLOAD_EDITAIS] [18:00:31] 🔍 Informações extraído: UASG=986637, Edital=900892025, Comprador='PREFEITURA MUNICIPAL DE LENÇOIS PAULISTA', Disputa='01/10/2025 - 08:30'
+2025-09-21 18:00:31,432 - INFO - [DOWNLOAD_EDITAIS] [18:00:31] ⏭️  Pulando edital já processado: UASG 986637, Edital 900892025
+2025-09-21 18:00:31,433 - INFO - [DOWNLOAD_EDITAIS] [18:00:31] 🔍 Extraindo informações para o item 15…
+2025-09-21 18:00:31,595 - INFO - [DOWNLOAD_EDITAIS] [18:00:31] 🔍 Informações extraído: UASG=180194, Edital=900122025, Comprador='GOVERNO DO ESTADO DE SÃO PAULO / ESP-SECRETARIA DA SEGURANCA PUBLICA / ESP-CTO. DE INTELIGENCIA DA POLICIA MILITAR', Disputa='30/09/2025 - 09:00'
+2025-09-21 18:00:31,596 - INFO - [DOWNLOAD_EDITAIS] [18:00:31] ⏭️  Pulando edital já processado: UASG 180194, Edital 900122025
+2025-09-21 18:00:31,597 - INFO - [DOWNLOAD_EDITAIS] [18:00:31] 🔍 Extraindo informações para o item 16…
+2025-09-21 18:00:31,746 - INFO - [DOWNLOAD_EDITAIS] [18:00:31] 🔍 Informações extraído: UASG=180322, Edital=900752025, Comprador='GOVERNO DO ESTADO DE SÃO PAULO / ESP-SECRETARIA DA SEGURANCA PUBLICA / ESP-CENTRO ODONTOLOGICO - CODONT', Disputa='01/10/2025 - 08:00'
+2025-09-21 18:00:31,747 - INFO - [DOWNLOAD_EDITAIS] [18:00:31] ⏭️  Pulando edital já processado: UASG 180322, Edital 900752025
+2025-09-21 18:00:31,748 - INFO - [DOWNLOAD_EDITAIS] [18:00:31] 🔍 Extraindo informações para o item 17…
+2025-09-21 18:00:31,909 - INFO - [DOWNLOAD_EDITAIS] [18:00:31] 🔍 Informações extraído: UASG=158125, Edital=905582025, Comprador='MINISTÉRIO DA EDUCAÇÃO / Secretaria de Educação Media e Tecnológica / Instituto Federal de Educação, Ciencia e Tecnologia Catarinense', Disputa='02/10/2025 - 09:00'
+2025-09-21 18:00:31,910 - INFO - [DOWNLOAD_EDITAIS] [18:00:31] ⏭️  Pulando edital já processado: UASG 158125, Edital 905582025
+2025-09-21 18:00:31,911 - INFO - [DOWNLOAD_EDITAIS] [18:00:31] 🔍 Extraindo informações para o item 18…
+2025-09-21 18:00:32,076 - INFO - [DOWNLOAD_EDITAIS] [18:00:32] 🔍 Informações extraído: UASG=20001, Edital=901052025, Comprador='PODER LEGISLATIVO / Senado Federal', Disputa='02/10/2025 - 09:30'
+2025-09-21 18:00:32,077 - INFO - [DOWNLOAD_EDITAIS] [18:00:32] ⏭️  Pulando edital já processado: UASG 20001, Edital 901052025
+2025-09-21 18:00:32,077 - INFO - [DOWNLOAD_EDITAIS] [18:00:32] 🔍 Extraindo informações para o item 19…
+2025-09-21 18:00:32,219 - INFO - [DOWNLOAD_EDITAIS] [18:00:32] 🔍 Informações extraído: UASG=180156, Edital=900782025, Comprador='GOVERNO DO ESTADO DE SÃO PAULO / ESP-SECRETARIA DA SEGURANCA PUBLICA / ESP-COMANDO POLIC.INT.-7 SOROCABA', Disputa='01/10/2025 - 08:00'
+2025-09-21 18:00:48,373 - INFO - [DOWNLOAD_EDITAIS] [18:00:48] ❌ Timeout aguardando download
+2025-09-21 18:00:49,374 - INFO - [DOWNLOAD_EDITAIS] [18:00:49] 🔍 Extraindo informações para o item 20…
+2025-09-21 18:00:49,530 - INFO - [DOWNLOAD_EDITAIS] [18:00:49] 🔍 Informações extraído: UASG=389097, Edital=900062025, Comprador='Conselho Regional de Engenharia e Agronomia - CREA-PE', Disputa='02/10/2025 - 10:30'
+2025-09-21 18:00:49,531 - INFO - [DOWNLOAD_EDITAIS] [18:00:49] ⏭️  Pulando edital já processado: UASG 389097, Edital 900062025
+2025-09-21 18:00:49,533 - INFO - [DOWNLOAD_EDITAIS] [18:00:49] ⏭️ Página 1: 0 novos editais baixados.
+2025-09-21 18:00:49,534 - INFO - [DOWNLOAD_EDITAIS] [18:00:49] --- Iniciando ciclo para a Página 2 ---
+2025-09-21 18:00:49,535 - INFO - [DOWNLOAD_EDITAIS] [18:00:49] Navegando para a página de número 2...
+2025-09-21 18:00:49,651 - INFO - [DOWNLOAD_EDITAIS] [18:00:49] ⏭️ Clique na página '2' realizado.
+2025-09-21 18:00:57,651 - INFO - [DOWNLOAD_EDITAIS] [18:00:57] Rolando página para carregar todos os editais...
+2025-09-21 18:01:02,701 - INFO - [DOWNLOAD_EDITAIS] [18:01:02] ⏭️ Rolagem concluída!
+2025-09-21 18:01:02,702 - INFO - [DOWNLOAD_EDITAIS] [18:01:02] Processando página 2...
+2025-09-21 18:01:02,703 - INFO - [DOWNLOAD_EDITAIS] [18:01:02] Procurando botões de download…
+2025-09-21 18:01:02,718 - INFO - [DOWNLOAD_EDITAIS] [18:01:02] Encontrados 20 cabeçalhos de ação.
+2025-09-21 18:01:03,053 - INFO - [DOWNLOAD_EDITAIS] [18:01:03] Encontrados 20 botões de download (setas).
+2025-09-21 18:01:03,054 - INFO - [DOWNLOAD_EDITAIS] [18:01:03] Encontrados 20 botões de download para processar.
+2025-09-21 18:01:03,055 - INFO - [DOWNLOAD_EDITAIS] [18:01:03] 🔍 Extraindo informações para o item 1…
+2025-09-21 18:01:03,151 - INFO - [DOWNLOAD_EDITAIS] [18:01:03] 🔍 Informações extraído: UASG=102158, Edital=900352025, Comprador='GOVERNO DO ESTADO DE SÃO PAULO / ESP-SECRETARIA DE CIENCIA TECNOL E INOVAÇÃO / ESP-FACULDADE ZOOTEC.E ENG. DE ALIMENTOS -USP', Disputa='02/10/2025 - 09:00'
+2025-09-21 18:01:03,151 - INFO - [DOWNLOAD_EDITAIS] [18:01:03] ⏭️  Pulando edital já processado: UASG 102158, Edital 900352025
+2025-09-21 18:01:03,152 - INFO - [DOWNLOAD_EDITAIS] [18:01:03] 🔍 Extraindo informações para o item 2…
+2025-09-21 18:01:03,264 - INFO - [DOWNLOAD_EDITAIS] [18:01:03] 🔍 Informações extraído: UASG=926724, Edital=900012025, Comprador='Conselho Reg. Fonoaudiologia Da 5ª Região', Disputa='02/10/2025 - 10:00'
+2025-09-21 18:01:03,264 - INFO - [DOWNLOAD_EDITAIS] [18:01:03] ⏭️  Pulando edital já processado: UASG 926724, Edital 900012025
+2025-09-21 18:01:03,265 - INFO - [DOWNLOAD_EDITAIS] [18:01:03] 🔍 Extraindo informações para o item 3…
+2025-09-21 18:01:03,429 - INFO - [DOWNLOAD_EDITAIS] [18:01:03] 🔍 Informações extraído: UASG=982095, Edital=900702025, Comprador='PREFEITURA MUNICIPAL DE MONTEIRO - PB', Disputa='29/09/2025 - 08:00'
+2025-09-21 18:01:19,593 - INFO - [DOWNLOAD_EDITAIS] [18:01:19] ❌ Timeout aguardando download
+2025-09-21 18:01:20,594 - INFO - [DOWNLOAD_EDITAIS] [18:01:20] 🔍 Extraindo informações para o item 4…
+2025-09-21 18:01:20,763 - INFO - [DOWNLOAD_EDITAIS] [18:01:20] 🔍 Informações extraído: UASG=987805, Edital=900522025, Comprador='PREFEITURA MUNICIPAL DE REALEZA', Disputa='01/10/2025 - 08:30'
+2025-09-21 18:01:20,764 - INFO - [DOWNLOAD_EDITAIS] [18:01:20] ⏭️  Pulando edital já processado: UASG 987805, Edital 900522025
+2025-09-21 18:01:20,764 - INFO - [DOWNLOAD_EDITAIS] [18:01:20] 🔍 Extraindo informações para o item 5…
+2025-09-21 18:01:20,886 - INFO - [DOWNLOAD_EDITAIS] [18:01:20] 🔍 Informações extraído: UASG=981219, Edital=900172025, Comprador='PREFEITURA MUNICIPAL DE TERESINA', Disputa='30/09/2025 - 09:00'
+2025-09-21 18:01:37,045 - INFO - [DOWNLOAD_EDITAIS] [18:01:37] ❌ Timeout aguardando download
+2025-09-21 18:01:38,045 - INFO - [DOWNLOAD_EDITAIS] [18:01:38] 🔍 Extraindo informações para o item 6…
+2025-09-21 18:01:38,180 - INFO - [DOWNLOAD_EDITAIS] [18:01:38] 🔍 Informações extraído: UASG=158150, Edital=900092025, Comprador='MINISTÉRIO DA EDUCAÇÃO / Secretaria Executiva / Subsecretaria de Planejamento e Orçamento / Instituto Federal de Educação, Ciência e Tecnologia do Amapá', Disputa='29/09/2025 - 09:00'
+2025-09-21 18:01:54,351 - INFO - [DOWNLOAD_EDITAIS] [18:01:54] ❌ Timeout aguardando download
+2025-09-21 18:01:55,351 - INFO - [DOWNLOAD_EDITAIS] [18:01:55] 🔍 Extraindo informações para o item 7…
+2025-09-21 18:01:55,526 - INFO - [DOWNLOAD_EDITAIS] [18:01:55] 🔍 Informações extraído: UASG=983431, Edital=900252025, Comprador='PREFEITURA MUNICIPAL DE CANDIBA', Disputa='29/09/2025 - 09:00'
+2025-09-21 18:01:55,526 - INFO - [DOWNLOAD_EDITAIS] [18:01:55] ⏭️  Pulando edital já processado: UASG 983431, Edital 900252025
+2025-09-21 18:01:55,527 - INFO - [DOWNLOAD_EDITAIS] [18:01:55] 🔍 Extraindo informações para o item 8…
+2025-09-21 18:01:55,653 - INFO - [DOWNLOAD_EDITAIS] [18:01:55] 🔍 Informações extraído: UASG=160227, Edital=900022025, Comprador='MINISTÉRIO DA DEFESA / Comando do Exército / Comando Militar do Sul / 5ª Região Militar / 15ªBrigada de Infantaria Mecanizada / 3ªCIA/34ºBtalhão de Infantaria Motorizado', Disputa='30/09/2025 - 08:00'
+2025-09-21 18:01:55,654 - INFO - [DOWNLOAD_EDITAIS] [18:01:55] ⏭️  Pulando edital já processado: UASG 160227, Edital 900022025
+2025-09-21 18:01:55,654 - INFO - [DOWNLOAD_EDITAIS] [18:01:55] 🔍 Extraindo informações para o item 9…
+2025-09-21 18:01:55,802 - INFO - [DOWNLOAD_EDITAIS] [18:01:55] 🔍 Informações extraído: UASG=20001, Edital=901042025, Comprador='PODER LEGISLATIVO / Senado Federal', Disputa='01/10/2025 - 09:30'
+2025-09-21 18:01:55,803 - INFO - [DOWNLOAD_EDITAIS] [18:01:55] ⏭️  Pulando edital já processado: UASG 20001, Edital 901042025
+2025-09-21 18:01:55,803 - INFO - [DOWNLOAD_EDITAIS] [18:01:55] 🔍 Extraindo informações para o item 10…
+2025-09-21 18:01:55,934 - INFO - [DOWNLOAD_EDITAIS] [18:01:55] 🔍 Informações extraído: UASG=927928, Edital=900042025, Comprador='CÂMARA MUNICIPAL DE BOA VISTA', Disputa='30/09/2025 - 10:00'
+2025-09-21 18:01:55,935 - INFO - [DOWNLOAD_EDITAIS] [18:01:55] ⏭️  Pulando edital já processado: UASG 927928, Edital 900042025
+2025-09-21 18:01:55,935 - INFO - [DOWNLOAD_EDITAIS] [18:01:55] 🔍 Extraindo informações para o item 11…
+2025-09-21 18:01:56,082 - INFO - [DOWNLOAD_EDITAIS] [18:01:56] 🔍 Informações extraído: UASG=930180, Edital=900732025, Comprador='CÂMARA MUNICIPAL DE DOMINGOS MARTINS/ES', Disputa='03/10/2025 - 09:00'
+2025-09-21 18:01:56,083 - INFO - [DOWNLOAD_EDITAIS] [18:01:56] ⏭️  Pulando edital já processado: UASG 930180, Edital 900732025
+2025-09-21 18:01:56,083 - INFO - [DOWNLOAD_EDITAIS] [18:01:56] 🔍 Extraindo informações para o item 12…
+2025-09-21 18:01:56,243 - INFO - [DOWNLOAD_EDITAIS] [18:01:56] 🔍 Informações extraído: UASG=926607, Edital=900812025, Comprador='GOVERNO DO ESTADO DE MINAS GERAIS / prefeitura municipal de governador valadares', Disputa='03/10/2025 - 09:00'
+2025-09-21 18:01:56,244 - INFO - [DOWNLOAD_EDITAIS] [18:01:56] ⏭️  Pulando edital já processado: UASG 926607, Edital 900812025
+2025-09-21 18:01:56,244 - INFO - [DOWNLOAD_EDITAIS] [18:01:56] 🔍 Extraindo informações para o item 13…
+2025-09-21 18:01:56,395 - INFO - [DOWNLOAD_EDITAIS] [18:01:56] 🔍 Informações extraído: UASG=928285, Edital=901112025, Comprador='FUNDAÇÃO ESTATAL DE ATENÇÃO A SAÚDE/PR', Disputa='30/09/2025 - 08:40'
+2025-09-21 18:01:56,395 - INFO - [DOWNLOAD_EDITAIS] [18:01:56] ⏭️  Pulando edital já processado: UASG 928285, Edital 901112025
+2025-09-21 18:01:56,396 - INFO - [DOWNLOAD_EDITAIS] [18:01:56] 🔍 Extraindo informações para o item 14…
+2025-09-21 18:01:56,539 - INFO - [DOWNLOAD_EDITAIS] [18:01:56] 🔍 Informações extraído: UASG=986475, Edital=900542025, Comprador='PREFEITURA MUNICIPAL DE GUARUJÁ/SP', Disputa='29/09/2025 - 09:30'
+2025-09-21 18:01:56,540 - INFO - [DOWNLOAD_EDITAIS] [18:01:56] ⏭️  Pulando edital já processado: UASG 986475, Edital 900542025
+2025-09-21 18:01:56,540 - INFO - [DOWNLOAD_EDITAIS] [18:01:56] 🔍 Extraindo informações para o item 15…
+2025-09-21 18:01:56,688 - INFO - [DOWNLOAD_EDITAIS] [18:01:56] 🔍 Informações extraído: UASG=987861, Edital=900362025, Comprador='PREFEITURA MUNICIPAL DE SANTO ANTONIO DO CAIUA', Disputa='30/09/2025 - 09:00'
+2025-09-21 18:01:56,689 - INFO - [DOWNLOAD_EDITAIS] [18:01:56] ⏭️  Pulando edital já processado: UASG 987861, Edital 900362025
+2025-09-21 18:01:56,690 - INFO - [DOWNLOAD_EDITAIS] [18:01:56] 🔍 Extraindo informações para o item 16…
+2025-09-21 18:01:56,817 - INFO - [DOWNLOAD_EDITAIS] [18:01:56] 🔍 Informações extraído: UASG=155015, Edital=900282025, Comprador='MINISTÉRIO DA EDUCAÇÃO / Empresa Brasileira de Serviços Hospitalares/Sede / Maternidade Escola Januário Cicco', Disputa='30/09/2025 - 09:00'
+2025-09-21 18:02:12,979 - INFO - [DOWNLOAD_EDITAIS] [18:02:12] ❌ Timeout aguardando download
+2025-09-21 18:02:13,980 - INFO - [DOWNLOAD_EDITAIS] [18:02:13] 🔍 Extraindo informações para o item 17…
+2025-09-21 18:02:14,133 - INFO - [DOWNLOAD_EDITAIS] [18:02:14] 🔍 Informações extraído: UASG=983873, Edital=900462025, Comprador='MUNICIPIO DE SANTO ANTONIO DE JESUS/BA', Disputa='29/09/2025 - 09:00'
+2025-09-21 18:02:30,340 - INFO - [DOWNLOAD_EDITAIS] [18:02:30] ❌ Timeout aguardando download
+2025-09-21 18:02:31,341 - INFO - [DOWNLOAD_EDITAIS] [18:02:31] 🔍 Extraindo informações para o item 18…
+2025-09-21 18:02:31,479 - INFO - [DOWNLOAD_EDITAIS] [18:02:31] 🔍 Informações extraído: UASG=926092, Edital=900222025, Comprador='Procuradoria Gerl de Justiça/PI', Disputa='29/09/2025 - 09:00'
+2025-09-21 18:02:31,480 - INFO - [DOWNLOAD_EDITAIS] [18:02:31] ⏭️  Pulando edital já processado: UASG 926092, Edital 900222025
+2025-09-21 18:02:31,481 - INFO - [DOWNLOAD_EDITAIS] [18:02:31] 🔍 Extraindo informações para o item 19…
+2025-09-21 18:02:31,687 - INFO - [DOWNLOAD_EDITAIS] [18:02:31] 🔍 Informações extraído: UASG=987635, Edital=900622025, Comprador='PREFEITURA MUNICIPAL DE JANDAIA DO SUL', Disputa='09/10/2025 - 08:30'
+2025-09-21 18:02:31,687 - INFO - [DOWNLOAD_EDITAIS] [18:02:31] ⏭️  Pulando edital já processado: UASG 987635, Edital 900622025
+2025-09-21 18:02:31,688 - INFO - [DOWNLOAD_EDITAIS] [18:02:31] 🔍 Extraindo informações para o item 20…
+2025-09-21 18:02:31,810 - INFO - [DOWNLOAD_EDITAIS] [18:02:31] 🔍 Informações extraído: UASG=154069, Edital=900352025, Comprador='MINISTÉRIO DA EDUCAÇÃO / Fundação Universidade Federal de São João Del-Rei - UFSJ', Disputa='26/09/2025 - 08:30'
+2025-09-21 18:02:31,811 - INFO - [DOWNLOAD_EDITAIS] [18:02:31] ⏭️  Pulando edital já processado: UASG 154069, Edital 900352025
+2025-09-21 18:02:31,812 - INFO - [DOWNLOAD_EDITAIS] [18:02:31] ⏭️ Página 2: 0 novos editais baixados.
+2025-09-21 18:02:31,813 - INFO - [DOWNLOAD_EDITAIS] [18:02:31] --- Iniciando ciclo para a Página 3 ---
+2025-09-21 18:02:31,813 - INFO - [DOWNLOAD_EDITAIS] [18:02:31] Navegando para a página de número 3...
+2025-09-21 18:02:31,960 - INFO - [DOWNLOAD_EDITAIS] [18:02:31] ⏭️ Clique na página '3' realizado.
+2025-09-21 18:02:39,960 - INFO - [DOWNLOAD_EDITAIS] [18:02:39] Rolando página para carregar todos os editais...
+2025-09-21 18:02:45,012 - INFO - [DOWNLOAD_EDITAIS] [18:02:45] ⏭️ Rolagem concluída!
+2025-09-21 18:02:45,015 - INFO - [DOWNLOAD_EDITAIS] [18:02:45] Processando página 3...
+2025-09-21 18:02:45,017 - INFO - [DOWNLOAD_EDITAIS] [18:02:45] Procurando botões de download…
+2025-09-21 18:02:45,041 - INFO - [DOWNLOAD_EDITAIS] [18:02:45] Encontrados 20 cabeçalhos de ação.
+2025-09-21 18:02:45,519 - INFO - [DOWNLOAD_EDITAIS] [18:02:45] Encontrados 20 botões de download (setas).
+2025-09-21 18:02:45,521 - INFO - [DOWNLOAD_EDITAIS] [18:02:45] Encontrados 20 botões de download para processar.
+2025-09-21 18:02:45,522 - INFO - [DOWNLOAD_EDITAIS] [18:02:45] 🔍 Extraindo informações para o item 1…
+2025-09-21 18:02:45,626 - INFO - [DOWNLOAD_EDITAIS] [18:02:45] 🔍 Informações extraído: UASG=925543, Edital=900342025, Comprador='GOVERNO DO ESTADO DO RIO GRANDE DO NORTE / FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RN', Disputa='15/10/2025 - 14:00'
+2025-09-21 18:02:45,627 - INFO - [DOWNLOAD_EDITAIS] [18:02:45] ⏭️  Pulando edital já processado: UASG 925543, Edital 900342025
+2025-09-21 18:02:45,628 - INFO - [DOWNLOAD_EDITAIS] [18:02:45] 🔍 Extraindo informações para o item 2…
+2025-09-21 18:02:45,747 - INFO - [DOWNLOAD_EDITAIS] [18:02:45] 🔍 Informações extraído: UASG=985909, Edital=900722025, Comprador='PREFEITURA MUNICIPAL DE SAQUAREMA', Disputa='30/09/2025 - 10:00'
+2025-09-21 18:02:45,748 - INFO - [DOWNLOAD_EDITAIS] [18:02:45] ⏭️  Pulando edital já processado: UASG 985909, Edital 900722025
+2025-09-21 18:02:45,750 - INFO - [DOWNLOAD_EDITAIS] [18:02:45] 🔍 Extraindo informações para o item 3…
+2025-09-21 18:02:45,861 - INFO - [DOWNLOAD_EDITAIS] [18:02:45] 🔍 Informações extraído: UASG=929615, Edital=900032025, Comprador='SECRETARIA MUNICIPAL DE PROMOÇAO SOCIAL COMBATE A POBREZA,ESPORTE E LAZER', Disputa='01/10/2025 - 10:00'
+2025-09-21 18:02:45,861 - INFO - [DOWNLOAD_EDITAIS] [18:02:45] ⏭️  Pulando edital já processado: UASG 929615, Edital 900032025
+2025-09-21 18:02:45,862 - INFO - [DOWNLOAD_EDITAIS] [18:02:45] 🔍 Extraindo informações para o item 4…
+2025-09-21 18:02:45,938 - INFO - [DOWNLOAD_EDITAIS] [18:02:45] 🔍 Informações extraído: UASG=930452, Edital=900812025, Comprador='SERVIÇO DE APOIO AS MICRO E PEQUENAS EMPRESAS DO ESTADO DE SAO PAULO', Disputa='01/10/2025 - 09:00'
+2025-09-21 18:02:45,939 - INFO - [DOWNLOAD_EDITAIS] [18:02:45] ⏭️  Pulando edital já processado: UASG 930452, Edital 900812025
+2025-09-21 18:02:45,940 - INFO - [DOWNLOAD_EDITAIS] [18:02:45] 🔍 Extraindo informações para o item 5…
+2025-09-21 18:02:46,070 - INFO - [DOWNLOAD_EDITAIS] [18:02:46] 🔍 Informações extraído: UASG=925309, Edital=900072025, Comprador='Tribunal de Contas do Estado do Maranhão', Disputa='29/09/2025 - 09:00'
+2025-09-21 18:02:46,071 - INFO - [DOWNLOAD_EDITAIS] [18:02:46] ⏭️  Pulando edital já processado: UASG 925309, Edital 900072025
+2025-09-21 18:02:46,071 - INFO - [DOWNLOAD_EDITAIS] [18:02:46] 🔍 Extraindo informações para o item 6…
+2025-09-21 18:02:46,215 - INFO - [DOWNLOAD_EDITAIS] [18:02:46] 🔍 Informações extraído: UASG=80025, Edital=900162025, Comprador='PODER JUDICIÁRIO / Tribunal Superior do Trabalho / 23ª Região/MT', Disputa='30/09/2025 - 11:00'
+2025-09-21 18:02:46,216 - INFO - [DOWNLOAD_EDITAIS] [18:02:46] ⏭️  Pulando edital já processado: UASG 80025, Edital 900162025
+2025-09-21 18:02:46,216 - INFO - [DOWNLOAD_EDITAIS] [18:02:46] 🔍 Extraindo informações para o item 7…
+2025-09-21 18:02:46,382 - INFO - [DOWNLOAD_EDITAIS] [18:02:46] 🔍 Informações extraído: UASG=153176, Edital=900132025, Comprador='MINISTÉRIO DA EDUCAÇÃO / Universidade Tecnológica Federal do Paraná / UTFPR - Campus Cornélio Procópio', Disputa='26/09/2025 - 08:30'
+2025-09-21 18:03:02,598 - INFO - [DOWNLOAD_EDITAIS] [18:03:02] ❌ Timeout aguardando download
+2025-09-21 18:03:03,599 - INFO - [DOWNLOAD_EDITAIS] [18:03:03] 🔍 Extraindo informações para o item 8…
+2025-09-21 18:03:03,705 - INFO - [DOWNLOAD_EDITAIS] [18:03:03] 🔍 Informações extraído: UASG=389444, Edital=900082025, Comprador='CONSELHO REGIONAL DE FAMARCIA DO ESTADO DO ESPIRITO SANTO', Disputa='26/09/2025 - 09:00'
+2025-09-21 18:03:03,706 - INFO - [DOWNLOAD_EDITAIS] [18:03:03] ⏭️  Pulando edital já processado: UASG 389444, Edital 900082025
+2025-09-21 18:03:03,707 - INFO - [DOWNLOAD_EDITAIS] [18:03:03] 🔍 Extraindo informações para o item 9…
+2025-09-21 18:03:03,859 - INFO - [DOWNLOAD_EDITAIS] [18:03:03] 🔍 Informações extraído: UASG=929472, Edital=901112025, Comprador='COMITE PARAOLIMPICO BRASILEIRO/SP', Disputa='29/09/2025 - 10:30'
+2025-09-21 18:03:03,860 - INFO - [DOWNLOAD_EDITAIS] [18:03:03] ⏭️  Pulando edital já processado: UASG 929472, Edital 901112025
+2025-09-21 18:03:03,861 - INFO - [DOWNLOAD_EDITAIS] [18:03:03] 🔍 Extraindo informações para o item 10…
+2025-09-21 18:03:04,007 - INFO - [DOWNLOAD_EDITAIS] [18:03:04] 🔍 Informações extraído: UASG=928529, Edital=900012025, Comprador='CAMARA MUNICIPAL DE DIAMANTINO', Disputa='30/09/2025 - 09:00'
+2025-09-21 18:03:04,008 - INFO - [DOWNLOAD_EDITAIS] [18:03:04] ⏭️  Pulando edital já processado: UASG 928529, Edital 900012025
+2025-09-21 18:03:04,009 - INFO - [DOWNLOAD_EDITAIS] [18:03:04] 🔍 Extraindo informações para o item 11…
+2025-09-21 18:03:04,121 - INFO - [DOWNLOAD_EDITAIS] [18:03:04] 🔍 Informações extraído: UASG=925989, Edital=900092025, Comprador='Defensoria Pública/PA', Disputa='30/09/2025 - 10:00'
+2025-09-21 18:03:04,122 - INFO - [DOWNLOAD_EDITAIS] [18:03:04] ⏭️  Pulando edital já processado: UASG 925989, Edital 900092025
+2025-09-21 18:03:04,122 - INFO - [DOWNLOAD_EDITAIS] [18:03:04] 🔍 Extraindo informações para o item 12…
+2025-09-21 18:03:04,232 - INFO - [DOWNLOAD_EDITAIS] [18:03:04] 🔍 Informações extraído: UASG=980431, Edital=900222025, Comprador='PREFEITURA MUNICIPAL DE BONITO/PA', Disputa='29/09/2025 - 09:00'
+2025-09-21 18:03:04,233 - INFO - [DOWNLOAD_EDITAIS] [18:03:04] ⏭️  Pulando edital já processado: UASG 980431, Edital 900222025
+2025-09-21 18:03:04,233 - INFO - [DOWNLOAD_EDITAIS] [18:03:04] 🔍 Extraindo informações para o item 13…
+2025-09-21 18:03:04,363 - INFO - [DOWNLOAD_EDITAIS] [18:03:04] 🔍 Informações extraído: UASG=987691, Edital=900852025, Comprador='PREFEITURA MUNICIPAL DE MARINGA', Disputa='30/09/2025 - 08:30'
+2025-09-21 18:03:20,540 - INFO - [DOWNLOAD_EDITAIS] [18:03:20] ❌ Timeout aguardando download
+2025-09-21 18:03:21,541 - INFO - [DOWNLOAD_EDITAIS] [18:03:21] 🔍 Extraindo informações para o item 14…
+2025-09-21 18:03:21,644 - INFO - [DOWNLOAD_EDITAIS] [18:03:21] 🔍 Informações extraído: UASG=980489, Edital=900132025, Comprador='GOVERNO DO ESTADO DO PARÁ / PREFEITURA MUNICIPAL DE MELGAÇO PA', Disputa='30/09/2025 - 09:00'
+2025-09-21 18:03:21,644 - INFO - [DOWNLOAD_EDITAIS] [18:03:21] ⏭️  Pulando edital já processado: UASG 980489, Edital 900132025
+2025-09-21 18:03:21,645 - INFO - [DOWNLOAD_EDITAIS] [18:03:21] 🔍 Extraindo informações para o item 15…
+2025-09-21 18:03:21,745 - INFO - [DOWNLOAD_EDITAIS] [18:03:21] 🔍 Informações extraído: UASG=929010, Edital=900062025, Comprador='CÂMARA MUNICIPAL DE PONTE NOVA/MG', Disputa='30/09/2025 - 14:00'
+2025-09-21 18:03:21,746 - INFO - [DOWNLOAD_EDITAIS] [18:03:21] ⏭️  Pulando edital já processado: UASG 929010, Edital 900062025
+2025-09-21 18:03:21,746 - INFO - [DOWNLOAD_EDITAIS] [18:03:21] 🔍 Extraindo informações para o item 16…
+2025-09-21 18:03:21,866 - INFO - [DOWNLOAD_EDITAIS] [18:03:21] 🔍 Informações extraído: UASG=810005, Edital=900092025, Comprador='COORDENAÇÃO-GERAL DE LOGÍSTICA/MDH', Disputa='30/09/2025 - 08:30'
+2025-09-21 18:03:38,012 - INFO - [DOWNLOAD_EDITAIS] [18:03:38] ❌ Timeout aguardando download
+2025-09-21 18:03:39,012 - INFO - [DOWNLOAD_EDITAIS] [18:03:39] 🔍 Extraindo informações para o item 17…
+2025-09-21 18:03:39,148 - INFO - [DOWNLOAD_EDITAIS] [18:03:39] 🔍 Informações extraído: UASG=180224, Edital=900302025, Comprador='GOVERNO DO ESTADO DE SÃO PAULO / ESP-SECRETARIA DA SEGURANCA PUBLICA / ESP-COM.POLIC.AREA METROP-10', Disputa='29/09/2025 - 09:00'
+2025-09-21 18:03:39,150 - INFO - [DOWNLOAD_EDITAIS] [18:03:39] ⏭️  Pulando edital já processado: UASG 180224, Edital 900302025
+2025-09-21 18:03:39,151 - INFO - [DOWNLOAD_EDITAIS] [18:03:39] 🔍 Extraindo informações para o item 18…
+2025-09-21 18:03:39,293 - INFO - [DOWNLOAD_EDITAIS] [18:03:39] 🔍 Informações extraído: UASG=135006, Edital=900162025, Comprador='MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO / Empresa Brasileira de Pesquisa Agropecuária / EMBRAPA AMAZONIA ORIENTAL/BELEM/PA', Disputa='01/10/2025 - 08:30'
+2025-09-21 18:03:55,406 - INFO - [DOWNLOAD_EDITAIS] [18:03:55] ❌ Timeout aguardando download
+2025-09-21 18:03:56,407 - INFO - [DOWNLOAD_EDITAIS] [18:03:56] 🔍 Extraindo informações para o item 19…
+2025-09-21 18:03:56,551 - INFO - [DOWNLOAD_EDITAIS] [18:03:56] 🔍 Informações extraído: UASG=102160, Edital=900062025, Comprador='GOVERNO DO ESTADO DE SÃO PAULO / ESP-SECRETARIA DE CIENCIA TECNOL E INOVAÇÃO / ESP-INSTITUTO DE FÍSICA DE SÃO CARLOS - USP', Disputa='30/09/2025 - 09:00'
+2025-09-21 18:03:56,552 - INFO - [DOWNLOAD_EDITAIS] [18:03:56] ⏭️  Pulando edital já processado: UASG 102160, Edital 900062025
+2025-09-21 18:03:56,553 - INFO - [DOWNLOAD_EDITAIS] [18:03:56] 🔍 Extraindo informações para o item 20…
+2025-09-21 18:03:56,695 - INFO - [DOWNLOAD_EDITAIS] [18:03:56] 🔍 Informações extraído: UASG=989571, Edital=900522025, Comprador='PREF.MUN.DE RIO VERDE', Disputa='01/10/2025 - 09:00'
+2025-09-21 18:03:56,695 - INFO - [DOWNLOAD_EDITAIS] [18:03:56] ⏭️  Pulando edital já processado: UASG 989571, Edital 900522025
+2025-09-21 18:03:56,696 - INFO - [DOWNLOAD_EDITAIS] [18:03:56] ⏭️ Página 3: 0 novos editais baixados.
+2025-09-21 18:03:56,696 - INFO - [DOWNLOAD_EDITAIS] [18:03:56] --- Iniciando ciclo para a Página 4 ---
+2025-09-21 18:03:56,696 - INFO - [DOWNLOAD_EDITAIS] [18:03:56] Navegando para a página de número 4...
+2025-09-21 18:03:56,784 - INFO - [DOWNLOAD_EDITAIS] [18:03:56] ⏭️ Clique na página '4' realizado.
+2025-09-21 18:04:04,785 - INFO - [DOWNLOAD_EDITAIS] [18:04:04] Rolando página para carregar todos os editais...
+2025-09-21 18:04:09,853 - INFO - [DOWNLOAD_EDITAIS] [18:04:09] ⏭️ Rolagem concluída!
+2025-09-21 18:04:09,854 - INFO - [DOWNLOAD_EDITAIS] [18:04:09] Processando página 4...
+2025-09-21 18:04:09,855 - INFO - [DOWNLOAD_EDITAIS] [18:04:09] Procurando botões de download…
+2025-09-21 18:04:09,886 - INFO - [DOWNLOAD_EDITAIS] [18:04:09] Encontrados 20 cabeçalhos de ação.
+2025-09-21 18:04:10,374 - INFO - [DOWNLOAD_EDITAIS] [18:04:10] Encontrados 20 botões de download (setas).
+2025-09-21 18:04:10,375 - INFO - [DOWNLOAD_EDITAIS] [18:04:10] Encontrados 20 botões de download para processar.
+2025-09-21 18:04:10,375 - INFO - [DOWNLOAD_EDITAIS] [18:04:10] 🔍 Extraindo informações para o item 1…
+2025-09-21 18:04:10,496 - INFO - [DOWNLOAD_EDITAIS] [18:04:10] 🔍 Informações extraído: UASG=926475, Edital=900072025, Comprador='GOVERNO DO ESTADO DO PARÁ / MINISTÉRIO PÚBLICO DE CONTAS DO ESTADO DO PARÁ', Disputa='29/09/2025 - 09:00'
+2025-09-21 18:04:10,497 - INFO - [DOWNLOAD_EDITAIS] [18:04:10] ⏭️  Pulando edital já processado: UASG 926475, Edital 900072025
+2025-09-21 18:04:10,497 - INFO - [DOWNLOAD_EDITAIS] [18:04:10] 🔍 Extraindo informações para o item 2…
+2025-09-21 18:04:10,637 - INFO - [DOWNLOAD_EDITAIS] [18:04:10] 🔍 Informações extraído: UASG=154840, Edital=900022025, Comprador='MINISTÉRIO DA EDUCAÇÃO / Secretaria Executiva / Subsecretaria de Planejamento e Orçamento / Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte / Instituto Federal do Rio Grande', Disputa='29/09/2025 - 09:00'
+2025-09-21 18:04:10,638 - INFO - [DOWNLOAD_EDITAIS] [18:04:10] ⏭️  Pulando edital já processado: UASG 154840, Edital 900022025
+2025-09-21 18:04:10,639 - INFO - [DOWNLOAD_EDITAIS] [18:04:10] 🔍 Extraindo informações para o item 3…
+2025-09-21 18:04:10,801 - INFO - [DOWNLOAD_EDITAIS] [18:04:10] 🔍 Informações extraído: UASG=989859, Edital=900262025, Comprador='PREFEITURA MUNICIPAL DE JABORANDI', Disputa='29/09/2025 - 09:00'
+2025-09-21 18:04:10,802 - INFO - [DOWNLOAD_EDITAIS] [18:04:10] ⏭️  Pulando edital já processado: UASG 989859, Edital 900262025
+2025-09-21 18:04:10,802 - INFO - [DOWNLOAD_EDITAIS] [18:04:10] 🔍 Extraindo informações para o item 4…
+2025-09-21 18:04:10,979 - INFO - [DOWNLOAD_EDITAIS] [18:04:10] 🔍 Informações extraído: UASG=158154, Edital=906112025, Comprador='MINISTÉRIO DA EDUCAÇÃO / INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO', Disputa='25/09/2025 - 09:00'
+2025-09-21 18:04:10,981 - INFO - [DOWNLOAD_EDITAIS] [18:04:10] ⏭️  Pulando edital já processado: UASG 158154, Edital 906112025
+2025-09-21 18:04:10,982 - INFO - [DOWNLOAD_EDITAIS] [18:04:10] 🔍 Extraindo informações para o item 5…
+2025-09-21 18:04:11,128 - INFO - [DOWNLOAD_EDITAIS] [18:04:11] 🔍 Informações extraído: UASG=120006, Edital=900212025, Comprador='MINISTÉRIO DA DEFESA / Comando da Aeronáutica / GRUPAMENTO DE APOIO DE BRASÍLIA', Disputa='25/09/2025 - 10:00'
+2025-09-21 18:04:27,422 - INFO - [DOWNLOAD_EDITAIS] [18:04:27] ❌ Timeout aguardando download
+2025-09-21 18:04:28,422 - INFO - [DOWNLOAD_EDITAIS] [18:04:28] 🔍 Extraindo informações para o item 6…
+2025-09-21 18:04:28,524 - INFO - [DOWNLOAD_EDITAIS] [18:04:28] 🔍 Informações extraído: UASG=153176, Edital=900162025, Comprador='MINISTÉRIO DA EDUCAÇÃO / Universidade Tecnológica Federal do Paraná / UTFPR - Campus Cornélio Procópio', Disputa='25/09/2025 - 09:00'
+2025-09-21 18:04:28,525 - INFO - [DOWNLOAD_EDITAIS] [18:04:28] ⏭️  Pulando edital já processado: UASG 153176, Edital 900162025
+2025-09-21 18:04:28,526 - INFO - [DOWNLOAD_EDITAIS] [18:04:28] 🔍 Extraindo informações para o item 7…
+2025-09-21 18:04:28,629 - INFO - [DOWNLOAD_EDITAIS] [18:04:28] 🔍 Informações extraído: UASG=462264, Edital=900062025, Comprador='ESCOLA DE GOVERNANÇA PÚBLICA DO ESTADO DO PARÁ', Disputa='30/09/2025 - 10:00'
+2025-09-21 18:04:28,629 - INFO - [DOWNLOAD_EDITAIS] [18:04:28] ⏭️  Pulando edital já processado: UASG 462264, Edital 900062025
+2025-09-21 18:04:28,629 - INFO - [DOWNLOAD_EDITAIS] [18:04:28] 🔍 Extraindo informações para o item 8…
+2025-09-21 18:04:28,745 - INFO - [DOWNLOAD_EDITAIS] [18:04:28] 🔍 Informações extraído: UASG=925872, Edital=900132025, Comprador='Secretaria de Estado de Assistência e Desenvolvimento Social', Disputa='24/09/2025 - 08:00'
+2025-09-21 18:04:28,745 - INFO - [DOWNLOAD_EDITAIS] [18:04:28] ⏭️  Pulando edital já processado: UASG 925872, Edital 900132025
+2025-09-21 18:04:28,745 - INFO - [DOWNLOAD_EDITAIS] [18:04:28] 🔍 Extraindo informações para o item 9…
+2025-09-21 18:04:28,846 - INFO - [DOWNLOAD_EDITAIS] [18:04:28] 🔍 Informações extraído: UASG=926002, Edital=900292025, Comprador='Departamento Estadual de Trânsito', Disputa='26/09/2025 - 10:00'
+2025-09-21 18:04:28,847 - INFO - [DOWNLOAD_EDITAIS] [18:04:28] ⏭️  Pulando edital já processado: UASG 926002, Edital 900292025
+2025-09-21 18:04:28,847 - INFO - [DOWNLOAD_EDITAIS] [18:04:28] 🔍 Extraindo informações para o item 10…
+2025-09-21 18:04:28,944 - INFO - [DOWNLOAD_EDITAIS] [18:04:28] 🔍 Informações extraído: UASG=990138, Edital=900082025, Comprador='GOVERNO DO ESTADO DE SÃO PAULO / ESP-SECRETARIA DE AGRICULTURA E ABASTECIMENTO / ESP-COORD. ASSISTENCIA TEC. INTEGRAL - CATI', Disputa='26/09/2025 - 09:00'
+2025-09-21 18:04:28,945 - INFO - [DOWNLOAD_EDITAIS] [18:04:28] ⏭️  Pulando edital já processado: UASG 990138, Edital 900082025
+2025-09-21 18:04:28,945 - INFO - [DOWNLOAD_EDITAIS] [18:04:28] 🔍 Extraindo informações para o item 11…
+2025-09-21 18:04:29,091 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] 🔍 Informações extraído: UASG=90166, Edital=901712025, Comprador='GOVERNO DO ESTADO DE SÃO PAULO / ESP-SECRETARIA DA SAUDE / ESP-HOSP.REG.DR.O.F.COELHO,EM F.DE VASCONCELO', Disputa='29/09/2025 - 10:00'
+2025-09-21 18:04:29,091 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] ⏭️  Pulando edital já processado: UASG 90166, Edital 901712025
+2025-09-21 18:04:29,092 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] 🔍 Extraindo informações para o item 12…
+2025-09-21 18:04:29,196 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] 🔍 Informações extraído: UASG=90141, Edital=904102025, Comprador='GOVERNO DO ESTADO DE SÃO PAULO / ESP-SECRETARIA DA SAUDE / ESP-HOSP. GUILHERME ALVARO, SANTOS', Disputa='01/10/2025 - 08:00'
+2025-09-21 18:04:29,197 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] ⏭️  Pulando edital já processado: UASG 90141, Edital 904102025
+2025-09-21 18:04:29,198 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] 🔍 Extraindo informações para o item 13…
+2025-09-21 18:04:29,346 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] 🔍 Informações extraído: UASG=380195, Edital=900232025, Comprador='GOVERNO DO ESTADO DE SÃO PAULO / ESP-SECRETARIA DE ADMINISTRACAO PENITENCIARIA / ESP-PENIT.´AEVP JAIR GUIMAR DE LIMA´ DE POTIM', Disputa='25/09/2025 - 09:00'
+2025-09-21 18:04:29,346 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] ⏭️  Pulando edital já processado: UASG 380195, Edital 900232025
+2025-09-21 18:04:29,347 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] 🔍 Extraindo informações para o item 14…
+2025-09-21 18:04:29,456 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] 🔍 Informações extraído: UASG=250103, Edital=900682025, Comprador='MINISTÉRIO DA SAÚDE / Nucleo Estadual do Rio de Janeiro / Hospital Geral de Ipanema', Disputa='25/09/2025 - 10:00'
+2025-09-21 18:04:29,457 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] ⏭️  Pulando edital já processado: UASG 250103, Edital 900682025
+2025-09-21 18:04:29,457 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] 🔍 Extraindo informações para o item 15…
+2025-09-21 18:04:29,604 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] 🔍 Informações extraído: UASG=980230, Edital=900172025, Comprador='PREFEITURA MUNICIPAL DE SÃO FRANCISCO DO BREJÃO/MA', Disputa='29/09/2025 - 08:00'
+2025-09-21 18:04:29,605 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] ⏭️  Pulando edital já processado: UASG 980230, Edital 900172025
+2025-09-21 18:04:29,605 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] 🔍 Extraindo informações para o item 16…
+2025-09-21 18:04:29,793 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] 🔍 Informações extraído: UASG=987971, Edital=900432025, Comprador='PEFEITURA MUNICIPAL DE SANTA HELENA/PR', Disputa='25/09/2025 - 08:00'
+2025-09-21 18:04:29,794 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] ⏭️  Pulando edital já processado: UASG 987971, Edital 900432025
+2025-09-21 18:04:29,795 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] 🔍 Extraindo informações para o item 17…
+2025-09-21 18:04:29,992 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] 🔍 Informações extraído: UASG=986727, Edital=901132025, Comprador='PREFEITURA MUNICIPAL DE MONTE ALTO/SP', Disputa='29/09/2025 - 09:00'
+2025-09-21 18:04:29,993 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] ⏭️  Pulando edital já processado: UASG 986727, Edital 901132025
+2025-09-21 18:04:29,994 - INFO - [DOWNLOAD_EDITAIS] [18:04:29] 🔍 Extraindo informações para o item 18…
+2025-09-21 18:04:30,181 - INFO - [DOWNLOAD_EDITAIS] [18:04:30] 🔍 Informações extraído: UASG=989451, Edital=900382025, Comprador='PREFEITURA MUNICIPAL DE MARA ROSA', Disputa='26/09/2025 - 09:00'
+2025-09-21 18:04:46,392 - INFO - [DOWNLOAD_EDITAIS] [18:04:46] ❌ Timeout aguardando download
+2025-09-21 18:04:47,392 - INFO - [DOWNLOAD_EDITAIS] [18:04:47] 🔍 Extraindo informações para o item 19…
+2025-09-21 18:04:47,524 - INFO - [DOWNLOAD_EDITAIS] [18:04:47] 🔍 Informações extraído: UASG=930260, Edital=931242025, Comprador='Fundação de Parques Municipais e Zoobotânica', Disputa='29/09/2025 - 09:00'
+2025-09-21 18:04:47,524 - INFO - [DOWNLOAD_EDITAIS] [18:04:47] ⏭️  Pulando edital já processado: UASG 930260, Edital 931242025
+2025-09-21 18:04:47,525 - INFO - [DOWNLOAD_EDITAIS] [18:04:47] 🔍 Extraindo informações para o item 20…
+2025-09-21 18:04:47,607 - INFO - [DOWNLOAD_EDITAIS] [18:04:47] 🔍 Informações extraído: UASG=160327, Edital=900282025, Comprador='MINISTÉRIO DA DEFESA / Comando do Exército / Secretaria de Ciência e Tecnologia / Instituto Militar de Engenharia', Disputa='24/09/2025 - 09:00'
+2025-09-21 18:04:47,607 - INFO - [DOWNLOAD_EDITAIS] [18:04:47] ⏭️  Pulando edital já processado: UASG 160327, Edital 900282025
+2025-09-21 18:04:47,607 - INFO - [DOWNLOAD_EDITAIS] [18:04:47] ⏭️ Página 4: 0 novos editais baixados.
+2025-09-21 18:04:47,608 - INFO - [DOWNLOAD_EDITAIS] [18:04:47] --- Iniciando ciclo para a Página 5 ---
+2025-09-21 18:04:47,608 - INFO - [DOWNLOAD_EDITAIS] [18:04:47] Navegando para a página de número 5...
+2025-09-21 18:04:47,670 - INFO - [DOWNLOAD_EDITAIS] [18:04:47] ⏭️ Clique na página '5' realizado.
+2025-09-21 18:04:55,671 - INFO - [DOWNLOAD_EDITAIS] [18:04:55] Rolando página para carregar todos os editais...
+2025-09-21 18:05:00,747 - INFO - [DOWNLOAD_EDITAIS] [18:05:00] ⏭️ Rolagem concluída!
+2025-09-21 18:05:00,748 - INFO - [DOWNLOAD_EDITAIS] [18:05:00] Processando página 5...
+2025-09-21 18:05:00,750 - INFO - [DOWNLOAD_EDITAIS] [18:05:00] Procurando botões de download…
+2025-09-21 18:05:00,794 - INFO - [DOWNLOAD_EDITAIS] [18:05:00] Encontrados 20 cabeçalhos de ação.
+2025-09-21 18:05:01,296 - INFO - [DOWNLOAD_EDITAIS] [18:05:01] Encontrados 20 botões de download (setas).
+2025-09-21 18:05:01,297 - INFO - [DOWNLOAD_EDITAIS] [18:05:01] Encontrados 20 botões de download para processar.
+2025-09-21 18:05:01,297 - INFO - [DOWNLOAD_EDITAIS] [18:05:01] 🔍 Extraindo informações para o item 1…
+2025-09-21 18:05:01,396 - INFO - [DOWNLOAD_EDITAIS] [18:05:01] 🔍 Informações extraído: UASG=90004, Edital=900252025, Comprador='PODER JUDICIÁRIO / Justiça Federal / Seção Judiciária do Maranhão', Disputa='26/09/2025 - 10:30'
+2025-09-21 18:05:17,587 - INFO - [DOWNLOAD_EDITAIS] [18:05:17] ❌ Timeout aguardando download
+2025-09-21 18:05:18,587 - INFO - [DOWNLOAD_EDITAIS] [18:05:18] 🔍 Extraindo informações para o item 2…
+2025-09-21 18:05:18,690 - INFO - [DOWNLOAD_EDITAIS] [18:05:18] 🔍 Informações extraído: UASG=925474, Edital=900362025, Comprador='Tribunal de Contas do Estado da Bahia', Disputa='06/10/2025 - 09:30'
+2025-09-21 18:05:18,690 - INFO - [DOWNLOAD_EDITAIS] [18:05:18] ⏭️  Pulando edital já processado: UASG 925474, Edital 900362025
+2025-09-21 18:05:18,691 - INFO - [DOWNLOAD_EDITAIS] [18:05:18] 🔍 Extraindo informações para o item 3…
+2025-09-21 18:05:18,805 - INFO - [DOWNLOAD_EDITAIS] [18:05:18] 🔍 Informações extraído: UASG=925458, Edital=900142025, Comprador='Tribunal de Contas do Estado de Roraima', Disputa='25/09/2025 - 10:00'
+2025-09-21 18:05:18,806 - INFO - [DOWNLOAD_EDITAIS] [18:05:18] ⏭️  Pulando edital já processado: UASG 925458, Edital 900142025
+2025-09-21 18:05:18,806 - INFO - [DOWNLOAD_EDITAIS] [18:05:18] 🔍 Extraindo informações para o item 4…
+2025-09-21 18:05:18,948 - INFO - [DOWNLOAD_EDITAIS] [18:05:18] 🔍 Informações extraído: UASG=987489, Edital=901072025, Comprador='PREFEITURA MUNICIPAL DE CAPITÃO LEÔNIDAS MARQUES/PR', Disputa='26/09/2025 - 08:15'
+2025-09-21 18:05:18,949 - INFO - [DOWNLOAD_EDITAIS] [18:05:18] ⏭️  Pulando edital já processado: UASG 987489, Edital 901072025
+2025-09-21 18:05:18,949 - INFO - [DOWNLOAD_EDITAIS] [18:05:18] 🔍 Extraindo informações para o item 5…
+2025-09-21 18:05:19,055 - INFO - [DOWNLOAD_EDITAIS] [18:05:19] 🔍 Informações extraído: UASG=926097, Edital=912132025, Comprador='GOVERNO DO ESTADO DO PARANÁ / Universidade Estadual do Oeste do Paraná', Disputa='25/09/2025 - 09:00'
+2025-09-21 18:05:35,356 - INFO - [DOWNLOAD_EDITAIS] [18:05:35] ❌ Timeout aguardando download
+2025-09-21 18:05:36,357 - INFO - [DOWNLOAD_EDITAIS] [18:05:36] 🔍 Extraindo informações para o item 6…
+2025-09-21 18:05:36,536 - INFO - [DOWNLOAD_EDITAIS] [18:05:36] 🔍 Informações extraído: UASG=925611, Edital=900182025, Comprador='Universidade Estadual do Pará', Disputa='25/09/2025 - 10:00'
+2025-09-21 18:05:36,537 - INFO - [DOWNLOAD_EDITAIS] [18:05:36] ⏭️  Pulando edital já processado: UASG 925611, Edital 900182025
+2025-09-21 18:05:36,538 - INFO - [DOWNLOAD_EDITAIS] [18:05:36] 🔍 Extraindo informações para o item 7…
+2025-09-21 18:05:36,743 - INFO - [DOWNLOAD_EDITAIS] [18:05:36] 🔍 Informações extraído: UASG=158161, Edital=900092025, Comprador='MINISTÉRIO DA EDUCAÇÃO / Universidade Federal de Itajubá / Universidade Federal de Itajubá/Campus Itabira', Disputa='25/09/2025 - 13:00'
+2025-09-21 18:05:36,743 - INFO - [DOWNLOAD_EDITAIS] [18:05:36] ⏭️  Pulando edital já processado: UASG 158161, Edital 900092025
+2025-09-21 18:05:36,744 - INFO - [DOWNLOAD_EDITAIS] [18:05:36] 🔍 Extraindo informações para o item 8…
+2025-09-21 18:05:36,919 - INFO - [DOWNLOAD_EDITAIS] [18:05:36] 🔍 Informações extraído: UASG=90029, Edital=900142025, Comprador='PODER JUDICIÁRIO / Tribunal Regional Federal / TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO', Disputa='29/09/2025 - 10:00'
+2025-09-21 18:05:36,919 - INFO - [DOWNLOAD_EDITAIS] [18:05:36] ⏭️  Pulando edital já processado: UASG 90029, Edital 900142025
+2025-09-21 18:05:36,920 - INFO - [DOWNLOAD_EDITAIS] [18:05:36] 🔍 Extraindo informações para o item 9…
+2025-09-21 18:05:37,155 - INFO - [DOWNLOAD_EDITAIS] [18:05:37] 🔍 Informações extraído: UASG=925814, Edital=900582025, Comprador='Tribunal de Justiça do Estado de Tocantins', Disputa='25/09/2025 - 13:30'
+2025-09-21 18:05:37,156 - INFO - [DOWNLOAD_EDITAIS] [18:05:37] ⏭️  Pulando edital já processado: UASG 925814, Edital 900582025
+2025-09-21 18:05:37,157 - INFO - [DOWNLOAD_EDITAIS] [18:05:37] 🔍 Extraindo informações para o item 10…
+2025-09-21 18:05:37,368 - INFO - [DOWNLOAD_EDITAIS] [18:05:37] 🔍 Informações extraído: UASG=925942, Edital=900292025, Comprador='Tribunal de Justiça do Estado do Pará', Disputa='24/09/2025 - 09:00'
+2025-09-21 18:05:53,541 - INFO - [DOWNLOAD_EDITAIS] [18:05:53] ❌ Timeout aguardando download
+2025-09-21 18:05:54,542 - INFO - [DOWNLOAD_EDITAIS] [18:05:54] 🔍 Extraindo informações para o item 11…
+2025-09-21 18:05:54,735 - INFO - [DOWNLOAD_EDITAIS] [18:05:54] 🔍 Informações extraído: UASG=160250, Edital=900072025, Comprador='MINISTÉRIO DA DEFESA / Comando do Exército / Comando Militar do Sul / COMANDO DA 3ª DIVISÃO DO EXÉRCITO - BASE ADMINISTRATIVA DA GUARNIÇÃO DE SAN / TA MARIA / 1ªBatalhão de Comunicações Divisionário', Disputa='23/09/2025 - 08:00'
+2025-09-21 18:05:54,737 - INFO - [DOWNLOAD_EDITAIS] [18:05:54] ⏭️  Pulando edital já processado: UASG 160250, Edital 900072025
+2025-09-21 18:05:54,738 - INFO - [DOWNLOAD_EDITAIS] [18:05:54] 🔍 Extraindo informações para o item 12…
+2025-09-21 18:05:54,896 - INFO - [DOWNLOAD_EDITAIS] [18:05:54] 🔍 Informações extraído: UASG=160250, Edital=900042025, Comprador='MINISTÉRIO DA DEFESA / Comando do Exército / Comando Militar do Sul / COMANDO DA 3ª DIVISÃO DO EXÉRCITO - BASE ADMINISTRATIVA DA GUARNIÇÃO DE SAN / TA MARIA / 1ªBatalhão de Comunicações Divisionário', Disputa='23/09/2025 - 08:00'
+2025-09-21 18:06:11,126 - INFO - [DOWNLOAD_EDITAIS] [18:06:11] ❌ Timeout aguardando download
+2025-09-21 18:06:12,126 - INFO - [DOWNLOAD_EDITAIS] [18:06:12] 🔍 Extraindo informações para o item 13…
+2025-09-21 18:06:12,326 - INFO - [DOWNLOAD_EDITAIS] [18:06:12] 🔍 Informações extraído: UASG=731050, Edital=900162025, Comprador='MINISTÉRIO DA DEFESA / COMANDO DA MARINHA / Comando Geral do Corpo de Fuzileiros Navais / Batalhão Naval', Disputa='01/10/2025 - 10:00'
+2025-09-21 18:06:12,327 - INFO - [DOWNLOAD_EDITAIS] [18:06:12] ⏭️  Pulando edital já processado: UASG 731050, Edital 900162025
+2025-09-21 18:06:12,327 - INFO - [DOWNLOAD_EDITAIS] [18:06:12] 🔍 Extraindo informações para o item 14…
+2025-09-21 18:06:12,524 - INFO - [DOWNLOAD_EDITAIS] [18:06:12] 🔍 Informações extraído: UASG=731050, Edital=900112025, Comprador='MINISTÉRIO DA DEFESA / COMANDO DA MARINHA / Comando Geral do Corpo de Fuzileiros Navais / Batalhão Naval', Disputa='25/09/2025 - 10:00'
+2025-09-21 18:06:28,803 - INFO - [DOWNLOAD_EDITAIS] [18:06:28] ❌ Timeout aguardando download
+2025-09-21 18:06:29,804 - INFO - [DOWNLOAD_EDITAIS] [18:06:29] 🔍 Extraindo informações para o item 15…
+2025-09-21 18:06:30,009 - INFO - [DOWNLOAD_EDITAIS] [18:06:30] 🔍 Informações extraído: UASG=160191, Edital=900012025, Comprador='MINISTÉRIO DA DEFESA / Comando do Exército / Departamento de Educação e Cultura do Exército / Diretoria de Formação e Aperfeiçoamento / Centro de Preparação de Oficiais da Reserva /Recife', Disputa='23/09/2025 - 10:00'
+2025-09-21 18:06:46,254 - INFO - [DOWNLOAD_EDITAIS] [18:06:46] ❌ Timeout aguardando download
+2025-09-21 18:06:47,255 - INFO - [DOWNLOAD_EDITAIS] [18:06:47] 🔍 Extraindo informações para o item 16…
+2025-09-21 18:06:47,435 - INFO - [DOWNLOAD_EDITAIS] [18:06:47] 🔍 Informações extraído: UASG=10001, Edital=900612025, Comprador='PODER LEGISLATIVO / Câmara dos Deputados', Disputa='23/09/2025 - 10:00'
+2025-09-21 18:06:47,437 - INFO - [DOWNLOAD_EDITAIS] [18:06:47] ⏭️  Pulando edital já processado: UASG 10001, Edital 900612025
+2025-09-21 18:06:47,438 - INFO - [DOWNLOAD_EDITAIS] [18:06:47] 🔍 Extraindo informações para o item 17…
+2025-09-21 18:06:47,586 - INFO - [DOWNLOAD_EDITAIS] [18:06:47] 🔍 Informações extraído: UASG=930208, Edital=900262025, Comprador='CAMARA MUNICIPAL DE POA', Disputa='24/09/2025 - 09:00'
+2025-09-21 18:07:03,823 - INFO - [DOWNLOAD_EDITAIS] [18:07:03] ❌ Timeout aguardando download
+2025-09-21 18:07:04,823 - INFO - [DOWNLOAD_EDITAIS] [18:07:04] 🔍 Extraindo informações para o item 18…
+2025-09-21 18:07:05,012 - INFO - [DOWNLOAD_EDITAIS] [18:07:05] 🔍 Informações extraído: UASG=194010, Edital=900022025, Comprador='MINISTÉRIO DA JUSTIÇA_E SEGURANÇA PÚBLICA / DIRETORIA DE ADMINISTRAÇÃO E GESTÃO - FUNAI / COORDENAÇÃO REGIONAL DE BELÉM - PA', Disputa='24/09/2025 - 10:00'
+2025-09-21 18:07:21,228 - INFO - [DOWNLOAD_EDITAIS] [18:07:21] ❌ Timeout aguardando download
+2025-09-21 18:07:22,229 - INFO - [DOWNLOAD_EDITAIS] [18:07:22] 🔍 Extraindo informações para o item 19…
+2025-09-21 18:07:22,386 - INFO - [DOWNLOAD_EDITAIS] [18:07:22] 🔍 Informações extraído: UASG=180189, Edital=900152025, Comprador='GOVERNO DO ESTADO DE SÃO PAULO / ESP-SECRETARIA DA SEGURANCA PUBLICA / ESP-COM.POLIC.AREA METROP-5', Disputa='25/09/2025 - 09:00'
+2025-09-21 18:07:22,387 - INFO - [DOWNLOAD_EDITAIS] [18:07:22] ⏭️  Pulando edital já processado: UASG 180189, Edital 900152025
+2025-09-21 18:07:22,388 - INFO - [DOWNLOAD_EDITAIS] [18:07:22] 🔍 Extraindo informações para o item 20…
+2025-09-21 18:07:22,553 - INFO - [DOWNLOAD_EDITAIS] [18:07:22] 🔍 Informações extraído: UASG=180207, Edital=900032025, Comprador='GOVERNO DO ESTADO DE SÃO PAULO / ESP-SECRETARIA DA SEGURANCA PUBLICA / ESP-8. GRUPAMENTO DE BOMBEIROS (8.GB)', Disputa='24/09/2025 - 09:00'
+2025-09-21 18:07:22,554 - INFO - [DOWNLOAD_EDITAIS] [18:07:22] ⏭️  Pulando edital já processado: UASG 180207, Edital 900032025
+2025-09-21 18:07:22,555 - INFO - [DOWNLOAD_EDITAIS] [18:07:22] ⏭️ Página 5: 0 novos editais baixados.
+2025-09-21 18:07:25,167 - INFO - [DOWNLOAD_EDITAIS] [18:07:25] Navegador fechado.
+2025-09-21 18:07:25,168 - INFO - [DOWNLOAD_EDITAIS] [18:07:25] ✅ Nenhum edital novo encontrado ou baixado. Pipeline concluído sem processamento de arquivos.
+2025-09-21 18:07:25,477 - INFO - [18:07:25] DOWNLOAD_EDITAIS: ✅ Executado com sucesso
+2025-09-21 18:07:25,483 - INFO - [18:07:25] VERIFICAÇÃO: Verificando atualização de arquivos...
+2025-09-21 18:07:25,484 - INFO - [18:07:25] VERIFICAÇÃO: ⚠️ master.xlsx não foi atualizado recentemente
+2025-09-21 18:07:25,484 - INFO - [18:07:25] PIPELINE: === ETAPA: MATCHING DE PRODUTOS ===
+2025-09-21 18:07:25,485 - INFO - [18:07:25] MATCHING_PRODUTOS: Iniciando execução...
+2025-09-21 18:07:26,818 - INFO - [MATCHING_PRODUTOS] 2025-09-21 18:07:26,817 - INFO - Starting the product matching process...
+2025-09-21 18:07:26,819 - INFO - [MATCHING_PRODUTOS] Starting the product matching process...
+2025-09-21 18:07:26,841 - INFO - [MATCHING_PRODUTOS] Traceback (most recent call last):
+2025-09-21 18:07:26,844 - INFO - [MATCHING_PRODUTOS] File "C:\Users\pietr\OneDrive\.vscode\arte_\arte_code\arte_heavy.py", line 683, in <module>
+2025-09-21 18:07:26,845 - INFO - [MATCHING_PRODUTOS] main()
+2025-09-21 18:07:26,846 - INFO - [MATCHING_PRODUTOS] ~~~~^^
+2025-09-21 18:07:26,846 - INFO - [MATCHING_PRODUTOS] File "C:\Users\pietr\OneDrive\.vscode\arte_\arte_code\arte_heavy.py", line 408, in main
+2025-09-21 18:07:26,847 - INFO - [MATCHING_PRODUTOS] df_base = pd.read_excel(CAMINHO_BASE)
+2025-09-21 18:07:26,847 - INFO - [MATCHING_PRODUTOS] File "C:\Users\pietr\AppData\Roaming\Python\Python313\site-packages\pandas\io\excel\_base.py", line 495, in read_excel
+2025-09-21 18:07:26,849 - INFO - [MATCHING_PRODUTOS] io = ExcelFile(
+2025-09-21 18:07:26,850 - INFO - [MATCHING_PRODUTOS] io,
+2025-09-21 18:07:26,850 - INFO - [MATCHING_PRODUTOS] ...<2 lines>...
+2025-09-21 18:07:26,851 - INFO - [MATCHING_PRODUTOS] engine_kwargs=engine_kwargs,
+2025-09-21 18:07:26,851 - INFO - [MATCHING_PRODUTOS] )
+2025-09-21 18:07:26,852 - INFO - [MATCHING_PRODUTOS] File "C:\Users\pietr\AppData\Roaming\Python\Python313\site-packages\pandas\io\excel\_base.py", line 1550, in __init__
+2025-09-21 18:07:26,852 - INFO - [MATCHING_PRODUTOS] ext = inspect_excel_format(
+2025-09-21 18:07:26,853 - INFO - [MATCHING_PRODUTOS] content_or_path=path_or_buffer, storage_options=storage_options
+2025-09-21 18:07:26,854 - INFO - [MATCHING_PRODUTOS] )
+2025-09-21 18:07:26,854 - INFO - [MATCHING_PRODUTOS] File "C:\Users\pietr\AppData\Roaming\Python\Python313\site-packages\pandas\io\excel\_base.py", line 1402, in inspect_excel_format
+2025-09-21 18:07:26,855 - INFO - [MATCHING_PRODUTOS] with get_handle(
+2025-09-21 18:07:26,856 - INFO - [MATCHING_PRODUTOS] ~~~~~~~~~~^
+2025-09-21 18:07:26,856 - INFO - [MATCHING_PRODUTOS] content_or_path, "rb", storage_options=storage_options, is_text=False
+2025-09-21 18:07:26,856 - INFO - [MATCHING_PRODUTOS] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-09-21 18:07:26,857 - INFO - [MATCHING_PRODUTOS] ) as handle:
+2025-09-21 18:07:26,857 - INFO - [MATCHING_PRODUTOS] ^
+2025-09-21 18:07:26,858 - INFO - [MATCHING_PRODUTOS] File "C:\Users\pietr\AppData\Roaming\Python\Python313\site-packages\pandas\io\common.py", line 882, in get_handle
+2025-09-21 18:07:26,858 - INFO - [MATCHING_PRODUTOS] handle = open(handle, ioargs.mode)
+2025-09-21 18:07:26,859 - INFO - [MATCHING_PRODUTOS] PermissionError: [Errno 13] Permission denied: 'C:\\Users\\pietr\\OneDrive\\.vscode\\arte_\\DOWNLOADS\\METADADOS\\categoria_GPT.xlsx'
+2025-09-21 18:07:27,061 - INFO - [18:07:27] MATCHING_PRODUTOS: ❌ Erro na execução (código 1)
+2025-09-21 18:07:27,063 - ERROR - ❌ Falha no matching de produtos.

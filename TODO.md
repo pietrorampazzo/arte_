@@ -1,3 +1,0 @@
-- [ ] Update get_item_classification function signature to accept description and reference parameters
-- [ ] Modify the prompt in get_item_classification to include <identidade> tag and use both DESCRICAO and REFERENCIA
-- [ ] Update the function call in main() to pass both descricao and referencia

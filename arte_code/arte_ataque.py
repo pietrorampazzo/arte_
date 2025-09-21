@@ -37,7 +37,7 @@ if not API_KEY:
     print("ERRO: A variável de ambiente GOOGLE_API_KEY não foi definida.")
 else:
     genai.configure(api_key=API_KEY)
-    MODEL = genai.GenerativeModel(model_name='gemini-1.5-flash-latest')
+    MODEL = genai.GenerativeModel(model_name='gemini-2.5-pro')
 
 # --- Configurações de Filtro ---
 PALAVRAS_CHAVE = [
@@ -91,10 +91,10 @@ PALAVRAS_CHAVE = [
 
     # ------------------ Projeção ------------------
     r'Tela projeção',
-    r'Projetor Multimídia',
+    r'Projetor Multimídia', r'PROJETOR MULTIMÍDIA', r'Projetor imagem',
 
     # ------------------ Efeitos ------------------
-    r'drone',
+    r'drone', r'DRONE'
 
 ]
 
@@ -103,9 +103,12 @@ REGEX_FILTRO = re.compile('|'.join(PALAVRAS_CHAVE), re.IGNORECASE)
 
 # --- Configurações de Exclusão ---
 PALAVRAS_EXCLUIR = [
-    r'notebook',
-    r'webcam',
-    r'Microcomputador',
+    r'notebook', r'Dosímetro Digital',
+    r'webcam', r'Porteiro Eletrônico',
+    r'Microcomputador', r'Lâmpada projetor',
+    r'Aparelho Telefônico', r'Decibelímetro',
+    r'Câmera', 
+
 ]
 REGEX_EXCLUIR = re.compile('|'.join(PALAVRAS_EXCLUIR), re.IGNORECASE)
 

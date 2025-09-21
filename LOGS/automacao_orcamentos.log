@@ -4371,3 +4371,763 @@ Case Extra Luxo, Boquilha com acessórios. 38CM X 26CM X 14.5CM PESO LIQUIDO 1.6
 2025-09-18 13:29:44,653 - INFO - 📊 Total processado: 30
 2025-09-18 13:29:44,653 - INFO - 📁 Arquivos salvos em: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS
 2025-09-18 13:29:44,653 - INFO - ============================================================
+2025-09-21 12:52:59,633 - INFO - ============================================================
+2025-09-21 12:52:59,635 - INFO - 🚀 INICIANDO SISTEMA DE AUTOMAÇÃO DE ORÇAMENTOS
+2025-09-21 12:52:59,636 - INFO - ============================================================
+2025-09-21 12:52:59,932 - INFO - 📊 Planilha carregada: 145 linhas
+2025-09-21 12:52:59,936 - INFO - 🎯 Encontrados 32 pregões únicos
+2025-09-21 12:52:59,937 - INFO - 🔄 [1/32] Processando: CARONA - Escola da Defensoria Publica do Estado de SAO PAULO
+2025-09-21 12:52:59,939 - INFO -    - Total de itens: 7
+2025-09-21 12:52:59,940 - INFO -    - Itens válidos: 6
+2025-09-21 12:52:59,940 - INFO - Iniciando criação do orçamento para: CARONA - Escola da Defensoria Publica do Estado de SAO PAULO
+2025-09-21 12:52:59,978 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:52:59,979 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:00,068 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_CARONA - Escola da Defensoria Publica do Estado de SAO PAULO.docx
+2025-09-21 12:53:00,069 - INFO -    - Itens processados: 6
+2025-09-21 12:53:00,070 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:00,071 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:00,073 - INFO -      • Item 3: DATREL - AT 15.300
+2025-09-21 12:53:00,075 - INFO -      • Item 13: SENNHEISER - Microfone Sennheiser XS 1 Dinâmico Cardióide
+2025-09-21 12:53:00,076 - INFO -      • Item 2: SOUNDVOICE - MP-126
+2025-09-21 12:53:00,077 - INFO - 🔄 [2/32] Processando: CARONA - Estadual de Educação Tecnológica Paula Souza – CEETEPS
+2025-09-21 12:53:00,080 - INFO -    - Total de itens: 3
+2025-09-21 12:53:00,081 - INFO -    - Itens válidos: 2
+2025-09-21 12:53:00,083 - INFO - Iniciando criação do orçamento para: CARONA - Estadual de Educação Tecnológica Paula Souza – CEETEPS
+2025-09-21 12:53:00,127 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:00,128 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:00,190 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_CARONA - Estadual de Educação Tecnológica Paula Souza – CEETEPS.docx
+2025-09-21 12:53:00,191 - INFO -    - Itens processados: 2
+2025-09-21 12:53:00,192 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:00,199 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:00,200 - INFO -      • Item 1: DATREL - AT 15.300 b
+2025-09-21 12:53:00,201 - INFO -      • Item 2: HAYONIK - Caixa Multiuso Hayonik Lite 200 40W RMS
+2025-09-21 12:53:00,202 - INFO - 🔄 [3/32] Processando: DISEPNSA - UASG 160254 - 1 BATALHAO DE INFANTARIA MOTORIZADO(ES)
+2025-09-21 12:53:00,203 - INFO -    - Total de itens: 3
+2025-09-21 12:53:00,204 - INFO -    - Itens válidos: 3
+2025-09-21 12:53:00,205 - INFO - Iniciando criação do orçamento para: DISEPNSA - UASG 160254 - 1 BATALHAO DE INFANTARIA MOTORIZADO(ES)
+2025-09-21 12:53:00,239 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:00,241 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:00,306 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_DISEPNSA - UASG 160254 - 1 BATALHAO DE INFANTARIA MOTORIZADO(ES).docx
+2025-09-21 12:53:00,306 - INFO -    - Itens processados: 3
+2025-09-21 12:53:00,307 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:00,308 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:00,310 - INFO -      • Item 6: Vandoren - Palheta Sax Saxofone Alto Mib Eb Vandoren Paris Java 2 1/2
+2025-09-21 12:53:00,311 - INFO -      • Item 5: VANDOREN - PALHETA TRADICIONAL 3,5 P/CLARINETE SIb CX C/10 CR1035 VANDOREN
+2025-09-21 12:53:00,311 - INFO -      • Item 7: Nucleo Musical - CPB 6 CL
+2025-09-21 12:53:00,311 - INFO - 🔄 [4/32] Processando: DISPENSA - UASG 160195 - COMANDO DO COMANDO MILITAR DO NORDESTE
+2025-09-21 12:53:00,314 - INFO -    - Total de itens: 9
+2025-09-21 12:53:00,315 - INFO -    - Itens válidos: 8
+2025-09-21 12:53:00,315 - INFO - Iniciando criação do orçamento para: DISPENSA - UASG 160195 - COMANDO DO COMANDO MILITAR DO NORDESTE
+2025-09-21 12:53:00,354 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:00,355 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:00,424 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_DISPENSA - UASG 160195 - COMANDO DO COMANDO MILITAR DO NORDESTE.docx
+2025-09-21 12:53:00,425 - INFO -    - Itens processados: 8
+2025-09-21 12:53:00,425 - INFO -    - Valor total: R$ 17.610,10
+2025-09-21 12:53:00,425 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:00,426 - INFO -      • Item 2: SUMAY - Ambiente 100W Preta
+2025-09-21 12:53:00,426 - INFO -      • Item 4: DATREL - AT 15.300 b
+2025-09-21 12:53:00,427 - INFO -      • Item 18: DATREL - AT 8.150B
+2025-09-21 12:53:00,427 - INFO - 🔄 [5/32] Processando: DISPENSA - UASG 925203 EDITAL 52025
+2025-09-21 12:53:00,428 - INFO -    - Total de itens: 2
+2025-09-21 12:53:00,429 - INFO -    - Itens válidos: 2
+2025-09-21 12:53:00,429 - INFO - Iniciando criação do orçamento para: DISPENSA - UASG 925203 EDITAL 52025
+2025-09-21 12:53:00,483 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:00,484 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:00,550 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_DISPENSA - UASG 925203 EDITAL 52025.docx
+2025-09-21 12:53:00,551 - INFO -    - Itens processados: 2
+2025-09-21 12:53:00,551 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:00,552 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:00,552 - INFO -      • Item 2: Shure - BLX24BR/PG58-M15
+2025-09-21 12:53:00,553 - INFO -      • Item 11: XPRO - KG 16
+2025-09-21 12:53:00,553 - INFO - 🔄 [6/32] Processando: U_153176_E_900162025_25-09-2025_09h00m
+2025-09-21 12:53:00,556 - INFO -    - Total de itens: 41
+2025-09-21 12:53:00,556 - INFO -    - Itens válidos: 38
+2025-09-21 12:53:00,557 - INFO - Iniciando criação do orçamento para: U_153176_E_900162025_25-09-2025_09h00m
+2025-09-21 12:53:00,589 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:00,590 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:00,848 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_153176_E_900162025_25-09-2025_09h00m.docx
+2025-09-21 12:53:00,848 - INFO -    - Itens processados: 38
+2025-09-21 12:53:00,849 - INFO -    - Valor total: R$ 21.281,96
+2025-09-21 12:53:00,849 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:00,850 - INFO -      • Item 36: LUEN - Pele Hidarulica com 2 Filmes - Batedeira 14'
+2025-09-21 12:53:00,850 - INFO -      • Item 42: ROXTONE - FF-101s
+2025-09-21 12:53:00,851 - INFO -      • Item 8: Liverpool - MT 22
+2025-09-21 12:53:00,851 - INFO - 🔄 [7/32] Processando: U_989571_E_900522025_01-10-2025_09h00m
+2025-09-21 12:53:00,853 - INFO -    - Total de itens: 1
+2025-09-21 12:53:00,853 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:00,853 - INFO - Iniciando criação do orçamento para: U_989571_E_900522025_01-10-2025_09h00m
+2025-09-21 12:53:00,882 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:00,884 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:00,960 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_989571_E_900522025_01-10-2025_09h00m.docx
+2025-09-21 12:53:00,961 - INFO -    - Itens processados: 1
+2025-09-21 12:53:00,962 - INFO -    - Valor total: R$ 50.982,97
+2025-09-21 12:53:00,966 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:00,967 - INFO -      • Item 68: Epson - Projetor Epson Co W01 Wxga 3000 Lumens 1280x800 - V11ha86020
+2025-09-21 12:53:00,968 - INFO - 🔄 [8/32] Processando: U_989859_E_900262025_29-09-2025_09h00m
+2025-09-21 12:53:00,970 - INFO -    - Total de itens: 31
+2025-09-21 12:53:00,971 - INFO -    - Itens válidos: 31
+2025-09-21 12:53:00,971 - INFO - Iniciando criação do orçamento para: U_989859_E_900262025_29-09-2025_09h00m
+2025-09-21 12:53:01,010 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:01,011 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:01,234 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_989859_E_900262025_29-09-2025_09h00m.docx
+2025-09-21 12:53:01,234 - INFO -    - Itens processados: 31
+2025-09-21 12:53:01,234 - INFO -    - Valor total: R$ 68.748,56
+2025-09-21 12:53:01,235 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:01,236 - INFO -      • Item 87: SOUNDVOICE - MA-1630X
+2025-09-21 12:53:01,236 - INFO -      • Item 96: ROXTONE - FF-101s
+2025-09-21 12:53:01,236 - INFO -      • Item 75: Liverpool - MC 48
+2025-09-21 12:53:01,237 - INFO - 🔄 [9/32] Processando: U_154840_E_900022025_29-09-2025_09h00m
+2025-09-21 12:53:01,238 - INFO -    - Total de itens: 6
+2025-09-21 12:53:01,239 - INFO -    - Itens válidos: 6
+2025-09-21 12:53:01,239 - INFO - Iniciando criação do orçamento para: U_154840_E_900022025_29-09-2025_09h00m
+2025-09-21 12:53:01,274 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:01,275 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:01,353 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_154840_E_900022025_29-09-2025_09h00m.docx
+2025-09-21 12:53:01,354 - INFO -    - Itens processados: 6
+2025-09-21 12:53:01,354 - INFO -    - Valor total: R$ 79.566,03
+2025-09-21 12:53:01,355 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:01,356 - INFO -      • Item 49: DYLAN - DE-115
+2025-09-21 12:53:01,356 - INFO -      • Item 71: DYLAN - DE-115
+2025-09-21 12:53:01,357 - INFO -      • Item 45: ROXTONE - RAYC-150 L1
+2025-09-21 12:53:01,357 - INFO - 🔄 [10/32] Processando: U_930180_N_900732025
+2025-09-21 12:53:01,359 - INFO -    - Total de itens: 1
+2025-09-21 12:53:01,359 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:01,360 - INFO - Iniciando criação do orçamento para: U_930180_N_900732025
+2025-09-21 12:53:01,395 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:01,396 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:01,451 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_930180_N_900732025.docx
+2025-09-21 12:53:01,452 - INFO -    - Itens processados: 1
+2025-09-21 12:53:01,452 - INFO -    - Valor total: R$ 714,43
+2025-09-21 12:53:01,453 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:01,454 - INFO -      • Item 21: SUMAY - CometBox 10W Cinza
+2025-09-21 12:53:01,454 - INFO - 🔄 [11/32] Processando: DISPENSA - UASG 926360 E_122025 - PMSP - FUNDACAO THEATRO MUNIC. DE SAO
+2025-09-21 12:53:01,457 - INFO -    - Total de itens: 2
+2025-09-21 12:53:01,458 - INFO -    - Itens válidos: 2
+2025-09-21 12:53:01,458 - INFO - Iniciando criação do orçamento para: DISPENSA - UASG 926360 E_122025 - PMSP - FUNDACAO THEATRO MUNIC. DE SAO
+2025-09-21 12:53:01,499 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:01,500 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:01,572 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_DISPENSA - UASG 926360 E_122025 - PMSP - FUNDACAO THEATRO MUNIC. DE SAO.docx
+2025-09-21 12:53:01,573 - INFO -    - Itens processados: 2
+2025-09-21 12:53:01,573 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:01,574 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:01,575 - INFO -      • Item 2: ONEAL - 003-400R-QR
+2025-09-21 12:53:01,577 - INFO -      • Item 1: XPRO - 765/ MCF 4
+2025-09-21 12:53:01,578 - INFO - 🔄 [12/32] Processando: U_180224_E_900302025_29-09-2025_09h00m
+2025-09-21 12:53:01,581 - INFO -    - Total de itens: 2
+2025-09-21 12:53:01,582 - INFO -    - Itens válidos: 2
+2025-09-21 12:53:01,583 - INFO - Iniciando criação do orçamento para: U_180224_E_900302025_29-09-2025_09h00m
+2025-09-21 12:53:01,648 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:01,649 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:01,700 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_180224_E_900302025_29-09-2025_09h00m.docx
+2025-09-21 12:53:01,701 - INFO -    - Itens processados: 2
+2025-09-21 12:53:01,701 - INFO -    - Valor total: R$ 1.369,20
+2025-09-21 12:53:01,702 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:01,703 - INFO -      • Item 44: SUMAY - Caixa Som 2.0 CSPC 1310
+2025-09-21 12:53:01,703 - INFO -      • Item 70: DYLAN - DE-115
+2025-09-21 12:53:01,704 - INFO - 🔄 [13/32] Processando: U_930180_E_900732025_03-10-2025_09h00m
+2025-09-21 12:53:01,706 - INFO -    - Total de itens: 1
+2025-09-21 12:53:01,706 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:01,707 - INFO - Iniciando criação do orçamento para: U_930180_E_900732025_03-10-2025_09h00m
+2025-09-21 12:53:01,745 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:01,745 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:01,787 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_930180_E_900732025_03-10-2025_09h00m.docx
+2025-09-21 12:53:01,787 - INFO -    - Itens processados: 1
+2025-09-21 12:53:01,788 - INFO -    - Valor total: R$ 162,99
+2025-09-21 12:53:01,788 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:01,789 - INFO -      • Item 21: SUMAY - Caixa Som 2.0 CSPC 1311
+2025-09-21 12:53:01,790 - INFO - 🔄 [14/32] Processando: U_986291_E_992222025
+2025-09-21 12:53:01,792 - INFO -    - Total de itens: 2
+2025-09-21 12:53:01,792 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:01,793 - INFO - Iniciando criação do orçamento para: U_986291_E_992222025
+2025-09-21 12:53:01,823 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:01,823 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:01,863 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_986291_E_992222025.docx
+2025-09-21 12:53:01,864 - INFO -    - Itens processados: 1
+2025-09-21 12:53:01,865 - INFO -    - Valor total: R$ 4.588,47
+2025-09-21 12:53:01,866 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:01,867 - INFO -      • Item 1: DJI - Drone Dji Mini 3 Standard (Sem Tela) Br - Dji038
+2025-09-21 12:53:01,868 - INFO - 🔄 [15/32] Processando: U_158125_E_905582025_02-10-2025_09h00m
+2025-09-21 12:53:01,869 - INFO -    - Total de itens: 4
+2025-09-21 12:53:01,870 - INFO -    - Itens válidos: 4
+2025-09-21 12:53:01,870 - INFO - Iniciando criação do orçamento para: U_158125_E_905582025_02-10-2025_09h00m
+2025-09-21 12:53:01,899 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:01,900 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:01,957 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_158125_E_905582025_02-10-2025_09h00m.docx
+2025-09-21 12:53:01,958 - INFO -    - Itens processados: 4
+2025-09-21 12:53:01,958 - INFO -    - Valor total: R$ 4.621,00
+2025-09-21 12:53:01,958 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:01,959 - INFO -      • Item 25: SOUNDVOICE - MS-8.4 EUX
+2025-09-21 12:53:01,960 - INFO -      • Item 22: TS SHARA - Nobreak 800VA 7Ah Bivolt Ups Compact Ts Shara
+2025-09-21 12:53:01,960 - INFO -      • Item 24: MICHAEL - CONTRABAIXO ELÉTRICO PRECISION BASS (4 CORDAS) - BM608N
+2025-09-21 12:53:01,960 - INFO - 🔄 [16/32] Processando: U_158154_E_906112025_25-09-2025_09h00m
+2025-09-21 12:53:01,961 - INFO -    - Total de itens: 3
+2025-09-21 12:53:01,962 - INFO -    - Itens válidos: 3
+2025-09-21 12:53:01,962 - INFO - Iniciando criação do orçamento para: U_158154_E_906112025_25-09-2025_09h00m
+2025-09-21 12:53:01,986 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:01,987 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:02,036 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_158154_E_906112025_25-09-2025_09h00m.docx
+2025-09-21 12:53:02,037 - INFO -    - Itens processados: 3
+2025-09-21 12:53:02,038 - INFO -    - Valor total: R$ 3.155,17
+2025-09-21 12:53:02,038 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:02,040 - INFO -      • Item 25: DATREL - AT 15.300 b
+2025-09-21 12:53:02,041 - INFO -      • Item 23: Nucleo Musical - CSMS 150-BK
+2025-09-21 12:53:02,042 - INFO -      • Item 26: SUMAY - Fire SM-CAP51
+2025-09-21 12:53:02,043 - INFO - 🔄 [17/32] Processando: U_925543_E_900342025_15-10-2025_14h00m
+2025-09-21 12:53:02,044 - INFO -    - Total de itens: 3
+2025-09-21 12:53:02,044 - INFO -    - Itens válidos: 2
+2025-09-21 12:53:02,045 - INFO - Iniciando criação do orçamento para: U_925543_E_900342025_15-10-2025_14h00m
+2025-09-21 12:53:02,073 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:02,074 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:02,109 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_925543_E_900342025_15-10-2025_14h00m.docx
+2025-09-21 12:53:02,109 - INFO -    - Itens processados: 2
+2025-09-21 12:53:02,110 - INFO -    - Valor total: R$ 5.129,14
+2025-09-21 12:53:02,110 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:02,111 - INFO -      • Item 56: Mark Audio - TAMBORIM 6 NATURAL Alumínio Confortável 6 Leitosa 80,19
+2025-09-21 12:53:02,111 - INFO -      • Item 4: SOUNDVOICE - PJ-120T
+2025-09-21 12:53:02,112 - INFO - 🔄 [18/32] Processando: U_929615_E_900032025_01-10-2025_10h00m
+2025-09-21 12:53:02,114 - INFO -    - Total de itens: 4
+2025-09-21 12:53:02,114 - INFO -    - Itens válidos: 4
+2025-09-21 12:53:02,114 - INFO - Iniciando criação do orçamento para: U_929615_E_900032025_01-10-2025_10h00m
+2025-09-21 12:53:02,148 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:02,148 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:02,203 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_929615_E_900032025_01-10-2025_10h00m.docx
+2025-09-21 12:53:02,204 - INFO -    - Itens processados: 4
+2025-09-21 12:53:02,204 - INFO -    - Valor total: R$ 29.160,39
+2025-09-21 12:53:02,204 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:02,205 - INFO -      • Item 5: Nucleo Musical - CW 30-BK
+2025-09-21 12:53:02,206 - INFO -      • Item 1: K Audio - GV2
+2025-09-21 12:53:02,206 - INFO -      • Item 6: MICHAEL - FONTE - DMXAD12
+2025-09-21 12:53:02,207 - INFO - 🔄 [19/32] Processando: U_102158_E_900352025_02-10-2025_09h00m
+2025-09-21 12:53:02,209 - INFO -    - Total de itens: 2
+2025-09-21 12:53:02,209 - INFO -    - Itens válidos: 2
+2025-09-21 12:53:02,210 - INFO - Iniciando criação do orçamento para: U_102158_E_900352025_02-10-2025_09h00m
+2025-09-21 12:53:02,237 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:02,238 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:02,295 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_102158_E_900352025_02-10-2025_09h00m.docx
+2025-09-21 12:53:02,296 - INFO -    - Itens processados: 2
+2025-09-21 12:53:02,297 - INFO -    - Valor total: R$ 31.484,83
+2025-09-21 12:53:02,297 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:02,297 - INFO -      • Item 1: Epson - Projetor Epson Co W01 Wxga 3000 Lumens 1280x800 - V11ha86020
+2025-09-21 12:53:02,298 - INFO -      • Item 2: DYLAN - DI-640
+2025-09-21 12:53:02,299 - INFO - 🔄 [20/32] Processando: U_926590_E_900012025_30-09-2025_09h00m
+2025-09-21 12:53:02,300 - INFO -    - Total de itens: 1
+2025-09-21 12:53:02,300 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:02,300 - INFO - Iniciando criação do orçamento para: U_926590_E_900012025_30-09-2025_09h00m
+2025-09-21 12:53:02,341 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:02,343 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:02,402 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_926590_E_900012025_30-09-2025_09h00m.docx
+2025-09-21 12:53:02,403 - INFO -    - Itens processados: 1
+2025-09-21 12:53:02,403 - INFO -    - Valor total: R$ 5.098,30
+2025-09-21 12:53:02,403 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:02,404 - INFO -      • Item 3: Epson - Projetor Epson Co W01 Wxga 3000 Lumens 1280x800 - V11ha86020
+2025-09-21 12:53:02,405 - INFO - 🔄 [21/32] Processando: DISEPENSA - UASG 158009 - INSTITUTO FEDERAL DO PARANÁ
+2025-09-21 12:53:02,407 - INFO -    - Total de itens: 3
+2025-09-21 12:53:02,408 - INFO -    - Itens válidos: 3
+2025-09-21 12:53:02,408 - INFO - Iniciando criação do orçamento para: DISEPENSA - UASG 158009 - INSTITUTO FEDERAL DO PARANÁ
+2025-09-21 12:53:02,452 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:02,453 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:02,523 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_DISEPENSA - UASG 158009 - INSTITUTO FEDERAL DO PARANÁ.docx
+2025-09-21 12:53:02,524 - INFO -    - Itens processados: 3
+2025-09-21 12:53:02,524 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:02,524 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:02,525 - INFO -      • Item 1: GIANNINI - Violão Giannini FK1 Goal Full Acústico Aço Natural Satin
+2025-09-21 12:53:02,526 - INFO -      • Item 6: Nucleo Musical - CSK 2CV-NA
+2025-09-21 12:53:02,526 - INFO -      • Item 7: Nucleo Musical - CSK 2CV-NA
+2025-09-21 12:53:02,526 - INFO - 🔄 [22/32] Processando: DISPENSA - UASG 102326 E 1072025
+2025-09-21 12:53:02,527 - INFO -    - Total de itens: 1
+2025-09-21 12:53:02,528 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:02,528 - INFO - Iniciando criação do orçamento para: DISPENSA - UASG 102326 E 1072025
+2025-09-21 12:53:02,556 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:02,556 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:02,597 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_DISPENSA - UASG 102326 E 1072025.docx
+2025-09-21 12:53:02,598 - INFO -    - Itens processados: 1
+2025-09-21 12:53:02,598 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:02,598 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:02,599 - INFO -      • Item 2: Liverpool - MT 14
+2025-09-21 12:53:02,600 - INFO - 🔄 [23/32] Processando: DISPENSA - UASG 160377 - 8 ESQUADRAO DE CAVALARIA MECANIZADO
+2025-09-21 12:53:02,602 - INFO -    - Total de itens: 2
+2025-09-21 12:53:02,602 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:02,602 - INFO - Iniciando criação do orçamento para: DISPENSA - UASG 160377 - 8 ESQUADRAO DE CAVALARIA MECANIZADO
+2025-09-21 12:53:02,629 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:02,630 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:02,668 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_DISPENSA - UASG 160377 - 8 ESQUADRAO DE CAVALARIA MECANIZADO.docx
+2025-09-21 12:53:02,669 - INFO -    - Itens processados: 1
+2025-09-21 12:53:02,669 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:02,669 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:02,670 - INFO -      • Item 1: DATREL - AT8X2
+2025-09-21 12:53:02,671 - INFO - 🔄 [24/32] Processando: DISPENSA - UASG 791100_222025- COMANDO DA FORCA AERONAVAL
+2025-09-21 12:53:02,673 - INFO -    - Total de itens: 1
+2025-09-21 12:53:02,674 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:02,674 - INFO - Iniciando criação do orçamento para: DISPENSA - UASG 791100_222025- COMANDO DA FORCA AERONAVAL
+2025-09-21 12:53:02,707 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:02,708 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:02,753 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_DISPENSA - UASG 791100_222025- COMANDO DA FORCA AERONAVAL.docx
+2025-09-21 12:53:02,754 - INFO -    - Itens processados: 1
+2025-09-21 12:53:02,755 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:02,756 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:02,758 - INFO -      • Item 2: K Audio - CVW 201 BK
+2025-09-21 12:53:02,759 - INFO - 🔄 [25/32] Processando: U_20001_E_901052025_02-10-2025_09h30m
+2025-09-21 12:53:02,763 - INFO -    - Total de itens: 2
+2025-09-21 12:53:02,764 - INFO -    - Itens válidos: 2
+2025-09-21 12:53:02,765 - INFO - Iniciando criação do orçamento para: U_20001_E_901052025_02-10-2025_09h30m
+2025-09-21 12:53:02,807 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:02,808 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:02,887 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_20001_E_901052025_02-10-2025_09h30m.docx
+2025-09-21 12:53:02,888 - INFO -    - Itens processados: 2
+2025-09-21 12:53:02,888 - INFO -    - Valor total: R$ 150.800,66
+2025-09-21 12:53:02,889 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:02,890 - INFO -      • Item 8: Shure - MV51-DIG
+2025-09-21 12:53:02,891 - INFO -      • Item 9: Shure - AXT600BR
+2025-09-21 12:53:02,892 - INFO - 🔄 [26/32] Processando: U_380195_E_900232025_25-09-2025_09h00m
+2025-09-21 12:53:02,895 - INFO -    - Total de itens: 1
+2025-09-21 12:53:02,895 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:02,895 - INFO - Iniciando criação do orçamento para: U_380195_E_900232025_25-09-2025_09h00m
+2025-09-21 12:53:02,951 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:02,952 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:03,010 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_380195_E_900232025_25-09-2025_09h00m.docx
+2025-09-21 12:53:03,010 - INFO -    - Itens processados: 1
+2025-09-21 12:53:03,011 - INFO -    - Valor total: R$ 3.492,26
+2025-09-21 12:53:03,011 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:03,013 - INFO -      • Item 69: Shure - SV100
+2025-09-21 12:53:03,014 - INFO - 🔄 [27/32] Processando: U_925814_E_900582025_25-09-2025_13h30m
+2025-09-21 12:53:03,016 - INFO -    - Total de itens: 1
+2025-09-21 12:53:03,017 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:03,017 - INFO - Iniciando criação do orçamento para: U_925814_E_900582025_25-09-2025_13h30m
+2025-09-21 12:53:03,068 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:03,069 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:03,140 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_925814_E_900582025_25-09-2025_13h30m.docx
+2025-09-21 12:53:03,141 - INFO -    - Itens processados: 1
+2025-09-21 12:53:03,141 - INFO -    - Valor total: R$ 106,99
+2025-09-21 12:53:03,142 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:03,143 - INFO -      • Item 19: Nucleo Musical - CSV 03-BK
+2025-09-21 12:53:03,144 - INFO - 🔄 [28/32] Processando: U_926724_E_900012025_02-10-2025_10h00m
+2025-09-21 12:53:03,146 - INFO -    - Total de itens: 1
+2025-09-21 12:53:03,146 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:03,147 - INFO - Iniciando criação do orçamento para: U_926724_E_900012025_02-10-2025_10h00m
+2025-09-21 12:53:03,196 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:03,197 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:03,261 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_926724_E_900012025_02-10-2025_10h00m.docx
+2025-09-21 12:53:03,262 - INFO -    - Itens processados: 1
+2025-09-21 12:53:03,262 - INFO -    - Valor total: R$ 13.389,26
+2025-09-21 12:53:03,263 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:03,264 - INFO -      • Item 9: HARMONICS - Microfone Sem Fio Harmonics HSF-300 Duplo
+2025-09-21 12:53:03,265 - INFO - 🔄 [29/32] Processando: U_980489_E_900132025_30-09-2025_09h00m
+2025-09-21 12:53:03,267 - INFO -    - Total de itens: 1
+2025-09-21 12:53:03,268 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:03,268 - INFO - Iniciando criação do orçamento para: U_980489_E_900132025_30-09-2025_09h00m
+2025-09-21 12:53:03,323 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:03,324 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:03,389 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_980489_E_900132025_30-09-2025_09h00m.docx
+2025-09-21 12:53:03,390 - INFO -    - Itens processados: 1
+2025-09-21 12:53:03,390 - INFO -    - Valor total: R$ 784,61
+2025-09-21 12:53:03,391 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:03,392 - INFO -      • Item 18: SUMAY - Caixa Som 2.0 CSPC 1310
+2025-09-21 12:53:03,393 - INFO - 🔄 [30/32] Processando: DISPENSA - UASG 781000 - COMANDO DO 1.DISTRITO NAVAL
+2025-09-21 12:53:03,397 - INFO -    - Total de itens: 1
+2025-09-21 12:53:03,397 - INFO -    - Itens válidos: 0
+2025-09-21 12:53:03,398 - INFO - Iniciando criação do orçamento para: DISPENSA - UASG 781000 - COMANDO DO 1.DISTRITO NAVAL
+2025-09-21 12:53:03,400 - WARNING - Nenhum item válido encontrado para o pregão: DISPENSA - UASG 781000 - COMANDO DO 1.DISTRITO NAVAL
+2025-09-21 12:53:03,401 - INFO - 🔄 [31/32] Processando: EQUIPAMENTOS DE TI - CFPR - CAMPANHA
+2025-09-21 12:53:03,406 - INFO -    - Total de itens: 2
+2025-09-21 12:53:03,406 - INFO -    - Itens válidos: 0
+2025-09-21 12:53:03,407 - INFO - Iniciando criação do orçamento para: EQUIPAMENTOS DE TI - CFPR - CAMPANHA
+2025-09-21 12:53:03,409 - WARNING - Nenhum item válido encontrado para o pregão: EQUIPAMENTOS DE TI - CFPR - CAMPANHA
+2025-09-21 12:53:03,410 - INFO - 🔄 [32/32] Processando: U_158492_E_202025 - DISPENSA MG
+2025-09-21 12:53:03,413 - INFO -    - Total de itens: 1
+2025-09-21 12:53:03,414 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:03,415 - INFO - Iniciando criação do orçamento para: U_158492_E_202025 - DISPENSA MG
+2025-09-21 12:53:03,477 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:03,479 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:03,582 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_158492_E_202025 - DISPENSA MG.docx
+2025-09-21 12:53:03,582 - INFO -    - Itens processados: 1
+2025-09-21 12:53:03,583 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:03,584 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:03,585 - INFO -      • Item 14: Liverpool - BF TENNY
+2025-09-21 12:53:03,586 - INFO - ============================================================
+2025-09-21 12:53:03,587 - INFO - 📈 RELATÓRIO FINAL DE PROCESSAMENTO
+2025-09-21 12:53:03,588 - INFO - ============================================================
+2025-09-21 12:53:03,588 - INFO - ✅ Orçamentos criados com sucesso: 30
+2025-09-21 12:53:03,589 - INFO - ❌ Erros: 2
+2025-09-21 12:53:03,590 - INFO - 📊 Total processado: 32
+2025-09-21 12:53:03,591 - INFO - 📁 Arquivos salvos em: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS
+2025-09-21 12:53:03,591 - INFO - ============================================================
+2025-09-21 12:53:24,501 - INFO - ============================================================
+2025-09-21 12:53:24,501 - INFO - 🚀 INICIANDO SISTEMA DE AUTOMAÇÃO DE ORÇAMENTOS
+2025-09-21 12:53:24,501 - INFO - ============================================================
+2025-09-21 12:53:24,861 - INFO - 📊 Planilha carregada: 145 linhas
+2025-09-21 12:53:24,864 - INFO - 🎯 Encontrados 32 pregões únicos
+2025-09-21 12:53:24,864 - INFO - 🔄 [1/32] Processando: CARONA - Escola da Defensoria Publica do Estado de SAO PAULO
+2025-09-21 12:53:24,866 - INFO -    - Total de itens: 7
+2025-09-21 12:53:24,867 - INFO -    - Itens válidos: 6
+2025-09-21 12:53:24,867 - INFO - Iniciando criação do orçamento para: CARONA - Escola da Defensoria Publica do Estado de SAO PAULO
+2025-09-21 12:53:24,911 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:24,912 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:25,017 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_CARONA - Escola da Defensoria Publica do Estado de SAO PAULO.docx
+2025-09-21 12:53:25,017 - INFO -    - Itens processados: 6
+2025-09-21 12:53:25,018 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:25,018 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:25,020 - INFO -      • Item 3: DATREL - AT 15.300
+2025-09-21 12:53:25,021 - INFO -      • Item 13: SENNHEISER - Microfone Sennheiser XS 1 Dinâmico Cardióide
+2025-09-21 12:53:25,021 - INFO -      • Item 2: SOUNDVOICE - MP-126
+2025-09-21 12:53:25,022 - INFO - 🔄 [2/32] Processando: CARONA - Estadual de Educação Tecnológica Paula Souza – CEETEPS
+2025-09-21 12:53:25,026 - INFO -    - Total de itens: 3
+2025-09-21 12:53:25,027 - INFO -    - Itens válidos: 2
+2025-09-21 12:53:25,028 - INFO - Iniciando criação do orçamento para: CARONA - Estadual de Educação Tecnológica Paula Souza – CEETEPS
+2025-09-21 12:53:25,066 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:25,066 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:25,135 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_CARONA - Estadual de Educação Tecnológica Paula Souza – CEETEPS.docx
+2025-09-21 12:53:25,136 - INFO -    - Itens processados: 2
+2025-09-21 12:53:25,136 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:25,137 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:25,138 - INFO -      • Item 1: DATREL - AT 15.300 b
+2025-09-21 12:53:25,139 - INFO -      • Item 2: HAYONIK - Caixa Multiuso Hayonik Lite 200 40W RMS
+2025-09-21 12:53:25,139 - INFO - 🔄 [3/32] Processando: DISEPNSA - UASG 160254 - 1 BATALHAO DE INFANTARIA MOTORIZADO(ES)
+2025-09-21 12:53:25,142 - INFO -    - Total de itens: 3
+2025-09-21 12:53:25,143 - INFO -    - Itens válidos: 3
+2025-09-21 12:53:25,143 - INFO - Iniciando criação do orçamento para: DISEPNSA - UASG 160254 - 1 BATALHAO DE INFANTARIA MOTORIZADO(ES)
+2025-09-21 12:53:25,189 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:25,190 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:25,275 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_DISEPNSA - UASG 160254 - 1 BATALHAO DE INFANTARIA MOTORIZADO(ES).docx
+2025-09-21 12:53:25,276 - INFO -    - Itens processados: 3
+2025-09-21 12:53:25,276 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:25,277 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:25,278 - INFO -      • Item 6: Vandoren - Palheta Sax Saxofone Alto Mib Eb Vandoren Paris Java 2 1/2
+2025-09-21 12:53:25,279 - INFO -      • Item 5: VANDOREN - PALHETA TRADICIONAL 3,5 P/CLARINETE SIb CX C/10 CR1035 VANDOREN
+2025-09-21 12:53:25,280 - INFO -      • Item 7: Nucleo Musical - CPB 6 CL
+2025-09-21 12:53:25,280 - INFO - 🔄 [4/32] Processando: DISPENSA - UASG 160195 - COMANDO DO COMANDO MILITAR DO NORDESTE
+2025-09-21 12:53:25,283 - INFO -    - Total de itens: 9
+2025-09-21 12:53:25,284 - INFO -    - Itens válidos: 8
+2025-09-21 12:53:25,285 - INFO - Iniciando criação do orçamento para: DISPENSA - UASG 160195 - COMANDO DO COMANDO MILITAR DO NORDESTE
+2025-09-21 12:53:25,348 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:25,350 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:25,596 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_DISPENSA - UASG 160195 - COMANDO DO COMANDO MILITAR DO NORDESTE.docx
+2025-09-21 12:53:25,602 - INFO -    - Itens processados: 8
+2025-09-21 12:53:25,610 - INFO -    - Valor total: R$ 17.610,10
+2025-09-21 12:53:25,612 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:25,614 - INFO -      • Item 2: SUMAY - Ambiente 100W Preta
+2025-09-21 12:53:25,616 - INFO -      • Item 4: DATREL - AT 15.300 b
+2025-09-21 12:53:25,617 - INFO -      • Item 18: DATREL - AT 8.150B
+2025-09-21 12:53:25,618 - INFO - 🔄 [5/32] Processando: DISPENSA - UASG 925203 EDITAL 52025
+2025-09-21 12:53:25,622 - INFO -    - Total de itens: 2
+2025-09-21 12:53:25,624 - INFO -    - Itens válidos: 2
+2025-09-21 12:53:25,624 - INFO - Iniciando criação do orçamento para: DISPENSA - UASG 925203 EDITAL 52025
+2025-09-21 12:53:25,695 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:25,697 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:25,808 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_DISPENSA - UASG 925203 EDITAL 52025.docx
+2025-09-21 12:53:25,809 - INFO -    - Itens processados: 2
+2025-09-21 12:53:25,809 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:25,810 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:25,812 - INFO -      • Item 2: Shure - BLX24BR/PG58-M15
+2025-09-21 12:53:25,813 - INFO -      • Item 11: XPRO - KG 16
+2025-09-21 12:53:25,814 - INFO - 🔄 [6/32] Processando: U_153176_E_900162025_25-09-2025_09h00m
+2025-09-21 12:53:25,818 - INFO -    - Total de itens: 41
+2025-09-21 12:53:25,819 - INFO -    - Itens válidos: 38
+2025-09-21 12:53:25,820 - INFO - Iniciando criação do orçamento para: U_153176_E_900162025_25-09-2025_09h00m
+2025-09-21 12:53:25,885 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:25,887 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:26,719 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_153176_E_900162025_25-09-2025_09h00m.docx
+2025-09-21 12:53:26,720 - INFO -    - Itens processados: 38
+2025-09-21 12:53:26,721 - INFO -    - Valor total: R$ 21.281,96
+2025-09-21 12:53:26,721 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:26,724 - INFO -      • Item 36: LUEN - Pele Hidarulica com 2 Filmes - Batedeira 14'
+2025-09-21 12:53:26,725 - INFO -      • Item 42: ROXTONE - FF-101s
+2025-09-21 12:53:26,726 - INFO -      • Item 8: Liverpool - MT 22
+2025-09-21 12:53:26,727 - INFO - 🔄 [7/32] Processando: U_989571_E_900522025_01-10-2025_09h00m
+2025-09-21 12:53:26,730 - INFO -    - Total de itens: 1
+2025-09-21 12:53:26,731 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:26,732 - INFO - Iniciando criação do orçamento para: U_989571_E_900522025_01-10-2025_09h00m
+2025-09-21 12:53:26,793 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:26,794 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:26,880 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_989571_E_900522025_01-10-2025_09h00m.docx
+2025-09-21 12:53:26,881 - INFO -    - Itens processados: 1
+2025-09-21 12:53:26,883 - INFO -    - Valor total: R$ 50.982,97
+2025-09-21 12:53:26,883 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:26,885 - INFO -      • Item 68: Epson - Projetor Epson Co W01 Wxga 3000 Lumens 1280x800 - V11ha86020
+2025-09-21 12:53:26,886 - INFO - 🔄 [8/32] Processando: U_989859_E_900262025_29-09-2025_09h00m
+2025-09-21 12:53:26,889 - INFO -    - Total de itens: 31
+2025-09-21 12:53:26,890 - INFO -    - Itens válidos: 31
+2025-09-21 12:53:26,891 - INFO - Iniciando criação do orçamento para: U_989859_E_900262025_29-09-2025_09h00m
+2025-09-21 12:53:26,948 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:26,949 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:27,567 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_989859_E_900262025_29-09-2025_09h00m.docx
+2025-09-21 12:53:27,568 - INFO -    - Itens processados: 31
+2025-09-21 12:53:27,569 - INFO -    - Valor total: R$ 68.748,56
+2025-09-21 12:53:27,569 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:27,571 - INFO -      • Item 87: SOUNDVOICE - MA-1630X
+2025-09-21 12:53:27,573 - INFO -      • Item 96: ROXTONE - FF-101s
+2025-09-21 12:53:27,574 - INFO -      • Item 75: Liverpool - MC 48
+2025-09-21 12:53:27,575 - INFO - 🔄 [9/32] Processando: U_154840_E_900022025_29-09-2025_09h00m
+2025-09-21 12:53:27,578 - INFO -    - Total de itens: 6
+2025-09-21 12:53:27,579 - INFO -    - Itens válidos: 6
+2025-09-21 12:53:27,580 - INFO - Iniciando criação do orçamento para: U_154840_E_900022025_29-09-2025_09h00m
+2025-09-21 12:53:27,650 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:27,652 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:27,852 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_154840_E_900022025_29-09-2025_09h00m.docx
+2025-09-21 12:53:27,853 - INFO -    - Itens processados: 6
+2025-09-21 12:53:27,853 - INFO -    - Valor total: R$ 79.566,03
+2025-09-21 12:53:27,854 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:27,855 - INFO -      • Item 49: DYLAN - DE-115
+2025-09-21 12:53:27,856 - INFO -      • Item 71: DYLAN - DE-115
+2025-09-21 12:53:27,857 - INFO -      • Item 45: ROXTONE - RAYC-150 L1
+2025-09-21 12:53:27,858 - INFO - 🔄 [10/32] Processando: U_930180_N_900732025
+2025-09-21 12:53:27,861 - INFO -    - Total de itens: 1
+2025-09-21 12:53:27,861 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:27,862 - INFO - Iniciando criação do orçamento para: U_930180_N_900732025
+2025-09-21 12:53:27,926 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:27,927 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:28,013 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_930180_N_900732025.docx
+2025-09-21 12:53:28,013 - INFO -    - Itens processados: 1
+2025-09-21 12:53:28,015 - INFO -    - Valor total: R$ 714,43
+2025-09-21 12:53:28,015 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:28,017 - INFO -      • Item 21: SUMAY - CometBox 10W Cinza
+2025-09-21 12:53:28,018 - INFO - 🔄 [11/32] Processando: DISPENSA - UASG 926360 E_122025 - PMSP - FUNDACAO THEATRO MUNIC. DE SAO
+2025-09-21 12:53:28,022 - INFO -    - Total de itens: 2
+2025-09-21 12:53:28,023 - INFO -    - Itens válidos: 2
+2025-09-21 12:53:28,023 - INFO - Iniciando criação do orçamento para: DISPENSA - UASG 926360 E_122025 - PMSP - FUNDACAO THEATRO MUNIC. DE SAO
+2025-09-21 12:53:28,090 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:28,091 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:28,208 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_DISPENSA - UASG 926360 E_122025 - PMSP - FUNDACAO THEATRO MUNIC. DE SAO.docx
+2025-09-21 12:53:28,210 - INFO -    - Itens processados: 2
+2025-09-21 12:53:28,210 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:28,211 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:28,213 - INFO -      • Item 2: ONEAL - 003-400R-QR
+2025-09-21 12:53:28,215 - INFO -      • Item 1: XPRO - 765/ MCF 4
+2025-09-21 12:53:28,216 - INFO - 🔄 [12/32] Processando: U_180224_E_900302025_29-09-2025_09h00m
+2025-09-21 12:53:28,219 - INFO -    - Total de itens: 2
+2025-09-21 12:53:28,220 - INFO -    - Itens válidos: 2
+2025-09-21 12:53:28,220 - INFO - Iniciando criação do orçamento para: U_180224_E_900302025_29-09-2025_09h00m
+2025-09-21 12:53:28,290 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:28,291 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:28,404 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_180224_E_900302025_29-09-2025_09h00m.docx
+2025-09-21 12:53:28,405 - INFO -    - Itens processados: 2
+2025-09-21 12:53:28,406 - INFO -    - Valor total: R$ 1.369,20
+2025-09-21 12:53:28,406 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:28,408 - INFO -      • Item 44: SUMAY - Caixa Som 2.0 CSPC 1310
+2025-09-21 12:53:28,409 - INFO -      • Item 70: DYLAN - DE-115
+2025-09-21 12:53:28,410 - INFO - 🔄 [13/32] Processando: U_930180_E_900732025_03-10-2025_09h00m
+2025-09-21 12:53:28,414 - INFO -    - Total de itens: 1
+2025-09-21 12:53:28,415 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:28,416 - INFO - Iniciando criação do orçamento para: U_930180_E_900732025_03-10-2025_09h00m
+2025-09-21 12:53:28,487 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:28,488 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:28,580 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_930180_E_900732025_03-10-2025_09h00m.docx
+2025-09-21 12:53:28,581 - INFO -    - Itens processados: 1
+2025-09-21 12:53:28,581 - INFO -    - Valor total: R$ 162,99
+2025-09-21 12:53:28,582 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:28,583 - INFO -      • Item 21: SUMAY - Caixa Som 2.0 CSPC 1311
+2025-09-21 12:53:28,584 - INFO - 🔄 [14/32] Processando: U_986291_E_992222025
+2025-09-21 12:53:28,588 - INFO -    - Total de itens: 2
+2025-09-21 12:53:28,589 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:28,590 - INFO - Iniciando criação do orçamento para: U_986291_E_992222025
+2025-09-21 12:53:28,662 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:28,663 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:28,767 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_986291_E_992222025.docx
+2025-09-21 12:53:28,768 - INFO -    - Itens processados: 1
+2025-09-21 12:53:28,768 - INFO -    - Valor total: R$ 4.588,47
+2025-09-21 12:53:28,769 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:28,770 - INFO -      • Item 1: DJI - Drone Dji Mini 3 Standard (Sem Tela) Br - Dji038
+2025-09-21 12:53:28,771 - INFO - 🔄 [15/32] Processando: U_158125_E_905582025_02-10-2025_09h00m
+2025-09-21 12:53:28,775 - INFO -    - Total de itens: 4
+2025-09-21 12:53:28,775 - INFO -    - Itens válidos: 4
+2025-09-21 12:53:28,776 - INFO - Iniciando criação do orçamento para: U_158125_E_905582025_02-10-2025_09h00m
+2025-09-21 12:53:28,860 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:28,862 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:29,013 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_158125_E_905582025_02-10-2025_09h00m.docx
+2025-09-21 12:53:29,014 - INFO -    - Itens processados: 4
+2025-09-21 12:53:29,014 - INFO -    - Valor total: R$ 4.621,00
+2025-09-21 12:53:29,015 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:29,017 - INFO -      • Item 25: SOUNDVOICE - MS-8.4 EUX
+2025-09-21 12:53:29,018 - INFO -      • Item 22: TS SHARA - Nobreak 800VA 7Ah Bivolt Ups Compact Ts Shara
+2025-09-21 12:53:29,019 - INFO -      • Item 24: MICHAEL - CONTRABAIXO ELÉTRICO PRECISION BASS (4 CORDAS) - BM608N
+2025-09-21 12:53:29,020 - INFO - 🔄 [16/32] Processando: U_158154_E_906112025_25-09-2025_09h00m
+2025-09-21 12:53:29,024 - INFO -    - Total de itens: 3
+2025-09-21 12:53:29,025 - INFO -    - Itens válidos: 3
+2025-09-21 12:53:29,026 - INFO - Iniciando criação do orçamento para: U_158154_E_906112025_25-09-2025_09h00m
+2025-09-21 12:53:29,101 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:29,102 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:29,250 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_158154_E_906112025_25-09-2025_09h00m.docx
+2025-09-21 12:53:29,251 - INFO -    - Itens processados: 3
+2025-09-21 12:53:29,253 - INFO -    - Valor total: R$ 3.155,17
+2025-09-21 12:53:29,253 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:29,255 - INFO -      • Item 25: DATREL - AT 15.300 b
+2025-09-21 12:53:29,256 - INFO -      • Item 23: Nucleo Musical - CSMS 150-BK
+2025-09-21 12:53:29,258 - INFO -      • Item 26: SUMAY - Fire SM-CAP51
+2025-09-21 12:53:29,259 - INFO - 🔄 [17/32] Processando: U_925543_E_900342025_15-10-2025_14h00m
+2025-09-21 12:53:29,263 - INFO -    - Total de itens: 3
+2025-09-21 12:53:29,263 - INFO -    - Itens válidos: 2
+2025-09-21 12:53:29,264 - INFO - Iniciando criação do orçamento para: U_925543_E_900342025_15-10-2025_14h00m
+2025-09-21 12:53:29,334 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:29,335 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:29,463 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_925543_E_900342025_15-10-2025_14h00m.docx
+2025-09-21 12:53:29,464 - INFO -    - Itens processados: 2
+2025-09-21 12:53:29,465 - INFO -    - Valor total: R$ 5.129,14
+2025-09-21 12:53:29,466 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:29,469 - INFO -      • Item 56: Mark Audio - TAMBORIM 6 NATURAL Alumínio Confortável 6 Leitosa 80,19
+2025-09-21 12:53:29,471 - INFO -      • Item 4: SOUNDVOICE - PJ-120T
+2025-09-21 12:53:29,473 - INFO - 🔄 [18/32] Processando: U_929615_E_900032025_01-10-2025_10h00m
+2025-09-21 12:53:29,477 - INFO -    - Total de itens: 4
+2025-09-21 12:53:29,478 - INFO -    - Itens válidos: 4
+2025-09-21 12:53:29,478 - INFO - Iniciando criação do orçamento para: U_929615_E_900032025_01-10-2025_10h00m
+2025-09-21 12:53:29,563 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:29,564 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:29,726 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_929615_E_900032025_01-10-2025_10h00m.docx
+2025-09-21 12:53:29,726 - INFO -    - Itens processados: 4
+2025-09-21 12:53:29,727 - INFO -    - Valor total: R$ 29.160,39
+2025-09-21 12:53:29,728 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:29,730 - INFO -      • Item 5: Nucleo Musical - CW 30-BK
+2025-09-21 12:53:29,731 - INFO -      • Item 1: K Audio - GV2
+2025-09-21 12:53:29,732 - INFO -      • Item 6: MICHAEL - FONTE - DMXAD12
+2025-09-21 12:53:29,733 - INFO - 🔄 [19/32] Processando: U_102158_E_900352025_02-10-2025_09h00m
+2025-09-21 12:53:29,737 - INFO -    - Total de itens: 2
+2025-09-21 12:53:29,738 - INFO -    - Itens válidos: 2
+2025-09-21 12:53:29,739 - INFO - Iniciando criação do orçamento para: U_102158_E_900352025_02-10-2025_09h00m
+2025-09-21 12:53:29,797 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:29,798 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:29,897 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_102158_E_900352025_02-10-2025_09h00m.docx
+2025-09-21 12:53:29,898 - INFO -    - Itens processados: 2
+2025-09-21 12:53:29,899 - INFO -    - Valor total: R$ 31.484,83
+2025-09-21 12:53:29,899 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:29,901 - INFO -      • Item 1: Epson - Projetor Epson Co W01 Wxga 3000 Lumens 1280x800 - V11ha86020
+2025-09-21 12:53:29,902 - INFO -      • Item 2: DYLAN - DI-640
+2025-09-21 12:53:29,903 - INFO - 🔄 [20/32] Processando: U_926590_E_900012025_30-09-2025_09h00m
+2025-09-21 12:53:29,906 - INFO -    - Total de itens: 1
+2025-09-21 12:53:29,907 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:29,908 - INFO - Iniciando criação do orçamento para: U_926590_E_900012025_30-09-2025_09h00m
+2025-09-21 12:53:29,975 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:29,977 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:30,070 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_926590_E_900012025_30-09-2025_09h00m.docx
+2025-09-21 12:53:30,071 - INFO -    - Itens processados: 1
+2025-09-21 12:53:30,072 - INFO -    - Valor total: R$ 5.098,30
+2025-09-21 12:53:30,073 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:30,075 - INFO -      • Item 3: Epson - Projetor Epson Co W01 Wxga 3000 Lumens 1280x800 - V11ha86020
+2025-09-21 12:53:30,076 - INFO - 🔄 [21/32] Processando: DISEPENSA - UASG 158009 - INSTITUTO FEDERAL DO PARANÁ
+2025-09-21 12:53:30,080 - INFO -    - Total de itens: 3
+2025-09-21 12:53:30,081 - INFO -    - Itens válidos: 3
+2025-09-21 12:53:30,081 - INFO - Iniciando criação do orçamento para: DISEPENSA - UASG 158009 - INSTITUTO FEDERAL DO PARANÁ
+2025-09-21 12:53:30,155 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:30,156 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:30,270 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_DISEPENSA - UASG 158009 - INSTITUTO FEDERAL DO PARANÁ.docx
+2025-09-21 12:53:30,271 - INFO -    - Itens processados: 3
+2025-09-21 12:53:30,272 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:30,273 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:30,274 - INFO -      • Item 1: GIANNINI - Violão Giannini FK1 Goal Full Acústico Aço Natural Satin
+2025-09-21 12:53:30,275 - INFO -      • Item 6: Nucleo Musical - CSK 2CV-NA
+2025-09-21 12:53:30,276 - INFO -      • Item 7: Nucleo Musical - CSK 2CV-NA
+2025-09-21 12:53:30,277 - INFO - 🔄 [22/32] Processando: DISPENSA - UASG 102326 E 1072025
+2025-09-21 12:53:30,281 - INFO -    - Total de itens: 1
+2025-09-21 12:53:30,282 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:30,282 - INFO - Iniciando criação do orçamento para: DISPENSA - UASG 102326 E 1072025
+2025-09-21 12:53:30,342 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:30,344 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:30,420 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_DISPENSA - UASG 102326 E 1072025.docx
+2025-09-21 12:53:30,421 - INFO -    - Itens processados: 1
+2025-09-21 12:53:30,422 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:30,422 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:30,424 - INFO -      • Item 2: Liverpool - MT 14
+2025-09-21 12:53:30,425 - INFO - 🔄 [23/32] Processando: DISPENSA - UASG 160377 - 8 ESQUADRAO DE CAVALARIA MECANIZADO
+2025-09-21 12:53:30,428 - INFO -    - Total de itens: 2
+2025-09-21 12:53:30,429 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:30,430 - INFO - Iniciando criação do orçamento para: DISPENSA - UASG 160377 - 8 ESQUADRAO DE CAVALARIA MECANIZADO
+2025-09-21 12:53:30,491 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:30,493 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:30,568 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_DISPENSA - UASG 160377 - 8 ESQUADRAO DE CAVALARIA MECANIZADO.docx
+2025-09-21 12:53:30,569 - INFO -    - Itens processados: 1
+2025-09-21 12:53:30,570 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:30,570 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:30,573 - INFO -      • Item 1: DATREL - AT8X2
+2025-09-21 12:53:30,574 - INFO - 🔄 [24/32] Processando: DISPENSA - UASG 791100_222025- COMANDO DA FORCA AERONAVAL
+2025-09-21 12:53:30,577 - INFO -    - Total de itens: 1
+2025-09-21 12:53:30,577 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:30,578 - INFO - Iniciando criação do orçamento para: DISPENSA - UASG 791100_222025- COMANDO DA FORCA AERONAVAL
+2025-09-21 12:53:30,640 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:30,642 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:30,732 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_DISPENSA - UASG 791100_222025- COMANDO DA FORCA AERONAVAL.docx
+2025-09-21 12:53:30,732 - INFO -    - Itens processados: 1
+2025-09-21 12:53:30,733 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:30,734 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:30,735 - INFO -      • Item 2: K Audio - CVW 201 BK
+2025-09-21 12:53:30,736 - INFO - 🔄 [25/32] Processando: U_20001_E_901052025_02-10-2025_09h30m
+2025-09-21 12:53:30,740 - INFO -    - Total de itens: 2
+2025-09-21 12:53:30,741 - INFO -    - Itens válidos: 2
+2025-09-21 12:53:30,742 - INFO - Iniciando criação do orçamento para: U_20001_E_901052025_02-10-2025_09h30m
+2025-09-21 12:53:30,813 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:30,815 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:31,001 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_20001_E_901052025_02-10-2025_09h30m.docx
+2025-09-21 12:53:31,002 - INFO -    - Itens processados: 2
+2025-09-21 12:53:31,002 - INFO -    - Valor total: R$ 150.800,66
+2025-09-21 12:53:31,003 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:31,007 - INFO -      • Item 8: Shure - MV51-DIG
+2025-09-21 12:53:31,012 - INFO -      • Item 9: Shure - AXT600BR
+2025-09-21 12:53:31,026 - INFO - 🔄 [26/32] Processando: U_380195_E_900232025_25-09-2025_09h00m
+2025-09-21 12:53:31,034 - INFO -    - Total de itens: 1
+2025-09-21 12:53:31,036 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:31,037 - INFO - Iniciando criação do orçamento para: U_380195_E_900232025_25-09-2025_09h00m
+2025-09-21 12:53:31,120 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:31,122 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:31,231 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_380195_E_900232025_25-09-2025_09h00m.docx
+2025-09-21 12:53:31,233 - INFO -    - Itens processados: 1
+2025-09-21 12:53:31,234 - INFO -    - Valor total: R$ 3.492,26
+2025-09-21 12:53:31,234 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:31,236 - INFO -      • Item 69: Shure - SV100
+2025-09-21 12:53:31,237 - INFO - 🔄 [27/32] Processando: U_925814_E_900582025_25-09-2025_13h30m
+2025-09-21 12:53:31,241 - INFO -    - Total de itens: 1
+2025-09-21 12:53:31,242 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:31,243 - INFO - Iniciando criação do orçamento para: U_925814_E_900582025_25-09-2025_13h30m
+2025-09-21 12:53:31,315 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:31,317 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:31,407 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_925814_E_900582025_25-09-2025_13h30m.docx
+2025-09-21 12:53:31,408 - INFO -    - Itens processados: 1
+2025-09-21 12:53:31,408 - INFO -    - Valor total: R$ 106,99
+2025-09-21 12:53:31,409 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:31,411 - INFO -      • Item 19: Nucleo Musical - CSV 03-BK
+2025-09-21 12:53:31,412 - INFO - 🔄 [28/32] Processando: U_926724_E_900012025_02-10-2025_10h00m
+2025-09-21 12:53:31,416 - INFO -    - Total de itens: 1
+2025-09-21 12:53:31,416 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:31,417 - INFO - Iniciando criação do orçamento para: U_926724_E_900012025_02-10-2025_10h00m
+2025-09-21 12:53:31,487 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:31,488 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:31,559 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_926724_E_900012025_02-10-2025_10h00m.docx
+2025-09-21 12:53:31,559 - INFO -    - Itens processados: 1
+2025-09-21 12:53:31,560 - INFO -    - Valor total: R$ 13.389,26
+2025-09-21 12:53:31,560 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:31,562 - INFO -      • Item 9: HARMONICS - Microfone Sem Fio Harmonics HSF-300 Duplo
+2025-09-21 12:53:31,563 - INFO - 🔄 [29/32] Processando: U_980489_E_900132025_30-09-2025_09h00m
+2025-09-21 12:53:31,566 - INFO -    - Total de itens: 1
+2025-09-21 12:53:31,567 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:31,567 - INFO - Iniciando criação do orçamento para: U_980489_E_900132025_30-09-2025_09h00m
+2025-09-21 12:53:31,629 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:31,631 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:31,708 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_980489_E_900132025_30-09-2025_09h00m.docx
+2025-09-21 12:53:31,709 - INFO -    - Itens processados: 1
+2025-09-21 12:53:31,709 - INFO -    - Valor total: R$ 784,61
+2025-09-21 12:53:31,710 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:31,712 - INFO -      • Item 18: SUMAY - Caixa Som 2.0 CSPC 1310
+2025-09-21 12:53:31,713 - INFO - 🔄 [30/32] Processando: DISPENSA - UASG 781000 - COMANDO DO 1.DISTRITO NAVAL
+2025-09-21 12:53:31,716 - INFO -    - Total de itens: 1
+2025-09-21 12:53:31,717 - INFO -    - Itens válidos: 0
+2025-09-21 12:53:31,717 - INFO - Iniciando criação do orçamento para: DISPENSA - UASG 781000 - COMANDO DO 1.DISTRITO NAVAL
+2025-09-21 12:53:31,719 - WARNING - Nenhum item válido encontrado para o pregão: DISPENSA - UASG 781000 - COMANDO DO 1.DISTRITO NAVAL
+2025-09-21 12:53:31,720 - INFO - 🔄 [31/32] Processando: EQUIPAMENTOS DE TI - CFPR - CAMPANHA
+2025-09-21 12:53:31,724 - INFO -    - Total de itens: 2
+2025-09-21 12:53:31,724 - INFO -    - Itens válidos: 0
+2025-09-21 12:53:31,725 - INFO - Iniciando criação do orçamento para: EQUIPAMENTOS DE TI - CFPR - CAMPANHA
+2025-09-21 12:53:31,727 - WARNING - Nenhum item válido encontrado para o pregão: EQUIPAMENTOS DE TI - CFPR - CAMPANHA
+2025-09-21 12:53:31,728 - INFO - 🔄 [32/32] Processando: U_158492_E_202025 - DISPENSA MG
+2025-09-21 12:53:31,731 - INFO -    - Total de itens: 1
+2025-09-21 12:53:31,732 - INFO -    - Itens válidos: 1
+2025-09-21 12:53:31,732 - INFO - Iniciando criação do orçamento para: U_158492_E_202025 - DISPENSA MG
+2025-09-21 12:53:31,795 - INFO - Tabela de itens encontrada: índice 2
+2025-09-21 12:53:31,797 - INFO - Tabela de itens limpa (mantido apenas cabeçalho)
+2025-09-21 12:53:31,935 - INFO - ✅ Orçamento criado com sucesso: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS\ORCAMENTO_U_158492_E_202025 - DISPENSA MG.docx
+2025-09-21 12:53:31,936 - INFO -    - Itens processados: 1
+2025-09-21 12:53:31,936 - INFO -    - Valor total: R$ 0,00
+2025-09-21 12:53:31,937 - INFO -    - Primeiros itens processados:
+2025-09-21 12:53:31,938 - INFO -      • Item 14: Liverpool - BF TENNY
+2025-09-21 12:53:31,939 - INFO - ============================================================
+2025-09-21 12:53:31,940 - INFO - 📈 RELATÓRIO FINAL DE PROCESSAMENTO
+2025-09-21 12:53:31,940 - INFO - ============================================================
+2025-09-21 12:53:31,941 - INFO - ✅ Orçamentos criados com sucesso: 30
+2025-09-21 12:53:31,942 - INFO - ❌ Erros: 2
+2025-09-21 12:53:31,942 - INFO - 📊 Total processado: 32
+2025-09-21 12:53:31,943 - INFO - 📁 Arquivos salvos em: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS_GERADOS
+2025-09-21 12:53:31,944 - INFO - ============================================================

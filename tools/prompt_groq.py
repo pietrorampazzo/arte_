@@ -13,12 +13,14 @@ api_key = os.getenv("QROQ_API_KEY")
 "openai/gpt-oss-20b"
 "openai/gpt-oss-120b"
 "llama-3.1-8b-instant"
+"moonshotai/kimi-k2-instruct"
+"deepseek-r1-distill-llama-70b"
 
 
 
 client = Groq(api_key=api_key)
 completion = client.chat.completions.create(
-    model="moonshotai/kimi-k2-instruct",
+    model="openai/gpt-oss-20b",
     messages=[
       {
         "role": "user",
