@@ -1,0 +1,3781 @@
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+EDITAL DE LICITAÇÃO
+Processo Administrativo nº 79150/2024
+
+09 de setembro de 2025.
+
+PREGÃO ELETRÔNICO Nº 003/2025
+
+| - PROCESSO ADMINISTRATIVO: 79150/2024
+
+1l - DATA DE RECEBIMENTO E ABERTURA DAS PROPOSTAS:
+Recebimento das propostas: 20/09/2025 até 01/10/2025 às 10:00h;
+Abertura das propostas: 01/10/2025 às 10:00h;
+
+Sessão pública: 01/10/2025 às 10:00h.
+
+Interstício mínimo para o recebimento das propostas de 08 (oito) úteis
+
+Ill - OBJETO DA LICITAÇÃO:
+Aquisição de diversos itens de informática nos termos do Anexo A do Termo de Referência, conforme condições e
+exigências estabelecidas neste instrumento.
+
+IV - CRITÉRIO DE JULGAMENTO
+Menor Preço por item
+
+V - MODO DE DISPUTA
+Aberto e Fechado
+
+VI — PRAZOS:
+
+Entrega do objeto: Os itens deverão ser entregues no prazo máximo de 30 (trinta) dias corridos, contados a
+partir do recebimento da Ordem de Fornecimento.
+
+Vigência do contrato: 90 (noventa) dias, a contar da assinatura do instrumento contratual, na forma do artigo
+105 da Lei nº 14.133/2021.
+
+VIIl - DOTAÇÃO ORÇAMENTÁRIA:
+
+UG: 521010 - FMAS - Fundo Municipal de Assistência Social;
+
+Subação: 120200 - Salvador Mais Inclusiva - Implantação de Residências Inclusivas para Pessoas com Deficiência;
+Elemento de Despesa: 44.90.52 - Equipamentos e Material Permanente
+
+Fonte: 2.700.1.1.0.001 - Ex Ant - Outras Tranf de Convênios ou Instrumentos Congêneres da União — Tesouro.
+
+VIII - VALOR DE REFERÊNCIA:
+O valor total estimado da presente licitação é de R$ 225.682,18 (duzentos e vinte e cinco mil seiscentos e oitenta e
+dois reais e dezoito centavos), preço máximo aceitável para contratação.
+
+IX - ANEXOS:
+
+ANEXO | — TERMO DE REFERÊNCIA; ANEXO |l - MODELO DE PROPOSTA DE PREÇOS; ANEXO Ill — DECLARAÇÕES AÀ
+SEREM APRESENTADAS JUNTAMENTE COM A PROPOSTA; ANEXO IV - MODELO DE PROCURAÇÃO; ANEXO V —
+MINUTA DO CONTRATO.
+
+A SEMPRE torna público para conhecimento dos interessados que serão recebidas propostas de preços e
+documentos de habilitação para a licitação na modalidade descrita acima, de acordo com as condições
+estabelecidas neste edital e anexos.
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+EDITAL DE LICITAÇÃO
+Pregão Eletrônico nº 003/2025
+Processo Administrativo nº 79150/2024
+
+O Município de Salvador, por intermédio da SEMPRE, CNPJ 13.927.801/0017-06, torna público que realizará
+licitação, na modalidade PREGÃO ELETRÔNICO - TIPO MENOR PREÇO POR ITEM, nos moldes do que consta do
+Processo Administrativo nº 79150/2024, regendo-se pelas condições estabelecidas neste Edital, nos termos da
+Lei Federal nº 14.133/2021, de 1º de abril de 2021 e demais legislações aplicáveis.
+
+1. DOOBJETO
+1.1. O objeto da licitação é a Aquisição de diversos itens de informática nos termos do Anexo A do Termo
+de Referência, conforme condições e exigências estabelecidas neste instrumento.
+1.2. A licitação será realizada por itens conforme descritos no Anexo A do Termo de Referência (Anexo |
+deste edital):
+2. DAS DESPESAS E DOS RECURSOS ORÇAMENTÁRIOS
+2.1. As despesas decorrentes desta licitação correrão à conta dos recursos consignados ao orçamento da
+SEMPRE, do exercício de 2025. Conforme descrito abaixo:
+
+An ” ELEMENTO DE
+ÓRGAÃO/ENTIDADE SUBAÇÃO DESPESA FONTE
+120200 2.700.1.1.0.001
+521010 Salvador Mais Inclusiva - 44.90.52 Ex Ant - Outras Tranf
+ã Equipamentos e êni
+FMAS — FUNDO MUNICIPAL I.mAplar.]taçaº de. terial de Convênios ou
+DE ASSITÊNCIA SOCIAL Residências Inclusivas materia Instrumentos
+para Pessoas com permanente Congêneres da União
+Deficiência — Tesouro
+
+3. DA PARTICIPAÇÃO NA LICITAÇÃO
+
+3.1. Poderão participar desta licitação os interessados que estiverem previamente credenciados no Sistema
+de Cadastramento Unificado de Fornecedores - SICAF e no Sistema de Compras do Governo Federal
+(www.gov.br/compras).
+
+3.1.1. Os interessados deverão atender às condições exigidas no cadastramento no Sistema de Compras
+eletrônico indicado no caput até a data prevista para recebimento das propostas.
+
+3.2. O licitante responsabiliza-se exclusiva e formalmente pelas transações efetuadas em seu nome,
+assume como firmes e verdadeiras suas propostas e seus lances, inclusive os atos praticados
+diretamente ou por seu representante, excluída a responsabilidade do provedor do sistema ou do
+órgão ou entidade promotora da licitação por eventuais danos decorrentes de uso indevido das
+credenciais de acesso, ainda que por terceiros.
+
+3.3. É de responsabilidade do cadastrado conferir a exatidão dos seus dados cadastrais nos Sistemas
+relacionados no item anterior e mantê-los atualizados junto aos órgãos responsáveis pela informação,
+devendo proceder, imediatamente, à correção ou à alteração dos registros tão logo identifique
+incorreção ou aqueles se tornem desatualizados.
+
+3.4. A não observância do disposto no item anterior poderá ensejar desclassificação no momento da
+habilitação.
+
+3.5. Considerando os valores estimados para cada item a licitação será destinada, exclusivamente,
+à participação de Microempresas - ME e Empresas de Pequeno Porte - EPP, em atendimento
+ao disposto no art. 48, | da Lei Complementar nº 123/2006;
+
+3.6. Será concedido tratamento favorecido para as Microempresas - ME e Empresas de Pequeno Porte -
+EPP, para as sociedades cooperativas mencionadas no artigo 16 da Lei nº 14.133/2021, para o
+agricultor familiar, o produtor rural pessoa física e para o Microempreendedor Individual - MEI, nos
+limites previstos da Lei Complementar nº 123/2006.
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+3.7. Não poderão disputar esta licitação:
+
+l. Aquele que não atenda às condições deste Edital e seu (s) anexo (s);
+
+. Autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa física ou jurídica,
+quando a licitação versar sobre serviços ou fornecimento de bens a ele relacionados;
+
+W. Empresa, isoladamente ou em consórcio, responsável pela elaboração do projeto básico ou
+do projeto executivo, ou empresa da qual o autor do projeto seja dirigente, gerente,
+controlador, acionista ou detentor de mais de 5% (cinco por cento) do capital com direito a
+voto, responsável técnico ou subcontratado, quando a licitação versar sobre serviços ou
+fornecimento de bens a ela necessários;
+
+IV. Pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitada de participar
+da licitação em decorrência de sanção que lhe foi imposta;
+V. Aquele que mantenha vínculo de natureza técnica, comercial, econômica, financeira,
+
+trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente público
+que desempenhe função na licitação ou atue na fiscalização ou na gestão do contrato, ou que
+deles seja cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o
+terceiro grau;
+
+VI. Empresas controladoras, controladas ou coligadas, nos termos da Lei nº 6.404, de 15 de
+dezembro de 1976, concorrendo entre si;
+VIL. Pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do Edital, tenha sido
+
+condenada judicialmente, com trânsito em julgado, por exploração de trabalho infantil, por
+submissão de trabalhadores a condições análogas às de escravo ou por contratação de
+adolescentes nos casos vedados pela legislação trabalhista;
+
+VII. Agente público do órgão ou entidade licitante;
+IX. Pessoas jurídicas reunidas em consórcio, quando devidamente justificado pela Administração,
+nos termos do art. 15, caput, da Lei nº 14.133/2021;
+X. Organizações da Sociedade Civil de Interesse Público - OSCIP, atuando nessa condição;
+
+3.7.1. Não poderá participar, direta ou indiretamente, da licitação ou da execução do contrato agente
+público do órgão ou entidade contratante, devendo ser observadas as situações que possam
+configurar conflito de interesses no exercício ou após o exercício do cargo ou emprego, nos
+termos da legislação que disciplina a matéria, conforme & 1º do art. 9º da Lei n.º 14.133/2021.
+
+3.8. O impedimento de que trata o inciso IV do item 3.7 será também aplicado ao licitante que atue em
+substituição a outra pessoa, física ou jurídica, com o intuito de burlar a efetividade da sanção a ela
+aplicada, inclusive a sua controladora, controlada ou coligada, desde que devidamente comprovado o
+ilícito ou a utilização fraudulenta da personalidade jurídica do licitante.
+
+3.9. A critério da Administração e exclusivamente a seu serviço, o autor dos projetos e a empresa a que se
+referem o inciso |l do item 3.7 poderão participar no apoio das atividades de planejamento da
+contratação, de execução da licitação ou de gestão do contrato, desde que sob supervisão exclusiva de
+agentes públicos do órgão ou entidade.
+
+3.9.1. Equiparam-se aos autores do projeto as empresas integrantes do mesmo grupo econômico.
+
+3.10.O disposto no inciso |l do item 3.7 não impede a licitação ou a contratação de serviço que inclua como
+encargo do contratado a elaboração do projeto básico e do projeto executivo, nas contratações
+integradas, e do projeto executivo, nos demais regimes de execução.
+
+3.11.Em licitações e contratações realizadas no âmbito de projetos e programas parcialmente financiados
+por agência oficial de cooperação estrangeira ou por organismo financeiro internacional com recursos
+do financiamento ou da contrapartida nacional, não poderá participar pessoa física ou jurídica que
+integre o rol de pessoas sancionadas por essas entidades ou que seja declarada inidônea nos termos
+da Lei nº 14.133/2021.
+
+3.12.A vedação de que trata o inciso VIIIl do item 3.7 estende-se a terceiro que auxilie a condução da
+contratação na qualidade de integrante de equipe de apoio, profissional especializado ou funcionário
+ou representante de empresa que preste assessoria técnica.
+
+DA APRESENTAÇÃO DA PROPOSTA E DOS DOCUMENTOS DE HABILITAÇÃO
+
+4.1. Na presente licitação, a fase de habilitação sucederá as fases de apresentação de propostas e lances e
+de julgamento.
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+4.2. Os licitantes encaminharão, exclusivamente por meio do sistema eletrônico, a proposta com o preço,
+conforme o critério de julgamento adotado neste Edital, até a data e o horário estabelecidos para
+abertura da sessão pública.
+
+4.3. No cadastramento da proposta inicial, o licitante declarará, em campo próprio do sistema:
+
+4.3.1. Que está ciente e concorda com as condições contidas no Edital e seus anexos, bem como de
+que a proposta apresentada compreende a integralidade dos custos para atendimento dos
+direitos trabalhistas assegurados na Constituição Federal, nas leis trabalhistas, nas normas
+infralegais, nas convenções coletivas de trabalho e nos termos de ajustamento de conduta
+vigentes na data de sua entrega em definitivo e que cumpre plenamente os requisitos de
+habilitação definidos no instrumento convocatório;
+
+4.3.2. Que não emprega menor de 18 anos em trabalho noturno, perigoso ou insalubre, e não emprega
+menor de 16 anos, salvo menor, a partir de 14 (quatorze) anos, na condição de aprendiz, nos
+termos do artigo 7º, XXXIII, da Constituição Federal;
+
+4.3.3. Que não possui, em sua cadeia produtiva, empregados executando trabalho degradante ou
+forçado, observando o disposto nos incisos Ill e IV do art. 1º e no inciso lll do art. 5º da
+Constituição Federal;
+
+4.3.4. Que cumpre as exigências de reserva de cargos para pessoa com deficiência e para reabilitado da
+Previdência Social, previstas em lei e em outras normas específicas.
+
+4.4. O licitante organizado em cooperativa deverá declarar, ainda, em campo próprio do sistema eletrônico,
+que cumpre os requisitos estabelecidos no artigo 16 da Lei nº 14.133/2021.
+
+4.5. O fornecedor enquadrado como microempresa - ME, empresa de pequeno porte - EPP ou sociedade
+cooperativa deverá declarar, ainda, em campo próprio do sistema eletrônico, que cumpre os requisitos
+estabelecidos no artigo 3º da Lei Complementar nº 123/2006, estando apto a usufruir do tratamento
+favorecido estabelecido em seus Art. 42 a 49, observado o disposto nos 88 1º ao 3º do art. 4º, da Lei
+nº 14.133/2021.
+
+4.6. A falsidade da declaração de que trata os itens 4.3 e 4.5 sujeitará o licitante às sanções previstas na Lei
+nº 14.133/2021, e neste Edital.
+
+4.7. Serão disponibilizados para acesso público os documentos que compõem a proposta dos licitantes
+convocados para apresentação de propostas, após a fase de envio de lances.
+
+4.8. Desde que disponibilizada a funcionalidade no sistema, o licitante poderá parametrizar o seu valor final
+mínimo quando do cadastramento da proposta e obedecerá às seguintes regras:
+
+L. A aplicação do intervalo mínimo de diferença de valores ou de percentuais entre os lances, que
+incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a
+melhor oferta; e
+
+. Os lances serão de envio automático pelo sistema, respeitado o valor final mínimo estabelecido
+e o intervalo de que trata o subitem acima.
+
+4.9. O valor final mínimo parametrizado no sistema poderá ser alterado pelo fornecedor durante a fase de
+disputa, sendo vedado:
+|. Valor superior a lance já registrado pelo fornecedor no sistema, quando adotado o critério de
+
+julgamento por menor preço;
+
+4.10.O valor final mínimo parametrizado na forma do item 4.9, inciso |, possuirá caráter sigiloso para os
+demais fornecedores e para o órgão ou entidade promotora da licitação, podendo ser disponibilizado
+estrita e permanentemente aos órgãos de controle externo e interno.
+
+4.11. Caberá ao licitante interessado em participar da licitação acompanhar as operações no sistema
+eletrônico durante o processo licitatório e se responsabilizar pelo ônus decorrente da perda de
+negócios diante da inobservância de mensagens emitidas pela Administração ou de sua desconexão.
+
+4.12.O licitante deverá comunicar imediatamente ao provedor do sistema qualquer acontecimento que
+possa comprometer o sigilo ou a segurança, para imediato bloqueio de acesso.
+
+4.13.O licitante deverá enviar sua proposta mediante o preenchimento, no sistema eletrônico, dos
+seguintes campos:
+
+l. Valor total unitário e total do item;
+
+. Marca;
+
+. Fabricante
+
+IV. Descrição do objeto, contendo as informações similares à especificação do Termo de Referência.
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+4.14. Todas as especificações do objeto contidas na proposta vinculam o licitante.
+
+4.15.Nos valores propostos estarão inclusos todos os custos operacionais, encargos previdenciários,
+trabalhistas, tributários, comerciais e quaisquer outros que incidam direta ou indiretamente na
+execução do objeto.
+
+4.16.Os preços ofertados, tanto na proposta inicial, quanto na etapa de lances, serão de exclusiva
+responsabilidade do licitante, não lhe assistindo o direito de pleitear qualquer alteração, sob alegação
+de erro, omissão ou qualquer outro pretexto.
+
+4.17.Se o regime tributário da empresa implicar o recolhimento de tributos em percentuais variáveis, a
+cotação adequada será a que corresponde à média dos efetivos recolhimentos da empresa nos últimos
+12 (doze) meses.
+
+4.18. Independentemente do percentual de tributo inserido na planilha, no pagamento serão retidos na
+fonte os percentuais estabelecidos na legislação vigente.
+
+4.19.A apresentação das propostas implica obrigatoriedade do cumprimento das disposições nelas
+contidas, em conformidade com o que dispõe o Termo de Referência, assumindo o proponente o
+compromisso de executar o objeto licitado nos seus termos, bem como de fornecer os materiais,
+equipamentos, ferramentas e utensílios necessários, em quantidades e qualidades adequadas à
+perfeita execução contratual, promovendo, quando requerido, sua substituição.
+
+4.20.O prazo de validade da proposta não será inferior a 90 (noventa) dias, a contar da data de sua
+apresentação.
+
+4.21. Os licitantes devem respeitar os preços máximos estabelecidos pela Administração.
+
+DA ABERTURA DA SESSÃO, CLASSIFICAÇÃO DAS PROPOSTAS E FORMULAÇÃO DE LANCES
+
+5.1. A abertura da presente licitação dar-se-á automaticamente em sessão pública, por meio de sistema
+eletrônico, na data, horário e local indicados neste Edital.
+
+5.2. Os licitantes poderão retirar ou substituir a proposta ou os documentos de habilitação até a abertura
+da sessão pública.
+
+5.2.1. Será desclassificada a proposta que identifique o licitante.
+
+5.2.2. A desclassificação será sempre fundamentada e registrada no sistema, com acompanhamento
+em tempo real por todos os participantes.
+
+5.2.3. A não desclassificação da proposta não impede o seu julgamento definitivo em sentido contrário,
+levado a efeito na fase de aceitação.
+
+5.3. O sistema ordenará automaticamente as propostas classificadas, sendo que somente essas
+participarão da fase de lances.
+
+5.4. O sistema disponibilizará campo próprio para troca de mensagens entre o Pregoeiro e os licitantes.
+
+5.5. Iniciada a etapa competitiva, os licitantes deverão encaminhar lances exclusivamente por meio de
+sistema eletrônico, sendo imediatamente informados do seu recebimento e do valor consignado no
+registro.
+
+5.6. O lance deverá ser ofertado pelo valor total dos grupos.
+
+5.7. Os licitantes poderão oferecer lances sucessivos, observando o horário fixado para abertura da sessão
+e as regras estabelecidas no Edital.
+
+5.8. Olicitante somente poderá oferecer lance de valor inferior ao último por ele ofertado e registrado pelo
+sistema.
+
+5.9. O intervalo mínimo de diferença de valores, que incidirá tanto em relação aos lances intermediários
+quanto em relação à proposta que cobrir a melhor oferta deverá ser de R$ 100,00 (cem reais).
+5.10.O licitante poderá, uma única vez, excluir seu último lance ofertado, no intervalo de 15 (quinze)
+
+segundos após o registro no sistema, na hipótese de lance inconsistente ou inexequível.
+5.11. O procedimento seguirá de acordo com o modo de disputa aberto e fechado.
+5.12. No modo de disputa “aberto e fechado”, os licitantes apresentarão lances públicos e sucessivos, com
+lance final e fechado.
+5.12.1.A etapa de lances da sessão pública terá duração inicial de 15 (quinze) minutos. Após esse prazo,
+o sistema encaminhará aviso de fechamento iminente dos lances, o que transcorrerá o período
+de tempo de até 10 (dez) minutos, aleatoriamente determinado, findo o qual será
+automaticamente encerrada a recepção de lances.
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+5.12.2. Encerrado o prazo previsto no subitem anterior, o sistema abrirá oportunidade para que o autor
+da oferta de valor mais baixo e os das ofertas com preços até 10% (dez por cento) superior àquela,
+possam ofertar um lance final e fechado em até 5 (cinco) minutos, o qual será sigiloso até o
+encerramento deste prazo.
+
+5.12.3. No procedimento de que trata o subitem supra, o licitante poderá optar por manter o seu último
+lance da etapa aberta, ou por ofertar melhor lance.
+
+5.12.4. Não havendo pelo menos três ofertas nas condições definidas neste item, poderão os autores
+dos melhores lances subsequentes, na ordem de classificação, até o máximo de 3 (três), oferecer
+um lance final e fechado em até 5 (cinco) minutos, o qual será sigiloso até o encerramento deste
+prazo.
+
+5.13. Após o término dos prazos estabelecidos nos itens anteriores, o sistema ordenará e divulgará os lances
+segundo a ordem crescente de valores.
+
+5.14. Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for recebido e
+registrado em primeiro lugar.
+
+5.15. Durante o transcurso da sessão pública, os licitantes serão informados, em tempo real, do valor do
+menor lance registrado, vedada a identificação do licitante.
+
+5.16. No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do Pregão, o sistema
+eletrônico poderá permanecer acessível aos licitantes para a recepção dos lances.
+
+5.17. Quando a desconexão do sistema eletrônico para o pregoeiro persistir por tempo superior a 10 (dez)
+minutos, a sessão pública será suspensa e reiniciada somente após decorridas 24 (vinte e quatro) horas
+da comunicação do fato pelo Pregoeiro aos participantes, no sítio eletrônico utilizado para divulgação.
+
+5.18. Caso o licitante não apresente lances, concorrerá com o valor de sua proposta.
+
+5.19. Havendo apenas uma oferta, esta poderá ser aceita, desde que atenda todas as condições do
+instrumento convocatório e seu preço seja compatível com o valor estimado para a contratação e
+dentro da realidade do mercado.
+
+5.20. Só poderá haver empate entre propostas iguais e não seguidas de lances, ou entre lances finais da
+fase fechada do modo de disputa aberto e fechado.
+
+5.20.1. Havendo eventual empate entre propostas ou lances, o critério de desempate será aquele
+previsto no art. 60 da Lei nº 14.133/2021, nesta ordem:
+
+l. —“Disputa final, hipótese em que os licitantes empatados poderão apresentar nova proposta
+em ato contínuo à classificação;
+
+Il. Avaliação do desempenho contratual prévio dos licitantes, para a qual deverão
+preferencialmente ser utilizados registros cadastrais para efeito de atesto de
+cumprimento de obrigações previstos nesta Lei;
+
+Ill. Desenvolvimento pelo licitante de ações de equidade entre homens e mulheres no
+ambiente de trabalho, conforme regulamento;
+
+IV. Desenvolvimento pelo licitante de programa de integridade, conforme orientações dos
+órgãos de controle.
+
+5.20.2. Persistindo o empate, será assegurada preferência, sucessivamente, aos bens e serviços
+produzidos ou prestados por:
+
+l. “Empresas estabelecidas no território do Estado em que este se localize;
+
+Il. Empresas brasileiras;
+
+Ill. Empresas que invistam em pesquisa e no desenvolvimento de tecnologia no País;
+
+IV. Empresas que comprovem a prática de mitigação, nos termos da Lei nº 12.187, de 29 de
+dezembro de 2009.
+
+5.21. Encerrada a etapa de envio de lances da sessão pública, na hipótese da proposta do primeiro colocado
+permanecer acima do preço máximo definido para a contratação, o pregoeiro poderá negociar
+condições mais vantajosas, após definido o resultado do julgamento.
+
+5.21.1.A negociação poderá ser feita com os demais licitantes, segundo a ordem de classificação
+inicialmente estabelecida, quando o primeiro colocado, mesmo após a negociação, for
+desclassificado em razão de sua proposta permanecer acima do preço máximo definido pela
+Administração.
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+5.21.2. A negociação será realizada por meio do sistema, podendo ser acompanhada pelos demais
+licitantes.
+
+5.21.3. O resultado da negociação será divulgado a todos os licitantes e anexado aos autos do processo
+licitatório.
+
+5.21.4. O pregoeiro solicitará ao licitante mais bem classificado que, no prazo de vinte e quatro (24)
+horas, envie a proposta adequada ao último lance ofertado após a negociação realizada,
+acompanhada, se for o caso, dos documentos complementares, quando necessários à
+confirmação daqueles exigidos neste Edital e já apresentados.
+
+5.21.5.É facultado ao pregoeiro prorrogar o prazo estabelecido, a partir de solicitação fundamentada
+feita no chat pelo licitante, antes de findo o prazo.
+
+5.22. Após a negociação do preço, o Pregoeiro iniciará a fase de aceitação e julgtamento da proposta.
+DA FASE DO JULGAMENTO
+
+6.1.
+
+6.2.
+6.3.
+
+6.4.
+
+6.5.
+
+6.6.
+
+6.7.
+
+Encerrada a etapa de negociação, o pregoeiro verificará se o licitante provisoriamente classificado em
+primeiro lugar atende às condições de participação no certame, conforme previsto no art. 14 da Lei nº
+14.133/2021, na legislação correlata e no item 3.7 deste Edital, especialmente quanto à existência de
+sanção que impeça a participação no certame ou a futura contratação, nos termos do art. 156 da Lei
+nº 14.133/2021, e mediante a consulta aos cadastros previstos no art.91 8 4º da referida Lei e aos
+cadastros utilizados pelo Município do Salvador.
+
+Atendidas as condições de participação, será iniciado o procedimento de habilitação.
+
+Na hipótese de o licitante provisoriamente classificado em primeiro lugar tenha se utilizado de algum
+tratamento favorecido às Microempresas - ME e as Empresas de Pequeno Porte - EPP, o pregoeiro
+verificará se o licitante faz jus ao benefício, em conformidade com o item 4.5 deste Edital.
+
+6.3.1. Verificadas as condições de participação e de utilização do tratamento favorecido, o pregoeiro
+examinará a proposta classificada em primeiro lugar quanto à adequação ao objeto e à
+compeatibilidade do preço em relação ao máximo estipulado para contratação neste Edital e em
+seus anexos, observado o disposto nos artigos 29 ao 35 do Decreto nº 36.784 de 30 de março de
+2023.
+
+Será desclassificada a proposta vencedora que:
+l. Contiver vícios insanáveis;
+. Não obedecer às especificações técnicas contidas no Termo de Referência, neste Edital e seus
+
+Anexos;
+
+W. Apresentar preços inexequíveis ou permanecerem acima do preço máximo definido para a
+contratação;
+
+IV. Não tiverem sua exequibilidade demonstrada, quando exigido pela Administração;
+
+V. Apresentar desconformidade com quaisquer outras exigências deste Edital ou seus anexos,
+
+desde que insanável.
+Se houver indícios de inexequibilidade da proposta de preço, ou em caso da necessidade de
+esclarecimentos complementares, poderão ser efetuadas diligências, para que a empresa comprove a
+exequibilidade da proposta.
+Caso o custo global estimado do objeto licitado tenha sido decomposto em seus respectivos custos
+unitários por meio de Planilha de Custos e Formação de Preços elaborada pela Administração, o
+licitante classificado em primeiro lugar será convocado para apresentar Planilha por ele elaborada, com
+os respectivos valores adequados ao valor final da sua proposta, sob pena de não aceitação da
+proposta.
+Não será causa de desclassificação as irregularidades formais que não afetem o conteúdo das
+propostas ou não impeçam o seu entendimento e que não comprometam os interesses da
+Administração.
+
+6.7.1. Erros no preenchimento da planilha não constituem motivo para a desclassificação da proposta,
+podendo ser ajustada pelo fornecedor, no prazo indicado pelo sistema, desde que não haja
+majoração do preço, e que se limite a sanar erros ou falhas que não alterem a substância das
+propostas;
+
+6.7.2. Serão objeto de saneamento, mediante ato motivado do Pregoeiro, os erros materiais
+irrelevantes, considerados aqueles cuja ocorrência não comprometam a Administração e a
+idoneidade do documento ou a perfeita compreensão do conteúdo da proposta.
+
+
+10.
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+DO BENEFÍCIO ÀS MICROEMPRESAS E ÀS EMPRESAS DE PEQUENO PORTE
+
+7.1. A obtenção de benefícios previstos dos artigos 42 a 49 da Lei Complementar nº 123/2006 fica limitado
+às microempresas e às empresas de pequeno porte que, no ano-calendário de realização da licitação,
+ainda que não tenham celebrado contratos com a Administração Pública cujos valores somados
+extrapolem a receita bruta máxima admitida para fins de enquadramento como empresa de pequeno
+porte, devendo o licitante apresentar declaração de observância desse limite para fins de habilitação.
+
+DA NEGOCIAÇÃO
+
+8.1. O pregoeiro deverá encaminhar contraproposta diretamente ao licitante que tenha apresentado o
+lance mais vantajoso, observados o critério de julgamento e o valor estimado para a contratação.
+
+8.2. A negociação será realizada por meio do sistema eletrônico e poderá ser acompanhada pelos demais
+licitantes.
+
+8.3. Após a negociação a proposta que apresentar valor superior ao estabelecido em orçamento estimado
+contido neste Edital será desclassificada.
+
+DA ACEITABILIDADE DA PROPOSTA
+
+9.1. Encerrada a etapa competitiva de lances, exercido o direito de preferência e concluída a negociação, o
+
+pregoeiro iniciará os procedimentos necessários à aceitabilidade da proposta de melhor preço e
+
+verificará a conformidade das especificações técnicas com as exigências contidas neste Edital e a
+
+compeatibilidade do preço ofertado com o valor estimado para a contratação, podendo solicitar, se
+
+necessário, a planilha de composição de custos adequada ao lance equivalente à proposta de melhor
+preço no prazo estipulado no chat durante a sessão.
+9.2. Quando o licitante não conseguir comprovar que possui ou possuirá recursos suficientes para executar
+
+a contento o objeto, será considerada inexequível a proposta de preços ou menor lance que:
+
+L. For insuficiente para a cobertura dos custos da contratação, apresente preços global ou unitários
+simbólicos, irrisórios ou de valor zero, incompatíveis com os preços dos insumos e salários de
+mercado, acrescidos dos respectivos encargos, ainda que o ato convocatório da licitação não
+tenha estabelecido limites mínimos, exceto quando se referirem a materiais e instalações de
+propriedade do próprio licitante, para os quais ele renuncie a parcela ou à totalidade da
+remuneração.
+
+. Apresentar um ou mais valores da planilha de custo que sejam inferiores àqueles fixados em
+instrumentos de caráter normativo obrigatório, tais como leis, medidas provisórias e convenções
+coletivas de trabalho vigentes.
+
+9.3. Serão desclassificadas, da mesma forma, as propostas que não atenderem às demais condições
+estabelecidas neste Edital e anexos.
+
+9.4. O pregoeiro poderá solicitar manifestação técnica dos outros setores do Órgão ou Entidade a fim de
+subsidiar sua decisão e da assessoria jurídica quando existir dúvida jurídica.
+
+9.5. Não se considerará qualquer oferta ou vantagem não prevista neste Edital, inclusive financiamentos
+subsidiados ou a fundo perdido.
+
+DA HABILITAÇÃO
+
+10.1.Os documentos previstos no Termo de Referência, necessários e suficientes para demonstrar a
+capacidade de o licitante cumprir com o objeto da licitação, serão exigidos para fins de habilitação, nos
+
+termos dos art. 62 a 70 da Lei nº 14.133/2021.
+
+10.1.1.A documentação exigida para fins de habilitação jurídica, fiscal, social e trabalhista e econômico-
+
+financeira, poderá ser substituída pelo registro cadastral no SICAF.
+10.2. As empresas Licitantes apresentarão os documentos especificados a seguir:
+
+L. Documentação relativa à habilitação jurídica;
+
+. Documentação relativa à habilitação fiscal, social e trabalhista;
+
+W. Documentação relativa à qualificação econômica e financeira;
+
+IV. Documentação relativa à qualificação técnica;
+
+V. Documentação complementar solicitada no Edital.
+
+10.3. Quando permitida a participação de empresas estrangeiras que não funcionem no País, estas deverão
+apresentar documentos equivalentes, na forma de regulamento emitido pelo Poder Executivo Federal;
+10.4. A Habilitação Jurídica deverá ser comprovada pelos seguintes documentos:
+L. Pessoa física:
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+a. Cédula de identidade - (RG) ou documento equivalente que, por força de lei, tenha validade
+
+para fins de identificação em todo o território nacional.
+. Empresário individual:
+
+a. lInscrição no Registro Público de Empresas Mercantis, a cargo da Junta Comercial da respectiva
+sede.
+
+W. Microempreendedor Individual - MEI:
+
+a. Certificado da Condição de Microempreendedor Individual - CCMEI, cuja aceitação ficará
+condicionada à verificação da autenticidade no sítio https://wWww.gov.br/ empresas-e-
+negocios/pt-br/empreendedor.
+
+IV. Sociedade Empresária, Sociedade Limitada Unipessoal - SLU ou sociedade identificada como
+Empresa Individual de Responsabilidade Limitada - EIRELI:
+
+a. lInscrição do ato constitutivo;
+
+b. Estatuto ou contrato social no Registro Público de Empresas Mercantis, a cargo da Junta
+Comercial da respectiva sede, acompanhada de documento comprobatório de seus
+administradores.
+
+V. Sociedade empresária estrangeira:
+
+a. Portaria de autorização de funcionamento no Brasil, publicada no Diário Oficial da União e
+arquivada na Junta Comercial da unidade federativa onde se localizar a filial, agência, sucursal
+ou estabelecimento, a qual será considerada como sua sede, conforme Instrução Normativa
+do Departamento Nacional de Registro Empresarial e Integração - DREI/ME n.º 77, de 18 de
+março de 2020.
+
+VI. Sociedade simples:
+
+a. lInscrição do ato constitutivo no Registro Civil de Pessoas Jurídicas do local de sua sede,
+
+acompanhada de documento comprobatório de seus administradores.
+VIL. Filial, sucursal ou agência de sociedade simples ou empresária:
+
+a. lInscrição do ato constitutivo da filial, sucursal ou agência da sociedade simples ou empresária,
+respectivamente, no Registro Civil das Pessoas Jurídicas ou no Registro Público de Empresas
+Mercantis onde opera, com averbação no Registro onde tem sede a matriz.
+
+VII. Sociedade cooperativa:
+
+a. Atadefundação;
+
+b. Estatuto social e a ata da assembleia que o aprovou, devidamente arquivado na Junta
+Comercial ou inscrito no Registro Civil das Pessoas Jurídicas da respectiva sede;
+
+c. Registro na Organização das Cooperativas Brasileiras ou na entidade estadual, se houver,
+conforme art. 107 da Lei nº 5.764/1971.
+
+IX. Agricultor familiar:
+
+a. Declaração de Aptidão ao Pronaf - DAP ou DAP-P válida, ou, ainda, outros documentos
+definidos pela Secretaria Especial de Agricultura Familiar e do Desenvolvimento Agrário, nos
+termos do art. 4º, 82º do Decreto nº 10.880, de 2 de dezembro de 2021.
+
+X. Produtor Rural:
+
+a. Matrículano Cadastro Específico do INSS - CEI, que comprove a qualificação como produtor
+rural pessoa física, nos termos da Instrução Normativa da Receita Federal do Brasil - RFB nº
+2110, de 17 de outubro de 2022.
+
+10.4.1.0s documentos apresentados deverão estar acompanhados de todas as alterações ou da
+consolidação respectiva.
+10.5. A Habilitação fiscal, social e trabalhista deverá ser comprovada pelos seguintes documentos:
+
+L. Inscrição no Cadastro de Pessoas Físicas - CPF ou no Cadastro Nacional da Pessoa Jurídica -
+CNPJ;
+
+. Inscrição no Cadastro de contribuintes estadual e/ou municipal, se houver;
+
+W. Certidão de regularidade perante a Fazenda federal, estadual e/ou municipal do domicílio
+ou sede do licitante, ou outra equivalente, na forma da lei;
+
+IV. Certidão de regularidade relativa à Seguridade Social e ao FGTS;
+V. Certidão de regularidade perante a Justiça do Trabalho;
+VI. Declaração de cumprimento ao disposto no inciso XXXIII do art. 7º da Constituição Federal.
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+10.5.1.0 fornecedor enquadrado como Microempreendedor Individual que pretenda auferir os
+benefícios do tratamento diferenciado previstos na Lei Complementar nº 123/2006, estará
+dispensado da prova de inscrição nos cadastros de contribuintes estadual e municipal.
+
+10.5.2.O0 cadastro de contribuinte estadual e/ou municipal deverá ser relativo ao domicílio ou sede do
+licitante, pertinente ao seu ramo de atividade e compatível com o objeto contratual;
+
+10.6. A Qualificação Econômico-Financeira deverá ser comprovada pelos seguintes documentos:
+
+l. Certidão negativa de feitos sobre falência expedida pelo distribuidor da sede do licitante.
+
+10.7. A Qualificação Técnica deverá ser comprovada pelos documentos exigidos no item 8.5 do Termo de
+Referência, anexo a este edital.
+
+10.8. Acerca da documentação comprobatória da Qualificação mencionada nos itens anteriores, deve-se
+observar o que segue:
+
+10.8.1.Não serão aceitos documentos de habilitação com indicação de CNPJ/CPF diferentes, salvo
+aqueles legalmente permitidos.
+
+10.8.2.Se o fornecedor for a matriz, todos os documentos deverão estar em nome da matriz, e se o
+fornecedor for a filial, todos os documentos deverão estar em nome da filial, exceto para
+atestados de capacidade técnica, caso exigidos, e no caso daqueles documentos que, pela própria
+natureza, comprovadamente, forem emitidos somente em nome da matriz.
+
+10.8.3.Serão aceitos registros de CNPJ de fornecedor matriz e filial com diferenças de números de
+documentos pertinentes ao CND e ao CRF/FGTS, quando for comprovada a centralização do
+recolhimento dessas contribuições.
+
+10.8.4. Quando permitida a participação de empresas estrangeiras que não funcionem no País, as
+exigências de habilitação serão atendidas mediante documentos equivalentes, inicialmente
+apresentados em tradução livre.
+
+10.8.5. Na hipótese de o licitante vencedor ser empresa estrangeira que não funcione no País, para fins
+de assinatura do contrato ou da ata de registro de preços, os documentos exigidos para a
+habilitação serão traduzidos por tradutor juramentado no País e apostilados nos termos do
+disposto no Decreto nº 8.660, de 29 de janeiro de 2016, ou de outro que venha a substituí-lo, ou
+consularizados pelos respectivos consulados ou embaixadas.
+
+10.9.O pregoeiro poderá consultar sítios oficiais de órgãos e entidades emissores de certidões para verificar
+as condições de habilitação dos licitantes.
+
+10.10. Havendo a necessidade de envio de documentos para a confirmação daqueles exigidos neste
+Edital e já apresentados, ou, ainda, de envio de documentos não juntados, mas que comprovem que
+na data da apresentação da proposta o licitante atendia às condições de aceitabilidade da proposta
+e de habilitação, o licitante será convocado a encaminhá-los, via sistema eletrônico, no prazo fixado
+pelo pregoeiro, sob pena de desclassificação ou de inabilitação, prazo durante o qual a sessão não
+será suspensa.
+
+10.11. Em se tratando de microempresa - ME ou empresa de pequeno porte - EPP, aplica-se o disposto
+no artigo 43, 8 1º da Lei Complementar nº 123/2006.
+
+10.12. A não regularização da documentação no prazo previsto na legislação mencionada no subitem
+anterior implicará decadência do direito à contratação, sem prejuízo das sanções previstas neste Edital,
+e facultará ao pregoeiro convocar os licitantes remanescentes, na ordem de classificação.
+
+10.13. Se a proposta for desclassificada ou, ainda, se o licitante não atender às exigências de habilitação,
+o pregoeiro examinará a proposta subsequente e assim sucessivamente, na ordem de classificação,
+até a seleção da proposta que melhor atenda a este Edital.
+
+11. DO RECURSO
+11.1. Caberá recurso em face de:
+l. Julgamento das propostas;
+. Ato de habilitação ou inabilitação de licitante;
+
+W. Anulação ou revogação da licitação.
+
+11.2. Nos recursos de julgamento das propostas e de ato de habilitação ou inabilitação de licitante serão
+observadas as seguintes disposições:
+
+l. A intenção de recorrer deverá ser manifestada imediatamente em até 10 (dez) minutos
+exclusivamente no sistema eletrônico, sob pena de preclusão, e o prazo para apresentação das
+razões recursais de 3 (três) dias úteis será iniciado a partir ato de habilitação ou inabilitação ou,
+
+10
+
+
+12.
+
+13.
+
+14.
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+na hipótese de adoção da inversão de fases prevista no 81º do art.17 da Lei nº 14.133/2021, da
+ata de julgamento;
+. A apreciação se dará em fase única.
+
+11.3.Não será admitida intenção de recurso de caráter protelatório, fundada em mera insatisfação do
+licitante, ou baseada em fatos genéricos.
+
+11.4.A ausência de manifestação imediata e motivada quanto a intenção de recorrer no prazo estabelecido,
+importará na decadência desse direito, autoriza a Administração a adjudicar o objeto a licitante
+vencedora.
+
+11.5.O pregoeiro examinará a intenção de recurso, aceitando-a ou, motivadamente, rejeitando-a, em
+campo próprio do sistema eletrônico.
+
+11.6.0O licitante que tiver sua intenção de recurso aceita deverá registrar as razões do recurso em campo
+próprio do sistema no prazo de 3 (três) dias úteis contados do término do julgamento das propostas
+ou do ato de habilitação ou inabilitação, ficando os demais licitantes, desde logo, intimados a
+apresentar contrarrazões, contados da disponibilização das razões do recurso no sistema, nos moldes
+do art. 165 da Lei nº 14.133/2021.
+
+11.7. O não oferecimento de razões no prazo previsto implicará em não conhecimento do recurso.
+
+11.8.As intenções de recurso não admitidas e os recursos rejeitados pelo pregoeiro serão a ele dirigidos,
+que, se não reconsiderar o ato ou a decisão no prazo de 03 (três) dias úteis, encaminhará o recurso
+com a sua motivação à autoridade superior, a qual deverá proferir sua decisão no prazo máximo de 10
+(dez) dias úteis, contado do recebimento dos autos.
+
+11.9.As razões e contrarrazões de recurso deverão ser enviados/anexados, exclusivamente, no sistema
+eletrônico.
+
+11.10. O acolhimento do recurso implicará a invalidação apenas dos atos não suscetíveis de
+aproveitamento.
+
+11.11. Será assegurado ao licitante vista dos elementos indispensáveis à defesa de seus interesses.
+
+11.12. O recurso terá efeito suspensivo do ato ou da decisão recorrida até que sobrevenha decisão final
+da autoridade competente.
+
+DA ADJUDICAÇÃO E DA HOMOLOGAÇÃO
+
+12.1. O objeto deste pregão será adjudicado ao licitante vencedor.
+
+12.2. A homologação do resultado deste pregão compete a autoridade competente do órgão.
+
+DO INSTRUMENTO CONTRATUAL
+
+13.1. Depois de homologado o resultado deste pregão, o licitante vencedor será convocado para, no prazo
+de O5 (cinco) dias úteis, sob pena de decair o direito à contratação, sem prejuízo das sanções previstas
+neste Edital, assinar o instrumento contratual.
+
+13.2. A exigência de garantia e/ou validade do produto obedecerá às previsões do Termo de Referência.
+
+13.3.As contratações decorrentes dos itens de cota principal e de cota reservada ocorrerão inicialmente
+pelo menor preço, independentemente da qualificação da contratada.
+
+13.4.Por ocasião da assinatura do instrumento contratual, será verificado no Certificado de Registro
+Cadastral - CRC e em outros meios se o adjudicatário mantém as condições de habilitação.
+
+DAS INFRAÇÕES ADMINISTRATIVAS E SANÇÕES
+
+14.1. Comete infração administrativa, nos termos da Lei nº 14.133, de 2021, o contratado que:
+
+L. Der causa à inexecução parcial do contrato;
+. Der causa à inexecução parcial do contrato que cause grave dano à Administração ou ao
+funcionamento dos serviços públicos ou ao interesse coletivo;
+W. Der causa à inexecução total do contrato;
+
+IV. Ensejar o retardamento da execução ou da entrega do objeto da contratação sem motivo
+justificado;
+V. Apresentar documentação falsa ou prestar declaração falsa durante a execução do contrato;
+VI. Praticar ato fraudulento na execução do contrato;
+VIL. Comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+VII. Praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013.
+
+14.2. Serão aplicadas ao contratado que incorrer nas infrações acima descritas as seguintes sanções:
+
+11
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+L. Advertência, quando o contratado der causa à inexecução parcial do contrato, sempre que não
+se justificar a imposição de penalidade mais grave (art. 156, 82º, da Lei nº 14.133, de 2021);
+. Impedimento de licitar e contratar, quando praticadas as condutas descritas nas alíneas “b”, “c
+e “d” do subitem acima no Contrato, sempre que não se justificar a imposição de penalidade
+mais grave (art. 156, $ 4º, da Lei nº 14.133, de 2021);
+W. Declaração de inidoneidade para licitar e contratar, quando praticadas as condutas descritas
+
+”
+
+nas alíneas “e”, “Ff”, “g” e “h” do subitem acima durante o Contrato, bem como nas alíneas “b”,
+“c” e“d”, que justifiquem a imposição de penalidade mais grave (art. 156, $5º, da Lei nº 14.133,
+de 2021).
+
+IV. Multa:
+
+a) Moratória de 0,5% (meio por cento) por dia de atraso injustificado sobre o valor da
+parcela inadimplida, até o limite de (30) trinta dias;
+
+b) Moratória de 0,5% (meio por cento) por dia de atraso injustificado sobre o valor total
+do contrato, até o máximo de 15% (quinze por cento), pela inobservância do prazo
+fixado para apresentação, suplementação ou reposição da garantia;
+
+i O atraso superior a (30) trinta dias autoriza a Administração a promover a
+extinção do contrato por descumprimento ou cumprimento irregular de suas
+cláusulas, conforme dispõe o inciso | do art. 137 da Lei n. 14.133, de 2021.
+
+c) Compensatória de 30% (trinta por cento) sobre o valor total do contrato, no caso de
+inexecução total do objeto.
+
+14.3.A aplicação das sanções previstas neste edital não exclui, em hipótese alguma, a obrigação de
+reparação integral do dano causado ao Contratante conforme art. 156, $ 9º, da Lei nº 14.133, de 2021.
+
+14.4. Todas as sanções previstas neste edital poderão ser aplicadas cumulativamente com a multa conforme
+disposto no art. 156, 8 7º, da Lei nº 14.133, de 2021.
+
+14.4.1. Antes da aplicação da multa será facultada a defesa do interessado no prazo de (15) quinze dias
+úteis, contado da data de sua intimação conforme previsão do art. 157, da Lei nº 14.133, de 2021.
+
+14.4.2.Se a multa aplicada e as indenizações cabíveis forem superiores ao valor do pagamento
+eventualmente devido pelo Contratante ao Contratado, além da perda desse valor, a diferença
+será descontada da garantia prestada ou será cobrada judicialmente (art. 156, $8º, da Lei nº
+14.133, de 2021).
+
+14.4.3. Previamente ao encaminhamento à cobrança judicial/ a multa poderá ser recolhida
+administrativamente no prazo máximo de (20) vinte dias, a contar da data do recebimento da
+comunicação enviada pela autoridade competente.
+
+14.5.A aplicação das sanções realizar-se-á em processo administrativo que assegure o contraditório e a
+ampla defesa ao Contratado, observando-se o procedimento previsto no caput e parágrafos do art.
+158 da Lei nº 14.133, de 2021, para as penalidades de impedimento de licitar e contratar e de
+declaração de inidoneidade para licitar ou contratar.
+
+14.6. Na aplicação das sanções serão considerados:
+
+|. Anaturezae agravidade da infração cometida;
+
+Il. As peculiaridades do caso concreto;
+
+Ill. As circunstâncias agravantes ou atenuantes;
+
+IV. Os danos que dela provierem para o Contratante;
+
+V. A implantação ou o aperfeiçoamento de programa de integridade, conforme normas e
+orientações dos órgãos de controle.
+
+14.7.Os atos previstos como infrações administrativas na Lei nº 14.133, de 2021, ou em outras leis de
+licitações e contratos da Administração Pública que também sejam tipificados como atos lesivos na Lei
+nº 12.846, de 2013, serão apurados e julgados conjuntamente, nos mesmos autos, observados o rito
+procedimental e autoridade competente definidos no art. 159.
+
+14.8.A personalidade jurídica do Contratado poderá ser desconsiderada sempre que utilizada com abuso
+do direito para facilitar, encobrir ou dissimular a prática dos atos ilícitos previstos neste Contrato ou
+para provocar confusão patrimonial, e, nesse caso, todos os efeitos das sanções aplicadas à pessoa
+jurídica serão estendidos aos seus administradores e sócios com poderes de administração, à pessoa
+jurídica sucessora ou à empresa do mesmo ramo com relação de coligação ou controle, de fato ou de
+
+12
+
+
+15.
+
+16.
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+direito, com o Contratado, observados, em todos os casos, o contraditório, a ampla defesa e a
+obrigatoriedade de análise jurídica prévia conforme disposto no art. 160, da Lei nº 14.133, de 2021.
+
+14.9.O Contratante deverá, no prazo máximo de (15) quinze dias úteis, contado da data de aplicação da
+sanção, informar e manter atualizados os dados relativos às sanções por ela aplicadas, para fins de
+publicidade no Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS) e no Cadastro Nacional de
+Empresas Punidas (CNEP), instituídos no âmbito do Poder Executivo Federal, e também no Portal de
+Compras Salvador.
+
+14.10. As sanções de impedimento de licitar e contratar e declaração de inidoneidade para licitar ou
+contratar são passíveis de reabilitação na forma do art. 163 da Lei nº 14.133/2021.
+
+14.11. Os débitos do Contratado para com a Administração contratante, resultantes de multa
+administrativa e/ou indenizações, não inscritos em dívida ativa, poderão ser compensados, total ou
+parcialmente, com os créditos devidos pelo referido órgão decorrentes deste mesmo contrato ou de
+outros contratos administrativos que o contratado possua com o mesmo órgão ora contratante.
+
+DOS ESCLARECIMENTOS E DA IMPUGNAÇÃO AO EDITAL
+
+15.1. Até (03) três dias úteis antes da data fixada para a abertura da sessão pública, qualquer pessoa, física
+ou jurídica, poderá impugnar o ato convocatório deste pregão, por irregularidade na aplicação de Lei
+ou para solicitar esclarecimento sobre os seus termos, mediante petição, a ser enviada exclusivamente
+para o endereço eletrônico: cosel-sempreO&salvador.ba.gov.br
+
+15.2. O pregoeiro, auxiliado pelo setor técnico competente, decidirá sobre a impugnação do certame.
+
+15.3. As impugnações e pedidos de esclarecimentos não suspendem os prazos previstos no certame.
+
+15.3.1.A concessão de efeito suspensivo à impugnação é medida excepcional e deverá ser motivada
+pelo pregoeiro, nos autos do processo de licitação.
+
+15.4. Acolhida a impugnação do certame, será designada nova data para sua realização, exceto quando,
+inquestionavelmente, a alteração não afetar a formulação das propostas.
+
+15.5.As impugnações serão enviadas eletronicamente em formato Portable Document Format - PDF, com
+tamanho máximo de (05) cinco megabytes.
+
+15.6. Os pedidos de esclarecimento deverão ser enviados exclusivamente via internet.
+
+15.7.As respostas às impugnações e aos esclarecimentos solicitados serão disponibilizadas no sistema
+eletrônico em até (03) três dias úteis, contados do recebimento do pedido, limitado ao último dia útil
+anterior à data da abertura do certame.
+
+DA ANTICORRUPÇÃO
+
+16.1.Os licitantes e contratados devem observar o mais alto padrão de ética durante todo o processo de
+licitação, de contratação e de execução do objeto contratual. Para os propósitos desta cláusula,
+definem-se as seguintes práticas:
+
+Prática corrupta: oferecer, dar, receber ou solicitar, direta ou indiretamente, qualquer vantagem com o
+objetivo de influenciar a ação de servidor público no processo de licitação ou na execução de contrato;
+Prática fraudulenta: a falsificação ou omissão dos fatos, com o objetivo de influenciar o processo de
+licitação ou de execução de contrato;
+
+Prática colusiva: esquematizar ou estabelecer um acordo entre dois ou mais licitantes, com ou sem o
+conhecimento de representantes ou prepostos do órgão licitador, visando estabelecer preços em níveis
+artificiais e não-competitivos;
+
+Prática coercitiva: causar dano ou ameaçar causar dano, direta ou indiretamente, às pessoas ou sua
+propriedade, visando influenciar sua participação em um processo licitatório ou afetar a execução do
+contrato.
+
+Prática obstrutiva:
+
+a) Destruir, falsificar, alterar ou ocultar provas em inspeções ou fazer declarações falsas aos
+representantes do organismo financeiro multilateral, com o objetivo de impedir
+materialmente a apuração de alegações de prática prevista deste Edital;
+
+b) Atos cujaintenção seja impedir materialmente o exercício do direito de o organismo financeiro
+multilateral promover inspeção.
+
+16.2. Na hipótese de financiamento, parcial ou integral, por organismo financeiro multilateral, mediante
+adiantamento ou reembolso, este organismo imporá sanção sobre uma empresa ou pessoa física,
+inclusive declarando-a inelegível, indefinidamente ou por prazo determinado, para a outorga de
+contratos financiados pelo organismo se, em qualquer momento, constatar o envolvimento da
+
+13
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+empresa, diretamente ou por meio de um agente, em práticas corruptas, fraudulentas, colusivas,
+coercitivas ou obstrutivas ao participar da licitação ou da execução um contrato financiado pelo
+organismo.
+
+16.3. Considerando os propósitos das cláusulas acima, o licitante vencedor, como condição para a
+contratação, deverá concordar e autorizar que, na hipótese de o contrato vir a ser financiado, em parte
+ou integralmente, por organismo financeiro multilateral, mediante adiantamento ou reembolso,
+permitirá que o organismo financeiro e/ou pessoas por ele formalmente indicadas possam inspecionar
+o local de execução do contrato e todos os documentos, contas e registros relacionados à licitação e à
+execução do contrato.
+
+17. DISPOSIÇÕES FINAIS
+
+17.1. Será divulgada ata da sessão pública no sistema eletrônico.
+
+17.2.Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a realização do
+certame na data marcada, a sessão será automaticamente transferida para o primeiro dia útil
+subsequente, no mesmo horário anteriormente estabelecido, desde que não haja comunicação em
+contrário pelo Pregoeiro.
+
+17.3.Todas as referências de tempo no Edital, no aviso e durante a sessão pública observarão o horário de
+Brasília - DF.
+
+17.4. A homologação do resultado desta licitação não implicará direito à contratação.
+
+17.5.As normas disciplinadoras da licitação serão sempre interpretadas em favor da ampliação da disputa
+entre os interessados, desde que não comprometam o interesse da Administração, o princípio da
+isonomia, a finalidade e a segurança da contratação.
+
+17.6.Os licitantes assumem todos os custos de preparação e apresentação de suas propostas e a
+Administração não será, em nenhum caso, responsável por esses custos, independentemente da
+condução ou do resultado do processo licitatório.
+
+17.7.O desatendimento de exigências formais não essenciais não importará o afastamento do licitante,
+desde que seja possível o aproveitamento do ato, observados os princípios da isonomia e do interesse
+público.
+
+17.8.À autoridade superior compete anular este pregão por ilegalidade, de ofício ou por provocação de
+qualquer pessoa, e revogar o certame por considerá-lo inoportuno ou inconveniente diante de fato
+superveniente, mediante ato escrito e fundamentado.
+
+17.9. No julgamento das propostas e na fase de habilitação, o pregoeiro poderá sanar erros ou falhas que
+não alterem a substância das propostas e dos documentos e sua validade jurídica, mediante despacho
+fundamentado, registrado em ata e acessível a todos, atribuindo-lhe validade e eficácia para fins de
+classificação e habilitação.
+
+17.10. É facultado ao pregoeiro ou à autoridade superior, em qualquer fase deste pregão, promover
+diligência destinada a esclarecer ou completar a instrução do processo, sendo vedada, ressalvados os
+casos previstos neste Edital, a inclusão posterior de informações ou de documentos que deveriam ter
+sido apresentados para fins de classificação e habilitação.
+
+17.11. Caso os prazos definidos neste Edital não estejam expressamente indicados na proposta, eles
+serão considerados como aceitos pelos licitantes para efeitos de julgtamento deste pregão.
+
+17.12. Poderá ser solicitada tradução para a língua portuguesa, efetuada por tradutor juramentado, de
+documentos emitidos em língua estrangeira, que também deverão ser devidamente consularizados ou
+registrados em cartório de títulos e documentos.
+
+17.13. Em caso de divergência entre disposições deste Edital e de seus anexos ou demais peças que
+compõem o processo prevalecerá as deste Edital.
+
+17.14. Este pregão poderá ter a data de abertura da sessão pública alterada desde que motivado o ato
+do adiamento.
+
+17.15. Na contagem dos prazos estabelecidos neste Edital e seus Anexos, excluir-se-á o dia do início e
+incluir-se-á o do vencimento.
+
+17.16. Só se iniciam e vencem os prazos em dias de expediente na Administração.
+
+17.17. São partes integrantes deste Edital:
+
+ANEXO | - Termo de Referência;
+ANEXO 11 - Modelo de Proposta de Preço;
+
+14
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+ANEXO I1I- Modelo de Declaração a serem apresentadas juntamente com a proposta;
+
+a) Declaração negativa de relação familiar ou parentesco;
+
+b) Declaração de cumprimento da Lei Geral de Proteção de Dados - Lei nº 13.709/2018;
+c) Declaração de integralidade dos custos;
+
+d) Declaração de reserva de cargos;
+
+e) Declaração de que pode usufruir dos benefícios de ME e EPP;
+
+f) Declaração de atendimento ao inciso XXXIII do art. 7º. Da Constituição Federal;
+
+g) Declaração de pleno conhecimento do edital e anexos;
+
+h) Declaração de contratos firmados com a iniciativa privada e a administração pública.
+ANEXO IV - Modelo de Procuração;
+ANEXO V - Minuta de Contrato.
+
+17.18. Este Edital será divulgado na página eletrônica da Prefeitura Municipal do Salvador-PMS, no
+endereço eletrônico: compras.salvador.ba.gov.br, no portal compras.gov.br, no Portal Nacional de
+Contratações Públicas — PNCP e em jornal local de grande circulação.
+
+18. DO FORO
+
+18.1.As questões decorrentes das previsões deste Edital que não possam ser dirimidas
+administrativamente serão processadas e julgadas na Justiça Estadual, no Foro da Comarca de
+Salvador, com exclusão de qualquer outro, por mais privilegiado que seja.
+
+Salvador, 14 de agosto de 2025.
+
+Wanete Santos de Carvalho
+Diretor
+Matrícula nº 3158716
+Diretoria De Proteção Social Especial - DPSE
+
+15
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+EDITAL DE LICITAÇÃO
+Pregão Eletrônico nº 003/2025
+Processo Administrativo nº 79150/2024
+ANEXO |
+
+TERMO DE REFERÊNCIA
+Processo Administrativo nº 79150/2024
+
+1. DAS CONDIÇÕES GERAIS DA CONTRATAÇÃO
+
+1.1.
+
+1.2.
+
+1.3.
+
+1.4.
+
+Aquisição de diversos itens de informática nos termos do Anexo A, conforme condições e exigências
+estabelecidas neste instrumento.
+
+Os objetos desta contratação não se enquadram como sendo de bem de luxo, conforme vedação do
+art. 20 da Lei nº14.133/2021, regulamentado pelo Decreto Municipal nº 36.022, de 19 de setembro de
+2022, que estabelece o enquadramento dos Bens de Consumo nas categorias de qualidade comum e
+de luxo no âmbito da Administração Pública Municipal.
+
+O prazo de vigência da contratação é 90 (noventa) dias, a contar da assinatura do instrumento
+contratual, na forma do artigo 105 da Lei nº 14.133/2021.
+
+Os objetos da aquisição caracterizam-se como de natureza comum, pois os padrões de desempenho e
+qualidade podem ser objetivamente definidos por meio de especificações usuais de mercado.
+
+2. FUNDAMENTAÇÃO E DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO
+
+2.1.
+
+2.2.
+
+2.3.
+
+2..
+
+2.5.
+
+2.6.
+
+2.7.
+
+Justifica-se a presente demanda pela necessidade de execução do Convênio nº 828020/2016, sendo o
+presente processo destinado à aquisição de objetos diversos de informáticas, conforme planilha de
+item solicitado pela OSC contemplada com o recurso.
+
+Nesse ponto de vista, a contratação pretendida tem por finalidade a aquisição de itens de tecnologia
+para a Evolução, ION Bahia, Instituto de Cegos da Bahia, APADA, IG e APAE através da modalidade
+licitatório de pregão eletrônico.
+
+Sendo assim a aquisição de bens para as Osc's que prestam serviços de Proteção Social Especial para
+Pessoas com Deficiência, Idosas e suas Famílias visando melhor atender as necessidades dos assistidos
+em questão.
+
+Considerando que a presente demanda inclusive se justifica pela necessidade de execução do Convênio
+de nº 828020/2016, sendo o presente processo para aquisição de itens de tecnologia, conforme
+planilha do item 1.1, desde TR, solicitada pelas Osc's contemplada com o recurso.
+
+Neste sentido, a aquisição pretendida é um ato praticado para o benefício da coletividade, sendo a
+aquisição dos bens de informática objetos essenciais para a melhoria de qualidade de vida, sendo
+aplicado nas Osc's, unicamente para seus assistidos, encurtando, assim, possibilidade de segregações.
+O critério a ser utilizado, será o julgtamento e contratação de menor preço por item, que se justifica
+pela viabilidade econômica mais satisfatória do ponto de vista da eficiência técnica.
+
+Outrossim, na presente contratação não será permitida a participação de interessadas que se
+apresentem constituídas sob a forma de consórcio. Tal vedação se justifica na medida em que nas
+aquisições e contratações de serviços comuns, perfeitamente pertinente e compatível para empresas
+atuantes do ramo licitado, é bastante comum à participação de empresas de pequeno e médio porte,
+às quais, em sua maioria, apresentam o mínimo exigido no tocante à qualificação técnica e econômico-
+financeira, condições suficientes para a execução de contratos dessa natureza, o que não tornará
+restrito o universo de possíveis licitantes individuais. A ausência de consórcio não trará prejuízos à
+competitividade do certame, visto que, em regra, a formação de consórcios é admitida quando o objeto
+a ser licitado envolve questões de alta complexidade ou de relevante vulto, em que empresas,
+isoladamente, não teriam condições de suprir os requisitos de habilitação do edital.
+
+3. DESCRIÇÃO DA SOLUÇÃO
+
+3.1.
+
+3.2.
+
+Considerando a natureza da aquisição de diversos itens de tecnologia através do Convênio
+nº828020/2016, informamos que não há previsão no plano de contratações anual.
+
+A descrição da solução como um todo encontra-se pormenorizada em tópico específico dos Estudos
+Técnicos Preliminares.
+
+4. REQUISITOS DA CONTRATAÇÃO
+
+4,1.
+
+Da Sustentabilidade
+4,1.1. A contratada deverá observar as exigências legais de sustentabilidade ambiental na execução do
+objeto, conforme preconizam a Lei nº 6.938/81, a Instrução Normativa nº 01/10 do Ministério do
+
+16
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+Planejamento, Orçamento e Gestão — MPOG, a Instrução Normativa nº 31/09 do Instituto
+Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA e a Lei Municipal nº
+8.915/15.
+
+4.2. Da Subcontratação
+
+4,2.1. Não será admitida a subcontratação do objeto contratual.
+
+4.3. Da Garantia da Contratação
+
+4,3.1. Considerando que o bem será entregue em parcela única, não será exigida a garantia da
+contratação.
+
+5. MODELO DE EXECUÇÃO DO OBJETO
+5.1. Da Entrega
+
+5.2.
+
+5.3.
+
+5.1.1. Os itens de tecnologia deverão ser entregues no prazo máximo de 30 (trinta) dias corridos,
+contados a partir do recebimento da Ordem de Fornecimento.
+
+5.1.2. A empresa vencedora deverá efetuar a entrega dos diversos itens de tecnologias citados nesse
+TR em perfeitas condições de uso e funcionamento, conforme proposta apresentada,
+especificações técnicas e níveis de desempenho mínimo exigidos, no Condomínio MJA —
+Consorcio CSL: Rodovia BR-324, saída 619, sentido Salvador, bairro: Porto Seco Pirajá. Galpões de
+O8 a 11 — Portaria de acesso pela BR-324.
+
+5.1.3. Não obstante a entrega na CLS deverá ser realizada mediante prévio agendamento, de no mínimo
+
+48 horas antes, no seguinte endereço eletrônico: agendamento & consorciocs|l.com.br.
+Sendo somente permitidas entregas dos objetos após o agendamento e nos horários de 08:00 às
+11:00 e 13:00 às 17:00. Os agendamentos deverão ser cumpridos. Qualquer atraso na entrega
+deverá ser informado com antecedência e deverá ser realizado, portanto, um novo
+agendamento.
+
+5.1.4. O descumprimento do prazo acarretará sanções previstas na Lei 14.133/2021 e suas alterações.
+Dos Critérios de Aceitação
+
+5.2.1. Os objetos deverão ser entregues na quantidade especificada, consoante com o discriminado
+neste Termo de Referência.
+
+5.2.2. Os objetos serão recebidos provisoriamente no prazo de 10 (dez) dias corridos, pelo responsável
+pelo acompanhamento e fiscalização do contrato, para efeito de posterior verificação de sua
+conformidade com as especificações constantes no Termo de Referência e na proposta.
+
+5.2.3. Os objetos poderão ser rejeitados, no todo ou em parte, quando em desacordo com as
+especificações constantes no Termo de Referência e na proposta, devendo ser
+corrigido/refeito/substituído no prazo fixado pelo fiscal do contrato, à custa da Contratada, sem
+prejuízo da aplicação de penalidades.
+
+5.2.4. Os objetos serão recebidos definitivamente no prazo de 10 (dez) dias corridos, contados do
+recebimento provisório, após a verificação completa dos objetos e consequente aceitação
+mediante termo circunstanciado.
+
+Na hipótese de a verificação a que se refere o subitem anterior não ser concretizada dentro do
+prazo fixado, reputar-se-á como realizada, consumando-se o recebimento definitivo no dia do
+esgotamento do prazo.
+
+5.2.5. O recebimento provisório ou definitivo do objeto não exclui a responsabilidade da contratada
+pelos prejuízos resultantes da incorreta execução do contrato, ou, em qualquer época, das
+garantias concedidas e das responsabilidades assumidas em contrato e por força das disposições
+legais em vigor.
+
+Das Condições de Manutenção e Assistência Técnica
+
+5.3.1. O fornecedor deverá garantir toda a assistência técnica necessária durante o período de garantia.
+
+5.3.2. O período de garantia deverá ser de, no mínimo, 12 (doze) meses, contados a partir da data de
+recebimento dos objetos.
+
+5.3.3. O fornecedor deverá citar em sua proposta a sistemática de assistência técnica, com nome e
+endereço do (s) representante (s) autorizado (s) a prestar (em) estes serviços.
+
+5.3.4. Durante o período de garantia, as despesas decorrentes da manutenção corretiva e de
+substituição de peças/componentes que apresentem defeitos de fabricação, devido ao uso
+normal dos objetos de tecnologia, ocorrerão por conta exclusiva da Contratada.
+
+5.3.5. Entende-se por manutenção corretiva, para fins a que se destina este Termo de Referência,
+
+17
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+aquela que tem como objetivo remover e substituir os defeitos de fabricação apresentados pelos
+itens de tecnologia, compreendendo ajustes, reparos e correções necessárias.
+
+5.3.6. No caso dos itens de tecnologia que apresentarem defeitos e, consequentemente forem
+substituídos, a garantia será contada a partir da nova data de entrega dos itens de tecnologia.
+
+6. MODELO DE GESTÃO DO CONTRATO
+
+6.1.
+
+6.2.
+
+6.3.
+
+6.4.
+
+6.5.
+
+6.6.
+
+6.7.
+
+6.8.
+
+6.9.
+
+O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as
+normas da Lei nº 14.133, de 2021, e cada parte responderá pelas consequências de sua inexecução
+total ou parcial, na forma da Lei nº 14.133/2021, art. 115, caput.
+
+Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de execução
+será prorrogado automaticamente pelo tempo correspondente, anotadas tais circunstâncias mediante
+simples apostila, na forma da Lei nº 14.133/2021, art. 115, $5º.
+
+A execução do contrato deverá ser acompanhada e fiscalizada pelo (s) fiscal (is) do contrato, ou pelos
+respectivos substitutos na forma da Lei nº 14.133/2021, art. 117, caput.
+
+a) Ofiscaldo contrato anotará em registro próprio todas as ocorrências relacionadas à execução
+do contrato, determinando o que for necessário para a regularização das faltas ou dos
+defeitos observados na forma da Lei nº 14.133/2021, art. 117, S$1º.
+
+b) Ofiscaldo contrato informará a seus superiores, em tempo hábil para a adoção das medidas
+convenientes, a situação que demandar decisão ou providência que ultrapasse sua
+competência na forma da Lei nº 14.133/2021, art. 117, 82º.
+
+O contratado será obrigado a reparar, corrigir, remover, reconstruir ou substituir, a suas expensas, no
+total ou em parte, o objeto do contrato em que se verificarem vícios, defeitos ou incorreções
+resultantes de sua execução ou de materiais nela empregados na forma da Lei nº 14.133/2021, art.
+119.
+
+O contratado será responsável pelos danos causados diretamente à Administração ou a terceiros em
+razão da execução do contrato, e não excluirá nem reduzirá essa responsabilidade a fiscalização ou o
+acompanhamento pelo contratante na forma da Lei nº 14.133/2021, art. 120.
+
+Somente o contratado será responsável pelos encargos trabalhistas, previdenciários, fiscais e
+comerciais resultantes da execução do contrato.
+
+a) A inadimplência do contratado em relação aos encargos trabalhistas, fiscais e comerciais
+não transferirá à Administração a responsabilidade pelo seu pagamento e não poderá
+onerar o objeto do contrato na forma da Lei nº 14.133/2021, art. 121 caput e 8$1º.
+
+As comunicações entre o órgão ou entidade e a contratada devem ser realizadas por escrito sempre
+que o ato exigir tal formalidade, admitindo-se, excepcionalmente, o uso de mensagem eletrônica para
+esse fim.
+
+O órgão ou entidade poderá convocar representante da empresa para adoção de providências que
+devam ser cumpridas de imediato.
+
+Serão exigidos a Certidão Negativa de Débito (CND) relativa a Créditos Tributários Federais e à Dívida
+Ativa da União, o Certificado de Regularidade do FGTS (CRF) e a Certidão Negativa de Débitos
+Trabalhistas (CNDT), caso esses documentos não estejam regularizados.
+
+7. CRITÉRIOS DE MEDIÇÃO E PAGAMENTO
+
+7.1.
+
+72.
+
+O pagamento será efetuado no prazo máximo de até 30 (trinta) dias úteis, observando-se o quanto
+previsto no Termo de Referência.
+
+O contrato oferece maior detalhamento das regras que serão aplicadas em relação aos critérios de
+medição e pagamento.
+
+8. FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR
+
+8.1.
+
+Forma e Critérios de Seleção do Fornecedor
+
+8.1.1. O fornecedor será selecionado por meio da realização de procedimento de LICITAÇÃO, na
+modalidade PREGÃO, sob forma ELETRÔNICA, com critério de julgamento pelo MENOR PREÇO
+POR ITEM.
+
+8.1.2. O valor máximo será igual ao valor global de referência e os valores unitários não poderão
+ultrapassar os valores constantes na planilha apresentada pelo PROPONENTE.
+
+8.1.3. A proposta apresentada deverá incluir todas e quaisquer despesas necessárias à execução do
+objeto, conforme previsto em Edital, tais como: tributos, custas e emolumentos, contribuições
+sociais, fiscais, parafiscais, fretes, seguros e demais despesas inerentes, devendo o preço ofertado
+corresponder rigorosamente às especificações do objeto, não cabendo quaisquer reinvindicações
+
+18
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+devidas a erros nessa avaliação, para efeito de solicitar revisão de preços por recolhimentos
+determinados por autoridade competente.
+
+8.1.4. Considerando tratar-se de aquisição de bens diversos de tecnologia, cujas características não
+inviabilizam a divisão do objeto, entende-se ser aplicável o parcelamento, nos termos do art.
+40, inciso V, alínea b, da Lei nº 14.133/2021, uma vez que tal medida se revela técnica e
+economicamente viável, permitindo ampliar a competitividade entre fornecedores e
+possibilitando a obtenção da proposta mais vantajosa para a Administração, sem prejuízo da
+padronização e da qualidade dos bens a serem adquiridos.
+
+8.1.5. Considerando os valores estimados para cada item a licitação será destinada, exclusivamente, à
+participação de Microempresas - ME e Empresas de Pequeno Porte - EPP, em atendimento ao
+disposto no art. 48, | da Lei Complementar nº 123/2006;
+
+8.1.6. Não será permitida a participação de consórcios no certame. A ausência de consórcios não trará
+prejuízos ao certame, visto que, em regra, a formação de consórcios é admitida quando o objeto
+a ser licitado envolve questões de alta complexidade ou de relevante vulto, em que empresas,
+isoladamente, não teriam condições de suprir os requisitos de habilitação do Edital.
+
+8.2. Forma de Entrega
+8.2.1. Quanto a forma de fornecimento, justifica-se a entrega de forma imediata e integral dos bens.
+8.3. Habilitação Jurídica, Fiscal, Social e Trabalhista
+
+8.3.1. As exigências de habilitação jurídica, fiscal, social e trabalhista, necessárias e suficientes para
+demonstrar a capacidade de o licitante cumprir com o objeto da licitação, são aquelas previstas
+na Lei 14.133/2021 e definidas no Edital.
+
+8.4. Qualificação Econômico-Financeira
+
+8.4.1. Os critérios de qualificação econômico-financeira a serem atendidos pelo licitante são aqueles
+previstos na Lei 14.133/2021 e definidos no Edital, além do abaixo discriminado:
+
+a) Alicitante deverá comprovar que possui Patrimônio Líquido de 5% (cinco por cento) do valor
+total estimado da contratação.
+b) Certidão negativa de feitos sobre falência expedida pelo distribuidor da sede do licitante.
+
+8.5. Qualificação Técnica
+
+8.5.1. Os critérios de qualificação técnica a serem atendidos pelo fornecedor serão:
+
+a) Atestado(s) de capacidade técnica fornecido(s) por pessoa jurídica de direito
+público ou privado, comprovando que o licitante forneceu, produtos compatíveis
+com o objeto desta licitação.
+
+b) Declaração de Pleno conhecimento, devidamente assinada por representante legal,
+declarando que tem pleno conhecimento de todas as informações para o cumprimento
+das obrigações objeto desta licitação, conforme modelo disponibilizado no anexo lll do
+edital.
+
+8.5.2. Os critérios de qualificação técnica acima indicados são estritamente necessários e suficientes
+para avaliar a capacidade de execução do objeto pelos proponentes, sem restringir a
+competitividade do certame.
+
+9. ESTIMATIVA DO VALOR DA CONTRATAÇÃO
+9.1. O custo estimado total da contratação é de R$ 225.682,18 (Duzentos e vinte e cinco mil, seiscentos e
+oitenta e dois reais e dezoito centavos), conforme planilha orçamentária, Anexo B deste Termo de
+Referência.
+10. ADEQUAÇÃO ORÇAMENTÁRIA
+10.1. As despesas decorrentes da presente contratação correrão à conta de recursos específicos consignados
+no orçamento do Município, conforme dotação orçamentária abaixo:
+Gestão: 52100 Fundo Municipal de Assistência Social;
+Evento: 400001 Emissão de Pré-Empenho da Despesa;
+Unidade Orçamentária: 52100 FMAS - Fundo Municipal de Assistência Social ;
+Subação: 120200 Salvador Mais Inclusiva - Implantação de Residências Inclusivas para Pessoas com
+Deficiência;
+Fonte Recurso: 2.700.1.1.0.001 Ex Ant - Outras Tranf de Convênios ou Instrumentos Congêneres da
+União — Tesouro;
+Natureza Despesa: 44.90.52 Equipamentos e Material Permanente;
+
+19
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+10.2. A dotação relativa aos exercícios financeiros subsequentes será indicada após aprovação da Lei
+Orçamentária respectiva e liberação dos créditos correspondentes, mediante apostilamento.
+
+11. OBRIGAÇÕES DA CONTRATANTE
+11.1. Proporcionar à contratada todas as condições necessárias ao pleno cumprimento das obrigações
+decorrentes do contrato;
+11.2. Acompanhar a entrega do bem contratado;
+11.3. Efetuar o pagamento à CONTRATADA, após o recebimento definitivo do bem e verificação do
+cumprimento de todas as obrigações legais fiscais, previdenciárias, e as demais disposições do Termo de
+Referência, Edital e Contrato;
+11.4. Promover o acompanhamento e fiscalização do fornecimento do bem, sob o aspecto quantitativo e
+qualitativo, anotando em registro próprio as falhas detectadas e impugnando quaisquer erros ou omissões
+que considere em desacordo com as obrigações da CONTRATADA;
+11.5. Receber através do Servidor/Comissão competente, o bem descrito e especificado na proposta da
+CONTRATADA.
+11.6. Devolver, no prazo de até 10 (dez) dias, o bem entregue fora das especificações exigidas ou quando
+não estejam em conformidade com os padrões de qualidade, dando ciência dos motivos da recusa à
+CONTRATADA que assumirá todas as despesas daí decorrentes.
+11.7. Notificar previamente à CONTRATADA, quando da aplicação de penalidades;
+11.8. Prestar as informações e os esclarecimentos que venham a ser solicitados pelos responsáveis da
+CONTRATADA.
+11.9. Dar ciência à CONTRATADA de quaisquer modificações que venham a ocorrer no contrato.
+11.10. Atestar as notas fiscais/faturas, por servidor/comissão competente, emitidas pela CONTRATADA,
+recusando-as quando inexatas ou incorretas, efetuando todos os pagamentos nas condições pactuadas.
+11.11. Emitir Autorização de Fornecimento, pelo setor competente, para instruir a entrega do objeto,
+documentando-o e comprovando-o nesse ato.
+11.12. Além das cláusulas mencionadas acima, o contrato preverá maior detalhamento das regras que serão
+aplicadas as obrigações da contratante.
+
+12. OBRIGAÇÕES DA CONTRATADA
+12.1. Assegurar condições materiais, logística e recursos humanos para a realização do objeto do contrato
+e Seus anexos.
+12.2. Entregar, na data aprazada, o produto de acordo com as especificações técnicas constantes no edital
+de licitação e no presente contrato.
+12.3. Responder por quaisquer danos que venha a causar à União, Estado, Município ou a terceiros, em
+função do objeto do contrato firmado, bem como por todos os danos e prejuízos decorrentes de
+paralisações na entrega dos produtos, salvo na ocorrência de motivo de força maior, apurados na forma da
+legislação vigente, e desde que comunicados à CONTRATANTE no prazo de 48 (quarenta e oito) horas do
+fato, ou da ordem expressa e escrita da CONTRATANTE.
+12.4. Arcar com todas as despesas, diretas ou indiretas, decorrentes do cumprimento das obrigações
+assumidas sem qualquer ônus à CONTRATANTE.
+12.5. Manter durante toda a execução do contrato as mesmas condições da habilitação e qualificação
+exigidas na licitação.
+12.6. Efetuar pontualmente o pagamento de todas as taxas e impostos que incidam ou venham a incidir
+sobre as suas atividades e/ou sobre a execução do objeto do presente contrato, bem como observar e
+respeitar as legislações Federal, Estadual e Municipal, relativas ao objeto do contrato.
+12.7. Substituir, total ou parcialmente, às suas expensas, os produtos objeto deste contrato em que se
+verifiquem má qualidade e (ou) qualidade divergente da especificação solicitada, após notificação, no prazo
+de 10 dias.
+12.8. Reparar, corrigir ou substituir, às suas expensas, no total ou em parte, o objeto do contrato em que
+se verifiquem vícios, defeitos, resultantes da entrega do produto.
+12.9. Acatar as normas e condições do edital e anexos que integram este instrumento, independente de
+transcrição.
+12.10. Respeitar no ato da entrega do produto, o tempo para conferência qualitativa e quantitativa dos
+mesmos, realizado pelo recebedor.
+12.11. Declarar expressamente, que a garantia técnica nacional mínima dos bem não possui prazo inferior
+a 12 (doze) meses.
+
+20
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+12.12. Além das cláusulas mencionadas acima, o contrato preverá maior detalhamento das regras que serão
+aplicadas as obrigações da contratada.
+
+13. DA ALTERAÇÃO SUBJETIVA
+13.1.O contrato oferece maior detalhamento das regras que serão aplicadas em relação a alteração
+subjetiva.
+
+14. DO CONTROLE E FISCALIZAÇÃO DA EXECUÇÃO
+14.1. Será designado representante para acompanhar e fiscalizar a entrega dos bens, anotando em registro
+próprio todas as ocorrências relacionadas com a execução e determinando o que for necessário à
+regularização de falhas ou defeitos observados.
+14.2. A gestão e fiscalização do contrato será de responsabilidade da CONTRATANTE, Secretaria Municipal
+de Promoção Social, Combate à Pobreza, Esporte e Lazer — SEMPRE.
+14.3.0 nome do gestor e do fiscal/preposto do contrato será designado por Ato Interno emitido pelo
+Secretário da Secretaria Municipal de Promoção Social, Combate à Pobreza, Esporte e Lazer — SEMPRE, no
+prazo de O5 (cinco) dias úteis após a assinatura do contrato, devendo tal ato ser anexado ao processo
+licitatório, com comunicação imediata à CONTRATADA.
+14.4. A fiscalização de que trata este item não exclui nem reduz a responsabilidade da Contratada, inclusive
+perante terceiros, por qualquer irregularidade, ainda que resultante de imperfeições técnicas ou vícios
+redibitórios, e, na ocorrência desta, não implica em corresponsabilidade da Administração ou de seus
+agentes e prepostos, de conformidade com o art. 120 da Lei nº 14.133/2021.
+14.5. O representante da Administração anotará em registro próprio todas as ocorrências relacionadas com
+a execução do contrato, indicando dia, mês e ano, bem como o nome dos funcionários eventualmente
+envolvidos, determinando o que for necessário à regularização das falhas ou defeitos observados e
+encaminhando os apontamentos à autoridade competente para as providências cabíveis.
+
+15. DO REAJUSTE
+15.1. Os preços inicialmente contratados são fixos e irreajustáveis no prazo de um ano contado da data do
+orçamento estimado, em 22/07/2025.
+15.2. Após o interregno de 1 (um) ano, havendo pedido da CONTRATADA, os preços iniciais serão
+reajustados, mediante a aplicação, pela CONTRATANTE, do ÍNDICE NACIONAL DE PREÇOS AO CONSUMIDOR
+AMPLO - IPCA ou, na sua falta, pelo índice legalmente previsto à época, exclusivamente para as obrigações
+iniciadas e concluídas após a ocorrência da anualidade.
+15.3. Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será contado a partir dos
+efeitos financeiros do último reajuste.
+15.4. O contrato oferece maior detalhamento das regras que serão aplicadas em relação reajuste.
+
+16. DAS SANÇÕES ADMINISTRATIVAS
+16.1.O contrato oferece maior detalhamento das regras que serão aplicadas em relação das sanções
+administrativas.
+
+17. DISPOSIÇÕES GERAIS
+17.1.O presente Termo de Referência foi elaborado pela Diretoria De Proteção Social Especial —
+DPSE/SEMPRE, através da cooperação técnica da sua equipe, estando em consonância com as disposições
+legais e normativas aplicáveis e com interesse e conveniência da Administração, afastando-se as
+características, cláusulas e condições que direcionem, comprometam, restrinjam ou frustre o caráter
+competitivo da licitação, passando, assim, a integrar o processo administrativo formalizado.
+
+18. ANEXO
+
+Anexo A — Detalhamento dos itens.
+Anexo B — Planilha Orçamentária.
+
+Wanete Santos de Carvalho
+Diretor
+Matrícula nº 3158716
+Diretoria De Proteção Social Especial - DPSE/SEMPRE
+
+21
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+ANEXO AÀA
+DETALHAMENTO MÍNIMO DOS ITENS
+
+QUANTIDADE DISTRIBUIDA POR UNIDADE
+
+ITEM CÓDIGO DESCRIÇÃO MINIMA DOS ITENS UN —
+APADA APAE ION | ICB IG EVOLUÇÃO
+
+COMPUTADOR (DESKTOP-BÁSICO)
+PROCESSADOR: NO MÍNIMO INTEL CORE |3 OU
+AMD A10, OU SUPERIORES, DISCO RÍGIDO:
+MÍNIMO DE 500 GB, MEMÓRIA RAM: 4GB,
+DDR3, MÍNIMA 2,41MHZ, UNIDADE DE DISCO
+ÓTICO: CD/DVD ROM,CAIXA DE SOM STÉREO
+TECLADO: USB, ABNT2, 107 TECLAS (COM FIO),
+TIPO DE MONITOR: 18,5 (1366 X 768), MOUSE:
+USB, 800 DPI, 2 BOTÕES, SCROOL (COM FIO),
+INTERFACES DE REDE: 10/100/1000 E WIFI,
+INTERFACES DE VÍDEO: INTEGRADA, SISTEMA
+OPERACIONAL: WINDOWS 11 PRO (64 BITS),
+FONTE: COMPATÍVEL COM O ITEM, 1T7TB
+GARANTIA: MÍNIMA DE 12 MESES.
+
+ol 100006586 25 6 1 6 4 3 5
+
+DATA SHOW  (PROJETOR)  PROJETOR
+MULTIMÍDIA NÃO INFERIOR A 3600 ANSI
+LUMENS - COM RESOLUÇÃO NATIVA (SEM
+EMULAÇÃO) DE (XGA) 1024 X 768, PERMITINDO
+OUTRAS RESOLUÇÕES EMULADAS, CONTRASTE
+DE 16.000:1, PROJEÇÃO MÍNIMA DE 1,48 * 1,77
+M, VIDA ÚTIL DE LÂMPADA NO MÍNIMO DE
+6.000 HORAS (PADRÃO) E 12.000 HORAS (ECO),
+COM MODO DE PROJEÇÃO FRONTAL / TRASEIRO
+/ TETO, COM ZOOM E FOCO AJUSTÁVEIS, COM
+BOTÕES FÍSICOS E CONTROLE REMOTO,
+ENTRADAS: VGA, USB, HDMI, ÁUDIO, RCA,
+RS5232, USB MINI, GARANTIA MÍNIMA DE 12
+MESES PELO FABRICANTE. ITENS INCLUSOS: -
+PROJETOR DEVIDAMENTE ACONDICIONADO; -
+CABO DE ENERGIA; - CABO HDMI; - CABO VGA; -
+CONTROLE REMOTO; - PILHAS; - CD COM
+SOFTWARE; - CARTÃO COM GARANTIA; -
+MANUAL EM PORTUGUÊS; ALIMENTAÇÃO —
+ENERGIA ELETRICA, BIVOLT.
+
+o2 100006440 10 4 - 1 1 1 3
+
+IMPRESSORA LASER COLORIDA (IMPRESSORA,
+COPIADORA E SCANNER) 110 VOLTS, ENTRADA
+USB, MEMÓRIA INTERNA MÍNIMA DE 128 MB,
+TIPO DE PAPEL: A4, TIMBRADO, SULFITE,
+ETIQUETASsó. COM . CAPACIDADE . PARA
+MPRESSÃO DUPLEX (FRENTE E VERSO),
+REALIZE IMPRESSORES COLORIDAS COM CABO
+DE FORÇA E COM TODOS OS EQUIPAMENTOS
+QUE SE FAÇAM NECESSÁRIOS PARA O PLENO
+FUNCIONAMENTO DO EQUIPAMENTO, COM
+MANUAL DE INSTRUÇÃO, GARANTIA MÍNIMA
+DE 12 MESES.
+
+o3 100003871 11 1 2 2 2 1 3
+
+IMPRESSORA — MULTIFUNCIONAL — LASER
+COLORIDA, CARACTERÍSTICAS GERAIS:
+MPRESSÃO: PADRÃO DE IMPRESSÃO DUPLEX
+(FRENTE E VERSO) IMPRESSÃO COLORIDA
+TECNOLOGIA DE IMPRESSÃO: LASER COLORIDO
+VELOCIDADE MÁX. DE IMPRESSÃO: ATÉ 33 PPM
+EM PRETO/CORES RESOLUÇÃO DA IMPRESSÃO
+(MÁXIMA EM DPI): ATÉ 2400 X 600 DPI
+o4 100001537 RESOLUÇÃO (MÁXIMA) EM DPI: ATÉ 2400 X 600 6 3 - - 2 1 -
+DPI.CAPACIDADE DE ENTRADA DE PAPEL
+PADRÃO (FOLHAS): BANDEJA PARA ATÉ 250
+FOLHAS CAPACIDADE DA BANDEJA DE PAPEL:
+BANDEJA PARA ATÉ 250 FOLHAS.CAPACIDADE
+DE BANDEJA ADICIONAL:BANDEJA MULTIUSO:
+BANDEJA MULTIUSO PARA 50 FOLHAS OU
+MAIS;COMPATIBILIDADE COM O DRIVER DE
+MPRESSORA: WINDOWS, MAC OS, LINUX CICLO
+DE TRABALHO MENSAL MÁX.:: 40,000
+
+22
+
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+PÁGINAS.CÓPIA:CÓPIAS MÚLTIPLAS
+RESOLUÇÃO DE CÓPIA (MÁXIMA): 1200 X 600
+DPI OPÇÕES DE CÓPIA: ORDENADAS, N EM 1,
+CÓPIAS MÚLTIPLAS CÓPIA EM CORES/PB:
+PRETO/CORES COPIA SEM USO DO PC,
+CAPACIDADE DE CÓPIA: PRETO/CORES,
+CAPACIDADE  MÁX. DO  ALIMENTADOR
+AUTOMÁTICO DE DOCUMENTOS (ADF): ATÉ 50
+PÁGINAS VELOCIDADE MÁX. DE CÓPIA EM
+PRETO (CPM): ATÉ 33 COM, FUNÇÃO DE CÓPIAS
+ORDENADAS, TAMANHO DO VIDRO DE
+DOCUMENTOS: 216 X 27,9 CM (CARTA)
+TAMANHO DO VIDRO DE EXPOSIÇÃO: 21,6 X
+27,9 CM (CARTA) CÓPIA DUPLEX (FRENTE E
+VERSO). SCANNER:RESOLUÇÃO DE
+DIGITALIZAÇÃO INTERPOLADA (DPI): ATÉ 19200
+X 19200 DPI RESOLUÇÃO INTERPOLADA: ATÉ
+19200 X 19200 DPI.RESOLUÇÃO MÁX. DE
+DIGITALIZAÇÃO INTERPOLADA (DPI): ATÉ 19200
+X 19200 DPI.RESOLUÇÃO DE DIGITALIZAÇÃO
+ÓPTICA (DPI): ATÉ 1200 X 2400 DPI (DO VIDRO
+DE DOCUMENTOS) FORMATOS (EXPORTAÇÃO):
+WINDOWS BITMAP (BMP), JPEG (JPG), TIFF
+SINGLE-PAGE/MULTI-PAGE (TIF), PORTABLE
+NETWORK GRAPHICS (PNG), PDF SINGLE-
+PAGE/MULTI-PAGE (PDF/A, HIGH
+COMPRESSION PDF, SECURE PDF, SEARCHABLE
+PDF), XML PAPER SPECIFICATION (XPS),
+MICROSOFT OFFICE WORD (DOCX), MICROSOFT
+OFFICE POWERPOINT (PPTX), MICROSOFT
+OFFICE EXCEL (XLSX), HTML 3.2/4.0 (HTM),
+MICROSOFT EXCEL 2003 XP (XLS), RTF WORD
+2000/WORDPAD (RTF), WORDPERFECT 9/10
+(WPD), TEXT (TXT).FUNÇÃO DIGITALIZAÇÃO
+PARA: ARQUIVO, IMAGEM, E-MAIL, OCR, FTP,
+SERVIDOR SSH (SFTP), USB, SHAREPOINT,
+NUVEM (WEB CONNECT), SERVIDOR DE E-
+MAIL1, PASTA DE REDE (SOMENTE CIFS
+WINDOWS), EASY SCAN TO E-
+MAIL.PAPEL:CAPACIDADE DE ENTRADA: ATÉ
+100 FOLHAS. CAPACIDADE DE ENTRADA
+PADRÃO  (CARTÕES): ATÉ 30  CARTÕES
+CAPACIDADE DE ENTRADA
+PADRÃO(ENVELOPES): ATÉ 10 CAPACIDADE DE
+SAÍDA: ATÉ 30 FOLHAS. TAMANHOS DE MÍDIA
+SUPORTADOS (SISTEMA MÉTRICO): A4; B5; A6;
+ENVELOPE DL, OFÍCIO TAMANHOS DE MÍDIA
+COMPATÍVEIS (PADRÃO DOS EUA): CARTA;
+OFÍCIO; 4 X 6 POL.; 5 X 7 POL.; 8 X 10 POL;;
+ENVELOPES NÚM. 10. TAMANHOS DE MÍDIA,
+PERSONALIZADOS (SISTEMA MÉTRICO): 76,2 X
+127 A 215,9 X 355,6 MM TAMANHOS DE MÍDIA,
+PERSONALIZADOS (PADRÃO DOS EUA): 3 X5 A
+85 X 14 POLTIPOS DE SUPORTES: PAPEL
+COMUM, PAPÉIS FOSCOS PARA FOLHETOS,
+PAPÉIS BRILHANTES PARA FOLHETOS, PAPÉIS
+FOTOGRÁFICOS, ENVELOPES, OUTROS PAPÉIS
+ESPECIAIS P/ JATO DE TINTA GRAMATURA DE
+MÍDIA COMPATÍVEL (SISTEMA MÉTRICO): PAPEL
+COMUM: 60 A 90 G/M?; ENVELOPES: 75 À
+90 G/M?; CARTÕES: ATÉ A 200 G/M ?; PAPEL
+FOTOGRÁFICO: ATÉ 300 G/M ?. GRAMATURA DE
+MÍDIA COMPATÍVEL (PADRÃO DOS EUA): 20 LB.
+MPRESSÃO SEM MARGENS: SIM (ATÉ 8,5 X 11
+POLEGADAS, 210 x 297 MM)
+CONECTIVIDADE:PORTAS: USB 2.0, ETHERNET
+GIGABIT, WI-FI, BLUETOOTH LE,CAPACIDADE
+SEM FIOS: SIM, WI-FI 802.11 B/G/N COM BANDA
+DUPLA INTEGRADO, WIRELESS  DIRECT,
+GERAL:VOLTAGEM DE ENTRADA: 100-127 VAC,
+50/60 HZ, AUTOMÁTICA; COMPATIBILIDADE
+COM LINUX E WINDOWS;SUPORTE PROTOCOLO
+DHCP;CONECTIVIDADE: USB 2.0, WIRELESS
+802.11 (INTERNO OU EXTERNO DO MESMO
+FABRICANTE  DO . EQUIPAMENTO) OU
+SUPERIOR.MEMORIA INTERNA MINIMA DE 128
+
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+MB; GARANTIA DE SUPORTE E
+MANUTENÇÃO:NA COMPRA, GARANTIA TOTAL
+MÍNIMA DE 12 (DOZE) MESES, COM
+ATENDIMENTO NO LOCAL DA INSTALAÇÃO DO
+EQUIPAMENTO, NA CIDADE DE SALVADOR
+(BA).TODOS OS EQUIPAMENTOS OFERTADOS
+DEVEM POSSUIR GRADAÇÕES NEUTRAS DAS
+CORES: PRETO, BRANCO OU CINZA.CATÁLOGOS,
+SOFTWARE DE INSTALAÇÃO, CABOS DE FORÇA,
+CABOS DE INTERFACE
+E DEMAISACESSÓRIOS.QUE ACOMPANHAM O
+EQUIPAMENTO, TODOS CONFORME NORMAS
+TÉCNICAS VIGENTES.COMPOSIÇÃO E
+ACESSÓRIOS:CATÁLOGOS, — SOFTWARE . DE
+INSTALAÇÃO, CABO DE ALIMENTAÇÃO (PADRÃO
+NBR-14136), CABO USB, FRASCO DE TINTA
+PARA, SENDO ACEITOS OS SUPRIMENTOS QUE
+ACOMPANHAM A IMPRESSORA DE FÁBRICA, E
+DEMAIS ACESSÓRIOS QUE ACOMPANHAM O
+EQUIPAMENTO;TODOS OS EQUIPAMENTOS A
+SEREM ENTREGUES DEVERÃO SER IDÊNTICOS,
+OU SEJA, TODOS OS COMPONENTES EXTERNOS
+E INTERNOS DE MESMOS MODELOS E MARCAS
+DOS UTILIZADOS NOS  EQUIPAMENTOS
+ENVIADOS PARA AVALIAÇÃO E/OU
+HOMOLOGAÇÃO PELA CONTRATANTE. CASO O
+COMPONENTE NÃO MAIS SE ENCONTRE
+DISPONÍVEL NO MERCADO, ADMITEM-SE
+SUBSTITUTOS COM QUALIDADE E
+CARACTERÍSTICAS IDÊNTICAS OU SUPERIORES,
+MEDIANTE NOVA HOMOLOGAÇÃO  PELA
+CONTRATANTE;AS UNIDADES DO
+EQUIPAMENTO DEVERÃO SER ENTREGUES
+DEVIDAMENTE ACONDICIONADAS EM
+EMBALAGENS INDIVIDUAIS ADEQUADAS, QUE
+UTILIZEM — PREFERENCIALMENTE “ MATERIAIS
+RECICLÁVEIS,, DE FORMA A GARANTIR A
+MÁXIMA PROTEÇÃO DURANTE O TRANSPORTE
+E A ARMAZENAGEM.DOCUMENTOS:DE
+GARANTIA TOTAL DE TODOS OS COMPONENTES
+DO EQUIPAMENTO; OS OBJETOS DEVEM
+CONTER MANUAL OFICIAL DO FABRICANTE
+ONDE PODERÃO SER CONFERIDAS TODAS AS
+CARACTERÍSTICAS TÉCNICAS EXIGIDAS DE
+TODOS OS COMPONENTES DO EQUIPAMENTO,
+QUE DE FORMA INEQUÍVOCA IDENTIFIQUEM E
+COMPROVEM AS CONFIGURAÇÕES, POSSÍVEIS
+EXPANSÕES E UPGRADES, ATRAVÉS DE
+CERTIFICADOS, EVENTUAIS MANUAIS
+TÉCNICOS, FOLDERS E DEMAIS LITERATURAS
+TÉCNICAS EDITADAS PELOS FABRICANTES.
+
+os5
+
+100004011
+
+MICROFONE SEM FIO; FAIXA DE FREQUÊNCIA DE
+PORTADORA: UHF730-830MHZ, ESTABILIDADE DE
+FREQUÊNCIA: <+ 30PPM, FAIXA DE ESTABILIDADE
+MÓVEL: >90 DB, MODO DE MODULAÇÃO: FM,
+RESPOSTA EM FREQUÊNCIA: 40 HZ - 20KHZ,
+RELAÇÃO SINAL/RUÍDO: &H8805;5DBU (SINAD = F - 3
+20DB, RELAÇÃO F/N: >80 DB, RELAÇÃO P/N: >80 DB,
+SAÍDA DE ÁUDIO: O * 700 MW, ALCANCE: 50 M,
+TEMPERATURA DE OPERAÇÃO: -10 ºC * +50 “C, 2
+MICROFONES, BASE RECEPTORA DUPLA, 1 FONTE
+DE ALIMENTAÇÃO 110/220V1 CABO P10/P10 //,2
+BATERIAS 9V, COR PRETA.
+
+o6
+
+100005264
+
+PORTEIRO ELETRÔNICO. (VÍDEO PORTEIRO)
+COMPONENTES: DISPLAY, ATÉ 4 CANAIS,
+MICROFONE, TIPO SISTEMA: ELETRÔNICO,
+APLICAÇÃO: SISTEMA DE SEGURANÇA, FONTE 1 1 -
+ALIMENTAÇÃO: VOLTAGEM 127/220 (BIVOLT),
+COM MONTAGEM NA PAREDE, GARANTIA
+MÍNIMA 12 MESES.
+
+o7
+
+100001709
+
+SCANNER DE MESA, BIVOLT, ÁREA PARA
+DIGITALIZAÇÃO COM CAPACIDADE PARA UMA
+FOLHA A4, COM  CAPACIDADE DE 2 2 .
+DIGITALIZAÇÃO — DE —FOLHAS — AVULSAS,
+DOCUMENTOS E FOTOGRAFIAS, PODENDO
+
+24
+
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+REALIZAR AS  DIGITALIZAÇÕES NA COR
+COLORIDA OU PRETO E BRANCO, COM
+CONECTIVIDADE POR USB, COM CABO DE
+FORÇA, MANUAL DE INSTRUÇÃO E TODOS OS
+ACESSÓRIOS QUE SE FAÇAM NECESSÁRIOS
+PARA O BOM  FUNCIONAMENTO DO
+EQUIPAMENTO E GARANTIA DE 12 MESES.
+
+SERVIDOR, CARACTERÍSTICAS GERAIS:
+PROCESSADOR: MÍNIMO 4 NÚCLEOS COM 4
+THREADS DE 2.9 GHZ COM 8MB DE MEMÓRIA
+CACHE. PLACA MÃE:POSSUI NO MÍNIMO 2
+(DOIS) SLOTS DE MEMÓRIA;SUPORTE A
+MEMÓRIAS DDR4 SDRAM 2.66 MHZ OU
+SUPERIOR;OS — SLOTIS UDIMM . DEVERÃO
+SUPORTAR, NO MÍNIMO, MÓDULOS DE 04
+(QUATRO) GB A 32 (TRINTA E DOIS) GB DE
+MEMÓRIA DDR4;POSSUIR CHIPSET QUE TENHA
+SUPORTE A TECNOLOGIAS COMPATÍVEIS AO
+PROCESSADOR; POSSUIR, NO MÍNIMO, 01 (UM)
+SLOTS PCIE X16;POSSUIR, NO MÍNIMO, 02
+PORTAS DIGITAIS;DEVE PERMITIR SALVAR AS
+CONFIGURAÇÕES DO BIOS EM UM ARQUIVO E
+CARREGÁ-LAS EM OUTROS EQUIPAMENTOS DO
+MESMO MODELO, ESTANDO ESTE COM SENHA
+CONFIGURADA NO BIOS OU NÃO, FACILITANDO
+ASSIM A APLACAÇÃO AUTOMATIZADA DE
+CONFIGURAÇÕES E POLÍTICAS DE SEGURANÇA;
+POSSUIR CHIP TPM 2.0, SENDO ACEITO AÀA
+SOLUÇÃO FTPM 2.0.DEVERÁ SER PROJETADA E
+DESENVOLVIDA PELO MESMO FABRICANTE DO
+EQUIPAMENTO OFERTADO, COM SEU NOME
+SERIGRAFADO, NÃO SENDO ACEITO O
+EMPREGO DE PLACAS-MÃE DE LIVRE
+COMERCIALIZAÇÃO.NO
+
+MERCADO; MEMÓRIA:MÍNIMO DE 8 (OITO) GB
+DE RAM DDRA4 DE 2.666 MHZ ECC, UDIMM, BCC,
+EM DUAL CHANNEL OU SINGLE CHANNEL,
+NSTALADOS;CONTROLADORA DE
+VÍDEO:CONTROLADORA — ONBOARD — COM
+CAPACIDADE PARA CONTROLAR 01 MONITOR
+DE VÍDEO COMPATÍVEL COM PADRÃO VGA,
+HDMI OU DISPLAYPORT;MEMÓRIA DE VÍDEO
+COM ALOCAÇÃO DINÂMICA DA MEMÓRIA RAM
+DO SISTEMA;UNIDADE DE
+DISCO:ARMAZENAMENTO MÍNIMO DE 2TB HDD
+SATA 6GBPS 7.2K RPM; UNIDADE GRAVADOR DE
+DVD/RW DUAL LAYER; CONTROLADORA
+RAID:NECESSÁRIO — CONTROLADORA — COM
+SUPORTE A RAID O, 1 E 5;iINTERFACES DE
+REDE:MÍNIMO 1 PORTA ETHERNET 1GBE
+AUTOSENSE IEEE 802.3;MÍNIMO DE 1
+CONECTOR RJ-45 COM LEDS DE STATUS DE
+CONEXÃO;PORTAS E
+NTERFACES:CONTROLADORA — DE — DISCO
+PADRÃO MÍNIMO SERIAL ATA 3 DE 6 GB/S;NO
+MÍNIMO 6 (SEIS) INTERFACES USB (UNIVERSAL
+SERIAL BUS) INTERFACE PARA FONE DE OUVIDO
+E MICROFONE FRONTAIS; GABINETE:O
+GABINETE POSSUI LOCAL APROPRIADO, JÁ
+DESENVOLVIDO NO PROJETO DO PRODUTO,
+PARA COLOCAÇÃO DE LACRES OU CADEADOS
+MECÂNICOS OU ELETRÔNICOS NÃO SENDO
+ACEITO ADAPTAÇÕES;O GABINETE POSSUI
+SENSOR DE ABERTURA DA TAMPA PARA
+REGISTRAR O EVENTO NO BIOS;FONTE DE
+ALIMENTAÇÃO:DEVERÁ SER FORNECIDA 01
+(UMA) FONTE DE ALIMENTAÇÃO NECESSÁRIA
+PARA O FUNCIONAMENTO DO COMPUTADOR:A
+POTÊNCIA DA FONTE DE ALIMENTAÇÃO DEVERÁ
+SUPORTAR TODA A CONFIGURAÇÃO DO
+COMPUTADOR; A FONTE DE ALIMENTAÇÃO
+OFERTADA CONTÉM O RECURSO DE FATOR DE
+CORREÇÃO DE ENERGIA ATIVA - “PFC” (POWER
+FACTOR CORRECTION);FAIXA DE TENSÃO DE
+ENTRADA DE 100VAC A 240VAC, COM SELEÇÃO
+
+o8 100006030
+
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+AUTOMÁTICA DE TENSÃO, CAPAZ DE
+SUSTENTAR A CONFIGURAÇÃO MÁXIMA DO
+COMPUTADOR;A FONTE DE ALIMENTAÇÃO
+POSSUI CERTIFICAÇÃO 80PLUS COM EFICIÊNCIA
+SUPERIOR A 80%;TECLADO:MÍNIMO DE 102
+TECLAS;PADRÃO — ABNT TIPO || (NBR
+10346/10347); CONECTOR USB;MOUSE
+ÓPTICO:PADRÃO MICROSOFT COM RESOLUÇÃO
+MÍNIMA DE 800 DPI; CONECTOR USB;COM
+CONTROLE DE MOVIMENTAÇÃO DE BARRA DE
+ROLAGEM DE APLICATIVOS;MONITOR:DEVERÁ
+SER DA COR  PREDOMINANTEMENTE
+PRETA;POSSUIR TELA EM LCD ILUMINADO POR
+LED, COM ANTIRREFLEXO;POSSUIR TELA COM
+ÁREA ÚTIL VISÍVEL DE TAMANHO DIAGONAL
+NÃO INFERIOR A 21,5” POLEGADAS; POSSUIR
+ANGULO DE VISÃO COM LIMITE MÍNIMO DE 170
+GRAUS PARA HORIZONTAL E 160 GRAUS PARA
+VERTICAL.POSSUIR — RESOLUÇÃO — MÁXIMA
+SUPORTADA DE NO MÍNIMO 1920X1080 PIXELS;
+BRILHO NÃO INFERIOR A 200
+CD/M2;POSSIBILIDADE DE GERAR 16 MILHÕES
+DE CORES OU MAIS; POSSUIR TEMPO DE
+RESPOSTA DE NO MÁXIMO 5
+MILISSEGUNDOS;POSSUIR — CONTROLES — DE
+AJUSTE DA IMAGEM COM MENU ON SCREEN;
+DEVE SER PLUG AND PLAY;DEVE POSSUIR
+CERTIFICAÇÃO DE ECONOMIA DE
+ENERGIA;SOFTWARE E
+DOCUMENTAÇÃO:WINDOWS SERVERº 2022
+STANDARD, INSTALAÇÃO DE FÁBRICA, SEM
+CALS, VÁRIAS LÍNGUAS;SERÃO FORNECIDOS
+TODOS OS DRIVERS DO EQUIPAMENTO;OS
+MANUAIS DO EQUIPAMENTO DEVERÃO SER
+FORNECIDOS EM MÍDIA
+ELETRÔNICA;CARACTERÍSTICAS GERAIS:NA
+COMPRA, GARANTIA TOTAL MÍNIMA DE 12
+(DOZE) MESES, COM ATENDIMENTO NO LOCAL
+DA INSTALAÇÃO DO EQUIPAMENTO, NA CIDADE
+DE SALVADOR (BA).TODOS OS EQUIPAMENTOS
+OFERTADOS DEVEM POSSUIR GRADAÇÕES
+NEUTRAS DAS CORES: PRETO, BRANCO OU
+CINZA.OS OBJETOS DEVEM CONTER MANUAL
+OFICIAL DO FABRICANTE ONDE PODERÃO SER
+CONFERIDAS TODAS AS CARACTERÍSTICAS
+TÉCNICAS —EXIGIDAS DE TODOS OS
+COMPONENTES DO EQUIPAMENTO, QUE DE
+FORMA INEQUÍVOCA IDENTIFIQUEM E
+COMPROVEM AS CONFIGURAÇÕES, POSSÍVEIS
+EXPANSÕES E UPGRADES, ATRAVÉS DE
+CERTIFICADOS, EVENTUAIS MANUAIS
+TÉCNICOS, FOLDERS E DEMAIS LITERATURAS
+TÉCNICASEDITADAS PELOS FABRICANTES.
+
+VIDEOGAME ANO DE LANÇAMENTO NO
+MÍNIMO 2020, SSD: 500GB; 1 (UM) CONTROLE
+WIRELESS (SEM FIO); IMAGEM: 4K; CONEXÕES:
+USB, HDMI; CONECTIVIDADE: — WIFI,
+BLUETOOTH E ETHERNET; CABOS: HDMI, CABO
+o 100006589 DE ENERGIA E USB; ALIMENTAÇÃO: ENERGIA 6 - 1
+ELÉTRICA, BIVOLT; COM NO MÍNIMO 02 JOGOS
+E COM GARANTIA DE 12 MESES, MANUAL DE
+INSTRUÇÃO E TODOS OS ACESSÓRIOS QUE SE
+FAÇAM NECESSÁRIOS PARA fo)
+BOM FUNCIONAMENTO DO EQUIPAMENTO.
+
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+ANEXO B
+
+PLANILHA ORÇAMENTÁRIA
+
+ITEM
+
+CÓDIGO
+
+QUANTIDADE DISTRIBUIDA POR UNIDADE
+
+DESCRIÇÃO MINIMA DOS ITENS UN APADA APAE ION ICB IG EVOLUÇÃO
+
+ESTIMÁTIVA
+DEVALOR
+
+UNITÁRIO
+
+ESTIMATIVA
+
+DE VALOR
+
+TOTAL
+
+ol
+
+100006586
+
+COMPUTADOR (DESKTOP-BÁSICO)
+PROCESSADOR: NO MÍNIMO INTEL CORE 13 OU
+AMD A1lO0, OU SUPERIORES, DISCO RÍGIDO:
+MÍNIMO DE 500 GB, MEMÓRIA RAM: 4GB,
+DDR3, MÍNIMA 2,41MHZ, UNIDADE DE DISCO
+ÓTICO: CD/DVD ROM,CAIXA DE SOM STÉREO
+TECLADO: USB, ABNT2, 107 TECLAS (COM FIO), 25 6 1 6 4 3 5
+TIPO DE MONITOR: 18,5 (1366 X 768), MOUSE:
+USB, 800 DPI, 2 BOTÕES, SCROOL (COM FIO),
+INTERFACES DE REDE: 10/100/1000 E WIFI,
+INTERFACES DE VÍDEO: INTEGRADA, SISTEMA
+OPERACIONAL: WINDOWS 11 PRO (64 BITS),
+FONTE: COMPATÍVEL COM O ITEM, 17TB
+GARANTIA: MÍNIMA DE 12 MESES.
+
+R$ 3.063,90
+
+R$ 75.399,90
+
+o2
+
+100006440
+
+DATA SHOW  (PROJETOR) — PROJETOR
+MULTIMÍDIA NÃO INFERIOR A 3600 ANSI
+LUMENS - COM RESOLUÇÃO NATIVA (SEM
+EMULAÇÃO) DE (XGA) 1024 X 768, PERMITINDO
+OUTRAS RESOLUÇÕES EMULADAS, CONTRASTE
+DE 16.000:1, PROJEÇÃO MÍNIMA DE 1,48 * 1,77
+M, VIDA ÚTIL DE LÂMPADA NO MÍNIMO DE
+6.000 HORAS (PADRÃO) E 12.000 HORAS (ECO),
+COM MODO DE PROJEÇÃO FRONTAL / TRASEIRO
+/ TETO, COM ZOOM E FOCO AJUSTÁVEIS, COM 10 4 - 1 1 1 3
+BOTÕES FÍSICOS E CONTROLE REMOTO,
+ENTRADAS: VGA, USB, HDMI, ÁUDIO, RCA,
+R5232, USB MINI, GARANTIA MÍNIMA DE 12
+MESES PELO FABRICANTE. ITENS INCLUSOS: -
+PROJETOR DEVIDAMENTE ACONDICIONADO; -
+CABO DE ENERGIA; - CABO HDMI; - CABO VGA; -
+CONTROLE REMOTO; - PILHAS; - CD COM
+SOFTWARE; - CARTÃO COM GARANTIA; -
+MANUAL EM PORTUGUÊS; ALIMENTAÇÃO —
+ENERGIA ELETRICA, BIVOLT
+
+R$4.589,10
+
+R$ 45.891,00
+
+o3
+
+100003871
+
+IMPRESSORA LASER COLORIDA (IMPRESSORA,
+COPIADORA E SCANNER) 110 VOLTS, ENTRADA
+USB, MEMÓRIA INTERNA MÍNIMA DE 128 MB,
+TIPO DE PAPEL: A4, TIMBRADO, SULFITE,
+ETIQUETASó. COM . CAPACIDADE . PARA
+IMPRESSÃO  DUPLEX (FRENTE E VERSO), | n 1 2 2 2 1 3
+REALIZE IMPRESSORES COLORIDAS COM CABO
+DE FORÇA E COM TODOS OS EQUIPAMENTOS
+QUE SE FAÇAM NECESSÁRIOS PARA O PLENO
+FUNCIONAMENTO DO EQUIPAMENTO, COM
+MANUAL DE INSTRUÇÃO, GARANTIA MÍNIMA
+DE 12 MESES.
+
+R$3.419,10
+
+R$ 37.610,10
+
+o4
+
+100001537
+
+IMPRESSORA — MULTIFUNCIONAL — LASER
+COLORIDA, CARACTERÍSTICAS GERAIS:
+IMPRESSÃO: PADRÃO DE IMPRESSÃO DUPLEX
+(FRENTE E VERSO) IMPRESSÃO COLORIDA
+TECNOLOGIA DE IMPRESSÃO: LASER COLORIDO
+VELOCIDADE MÁX. DE IMPRESSÃO: ATÉ 33 PPM
+EM PRETO/CORES RESOLUÇÃO DA IMPRESSÃO
+(MÁXIMA EM DPI): ATÉ 2400 X 600 DPI
+RESOLUÇÃO (MÁXIMA) EM DPI: ATÉ 2400 X 600
+DPI.CAPACIDADE DE ENTRADA DE PAPEL
+PADRÃO (FOLHAS): BANDEJA PARA ATÉ 250
+FOLHAS CAPACIDADE DA BANDEJA DE PAPEL:
+BANDEJA PARA ATÉ 250 FOLHAS.CAPACIDADE 6 3 - - 2 1 -
+DE BANDEJA ADICIONAL:BANDEJA MULTIUSO:
+BANDEJA MULTIUSO PARA 50 FOLHAS OU
+MAIS;COMPATIBILIDADE COM O DRIVER DE
+IMPRESSORA: WINDOWS, MAC OS, LINUX CICLO
+DE TRABALHO MENSAL MÁX.: 40,000
+PÁGINAS.CÓPIA:CÓPIAS MÚLTIPLAS
+RESOLUÇÃO DE CÓPIA (MÁXIMA): 1200 X 600
+DPI OPÇÕES DE CÓPIA: ORDENADAS, N EM 1,
+CÓPIAS MÚLTIPLAS CÓPIA EM CORES/PB:
+PRETO/CORES COPIA SEM USO DO PC,
+CAPACIDADE DE CÓPIA: PRETO/CORES,
+CAPACIDADE  MÁX. DO  ALIMENTADOR
+AUTOMÁTICO DE DOCUMENTOS (ADF): ATÉ 50
+
+R$4.510,93
+
+R$ 26.816,08
+
+27
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+PÁGINAS VELOCIDADE MÁX. DE CÓPIA EM
+PRETO (CPM): ATÉ 33 COM, FUNÇÃO DE CÓPIAS
+ORDENADAS, TAMANHO DO VIDRO DE
+DOCUMENTOS: 21,6 X 27,9 CM (CARTA)
+TAMANHO DO VIDRO DE EXPOSIÇÃO: 21,6 X
+27,9 CM (CARTA) CÓPIA DUPLEX (FRENTE E
+VERSO). SCANNER:RESOLUÇÃO DE
+DIGITALIZAÇÃO INTERPOLADA (DPI): ATÉ 19200
+X 19200 DPI RESOLUÇÃO INTERPOLADA: ATÉ
+19200 X 19200 DPI.RESOLUÇÃO MÁX. DE
+DIGITALIZAÇÃO INTERPOLADA (DPI): ATÉ 19200
+X 19200 DPI.RESOLUÇÃO DE DIGITALIZAÇÃO
+ÓPTICA (DPI): ATÉ 1200 X 2400 DPI (DO VIDRO
+DE DOCUMENTOS) FORMATOS (EXPORTAÇÃO):
+WINDOWS BITMAP (BMP), JPEG (JPG), TIFF
+SINGLE-PAGE/MULTI-PAGE (TIF),, PORTABLE
+NETWORK GRAPHICS (PNG), PDF SINGLE-
+PAGE/MULTI-PAGE (PDF/A, HIGH
+COMPRESSION PDF, SECURE PDF, SEARCHABLE
+PDF), XML PAPER SPECIFICATION (XPS),
+MICROSOFT OFFICE WORD (DOCX), MICROSOFT
+OFFICE POWERPOINT (PPTX), MICROSOFT
+OFFICE EXCEL (XLSX), HTML 3.2/4.0 (HTM),
+MICROSOFT EXCEL 2003 XP (XLS), RTF WORD
+2000/WORDPAD (RTF), WORDPERFECT 9/10
+(WPD), TEXT (TXT).FUNÇÃO DIGITALIZAÇÃO
+PARA: ARQUIVO, IMAGEM, E-MAIL, OCR, FTP,
+SERVIDOR SSH (SFTP), USB, SHAREPOINT,
+NUVEM (WEB CONNECT), SERVIDOR DE E-
+MAILI, PASTA DE REDE (SOMENTE CIFS
+WINDOWS), EASY SCANN TO E
+MAIL.PAPEL:CAPACIDADE DE ENTRADA: ATÉ
+100 FOLHAS. CAPACIDADE DE ENTRADA
+PADRÃO  (CARTÕES): ATÉ 30 CARTÕES
+CAPACIDADE DE ENTRADA
+PADRÃO(ENVELOPES): ATÉ 10 CAPACIDADE DE
+SAÍDA: ATÉ 30 FOLHAS. TAMANHOS DE MÍDIA
+SUPORTADOS (SISTEMA MÉTRICO): A4; B5; A6;
+ENVELOPE DL, OFÍCIO TAMANHOS DE MÍDIA
+COMPATÍVEIS (PADRÃO DOS EUA): CARTA;
+OFÍCIO; 4 X 6 POL.; 5 X 7 POL.; 8 X 10 POL;;
+ENVELOPES NÚM. 10. TAMANHOS DE MÍDIA,
+PERSONALIZADOS (SISTEMA MÉTRICO): 76,2 X
+127 A 215,9 X 355,6 MM TAMANHOS DE MÍDIA,
+PERSONALIZADOS (PADRÃO DOS EUA): 3 X 5 A
+85 X 14 POLTIPOS DE SUPORTES: PAPEL
+COMUM, PAPÉIS FOSCOS PARA FOLHETOS,
+PAPÉIS BRILHANTES PARA FOLHETOS, PAPÉIS
+FOTOGRÁFICOS, ENVELOPES, OUTROS PAPÉIS
+ESPECIAIS P/ JATO DE TINTA GRAMATURA DE
+MÍDIA COMPATÍVEL (SISTEMA MÉTRICO): PAPEL
+COMUM: 60 A 90 G/M?; ENVELOPES: 75 AÀ
+90 G/M?; CARTÕES: ATÉ A 200 G/M ?; PAPEL
+FOTOGRÁFICO: ATÉ 300 G/M ?. GRAMATURA DE
+MÍDIA COMPATÍVEL (PADRÃO DOS EUA): 20 LB.
+IMPRESSÃO SEM MARGENS: SIM (ATÉ 8,5 X 11
+POLEGADAS, 210 x 297 MM)
+CONECTIVIDADE:PORTAS: USB 2.0, ETHERNET
+GIGABIT, WI-FI, BLUETOOTH LE,CAPACIDADE
+SEM FIOS: SIM, WI-FI 802.11 B/G/N COM BANDA
+DUPLA INTEGRADO, WIRELESS DIRECT,
+GERAL:VOLTAGEM DE ENTRADA: 100-127 VAC,
+50/60 HZ, AUTOMÁTICA; COMPATIBILIDADE
+COM LINUX E WINDOWS;SUPORTE PROTOCOLO
+DHCP;CONECTIVIDADE: USB 2.0, WIRELESS
+802.11 (INTERNO OU EXTERNO DO MESMO
+FABRICANTE E DO — EQUIPAMENTO) OU
+SUPERIOR.MEMORIA INTERNA MINIMA DE 128
+MB; GARANTIAR DE  SUPORTE E
+MANUTENÇÃO:NA COMPRA, GARANTIA TOTAL
+MÍNIMA DE 12 (DOZE) MESES, COM
+ATENDIMENTO NO LOCAL DA INSTALAÇÃO DO
+EQUIPAMENTO, NA CIDADE DE SALVADOR
+(BA).TODOS OS EQUIPAMENTOS OFERTADOS
+DEVEM POSSUIR GRADAÇÕES NEUTRAS DAS
+CORES: PRETO, BRANCO OU CINZA.CATÁLOGOS,
+SOFTWARE DE INSTALAÇÃO, CABOS DE FORÇA,
+CABOS DE INTERFACE
+E DEMAISACESSÓRIOS.QUE ACOMPANHAM O
+EQUIPAMENTO, TODOS CONFORME NORMAS
+TÉCNICAS VIGENTES.COMPOSIÇÃO E
+ACESSÓRIOS:CATÁLOGOS, — SOFTWARE . DE
+INSTALAÇÃO, CABO DE ALIMENTAÇÃO (PADRÃO
+NBR-14136), CABO USB, FRASCO DE TINTA
+PARA, SENDO ACEITOS OS SUPRIMENTOS QUE
+ACOMPANHAM A IMPRESSORA DE FÁBRICA, E
+DEMAIS ACESSÓRIOS QUE ACOMPANHAM O
+EQUIPAMENTO;TODOS OS EQUIPAMENTOS A
+SEREM ENTREGUES DEVERÃO SER IDÊNTICOS,
+OU SEJA, TODOS OS COMPONENTES EXTERNOS
+E INTERNOS DE MESMOS MODELOS E MARCAS
+
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+DOS  UTILIZADOS NOS  EQUIPAMENTOS
+ENVIADOS PARA AVALIAÇÃO E/OU
+HOMOLOGAÇÃO PELA CONTRATANTE. CASO O
+COMPONENTE NÃO MAIS SE ENCONTRE
+DISPONÍVEL NO MERCADO, ADMITEM-SE
+SUBSTITUTOS COM QUALIDADE E
+CARACTERÍSTICAS IDÊNTICAS OU SUPERIORES,
+MEDIANTE = NOVA HOMOLOGAÇÃO  PELA
+CONTRATANTE;AS UNIDADES DO
+EQUIPAMENTO DEVERÃO SER ENTREGUES
+DEVIDAMENTE ACONDICIONADAS EM
+EMBALAGENS INDIVIDUAIS ADEQUADAS, QUE
+UTILIZEM — PREFERENCIALMENTE — MATERIAIS
+RECICLÁVEIS,, DE FORMA A GARANTIR A
+MÁXIMA PROTEÇÃO DURANTE O TRANSPORTE
+E A ARMAZENAGEM.DOCUMENTOS:DE
+GARANTIA TOTAL DE TODOS OS COMPONENTES
+DO EQUIPAMENTO; OS OBJETOS DEVEM
+CONTER MANUAL OFICIAL DO FABRICANTE
+ONDE PODERÃO SER CONFERIDAS TODAS AS
+CARACTERÍSTICAS TÉCNICAS EXIGIDAS DE
+TODOS OS COMPONENTES DO EQUIPAMENTO,
+QUE DE FORMA INEQUÍVOCA IDENTIFIQUEM E
+COMPROVEM AS CONFIGURAÇÕES, POSSÍVEIS
+EXPANSÕES E UPGRADES, ATRAVÉS DE
+CERTIFICADOS, EVENTUAIS MANUAIS
+TÉCNICOS, FOLDERS E DEMAIS LITERATURAS
+TÉCNICAS EDITADAS PELOS FABRICANTES.
+
+MICROFONE SEM FIO; FAIXA DE FREQUÊNCIA DE
+PORTADORA: UHF730-830MHZ, ESTABILIDADE
+DE FREQUÊNCIA: <t 30PPM, FAIXA DE
+ESTABILIDADE MÓVEL: >90 DB, MODO DE
+MODULAÇÃO: FM, RESPOSTA EM FREQUÊNCIA:
+40 HZ * 20KHZ, RELAÇÃO SINAL/RUÍDO:
+os5 100004011 | gggos:5DBU (SINAD = 20DB, RELAÇÃO F/N: 8 - 3 - - 2 3 R$ 359,00 R$ 2.872,00
+>80 DB, RELAÇÃO P/N: >80 DB, SAÍDA DE ÁUDIO:
+0 * 700 MW, ALCANCE: 50 M, TEMPERATURA DE
+OPERAÇÃO: -10 ºC * +50 ºC, 2 MICROFONES,
+BASE RECEPTORA DUPLA, 1 FONTE DE
+ALIMENTAÇÃO 110/220V1 CABO P10/P10 //,2
+BATERIAS 9V, COR PRETA.
+
+PORTEIRO ELETRÔNICO. (VÍDEO PORTEIRO)
+COMPONENTES: DISPLAY, ATÉ 4 CANAIS,
+MICROFONE, TIPO SISTEMA: ELETRÔNICO,
+os 100005264 | APLICAÇÃO: SISTEMA DE SEGURANÇA, FONTE 1 1 ' ' ' ' ' R$ 605,90 R$ 605,90
+ALIMENTAÇÃO: VOLTAGEM 127/220 (BIVOLT),
+COM MONTAGEM NA PAREDE, GARANTIA
+MÍNIMA 12 MESES.
+
+SCANNER DE MESA, BIVOLT, ÁREA PARA
+DIGITALIZAÇÃO COM CAPACIDADE PARA UMA
+FOLHA A4, COM  CAPACIDADE DE
+DIGITALIZAÇÃO — DE —“FOLHAS — AVULSAS,
+DOCUMENTOS E FOTOGRAFIAS, PODENDO
+o7 100001709 REALIZAR AS DIGITALIZAIÇÕES NA COR 2 2 - - - - - R$ 1.931,70 R$ 3.813,50
+COLORIDA OU PRETO E BRANCO, COM
+CONECTIVIDADE POR USB, COM CABO DE
+FORÇA, MANUAL DE INSTRUÇÃO E TODOS OS
+ACESSÓRIOS QUE SE FAÇAM NECESSÁRIOS
+PARA O BOM  FUNCIONAMENTO DO
+EQUIPAMENTO E GARANTIA DE 12 MESES.
+
+SERVIDOR, — CARACTERÍSTICAS GERAIS:
+PROCESSADOR: MÍNIMO 4 NÚCLEOS COM 4
+THREADS DE 2.9 GHZ COM 8MB DE MEMÓRIA
+CACHE. PLACA MÃE:POSSUI NO MÍNIMO 2
+(DOIS) SLOTS DE MEMÓRIA;SUPORTE A
+MEMÓRIAS DDR4 SDRAM 2.66 MHZ OU
+SUPERIOR;OS SLOTS UDIMM  DEVERÃO
+SUPORTAR, NO MÍNIMO, MÓDULOS DE 04
+(QUATRO) GB A 32 (TRINTA E DOIS) GB DE
+MEMÓRIA DDRA4;POSSUIR CHIPSET QUE TENHA
+SUPORTE A TECNOLOGIAS COMPATÍVEIS AO
+PROCESSADOR; POSSUIR, NO MÍNIMO, 01 (UM)
+SLOTS PCIE X16;POSSUIR, NO MÍNIMO, 02
+PORTAS DIGITAIS;DEVE PERMITIR SALVAR AS
+CONFIGURAÇÕES DO BIOS EM UM ARQUIVO E
+os 100006030 | CARREGÁ-LASEM OUTROS EQUIPAMENTOS DO 2 . . . 1 1 . R$5.299,00 | R$10.598,00
+MESMO MODELO, ESTANDO ESTE COM SENHA
+CONFIGURADA NO BIOS OU NÃO, FACILITANDO
+ASSIM A APLACAÇÃO AUTOMATIZADA DE
+CONFIGURAÇÕES E POLÍTICAS DE SEGURANÇA;
+POSSUIR CHIP TPM 2.0, SENDO ACEITO A
+SOLUÇÃO FTPM 2.0.DEVERÁ SER PROJETADA E
+DESENVOLVIDA PELO MESMO FABRICANTE DO
+EQUIPAMENTO OFERTADO, COM SEU NOME
+SERIGRAFADO, NÃO SENDO ACEITO O
+EMPREGO DE PLACAS-MÃE DE LIVRE
+COMERCIALIZAÇÃO.NO
+MERCADO;MEMÓRIA: MÍNIMO DE 8 (OITO) GB
+DE RAM DDRA4 DE 2.666 MHZ ECC, UDIMM, BCC,
+EM DUAL CHANNEL OU SINGLE CHANNEL,
+INSTALADOS;CONTROLADORA DE
+
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+VÍDEO:CONTROLADORA — ONBOARD — COM
+CAPACIDADE PARA CONTROLAR 01 MONITOR
+DE VÍDEO COMPATÍVEL COM PADRÃO VGA,
+HDMI OU DISPLAYPORT;MEMÓRIA DE VÍDEO
+COM ALOCAÇÃO DINÂMICA DA MEMÓRIA RAM
+DO SISTEMA;UNIDADE DE
+DISCO: ARMAZENAMENTO MÍNIMO DE 2TB HDD
+SATA 6GBPS 7.2K RPM; UNIDADE GRAVADOR DE
+DVD/RW — DUAL — LAYER;CONTROLADORA
+RAID:NECESSÁRIO — CONTROLADORA — COM
+SUPORTE A RAID O, 1 E 5;INTERFACES DE
+REDE:MÍNIMO 1 PORTA ETHERNET 1GBE
+AUTOSENSE IEEE 802.3;MÍNIMO DE 1
+CONECTOR RJ-45 COM LEDS DE STATUS DE
+CONEXÃO;PORTAS E
+INTERFACES:CONTROLADORA — DE — DISCO
+PADRÃO MÍNIMO SERIAL ATA 3 DE 6 GB/S;NO
+MÍNIMO 6 (SEIS) INTERFACES USB (UNIVERSAL
+SERIAL BUS) INTERFACE PARA FONE DE OUVIDO
+E MICROFONE FRONTAIS;GABINETE:O
+GABINETE POSSUI LOCAL APROPRIADO, JÁ
+DESENVOLVIDO NO PROJETO DO PRODUTO,
+PARA COLOCAÇÃO DE LACRES OU CADEADOS
+MECÂNICOS OU ELETRÔNICOS NÃO SENDO
+ACEITO ADAPTAÇÕES;O GABINETE POSSUI
+SENSOR DE ABERTURA DA TAMPA PARA
+REGISTRAR O EVENTO NO BIOS;FONTE DE
+ALIMENTAÇÃO:DEVERÁ SER FORNECIDA 01
+(UMA) FONTE DE ALIMENTAÇÃO NECESSÁRIA
+PARA O FUNCIONAMENTO DO COMPUTADOR:A
+POTÊNCIA DA FONTE DE ALIMENTAÇÃO DEVERÁ
+SUPORTAR TODA A CONFIGURAÇÃO DO
+COMPUTADOR; A FONTE DE ALIMENTAÇÃO
+OFERTADA CONTÉM O RECURSO DE FATOR DE
+CORREÇÃO DE ENERGIA ATIVA - “PFC” (POWER
+FACTOR CORRECTION);FAIXA DE TENSÃO DE
+ENTRADA DE 100VAC A 240VAC, COM SELEÇÃO
+AUTOMÁTICA DE TENSÃO, CAPAZ DE
+SUSTENTAR A CONFIGURAÇÃO MÁXIMA DO
+COMPUTADOR;A FONTE DE ALIMENTAÇÃO
+POSSUI CERTIFICAÇÃO 80PLUS COM EFICIÊNCIA
+SUPERIOR A 80%;TECLADO:MÍNIMO DE 102
+TECLAS;PADRÃO — ABNT TIPO || (NBR
+10346/10347); CONECTOR USB;MOUSE
+ÓPTICO:PADRÃO MICROSOFT COM RESOLUÇÃO
+MÍNIMA DE 800 DPI; CONECTOR USB;COM
+CONTROLE DE MOVIMENTAÇÃO DE BARRA DE
+ROLAGEM DE APLICATIVOS;MONITOR:DEVERÁ
+SER DA COR  PREDOMINANTEMENTE
+PRETA;POSSUIR TELA EM LCD ILUMINADO POR
+LED, COM ANTIRREFLEXO;POSSUIR TELA COM
+ÁREA ÚTIL VISÍVEL DE TAMANHO DIAGONAL
+NÃO INFERIOR A 21,5” POLEGADAS; POSSUIR
+ANGULO DE VISÃO COM LIMITE MÍNIMO DE 170
+GRAUS PARA HORIZONTAL E 160 GRAUS PARA
+VERTICAL.POSSUIR — RESOLUÇÃO — MÁXIMA
+SUPORTADA DE NO MÍNIMO 1920X1080 PIXELS;
+BRILHO — NÃO INFERIOR —A 200
+CD/M2;POSSIBILIDADE DE GERAR 16 MILHÕES
+DE CORES OU MAIS; POSSUIR TEMPO DE
+RESPOSTA — DE NO — MÁXIMO 5
+MILISSEGUNDOS;POSSUIR — CONTROLES — DE
+AJUSTE DA IMAGEM COM MENU ON SCREEN;
+DEVE SER PLUG AND PLAY;DEVE POSSUIR
+CERTIFICAÇÃO DE ECONOMIA DE
+ENERGIA;SOFTWARE E
+DOCUMENTAÇÃO:WINDOWS SERVERº 2022
+STANDARD, INSTALAÇÃO DE FÁBRICA, SEM
+CALS, VÁRIAS LÍNGUAS;SERÃO FORNECIDOS
+TODOS OS DRIVERS DO EQUIPAMENTO;OS
+MANUAIS DO EQUIPAMENTO DEVERÃO SER
+FORNECIDOS EM MÍDIA
+ELETRÔNICA;CARACTERÍSTICAS GERAIS:NA
+COMPRA, GARANTIA TOTAL MÍNIMA DE 12
+(DOZE) MESES, COM ATENDIMENTO NO LOCAL
+DA INSTALAÇÃO DO EQUIPAMENTO, NA CIDADE
+DE SALVADOR (BA).TODOS OS EQUIPAMENTOS
+OFERTADOS DEVEM POSSUIR GRADAÇÕES
+NEUTRAS DAS CORES: PRETO, BRANCO OU
+CINZA.OS OBJETOS DEVEM CONTER MANUAL
+OFICIAL DO FABRICANTE ONDE PODERÃO SER
+CONFERIDAS TODAS AS CARACTERÍSTICAS
+TÉCNICAS —EXIGIDAS DE TODOS OS
+COMPONENTES DO EQUIPAMENTO, QUE DE
+FORMA INEQUÍVOCA IDENTIFIQUEM E
+COMPROVEM AS CONFIGURAÇÕES, POSSÍVEIS
+EXPANSÕES E UPGRADES, ATRAVÉS DE
+CERTIFICADOS, EVENTUAIS MANUAIS
+TÉCNICOS, FOLDERS E DEMAIS LITERATURAS
+TÉCNICASEDITADAS PELOS FABRICANTES.
+
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+VIDEOGAME ANO DE LANÇAMENTO NO
+MÍNIMO 2020, SSD: 500GB; 1 (UM) CONTROLE
+WIRELESS (SEM FIO); IMAGEM: 4K; CONEXÕES:
+USB, HDMI; —“CONECTIVIDADE: WIFI,
+BLUETOOTH E ETHERNET; CABOS: HDMI, CABO
+o9 100006589 | pF ENERGIA E USB; ALIMENTAÇÃO: ENERGIA 6 - 1 - 1 1 3 R$3.686,70 | R$22.075,70
+ELÉTRICA, BIVOLT; COM NO MÍNIMO 02 JOGOS
+E COM GARANTIA DE 12 MESES, MANUAL DE
+INSTRUÇÃO E TODOS OS ACESSÓRIOS QUE SE
+FAÇAM NECESSÁRIOS PARA fe]
+BOM FUNCIONAMENTO DO EQUIPAMENTO.
+
+VALOR ESTIMADO TOTAL R$ 225.682,18
+
+OBSERVAÇÕES:
+
+1. A Licitação deverá se dar pelo critério de MENOR PREÇO POR ITEM, neste considerado o VALOR TOTAL DO OBJETO A SER CONTRATADO, constante
+no presente Termo de Referência;
+
+2. Aquisição de diversos itens de tecnologia, conforme condições e exigências estabelecidas neste instrumento;
+
+3. A Planilha Orçamentária ora apresentada serve apenas para cumprimento do quanto determinado pela Lei Federal nº 14.133/2021, notadamente
+quanto ao VALOR DE REFERÊNCIA;
+
+4, Os valores unitários não deverão ultrapassar o VALOR ESTIMADO TOTAL, na forma da Lei Federal nº 14.133/2021;
+
+5. O proponente deverá elaborar a sua proposta escrita de preços de acordo com as exigências constantes no Termo de Referência, expressando os
+valores em moeda nacional — reais e centavos, em duas casas decimais, ficando esclarecido que não serão admitidas propostas alternativas.
+
+31
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+EDITAL DE LICITAÇÃO
+Pregão Eletrônico nº 003/2025
+Processo Administrativo nº 79150/2024
+
+ANEXO |l
+
+MODELO DE PROPOSTA DE PREÇOS
+
+IPREFEITURA MUNICIPAL DO SALVADOR — PMIS
+ISECRETARIA DE PROMOÇÃO SOCIAL, COMBATE À POBREZA, ESPORTES E LAZER — SEMPRE
+INOME/CONTATO:
+
+PREGÃO N. º 003/2025
+RAZÃO SOCIAL DO FORNECEDOR
+
+E ET
+
+VALOR VALOR
+
+ITEM CODIGO DESCRIÇÃO MINIMA DOS ITENS UN UNITÁRIO TOTAL
+
+COMPUTADOR (DESKTOP-BÁSICO) PROCESSADOR: NO MÍNIMO INTEL CORE |3
+OU AMD A10, OU SUPERIORES, DISCO RÍGIDO: MÍNIMO DE 500 GB, MEMÓRIA
+RAM: 4GB, DDR3, MÍNIMA 2,41MHZ, UNIDADE DE DISCO ÓTICO: CD/DVD
+ROM,CAIXA DE SOM STÉREO TECLADO: USB, ABNT2, 107 TECLAS (COM FIO),
+TIPO DE MONITOR: 18,5 (1366 X 768), MOUSE: USB, 800 DPI, 2 BOTÕES, SCROOL
+(COM FIO), INTERFACES DE REDE: 10/100/1000 E WIFI, INTERFACES DE VÍDEO:
+INTEGRADA, SISTEMA OPERACIONAL: WINDOWS 11 PRO (64 BITS), FONTE:
+COMPATÍVEL COM O ITEM, 1TB GARANTIA: MÍNIMA DE 12 MESES.
+
+DATA SHOW (PROJETOR) PROJETOR MULTIMÍDIA NÃO INFERIOR A 3600 ANSI
+LUMENS - COM RESOLUÇÃO NATIVA (SEM EMULAÇÃO) DE (XGA) 1024 X 768,
+PERMITINDO OUTRAS RESOLUÇÕES EMULADAS, CONTRASTE DE 16.000:1,
+PROJEÇÃO MÍNIMA DE 1,48 * 1,77 M, VIDA ÚTIL DE LÂMPADA NO MÍNIMO DE
+6.000 HORAS (PADRÃO) E 12.000 HORAS (ECO), COM MODO DE PROJEÇÃO
+FRONTAL / TRASEIRO / TETO, COM ZOOM E FOCO AJUSTÁVEIS, COM BOTÕES
+FÍSICOS E CONTROLE REMOTO, ENTRADAS: VGA, USB, HDMI, ÁUDIO, RCA,
+RS5232, USB MINI, GARANTIA MÍNIMA DE 12 MESES PELO FABRICANTE. ITENS
+INCLUSOS: - PROJETOR DEVIDAMENTE ACONDICIONADO; - CABO DE ENERGIA; -
+CABO HDMI; - CABO VGA; - CONTROLE REMOTO; - PILHAS; - CD COM SOFTWARE;
+- CARTÃO COM GARANTIA; - MANUAL EM PORTUGUÊS; ALIMENTAÇÃO —
+ENERGIA ELETRICA, BIVOLT
+
+IMPRESSORA LASER COLORIDA (IMPRESSORA, COPIADORA E SCANNER) 110
+VOLTS, ENTRADA USB, MEMÓRIA INTERNA MÍNIMA DE 128 MB, TIPO DE PAPEL:
+A4, TIMBRADO, SULFITE, ETIQUETAS. COM CAPACIDADE PARA IMPRESSÃO
+o3 100003871 | DUPLEX (FRENTE E VERSO), REALIZE IMPRESSORES COLORIDAS COM CABO DE | 11 | R$ R$
+FORÇA E COM TODOS OS EQUIPAMENTOS QUE SE FAÇAM NECESSÁRIOS PARA O
+PLENO FUNCIONAMENTO DO EQUIPAMENTO, COM MANUAL DE INSTRUÇÃO,
+GARANTIA MÍNIMA DE 12 MESES.
+
+IMPRESSORA MULTIFUNCIONAL LASER COLORIDA, CARACTERÍSTICAS GERAIS:
+IMPRESSÃO: PADRÃO DE IMPRESSÃO DUPLEX (FRENTE E VERSO) IMPRESSÃO
+COLORIDA TECNOLOGIA DE IMPRESSÃO: LASER COLORIDO VELOCIDADE MÁX.
+DE IMPRESSÃO: ATÉ 33 PPM EM PRETO/CORES RESOLUÇÃO DA IMPRESSÃO
+(MÁXIMA EM DPI): ATÉ 2400 X 600 DPI RESOLUÇÃO (MÁXIMA) EM DPI: ATÉ 2400
+X 600 DPI.CAPACIDADE DE ENTRADA DE PAPEL PADRÃO (FOLHAS): BANDEJA
+PARA ATÉ 250 FOLHAS CAPACIDADE DA BANDEJA DE PAPEL: BANDEJA PARA ATÉ
+250 FOLHAS.CAPACIDADE DE BANDEJA ADICIONAL:BANDEIJA MULTIUSO:
+o4 100001537 | BANDEJA MULTIUSO PARA 50 FOLHAS OU MAIS;COMPATIBILIDADE COM O | 6 | R$ R$
+DRIVER DE IMPRESSORA: WINDOWS, MAC OS, LINUX CICLO DE TRABALHO
+MENSAL MÁX.: 40,000 PÁGINAS.CÓPIA:CÓPIAS MÚLTIPLAS RESOLUÇÃO DE
+CÓPIA (MÁXIMA): 1200 X 600 DPI OPÇÕES DE CÓPIA: ORDENADAS, N EM 1,
+CÓPIAS MÚLTIPLAS CÓPIA EM CORES/PB: PRETO/CORES COPIA SEM USO DO PC,
+CAPACIDADE DE CÓPIA: PRETO/CORES, CAPACIDADE MÁX. DO ALIMENTADOR
+AUTOMÁTICO DE DOCUMENTOS (ADF): ATÉ 50 PÁGINAS VELOCIDADE MÁX. DE
+CÓPIA EM PRETO (CPM): ATÉ 33 COM, FUNÇÃO DE CÓPIAS ORDENADAS,
+TAMANHO DO VIDRO DE DOCUMENTOS: 21,6 X 27,9 CM (CARTA) TAMANHO DO
+
+ol 100006586 25 | R$ R$
+
+o2 100006440 10 | R$ R$
+
+32
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+VIDRO DE EXPOSIÇÃO: 21,6 X 27,9 CM (CARTA) CÓPIA DUPLEX (FRENTE E VERSO).
+SCANNER:RESOLUÇÃO DE DIGITALIZAÇÃO INTERPOLADA (DPI): ATÉ 19200 X
+19200 DPI RESOLUÇÃO INTERPOLADA: ATÉ 19200 X 19200 DPI.RESOLUÇÃO MÁX.
+DE DIGITALIZAÇÃO INTERPOLADA (DPI): ATÉ 19200 X 19200 DPI.RESOLUÇÃO DE
+DIGITALIZAÇÃO ÓPTICA (DPI): ATÉ 1200 X 2400 DPI (DO VIDRO DE
+DOCUMENTOS) FORMATOS (EXPORTAÇÃO): WINDOWS BITMAP (BMP), JPEG
+(IPG), TIFFE SINGLE-PAGE/MULTI-PAGE (TIF), PORTABLE NETWORK GRAPHICS
+(PNG), PDF SINGLE-PAGE/MULTI-PAGE (PDF/A, HIGH COMPRESSION PDF,
+SECURE PDF, SEARCHABLE PDF), XML PAPER SPECIFICATION (XPS), MICROSOFT
+OFFICE WORD (DOCX), MICROSOFT OFFICE POWERPOINT (PPTX), MICROSOFT
+OFFICE EXCEL (XLSX), HTML 3.2/4.0 (HTM), MICROSOFT EXCEL 2003 XP (XLS), RTF
+WORD 2000/WORDPAD (RTF), WORDPERFECT 9/10 (WPD), TEXT (TXT).FUNÇÃO
+DIGITALIZAÇÃO PARA: ARQUIVO, IMAGEM, E-MAIL, OCR, FTP, SERVIDOR SSH
+(SFTP), USB, SHAREPOINT, NUVEM (WEB CONNECT), SERVIDOR DE E-MAILI,
+PASTA DE REDE (SOMENTE CIFS WINDOWS), EASY SCAN TO E
+MAIL.PAPEL:CAPACIDADE DE ENTRADA: ATÉ 100 FOLHAS. CAPACIDADE DE
+ENTRADA PADRÃO (CARTÕES): ATÉ 30 CARTÕES CAPACIDADE DE ENTRADA
+PADRÃO(ENVELOPES): ATÉ 10 CAPACIDADE DE SAÍDA: ATÉ 30 FOLHAS.
+TAMANHOS DE MÍDIA SUPORTADOS (SISTEMA MÉTRICO): A4; B5; A6; ENVELOPE
+DL, OFÍCIO TAMANHOS DE MÍDIA COMPATÍVEIS (PADRÃO DOS EUA): CARTA;
+OFÍCIO; 4 X 6 POL.; 5 X 7 POL.; 8 X 10 POL.; ENVELOPES NÚM. 10. TAMANHOS DE
+MÍDIA, PERSONALIZADOS (SISTEMA MÉTRICO): 76,2 X 127 A 215,9 X 355,6 MM
+TAMANHOS DE MÍDIA, PERSONALIZADOS (PADRÃO DOS EUA): 3 X 5 A 8,5 X 14
+POL.TIPOS DE SUPORTES: PAPEL COMUM, PAPÉIS FOSCOS PARA FOLHETOS,
+PAPÉIS BRILHANTES PARA FOLHETOS, PAPÉIS FOTOGRÁFICOS, ENVELOPES,
+OUTROS PAPÉIS ESPECIAIS P/ JATO DE TINTA GRAMATURA DE MÍDIA
+COMPATÍVEL (SISTEMA MÉTRICO): PAPEL COMUM: 60 A 90 G/M?; ENVELOPES:
+75 A 90 G/M?; CARTÕES: ATÉ A 200 G/M 2; PAPEL FOTOGRÁFICO: ATÉ 300 G/M
+2, GRAMATURA DE MÍDIA COMPATÍVEL (PADRÃO DOS EUA): 20 LB. IMPRESSÃO
+SEM MARGENS: SIM (ATÉ 85 X 11 POLEGADAS, 210 X 297 MM)
+CONECTIVIDADE:PORTAS: USB 2.0, ETHERNET GIGABIT, WI-FI, BLUETOOTH
+LE,CAPACIDADE SEM FIOS: SIM, WI-FI 802.11 B/G/N COM BANDA DUPLA
+INTEGRADO, WIRELESS DIRECT, GERAL:VOLTAGEM DE ENTRADA: 100-127 VAC,
+50/60 HZ, AUTOMÁTICA; COMPATIBILIDADE COM LINUX E WINDOWS;SUPORTE
+PROTOCOLO DHCP;CONECTIVIDADE: USB 2.0, WIRELESS 802.11 (INTERNO OU
+EXTERNO DO MESMO  FABRICANTE DO  EQUIPAMENTO) OU
+SUPERIOR.MEMORIA INTERNA MINIMA DE 128 MB; GARANTIA DE SUPORTE E
+MANUTENÇÃO:NA COMPRA, GARANTIA TOTAL MÍNIMA DE 12 (DOZE) MESES,
+COM ATENDIMENTO NO LOCAL DA INSTALAÇÃO DO EQUIPAMENTO, NA CIDADE
+DE SALVADOR (BA).TODOS OS EQUIPAMENTOS OFERTADOS DEVEM POSSUIR
+GRADAÇÕES NEUTRAS DAS CORES: PRETO, BRANCO OU CINZA.CATÁLOGOS,
+SOFTWARE DE INSTALAÇÃO, CABOS DE FORÇA, CABOS DE INTERFACE
+E DEMAISACESSÓRIOS.QUE ACOMPANHAM O EQUIPAMENTO, TODOS
+CONFORME NORMAS TÉCNICAS VIGENTES.COMPOSIÇÃO E
+ACESSÓRIOS:CATÁLOGOS, SOFTWARE DE INSTALAÇÃO, CABO DE ALIMENTAÇÃO
+(PADRÃO NBR-14136), CABO USB, FRASCO DE TINTA PARA, SENDO ACEITOS OS
+SUPRIMENTOS QUE ACOMPANHAM A IMPRESSORA DE FÁBRICA, E DEMAIS
+ACESSÓRIOS QUE ACOMPANHAM O EQUIPAMENTO;TODOS OS EQUIPAMENTOS
+A SEREM ENTREGUES DEVERÃO SER IDÊNTICOS, OU SEJA, TODOS OS
+COMPONENTES EXTERNOS E INTERNOS DE MESMOS MODELOS E MARCAS DOS
+UTILIZADOS NOS EQUIPAMENTOS ENVIADOS PARA AVALIAÇÃO E/OU
+HOMOLOGAÇÃO PELA CONTRATANTE. CASO O COMPONENTE NÃO MAIS SE
+ENCONTRE DISPONÍVEL NO MERCADO, ADMITEM-SE SUBSTITUTOS COM
+QUALIDADE E CARACTERÍSTICAS IDÊNTICAS OU SUPERIORES, MEDIANTE NOVA
+HOMOLOGAÇÃO PELA CONTRATANTE;AS UNIDADES DO EQUIPAMENTO
+DEVERÃO SER ENTREGUES DEVIDAMENTE ACONDICIONADAS EM EMBALAGENS
+INDIVIDUAIS ADEQUADAS, QUE UTILIZEM PREFERENCIALMENTE MATERIAIS
+RECICLÁVEIS, DE FORMA A GARANTIR AÀ MÁXIMA PROTEÇÃO DURANTE O
+TRANSPORTE E A ARMAZENAGEM.DOCUMENTOS:DE GARANTIA TOTAL DE
+TODOS OS COMPONENTES DO EQUIPAMENTO; OS OBJETOS DEVEM CONTER
+MANUAL OFICIAL DO FABRICANTE ONDE PODERÃO SER CONFERIDAS TODAS AS
+CARACTERÍSTICAS TÉCNICAS EXIGIDAS DE TODOS OS COMPONENTES DO
+EQUIPAMENTO, QUE DE FORMA INEQUÍVOCA IDENTIFIQUEM E COMPROVEM
+AS CONFIGURAÇÕES, POSSÍVEIS EXPANSÕES E UPGRADES, ATRAVÉS DE
+CERTIFICADOS, EVENTUAIS MANUAIS TÉCNICOS, FOLDERS E DEMAIS
+LITERATURAS TÉCNICAS EDITADAS PELOS FABRICANTES.
+
+os5
+
+100004011
+
+MICROFONE SEM FIO; FAIXA DE FREQUÊNCIA DE PORTADORA: UHF730-
+830MHZ, ESTABILIDADE DE FREQUÊNCIA: <+ 30PPM, FAIXA DE ESTABILIDADE
+
+R$
+
+R$
+
+33
+
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+MÓVEL: >90 DB, MODO DE MODULAÇÃO: FM, RESPOSTA EM FREQUÊNCIA: 40
+HZ * 20KHZ, RELAÇÃO SINAL/RUÍDO: &H8805;5DBU (SINAD = 20DB, RELAÇÃO
+F/N: >80 DB, RELAÇÃO P/N: >80 DB, SAÍDA DE ÁUDIO: O * 700 MW, ALCANCE:
+50 M, TEMPERATURA DE OPERAÇÃO: -10 ºC * +50 º“C, 2 MICROFONES, BASE
+RECEPTORA DUPLA, 1 FONTE DE ALIMENTAÇÃO 110/220V1 CABO P10/P10 //,
+2 BATERIAS 9V, COR PRETA.
+
+o6
+
+PORTEIRO ELETRÔNICO. (VÍDEO PORTEIRO) COMPONENTES: DISPLAY, ATÉ 4
+CANAIS, MICROFONE, TIPO SISTEMA: ELETRÔNICO, APLICAÇÃO: SISTEMA DE
+SEGURANÇA, FONTE ALIMENTAÇÃO: VOLTAGEM 127/220 (BIVOLT), COM
+MONTAGEM NA PAREDE, GARANTIA MÍNIMA 12 MESES.
+
+100005264
+
+R$
+
+R$
+
+o7
+
+SCANNER DE MESA, BIVOLT, ÁREA PARA DIGITALIZAÇÃO COM CAPACIDADE
+PARA UMA FOLHA A4, COM CAPACIDADE DE DIGITALIZAÇÃO DE FOLHAS
+AVULSAS, DOCUMENTOS E FOTOGRAFIAS, PODENDO REALIZAR AS
+100001709 DIGITALIZAÇÕES NA COR COLORIDA OU PRETO E BRANCO, COM CONECTIVIDADE
+POR USB, COM CABO DE FORÇA, MANUAL DE INSTRUÇÃO E TODOS OS
+ACESSÓRIOS QUE SE FAÇAM NECESSÁRIOS PARA O BOM FUNCIONAMENTO DO
+EQUIPAMENTO E GARANTIA DE 12 MESES.
+
+R$
+
+R$
+
+o8
+
+SERVIDOR, CARACTERÍSTICAS GERAIS: PROCESSADOR: MÍNIMO 4 NÚCLEOS
+COM 4 THREADS DE 2.9 GHZ COM 8MB DE MEMÓRIA CACHE. PLACA
+MÃE:POSSUI NO MÍNIMO 2 (DOIS) SLOTS DE MEMÓRIA;SUPORTE A MEMÓRIAS
+DDR4 SDRAM 2.66 MHZ OU SUPERIOR;OS SLOTS UDIMM DEVERÃO SUPORTAR,
+NO MÍNIMO, MÓDULOS DE 04 (QUATRO) GB A 32 (TRINTA E DOIS) GB DE
+MEMÓRIA DDRA4;POSSUIR CHIPSET QUE TENHA SUPORTE A TECNOLOGIAS
+COMPATÍVEIS AO PROCESSADOR; POSSUIR, NO MÍNIMO, 01 (UM) SLOTS PCIE
+X16;POSSUIR, NO MÍNIMO, 02 PORTAS DIGITAIS;DEVE PERMITIR SALVAR AS
+CONFIGURAÇÕES DO BIOS EM UM ARQUIVO E CARREGÁ-LAS EM OUTROS
+EQUIPAMENTOS DO MESMO MODELO, ESTANDO ESTE COM SENHA
+CONFIGURADA NO BIOS OU NÃO, FACILITANDO ASSIM A APLACAÇÃO
+AUTOMATIZADA DE CONFIGURAÇÕES E POLÍTICAS DE SEGURANÇA; POSSUIR
+CHIP TPM 2.0, SENDO ACEITO A SOLUÇÃO FTPM 2.0.DEVERÁ SER PROJETADA E
+DESENVOLVIDA PELO MESMO FABRICANTE DO EQUIPAMENTO OFERTADO, COM
+SEU NOME SERIGRAFADO, NÃO SENDO ACEITO O EMPREGO DE PLACAS-MÃE DE
+LIVRE COMERCIALIZAÇÃO.NO MERCADO;MEMÓRIA:MÍNIMO DE 8 (OITO) GB DE
+RAM DDRA4 DE 2.666 MHZ ECC, UDIMM, BCC, EM DUAL CHANNEL OU SINGLE
+CHANNEL, INSTALADOS;CONTROLADORA DE VÍDEO:CONTROLADORA ONBOARD
+COM CAPACIDADE PARA CONTROLAR 01 MONITOR DE VÍDEO COMPATÍVEL COM
+PADRÃO VGA, HDMI OU DISPLAYPORT; MEMÓRIA DE VÍDEO COM ALOCAÇÃO
+DINÂMICA DA MEMÓRIA RAM DO SISTEMA;UNIDADE DE
+DISCO: ARMAZENAMENTO MÍNIMO DE 2TB HDD SATA 6GBPS 7.2K RPM;
+UNIDADE GRAVADOR DE DVD/RW DUAL  LAYER;CONTROLADORA
+RAID: NECESSÁRIO CONTROLADORA COM SUPORTE A RAID O, 1 E 5;|NTERFACES
+DE REDE:MÍNIMO 1 PORTA ETHERNET 1GBE AUTOSENSE IEEE 802.3;MÍNIMO DE
+100006030 1 CONECTOR RJ)-45 COM LEDS DE STATUS DE CONEXÃO;PORTAS E
+INTERFACES:CONTROLADORA DE DISCO PADRÃO MÍNIMO SERIAL ATA 3 DE 6
+GB/S;NO MÍNIMO 6 (SEIS) INTERFACES USB (UNIVERSAL SERIAL BUS) INTERFACE
+PARA FONE DE OUVIDO E MICROFONE FRONTAIS;GABINETE:O GABINETE POSSUI
+LOCAL APROPRIADO, JÁ DESENVOLVIDO NO PROJETO DO PRODUTO, PARA
+COLOCAÇÃO DE LACRES OU CADEADOS MECÂNICOS OU ELETRÔNICOS NÃO
+SENDO ACEITO ADAPTAÇÕES;O GABINETE POSSUI SENSOR DE ABERTURA DA
+TAMPA PARA REGISTRAR O EVENTO NO BIOS;FONTE DE ALIMENTAÇÃO: DEVERÁ
+SER FORNECIDA 01 (UMA) FONTE DE ALIMENTAÇÃO NECESSÁRIA PARA O
+FUNCIONAMENTO DO COMPUTADOR:A POTÊNCIA DA FONTE DE ALIMENTAÇÃO
+DEVERÁ SUPORTAR TODA A CONFIGURAÇÃO DO COMPUTADOR; A FONTE DE
+ALIMENTAÇÃO OFERTADA CONTÉM O RECURSO DE FATOR DE CORREÇÃO DE
+ENERGIA ATIVA - “PFC” (POWER FACTOR CORRECTION);FAIXA DE TENSÃO DE
+ENTRADA DE 100VAC A 240VAC, COM SELEÇÃO AUTOMÁTICA DE TENSÃO,
+CAPAZ DE SUSTENTAR A CONFIGURAÇÃO MÁXIMA DO COMPUTADOR;A FONTE
+DE ALIMENTAÇÃO POSSUI CERTIFICAÇÃO 80PLUS COM EFICIÊNCIA SUPERIOR A
+80%;TECLADO:MÍNIMO DE 102 TECLAS;PADRÃO ABNT TIPO 1l (NBR
+10346/10347); CONECTOR USB;MOUSE ÓPTICO:PADRÃO MICROSOFT COM
+RESOLUÇÃO MÍNIMA DE 800 DPI; CONECTOR USB;COM CONTROLE DE
+MOVIMENTAÇÃO DE BARRA DE ROLAGEM DE APLICATIVOS; MONITOR:DEVERÁ
+SER DA COR PREDOMINANTEMENTE PRETA;POSSUIR TELA EM LCD ILUMINADO
+POR LED, COM ANTIRREFLEXO;POSSUIR TELA COM ÁREA ÚTIL VISÍVEL DE
+TAMANHO DIAGONAL NÃO INFERIOR A 21,5” POLEGADAS; POSSUIR ANGULO DE
+VISÃO COM LIMITE MÍNIMO DE 170 GRAUS PARA HORIZONTAL E 160 GRAUS
+PARA VERTICAL.POSSUIR RESOLUÇÃO MÁXIMA SUPORTADA DE NO MÍNIMO
+1920X1080 PIXELS; BRILHO NÃO INFERIOR A 200 CD/M2;POSSIBILIDADE DE
+
+R$
+
+R$
+
+34
+
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+GERAR 16 MILHÕES DE CORES OU MAIS; POSSUIR TEMPO DE RESPOSTA DE NO
+MÁXIMO 5 MILISSEGUNDOS;POSSUIR CONTROLES DE AJUSTE DA IMAGEM COM
+MENU ON SCREEN; DEVE SER PLUG AND PLAY;DEVE POSSUIR CERTIFICAÇÃO DE
+ECONOMIA DE ENERGIA;SOFTWARE E DOCUMENTAÇÃO:WINDOWS SERVERº
+2022 STANDARD, INSTALAÇÃO DE FÁBRICA, SEM CALS, VÁRIAS LÍNGUAS;SERÃO
+FORNECIDOS TODOS OS DRIVERS DO EQUIPAMENTO;OS MANUAIS DO
+EQUIPAMENTO DEVERÃO SER FORNECIDOS EM MÍDIA
+ELETRÔNICA;CARACTERÍSTICAS GERAIS:NA COMPRA, GARANTIA TOTAL MÍNIMA
+DE 12 (DOZE) MESES, COM ATENDIMENTO NO LOCAL DA INSTALAÇÃO DO
+EQUIPAMENTO, NA CIDADE DE SALVADOR (BA).TODOS OS EQUIPAMENTOS
+OFERTADOS DEVEM POSSUIR GRADAÇÕES NEUTRAS DAS CORES: PRETO,
+BRANCO OU CINZA.OS OBJETOS DEVEM CONTER MANUAL OFICIAL DO
+FABRICANTE ONDE PODERÃO SER CONFERIDAS TODAS AS CARACTERÍSTICAS
+TÉCNICAS EXIGIDAS DE TODOS OS COMPONENTES DO EQUIPAMENTO, QUE DE
+FORMA INEQUÍVOCA IDENTIFIQUEM E COMPROVEM AS CONFIGURAÇÕES,
+POSSÍVEIS EXPANSÕES E UPGRADES, ATRAVÉS DE CERTIFICADOS, EVENTUAIS
+MANUAIS TÉCNICOS, FOLDERS E DEMAIS LITERATURAS TÉCNICASEDITADAS
+PELOS FABRICANTES.
+
+VIDEOGAME ANO DE LANÇAMENTO NO MÍNIMO 2020, SSD: 500GB; 1 (UM)
+CONTROLE WIRELESS (SEM FIO); IMAGEM: 4K; CONEXÕES:
+USB, HDMI; CONECTIVIDADE: WIFI, BLUETOOTH E ETHERNET; CABOS: HDMI,
+o9 100006589 CA,BO DE ENERGIA E USB; ALIMENTAÇÃO: ENERGIA ELÉTRICA, BIVOLT; COMNNO 6 R$ R$
+
+MINIMO 02 JOGOS E COM GARANTIA DE 12 MESES, MANUAL DE INSTRUÇÃO E
+TODOS OS ACESSÓRIOS QUE SE FAÇAM NECESSÁRIOS PARA O BOM
+FUNCIONAMENTO DO EQUIPAMENTO.
+
+VALOR TOTAL (reais e centavos...) | R$
+
+OBSERVAÇÕES: Declaro que no preço cotado estão inclusas todas as despesas, tais como frete, seguro, taxas, tributos e outros gravames
+que possam incidir sobre o objeto licitado, bem como o produto será entregue no estabelecimento do contratante, sem ônus
+(CIF/Salvador).
+
+SOLICITANTE/PROCESSO VALIDADE DA PROPOSTA PRAZO DE ENTREGA
+
+FORNECEDOR DATA / ASSINATURA
+CARIMBO CNPJ
+
+35
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+EDITAL DE LICITAÇÃO
+Pregão Eletrônico nº 003/2025
+Processo Administrativo nº 79150/2024
+
+ANEXO |ll
+
+MODELO
+DECLARAÇÕES A SEREM APRESENTADAS JUNTAMENTE COM A PROPOSTA
+
+(Nome da pessoa física/jurídica) , inscrita no
+CNPJ/MF sob o nº , sediada à , por intermédio de seu
+representante legal, o(a) Sr. , portador(a) da Carteira de
+Identidade nº e CPF nº DECLARA, para todos os efeitos legais que:
+
+A - DECLARAÇÃO NEGATIVA DE RELAÇÃO FAMILIAR OU PARENTESCO
+( ) 1. Não possui sócio (s) ou, no caso de sociedade anônima, diretor (es) que seja (m):
+
+a) cônjuge (s), companheiro (s) ou tenha (m) parentesco em linha reta, colateral ou por afinidade, até o terceiro
+grau, ou que tenham ocupado os mencionados cargos/funções, nos 6 (seis) meses anteriores à data de abertura
+da sessão pública do procedimento licitatório;
+
+b) cônjuge (s), companheiro (s) ou tenha (m) parentesco em linha reta, colateral ou por afinidade, até o terceiro
+grau, inclusive, com servidores ocupantes de cargos de direção, chefia e assessoramento vinculados direta ou
+indiretamente às unidades situadas na linha hierárquica da área encarregada da licitação deste Poder
+Administrativo, ou que tenham ocupado os mencionados cargos, nos 6 (seis) meses anteriores à data de abertura
+da sessão pública do procedimento licitatório;
+
+( ) 2. Está ciente da vedação:
+
+a) da subcontratação, quando autorizada pelo CONTRATANTE, de pessoa física ou jurídica se aquela ou os
+dirigentes desta mantiverem vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil
+com servidor ocupante de cargo de direção, chefia ou assessoramento vinculado direta ou indiretamente a
+unidade situada na linha hierárquica da área encarregada da licitação, ou se deles forem companheiro ou parente
+em linha reta, colateral ou por afinidade até o terceiro grau inclusive; e
+
+b) da manutenção, aditamento ou prorrogação de contrato de prestação de serviços, caso a CONTRATADA venha
+a contratar empregados que sejam cônjuges, companheiros ou parentes em linha reta, colateral ou por
+afinidade, até o terceiro grau, inclusive, de ocupantes de cargos de direção e de assessoramento vinculados ao
+CONTRATANTE.
+
+( ) 3. São verdadeiras as informações prestadas no presente documento, sob pena de responsabilidade civil,
+administrativa e penal.
+
+B - DECLARAÇÃO DE CUMPRIMENTO DA LEI GERAL DE PROTEÇÃO DE DADOS LEI Nº 13.709/2018
+
+( ) 1. É vedada às partes a utilização de todo e qualquer dado pessoal repassado em decorrência da execução
+contratual para finalidade distinta daquela do objeto da contratação, sob pena de responsabilização
+administrativa, civil e criminal.
+
+( ) 2. As partes se comprometem a manter sigilo e confidencialidade de todas as informações — em especial os
+dados pessoais e os dados pessoais sensíveis — repassadas em decorrência da execução contratual, em
+consonância com o disposto na Lei n. 13.709/2018, sendo vedado o repasse das informações a outras empresas
+ou pessoas, salvo aquelas decorrentes de obrigações legais ou para viabilizar o cumprimento do
+Edital/instrumento contratual.
+
+36
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+() 3. As partes responderão administrativa e judicialmente, caso causarem danos patrimoniais, morais,
+individual ou coletivo, aos titulares de dados pessoais, repassados em decorrência da execução contratual, por
+inobservância à LGPD.
+
+( ) 4. Em atendimento ao disposto na Lei n. 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD), o
+CONTRATANTE, para a execução do serviço objeto deste Edital, terá acesso aos dados pessoais dos
+representantes da LICITANTE/CONTRATADA, tais como: número do CPF e do RG, endereços eletrônico e
+residencial e cópia do documento de identificação.
+
+( ) 5. A LICITANTE/CONTRATADA declara que tem ciência da existência da Lei Geral de Proteção de Dados
+Pessoais (LGPD) e, se compromete a adequar todos os procedimentos internos ao disposto na legislação, com
+intuito de proteção dos dados pessoais repassados pelo CONTRATANTE.
+
+( ) 6. A LICITANTE/CONTRATADA fica obrigada a comunicar ao CONTRATANTE, em até 24 (vinte e quatro) horas,
+qualquer incidente de acessos não autorizados aos dados pessoais, situações acidentais ou ilícitas de destruição,
+perda, alteração, comunicação ou qualquer forma de tratamento inadequado ou ilícito que possa vir causar
+risco ou dano relevante aos Titulares de Dados Pessoais, apresentando as informações descritas nos incisos do
+
+$ 1º do art. 48 da LGPD, cabendo ao CONTRATANTE as demais obrigações de comunicação previstas no referido
+artigo.
+
+( ) 7. O canal de comunicação em caso de incidentes de segurança será o Comitê Gestor de Dados Pessoais.
+
+C- DECLARAÇÃO DE INTEGRALIDADE DOS CUSTOS
+
+( ) A LICITANTE/CONTRATADA declara que suas propostas econômicas compreendem a integralidade dos custos
+para atendimento dos direitos trabalhistas assegurados na Constituição Federal, nas leis trabalhistas, nas normas
+infralegais, nas convenções coletivas de trabalho e nos termos de ajustamento de conduta vigentes na data de
+entrega das propostas.
+
+D - DECLARAÇÃO DE RESERVA DE CARGOS
+
+( ) A LICITANTE/CONTRATADA declara que cumprirá, caso aplicável, as exigências de reserva de cargos para
+pessoa com deficiência e para reabilitado da Previdência Social, previstas em lei e em outras normas.
+
+E - DECLARAÇÃO DE QUE PODE USUFRUIR DOS BENEFÍCIOS DE ME E EPP (Assinalar se for ME/EPP)
+
+( ) A LICITANTE/CONTRATADA declara, para todos os efeitos legais, que, no ano-calendário de realização da
+licitação, não celebrou contratos com a Administração Pública cujos valores somados extrapolem a receita bruta
+máxima admitida para fins de enquadramento como empresa de pequeno porte, para fins de obtenção dos
+benefícios previstos dos artigos 42 a 49 da Lei Complementar nº 123/2006.
+
+F - DECLARAÇÃO DE ATENDIMENTO AO INCISO XXXIII DO ART. 7º. DA CONSTITUIÇÃO FEDERAL
+
+( ) Declaramos, para os fins do disposto no inciso VI do art. 68 da Lei nº14.133/2021, que não empregamos
+menor de 18 (dezoito) anos em trabalho noturno, perigoso ou insalubre e não empregamos menor de 16
+(dezesseis) anos.
+
+Ressalva: emprega menor, a partir de 14 (quatorze) anos, na condição de aprendiz ( ).
+Observação: em caso afirmativo, assinalar a ressalva acima.
+G - DECLARAÇÃO DE PLENO CONHECIMENTO DO EDITAL E ANEXOS
+
+() A LICITANTE, em atendimento ao disposto no Edital, declara para os devidos fins, que tem pleno
+conhecimento do Edital nº 003/2025 e seus Anexos e todas as informações e condições para o cumprimento
+das obrigações objeto desta licitação.
+
+H - DECLARAÇÃO DE CONTRATOS FIRMADOS COM A INICIATIVA PRIVADA E AÀ ADMINISTRAÇÃO PÚBLICA.
+
+() A LICITANTE/CONTRATADA declara que a possui os seguintes contratos firmados com a iniciativa privada e a
+administração pública:
+
+37
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+NOME DO ORGÃO /
+EMPRESA
+
+VIGÊNCIA DO CONTRATO
+
+VALOR TOTAL DO CONTRATO
+
+VALOR TOTAL DOS CONTRATOS (R$)
+
+Local, data ...... UAA A
+
+Assinatura e nome legível da pessoa física/jurídica
+
+(Sócio responsável pela empresa)
+
+38
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+EDITAL DE LICITAÇÃO
+Pregão Eletrônico nº 003/2025
+Processo Administrativo nº 79150/2024
+
+ANEXO IV
+
+MODELO DE PROCURAÇÃO PARA A PRÁTICA DE ATOS CONCERNENTES AO CERTAME
+
+PREGÃO ELETRÔNICO Nº 003/2025
+
+Através do  presente instrumento,y nomeamos e  constituímos o (a) Senhor(a)
+
+(
+
+nacionalidade, estado civil,profissão), portador do Registro de Identidade nº ...l , expedido
+pela .......e1ee , devidamente inscrito no Cadastro de Pessoas Físicas do Ministério da Fazenda, sob o
+Nº ....., residente à FUa .n , Nnº como nosso mandatário, a
+
+quem outorgamos amplos poderes para praticar todos os atos relativos ao procedimento licitatório
+indicado acima, conferindo-lhe poderes para: apresentar proposta de preços, interpor recursos e
+desistir deles, contra- arrazoar, assinar contratos, negociar preços e demais condições, confessar,
+firmar compromissos ou acordos, receber e dar quitação e praticar todos os demais atos pertinentes
+ao certame etc.
+
+(Local e data)
+
+(Assinatura do representante legal)
+
+*OBSERVAÇÃO: DECLARAÇÃO EM PAPEL TIMBRADO DO LICITANTE
+
+39
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+EDITAL DE LICITAÇÃO
+Pregão Eletrônico nº 003/2025
+Processo Administrativo nº 79150/2024
+
+ANEXO V
+MINUTA DE CONTRATO
+
+CONTRATO ADMINISTRATIVO Nº 000/2025, QUE ENTRE SI
+CELEBRAM O MUNICIPIO DE SALVADOR, POR INTERMÉDIO
+DA SECRETARIA MUNICIPAL DE PROMOÇÃO SOCIAL,
+COMBATE À POBREZA, ESPORTES E LAZER — SEMPRE E
+A EMPRESA XXXXXXXX, COM BASE NO PREGÃO Nº
+003/2025, ORIUNDO DO PROCESSO Nº 79150/2024.
+
+O Município do Salvador, através da SECRETARIA DE PROMOÇÃO SOCIAL, COMBATE À POBREZA, ESPORTES E LAZER -
+SEMPRE, com sede à Rua Miguel Calmon, nº 28, Comércio, Salvador/BA, CEP 40.015-010, CNPJ/MF n º 13.927.801/0017-
+O6, neste ato representada por seu Secretário Sr. ANTÔNIO JOSÉ DA CRUZ JUNIOR MAGALHÃES, brasileiro, residente e
+domiciliado em Salvador/BA, portador do RG nº 0634942646 SSP BA, inscrito no CPF nº 887.422.615- 20, devidamente
+autorizado por Decreto Simples publicado no DOM nº 8.455 de 17/01/2023, doravante denominado CONTRATANTE, e
+o(a) empresa XXXXXXXX inscrito(a) no CNPJ/MF sob o nº 00.000.000/0000-00, com sede em XXXXXXXX, neste ato
+representado(a) por XXXXXXXX (nome e função do contratado), conforme atos constitutivos da empresa OU procuração
+apresentada nos autos, nacionalidade, estado civil, profissão, inscrito (a) no CPF/MF sob o nº 000.000.000-00, cédula de
+Identidade nº 0O0000000-00, expedida pela XXXXXXXX, doravante designado CONTRATADO, tendo em vista o que
+consta no Processo nº 79150/2024 e em observância às disposições da Lei Federal nº 14.133/2021, Decreto Municipal nº
+36.784/2023 suas alterações subsequentes e demais legislação aplicável, resolvem celebrar o presente Termo de
+Contrato, decorrente do Pregão nº 003/2025, mediante as cláusulas e condições a seguir enunciadas.
+
+1.  CLÁUSULA PRIMEIRA- OBJETO
+
+1.1. O objeto do presente instrumento é a aquisição de diversos itens de informática nos termos do anexo A do Termo de
+Referência para a Secretaria Municipal de Promoção Social e Combate à Pobreza, Esportes e Lazer — SEMPRE,
+com estrita observância às especificações técnicas detalhadas no Termo de Referência.
+
+1.1.1. Objeto da Contrtação:
+
+GRUPO 00 -.......fef[e[[[oo
+UN[')[;ADE aTD VALOR VALOR
+ITEM CÓDIGO DESCRIÇÃO ' Ã
+[ MEDIDA UNITÁRIO TOTAL
+
+VALOR TOTAL
+
+1.2. Vinculam-se a esta contratação, independentemente de transcrição:
+1.2.1. O Termo de Referência;
+1.2.2. O Edital da Licitação;
+1.2.3. A Proposta do contratado;
+1.2.4. Eventuais anexos dos documentos supracitados.
+
+2. CLÁUSULA SEGUNDA - VIGÊNCIA E PRORROGAÇÃO
+
+2.1. O prazo de vigência da contratação é de 90 (noiventa) dias a contar da data da assinatura do instrumento
+contratual, na forma do artigo 105 da Lei nº 14.133, de 2021.
+
+2.2. O prazo de vigência será automaticamente prorrogado, nos termos do art. 111 da Lei Federal nº 14.133, de
+2021, quando o objeto não for concluído no período firmado acima, ressalvadas as providências cabíveis no caso
+de culpa do contratado, previstas neste instrumento.
+
+2.3. A eficácia legal do contrato e seus aditivos está adstrita à publicação do seu extrato no Portal Nacional da
+Contratações Públicas (PNCP), consoante art. 94 da Lei nº 10.133/2021.
+
+3. “CLÁUSULA TERCEIRA- DOTAÇÃO ORÇAMENTÁRIA
+40
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+3.1. Os recursos financeiros para pagamento da despesa decorrente do objeto deste contrato correrão à conta do
+orçamento da Secretaria Municipal de Promoção Social e Combate à Pobreza, Esportes e Lazer — SEMPRE, por
+intermédio do Fundo Municipal de Assistência Social — FMAS no presente exercício e correspondente no
+exercício subsequente, da seguinte forma:
+
+Unidade de Gestão:;
+
+Subação: 08.242.0003.120200 — Salvador Mais Inclusiva - Implantação de Residências Inclusivas para Pessoas
+com Deficiência;
+
+Elemento de Despesa: 44.90.52 - Equipamentos e Material Permanente;
+
+Fontes: 1.500.1.1.1.001 (Municipal); 2.700.1.1.0.001 (Convênio/União).
+
+3.2. Eventual dotação relativa ao exercício financeiro subsequente será indicada após aprovação da Lei
+Orçamentária respectiva e liberação dos créditos correspondentes, mediante apostilamento.
+
+CLÁUSULA QUARTA — DO PREÇO
+
+4.1. O valor total da contratação é de R$ 000,00 (reais e centavos).
+
+4.2. No valor acima estão incluídas todas as despesas ordinárias diretas e indiretas decorrentes da execução do
+objeto, inclusive tributos e/ou impostos, encargos sociais, trabalhistas, previdenciários, fiscais e comerciais
+incidentes, taxa de administração, frete, seguro e outros necessários ao cumprimento integral do objeto da
+contratação.
+
+4.3. O valor acima é meramente estimativo, de forma que os pagamentos devidos ao contratado
+dependerão dos quantitativos efetivamente fornecidos.
+
+CLÁUSULA QUINTA — CRITÉRIOS DE MEDIÇÃO E PAGAMENTO
+
+5.1. O pagamento será efetuado no prazo máximo de até 30 (trinta) dias úteis, contados a partir do recebimento
+da Nota Fiscal ou Fatura, acompanhada do relatório de medição, atestado, dos serviços prestados.
+
+5.2. O pagamento será realizado por meio de ordem bancária, para crédito em banco, agência e conta corrente
+indicados pelo Contratado.
+
+5.3. Por força do Decreto Municipal nº 23.856 de 03 de abril de 2013, publicado no DOM nº 5.826 de 04/04/2013,
+o (s) pagamento (s) devido (s) ao (s) fornecedor (es) será (ão) efetuado (s), exclusivamente, por crédito na
+conta corrente especificada pelo credor, mantida em instituição financeira indicada pela Secretaria Municipal
+da Fazenda- SEFAZ, a saber BANCO BRADESCO S/A.
+
+5.4. A empresa Contratada deverá apresentar, juntamente com cada Nota Fiscal, os seguintes documentos:
+
+5.4.1. Prova de regularidade relativa à débitos federais;
+
+5.4.2. Certidões que comprovem a regularidade perante a Fazenda Municipal e Estadual/Distrital do domicílio
+ou sede do Contratado;
+
+5.4.3. Prova de regularidade relativa ao Fundo de Garantia por Tempo de Serviços (FGTS), mediante
+apresentação de Certidão de Regularidade da Situação/CRF;
+
+5.4.4. Prova de regularidade perante a Justiça do Trabalho;
+
+5.4.5. Prova de regularidade perante o CADIN.
+
+5.5. Nenhum pagamento será efetuado a CONTRATADA enquanto pendente de liquidação qualquer obrigação
+financeira que lhe for imposta, em virtude de penalidade ou inadimplência, sem que isso gere direito a
+reajustamento de preço ou correção monetária.
+
+5.6. Ocorrendo erro na Nota Fiscal/Fatura e/ou circunstâncias que impeçam a liquidação das despesas, a
+CONTRATADA será comunicada pela CONTRATANTE, e, a partir daquela data, o pagamento ficará suspenso
+até que sejam providenciadas as medidas saneadoras. O prazo para pagamento iniciar-se-á após a
+regularização da situação e a reapresentação da fatura.
+
+5.7. Será considerada data do pagamento o dia em que constar como emitida a ordem bancária para pagamento.
+
+5.8. Quando do pagamento, será efetuada a retenção tributária prevista na legislação aplicável.
+
+5.9.A CONTRATADA regularmente optante pelo Simples Nacional, nos termos da Lei Complementar nº 123/2006,
+não sofrerá a retenção tributária quanto aos impostos e contribuições abrangidos por aquele regime. No
+entanto, o pagamento ficará condicionado à apresentação da comprovação, por meio de documento
+oficial, de que faz jus ao tratamento tributário favorecido, previsto na referida Lei Complementar.
+
+5.10. Na hipótese de eventuais atrasos no pagamento, para os quais a CONTRATADA não tenha concorrido, esta
+terá direito à compensação financeira por atraso no pagamento, desde a data prevista para o efetivo
+
+41
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+pagamento até o dia de sua concretização.
+
+5.10.1. O índice de atualização é o ÍNDICE NACIONAL DE PREÇOS AO CONSUMIDOR AMPLO — IPCA, do Instituto
+Brasileiro de Geografia e Estatística - IBGE.
+
+5.10.2. Os encargos moratórios devidos em razão do atraso no pagamento poderão ser calculados com a
+utilização da seguinte fórmula:
+EM = Nx VP x |, onde:
+EM = Encargos Moratórios;
+N = Nº de dias entre a data prevista para o pagamento e o efetivo pagamento e a data do efetivo
+pagamento;
+VP = Valor da parcela a ser paga em atraso;
+| = Índice de compensação financeira, assim apurado:
+| = (TX / 100)
+
+365
+
+TX = Percentual da taxa anual do IPCA.
+
+CLÁUSULA SEXTA - MODELOS DE EXECUÇÃO E GESTÃO CONTRATUAIS
+
+6.1. 6.1 O regime de execução contratual, os modelos de gestão/fiscalização e de execução, assim como os prazos
+e condições de conclusão, entrega, observação e recebimento do objeto constam do Termo de Referência e
+seus anexos, parte integrante deste Contrato independente de transcrição.
+
+CLÁUSULA SÉTIMA - REAJUSTE
+
+7.1. 7.1 Os preços inicialmente contratados são fixos e irreajustáveis no prazo de um ano contado da data do
+orçamento estimado, em XX/XX/XXXX.
+
+7.2. 7.2. Após o interregno de 01 (um) ano, havendo pedido da Contratado, os preços iniciais serão reajustados,
+mediante a aplicação, pela Contratante, do ÍNDICE NACIONAL DE PREÇOS AO CONSUMIDOR AMPLO - IPCA ou,
+na sua falta, pelo índice legalmente previsto à época, exclusivamente para as obrigações iniciadas e concluídas
+após a ocorrência da anualidade.
+
+7.3. Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será contado a partir dos efeitos
+financeiros do último reajuste.
+
+7.4. Nas aferições finais, o (s) índice (s) utilizado (s) para reajuste será (ão), obrigatoriamente, o(s) definitivo(s).
+
+7.5. Caso o (s) índice (s) estabelecido (s) para reajustamento venha (m) a ser extinto (s) ou de qualquer forma não
+possa (m) mais ser utilizado (s), será (ão) adotado (s), em substituição, o (s) que vier (em) a ser determinado (s)
+pela legislação então em vigor.
+
+7.6. Na ausência de previsão legal quanto ao índice substituto, as partes elegerão novo índice oficial, para
+reajustamento do preço do valor remanescente, por meio de termo aditivo.
+
+7.7. Orreajuste será realizado por apostilamento.
+
+CLÁUSULA OITAVA - OBRIGAÇÕES DO CONTRATANTE
+
+8.1. Exigir o cumprimento de todas as obrigações assumidas pelo Contratado, de acordo com o contrato e seus
+anexos;
+
+8.2. Proporcionar à contratada todas as condições necessárias ao pleno cumprimento das obrigações decorrentes
+do contrato;
+
+8.3. Emitir Autorização de Fornecimento, pelo setor competente, para instruir a entrega do objeto,
+documentando-o e comprovando-o nesse ato;
+
+8.4. Acompanhar a entrega do bem contratado;
+
+8.5. Efetuar o pagamento ao Contratado, após o recebimento definitivo do bem e verificação do cumprimento de
+todas as obrigações legais fiscais, previdenciárias, e as demais disposições do Termo de Referência, Edital e
+Contrato;
+
+8.6. Promover o acompanhamento e fiscalização do fornecimento do bem, sob o aspecto quantitativo e
+qualitativo, anotando em registro próprio as falhas detectadas e impugnando quaisquer erros ou omissões que
+considere em desacordo com as obrigações do Contratado;
+
+8.7. Receber através do Servidor/Comissão competente, o bem descrito e especificado na proposta do Contratado;
+
+8.8. Devolver, no prazo de até 10 (dez) dias, o bem entregue fora das especificações exigidas ou quando não
+estejam em conformidade com os padrões de qualidade, dando ciência dos motivos da recusa ao Contratado
+
+que assumirá todas as despesas daí decorrentes;
+42
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+8.9. Notificar o Contratado, por escrito, sobre vícios, defeitos ou incorreções verificadas no objeto fornecido,
+para que seja por ele substituído, reparado ou corrigido, no total ou em parte, às suas expensas;
+
+8.10. Notificar previamente o Contratado, quando da aplicação de penalidades;
+
+8.11. Cientificar o órgão responsável para adoção das medidas cabíveis quando do descumprimento de obrigações
+pelo Contratado;
+
+8.12. Prestar as informações e os esclarecimentos que venham a ser solicitados pelos responsáveis do Contratado;
+
+8.13. Dar ciência ao Contratado de quaisquer modificações que venham a ocorrer no contrato;
+
+8.14. Atestar as notas fiscais/faturas, por servidor/comissão competente, emitidas pelo Contratado, recusando-as
+quando inexatas ou incorretas, efetuando todos os pagamentos nas condições pactuadas;
+
+8.15. Comunicar a empresa para emissão de Nota Fiscal no que diz respeito à parcela incontroversa da execução do
+objeto, para efeito de liquidação e pagamento, quando houver controvérsia sobre a execução do objeto,
+quanto à dimensão, qualidade e quantidade, conforme o art. 143 da Lei nº 14.133, de 2021;
+
+8.16.A Administração não responderá por quaisquer compromissos assumidos pelo Contratado com terceiros,
+ainda que vinculados à execução do contrato, bem como por qualquer dano causado a terceiros em
+decorrência de ato do Contratado, de seus empregados, prepostos ou subordinados;
+
+8.17. Responder à CONTRATADA, no prazo de 60 (sessenta) dias, eventual pedido de reequilíbrio econômico-
+financeiro.
+
+CLÁUSULA NONA — OBRIGAÇÕES DO CONTRATADO
+
+9.1. O Contratado deve cumprir todas as obrigações constantes no Edital, seus anexos e sua proposta, assumindo
+como exclusivamente seus os riscos e as despesas decorrentes da boa e perfeita execução do objeto e, ainda,
+efetuar a entrega do objeto em perfeitas condições, conforme especificações, prazo e local constantes no
+Termo de Referência e seus anexos, acompanhado da respectiva nota fiscal, na qual constarão as indicações
+referentes a: marca, fabricante, modelo, procedência e prazo de garantia ou validade;
+
+9.2. Assegurar condições materiais, logística e recursos humanos para a realização do objeto do contrato e seus
+anexos;
+
+9.3. Entregar, na data aprazada, o produto de acordo com as especificações técnicas constantes no edital de
+licitação e no presente contrato;
+
+9.4. Responder por quaisquer danos que venha a causar à União, Estado, Município ou a terceiros, em função do
+objeto do contrato firmado, bem como por todos os danos e prejuízos decorrentes de paralisações na entrega
+dos produtos, salvo na ocorrência de motivo de força maior, apurados na forma da legislação vigente, e desde
+que comunicados à Contratante no prazo de 48 (quarenta e oito) horas do fato, ou da ordem expressa e
+escrita da Contratante;
+
+9.5. Arcar com todas as despesas, diretas ou indiretas, decorrentes do cumprimento das obrigações assumidas
+sem qualquer ônus à Contratante;
+
+9.6. Manter durante toda a execução do contrato as mesmas condições da habilitação e qualificação exigidas na
+licitação;
+
+9.7. Efetuar pontualmente o pagamento de todas as taxas e impostos que incidam ou venham a incidir sobre as
+suas atividades e/ou sobre a execução do objeto do presente contrato, bem como observar e respeitar as
+legislações Federal, Estadual e Municipal, relativas ao objeto do contrato;
+
+9.8. Substituir, total ou parcialmente, às suas expensas, os produtos objeto deste contrato em que se verifiquem
+má qualidade e (ou) qualidade divergente da especificação solicitada, após notificação, no prazo de 10 dias;
+
+9.9. Reparar, corrigir ou substituir, às suas expensas, no total ou em parte, o objeto do contrato em que se
+verifiquem vícios, defeitos, resultantes da entrega do produto;
+
+9.10. Acatar as normas e condições do edital e anexos que integram este instrumento, independente de
+transcrição;
+
+9.11. Respeitar no ato da entrega do produto, o tempo para conferência qualitativa e quantitativa dos mesmos,
+realizado pelo recebedor;
+
+9.12. Declarar expressamente, que a garantia técnica nacional mínima dos bens não possui prazo inferior a 12
+(doze) meses;
+
+9.13. O objeto deve estar acompanhado do manual do usuário, com uma versão em português e da relação da rede
+de assistência técnica autorizada;
+
+9.14. Atender às determinações regulares emitidas pelo fiscal ou gestor do contrato ou autoridade superior e
+
+43
+
+
+10.
+
+11.
+
+12.
+
+13.
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+prestar todo esclarecimento ou informação por eles solicitados nos termos do artigo art. 137, Il, da Lei n.º
+14.133, de 2021;
+
+9.15. Cumprir, durante todo o período de execução do contrato, a reserva de cargos prevista em lei para pessoa
+com deficiência, para reabilitado da Previdência Social ou para aprendiz, bem como as reservas de cargos
+previstas na legislação (art. 116, da Lei n.º 14.133, de 2021);
+
+9.16. Comprovar a reserva de cargos a que se refere a cláusula acima, no prazo fixado pelo fiscal do contrato, com a
+indicação dos empregados que preencheram as referidas vagas (art. 116, parágrafo único, da Lei n.º 14.133,
+de 2021);
+
+9.17. Responsabilizar-se pelo cumprimento de todas as obrigações trabalhistas, previdenciárias, fiscais, comerciais e
+as demais previstas em legislação específica, cuja inadimplência não transfere a responsabilidade ao
+contratante e não poderá onerar o objeto do contrato;
+
+9.18. Guardar sigilo sobre todas as informações obtidas em decorrência do cumprimento do contrato;
+
+9.19. Arcar com o ônus decorrente de eventual equívoco no dimensionamento dos quantitativos de sua proposta,
+inclusive quanto aos custos variáveis decorrentes de fatores futuros e incertos, devendo complementá-los,
+caso o previsto inicialmente em sua proposta não seja satisfatório para o atendimento do objeto da
+contratação, exceto quando ocorrer algum dos eventos arrolados no art. 124, Il, d, da Lei nº 14.133, de 2021;
+
+9.20. Cumprir, além dos postulados legais vigentes de âmbito federal, estadual ou municipal, as normas de
+segurança do contratante.
+
+CLÁUSULA DÉCIMA — GARANTIA DE EXECUÇÃO
+
+10.1. Não haverá exigência de garantia contratual de execução.
+10.2. A presente contratação possui previsão de garantia contratual do bem a ser fornecido, incluindo manutenção
+e assistência técnica, conforme condições estabelecidas no Termo de Referência
+
+CLÁUSULA DÉCIMA PRIMEIRA - SUBCONTRATAÇÃO
+11.1. Não será permitida a subcontratação.
+CLÁUSULA DÉCIMA SEGUNDA — ALTERAÇÃO SUBJETIVA
+
+12.1. É admissível a fusão, cisão ou incorporação da contratada com/em outra pessoa jurídica, desde que:
+12.1.1. Sejam observados pela nova pessoa jurídica todos os requisitos de habilitação exigidos na licitação
+original;
+12.1.2. Sejam mantidas as demais cláusulas e condições do contrato;
+12.1.3. Não haja prejuízo à execução do objeto pactuado e haja a anuência expressa da Administração à
+continuidade do contrato.
+
+CLÁUSULA DÉCIMA TERCEIRA - INFRAÇÕES E SANÇÕES ADMINISTRATIVAS
+
+13.1. A CONTRATADA sujeitar-se-á, no caso de cometimento de infrações ou inadimplemento de suas obrigações,
+às disposições contidas na Lei nº 14.133, de 2021, aplicando-se subsidiariamente, no que couberem, as
+penalidades previstas no Decreto Municipal nº 15.984 de 21 de setembro de 2005, sem prejuízo das demais
+cominações legais.
+
+13.2. Comete infração administrativa, nos termos da Lei nº 14.133, de 2021, o contratado que:
+
+l. der causa à inexecução parcial do contrato;
+. der causa à inexecução parcial do contrato que cause grave dano à Administração
+ou ao funcionamento dos serviços públicos ou ao interesse coletivo;
+. der causa à inexecução total do contrato;
+
+IV. ensejar o retardamento da execução ou da entrega do objeto da contratação sem motivo
+justificado;
+V. apresentar documentação falsa ou prestar declaração falsa durante a execução do contrato;
+VI. praticar ato fraudulento na execução do contrato;
+VIl. comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+VII. praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013.
+
+13.3. Serão aplicadas ao contratado que incorrer nas infrações acima descritas as seguintes sanções:
+l. Advertência, quando o contratado der causa à inexecução parcial do contrato, sempre que
+
+não se justificar a imposição de penalidade mais grave (art. 156, $82º, da Lei nº 14.133, de
+44
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+2021);
+
+. Impedimento de licitar e contratar, quando praticadas as condutas descritas nos incisos |l,
+lll e IV do subitem acima deste Contrato, sempre que não se justificar a imposição de
+penalidade mais grave (art. 156, $ 4º, da Lei nº 14.133, de 2021);
+
+. Declaração de inidoneidade para licitar e contratar, quando praticadas as condutas
+descritas nos incisos V, VI, VII, VIII do subitem acima deste Contrato, bem como nos incisos
+Il, 1l e IV que justifiquem a imposição de penalidade mais grave (art. 156, $85º, da Lei nº
+14.133, de 2021).
+
+IV. Multa:
+
+a) moratória de 0,5% (meio por cento) por dia de atraso injustificado sobre o valor da parcela
+inadimplida, até o limite de 30 (trinta) dias;
+
+b) moratória de 0,5% (meio por cento) por dia de atraso injustificado sobre o valor total do
+contrato, até o máximo de 15% (quinze por cento), pela inobservância do prazo fixado para
+apresentação, suplementação ou reposição da garantia.
+
+1. O atraso superior a 30 (trinta) dias autoriza a Administração a promover a
+extinção do contrato por descumprimento ou cumprimento irregular de suas
+cláusulas, conforme dispõe o inciso | do art. 137 da Lei n. 14.133, de 2021.
+
+C) compensatória de 30% (quinze por cento) sobre o valor total do contrato, no caso de
+inexecução total do objeto.
+
+13.4.A aplicação das sanções previstas neste Contrato não exclui, em hipótese alguma, a obrigação de reparação
+integral do dano causado ao Contratante conforme art. 156, $89º, da Lei nº 14.133, de 2021.
+
+13.5. Todas as sanções previstas neste Contrato poderão ser aplicadas cumulativamente com a multa conforme
+disposto no art. 156, 87º, da Lei nº 14.133, de 2021.
+
+13.5.1.  Antes da aplicação da multa será facultada a defesa do interessado no prazo de 15 (quinze) dias úteis,
+contado da data de sua intimação conforme previsão do art. 157, da Lei nº 14.133, de 2021.
+
+13.5.2. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor do pagamento
+eventualmente devido pelo Contratante ao Contratado, além da perda desse valor, a diferença será
+descontada da garantia prestada ou será cobrada judicialmente (art. 156, $8º, da Lei nº 14.133, de 2021).
+
+13.5.3.  Previamente ao encaminhamento à cobrança judicial, a multa poderá ser recolhida
+administrativamente no prazo máximo de 20 (vinte) dias, a contar da data do recebimento da
+comunicação enviada pela autoridade competente.
+
+13.6. A aplicação das sanções realizar-se-á em processo administrativo que assegure o contraditório e a ampla
+defesa ao Contratado, observando-se o procedimento previsto no caput e parágrafos do art. 158 da Lei nº
+14.133, de 2021, para as penalidades de impedimento de licitar e contratar e de declaração de inidoneidade
+para licitar ou contratar.
+
+13.7. Na aplicação das sanções serão considerados (art. 156, $1º, da Lei nº 14.133, de 2021):
+
+l. a natureza e a gravidade da infração cometida;
+. as peculiaridades do caso concreto;
+. as circunstâncias agravantes ou atenuantes;
+IV. os danos que dela provierem para o Contratante;
+V. a implantação ou o aperfeiçoamento de programa de integridade, conforme normas e
+orientações dos órgãos de controle.
+
+13.8. Os atos previstos como infrações administrativas na Lei nº 14.133, de 2021, ou em outras leis de licitações e
+contratos da Administração Pública que também sejam tipificados como atos lesivos na Lei nº 12.846, de 2013,
+serão apurados e julgados conjuntamente, nos mesmos autos, observados o rito procedimental e autoridade
+competente definidos no art. 159.
+
+13.9. A personalidade jurídica do Contratado poderá ser desconsiderada sempre que utilizada com abuso do direito
+para facilitar, encobrir ou dissimular a prática dos atos ilícitos previstos neste Contrato ou para provocar
+confusão patrimonial, e, nesse caso, todos os efeitos das sanções aplicadas à pessoa jurídica serão estendidos
+aos seus administradores e sócios com poderes de administração, à pessoa jurídica sucessora ou à empresa do
+mesmo ramo com relação de coligação ou controle, de fato ou de direito, com o Contratado, observados, em
+todos os casos, o contraditório, a ampla defesa e a obrigatoriedade de análise jurídica prévia conforme
+disposto no art. 160, da Lei nº 14.133, de 2021.
+
+13.10. O Contratante deverá, no prazo máximo 15 (quinze) dias úteis, contado da data de aplicação da
+
+45
+
+
+14.
+
+15.
+
+1
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+sanção, informar e manter atualizados os dados relativos às sanções por ela aplicadas, para fins de
+publicidade no Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS) e no Cadastro Nacional de
+Empresas Punidas (CNEP), instituídos no âmbito do Poder Executivo Federal, e também no Portal de Compras
+
+Salvador.
+
+13.11. As sanções de impedimento de licitar e contratar e declaração de inidoneidade para licitar ou
+contratar são passíveis de reabilitação na forma do art. 163 da Lei nº 14.133, de 2021.
+
+13.12. Os débitos do contratado para com a Administração contratante, resultantes de multa administrativa
+
+e/ou indenizações, não inscritos em dívida ativa, poderão ser compensados, total ou parcialmente, com os
+créditos devidos pelo referido órgão decorrentes deste mesmo contrato ou de outros contratos
+administrativos que o contratado possua com o mesmo órgão ora contratante.
+
+CLÁUSULA DÉCIMA QUARTA - ALTERAÇÕES
+
+14.1. Eventuais alterações contratuais reger-se-ão pela disciplina dos arts. 124 e seguintes da Lei nº 14.133/2021.
+
+14.2.O contratado é obrigado a aceitar, nas mesmas condições contratuais, os acréscimos ou supressões que se
+fizerem necessários, até o limite de 25% (vinte e cinco por cento) do valor inicial atualizado do contrato.
+
+14.3. Registros que não caracterizam alteração do contrato podem ser realizados por simples apostila, dispensada a
+celebração de termo aditivo, na forma do art. 136 da Lei nº 14.133/2021.
+
+CLÁUSULA DÉCIMA QUINTA — ANTIFRAUDE E ANTICORRUPÇÃO
+
+15.1.A CONTRATADA deve observar e fazer observar, por seus fornecedores e subcontratados, se admitida
+subcontratação, o mais alto padrão de ética durante todo o processo de contratação e de execução do objeto
+contratual.
+
+a) Para os efeitos desta cláusula:
+
+l. “práticas de corrupção”” oferecer, dar, receber ou solicitar, direta ou indiretamente,
+qualquer coisa de valor com a intenção de influenciar de modo indevido ação de outra
+
+parte;
+Il. — “prática fraudulenta”?
+falsidade ideológica, consciente ou inconscientemente, que engana ou tenta
+enganar, um indivíduo para obter benefício financeiro ou outro de qualquer ordem,
+
+ou com intenção de evitar o cumprimento de uma obrigação;
+
+significa qualguer ato ou omissão de falsificação, inclusive
+
+. “prática colusiva”? significa uma combinação entre duas ou mais partes visando alcançar
+um fim indevido, inclusive influenciar indevidamente as ações de terceiros;
+
+IV. “prática coercitiva”* significa prejudicar ou causar danos, direta ou indiretamente a qualquer
+parte interessada ou a sua propriedade para influenciar de modo incorreto as ações de uma
+parte;
+
+V. “prática obstrutiva” é
+
+(aa) deliberadamente destruir, falsificar, alterar ou ocultar provas em investigações ou
+fazer declarações falsas a investigadores, com o objetivo de impedir materialmente uma investigação
+do Banco sobre alegações de uma prática de corrupção, fraude, coerção ou colusão; e/ou ameaçar,
+assediar ou intimidar qualquer parte para que esta não revele qualquer fato que seja de seu
+conhecimento em relação a questões relevantes para a investigação, ou para impedir que recorra à
+investigação ou a conduza, ou, (bb) atos que objetivem impedir materialmente o exercício dos direitos
+de inspeção e auditoria do Banco, nos termos da Cláusula 16.3 abaixo.
+
+b) Rejeitará uma proposta de adjudicação se concluir que o licitante indicado se envolveu, de forma direta ou por meio
+de um agente, em prática corrupta, fraudulenta, colusiva, coercitiva ou obstrutiva ao concorrer ao contrato em
+questão;
+
+C) Declarará viciado o processo de licitação e cancelará a parcela do empréstimo alocada a um contrato se, a
+qualquer momento, determinar que representantes do Mutuário ou de um beneficiário de qualquer parte dos
+
+"Terceiros" refere-se a um agente público que atua em um processo de licitações ou na execução do contrato. Neste contexto, "agente público" inclui a equipe do Banco
+
+Mundial e os funcionários de outras organizações que examinam ou tomam decisões sobre licitações.
+
+2
+
+"Parte" refere-se a um agente público; os termos "benefício" e "obrigação" são relativos ao processo de licitações ou a execução do contrato; e o "ato ou omissão" objetiva
+
+influenciar o processo de licitação ou a execução do contrato.
+
+3
+
+“Partes” refere-se aos participantes do processo de licitação (incluindo os agentes públicos) que tentam estabelecer preços em níveis artificiais e não-competitivos.
+
+4 Uma "parte" refere-se a um participante no processo de licitação ou da execução do contrato.
+
+46
+
+
+16.
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+recursos empréstimo envolveram-se em práticas corruptas, fraudulentas, colusivas, coercitivas ou obstrutivas
+durante o processo de licitação ou de implementação do contrato em questão, sem que o Mutuário tenha
+adotado medidas oportunas e adequadas, satisfatórias ao Banco, para combater essas práticas quando de sua
+ocorrência, inclusive por falhar em informar tempestivamente o Banco no momento em que tomou conhecimento
+dessas práticas;
+
+d) Imporá sanções à pessoa física ou jurídica a qualquer tempo, em conformidade com seus procedimentos de
+
+sanções aplicáveis, incluindo declará-la inelegível publicamente, indefinidamente ou por prazo determinado, para
+(i) a outorga de um contrato financiado pelo Banco e (ii) ser um subempreiteiro, consultor, fabricante ou
+fornecedor ou prestador de serviço designado? de uma empresa elegível a quem se está outorgando um contrato
+financiado pelo Banco.
+
+15.2.Se algum funcionário do Contratado tiver envolvimento em práticas corruptas, fraudulentas, colusivas,
+coercitivas ou obstrutivas durante a licitação ou durante a execução do contrato esses profissionais devem ser
+retirados da equipe imediatamente.
+
+15.3.O Contratado deverá permitir, e fará seus Subcontratados e Subconsultores permitirem, que o Banco e/ou
+pessoas designadas pelo Banco possam inspecionar o local e todas as contas e registros relativos à execução
+do Contrato e a apresentação da proposta, e ter as contas e registros auditados por auditores designados pelo
+Banco, se o Banco assim solicitar.
+
+15.4. O Contratado e seus Subcontratados e Subconsultores devem observar com atenção a cláusula sobre [Práticas
+Corruptas ou Fraudulentas], que prevê, nomeadamente, que os atos destinados a impedir materialmente o
+exercício de inspeção do Banco e do direito de efetuar auditoria prevista nesta Subcláusula constituem uma
+prática proibida e sujeita a rescisão do contrato (bem como a uma determinação de inelegibilidade, de acordo
+com as Diretrizes de Aquisições do Banco).
+
+CLÁUSULA DÉCIMA SEXTA - DA EXTINÇÃO CONTRATUAL
+
+16.1.O contrato se extingue quando cumpridas as obrigações de ambas as partes, ainda que isso ocorra antes do
+prazo estipulado para tanto.
+
+16.1.1. Se as obrigações não forem cumpridas no prazo estipulado, a vigência ficará prorrogada até a
+conclusão do objeto, caso em que deverá a Administração providenciar a readequação do cronograma
+fixado para o contrato.
+
+16.1.2. Quando a não conclusão do contrato referida no item anterior decorrer de culpa do contratado:
+
+l. Ficará ele constituído em mora, sendo-lhe aplicáveis as respectivas sanções administrativas;
+e
+
+. Poderá a Administração optar pela extinção do contrato e, nesse caso, adotará as medidas
+admitidas em lei para a continuidade da execução contratual.
+
+16.2. O contrato pode ser extinto antes de cumpridas as obrigações nele estipuladas, ou antes do prazo nele fixado,
+por algum dos motivos previstos no artigo 137 da Lei nº 14.133, de 2021, bem como amigavelmente,
+assegurados o contraditório e a ampla defesa.
+
+16.2.1.  Nesta hipótese, aplicam-se também os artigos 138 e 139 da referida Lei.
+
+16.3. A alteração social ou a modificação da finalidade ou da estrutura da empresa não ensejará a rescisão se não
+restringir sua capacidade de concluir o contrato.
+
+16.3.1. Se a operação implicar mudança da pessoa jurídica contratada, deverá ser formalizado termo aditivo
+para alteração subjetiva.
+
+16.4. O termo de rescisão, sempre que possível, será precedido:
+
+l. Balanço dos eventos contratuais já cumpridos ou parcialmente cumpridos;
+. Relação dos pagamentos já efetuados e ainda devidos;
+. Indenizações e multas.
+
+16.5.A extinção do contrato não configura óbice para o reconhecimento do desequilíbrio econômico-
+financeiro, hipótese em que será concedida indenização por meio de termo indenizatório conforme
+art. 131, caput, da Lei n. º 14.133, de 2021.
+
+17. CLÁUSULA DÉCIMA SÉTIMA - DOS CASOS OMISSOS
+
+5
+
+Um subcontratado designado, consultor, fabricante ou fornecedor ou prestador de serviços (nomes diferentes podem ser usados d ependendo do edital da licitação) é que
+
+qualquer um que tenha sido: (i) incluído pelo licitante em sua pré-qualificação ou proposta ele porque traz experiência específica e khnow-how que são considerados na
+avaliação da pré-qualificação do licitante ou da sua proposta; ou (ii) indicado pelo mutuário.
+
+47
+
+
+Prefeitura Municipal do Salvador - PMS
+Secretaria de Promoção Social, Combate à Pobreza, Esportes e Lazer — SEMPRE
+Diretoria de Proteção Social Especial - DPSE
+
+17.1.Os casos omissos serão decididos pelo contratante, segundo as disposições contidas na Lei nº 14.133, de
+2021, e demais normas Federais aplicáveis e, subsidiariamente, segundo as disposições contidas na Lei nº
+8.078, de 1990 — Código de Defesa do Consumidor — e normas e princípios gerais dos contratos.
+
+18. CLÁUSULA DÉCIMA OITAVA - PUBLICAÇÃO
+
+18.1. Incumbirá ao contratante divulgar o presente instrumento no Portal Nacional de Contratações Públicas -
+PNCP, na forma prevista no art. 94 da Lei 14.133/2021, bem como no respectivo sítio oficial na Internet, em
+atenção ao art. 8º, 82º, da Lei n. 12.527/2011 e no Diário Oficial do Município - DOM.
+
+19. CLÁUSULA DÉCIMA NONA - FORO
+
+19.1.Fica eleito o Foro da Comarca de Salvador, Seção Judiciária do Estado da Bahia, para dirimir os litígios que
+decorrerem da execução deste Contrato que não puderem ser compostos pela conciliação, conforme art. 92,
+$1º, da Lei nº 14.133, de 2021.
+
+E por estarem assim justas e acordadas, as partes assinam o presente instrumento em 3 (três) vias de igual teor e forma
+
+para todos os fins de Direito.
+
+Salvador/BA, 00 de XXXXX de 202X.
+
+Representante legal do CONTRATANTE
+
+Representante legal do CONTRATADO
+
+48
+
+

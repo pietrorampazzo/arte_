@@ -1,0 +1,2026 @@
+SEBRAE
+
+QUADRO INFORMATIVO
+PREGÃO ELETRÔNICO Nº 90081/2025
+PROCESSO Nº 0630/2025
+CÓDIGO DA UASG: 930452
+ENDEREÇO ELETRÔNICO: www.gov.br/compras
+DATA DO INÍCIO DO PRAZO PARA ENVIO DA PROPOSTA ELETRÔNICA: 16/09/2025
+DATA E HORA DA ABERTURA DA SESSÃO PÚBLICA: 01/10/2025 às 09 horas
+
+CRITÉRIO DE JULGAMENTO: Menor Preço Global
+MODO DE DISPUTA: Aberto
+OBJETO: Contratação de empresa especializada para o fornecimento de equipamentos da marca
+
+Apple, modelo MacBook, e periféricos, com garantia, cujas especificações constam do termo de
+referência.
+VIGÊNCIA DO CONTRATO: 06 (seis) meses.
+
+1. PREÂMBULO
+
+1.1. O Serviço de Apoio às Micro e Pequenas Empresas do Estado de São Paulo - SEBRAE-SP, por
+intermédio do Pregoeiro e da Comissão Permanente de Licitação, nos termos do Regulamento de Licitações e
+Contratos do Sistema SEBRAE e da Lei Complementar nº 123/2006, torna público que promoverá licitação na
+modalidade e critério mencionados no quadro informativo, regida por este edital e seus anexos.
+
+1.2. As propostas deverão obedecer às especificações deste instrumento convocatório e seus anexos
+e serão encaminhadas por meio eletrônico, após o registro dos interessados em participar do certame e o
+credenciamento de seus representantes no Sistema de Cadastramento Unificado de Fornecedores - SICAF e no
+Sistema de Compras do Governo Federal (www.gov.br/compras).
+
+1.3. A sessão pública de processamento do Pregão Eletrônico será realizada no endereço eletrônico
+wWW.gov.br/compras, no dia e hora mencionados no quadro informativo deste Edital e será conduzida pelo
+Pregoeiro e Comissão Permanente de Licitações do SEBRAE-SP, designados nos autos do processo em epígrafe
+e indicados no sistema pela autoridade competente.
+
+1.4. Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a realização do
+certame na data marcada, a sessão será automaticamente transferida para o primeiro dia útil subsequente, no
+mesmo horário e endereço eletrônico, salvo comunicação em sentido contrário.
+
+1.5. Em caso de discordância existente entre as especificações deste objeto descritas no Sistema
+Eletrônico e as especificações constantes deste edital, prevalecerão as últimas.
+
+2. DA PARTICIPAÇÃO E DO IMPEDIMENTO
+
+2.1. Poderão participar do certame todos os interessados em contratar com o SEBRAE-SP que
+estiverem registrados no SICAF - Sistema de Cadastramento Unificado de Fornecedores, em atividade
+econômica compatível com o seu objeto, que sejam detentoras de acesso para participar de procedimentos
+eletrônicos e tenham credenciado os seus representantes, na forma estabelecida no regulamento que
+disciplina a inscrição no referido Cadastro.
+
+
+SEBRAE
+
+2.1.1. O registro no SICAF - Sistema de Cadastramento Unificado de Fornecedores, o credenciamento
+dos representantes que atuarão em nome da licitante no Sistema de Pregão Eletrônico e o respectivo acesso,
+deverão ser obtidos anteriormente à abertura da sessão pública e autorizam a participação em qualquer
+pregão eletrônico realizado por intermédio do Sistema de Compras do Governo Federal.
+
+2.2. As informações a respeito das condições exigidas e dos procedimentos a serem cumpridos, para
+o registro no Sistema, para o credenciamento de representantes e para a obtenção de senha de acesso, estão
+disponíveis no endereço eletrônico www3.comprasnet.gov.br/sicaf-web.
+
+2.3. A participação no certame está condicionada, ainda, a que o interessado ao acessar, inicialmente,
+o ambiente eletrônico de contratações do Sistema de Compras do Governo Federal, declare, mediante
+assinalação nos campos próprios, que inexiste qualquer fato impeditivo de sua participação no certame ou de
+sua contratação, que conhece e aceita os regulamentos do Sistema, relativos ao Pregão Eletrônico.
+
+2.. A licitante responde integralmente por todos os atos praticados no Pregão Eletrônico, por seus
+representantes devidamente credenciados, assim como pela utilização do acesso ao sistema, ainda que
+indevidamente, inclusive por pessoa não credenciada como sua representante.
+
+2.5. Cada representante credenciado poderá representar apenas uma licitante em cada Pregão
+Eletrônico.
+2.6. O envio da proposta vinculará a licitante ao cumprimento de todas as condições e obrigações
+
+inerentes ao certame.
+
+2.7. Para o exercício do direito ao tratamento diferenciado de que trata a Lei Complementar nº
+123/2006, a condição de microempresa, de empresa de pequeno porte ou de microempreendedor individual
+(quando aplicável ao caso), deverá constar do registro da licitante junto ao Sistema.
+
+2.8. É impedida de participar desta licitação a pessoa jurídica:
+
+2.8.1. Que possua em seu quadro societário ou seja constituída por: (a) empregado, dirigente ou
+membro dos Conselhos Deliberativo e Fiscal do SEBRAE-SP e, do mesmo modo, (b) excempregado do SEBRAE-
+SP que tenha sido demitido ou desligado em prazo inferior a 18 (dezoito) meses, considerando a data de
+realização do certame, exceto aqueles que forem aposentados e, (c) ex-membro dos Conselhos Deliberativo e
+Fiscal do SEBRAE-SP, que tenham deixado de integrar o Conselho em prazo inferior a 180 (cento e oitenta) dias,
+considerando a data de realização do certame.
+
+2.8.2. Que integre o Conselho Deliberativo e Fiscal do SEBRAE-SP, exceto aquelas previstas no 8 4º do
+art. 73, do Regulamento de Licitações e de Contratos do Sistema SEBRAE.
+
+2.8.3. Apenada com suspensão temporária para licitar ou contratar com o SEBRAE-SP ou Sistema
+SEBRAE, enquanto durar o período de suspensão.
+
+2.8.4. Cujo ramo de atividade prevista em seu estatuto ou contrato social não inclua o objeto da
+presente licitação.
+
+2.8.5. Que tenha sido declarada inidônea pela Administração Pública.
+
+
+SEBRAE
+
+2.8.6. Que esteja em quaisquer das seguintes hipóteses: processo de falência, sob concurso de
+credores, em dissolução ou em liquidação.
+
+2.8.7. Sociedades integrantes de um mesmo grupo econômico, assim entendidas aquelas que tenham
+diretores, sócios ou representantes legais comuns, ou que utilizem recursos materiais, tecnológicos ou
+humanos em comum, exceto se demonstrado que não agem representando interesse econômico em comum.
+
+3. DAS PROPOSTAS
+
+3.1. As propostas, deverão ser enviadas por meio eletrônico disponível no endereço
+wWW.gov.br/compras na opção “ACESSO AO SISTEMA”, desde a divulgação da íntegra do Edital no referido
+
+endereço eletrônico, até o dia e horário previstos no preâmbulo para a abertura da sessão pública.
+
+3.2. A proposta de preço deverá conter os preços unitários e totais, por item, em moeda corrente
+nacional, deverá constar apenas 2 (duas) casas decimais após a virgula, em algarismos, apurados à data de sua
+apresentação, sem inclusão de qualquer encargo financeiro ou previsão inflacionária. Nos preços propostos
+deverão estar incluídos, além do lucro, todas as despesas e custos, como por exemplo: transportes, tributos de
+qualquer natureza, incidências fiscais e trabalhistas e todas as despesas, diretas ou indiretas, relacionadas com
+o fornecimento do objeto da presente licitação.
+
+3.3. Não será admitida proposta inferior à quantidade prevista no anexo da proposta comercial.
+3.4. O prazo de validade da proposta será de 90 (noventa) dias.
+3.5. As propostas comerciais deverão ser apresentadas conforme o modelo do anexo da proposta
+
+comercial, que integra este edital.
+
+3.6. O valor referencial desta licitação é de R$ 916.429,28 (novecentos e dezesseis mil, quatrocentos
+e vinte e nove reais e vinte e oito centavos), conforme detalhamento no Anexo Valor Referencial.
+
+3.7. As propostas não poderão conter elementos que, por ação da licitante proponente, permitam a
+sua identificação. Nesta hipótese, os conteúdos, títulos ou nomenclaturas dos campos das “propriedades do
+documento” acarretarão a desclassificação das propostas comerciais, quando contarem com a descrição da
+razão social ou nome fantasia da licitante, assim como nomes de usuários, de cidades, estados, regiões, pontos
+ou outros caracteres quaisquer. Portanto, o SEBRAE-SP pede a atenção dos senhores licitantes nesse detalhe
+no momento da elaboração de suas propostas comerciais, objetivando evitar suas desclassificações.
+
+3.8. No caso de cooperativa, junto à proposta, sob pena de desclassificação, a cooperativa deve
+apresentar: modelo de gestão operacional adequado ao objeto da licitação; demonstração de atuação em
+regime cooperado; comprovação de que qualquer cooperado qualificado pode executar o objeto contratado.
+
+3.9. Será obrigatória a apresentação de catálogos pela licitante melhor classificada, conforme
+etapas previstas neste instrumento.
+
+4, DOS DOCUMENTOS DE HABILITAÇÃO
+
+4.1. O julgamento da habilitação se processará na forma prevista neste edital, mediante o exame dos
+documentos a seguir relacionados, os quais dizem respeito a:
+
+3
+
+
+SEBRAE
+
+ma
+4.1.1. Habilitação jurídica
+
+4.1.1.1. Ato constitutivo e alterações (ou consolidação), registrados no órgão competente ou Certificado
+de Microempreendedor Individual (CCMEI), no caso de microempreendedor individual.
+
+4.1.1.2. O objeto social da pessoa jurídica, constante de seu ato constitutivo, deverá ser compatível com
+o objeto desta licitação.
+
+4.1.1.3. No caso de sociedades anônimas, deverá ser apresentado o estatuto social devidamente
+registrado na Junta Comercial e publicado em jornal de grande circulação editado na localidade em que esteja
+situada a sede da companhia, conforme Lei nº 6.404/1976, acompanhado do ato de nomeação ou eleição de
+diretores ou conselheiros, conforme previsto no estatuto, com o respectivo documento de identidade do(s)
+administrador(es).
+
+4.1.1.4. No caso de sociedades limitadas, também deverá ser exigido o contrato social registrado na Junta
+Comercial, juntamente com o ato de nomeação dos administradores, com prazo de mandato, acompanhado
+do(s) respectivo(s) documentos de identidade.
+
+4.1.1.5. No caso de cooperativa a constituição e funcionamento devem obedecer à Lei nº 5.764/1971, Lei
+nº 12.690/2012 e Lei Complementar nº 130/2009;
+
+4.1.1.6. No caso de cooperativas de trabalho (Lei nº 12.690/2012), o objeto da licitação deve
+corresponder a serviços especializados, complementares ao objeto social da cooperativa, sem caracterizar
+relação de emprego.
+
+4.1.2. Qualificação técnica
+
+4.1.2.1. Apresentação de atestado(s) de desempenho anterior em atividades pertinentes e compatíveis
+em características, quantidades e prazos com o objeto desta licitação, emitido(s) por pessoa jurídica de direito
+público ou privado, demonstrando que foram cumpridas corretamente suas obrigações contratuais, contendo
+em seu corpo a razão social, endereço completo, telefone e CNPJ/MF, da empresa fornecedora do atestado,
+bem como a data, assinatura e identificação do assinante, observadas as demais exigências constantes neste
+edital.
+
+4.1.2.1.1. Considerar-se-á (ão) compatível (is) em características, quantidades e prazos com o objeto desta
+licitação, o(s) atestado(s) que comprove(m) o comprove(m) o fornecimento de no mínimo 5 (cinco) notebooks
+da marca Apple, modelo MacBook.
+
+4.1.2.1.2. Poderão ser apresentados quantos atestados forem necessários para a comprovação acima
+exigida.
+4.1.2.1.3. Em sede de diligência, poderão ser requiridas à LICITANTE informações complementares
+
+necessárias à comprovação da legitimidade dos atestados ofertados na presente licitação, apresentando,
+dentre outros documentos, cópia do contrato que deu suporte à contratação, Notas Fiscais/Faturas, Notas de
+Empenho, endereço atual da contratante e local em que foram prestados os serviços.
+
+
+SEBRAE
+
+4.1.2.2. Juntamente com os documentos acima mencionados, a licitante deverá apresentar os Anexos
+DECLARAÇÃO DE NÃO IMPEDIMENTO e FICHA DE CADASTRO DA EMPRESA, devidamente preenchida e
+assinada por seu representante legal, o qual constitui anexo deste Edital.
+
+4.1.3. Qualificação econômico-financeira
+4.1.3.1. Certidão Negativa de Falência, expedida pelo distribuidor da sede do licitante.
+4.1.3.2. Balanço patrimonial e demonstrações contábeis do último exercício social, já exigíveis e
+
+apresentados na forma da Lei, assinados por Contador ou por outro profissional equivalente, devidamente
+registrado no Conselho Regional de Contabilidade, que comprovem a boa situação financeira da empresa,
+vedada a sua substituição por balancetes ou balanços provisórios, demonstrando resultado igual ou maior de
+que 1 (um) em todos os Índices abaixo explicitados:
+Liquidez Geral = (Ativo Circulante + Realizável a Longo Prazo)
+(Passivo Circulante + Passivo Não Circulante
+
+Solvência Geral = Ativo Total
+
+(Passivo Circulante + Passivo Não Circulante)
+
+Liquidez Corrente = Ativo Circulante
+Passivo Circulante
+4.1.3.3. A licitante que apresentar em seu Balanço resultado menor do que 1 (um) em quaisquer dos
+Índices acima fica obrigada a comprovar, na apresentação da documentação, Patrimônio Líquido Mínimo
+
+correspondente a 10% (dez por cento) do valor total proposto para a contratação.
+
+4.1.3.4. Serão considerados aceitos como na forma da Lei o balanço patrimonial e demonstrações
+contábeis assim apresentados:
+
+4.1.3.4.1. Sociedades regidas pela Lei nº 6.404/76 (sociedade anônima): por fotocópia registrada na Junta
+Comercial;
+4.1.3.4.2. Sociedade por cota de responsabilidade limitada (LTDA): por fotocópia do Livro Diário, inclusive
+
+com os Termos de Abertura e Encerramento, devidamente autenticado na Junta Comercial da sede ou
+domicílio da licitante ou em outro órgão equivalente; ou
+
+4.1.3.4.3. Sociedades sujeitas ao regime estabelecido na Lei Complementar nº 123, de 14 de dezembro de
+2006: por fotocópia do Balanço e das Demonstrações Contábeis devidamente registradas ou autenticadas na
+Junta Comercial da sede ou domicílio da licitante ou em outro órgão equivalente;
+
+4.1.3.5. Sociedades Inscritas no Sistema Público de Escrituração Digital — SPED, alternativamente,
+poderão apresentar: (a) comprovante da entrega digital do livro contábil com os balanços patrimoniais e as
+
+5
+
+
+SEBRAE
+
+demonstrações financeiras exigíveis na forma da lei; (b) comprovante da assinatura digital do livro contábil pelo
+diretor responsável e por profissional de contabilidade habilitado e devidamente registrado no CRC,
+comprovando-se sua regularidade perante o respectivo conselho; (c) cópia do termo de abertura e
+encerramento do respectivo livro contábil.
+
+4.1.3.5.1. Sociedade criada no exercício em curso: fotocópia do Balanço de Abertura, devidamente
+registrado na Junta Comercial da sede ou domicílio da licitante.
+
+4.1.3.6. A licitante com menos de um ano de existência, que ainda não tenha balanço, deverá apresentar
+demonstrações contábeis envolvendo seus direitos, obrigações e patrimônio líquido relativos ao período de
+sua existência, avaliados através da obtenção de Índice de Solvência (S) maior ou igual a um (> a 1), conforme
+fórmula abaixo:
+
+Solvência = Ativo Total
+
+Passivo Circulante
+
+4.1.4. Regularidade fiscal
+
+4.1.4.1. Prova de inscrição no Cadastro Nacional de Pessoa Jurídica (CNPJ), da licitante.
+
+4.1.4.2. CRF (certificado de regularidade do FGTS), emitido pela Caixa Econômica Federal.
+
+4.1.4.3. Certidão Negativa, ou Positiva com Efeitos de Negativa, expedida conjuntamente pela Secretaria
+
+da Receita Federal do Brasil (RFB) e pela Procuradoria-Geral da Fazenda Nacional (PGFN), referente a todos os
+créditos tributários federais e à Dívida Ativa da União (DAU) por elas administrados, inclusive as Contribuições
+
+Previstas pelas alíneas “a” e “C”, do parágrafo único do art. 11, da Lei 8.212/91, nos termos da Portaria
+Conjunta RFB/PGFN nº 1.751, de 2 de outubro de 2014.
+
+4.1.4.4. Prova de regularidade com a Fazenda Estadual, relativa ao ICMS (Imposto de circulação de
+mercadoria e prestação de serviços).
+
+4.1.4.5. Certidão Negativa de Débitos Trabalhistas (CNDT), expedida pela Justiça do Trabalho.
+4.2. Informações inerentes aos documentos de habilitação
+4.2.1. Sob pena de inabilitação, os documentos encaminhados deverão estar em nome da licitante, com
+
+indicação do número de inscrição no CNPJ.
+
+4.2.2. Todos os documentos emitidos em língua estrangeira deverão ser entregues acompanhados da
+tradução para língua portuguesa e, quando solicitado, efetuada por tradutor juramentado, e devidamente
+consularizados ou registrados no cartório de títulos e documentos.
+
+4.2.3. Documentos de procedência estrangeira, mas emitidos em língua portuguesa, também deverão
+ser apresentados devidamente consularizados ou registrados em cartório de títulos e documentos, quando
+solicitado.
+
+4.2.4. Os documentos necessários à habilitação poderão ser apresentados em cópia simples.
+
+
+SEBRAE
+
+ma
+4.2.5. Não serão aceitos protocolos em substituição aos documentos ora exigidos.
+4.2.6. Todos os documentos deverão estar dentro do prazo de suas validades.
+4.2.6.1. Os documentos para os quais o prazo não estiver mencionado explicitamente, somente serão
+
+aceitos dentro do prazo máximo de 180 (cento e oitenta) dias, contados da data de sua respectiva emissão,
+com exceção do (s) Atestado(s) de qualificação técnica e CNPJ.
+
+4.2.7. Todos os documentos solicitados para habilitação referir-se-ão, sempre, ao estabelecimento da
+proponente que estiver participando da licitação, o que se verificará, exclusivamente, pelo número do CNPJ
+deles constantes. Desta forma, se a proponente nesta licitação for a matriz, todos os documentos deverão se
+referir à matriz. Se a proponente nesta licitação for a filial, todos os documentos deverão se referir à filial. Em
+qualquer caso, frise-se, a verificação ocorrerá pelo número do CNPJ constante dos documentos de habilitação e
+serão aceitos documentos que, pela própria natureza ou determinação legal, forem emitidos apenas em nome
+da matriz ou cuja validade abranja todos os estabelecimentos da licitante.
+
+5. DA SESSÃO PÚBLICA E DO JULGAMENTO
+
+5.1. No dia e horário previstos no quadro informativo deste edital, o Pregoeiro dará início à sessão
+pública do Pregão Eletrônico, com a abertura automática das propostas e a sua divulgação, pelo sistema, na
+forma de grade ordenatória, em ordem crescente de preços.
+
+5.2. Durante a sessão pública, a comunicação entre o Pregoeiro e as licitantes ocorrerá
+exclusivamente através do chat próprio do sistema eletrônico.
+
+5.3. Cabe à licitante acompanhar as operações no sistema eletrônico durante a sessão pública do
+Pregão, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de qualquer
+mensagem emitida pelo sistema ou de sua desconexão.
+
+5.4. A análise das propostas pela Comissão Permanente de Licitações visará ao atendimento das
+condições estabelecidas neste Edital e seus anexos.
+
+5.5. Serão desclassificadas as propostas:
+
+5.5.1. Cujo objeto não atenda às especificações, prazos e condições fixados neste Edital.
+
+5.5.2. Que por ação da licitante ofertante contenham elementos que permitam a sua identificação.
+5.5.3. Que apresentarem valores inexequiíveis.
+
+5.6. A desclassificação se dará por decisão motivada da Comissão Permanente de Licitações.
+
+5.7. Somente as licitantes com propostas classificadas participarão da fase de lances.
+
+5.8. O eventual desempate de propostas do mesmo valor será promovido pelo sistema, com
+
+observância dos critérios legais estabelecidos para tanto.
+
+
+SEBRAE
+
+5.9. Nova grade ordenatória será divulgada pelo sistema, contendo a relação das propostas
+classificadas e das desclassificadas.
+
+5.10. Será iniciada a etapa de lances, com a participação de todas as licitantes detentoras de propostas
+classificadas.
+
+5.11. A formulação de lances será efetuada, exclusivamente, por meio do sistema eletrônico.
+
+5.11.1. Os lances deverão ser formulados em valores distintos e decrescentes, inferiores à proposta de
+menor preço, ou em valores distintos e decrescentes inferiores ao do último valor apresentado pela própria
+licitante ofertante, observada, em ambos os casos, a redução mínima entre eles de R$ 5.000,00 (cinco mil),
+aplicável, inclusive, em relação ao primeiro formulado, prevalecendo o primeiro lance recebido, quando
+ocorrerem 2 (dois) ou mais lances do mesmo valor.
+
+5.12. A etapa de lances terá a duração de 10 (dez) minutos.
+
+5.12.1. A duração da etapa de lances será prorrogada automaticamente pelo sistema, visando à
+continuidade da disputa, quando houver lance admissível ofertado nos últimos 02 (dois) minutos do período de
+que trata o subitem anterior ou nos sucessivos períodos de prorrogação automática.
+
+5.12.2. Não havendo novos lances ofertados nas condições estabelecidas no subitem anterior, a duração
+da prorrogação encerrar-se-a, automaticamente, quando atingido o segundo minuto contado a partir do
+registro no sistema, do último lance que ensejar prorrogação.
+
+5.13. No decorrer da etapa de lances, as licitantes serão informadas pelo sistema eletrônico:
+
+5.13.1. Dos lances admitidos e dos inválidos, horários de seus registros no sistema e respectivos valores.
+5.13.2. Do tempo restante para o encerramento da etapa de lances.
+
+5.14. A etapa de lances será considerada encerrada, findos os períodos de duração indicados nos
+
+subitens anteriores.
+
+5.15. Encerrada a etapa de lances, o sistema divulgará a nova grade ordenatória, contendo a
+classificação final, em ordem crescente de valores.
+
+5.15.1. Para essa classificação será considerado o último preço admitido de cada licitante.
+
+5.16. Com base na classificação a que alude o item anterior, será assegurada às licitantes
+microempresas, empresas de pequeno porte e microempreendedores individuais, com fundamento na Lei
+Complementar nº 123/2006, preferência à contratação, observadas as seguintes regras:
+
+5.16.1. A microempresa, empresa de pequeno porte ou microempreendedor individual detentor da
+proposta de menor valor, dentre aquelas cujos valores sejam iguais ou superiores até 5% (cinco por cento) ao
+valor da proposta melhor classificada, será convocado pelo sistema, para que apresente preço inferior ao da
+melhor classificada, no prazo de 5 (cinco) minutos, sob pena de preclusão do direito de preferência.
+
+5.16.1.1. A convocação reicairá sobre a licitante vencedora de sorteio, no caso de haver propostas
+empatadas, nas condições do subitem anterior.
+
+
+SEBRAE
+
+5.16.1.2. Caso o primeiro fornecedor ME/EPP/MEI convocado não oferte lance no tempo estipulado (05
+minutos) ou opte pela desistência, o sistema convocará o próximo fornecedor ME/EPP/MEI aplicável à regra
+dos 5%, e assim sucessivamente.
+
+5.16.1.3. Se nenhuma das ME/EPP/MEI apresentar lance inferior ao vencedor, ou se todas desistirem,
+ficará mantida a empresa vencedora inicial e o item será encerrado automaticamente.
+
+5.16.2. Caso a detentora da melhor oferta, de acordo com a classificação de que tratam os itens
+anteriores seja microempresa, empresa de pequeno porte ou microempreendedores individuais, não será
+assegurado o direito de preferência, passando-se, desde logo, à negociação do preço.
+
+5.17. O Pregoeiro poderá negociar com o autor da oferta de menor valor, após aplicação do
+tratamento diferenciado, se houver, ou, na falta deste, com base na classificação originária, via chat no
+sistema, com vistas à redução do preço total ou dos valores unitários.
+
+5.18. Em virtude do oferecimento de lances, o pregoeiro poderá negociar os valores unitários, de
+forma a equalizá-los com a média pesquisada no mercado pelo SEBRAE-SP, a qual instrui o processo da
+licitação. Em qualquer caso, deverá constar apenas 2 (duas) casas decimais após a virgula.
+
+5.19. O Pregoeiro poderá a qualguer momento solicitar às licitantes a composição de preços unitários
+de serviços e/ou de materiais/equipamentos, bem como os demais esclarecimentos que julgar necessário.
+
+5.20. A licitante classificada provisoriamente em primeiro lugar deverá encaminhar a proposta de
+preço adequada ao último lance, em arquivo único, no prazo máximo 02 (duas) horas, contado a partir da
+convocação efetuada pelo Pregoeiro.
+
+5.21. A licitante que abandonar o certame, deixando de enviar a documentação indicada neste item,
+será desclassificada e sujeitar-se-á às sanções previstas neste Edital.
+
+5.22. O Pregoeiro examinará a proposta mais bem classificada quanto à compatibilidade do preço
+ofertado com o valor estimado, bem como à compatibilidade da proposta com as especificações técnicas do
+objeto, observando o seguinte:
+
+5.22.1. Não se considerará qualquer oferta de vantagem não prevista neste Edital, inclusive
+financiamentos subsidiados ou a fundo perdido.
+
+5.22.2. Não se admitirá proposta que apresente valores inexequíveis.
+
+5.22.3. O Pregoeiro poderá fixar prazo para o reenvio do anexo contendo a planilha de composição de
+preços quando o preço total ofertado for aceitável, mas os preços unitários que compoem necessitem de
+ajustes aos valores estimados pelo SEBRAE-SP.
+
+5.22.4. Não serão aceitas propostas com valores unitários e global superiores aos estimados ou com
+preços manifestamente inexequiíveis.
+
+5.22.4.1. Considerar-se-á inexequível a proposta que não venha a ter demonstrada sua viabilidade por
+meio de documentação que comprove que os custos envolvidos na contratação são coerentes com os de
+mercado do objeto deste Pregão.
+
+
+SEBRAE
+
+6. DA APRESENTAÇÃO DE CATÁLOGO
+
+6.1. A licitante classificada em primeiro lugar na disputa deverá, juntamente com a proposta
+adequada ao último preço negociado, apresentar os manuais, catálogos e folders, contendo desenhos,
+especificações técnicas, instruções de montagem, manutenção e limpeza com o propósito de informar as
+características dos equipamentos e dos acessórios ofertados.
+
+6.1.1. Em caso de empresa representante comercial, os catálogos deverão estar em nome do
+fabricante.
+
+6.2. A análise das características dos equipamentos ofertados será procedida em cotejo com as
+especificações técnicas constantes deste instrumento, não sendo admitido produtos com especificação
+inferior.
+
+6.3. Os produtos desprovidos dos documentos relacionados no item anterior, serão passíveis de
+
+diligência, podendo, para tanto, o SEBRAE-SP se valer de todos os meios possíveis, tais como consulta a site
+diversos, ligações a fabricantes ou exigência de documentos complementares, dentre outros.
+
+6.4. Caso os documentos apresentados não sejam aprovados, por não atenderem às especificações
+previstas neste Edital, o licitante será convocado a apresentar novo produto, acompanhado de documentos
+que atendam às especificações requeridas, no mesmo prazo fixado para apresentação inicial, sem ônus ao
+SEBRAE-SP, contados da devolução com as instruções ou observações feitas pelo SEBRAE-SP, sob pena de
+desclassificação.
+
+6.5. Caso a 2º apresentação não atenda às especificações técnicas exigidas neste Edital, a proposta da
+licitante será considerada inaceitável, pelo Pregoeiro, sendo, portanto, desclassificada.
+
+6.6. Na hipótese de a proposta da licitante ser desclassificada, por não atendimento das
+especificações técnicas requeridas, serão convocadas as demais licitantes, obedecendo-se rigorosamente a
+ordem de classificação das propostas, seguindo-se aos mesmos moldes descritos nos itens anteriores.
+
+6.7. A licitante vencedora que vier a ser contratada ficará obrigada ao cumprimento integral de sua
+proposta, ainda que algum item não tenham sido objeto de verificação na análise do manual/catálogo/folder.
+
+7. DA HABILITAÇÃO
+
+7.1. Encerrada a etapa de negociação, o pregoeiro verificará se o licitante provisoriamente
+classificado em primeiro lugar atende às condições previstas quanto ao cadastro do SICAF, especialmente
+quanto à existência de sanção que impeça a participação no certame ou a futura contratação, mediante a
+consulta aos seguintes cadastros:
+
+7.1.1. SICAF;
+
+7.1.2. Cadastro Nacional de Empresas Inidôneas e Suspensas — CEIS (Cadastro de Empresas Inidôneas e
+Suspensas), CNEP (Cadastro Nacional de Empresas Punidas) e CEPIM ( Cadastro de Entidades Privadas sem Fins
+Lucrativos Impedidas), mantido pela Controladoria-Geral da União
+(https://www.portaltransparencia.gov.br/sancoes/);
+
+7.1.3. Cadastro Nacional de Condenações Cíveis por Ato de Improbidade Administrativa disponível no
+
+10
+
+
+SEBRAE
+
+Portal do CNJ;
+
+7.1.4. Sistema Inabilitados e Inidôneos disponível no portal do TCU ( https://contas.tcu.gov.br); e
+
+7.1.5. Cadastro de Empresas Penalizadas pelo Sistema Sebrae.
+
+7.2. Incialmente o pregoeiro fará a análise do atendimento dos documentos de habilitação mediante
+a verificação, por meio do SICAF, nos documentos por ele abrangidos, em especial ao documentos indicados no
+item 4.
+
+7.2.1. É de responsabilidade do licitante conferir a exatidão dos seus dados cadastrais no SICAF e
+
+mantê-los atualizados junto aos órgãos responsáveis pela informação, devendo proceder, imediatamente, à
+correção ou à alteração dos registros tão logo identifique incorreção ou aqueles se tornem desatualizados.
+
+7.2.1.1. Caso a documentação exigida não esteja contemplada no SICAF, a licitante deverá anexar os
+documentos de habilitação remanescentes, indicados no item DOS DOCUMENTOS DE HABILITAÇÃO, deste
+Edital, por meio do sistema Eletrônico, opção “inclusão de anexo”, no prazo máximo de 02 (duas) horas,
+contado a partir da convocação efetuada pelo Pregoeiro.
+
+7.2.2. Caso os documentos e informações não atendam aos requisitos estabelecidos no item DOS
+DOCUMENTOS DE HABILITAÇÃO, deste Edital, a Comissão Permanente de Licitações verificará a possibilidade
+de suprir ou sanear eventuais omissões ou falhas, mediante consultas efetuadas por outros meios eletrônicos
+hábeis de informações.
+
+7.2.2.1. A verificação pelo pregoeiro, em sítios eletrônicos oficiais de órgãos e entidades emissores de
+certidões constitui meio legal de prova, para fins de habilitação.
+
+7.2.2.2. Essa verificação será certificada pelo Pregoeiro na ata da sessão pública, devendo ser anexados
+aos autos os documentos passíveis de obtenção por meio eletrônico, salvo impossibilidade devidamente
+certificada e justificada.
+
+7.2.3. A licitante poderá, ainda, suprir ou sanear eventuais omissões ou falhas, relativas ao
+cumprimento dos requisitos e condições de habilitação estabelecidos no Edital, mediante a apresentação de
+documentos, desde que os envie no curso da própria sessão pública do Pregão e até a decisão sobre a
+habilitação, por meio do endereço eletrônico comissaodelicitacao &sebraesp.com.br.
+
+7.2.4. Em qualquer caso, o Pregoeiro poderá requerer a remessa dos documentos de habilitação por
+meio do endereço eletrônico comissaodelicitacao Osebraesp.com.br.
+
+7.2.5. O SEBRAE-SP não se responsabilizará pela eventual indisponibilidade dos meios eletrônicos
+hábeis de informações, no momento da verificação, ou dos meios para a transmissão de cópias de
+documentos, ressalvada a indisponibilidade de seus próprios meios. Na hipótese de ocorrerem essas
+indisponibilidades e/ou não sendo supridas ou saneadas as eventuais omissões ou falhas, na forma prevista nas
+alíneas anteriores, a licitante será inabilitada, mediante decisão motivada.
+
+7.2.6. As microempresas, empresas de pequeno porte e microempreendedores individuais não estão
+desobrigadas da apresentação de nenhum documento de habilitação constante deste edital. Entretanto,
+qualquer irregularidade fiscal poderá ser corrigida, no prazo de 05 (cinco) dias úteis, contados do ato de
+declaração da vencedora do certame, prorrogáveis por igual período, a critério do Órgão de Julgamento da
+
+11
+
+
+SEBRAE
+
+licitação, sob pena da perda do direito à contratação, sem prejuízo da possível aplicação da penalidade
+consistente na suspensão do direito de licitar ou contratar com o Sistema SEBRAE pelo prazo de até 06 (seis)
+anos.
+
+7.2.6.1. Ocorrendo a habilitação na forma indicada no subitem anterior, deste item, a sessão pública será
+suspensa pelo Pregoeiro, observados os prazos ali previstos, para que a licitante vencedora possa regularizar
+seus documentos.
+
+7.2.6.2. Por ocasião da retomada da sessão, a Comissão Permanente de Licitações decidirá
+motivadamente sobre a regularização fiscal ou não por parte da licitante microempresa, empresa de pequeno
+porte ou microempreendedores individuais ou sobre a prorrogação de prazo para tal finalidade, nos termos
+descritos pelo subitem anterior.
+
+73. Se a oferta não for aceitável, se a licitante for inabilitada ou não sendo saneada a irregularidade
+fiscal, o Pregoeiro, respeitada a ordem de classificação, examinará a oferta subsequente de menor preço,
+negociará com o seu autor, decidirá sobre a sua aceitabilidade e, em caso positivo, verificará as condições de
+habilitação e assim sucessivamente, até a apuração de uma oferta aceitável cujo autor atenda aos requisitos de
+habilitação, caso em que será declarado vencedor.
+
+7.3.1. Constatado o cumprimento dos requisitos e condições estabelecidos no Edital, a licitante será
+declarada vencedora do certame.
+
+7.3.2. Por meio de aviso lançado no sistema, o Pregoeiro informará às demais licitantes que poderão
+consultar as informações cadastrais da licitante vencedora utilizando opção disponibilizada no próprio sistema
+para tanto. Deverá, ainda, informar o teor dos documentos recebidos pelos meios eletrônicos descritos neste
+edital.
+
+8. DO RECURSO E DA HOMOLOGAÇÃO
+
+8.1. Divulgado o vencedor, finalizada a etapa ou saneada a irregularidade fiscal por parte da licitante
+microempresa, empresa de pequeno porte ou microempreendedor individual, o sistema informará às
+licitantes, que poderão manifestar seu interesse em interpor recurso, imediata e motivadamente, por meio
+eletrônico, no prazo de 10 (dez) minutos, utilizando para tanto, exclusivamente, campo próprio disponibilizado
+no sistema.
+
+8.2. Havendo a manifestação da intenção, na forma indicada no subitem anterior, em qualquer etapa
+do pregão, o sistema informará aos recorrentes que poderão apresentar memoriais contendo as razões de
+recurso, no prazo de até 03 (três) dias úteis após o encerramento da sessão pública, e às demais licitantes que
+poderão apresentar contrarrazões, em igual prazo, os quais começarão a correr do término do prazo para
+apresentação de memoriais, sendo-lhes assegurada vista imediata dos autos, devendo os interessados
+procurarem pelo Pregoeiro ou pelos membros da Comissão Permanente de Licitação, através do e-mail
+comissaodelicitacao Osebraesp.com.br.
+
+8.3. Os memoriais de recurso e as contrarrazões deverão ser apresentados exclusivamente por meio
+eletrônico, no sítio www.gov.br/compras, observados os prazos nele estabelecidos.
+
+8.4. A falta de interposição na forma prevista nos subitens anteriores, deste item, importará a
+decadência do direito de recurso e o Pregoeiro proporá à autoridade competente a homologação do
+
+12
+
+
+SEBRAE
+
+procedimento licitatório. Não serão aceitos os memoriais apresentados por licitante que não tenha
+manifestado a intenção de interpor recurso em campo próprio disponibilizado no sistema ou que não
+respeitem o prazo estipulado acima.
+
+8.5. O recurso terá efeito suspensivo e o seu acolhimento importará a invalidação dos atos
+insuscetíveis de aproveitamento.
+
+8.6. Decididos os recursos e constatada a regularidade dos atos praticados, a autoridade competente
+homologará o procedimento licitatório e adjudicará o objeto em favor do (s) vencedor (es) do certame.
+
+9. DA DESCONEXÃO COM O SISTEMA ELETRÔNICO
+
+9.1. À licitante caberá acompanhar as operações no sistema eletrônico, durante a sessão pública,
+respondendo pelos ônus decorrentes de sua desconexão ou da inobservância de quaisquer mensagens
+emitidas pelo sistema.
+
+9.2. A desconexão do sistema eletrônico com o Pregoeiro, durante a sessão pública, implicará:
+
+9.2.1. Fora da etapa de lances, a sua suspensão e o seu reinício, desde o ponto em que foi
+interrompida. Neste caso, se a desconexão persistir por tempo superior a 10 (dez) minutos, a sessão pública
+deverá ser suspensa e reiniciada somente após comunicação expressa às licitantes de nova data e horário para
+a sua continuidade.
+
+9.2.2. Durante a etapa de lances, a continuidade da apresentação de lances pelas licitantes, até o
+término do período estabelecido no Edital.
+
+9.3. A desconexão do sistema eletrônico com qualquer licitante não prejudicará a conclusão válida da
+sessão pública ou do certame.
+
+10. DAS CONDIÇõES PARA A ASSINATURA DO CONTRATO
+
+10.1. A Unidade Aquisições e Credenciamento do SEBRAE-SP convocará a licitante para assinar O
+contrato no prazo de até 05 (cinco) dias úteis, contados da data do recebimento da convocação, prorrogável
+por igual período, se solicitado pela licitante vencedora durante seu transcurso e desde que ocorra motivo
+justificado e aceito pela Unidade.
+
+10.2. A CONTRATADA deverá providenciar, como condição para a assinatura do contrato:
+
+10.2.1. Indicação do responsável pela assinatura do contrato contendo o nome completo, número da
+cédula de identidade — RG e do Cadastro Nacional de Pessoas Físicas do Ministério da Fazenda — CPF/MF.
+
+10.2.2. Indicação do representante da CONTRATADA durante a execução do contrato, contendo o nome
+
+completo, número da cédula de identidade — RG e do Cadastro Nacional de Pessoas Físicas do Ministério da
+Fazenda — CPF/MF.
+
+13
+
+
+SEBRAE
+
+10.2.3. Cópia da cédula de identidade — RG e do Cadastro Nacional de Pessoas Físicas do Ministério da
+Fazenda — CPF/MF da pessoa responsável pela assinatura do contrato, sendo ela representante legal da
+empresa ou procurador devidamente constituído.
+
+10.2.4. Instrumento público ou particular de mandato, este último com firma reconhecida, outorgando
+poderes ao signatário da contratação, quando o assinante não se tratar de sócio ou diretor autorizado através
+do estatuto ou contrato social.
+
+10.2.5. Estatuto ou Contrato Social da empresa, caso tenham ocorrido alterações que envolvam a
+representação legal da licitante, após a realização da sessão pública.
+
+10.2.6. Documentos apresentados na fase de habilitação que, por ocasião da assinatura do contrato,
+estiverem com a data de validade vencida.
+
+10.3. Caso a licitante vencedora não assine o contrato no prazo fixado no item 10.1 ou por ocasião de
+sua assinatura, não apresente os documentos estipulados no item anterior, ficará sujeita às penalidades
+previstas no Regulamento de Licitações e de Contratos do Sistema SEBRAE e neste Edital.
+
+10.4. Na hipótese de ocorrência do referido no subitem anterior, o SEBRAE-SP poderá ainda revogar a
+licitação ou convocar as licitantes remanescentes para assinar o contrato, observada a ordem de classificação.
+
+10.5. As licitantes remanescentes que se recusarem a assinar o contrato ou documento equivalente
+ou, por ocasião de sua assinatura, não apresentar os documentos estipulados nos itens anteriores, também
+estarão sujeitas às penalidades descritas neste Edital, salvo se apresentarem motivo justo, comprovado
+documentalmente e aceito pela Unidade Aquisições e Credenciamento do SEBRAE-SP.
+
+11. DAS PENALIDADES
+
+11.1. São causas ensejadoras de aplicação das penalidades previstas no Regulamento de Licitações e
+de Contratos do Sistema SEBRAE, inclusive a suspensão do direito de licitar e contratar com o SEBRAE-SP pelo
+prazo de até 03 (três) anos, além de multa de 10% (dez por cento) do valor total da proposta comercial
+apresentada, salvo se houver motivo justo decorrente de fato superveniente e aceito pela Unidade Aquisições
+
+e Credenciamento do SEBRAE-SP.
+
+11.1.1. A não manutenção da proposta ou dos valores ofertados por ocasião da realização da sessão
+pública de lances.
+
+11.1.2. A recusa a assinar o contrato ou a não apresentação dos documentos exigidos neste Edital.
+
+11.2. São causas ensejadoras de aplicação da suspensão do direito de licitar e contratar com o Sistema
+Sebrae pelo prazo de até 06 (seis) anos:
+
+11.2.1. Apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração falsa
+durante a licitação;
+
+11.2.2. Fraudar a licitação ou comportar-se de modo inidôneo;
+
+11.2.3. Praticar atos ilícitos com vistas a frustrar os objetivos da licitação;
+
+14
+
+
+SEBRAE
+
+ma
+11.2.4. Praticar ato lesivo previsto no artigo 5º da Lei nº 12.846, de 1º de agosto de 2013.
+
+11.3. Para aplicação das penalidades aqui previstas, a licitante será notificada para apresentação de
+defesa, no prazo de 05 (cinco) dias úteis, contados da notificação.
+
+11.4. As penalidades previstas neste edital são independentes entre si, podendo ser aplicadas isoladas
+ou cumulativamente, sem prejuízo de outras medidas cabíveis.
+
+11.5. As penalidades inerentes à esfera contratual estão disciplinadas no corpo da minuta do contrato,
+que integra o presente edital.
+12. DAS DISPOSIÇõES FINAIS
+
+12.1. O sistema manterá sigilo quanto à identidade das licitantes, para o Pregoeiro até a etapa de
+negociação com o autor da melhor oferta e para os demais até a etapa de habilitação.
+
+12.2. A chamada inicial deste Pregão Sserá publicada no portal do  SEBRAE-SP
+(www.scf3.sebrae.com.br/portalcf) e, no sítio eletrônico www.gov.br/compras, como forma de ampliar a
+
+divulgação e competitividade do certame. Contudo, os atos subsequentes, tais como despachos, decisões,
+recursos, impugnações, revogações, anulações e todos os demais, serão divulgados exclusivamente nos sítios
+eletrônicos www.gov.br/compras e www.sebrae.com.br, devendo os interessados acompanharem o
+andamento, não podendo alegar ignorância.
+
+12.3. Até 03 (três) dias úteis anteriores à data fixada para abertura da sessão pública, qualquer pessoa
+poderá, exclusivamente através do e-mail comissaodelicitacao Osebraesp.com.br solicitar esclarecimentos,
+informações ou impugnar o ato convocatório do Pregão Eletrônico.
+
+12.4. A impugnação, assim como os pedidos de esclarecimentos e informações, será enviada para o e-
+mail comissaodelicitacao Osebraesp.com.br sendo de exclusiva responsabilidade do licitante o envio e
+verificação de recebimento pelo SEBRAE-SP, não podendo alegar extravio, não recebimento, envio para o spam
+ou indisponibilidades pelo Sebrae-SP.
+
+12.5. As impugnações serão respondidas pelo subscritor do Edital e os esclarecimentos e informações
+prestados pelo Pregoeiro, por e-mail e site do Sebrae, no prazo de até 1 (um) dia útil, anterior à data fixada
+para abertura da sessão pública.
+
+12.6. Acolhida a impugnação contra o ato convocatório, será designada nova data para realização da
+sessão pública, caso seja essa a decisão, nos mesmos meios de divulgação da publicação inicial.
+
+12.7. Em caso de republicação do ato convocatório, o edital será disponibilizado no Sistema de
+Compras do Governo Federal e no Portal do SEBRAE-SP.
+
+12.8. A simples participação na presente licitação evidencia ter as proponentes examinado
+cuidadosamente este edital e seus anexos, e se inteirado de todos os seus detalhes e com eles haver
+concordado.
+
+12.9. O SEBRAE-SP não admitirá declarações, posteriores à abertura das propostas, de
+
+desconhecimento de fatos ou disposições editalícias, no todo ou em parte, que dificultem ou impossibilitem o
+julgamento das propostas à licitante vencedora.
+
+15
+
+
+SEBRAE
+
+12.10. É facultado ao Pregoeiro/Comissão Permanente de Licitações e/ou à Autoridade Superior, em
+qualquer fase da licitação, a promoção de diligência destinada a esclarecer ou complementar a instrução do
+processo. Será vedada a inclusão posterior de documento ou informação que deveria constar originariamente
+da proposta ou dos documentos de habilitação, exceto quando se tratar de documento destinado a comprovar
+condição de habilitação preexistente à abertura da sessão pública, cuja apresentação não resulte em
+desequilíbrio entre os concorrentes.
+
+12.10.1. A inobservância do prazo fixado para a entrega das respostas e/ou informações solicitadas em
+eventual diligência ou ainda o envio de informações ou documentos considerados insuficientes ou incompletos
+ocasionará a desclassificação da proposta e/ou inabilitação da licitante.
+
+12.11. Fica assegurado ao SEBRAE-SP o direito de revogar, no todo ou em parte, a presente licitação,
+mediante justificativa, sem que, em decorrência dessa medida, tenham as licitantes direito à indenização,
+compensação ou reclamação de qualquer natureza.
+
+12.12. O parecer e/ou justificativa do ato revogatório será divulgado nos sítios eletrônicos
+wWW.gov.br/compras e site do Sebrae, a partir de quando fluirá prazo para recurso, garantindo, de tal sorte, a
+ampla defesa e o contraditório.
+
+12.13. O recurso contra a decisão revogatória deverá ser interposto até as 17h30min do último dia
+previsto para sua interposição, exclusivamente por meio do endereço eletrônico
+
+(comissaodelicitacao Osebraesp.com.br), em até O5 (cinco) dias úteis.
+
+12.14. O SEBRAE-SP poderá cancelar a presente licitação, mediante justificativa, antes da assinatura do
+contrato, sem que, em decorrência dessa medida, tenha a licitante vencedora ou qualquer outro licitante,
+direito à indenização, compensação ou reclamação de qualquer natureza.
+
+12.15. Os casos omissos deste edital serão resolvidos pelo Pregoeiro/Comissão de Permanente de
+Licitações, com a aplicação das disposições do Regulamento de Licitações e de Contratos do Sistema SEBRAE, e
+as questões relativas ao sistema, pelo telefone 0800 978 9001 ou pelo portal de atendimento
+https://portaldeservicos.economia.gov.br/
+
+12.16. Fazem parte deste edital, como anexos, o termo de referência, o modelo de proposta comercial,
+a minuta do contrato e outros que, eventualmente, o seguirem.
+
+16
+
+
+SEBRAE
+
+—
+ma
+ANEXO — DECLARAÇÃO DE NÃO IMPEDIMENTO
+Eu, declaro que a empresa (nome da
+empresa) , CNPJ sob o nº , não emprega
+
+menor de dezoito anos em trabalho noturno, perigoso ou insalubre e que não emprega menor de dezesseis
+anos, salvo na condição de aprendiz, bem como não se enquadra nos impedimentos previstos no artigo 73 do
+Regulamento de Licitações e Contratos do Sistema SEBRAE (Resolução CDN nº 493/2024), abaixo descrito:
+
+Art. 73. Não poderão participar de licitações nem contratar com o Sistema Sebrae:
+
+| - Empregado, diretor ou pessoas jurídicas que tenham em seus quadros societários empregados ou diretores.
+Fica vedada, ainda, a contratação de entidades sem fins lucrativos que tenham empregados ou diretores como
+dirigentes dessas entidades.
+
+$ 1º As entidades integrantes dos Conselhos Deliberativos e Fiscais não poderão ser contratadas pelas suas
+respectivas Unidades do Sistema Sebrae, vedação que se estende também aos conselheiros, titulares e
+suplentes, quando integrantes do quadro societário de pessoas jurídicas com fins lucrativos ou dirigentes de
+entidades sem fins lucrativos.
+
+$ 2º A pessoa jurídica que tenha como sócio ex-membro dos Conselhos Deliberativo e Fiscal, não poderá
+prestar serviços para Unidade do Sistema Sebrae que exerceu suas atividades, antes do decurso do prazo
+mínimo de quarentena de 180 (cento e oitenta) dias, contados a partir de sua saída do Conselho.
+
+$ 3º A pessoa jurídica que tenha como sócio ex-empregado, não poderá prestar serviços para a Unidade do
+Sistema SEBRAE contratante do ex-empregado, antes do decurso do prazo de 18 (dezoito) meses, contados a
+partir da respectiva demissão ou desligamento, exceto se os referidos sócios forem aposentados.
+
+$ 4º As vedações previstas no & 1º não se aplicam ao Instituto Euvaldo Lodi (IEL) e aos Serviços Sociais
+Autônomos, nem às pessoas jurídicas integrantes da Administração Pública, Direta ou Indireta, federal,
+estadual ou municipal.
+
+(Assinatura do responsável legal ou procurador)
+
+17
+
+
+SEBRAE
+
+ANEXO - CADASTRO DE EMPRESA
+
+Nome fantasia:
+
+Razão social:
+
+CNP!:
+
+Inscrição estadual:
+
+Inscrição municipal:
+
+Optante simples nacional:
+
+Porte da empresa: ( )micro ( ) pequena () MEI () média () grande
+
+Número de funcionários:
+
+O que vai fornecer:
+
+Rua/Avenida:
+
+Número:
+
+Complemento:
+
+Bairro:
+
+Cidade:
+
+Estado:
+
+País:
+
+CEP:
+
+Telefone:
+
+Email:
+
+Contato:
+
+* As microempresas, empresas de pequeno porte e microempreendedores individuais deverão preencher
+também a declaração nos termos abaixo.
+
+(nome da empresa), qualificação, tipo de sociedade (Ltda, S.A, etc), endereço completo, inscrita no CNPJ (joxx),
+neste ato representada pelo (cargo) (nome do representante legal), portador da cédula de identidade RG
+Pooo), inscrito no CPFE/MF (oox), DECLARA, sob as penalidades da lei, que se enquadra como microempresa,
+empresa de pequeno porte ou microempreendedor individual, nos termos do art. 3º da Lei Complementar 123,
+de 14 de dezembro de 2006, estando apta a fruir os benefícios e vantagens legalmente instituídas, por não se
+enquadrar em nenhuma das vedações legais impostas pelo 8 4º art. 3º da Lei Complementar 123/06.
+
+Local, data, nome e assinatura do representante legal ou procurador
+
+18
+
+
+SEBRAE
+
+ANEXO — VALOR REFERENCIAL
+
+DEMONSTRATIVO DE VALORES REFERENCIAIS
+
+PROCESSO 630/2025 - MACBOOK VALORES ESTIMADOS
+UNIDADE VALOR VALOR
+JU AIRAMENVO DE MEDIDA 27 UNITÁRIO TOTAL
+1 | MacBook Pro 16" (Áudio & vídeo) Unidade 13 64.667,80 840.681,40
+2 |Magicmouse Unidade 13 882,07 11.466,91
+3 |Magickeyboard Unidade 13 1.849,00 24.037,00
+4 |Adaptador USB-C Multimídia Hub Unidade 13 559,55 7.274,15
+5 |Caseparao Macbook Pró Unidade 13 351,99 4.575,87
+6 |Protetor para hardware e teclado Unidade 13 190,40 2.475,20
+7 |Garantia dos bens e/ou serviços por 36 meses | Unidade 13 1.993,75 25.918,75
+VALOR GLOBAL DA PROPOSTA TOTAL 916.429,28
+
+
+
+SEBRAE
+
+===m
+ma
+ANEXO DO TERMO DE REFERÊNCIA
+PROCESSO 0630/2025
+1. OBJETO
+1.1 Contratação de empresa especializada para o fornecimento de equipamentos da marca Apple,
+
+modelo MacBook, e periféricos, com garantia, conforme as condições, especificações e quantitativos
+estabelecidos neste Termo de Referência.
+
+2. JUSTIFICATIVA
+
+2.1 A equipe de marketing desempenha um papel crucial na promoção e fortalecimento da marca da
+organização. Para realizar suas tarefas com eficiência e precisão, é necessário dispor de equipamentos que
+possuem capacidade gráfica reconhecida e atendam as necessidades técnicas para Edição de Vídeos e Imagens,
+Criação de Materiais Gráficos e Identidade Visual, Produção de Conteúdo Digital e Gerenciamento de
+Campanhas e Análise de Dados.
+
+2.2 A escolha do modelo MacBook, da Apple, justifica-se por suas capacidades gráfica, de
+processamento e renderização. O macOS, em comparação com o Windows, oferece maior desempenho, o que
+é ideal para tarefas exigentes, como edição de vídeos e imagens, além de apresentar ótima fidelidade de
+imagem. Essas características tornam esse modelo de equipamento o mais adequado para as demandas
+específicas de marketing do SEBRAE.
+
+3. ESPECIFICAÇÕES TÉCNICAS
+
+3.1 A Contratada deverá fornecer equipamentos novos, originais de fábrica, não sendo aceitos
+equipamentos de configuração diferente das especificadas abaixo indicadas:
+
+ITEM | EQUIPAMENTO ESPECIFICAÇõES QUANTIDADE
+º Sistema operacional sistema operacional MacOS
+Sequoia 15.5 ou superior
+º Processador Chip M4 Max da Apple com CPU de
+16 núcleos, GPU de 40 núcleos e Neural Engine de 16
+núcleos
+º Memória: Unificada de 64 GB
+º Armazenamento de 4TB
+º Tela Liquid Retina XDR de 16 polegadas
+1 MacBook Pro 16" (Áudio | e Portas: 3
+& video) o 3 portas Thunderbolt 5
+£fo) 1 porta HDMI
+fo) 1 slot para cartão SDXC
+fo) 1 entrada para fones de ouvido de 3,5mm
+fo) 1 porta MagSafe 3
+º 1 adaptador de energia USB-C de 140W
+º Cor Preto-espacial
+º Deverá “acompanhar 1 cabo Thunderbolt
+compatível com o equipamento
+2 MaMagic mouse º Recarregável 13
+
+20
+
+
+
+SEBRAE
+
+º Sem fio com base em design otimizado para ser
+movimentada suavemente pela mesa, com superfície
+Multi-Touch, capaz de fazer a navegação em documentos
+e entre páginas da internet com gestos simples.
+
+º Bateria interna
+º Emparelhar automaticamente com computador
+º Cabo em tecido de USB-C que permite conectar o
+
+mouse ao computador pela porta USB-C para emparelhar
+e recarregar
+
+º Tamanho de 2,16 cm de altura por 5,71 cm de
+largura e 11,35 cm de profundidade
+
+º Peso: 0,099 kg. Conexões e expansão: Bluetooh,
+conector lightning, sem fio.
+
+º Recarregável
+º Sem fio
+º Bateria interna e com cabo em tecido de USB-C
+
+que permite conectar o teclado ao Mac pela porta USB-C
+para emparelhar e recarregar.
+
+3 MaMagic keyboard 13
+º Tamanho de 0,41—1,09 cm de altura por 41,87 cm
+de largura e 11,49 cm de profundidade
+º Peso: 0,369 kg
+º Conectividade Bluetooh e sem fio
+º retro iluminado com Touch ID — Inglês (EUA)
+º 2 portas USB 3.0
+º 1 porta USB-C
+4 Adaptador USB-C | e 1 porta HDMI com suporte a 4k 13
+Multimídia Hub º 1 porta Ethernet (RJ 45)
+º 1 Slot SD Card
+º Compatível com MacBook Pró
+º Fechamento por zíper
+Case para o Macbook
+5 Pré º Material de Neoprene de 3mm 13
+º Tamanho compatível com o equipamento listado
+º Capa protetora de policarbonato para hardware
+6 Protetor para hardware | com Touch Id compatível com o MacBook solicitado. 13
+e teclado º Protetor de teclado em silicone, na cor
+transparente, compatível com o MacBook solicitado.
+Garantia dos bens e/ou
+7 : º Ver sessão GARANTIA DOS BENS E/OU SERVIÇOS 13
+serviços por 36 meses
+4. LOCAL, FORMA E PRAZO DE ENTREGA
+4.1 Os equipamentos deverão ser entregues na Sede do SEBRAE-SP, situada na Rua Vergueiro, 1117,
+
+Paraíso, São Paulo, no prazo de até 60 (sessenta) dias corridos, contados da data constante da ORDEM DE
+
+FORNECIMENTO, acondicionados em sua embalagem original de fábrica contendo todos os manuais e demais
+
+documentos informativos do fabricante.
+
+4.2 Será realizado um pedido único solicitando todos os equipamentos.
+
+21
+
+
+
+SEBRAE
+
+—
+4.3 A CONTRATADA deverá fornecer relatório indicando os seguintes dados:
+
+4.3.1 — Equipamento;
+
+4.3.2 — Modelo;
+
+4.3.3 — Identificação do equipamento (Nº do Ativo ou/e Nº de Série/ ou Nº de identificação).
+
+4.4 O horário de entrega será de segunda-feira a sexta-feira das 09:00 às 12:00 e das 14:00 às 17:00, a ser
+agendado com o SEBRAE.
+
+4.5 A CONTRATADA obriga-se a entregar os objetos novos, em conformidade com as especificações
+descritas na Proposta de Preço e neste termo de referência, sendo de sua inteira responsabilidade a
+substituição, caso não esteja em conformidade com as referidas especificações.
+
+4.5.1// A CONTRATADA deverá providenciar a substituição dos equipamentos se estiverem em desacordo
+com as especificações contidas no Termo de Referência e seus anexos, no prazo máximo de 1 (um) dia útil, a
+contar da notificação formal da contratante, sendo o ônus de todas as despesas da CONTRATADA, inclusive da
+retirada do objeto não aceito.
+
+5. ACOMPANHAMENTO, FISCALIZAÇÃO E RECEBIMENTO
+
+5.1 O SEBRAE se reserva o direito de acompanhar, conforme sua necessidade e conveniência, o
+fornecimento dos equipamentos durante toda a vigência contratual. Os equipamentos entregues deverão ser
+aprovados pelo SEBRAE antes do faturamento, pela CONTRATADA.
+
+5.2 Por ocasião da entrega dos equipamentos, softwares e/ou licenças, o colaborador designado pelo
+SEBRAE verificará a sua conformidade com as especificações constantes deste termo de referência, e o
+receberá emitindo o respectivo aceite.
+
+5.3 O recebimento definitivo dos equipamentos não exclui ou diminui a responsabilidade da
+CONTRATADA pelos vícios redibitórios, nos termos da legislação pertinente
+
+6. GARANTIA DOS BENS OU SERVIÇOS
+
+6.1 Os equipamentos deverão contar com garantia e suporte técnico de 36 (trinta e seis) meses, sendo 36
+meses com o fabricante, incluindo substituição de hardware e periféricos. O atendimento da garantia deverá
+ser realizado na Rua Vergueiro, 1117, Paraíso, São Paulo e deverão ser realizados sem quaisquer ônus
+adicionais ao SEBRAE.
+
+6.1.1 . Otermo de garantia será individualizado e deverá ser entregue junto a entrega dos equipamentos.
+6.1.2  Caso haja a necessidade de conserto ou troca durante o período legal de garantia, todo o
+
+procedimento de retirada e entrega, bem como procedimentos para a prestação do serviço serão de total
+responsabilidade da Contratada sem nenhum ônus ao SEBRAE-SP.
+
+22
+
+
+SEBRAE
+
+6.2 Para os casos que a CONTRATADA necessitar remover o equipamento para oficina ou assistência
+técnica, a CONTRATADA deverá substituir imediatamente o equipamento defeituoso por um equipamento
+reserva (mesma marca e modelo) ao retirado, ou um que possua no mínimo, as mesmas características e
+funcionalidades existentes no equipamento removido.
+
+6.3 Em casos de necessidade de envio do equipamento a uma oficina ou assistência técnica, a
+CONTRATADA deverá providenciar sua retirada no SEBRAE, entrega na autorizada, acompanhamento do
+andamento da garantia, retirada do equipamento na autorizada e entrega do mesmo no SEBRAE, sem
+quaisquer ônus adicionais a CONTRATANTE. Todos os custos relacionados a este processo serão
+exclusivamente da CONTRATADA.
+
+6.4 O prazo máximo para o conserto de equipamentos em oficina ou assistência técnica será de até 30
+(trinta) dias.
+
+6.5 A CONTRATADA deverá prever, em casos de retirada de equipamento por defeito, a substituição em
+caráter temporário, em no máximo 1(um) dia útil, por outro equipamento com as mesmas configurações e
+softwares instalados, para que o SEBRAE-SP não interrompa suas atividades decorrente da falta do mesmo.
+
+6.6 O atendimento será nos dias úteis entre às 08h30min e 17h30mim.
+
+6.7 A CONTRATADA deverá disponibilizar, como canal de comunicação oficial, um sistema de chamados
+online para abertura de requisições. No caso de inoperância do sistema, os chamados serão abertos através de
+e-mail a ser informado pela CONTRATADA e o controle será realizado a partir do horário de envio dele.
+
+6.8 A CONTRATADA deverá fornecer um número ou código de protocolo para identificação e
+individualização de cada chamado efetuado pela CONTRATANTE, bem como para acompanhamento e controle
+dos serviços
+
+6.9 A garantia deverá ser prestada pelo fabricante ou por assistência técnica autorizada e credenciada.
+
+6.10 Todas as despesas referentes as peças substituídas, como transporte, impostos, seguros e demais
+necessárias, deverão ser cobertas pela garantia.
+
+6.11 Todas as peças utilizadas para troca e atendimento a garantia deverão ser originais do fabricante e
+compatíveis com os equipamentos.
+
+7. ESTIMATIVA DE CONSUMO
+
+71 As estimativas de quantidades constituem mera previsão dimensionada, não estando o SEBRAE-SP
+obrigado a realizá-las em sua totalidade, não cabendo a CONTRATADA o direito de pleitear qualquer tipo de
+reparação e/ou indenização. Portanto, o SEBRAE-SP se reserva ao direito de, a seu critério, utilizar ou não as
+quantidades previstas.
+
+72 A CONTRATADA terá direito somente ao pagamento em contraprestação às quantidades efetivamente
+
+consumidas, o que será comprovado através das entregas efetuadas pela CONTRATADA e aprovadas pelo
+SEBRAE-SP.
+
+23
+
+
+SEBRAE
+
+8. DOCUMENTAÇÃO ENTREGÁVEL
+
+8.1 Mensalmente a CONTRATADA deverá enviar um relatório com os chamados abertos, serviços
+executados e devidos encaminhamentos.
+
+8.2 O Chamado efetuado pela CONTRATANTE deverá conter no mínimo os seguintes dados:
+8.2.1 . Identificação do requisitante;
+
+8.2.2 — Identificação do equipamento e/ou periférico e/ou software;
+
+8.2.3 — Defeitoreclamado;
+
+8.2.4  Dataehorada abertura;
+
+8.2.5 Dataehorada solução do problema.
+
+8.3 A CONTRATADA deverá apresentar ao SEBRAE no momento da entrega dos equipamentos:
+8.3.1 Termode garantia;
+
+8.3.2 — Os documentos relativos à habilitação da CONTRATADA devem ser mantidos regulares e dentro do
+prazo de validade, durante toda a vigência do contrato.
+
+8.4 O SEBRAE-SP poderá exigir os documentos supramencionados a qualqguer momento, para conferência
+das condições necessárias à manutenção da adequada prestação de serviços.
+
+8.5 Os relatórios serão definidos em conjunto com a equipe técnica do SEBRAE-SP e poderão sofrer
+atualizações na medida em que o nível de controle dos serviços prestados se torne necessário.
+
+9. SUBCONTRATAÇÃO
+9.1 É vedada a subcontratação deste objeto.
+10. CRITÉRIOS DE SUSTENTABILIDADE
+
+10.1 A CONTRATADA deverá adotar na execução do objeto contratual, práticas de sustentabilidade e de
+racionalização no uso de materiais e serviços, com o objetivo de atender aos critérios de redução de
+desperdício, diminuição do uso intensivo de matérias primas, reciclagem, da não geração de resíduos,
+promover o uso consciente de recursos naturais, de modo que a prestação dos serviços seja ambientalmente
+responsável.
+
+11. VIGÊNCIA
+
+11.1 A prestação dos serviços terá vigência de 06 (SEIS) meses, com a possibilidade de prorrogação, nos
+termos do artigo 36 do RLCSS.
+
+24
+
+
+SEBRAE
+
+ANEXO DA PROPOSTA COMERCIAL
+
+Ao
+
+Serviço de Apoio às Micro e Pequenas Empresas do Estado de São Paulo - SEBRAE-SP
+
+Processo nº XXXX/2025
+Pregão Eletrônico nº XXX/2025
+Validade da Proposta: 90 (noventa) dias.
+
+Razão Social:
+Telefone:
+E-mail:
+Contato:
+UNIDADE
+MARCA VALOR VALOR
+ITEM EQUIPAMENTO DE QTD P
+OFERTADA | UNITÁRIO | TOTAL
+MEDIDA
+1 MacBook Pro 16" (Áudio & video) Unidade 13
+2 Magic mouse Unidade 13
+3 Magic keyboard Unidade 13
+4 Adaptador USB-C Multimídia Hub Unidade 13
+5 Case para o Macbook Pró Unidade 13
+6 Protetor para hardware e teclado Unidade 13
+Garantia dos bens e/ou serviços por 36 '
+7 Unidade 13
+meses
+
+VALOR GLOBAL DA PROPOSTA
+
+Assinatura do responsável da empresa
+
+25
+
+
+
+SEBRAE
+
+ANEXO — MINUTA CONTRATUAL
+
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS (LICIT) Nº XXX/2025, REFERENTE AO PROCESSO 0630/2024,
+
+PREGÃO ELETRÔNICO Nº XXX/2025, QUE ENTRE SI FIRMAM O SERVIÇO DE APOIO ÀS MICRO E PEQUENAS
+
+EMPRESAS DO ESTADO DE SÃO PAULO — SEBRAE-SP E A EMPRESA XXX.
+
+DAS PARTES E SEUS REPRESENTANTES
+1. OBJETO: Contratação de empresa especializada para o fornecimento de equipamentos da marca Apple,
+modelo MacBook, e periféricos, com garantia, cujas especificações constam do termo de referência e demais
+anexos.
+
+2. VIGÊNCIA: 06 (seis) meses,
+
+contados da data da conclusão das assinaturas dos representantes legais das
+- ou — — de 202' a — de 202', podendo ser prorrogada, a critério do
+
+SEBRAE-SP, conforme disposições do Regulamento de Licitações e de Contratos do Sistema SEBRAE.
+
+3. VALOR TOTAL DO CONTRATO: R$ XXXXXXX (colocar o valor por extenso)
+
+DAS PARTES E SEUS REPRESENTANTES
+CONTRATANTE: SERVIÇO DE APOIO ÀS MICRO E PEQUENAS EMPRESAS DO ESTADO DE SÃO PAULO -
+SEBRAE-SP, com sede na Rua Vergueiro, 1.117, Paraíso, CEP: 01.504-001, São Paulo/SP, devidamente inscrito
+no CNPJ sob o nº 43.728.245/0001-42, neste ato representado por seu Diretor-Superintendente, NELSON DE
+ALMEIDA PRADO HERVEY COSTA, por seu Diretor Técnico, MARCO ANTONIO SCARASATI VINHOLI e por seu
+Diretor de Administração e Finanças, REINALDO PEDRO CORREA.
+
+CONTRATADA: XXXXXXXXXXXXXXXX, com endereço na XXXXXOCONONOM, XXXKANANAN/XX, CEP: XXOOOC-OX,
+
+inscrita no CNPJ/MF sob o nº —, neste ato representada pelo Sr. ' — os
+termos da cláusula do seu contrato social.
+
+DO FUNDAMENTO LEGAL
+A presente contratação rege-se pelo Regulamento de Licitações e Contratos do Sistema SEBRAE - Resolução
+CDN nº 493/2024.
+
+CLÁUSULAS CONTRATUAIS
+1. CLÁUSULA PRIMEIRA - DO OBJETO
+1.1. Por meio do presente instrumento, a CONTRATADA se obriga a fornecer ao CONTRATANTE os
+
+bens e/ou serviços especificados na proposta comercial, no Termo de Referência e demais ANEXOS deste
+contrato, os quais, independentemente de transcrição, são partes integrantes deste instrumento e serão
+observados naquilo que não o contrarie.
+
+2. CLÁUSULA SEGUNDA — DAS OBRIGAÇÕES DAS PARTES
+
+2.1. São obrigações da CONTRATADA, sem prejuízo de outras previstas neste instrumento e
+respectivos anexos:
+
+26
+
+
+
+SEBRAE
+
+2.1.1. Entregar o objeto do contrato previsto na cláusula primeira dentro dos prazos, quantidades,
+características, detalhamentos e níveis estabelecidos;
+
+2.1.2. Prestar garantia e assistência técnica conforme disposto no Termo de Referência e no Termo de
+Garantia Técnica, se for o caso;
+
+2.1.3. Cumprir todas as leis e imposições federais, estaduais e municipais pertinentes;
+
+2.1.4. Responsabilizar-se por todos os prejuízos decorrentes de infrações a que houver dado causa, pela
+ação ou omissão total ou parcial, inclusive por quaisquer ações judiciais relacionadas com o cumprimento do
+presente contrato;
+
+2.1.5. Efetuar o pagamento de todos os tributos, seguros, obrigações sociais, trabalhistas,
+previdenciárias, societárias ou outras incidentes ou que vierem a incidir sobre o objeto do contrato, até o seu
+recebimento definitivo, bem assim quaisquer despesas diretas e/ou indiretas relacionadas com a execução
+deste contrato, comprovando, a qualquer momento, os respectivos pagamentos que incidirem sobre a
+execução.
+
+2.1.6. Apresentar as Notas Fiscais/Faturas contendo a discriminação exata e os respectivos
+quantitativos, com os valores contratados;
+
+2.1.7. Manter, durante toda a execução do Contrato, as condições de habilitação e qualificação exigidas
+para a contratação;
+
+2.1.8. Manter sigilo, sob pena de responsabilidade, sobre todo e qualquer assunto de interesse do
+CONTRATANTE ou de terceiros de que tomar conhecimento em razão da execução contratual, devendo
+orientar seus empregados nesse sentido;
+
+2.1.9. Prestar informações e esclarecimentos sobre eventuais atos ou fatos noticiados que envolvam a
+CONTRATADA, independentemente de solicitação, e atender às solicitações e determinações do
+CONTRATANTE.
+
+2.1.10. Apresentar cópia das alterações do contrato social ou de seu estatuto.
+
+2.1.11. Designar formalmente profissional que seja responsável pelo relacionamento estratégico com o
+CONTRATANTE, com autonomia para tomada de decisões que impactem no bom andamento dos serviços,
+informando no prazo de até 05 (cinco) dias úteis da assinatura do contrato o e-mail, telefone fixo e móvel e
+nome do respectivo responsável, mantendo ativos e operacionais os meios de comunicação pelos quais serão
+realizadas as interações entre o CONTRATANTE e a CONTRATADA.
+
+2.1.12. Entregar ao gestor do Contrato o Termo de Recebimento Provisório, se exigível;
+2.1.13. Disponibilizar e fornecer todas as condições necessárias para o CONTRATANTE supervisionar,
+
+fiscalizar, avaliar e auditar o cumprimento do objeto deste contrato, sob os aspectos técnico, administrativo e
+financeiro;
+
+27
+
+
+SEBRAE
+
+2.1.14. Providenciar as exigências previstas neste instrumento e demais documentos integrantes deste
+contrato, respeitando os prazos previstos, sendo certo que este prazo não se confunde com a execução do
+contrato;
+
+2.1.15. Registrar em relatórios de atendimento todas as reuniões de serviço entre o CONTRATANTE e a
+CONTRATADA, devendo ser enviados ao CONTRATANTE até o prazo máximo de 02 (dois) dias úteis após a
+realização do contato e/ou reunião, podendo o CONTRATANTE solicitar a necessária correção, no prazo
+máximo de 02 (dois) dias úteis, a contar da data do recebimento do respectivo relatório;
+
+2.1.16. Solucionar todos os eventuais problemas pertinentes ou relacionados com a execução do objeto
+deste contrato, mesmo que para isso outra solução não prevista tenha que ser apresentada para aprovação e
+implementação, sem ônus adicionais para o CONTRATANTE;
+
+2.1.17. Não caucionar ou utilizar este contrato em qualquer operação financeira, salvo com anuência do
+CONTRATANTE;
+2.1.18. Não utilizar a marca SEBRAE ou qualquer material desenvolvido pelo CONTRATANTE, salvo
+
+quando necessário a execução do objeto contratual, mediante autorização prévia;
+
+2.1.19. Administrar e executar todos os contratos firmados com terceiros, bem como responder por
+todos os efeitos desses contratos perante terceiros e o próprio CONTRATANTE;
+
+2.1.20. Cumprir a legislação trabalhista e previdenciária com relação a seus funcionários, e, quando for o
+caso, com relação a funcionários de terceiros contratados;
+
+2.1.21. Reparar prontamente os danos ou avarias causadas por seus funcionários ou terceiros, aos bens
+do CONTRATANTE ou de terceiros, podendo o CONTRATANTE exercer o direito de retenção sobre o pagamento
+devido à CONTRATADA para garantia do ressarcimento do dano, total ou parcial;
+
+2.1.22. Caso o Termo de Referência expressamente autorize a subcontratação, esta não poderá abranger
+a totalidade dos serviços objeto deste contrato, sendo admitida apenas em relação a serviços específicos e às
+expensas e riscos da CONTRATADA. Os limites da subcontratação serão estabelecidos no Termo de Referência,
+e sua formalização estará condicionada à prévia e expressa autorização escrita do CONTRATANTE, inclusive
+para substituição de qualquer subcontratação. A subcontratação não isentará a CONTRATADA de suas
+obrigações e responsabilidades assumidas neste CONTRATO, permanecendo íntegra e inalterada a
+responsabilidade da CONTRATADA pelo integral cumprimento de todos os serviços, como se diretamente os
+tivesse executado, não podendo opor ou transferir para o CONTRATANTE nenhuma exceção, restrição,
+alegação de descumprimento total ou parcial, que tenha em relação ao subcontratado ou que este tenha
+contra ele.
+
+2.2. São obrigações do CONTRATANTE, sem prejuízo de outras previstas neste instrumento e
+respectivos anexos:
+
+2.2.1. Designar um funcionário como gestor do contrato e que servirá de contato junto à CONTRATADA
+
+para gestão, acompanhamento e esclarecimentos que porventura se fizerem necessários durante a vigência
+contratual;
+
+28
+
+
+SEBRAE
+
+2.2.2. Comunicar, por escrito, toda e qualquer orientação acerca do objeto contratado, excetuados os
+entendimentos verbais determinados pela urgência, que deverão ser confirmados, por escrito, no prazo de 02
+(dois) dia úteis;
+
+2.2.3. Fornecer e colocar à disposição da CONTRATADA todos os elementos e informações,
+proporcionando as condições que se fizerem necessários à execução do objeto;
+
+2.2.4. Vistoriar os produtos e/ou serviços conforme sua necessidade e conveniência;
+
+2.2.5. Acompanhar e fiscalizar a execução do objeto contratual, nos aspectos técnico, de segurança, de
+confiabilidade e quaisquer outros de seu interesse, através de pessoal próprio ou de terceiros designados para
+este fim;
+
+2.2.6. Monitorar o prazo, quantidade, qualidade, e níveis dos produtos e/ou serviços, conforme o caso,
+
+podendo rejeitá-los no todo ou em parte, caso estejam comprovadamente em desacordo com o contratado,
+reservando-se ao direito de suspender o pagamento até que o objeto seja executado em conformidade com o
+contratado;
+
+2.2.7. Notificar, formalmente, a CONTRATADA sobre as irregularidades observadas no cumprimento do
+contrato, possibilitando a CONTRATADA a regularização de tais pontos;
+
+2.2.8. Solicitar a substituição de qualquer empregado e/ou preposto da CONTRATADA, desde que
+devidamente fundamentado, quando o objeto do contrato for a prestação de serviços e for verificada a falta de
+qualificação, zelo e dedicação na execução das tarefas, ou outros comportamentos que prejudiquem as
+atividades e resultados, objeto deste instrumento;
+
+2.2.9. Efetuar os pagamentos devidos, de acordo com o estabelecido neste ajuste.
+3. CLÁUSULA TERCEIRA — DA PROTEÇÃO DE DADOS
+3.1. As partes comprometem-se a tratar os dados pessoais necessários para a execução do presente
+
+contrato em conformidade com a Lei Geral de Proteção de Dados/LGPD (Lei Federal nº 13.709/2018) e com as
+orientações da ANPD — Autoridade Nacional de Proteção de Dados.
+
+3.1.1. Sempre que solicitado, a CONTRATADA deverá apresentar evidências documentadas da
+conformidade de suas atividades de tratamento de dados pessoais com a LGPD, tais como: Política de
+Privacidade e Tratamento de Dados Pessoais, Política de Segurança da Informação, Política de Respostas à
+Incidentes de Segurança da Informação, canal de atendimento ao titular de dados pessoais e documento de
+nomeação do Encarregado pelo Tratamento de Dados Pessoais (DPO).
+
+3.1.2. A CONTRATADA compromete-se a indicar Encarregado de Dados ou pessoa responsável por
+responder a avaliação de fornecedores (“due diligence LGPD”) do CONTRATANTE, sem prejuízo de submeter-se
+a auditoria para atestar a conformidade dos tratamentos dos dados pessoais, a critério exclusivo do
+CONTRATANTE.
+
+29
+
+
+SEBRAE
+
+3.2. A CONTRATADA está autorizada a utilizar os dados pessoais acessados exclusivamente para
+cumprir com o objeto deste contrato, cumprir com obrigações legais e para defesa em processos judiciais e
+administrativos, caso seja necessário.
+
+3.2.1. No caso de descumprimento deste dever pela CONTRATADA esta assumirá a posição de
+controladora dos dados pessoais, nos termos da LGPD, assumindo integral e exclusiva responsabilidade pelo
+tratamento dos dados pessoais, devendo manter o CONTRATANTE totalmente isento de quaisquer ônus,
+reclamações, processos, sanções e condenações decorrentes desses tratamentos.
+
+3.3. A CONTRATADA está proibida de usar as informações pessoais que tiver acesso em razão do
+contrato em questão para: (i) interesse próprio, (il) enriquecimento de sua base de dados, (ili) execução de
+contratos firmados com terceiros e (iv) divulgação dos seus produtos e serviços, sob pena de multa por
+violação contratual, notificação para a ANPD-Autoridade Nacional de Proteção de Dados Pessoais, além da
+obrigação de indenizar todos os prejuízos causados ao Sebrae por violação desta obrigação.
+
+3.4. Estando autorizada a subcontratação no respectivo Termo de Referência (TR), a CONTRATADA
+está autorizada a compartilhar os dados pessoais com seus subcontratados apenas quando delegar a execução
+de alguma das etapas do contrato firmado com o CONTRATANTE.
+
+3.4.1. A CONTRATADA deve informar o CONTRATANTE os seus subcontratados. Deve ser compartilhado
+o mínimo necessário para cumprir com a etapa a ser executada pelo subcontratado.
+
+3.4.2. É dever da CONTRADADA garantir a confidencialidade e segurança deste compartilhamento, bem
+como instruir, exigir e fiscalizar o subcontratado para que este também observe todas as regras e limitações
+determinadas neste instrumento.
+
+3.4.3. A CONTRATADA assume a responsabilidade pela violação deste instrumento, da Lei Federal nº
+13.709/2018 (Lei Geral de Proteção de Dados/LGPD) e das orientações da ANPD -Autoridade Nacional de
+Proteção de dados Pessoais- cometidas por seus subcontratados durante o tratamento dos dados pessoais
+compartilhados pelo Sebrae.
+
+3.5. As partes comprometem-se a prestar mútuo auxílio para atenderem os direitos dos titulares de
+dados pessoais dentro do prazo legal.
+
+3.6. Na ocorrência de incidentes envolvendo as informações pessoais dos clientes do CONTRATANTE,
+a CONTATADA deverá comunicar o CONTRATANTE no prazo de 48 horas, a contar do conhecimento do
+incidente. Esta comunicação deverá conter todos os elementos do 81º art. 48, LGPD e as orientações da ANPD.
+A comunicação deve ser encaminhada para o/a Encarregado(a) de Dados Pessoais do CONTRATANTE
+(dpo&sebraesp.com.br).
+
+3.6.1. Considera-se incidente o evento que comprometa a confidencialidade, integridade ou
+disponibilidade de dados pessoais, decorrente de ações voluntárias ou acidentais, que resultem em divulgação,
+alteração, perda ou acesso não autorizado a dados pessoais, independentemente do meio em que estão
+armazenados.
+
+3.7. Qualquer violação à lei protetiva dos dados pessoais, não se limitando a Lei Geral de Proteção de
+Dados Pessoais/LGPD, e às orientações da ANPD -Autoridade Nacional de Proteção de Dados — praticada pela
+
+30
+
+
+SEBRAE
+
+CONTATADA sujeita-se a rescisão imediata do contrato por culpa exclusiva desta, multa por descumprimento
+contratual e ao ressarcimento de todos os prejuízos materiais e morais causados ao CONTRATANTE.
+
+3.8. Encerrado o contrato entre as partes, a CONTRATADA está proibida de manter os dados pessoais
+no seu ambiente, inclusive backup e ambientes externos, exceto o eventualmente necessário para o
+cumprimento de obrigações legais e a defesa em processos judiciais e administrativos. As informações devem
+ser descartadas de forma segura e definitiva, com técnicas que impeçam a sua recuperação tão logo sejam
+superadas as finalidades que legitimam o seu armazenamento.
+
+3.8.1. Se solicitado, a CONTRATADA deverá fornecer declaração que ateste o descarte dos dados, as
+técnicas utilizadas e os ambientes físicos e tecnológicos que passaram pelo processo de descarte definitivo.
+
+3.9. É parte integrante deste contrato as obrigações previstas no respectivo Termo de Referência.
+
+4. CLÁUSULA QUARTA — DAS INFORMAÇõES CONFIDENCIAIS
+
+4.1. Consideram-se “"Informações Confidenciais" todas as informações, dados, documentos,
+
+comunicações e conhecimentos técnicos ou comerciais de qualquer natureza, fornecidos, comunicados,
+transmitidos ou revelados por uma das partes contratantes à outra, seja de forma verbal, escrita, eletrônica,
+por fax, desenhos, gráficos ou qualquer outra forma de transmissão, que se refiram, direta ou indiretamente,
+às atividades, operações, processos, métodos, técnicas, produtos, serviços, estratégias, planos de negócios,
+know-how, estudos, pesquisas, desenvolvimentos, invenções, patentes, marcas, logotipos, direitos autorais,
+informações financeiras, comerciais ou técnicas, e qualquer outra informação de propriedade ou interesse da
+parte reveladora.
+
+4.2. A parte receptora se compromete a:
+
+4.2.1. Utilizar as Informações Confidenciais exclusivamente para os fins para os quais foram fornecidas
+ou comunicadas;
+
+4.2.2. Manter as Informações Confidenciais em estrito sigilo e não as divulgar, reproduzir, copiar,
+publicar ou compartilhar, seja de forma parcial ou total, com terceiros, sem o prévio consentimento escrito da
+Parte reveladora;
+
+4.2.3. Empregar todos os esforços razoáveis para proteger as Informações Confidenciais, garantindo
+sua segurança e evitando sua divulgação não autorizada, inclusive por terceiros;
+
+4.2.4. Restringir o acesso às Informações Confidenciais apenas aos funcionários, colaboradores ou
+terceiros que necessitem conhecer tais informações para o cumprimento das obrigações previstas neste
+contrato, sempre orientando-os quanto à confidencialidade e proibindo sua divulgação a terceiros;
+
+4.3. As obrigações previstas nesta cláusula não se aplicam às informações que:
+
+4.3.1. Ao tempo de sua transmissão, ou posteriormente, sejam ou venham a ser de domínio público,
+
+conforme evidenciado por publicações idôneas, desde que sua divulgação não tenha sido causada pela parte
+receptora;
+
+31
+
+
+SEBRAE
+
+4.3.2. Estiverem na posse legal da parte receptora por ocasião da divulgação, desde que tenham sido
+recebidas legitimamente de terceiro (que não seja a outra parte), sem violação de obrigação legal e/ou
+obrigação de sigilo assumida com a parte reveladora;
+
+4.3.3. Forem independentemente desenvolvidas pela Parte receptora, sem utilização direta ou indireta
+de informações confidenciais;
+
+4.3.4. Forem necessariamente divulgadas no cumprimento de ordem judicial, ficando ressalvado que a
+parte receptora deverá, nesse caso, avisar a outra parte, imediatamente, por escrito, para que a esta seja dada
+a oportunidade de se opor à revelação e/ou tomar medidas legítimas e razoáveis para evitar ou minimizar o
+alcance dessa divulgação.
+
+4.3.5. Ao tempo de sua transmissão, forem invadidas e conhecidas por terceiros, diversos das partes
+deste instrumento, sem que haja culpa da parte receptora.
+
+4.4. Assumirá inteira responsabilidade por qualquer forma de divulgação não autorizada, a parte que
+divulgar as informações confidenciais de que trata essa cláusula, ainda que feita por seus acionistas, diretores,
+empregados, prestadores de serviços ou fornecedores a ela vinculados.
+
+4.5. A parte que infringir a confidencialidade indenizará a outra parte por todas as perdas e danos
+derivados da quebra de sigilo e confidencialidade com relação às informações confidenciais.
+
+4.6. A pedido da parte que disponibilizou as informações confidenciais, a parte que as recebeu
+devolverá à mesma, imediatamente, todos os documentos e outras manifestações corpóreas das informações
+confidenciais recebidas nos termos deste instrumento e todas as cópias e reproduções a que se referirem.
+
+4.7. O término da contratação não eximirá as partes das obrigações por elas assumidas quanto ao
+sigilo e confidencialidade em relação às informações confidenciais a que tiveram acesso durante a execução do
+objeto.
+
+4.8. As disposições dessa cláusula não deverão ser interpretadas implicitamente, por presunção,
+analogia ou de outra forma, como concessão de licença por uma das partes à outra para fazer, mandar fazer,
+usar ou vender qualquer produto e/ou serviço utilizando as informações confidenciais, ou como licença nos
+termos de qualquer patente, pedido de registro de patente, modelo de utilidade, direito autoral ou qualquer
+outro direito de propriedade industrial ou intelectual cobrindo o mesmo.
+
+5. CLÁUSULA QUINTA — DA COMPOSIÇÃO DO VALOR DESTE CONTRATO
+
+5.1. O valor total deste contrato é de — sendo assim composto e
+
+conforme proposta comercial anexa:
+
+5.2. O (s) valor (es) ora descrito (s) abarca (m) todas as despesas diretas e indiretas e quaisquer outras
+obrigações ou despesas necessárias à perfeita execução do objeto contratual.
+
+32
+
+
+SEBRAE
+
+m—
+m—
+6. CLÁUSULA SEXTA — DA FORMA DE PAGAMENTO
+
+6.1. Após o recebimento definitivo do objeto, nos termos da cláusula sétima deste contrato, a
+CONTRATADA deverá encaminhar a nota fiscal, para conferência, validação e pagamento.
+
+6.2. A CONTRATADA deverá emitir a nota fiscal e encaminhá-la ao SEBRAE-SP até o dia 17 (dezessete)
+do mês subsequente ao da prestação dos serviços e/ou entrega dos produtos, acompanhada dos documentos
+que comprovem a regularidade fiscal e trabalhista (Certidões Negativas de Débitos com o INSS, FGTS e
+comprovação de regularidade junto às receitas federal, estadual e municipal do domicílio ou sede da
+CONTRATADA).
+
+6.3. O pagamento será efetuado em até 30 (trinta) dias após o aceite definitivo da nota fiscal/fatura
+pelo SEBRAE-SP, condicionado à homologação do Produto/Serviço entregue, ao ateste das notas fiscais e à
+apresentação de relatório de prestação de serviços, conforme aplicável.
+
+6.4. O SEBRAE-SP não aceitará recibo como documento fiscal, exceto nos casos estritamente legais de
+dispensa de emissão de nota fiscal, devidamente comprovado pela CONTRATADA.
+
+6.5. O SEBRAE-SP reserva-se o direito de suspender o pagamento nos seguintes casos:
+a) Se os serviços não estiverem sendo prestados conforme o proposto e contratado;
+b) Se houver erros ou incorreções na documentação fiscal apresentada, caso em que a
+
+CONTRATADA deverá providenciar a regularização, reiniciando-se o prazo de pagamento após a
+reapresentação correta.
+
+6.6. O pagamento será efetuado mediante crédito em conta corrente de titularidade da
+CONTRATADA, que deverá indicar o nome do banco, número e nome da agência, número da conta corrente de
+sua titularidade e tipo de conta, conforme modelo do ANEXO — DECLARAÇÃO DE DADOS BANCÁRIOS.
+
+6.7. Quaisquer despesas decorrentes de transações bancárias, inclusive a devolução de pagamento
+por inconsistência de dados bancários, serão de responsabilidade da CONTRATADA.
+
+6.8. O SEBRAE-SP poderá deduzir do montante a ser pago eventuais multas, indenizações ou valores
+decorrentes de glosas, conforme previsto neste contrato.
+
+6.9. Nos casos de eventuais atrasos no pagamento, desde que a CONTRATADA não tenha concorrido,
+de alguma forma, para o atraso, o CONTRATANTE pagará encargos moratórios calculados conforme a fórmula
+abaixo:
+
+EM = | x Nx VP, sendo:
+
+EM = Encargos moratórios;
+
+N = Número de dias entre a data prevista para o pagamento e a do efetivo pagamento;
+
+VP = Valor da parcela a ser paga.
+
+| = Índice de compensação financeira = 0,000166667, assim apurado: | = (TX) | = (6 / 100) | = 0,000166667 360
+TX = Percentual da taxa anual = 6%
+
+33
+
+
+SEBRAE
+
+É e
+DN
+7. CLÁUSULA SÉTIMA — DO RECEBIMENTO DO OBJETO
+
+7.1. O objeto do presente contrato será recebido pelo gestor do contrato, mediante a aceite da Nota
+Fiscal, acompanhado de relatório detalhado que comprove as condições de execução contratual.
+
+7.2. O objeto do contrato poderá ser rejeitado, no todo ou em parte, caso esteja em desacordo com
+as especificações e condições estabelecidas neste contrato, sendo obrigação da contratada as correções
+necessárias, as suas expensas, sem que neste prazo ocorra a obrigação de pagamento.
+
+73. Salvo disposição em contrário, todos os ensaios, testes e provas necessários para a verificação da
+boa execução do objeto contratado serão de responsabilidade e custeio da contratada, conforme normas
+técnicas oficiais aplicáveis, se for o caso.
+
+7.. A CONTRATADA garante que os produtos fornecidos e/ou os serviços prestados neste contrato
+estão em conformidade com padrões adequados de qualidade, segurança, durabilidade e desempenho,
+conforme estabelecido nas especificações técnicas e normas aplicáveis, por 90 (noventa) dias além do prazo
+estabelecido no art. 26 do Código de Defesa do Consumidor (CDC), instituído pela Lei nº 8.078/1990.
+
+7.4.1. Durante o período de garantia legal dos produtos fornecidos e/ou dos serviços prestados, a
+CONTRATADA compromete-se a prestar assistência técnica necessária para correção de eventuais defeitos ou
+vícios que comprometam a qualidade, segurança, durabilidade e desempenho dos produtos ou serviços.
+
+7.5. Caso seja necessário, a CONTRATADA compromete-se a substituir componentes defeituosos ou
+produtos inteiros ou por outros de mesma espécie, marca e modelo, em perfeitas condições de uso, ou a
+refazer serviços não recebidos, sem qualquer ônus adicional ao Contratante.
+
+8. CLÁUSULA OITAVA — DA VIGÊNCIA E DO PRAZO DE EXECUÇÃO
+
+_ — XX de XXXX de 2025 a XX de XXXX de 202X, podendo ser
+
+prorrogada, a critério do CONTRATANTE, de acordo com os permissivos do Regulamento de Licitações e de
+Contratos do Sistema SEBRAE.
+
+8.2. A decisão de prorrogação do contrato é exclusiva do CONTRATANTE, sendo necessária a anuência
+da CONTRATADA, em razão da liberalidade contratual.
+
+8.3. Caso a CONTRATADA não tenha interesse em prorrogar o contrato, deverá manifestar sua
+intenção por escrito, com antecedência mínima de 60 (sessenta) dias antes do término da vigência contratual,
+
+sob pena de aplicação de sanção contratual.
+
+8.4. A prorrogação do contrato estará condicionada à justificativa da manutenção do interesse no
+objeto do contrato pelo CONTRATANTE e à comprovação da vantajosidade econômica.
+
+8.5. A cada 12 (doze) meses, poderá haver reajuste com base no IPCA.
+
+34
+
+
+m—
+m—
+SEBRAE
+cAnA
+m—
+9. CLÁUSULA NONA — DAS PENALIDADES
+
+9.1. Comete infração administrativa nos termos da legislação vigente, do Regulamento de Licitações e
+Contratos do Sistema SEBRAE e do presente instrumento contratual e respectivos anexos, a(s) Contratada(s)
+
+que:
+9.1.1. der causa à inexecução parcial do contrato;
+
+9.1.2. der causa à inexecução total do contrato;
+
+9.1.3. ensejar o retardamento da execução ou da entrega do objeto da contratação sem motivo
+justificado;
+
+9.1.4. descumprir o prazo para notificação do não interesse em prorrogar a vigência contratual
+
+previsto na subcláusula 8.3.
+
+9.1.5. apresentar documentação falsa ou prestar declaração falsa durante a execução do contrato;
+9.1.6. praticar ato fraudulento na execução do contrato;
+
+9.1.7. comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+
+9.1.8. praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013.
+
+9.2. Serão aplicadas ao contratado que incorrer nas infrações acima descritas as seguintes sanções:
+9.2.1. Advertência escrita, quando do não cumprimento de quaisquer das obrigações contratuais
+consideradas faltas leves, assim entendidas aquelas que não acarretam prejuízos significativos para o serviço
+contratado;
+
+9.2.2. Suspensão do direito de licitar e/ou contratar com o CONTRATANTE pelo prazo de até 03 (três)
+
+anos, observada a gravidade da conduta da contratada, bem como os princípios da proporcionalidade e
+razoabilidade, assim como as demais sanções no caso concreto, e conforme regra geral abaixo:
+
+9.2.2.1. 12 (doze) meses, nos casos de: aplicação de duas ou mais penas de advertência, em um intervalo
+de tempo inferior a 12 (doze) meses, sem que o fornecedor tenha adotado as medidas corretivas no prazo
+determinado pelo CONTRATANTE, alteração de quantidade ou qualidade do produto ou serviço fornecido;
+
+9.2.2.2. De 13 (treze) até 24 (vinte e quatro) meses, nos casos de: retardamento imotivado de parcela
+significativa da execução da obra, de serviço ou do fornecimento de bens;
+
+9.2.2.3. 36 (trinta e seis) meses, nos casos de: entregar como verdadeira, mercadoria falsificada,
+adulterada, deteriorada ou danificada; paralisação de serviço, de obra ou de fornecimento de bens sem justa
+fundamentação e prévia comunicação ao CONTRATANTE; praticar ato ilícito visando a frustrar os objetivos da
+licitação.
+
+35
+
+
+SEBRAE
+
+9.2.3. Suspensão do direito de licitar e contratar com o Sistema SEBRAE, pelo prazo mínimo de 4
+(quatro) e máximo de 6 (seis) anos, nas seguintes hipóteses, nas hipóteses descritas 9.1.5, 9.1.6, 9.1.7 e 9.1.8,
+hipóteses nas quais, após o processamento do processo sancionador no âmbito do CONTRATANTE, os autos
+serão encaminhados para deliberação final do SEBRAE Nacional.
+
+9.2.4. Multa:
+
+9.2.4.1. Moratória de 0,5% (meio por cento) por dia de atraso injustificado sobre o valor da parcela
+inadimplida, até o limite de 30 (trinta) dias.
+
+9.2.4.2. Compensatória de:
+
+9.2.4.2.1. 20% (vinte por cento) sobre o valor da parcela inadimplida para a infração prevista no subitem
+9.1.1.
+
+9.2.4.2.2. 20% (vinte por cento) sobre o valor total do contrato para a infração prevista no subitem 9.1.2;
+9.2.4.2.3. 20% (vinte por cento) sobre o valor da parcela inadimplida para a infração prevista no subitem
+9.1.3;
+
+9.2.4.2.4. 1% (um por cento) sobre o valor total do contrato para a infração prevista no subitem 9.1.4.
+9.2.4.2.5. 20% (vinte por cento) sobre o valor total do contrato para as infrações previstas nos subitens
+
+9.1.5, 9.1.6, 9.1.7 e 9.1.8.
+
+9.3. A aplicação das sanções previstas neste Contrato não exclui, em hipótese alguma, a obrigação de
+reparação integral do dano causado ao CONTRATANTE.
+
+9.4. Todas as sanções previstas neste Contrato poderão ser aplicadas cumulativamente com a multa.
+
+9.5. A aplicação de qualquer das sanções previstas realizar-se-á por processo administrativo,
+assegurado o contraditório e a ampla defesa à CONTRATADA.
+
+9.6. Para fins de aplicação das penalidades descritas nesta cláusula, a cada infração cometida a
+CONTRATADA será notificada para apresentação de defesa, no prazo de até 5 (cinco) dias úteis, contados a
+partir do dia útil subsequente ao recebimento da notificação.
+
+9.7. Na aplicação das sanções serão considerados:
+9.7.1. a natureza e a gravidade da infração cometida;
+9.7.2. as peculiaridades do caso concreto;
+
+9.7.3. os danos que dela provierem ao CONTRATANTE;
+9.7.4. o caráter pedagógico da sanção.
+
+36
+
+
+SEBRAE
+
+9.8. As multas devidas e/ou prejuízos causados ao CONTRATANTE serão deduzidos das faturas
+devidas à CONTRATADA, ou deduzidos da garantia, caso esta tenha sido exigida.
+
+9.9. Se os valores das faturas e da garantia contratual forem insuficientes, fica a CONTRATADA
+obrigada a recolher em favor do CONTRATANTE a importância devida no prazo de 15 (quinze) dias, contados da
+comunicação oficial.
+
+9.9.1. Caso o valor da garantia seja utilizado no todo ou em parte para o pagamento da multa, esta
+deve ser complementada no prazo de até 10 (dez) dias úteis, contados da solicitação do CONTRATANTE.
+
+9.10. Em qualquer caso, fica a CONTRATADA responsável, ainda, pelas perdas e danos adicionais,
+valendo os percentuais de multa ora estabelecidos tão somente como mínimo legal, nos termos do artigo 416,
+parágrafo único, do Código Civil, sem qualquer prejuízo do cumprimento da obrigação principal.
+
+10. CLÁUSULA DÉCIMA — DAS OBRIGAÇÕES TRABALHISTAS
+
+10.1. O presente contrato não implica, para o CONTRATANTE, vínculo ou obrigação trabalhista, direta
+ou indireta, de qualquer natureza, obrigando-se ainda a CONTRATADA a manter o CONTRATANTE a salvo de
+qualquer litígio, assumindo todas as obrigações fiscais, trabalhistas, previdenciárias, sociais e seguros
+referentes ao pessoal utilizado para o cumprimento do presente ajuste, inclusive com relação a terceiros
+contratados.
+
+10.2. A CONTRATADA responsabiliza-se, de forma única e exclusiva, por quaisquer acidentes de que
+possam ser vítimas seus empregados e prepostos, quando nas dependências do CONTRATANTE, ou em
+qualquer outro local onde estejam prestando os serviços, devendo adotar as providências que, a respeito,
+exigir a legislação em vigor.
+
+10.3. A CONTRATADA responsabiliza-se pelas despesas da defesa, inclusive por custas e honorários
+advocatícios, bem como pelo cumprimento das decisões judiciais em reclamações trabalhistas eventualmente
+propostas por seus empregados, prepostos, ex-empregados ou terceiros envolvendo o CONTRATANTE,
+isentando ainda o CONTRATANTE de quaisquer responsabilidades e/ou ônus decorrentes direta ou
+indiretamente dos referidos processos judiciais;
+
+10.4. A CONTRATADA responsabiliza-se civil e criminalmente perante o CONTRATANTE e terceiros por
+eventuais prejuízos, danos ou delitos causados por seus empregados, prepostos e/ou contratados, decorrentes
+de erro, culpa ou dolo, por demora ou omissão, na prestação dos serviços de sua responsabilidade, devendo
+indenizar todos os prejuízos ocasionados.
+
+11. CLÁUSULA DÉCIMA PRIMEIRA — DO CÓDIGO DE ÉTICA
+11.1. A CONTRATADA compromete-se a respeitar, cumprir e fazer cumprir, no que couber, o “Código
+
+de Ética do Sistema SEBRAE” que se encontra disponível no site do SEBRAE no endereço eletrônico
+www.sebrae.com.br, Ouvidoria, opção Código de Ética do SEBRAE.
+
+37
+
+
+SEBRAE
+
+12. CLÁUSULA DÉCIMA SEGUNDA - DA ANTICORRUPÇÃO
+
+12.1. As partes concordam que executarão as obrigações contidas neste contrato de forma ética e de
+acordo com os princípios aplicáveis ao Sistema SEBRAE, previstos no artigo 2º do Regulamento de Licitações e
+Contratos.
+
+12.2. A CONTRATADA assume que é expressamente contrária à prática de atos que atentem contra o
+
+patrimônio e a imagem do Sistema SEBRAE.
+
+12.3. Nenhuma das partes poderá oferecer, dar ou se comprometer a dar a quem quer que seja, ou
+aceitar ou se comprometer a aceitar de quem quer que seja, tanto por conta própria quanto através de
+outrem, qualquer pagamento, doação, compensação, vantagens financeiras ou não financeiras ou benefícios
+de qualquer espécie que constituam prática ilegal ou de corrupção sob as leis nacionais, seja de forma direta
+ou indireta quanto ao objeto deste contrato, ou de outra forma que não relacionada a este contrato, devendo
+garantir, ainda, que seus prepostos e colaboradores ajam da mesma forma.
+
+12.4. As partes se comprometem a estabelecer, de forma clara e precisa, os deveres e as obrigações de
+seus agentes e/ou empregados em questões comerciais, para que estejam sempre em conformidade com as
+leis, as normas vigentes e as determinações deste contrato.
+
+13. CLÁUSULA DÉCIMA TERCEIRA — DAS ALTERAÇÕES
+
+13.1. Este CONTRATO poderá ser alterado por meio de Termos Aditivos, objetivando promover os
+acréscimos ou supressões que se fizerem necessários.
+
+13.2. Os acréscimos que se fizerem necessários no objeto do contrato estão limitados a 50%
+(cinquenta por cento) do valor global atualizado do contrato, mediante justificativa.
+
+13.3. A supressão poderá ser realizada no limite estabelecido entre as partes.
+14. CLÁUSULA DÉCIMA QUARTA — DA RESCISÃO
+14.1. O CONTRATO poderá ser rescindido por inexecução total ou parcial, por infração legal ou por
+
+descumprimento de qualquer uma de suas cláusulas.
+
+14.2. Os casos de rescisão contratual serão formalmente motivados, assegurados o contraditório e a
+ampla defesa.
+
+14.3. A rescisão do contrato poderá ser:
+
+14.3.1. Por ato unilateral do CONTRATANTE, nos casos previstos no contrato;
+
+14.3.2. Amigável, por acordo entre as partes, mediante a assinatura de termo de distrato; e
+14.3.3. Judicial, nos termos da legislação.
+
+38
+
+
+SEBRAE
+
+É e
+DN
+15. CLÁUSULA DÉCIMA QUINTA — DAS DISPOSIÇÕES FINAIS
+
+15.1. As despesas decorrentes deste contrato onerarão as verbas do CONTRATANTE, consignadas em
+seu orçamento.
+
+15.2. Fazem parte do contrato, independentemente de transcrição, todas as condições constantes do
+edital que lhe deu origem, seus anexos e a proposta apresentada pela CONTRATADA, permanecendo, caso haja
+conflito, as disposições constantes deste instrumento contratual.
+
+15.3. As solicitações de Atestado de Capacidade Técnica, relativo à execução do contrato, deverão ser
+formulados no prazo máximo de 12 (doze) meses após o encerramento da vigência contratual ao gestor do
+contrato, indicando a razão social, CNPJ e o número do instrumento contratual.
+
+15.4. No caso de contrato de escopo, envolvendo a conclusão de um objeto específico, o atestado
+somente será emitido após o término da execução dos serviços ou da entrega dos produtos contratados. No
+caso de contrato de execução continuada, o atestado somente será emitido após o final da vigência
+inicialmente pactuada.
+
+16. CLÁUSULA DÉCIMA SEXTA — DO FORO
+16.1. Fica eleito o Foro da Comarca da Capital do Estado de São Paulo, com expressa renúncia de
+qualquer outro, por mais especial ou privilegiado que seja ou venha a ser, para dirimir quaisquer dúvidas ou
+
+litígios decorrentes do presente ajuste.
+
+As Partes declaram que o presente instrumento, incluindo todas as páginas e eventuais anexos, todas
+formatadas por meio digital, representam a integralidade dos termos entre elas acordados.
+
+E, por estarem de acordo, as partes expressamente concordam em utilizar e reconhecem como válida a
+plataforma de assinaturas do SEBRAE  (https://www.sgolite.sebrae.com.br/PortalAssinaturaDigital/H/),
+
+admitindo válidas as assinaturas realizadas eletronicamente.
+
+São Paulo.
+
+NELSON DE ALMEIDA PRADO HERVEY COSTA NOME
+
+Diretor-Superintendente -
+
+SEBRAE-SP
+
+MARCO ANTONIO SCARASATI VINHOLI! REINALDO PEDRO CORREA
+
+Diretor Técnico Diretor de Administração e Finanças
+SEBRAE-SP SEBRAE-SP
+
+39
+
+
+SEBRAE
+
+TESTEMUNHAS:
+
+Nome: XXXX
+
+Nome: XXXX
+
+40
+
+
+SEBRAE
+
+ANEXO DA DECLARAÇÃO DE DADOS BANCÁRIOS
+
+Declaro que o pagamento deverá ser efetuado mediante crédito em conta corrente da titularidade de
+
+—— nome da empresa).Para tanto informo:
+
+Nome do Banco: -
+Número e nome da agência: -
+Número da conta corrente: -
+
+Tipo da conta: -
+
+Importante: Caso haja alteração dessas informações, a empresa contratada deverá enviar nova declaração com
+os dados atualizados.
+
+41
+
+

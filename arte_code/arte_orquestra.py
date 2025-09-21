@@ -52,7 +52,7 @@ LIVRO_RAZAO_PATH = os.path.join(BASE_DIR, "livro_razao.xlsx") # Ledger de todos 
 SUMMARY_EXCEL_PATH = os.path.join(BASE_DIR, "summary.xlsx") # Este é o arquivo com todos os itens dos novos editais
 FINAL_MASTER_PATH = os.path.join(BASE_DIR, "master.xlsx") # Este será o arquivo final filtrado
 
-# Palavras-chave para filtro do arte_orca
+# Palavras-chave para filtro do arte_orcamento
 PALAVRAS_CHAVE = [
     r'Instrumento Musical - Sopro', r'Instrumento Musical - Corda',r'Instrumento Musical - Percursão',
     r'Instrumento Musical', r'Peças e acessórios instrumento musical', r'Cabo Rede Computador'

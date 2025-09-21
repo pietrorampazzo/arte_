@@ -1,0 +1,2576 @@
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+EDITAL DO PREGÃO Nº 222/2025
+EXCLUSIVO PARA ME/EPP/COOP
+
+PROCESSO ADMINISTRATIVO: PMC.2025.00038275-37
+
+INTERESSADO: Secretaria Municipal de Governo
+
+OBJETO: Aquisição de aeronaves remotamente pilotadas (drones) e itens periféricos.
+
+CRITÉRIO DE JULGAMENTO: Menor Preço
+
+MODO DE DISPUTA: Aberto
+
+FORMA DE REALIZAÇÃO: Eletrônica
+
+ABERTURA DA SESSÃO PÚBLICA: 01/10/2025 às 09h30
+
+LOCAL DA DISPUTA: endereço eletrônico www.gov.br/compras - UASG: 986291
+FUNDAMENTO LEGAL: Lei Federal nº 14.133/2021, Instrução Normativa SEGES/ME nº 73/2022,
+Lei Complementar nº 123/2006 e Decreto Municipal nº 23.460/2024, e respectivas alterações. (Links
+para acesso à regulamentação constam do Anexo I).
+
+PREGOEIRO(A) RESPONSÁVEL: João Fernandes Filho ou seus Suplentes nomeados pela
+Portaria SMA nº 005/2024, publicada no Diário Oficial do Município de Campinas, edição de
+23/10/2024.
+
+TELEFONE: (19) 2116-8464
+
+E-MAIL: joao.fernandesQcampinas.sp.gov.br
+
+O MUNICÍPIO DE CAMPINAS, por intermédio do Diretor do Departamento de Licitações, torna
+público, para conhecimento dos interessados, que realizará licitação na modalidade Pregão, de
+acordo com o disposto neste edital.
+
+Integram o presente edital, como partes indissociáveis, os seguintes anexos:
+
+Anexo I — Informações Complementares
+
+Anexo II — Termo de Referência
+
+Anexo III — Modelo de Proposta
+
+Anexo IV — Modelo de Termo de Ciência e de Notificação
+
+Todos os elementos deste edital serão divulgados em sítio eletrônico oficia do Município
+(licitacoes.campinas.sp.gov.br), na mesma data de sua divulgação, sem necessidade de registro ou
+de identificação para acesso.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 1
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTR&ÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+1. DISPOSIÇÕES PRELIMINARES
+
+1.1. A licitação será realizada à distância e em sessão pública, por meio da internet, mediante
+condições de segurança - criptografia e autenticação - em todas as suas fases.
+
+1.2. Os trabalhos serão conduzidos pelo(a) Pregoeiro(a) responsável, destacado(a) no preâmbulo
+deste edital, ou seu suplente, mediante a inserção e monitoramento de dados gerados ou
+transferidos para o sistema do Governo Federal denominado “Compras” (Compras.gov.br),
+observados os procedimentos estabelecidos no manual técnico operacional disponível no sítio
+
+eletrônico em https://www.gov.br/compras/pt-br/acesso-a-informacao/manuais, “IN 73/22 - Critério
+de Julgamento Menor Preço Maior Desconto”.
+
+1.3. O(a) Pregoeiro(a) julgará a licitação subsidiado(a) por pareceres técnicos referentes à análise
+da qualificação técnica, econômico-financeira e conteúdo da proposta, quando necessário.
+
+2. OBJETO, CONDIÇÕES DE ENTREGA E VALOR ESTIMADO
+
+2.1. A presente licitação destina-se ao objeto indicado no preâmbulo deste edital, de acordo com
+as especificações e quantitativos constantes do Anexo II.
+
+2.2. Locais e condições de entrega são os descritos no Anexo II.
+
+2.2.1. Após o recebimento da Nota de Empenho, a Contratada deverá realizar o fornecimento
+no prazo máximo indicado no Anexo II.
+
+2.3. O valor total estimado pelo Município para a presente aquisição e a(s) dotação(Ões)
+orçamentária(s) que suportará(ão) a despesa constam do Anexo II.
+
+3. FORMALIZAÇÃO DE PEDIDOS DE ESCLARECIMENTOS E IMPUGNAÇõES
+
+3.1. Qualquer pessoa é parte legítima para impugnar o edital de licitação ou para solicitar
+esclarecimento sobre os seus termos, devendo protocolar o pedido até 03 (três) dias úteis antes da
+data da sessão pública de abertura do certame, através do portal eletrônico www.gov.br/compras
+
+ou do e-mail do(a) Pregoeiro(a) indicado no preâmbulo deste edital.
+
+3.1.1. A petição será dirigida à autoridade subscritora deste edital.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 2
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTR&ÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+3.2. A resposta à impugnação ou ao pedido de esclarecimento será divulgada em sítio eletrônico
+oficial (licitacoes.campinas.sp.gov.br) e disponibilizada no portal eletrônico www.gov.br/compras, no
+prazo de até 03 (três) dias úteis, limitado ao último dia útil anterior à data da sessão pública de
+abertura do certame.
+
+3.3. Eventuais modificações neste edital implicarão nova divulgação na mesma forma de sua
+divulgação inicial, além do cumprimento dos mesmos prazos dos atos e procedimentos originais,
+exceto quando a alteração não comprometer a formulação das propostas.
+
+3.4. A ausência de impugnação implica a aceitação tácita, pela licitante, das condições previstas
+neste edital e em seus anexos.
+
+4. REFERÊNCIA DE TEMPO
+
+4.1. Todas as referências de tempo neste edital, no aviso e durante a sessão pública observarão
+obrigatoriamente o horário de Brasília/ DF e, dessa forma, serão registradas no sistema eletrônico
+e na documentação relativa ao certame.
+
+5, CONDIÇÕES PARA PARTICIPAÇÃO
+
+5.1. Poderão participar da licitação pessoas jurídicas, brasileiras ou estrangeiras em funcionamento
+no Brasil, pertencentes ao ramo do objeto licitado, que se enquadrem como Microempresa (ME) ou
+Empresa de Pequeno Porte (EPP), na forma da Lei Complementar nº 123/2006 e suas alterações,
+ou Cooperativa de Consumo (COOP) a elas equiparada nos termos do art. 34 da Lei Federal nº
+11.488/2007, previamente cadastradas no Sistema de Cadastramento Unificado de Fornecedores —
+
+SICAF (https://www.gov.br/compras/pt-br/fornecedor) e credenciadas perante o provedor do
+
+sistema eletrônico “Compras”.
+5.2. Não poderão disputar a licitação ou participar da execução de contrato, direta ou indiretamente:
+
+5.2.1. pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitada de
+participar da licitação em decorrência de sanção de declaração de inidoneidade para licitar ou
+contratar com qualquer órgão ou entidade da Administração Direta ou Indireta, Federal,
+Estadual ou Municipal (sob pena de incidir no crime previsto no art. 337-M do Decreto-Lei nº
+2.848/1940 — Código Penal) e impedimento ou suspensão de licitar ou contratar com a
+Administração Pública Direta e Indireta do Município de Campinas;
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 3
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTR&ÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+5.2.2. aquele que mantenha vínculo de natureza técnica, comercial, econômica, financeira,
+trabalhista ou civil com dirigente do Município de Campinas ou com agente público que
+desempenhe função na licitação ou atue na fiscalização ou na gestão do contrato, ou que deles
+seja cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro
+grau;
+
+5.2.3. agente público do Município de Campinas, devendo ser observadas as situações que
+possam configurar conflito de interesses no exercício ou após o exercício do cargo ou emprego,
+nos termos da Lei Federal nº 12.813/2013;
+
+5.2.4. controladoras, controladas ou coligadas, nos termos da Lei Federal nº 6.404/1976,
+concorrendo entre si;
+
+5.2.5. pessoa física ou jurídica que, nos 05 (cinco) anos anteriores à divulgação do edital,
+tenha sido condenada judicialmente, com trânsito em julgado, por exploração de trabalho
+infantil, por submissão de trabalhadores a condições análogas às de escravo ou por contrata-
+ção de adolescentes nos casos vedados pela legislação trabalhista;
+
+5.2.6. pessoas jurídicas em consórcio, conforme justificativa lançada nos autos do processo
+administrativo;
+
+5.2.7. pessoa jurídica com falência decretada;
+
+5.2.8. pessoas jurídicas qualificadas como Organizações da Sociedade Civil de Interesse Pú-
+blico — OSCIP e Organizações Sociais — OS;
+
+5.2.9. pessoas jurídicas que não se enquadrem como ME ou EPP ou COOP, na forma da Lei
+Complementar nº 123/2006 e suas alterações.
+
+5.3. O impedimento do subitem 5.2.1 alcança a licitante que atue em substituição a outra pessoa,
+física ou jurídica, com o intuito de burlar a efetividade da sanção a ela aplicada, inclusive a sua
+controladora, controlada ou coligada, desde que devidamente comprovado o ilícito ou a utilização
+fraudulenta da personalidade jurídica da licitante.
+
+5.4. As hipóteses de vedação à participação de que tratam os subitens 5.2 e 5.3, quando
+constatadas em qualquer fase do certame, ensejarão a inabilitação da licitante.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 4
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+6. CREDENCIAMENTO NO APLICATIVO “COMPRAS”"
+
+6.1. Para acesso ao sistema eletrônico, os interessados em participar da licitação deverão ser
+credenciados previamente perante o sistema “Compras”. O credenciamento dar-se-á pela atribuição
+de chave de identificação e de senha de acesso. A senha é de responsabilidade da pessoa física
+credenciada que representa a licitante, sendo, portanto, pessoal e intransferível, devendo ser
+mantida sob sigilo absoluto.
+
+6.1.1. O sistema “Compras” pode ser acessado através do endereço eletrônico
+
+WWW.gov.br/compras.
+
+6.1.2. O credenciamento é o nível básico do registro cadastral no SICAF, que permite a
+participação dos interessados na licitação, em sua forma eletrônica.
+
+6.1.3. As informações a respeito das condições exigidas e dos procedimentos a serem
+cumpridos para o registro no SICAF, para o credenciamento de representantes e para a
+obtenção de senha de acesso estão disponíveis no endereço eletrônico www.gov.br/compras.
+
+6.2. O registro no SICAF, o credenciamento do representante que atuará em nome da licitante no
+sistema eletrônico e a senha de acesso deverão ser obtidos anteriormente à abertura da sessão
+pública.
+
+6.2.1. Cada representante credenciado poderá representar apenas uma licitante em cada
+licitação.
+
+6.3. A chave de identificação e a senha poderão ser utilizadas em qualquer licitação, salvo quando
+cancelada por solicitação do credenciado ou em virtude de sua inabilitação perante o Cadastro de
+Fornecedores do Município de Campinas.
+
+6.4, A licitante deverá comunicar imediatamente ao provedor do sistema qualquer acontecimento
+que possa comprometer o sigilo ou a segurança, para imediato bloqueio de acesso.
+
+6.5. O uso da senha de acesso pela licitante é de sua responsabilidade exclusiva, incluindo qualquer
+transação efetuada diretamente ou por seu representante, não cabendo ao provedor do sistema ou
+ao Município de Campinas responsabilidade por eventuais danos decorrentes de uso indevido da
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 5
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+senha, ainda que por terceiros.
+
+6.6. O credenciamento junto ao provedor do sistema implica a responsabilidade da licitante ou de
+seu representante legal pelos atos praticados e a presunção de sua capacidade técnica para
+realização das transações inerentes à licitação.
+
+7. ACESSO AO SISTEMA
+
+7.1. A participação na licitação se dará por meio da digitação da senha pessoal e intransferível do
+representante credenciado e subsequente encaminhamento da proposta de preços, exclusivamente
+por meio do sistema eletrônico, observados data e horário limite estabelecidos.
+
+7.1.1. A informação dos dados para acesso deve ser feita na página inicial do site
+WWW.gov.br/compras, opção “Acesso ao Sistema”.
+
+7.2. O encaminhamento de proposta pressupõe o pleno conhecimento e atendimento às exigências
+previstas neste edital.
+
+7.3. A licitante responsabiliza-se formalmente por todas as transações efetuadas em seu nome,
+assumindo como firmes e verdadeiras suas propostas e seus lances, inclusive os atos praticados
+diretamente ou por seu representante, excluída a responsabilidade do provedor do sistema ou do
+Município de Campinas por eventuais danos decorrentes de uso indevido da senha, ainda que por
+terceiros.
+
+7.4. Constitui exclusiva responsabilidade da licitante acompanhar as operações no sistema eletrô-
+nico durante o processo licitatório, assumindo o ônus da perda de negócios decorrente da inobser-
+vância de quaisquer mensagens emitidas pelo sistema ou de sua desconexão.
+
+8. APRESENTAÇÃO DA PROPOSTA
+
+8.1. Após a divulgação deste edital, as licitantes encaminharão sua proposta, exclusivamente por
+meio do sistema, até a data e o horário estabelecidos para abertura da sessão pública.
+
+8.1.1. A licitante poderá retirar ou substituir a proposta anteriormente inserida no sistema até
+a abertura da sessão pública.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 6
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+8.2. Como requisito para a apresentação da proposta, a licitante declarará, em campo
+
+próprio do sistema, sem prejuízo da exigência de outras declarações previstas em legislação
+específica e na Lei Federal nº 14.133/2021:
+
+8.2.1. o cumprimento dos requisitos para a habilitação;
+
+8.2.2. a conformidade de sua proposta com as exigências deste edital;
+
+8.2.3. ciência em relação ao inteiro teor do ato convocatório e de seus anexos e concordância
+com suas condições;
+
+8.2.4. que sua proposta econômica compreende a integralidade dos custos para atendimento
+dos direitos trabalhistas assegurados na Constituição Federal, nas leis trabalhistas, nas normas
+infralegais, nas convenções coletivas de trabalho e nos termos de ajustamento de conduta
+vigentes na data de entrega da proposta;
+
+8.2.5. que inexiste impedimento a sua habilitação e que comunicará a superveniência de
+ocorrência impeditiva ao Município;
+
+8.2.6. ciência em relação a todas as informações e condições locais para o cumprimento das
+obrigações objeto desta licitação;
+
+8.2.7. que observa os incisos III e IV do art. 1º e que cumpre o disposto no inciso III do art.
+5º, todos da Constituição Federal, que veda o tratamento desumano ou degradante;
+
+8.2.8. que cumpre a reserva de cargos para pessoa com deficiência e para reabilitado da
+Previdência Social, previstas em lei e em outras normas específicas; e
+
+8.2.9. que cumpre a reserva de cargos prevista em lei para aprendiz, bem como as reservas
+de cargos previstas em outras normas específicas, quando cabíveis.
+
+8.3. As ME, EPP e COOP deverão declarar, em campo próprio do sistema, que não ultrapassam o
+limite de faturamento e que cumprem os requisitos estabelecidos no art. 3º da Lei Complementar
+nº 123/2006, bem como que não tenham, no ano-calendário de realização da licitação, celebrado
+contratos com a Administração Pública cujos valores somados extrapolem a receita bruta máxima
+admitida para fins de enquadramento como EPP (R$ 4.800.000,00).
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 7
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+8.4. A falsidade das declarações de que tratam os subitens 8.2 e 8.3 sujeitará a licitante às sanções
+previstas no subitem 18.1.
+
+9,. CONTEÚDO DA PROPOSTA
+PROPOSTA ELETRÔNICA
+9.1. Em sua proposta eletrônica, a licitante deverá:
+
+9.1.1. informar o PREÇO UNITÁRIO DO(S) ITEM(NS), para o(s) qual(is) pretende
+concorrer, de acordo com o Anexo II.
+
+9.1.1.1. Os preços devem ser apresentados com a inclusão de todos os custos
+operacionais de sua atividade/fornecimento e os tributos eventualmente incidentes, as
+demais despesas diretas e indiretas, bem como a desoneração da folha de pagamento
+em cumprimento à Lei Federal nº 12.546/2011 e suas alterações, quando constituir
+direito e opção da empresa, não cabendo à Municipalidade nenhum custo adicional.
+
+9.1.2. evitar a aposição de sinal ou qualquer outro elemento que possibilite a identificação da
+licitante antes do encerramento da etapa de lances, sob pena de desclassificação.
+
+9.2. No momento do cadastramento da proposta eletrônica, a licitante poderá parametrizar o seu
+valor final mínimo, obedecendo as seguintes regras:
+
+9.2.1. a aplicação do intervalo mínimo de diferença de valores ou de percentuais entre os
+lances, que incidirá tanto em relação aos lances intermediários quanto em relação ao lance
+
+que cobrir a melhor oferta;
+
+9,2.2. os lances serão de envio automático pelo sistema, respeitado o valor final mínimo
+estabelecido e o intervalo de que trata o subitem 9.2.1;
+
+9.2.3. o valor final mínimo poderá ser alterado pela licitante durante a fase de disputa, sendo
+vedado valor superior a lance já registrado pela licitante no sistema;
+
+9.2.4. o valor final mínimo parametrizado possuirá caráter sigiloso para as demais licitantes e
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 8
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+para a Administração, podendo ser disponibilizado estrita e permanentemente aos órgãos de
+controle externo e interno.
+
+PROPOSTA ESCRITA
+
+9.3. A licitante provisoriamente vencedora (arrematante) deverá enviar sua proposta escrita
+adequada ao último lance ofertado após a negociação no prazo previsto no subitem 10.13, contendo
+o que prescreve o Item 1 do Anexo 1, observado o modelo constante no Anexo III.
+
+9.4. No caso de a proposta escrita apresentar erro na multiplicação do quantitativo pelo preço
+unitário apresentado, prevalecerá o preço unitário, e o cálculo será refeito pelo(a) Pregoeiro(a) para
+fins de julgamento.
+
+AMOSTRA
+
+9.5. A licitante provisoriamente vencedora (arrematante) deverá apresentar, quando exigido no
+Anexo I, 01 (uma) amostra do(s) item(ns) arrematado(s), no prazo, local e condições ali
+especificados, de modo a comprovar sua aderência às especificações definidas no Anexo II e para
+aferição da compatibilidade dos materiais/produtos/equipamentos no ato do recebimento.
+
+9.5.1. As amostras deverão estar identificadas com o número da licitação, número do item e
+nome da licitante.
+
+9.5.2. A não apresentação das amostras, dentro do prazo estabelecido, ou a apresentação de
+amostra em desconformidade com as especificações contidas neste edital importam a imediata
+desclassificação da licitante.
+
+9.6. A apresentação da proposta implica a aceitação pela licitante:
+9.6.1. do prazo de validade da proposta/lance especificado no Anexo 1. Decorrido esse prazo,
+sem convocação para a contratação (recebimento da Nota de Empenho), ficam as licitantes
+
+liberadas dos compromissos assumidos;
+
+9.6.2. do prazo de pagamento indicado no Anexo II, contado da data do aceite da Nota Fiscal;
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 9
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+9.6.3. do prazo da entrega, que deverá ocorrer de forma integral, no tempo estipulado no
+Anexo II;
+
+9.6.4. de sua responsabilidade, se vencedora do certame, pelo carregamento e transporte dos
+materiais/produtos/equipamentos, bem como pelo seu descarregamento no local de entrega
+especificado no Anexo II;
+
+9.6.5. da observância das disposições da Lei Federal nº 13.709/2018 (Lei Geral de Proteção
+de Dados Pessoais), e alterações, no tratamento de dados pessoais e dados pessoais sensíveis
+a que tenha acesso, para o propósito de execução e acompanhamento do Contrato, não po-
+dendo divulgar, revelar, produzir, utilizar ou deles dar conhecimento a terceiros estranhos a
+esta contratação, a não ser por força de obrigação legal ou regulatória.
+
+9.7. As licitantes assumem todos os custos de preparação e apresentação de suas propostas e esta
+Municipalidade não será, em nenhum caso, responsável por esses custos, independentemente do
+resultado do processo licitatório.
+
+10. ABERTURA DA SESSÃO PÚBLICA E FASE DE ENVIO DE LANCES
+
+10.1. A partir do horário previsto no preâmbulo deste edital e no sistema eletrônico, a sessão pública
+será aberta automaticamente pelo sistema, com a divulgação das propostas de preços recebidas
+para o(s) item(ns) correspondente(s), disputados sucessivamente ou de forma simultânea.
+
+10.1.1. A verificação da conformidade da proposta será feita exclusivamente na fase de
+julgamento, em relação à proposta mais bem classificada.
+
+10.1.2. O sistema disponibilizará campo próprio para envio de mensagens do(a) Pregoeiro(a)
+às licitantes, vedada outra forma de comunicação.
+
+10.2. Iniciada a fase competitiva, as licitantes poderão encaminhar lances públicos e sucessivos,
+exclusivamente por meio do sistema eletrônico, observadas as condições estabelecidas.
+
+10.2.1. O intervalo mínimo de diferença de valores, que incidirá tanto em relação aos lances
+intermediários quanto em relação ao lance que cobrir a melhor oferta, será aquele estabelecido
+no sistema “Compras”.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 10
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+10.3. A cada lance ofertado, a licitante será imediatamente informada de seu recebimento e do
+valor consignado no registro.
+
+10.4. Os lances ofertados serão no PREÇO UNITÁRIO DO ITEM, com no máximo duas casas
+decimais, sendo desprezadas as demais.
+
+10.5. A licitante somente poderá oferecer lance com valor inferior ao último lance por ela ofertado
+e registrado pelo sistema, observado o intervalo mínimo de diferença de valores, que incidirá tanto
+em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta.
+
+10.5.1. A licitante poderá encaminhar lances intermediários com valores iguais ou superiores
+ao menor já ofertado.
+
+10.5.2. A licitante poderá, uma única vez, excluir seu último lance ofertado, no intervalo de
+15 (quinze) segundos após o registro no sistema, na hipótese de lance inconsistente ou
+inexequiível.
+
+10.5.3. O(a) Pregoeiro(a) poderá, durante a disputa, como medida excepcional, excluir a
+proposta ou o lance que possa comprometer, restringir ou frustrar o caráter competitivo do
+processo licitatório, mediante comunicação eletrônica automática via sistema.
+
+10.5.4. Eventual exclusão de proposta da licitante, de que trata o subitem 10.5.3, implica a
+sua retirada do certame, sem prejuízo do direito de defesa.
+
+10.6. Durante o transcurso da sessão pública, as licitantes serão informadas, em tempo real, do
+valor do melhor lance registrado, vedada a sua identificação.
+
+10.7. A etapa de envio de lances na sessão pública durará 10 (dez) minutos e, após isso, será
+prorrogada automaticamente pelo sistema quando houver lance ofertado nos últimos 02 (dois)
+minutos do período de duração desta etapa.
+
+10.7.1. A prorrogação automática da etapa de envio de lances, de que trata o subitem 10.7,
+será de 02 (dois) minutos e ocorrerá sucessivamente sempre que houver lances enviados
+nesse período de prorrogação, inclusive quando se tratar de lances intermediários.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 11
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+10.7.2. Na hipótese de não haver novos lances na forma estabelecida nos subitens 10.7 e
+10.7.1, a sessão pública será encerrada automaticamente.
+
+10.7.3. Definida a melhor proposta, se a diferença em relação à proposta classificada em
+segundo lugar for de pelo menos 5% (cinco por cento), o(a) Pregoeiro(a) poderá admitir o
+reinício da disputa aberta, para a definição das demais colocações.
+
+10.7.4. Havendo o reinício da disputa aberta, de que trata o subitem 10.7.3, as licitantes
+serão convocadas para apresentar lances intermediários.
+
+10.7.5. Definitivamente encerrada a etapa competitiva, o sistema ordenará e divulgará os
+lances em ordem crescente.
+
+10.8. Na hipótese de o sistema eletrônico se desconectar no decorrer da etapa de envio de lances
+da sessão pública e permanecer acessível às licitantes, os lances continuarão sendo recebidos, sem
+prejuízo dos atos realizados.
+
+10.9. Caso a desconexão do sistema eletrônico para o(a) Pregoeiro(a) persista por tempo superior
+a 10 (dez) minutos, a sessão pública será suspensa e reiniciada somente decorridas 24 (vinte e
+quatro) horas após a comunicação do fato aos participantes, no sítio eletrônico utilizado para divul-
+gação.
+
+10.10. Em caso de empate entre duas ou mais propostas, serão utilizados os seguintes critérios de
+desempate, nesta ordem:
+
+10.10.1. Disputa final, em que as licitantes empatadas poderão apresentar nova proposta em
+ato contínuo à classificação;
+
+10.10.2. Avaliação do desempenho contratual prévio das licitantes, para a qual deverão
+preferencialmente ser utilizados registros cadastrais para efeito de atesto de cumprimento de
+obrigações previstas no art. 88, 84º, da Lei Federal nº 14.133/2021;
+
+10.10.2.1. A avaliação disposta no subitem 10.10.2 será precedida de análise do
+Cadastro de Fornecedores do Município, que verificará a existência de relatórios de
+desempenho da licitante nos registros cadastrais do Município, nos termos do art. 14 do
+Decreto Municipal nº 22.728/2023.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 12
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+10.10.3. Desenvolvimento pela licitante de ações de equidade entre homens e mulheres no
+ambiente de trabalho;
+
+10.10.4. Desenvolvimento pela licitante de programa de integridade, conforme orientações
+dos órgãos de controle;
+
+10.10.4.1. Programa de integridade consiste, no âmbito de uma pessoa jurídica, no
+conjunto de mecanismos e procedimentos internos de integridade, auditoria e incentivo
+à denúncia de irregularidades e na aplicação efetiva de códigos de ética e de conduta,
+políticas e diretrizes com objetivo de prevenir, detectar e sanar desvios, fraudes,
+irregularidades e atos ilícitos praticados contra a administração pública, nacional ou
+estrangeira, e fomentar e manter uma cultura de integridade no ambiente organizacional,
+nos termos do Decreto Federal nº 11.129/2022 (art. 56), que regulamenta a Lei Federal
+nº 12.846/2013.
+
+10.10.5. Os critérios estabelecidos no 81º do art. 60 da Lei Federal nº 14.133/2021, ou seja,
+preferência, sucessivamente, aos bens produzidos por:
+
+10.10.5.1. empresas estabelecidas no Estado de São Paulo;
+10.10.5.2. empresas brasileiras;
+
+10.10.5.3. empresas que invistam em pesquisa e no desenvolvimento de tecnologia no
+País;
+
+10.10.5.4. empresas que comprovem a prática de mitigação às mudanças climáticas,
+nos termos da Lei Federal nº 12.187/2009 (Lei que trata de Desenvolvimento Sustentável,
+e que instituiu a Política Nacional sobre Mudança do Clima — PNMC).
+
+10.10.6. Persistindo o empate após a disputa final e a avaliação do desempenho prévio,
+critérios previstos nos subitens 10.10.1 e 10.10.2, caberá à licitante, após solicitação única,
+apresentar os documentos comprobatórios correspondentes aos critérios mencionados nos
+subitens 10.10.3 a 10.10.5, devendo a comprovação ser feita, relativamente à data de
+abertura da sessão pública.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 13
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+10.10.6.1. A solicitação será realizada via sistema pelo(a) Pregoeiro(a), devendo a
+licitante apresentar os documentos dentro do prazo estabelecido.
+
+10.10.6.1.1. A inércia da licitante em apresentar os documentos no prazo
+estabelecido configurará seu não enquadramento nos critérios elencados nos
+subitens 10.10.3 a 10.10.5.
+
+10.10.6.2. A análise dos documentos apresentados seguirá a sequência definida no
+subitem 10.10, de modo a verificar se alguma licitante se enquadra nos critérios de
+desempate elencados nos subitens 10.10.3 a 10.10.5.
+
+10.10.7. Caso as regras previstas nos subitens 10.10.1 a 10.10.5 não solucionem o empate,
+será realizado sorteio automático, via sistema.
+
+10.11. Em caso de propostas iniciais empatadas, sem que tenha havido lances na etapa competitiva,
+serão utilizados os critérios de desempate definidos no subitem 10.10.
+
+10.12. Encerrada a etapa de envio de lances da sessão pública, o sistema informará a proposta de
+menor preço e o(a) Pregoeiro(a) realizará a verificação da conformidade da proposta classificada em
+primeiro lugar para o item, quanto à adequação ao objeto estipulado e, observado o disposto no
+subitem 10.12.5, à compatibilidade do preço em relação ao estimado para a contratação.
+
+10.12.1. Definida a ordem de classificação, o(a) Pregoeiro(a) poderá negociar condições mais
+vantajosas com a primeira colocada.
+
+10.12.2. A negociação poderá ser feita com as demais licitantes, segundo a ordem de
+classificação inicialmente estabelecida, quando a primeira colocada, mesmo após a negociação,
+for desclassificada por sua proposta permanecer acima do preço máximo definido pela
+Administração.
+
+10.12.3. A negociação será realizada por meio do sistema e terá seu resultado divulgado a
+todas as licitantes e anexado aos autos do processo licitatório.
+
+10.12.4. Quando comparecer uma única licitante ou houver apenas uma proposta válida,
+caberá ao(à) Pregoeiro(a) verificar a aceitabilidade do preço ofertado, podendo negociar
+condições mais vantajosas.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 14
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+10.12.5. Poderão ser efetuadas diligências, na forma do previsto no Item 13, para que a
+licitante comprove a exequibilidade de sua proposta.
+
+10.13. A licitante provisoriamente vencedora (arrematante) deverá enviar a proposta escrita,
+conforme indicado no subitem 9.3, e, se necessário, os documentos complementares solicitados no
+Item 1 do Anexo [, por meio do sistema, até o dia útil subsequente ao da solicitação do(a)
+Pregoeiro(a) no sistema, prorrogável por igual período, por solicitação justificada da licitante,
+devidamente aceita, ou de ofício pelo(a) Pregoeiro(a) quando constatada a insuficiência do prazo
+estabelecido.
+
+10.13.1. Serão disponibilizados para acesso público os documentos que compõem as
+propostas das licitantes convocadas para sua apresentação, após a fase de envio de lances.
+
+10.14,. Se as propostas ou os lances de menores valores não forem aceitáveis, posteriormente à
+negociação, ou se as licitantes desatenderem às exigências habilitatórias, mesmo após esgotadas
+as possibilidades de saneamento da documentação e da proposta, o(a) Pregoeiro(a) examinará as
+propostas ou os lances subsequentes, exclusivamente por meio do sistema, verificando a sua
+aceitabilidade e a habilitação da proponente, na ordem de classificação, e assim sucessivamente,
+até a apuração de uma proposta ou lance que atenda a este edital e seus anexos. Nesta hipótese,
+o(a) Pregoeiro(a) poderá negociar com a licitante para que seja obtido preço melhor.
+
+10.14.1. Em caso de propostas intermediárias empatadas, serão utilizados os critérios de
+desempate definidos no subitem 10.10.
+
+10.15. Na hipótese de necessidade de suspensão da sessão pública para a promoção de diligências
+ou adoção de medidas de saneamento, nos termos do Item 13, o seu reinício somente poderá
+ocorrer mediante aviso prévio no sistema com, no mínimo, 24 (vinte e quatro) horas de antecedência,
+para fins de julgamento de proposta ou do ato de habilitação, ou ainda, para o julgamento da
+proposta ou do ato de inabilitação que resultarem no fracasso da licitação, e a ocorrência será
+registrada em ata.
+
+11. CRITÉRIO DE JULGAMENTO
+
+11.1. Para julgamento das propostas, será adotado o critério de MENOR PREÇO POR ITEM,
+observadas as condições definidas neste edital.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 15
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTR&ÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+11.2. Serão DESCLASSIFICADOS os lances finais e, na inexistência de lances, as propostas finais:
+11.2.1. das licitantes que não enviarem sua proposta escrita, nos termos do subitem 9.3, ou
+que não mantiverem sua proposta pelo prazo especificado no Anexo 1, sem prejuízo da
+aplicação das sanções previstas no subitem 18.1;
+
+11.2.2. que contiverem vícios insanáveis;
+
+11.2.3. que não obedecerem às especificações técnicas pormenorizadas neste edital;
+11.2.4. que permanecerem acima do orçamento estimado para a contratação;
+11.2.5. que apresentarem preços inexequiíveis;
+
+11.2.6. que não tiverem sua exequibilidade demonstrada, quando exigida pela Administração;
+
+11.2.7. que apresentarem desconformidade com quaisquer outras exigências deste edital,
+desde que insanável;
+
+11.2.8. que forem omissos ou vagos bem como os que apresentem irregularidades ou defeitos
+capazes de dificultar o julgamento;
+
+11.2.9. das licitantes que não responderem aos saneamentos €e/ou diligências, quando
+solicitados, dentro do prazo estabelecido.
+
+11.3. A Administração poderá realizar diligências para aferir a exequibilidade das propostas ou exigir
+das licitantes que ela seja demonstrada.
+
+11.4. A análise de sobrepreço considerará:
+11.4.1. A caracterização do sobrepreço, que se dará por lances finais e, na inexistência de
+
+lances, por propostas finais que apresentarem preços excessivos, ou seja, que permanecerem
+acima do orçamento estimado para a contratação.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 16
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+11.4.1.1. Consideram-se preços excessivos aqueles superiores ao(s) valor(es)
+máximo(s) aceitável(eis) para o item pelo Município, constante(s) do Anexo II deste
+edital.
+
+11.5. A verificação da conformidade das propostas será feita exclusivamente em relação à proposta
+mais bem classificada por item.
+
+11.6. O(a) Pregoeiro(a) poderá, no julgamento das propostas e nos termos do Item 13, sanar
+erros ou falhas que não alterem a sua substância e sua validade jurídica, e realizar diligências
+destinadas a esclarecer ou a complementar a instrução do processo, atribuindo-lhes eficácia para
+fins de classificação.
+
+11.7. Encerrada a fase de julgamento, após a verificação de conformidade das propostas, o(a)
+Pregoeiro(a) verificará a documentação de habilitação das licitantes conforme disposições do Item
+12.
+
+12. HABILITAÇÃO
+
+12.1. Para habilitação neste certame, fase da licitação em que se verifica o conjunto de informações
+e documentos necessários e suficientes para demonstrar a capacidade da licitante de realizar o
+objeto da licitação, as licitantes deverão apresentar os documentos e cumprir os requisitos elencados
+neste Item 12.
+
+12.1.1. O cumprimento dos requisitos de habilitação e a validade dos documentos serão
+averiguados relativamente à data de sua apresentação, após solicitação do(a) Pregoeiro(a) no
+sistema.
+
+12.2. Os documentos exigidos para habilitação deverão ser apresentados em formato digital apenas
+pela licitante provisoriamente vencedora (arrematante), por meio do sistema eletrônico,
+preferencialmente de forma ordenada sequencialmente por item de habilitação, de modo a facilitar
+sua análise, até o dia útil subsequente ao da solicitação do(a) Pregoeiro(a) no sistema,
+prorrogável por igual período, por solicitação justificada da licitante, devidamente aceita, ou de ofício
+pelo(a) Pregoeiro(a) quando constatada a insuficiência do prazo estabelecido.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 17
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+12.3. A documentação de habilitação poderá ser apresentada em original, por cópia ou por
+publicação em órgão de imprensa oficial, ou ainda, extraídos via internet, sujeitos à consulta e
+aceitação condicionada à verificação de veracidade via internet.
+
+12.3.1. A prova de autenticidade de cópia de documento público ou particular, quando
+solicitada, poderá ser feita perante agente da Administração, mediante apresentação de
+original ou de declaração de autenticidade por advogado, sob sua responsabilidade pessoal.
+
+12.4. Para efeito de validade dos documentos de regularidade fiscal, social e trabalhista e certidão
+negativa de feitos sobre falência, se outro prazo não constar de ato normativo ou do próprio
+documento, será considerado o período de 06 (seis) meses entre a data de sua expedição e a data
+fixada para apresentação da documentação, exceto em relação aos subitens 12.13.1 e 12.13.2.
+
+12.5. A licitante deverá apresentar os documentos de regularidade fiscal, social e trabalhista
+correspondentes ao estabelecimento (matriz ou filial) através do qual pretende firmar o contrato. Se
+a licitante for a matriz, todos os documentos deverão estar em nome da matriz, e se for a filial,
+todos os documentos deverão estar em nome da filial, exceto aqueles documentos que, pela própria
+natureza, comprovadamente, forem emitidos somente em nome da matriz, como a prova de
+regularidade para com a Fazenda Federal conjunta com a Seguridade Social (INSS), para com o
+Fundo de Garantia por Tempo de Serviço (FGTS) e para com a Justiça do Trabalho (CNDT).
+
+12.6. A prova de regularidade deverá ser feita por Certidão Negativa ou Certidão Positiva com efeitos
+de Negativa.
+
+12.6.1. Considera-se Positiva com efeitos de Negativa a Certidão em que conste a existência
+de créditos não vencidos, em curso de cobrança executiva em que tenha sido efetivada a
+penhora, ou cuja exigibilidade esteja suspensa, nos termos do art. 151 do Código Tributário
+Nacional, por moratória, ou pelo depósito de seu montante integral, ou pelas reclamações e
+pelos recursos, nos termos das leis reguladoras do processo tributário administrativo ou pela
+concessão de medida liminar em mandado de segurança ou de tutela antecipada, em outras
+espécies de ação judicial, ou pelo parcelamento.
+
+12.7. Após a entrega dos documentos para habilitação, não será permitida a sua substituição ou a
+apresentação de novos documentos, salvo em sede de diligência ou saneamento, nos termos do
+Item 13.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 18
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+12.8. Microempresas (ME), Empresas de Pequeno Porte (EPP) e Cooperativas de Consumo (COOP)
+deverão apresentar toda documentação de habilitação exigida para fins de regularidade fiscal e
+trabalhista, ainda que tenham alguma restrição.
+
+12.8.1. Havendo alguma restrição na comprovação da regularidade fiscal e trabalhista, será
+assegurado o prazo de 05 (cinco) dias úteis, prorrogáveis por igual período a critério da
+Administração Municipal, contado a partir do 1º (primeiro) dia útil após a data do ato de
+
+habilitação da licitante, para regularização dos documentos.
+
+12.8.2. A não regularização dos documentos no prazo estabelecido implicará a decadência do
+direito à contratação e a adoção dos procedimentos especificados no subitem 15.3.
+
+12.9. Serão disponibilizados para acesso público os documentos de habilitação das licitantes
+convocadas para sua apresentação, após concluídos os procedimentos de que trata o Item 13.
+
+12.10. Constituem motivos para INABILITAÇÃO da licitante, após esgotadas as possibilidades de
+saneamento nos termos do disposto do Item 13:
+
+12.10.1. A não apresentação da documentação exigida para habilitação;
+
+12.10.2. A apresentação de documentos com prazo de validade vencido, na data fixada para
+sua apresentação;
+
+12.10.3. A substituição dos documentos exigidos para habilitação por protocolos de
+requerimento de certidão;
+
+12.10.4. A apresentação de documentos que contenham informações inverídicas;
+
+12.10.5. AÀ mesclagem de documentos de regularidade fiscal, social e trabalhista de
+estabelecimentos diversos, exceto prova de regularidade para com a Fazenda Federal conjunta
+com a Seguridade Social (INSS), para com o Fundo de Garantia por Tempo de Serviço (FGTS)
+e para com a Justiça do Trabalho (CNDT);
+
+12.10.6. O não cumprimento dos requisitos de habilitação;
+
+12.10.7. o não cumprimento das condições de participação estabelecidas no Item 5;
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 19
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+12.10.8. a falsidade das declarações de que tratam os subitens 8.2 e 8.3, sem prejuízo da
+aplicação das sanções previstas no subitem 18.1;
+
+12.10.9. o não atendimento aos saneamentos e/ou diligências, quando solicitados, dentro do
+prazo estabelecido.
+
+12.11. Habilitação Jurídica
+
+A habilitação jurídica visa a demonstrar a capacidade de a licitante exercer direitos e assumir
+obrigações, e a documentação a ser apresentada por ela limita-se à comprovação de existência
+jurídica da pessoa e, quando cabível, de autorização para o exercício da atividade a ser contratada,
+nos seguintes termos:
+
+12.11.1. Autorização para o exercício da atividade a ser contratada, expedida pelo órgão
+competente, quando a atividade assim o exigir, conforme indicado no Anexo [.
+
+12.11.2. Para Empresa Individual: Registro Comercial.
+
+12.11.3. Para Sociedades Empresárias em geral: Ato constitutivo, estatuto ou contrato social
+em vigor e alterações subsequentes, devidamente registrados. Se as alterações tiverem sido
+consolidadas em um só documento, devidamente registrado, bastará a apresentação do ato
+constitutivo consolidado, documento que consubstancia a consolidação de todas as alterações
+realizadas, devendo ser apresentadas eventuais alterações posteriores à consolidação.
+
+12.11.4. Para Sociedade Simples: Inscrição do ato constitutivo e alterações subsequentes,
+devidamente registrados no Registro Civil das Pessoas Jurídicas, acompanhada de prova da
+diretoria em exercício. Se as alterações tiverem sido consolidadas em um só documento,
+devidamente registrado, bastará a apresentação do ato constitutivo consolidado, documento
+que consubstancia a consolidação de todas as alterações realizadas, devendo ser apresentadas
+eventuais alterações posteriores à consolidação.
+
+12.11.5. Para Sociedades Empresárias Estrangeiras em funcionamento no País: Decreto de
+autorização e ato de registro ou autorização para funcionamento expedido pelo órgão
+competente, quando a atividade assim o exigir.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 20
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTR&ÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+12.11.6. Para Microempresas (ME) ou Empresas de Pequeno Porte (EPP): ato constitutivo a
+ser apresentado nos termos dos subitens precedentes, acompanhado de um dos seguintes
+documentos ou qualquer outra forma admitida pelo ordenamento jurídico vigente que possi-
+bilite a comprovação do enquadramento das licitantes como ME ou EPP:
+
+12.11.6.1. Certidão expedida pela Junta Comercial, caso exerçam atividade comercial;
+
+12.11.6.2. Documento expedido pelo Registro Civil das Pessoas Jurídicas, caso atuem
+em outra área que não a comercial.
+
+12.11.6.3. Não farão jus ao tratamento diferenciado de que trata a Lei Complementar
+nº 123/2006, as ME e EPP:
+
+- enquadradas nas hipóteses previstas no art. 3º, $84º, da Lei Complementar nº
+123/2006;
+
+- Cuja receita bruta anual do ano-calendário anterior tenha excedido o limite fixado
+no inciso II do art. 3º da Lei Complementar nº 123/2006 (receita bruta máxima
+admitida para fins de enquadramento como EPP). Considera-se ano-calendário
+anterior o exercício imediatamente anterior ao encerrado, até o dia 30 de abril de
+cada ano. Após essa data, com base no art. 1078 do Código Civil, o ano-calendário
+anterior será o imediatamente anterior, para todas as empresas (inclusive aquelas
+que optam pelo lucro real ou presumido ou utilizam o Sistema Pública de
+Escrituração Digital — SPED);
+
+- Cuja receita bruta do ano-calendário da licitação tenha excedido em 20% (vinte
+por cento) ou mais o limite fixado no inciso II do art. 3º da Lei Complementar nº
+123/2006 (receita bruta máxima admitida para fins de enquadramento como EPP).
+
+12.11.7. Para Cooperativas de Consumo (COOP): ato constitutivo a ser apresentado nos
+termos dos subitens precedentes, acompanhado do seguinte documento para aferição da
+equiparação às ME e EPP, nos termos do art. 34 da Lei Federal nº 11.488/2007:
+
+12.11.7.1. Demonstração de Resultados de Exercício (DRE) referente ao último
+exercício social exigível, assinado por bacharel ou técnico em Ciências Contábeis,
+devidamente habilitado, constando nome completo e registro profissional.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 21
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+12.11.8. As licitantes que se utilizarem indevidamente de qualquer benefício da Lei Complementar
+nº 123/2006, estarão sujeitas à pena de declaração de inidoneidade para licitar ou contratar no
+âmbito da Administração Pública direta e indireta de todos os entes federativos.
+12.12. Qualificação Técnica
+
+A documentação relativa à qualificação técnica consistir-se-á em:
+
+12.12.1. Documentos especificados no Anexo [.
+
+12.13. Habilitações Fiscal, Social e Trabalhista
+
+As habilitações fiscal, social e trabalhista serão aferidas mediante a verificação dos seguintes
+requisitos:
+
+12.13.1. Prova de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ) do Ministério da
+Economia ou Comprovante de Inscrição e de Situação Cadastral.
+
+12.13.2. Prova de inscrição no Cadastro de Contribuintes Estadual.
+
+12.13.3. Prova de regularidade para com a Fazenda Federal e para com a Seguridade Social
+— INSS, que deverá ser comprovada através da apresentação da Certidão Conjunta de Débitos
+Relativos a Tributos Federais e à Dívida Ativa da União, expedida conjuntamente pela
+Secretaria da Receita Federal (RFB) e pela Procuradoria-Geral da Fazenda Nacional (PGFN).
+
+12.13.4. Prova de regularidade para com a Fazenda Estadual, que deverá ser comprovada
+pela apresentação de Certidão Negativa de Débitos Tributários Inscritos na Dívida Ativa,
+expedida pelo órgão competente.
+
+12.13.5. Prova de regularidade relativa ao Fundo de Garantia por Tempo de Serviço — FGTS
+através do Certificado de Regularidade do FGTS - CRF, emitido pela Caixa Econômica Federal.
+
+12.13.6. Prova de regularidade perante a Justiça do Trabalho, mediante a apresentação de
+Certidão Negativa de Débitos Trabalhistas.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 22
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+SECRETARIA DE ADMINISTRAÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+12.13.7. Declaração, assinada por representante legal da licitante, de que não outorga
+trabalho noturno, perigoso ou insalubre a menor de 18 (dezoito) anos, e qualquer trabalho a
+menor de 16 (dezesseis) anos, salvo na condição de aprendiz, a partir de 14 (catorze) anos,
+em cumprimento ao disposto no inciso XXXIII do art. 7º da Constituição Federal.
+
+12.13.8. Declaração, assinada por representante legal da licitante, de que cumpre as
+exigências de reserva de cargos para pessoa com deficiência e para reabilitado da Previdência
+Social, previstas em lei e em outras normas específicas.
+
+12.13.9. Os documentos referidos nos subitens 12.13.1 a 12.13.8 poderão ser substituídos
+ou supridos, no todo ou em parte, por outros meios hábeis a comprovar a regularidade da
+licitante, inclusive por meio eletrônico.
+
+12.14. Habilitação Econômico-Financeira
+
+De forma a demonstrar a aptidão econômica da licitante para cumprir as obrigações
+decorrentes do futuro contrato, as licitantes deverão apresentar:
+
+12.14.1. Certidão negativa de feitos sobre falênciay expedida pelo(s) cartório(s)
+distribuidor(es) da sede da pessoa jurídica.
+
+13. DILIGÊNCIAS E SANEAMENTO
+
+13.1. Em qualquer fase da licitação, a Administração poderá promover as diligências que entender
+necessárias e adotar medidas de saneamento, com a finalidade de esclarecer informações, corrigir
+impropriedades na documentação da proposta e de habilitação, ou complementar a instrução do
+processo, observado que:
+
+13.1.1. tendo em vista os princípios da licitação, em especial o do interesse público, poderá
+ser estabelecido prazo fatal para que a licitante atenda ao solicitado;
+
+13.1.2. o(a) Pregoeiro(a) poderá sanar erros ou falhas que não alterem a substância das
+propostas, dos documentos e sua validade jurídica, mediante decisão fundamentada, acessível
+às licitantes, atribuindo-as validade e eficácia para fins de habilitação e classificação;
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 23
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+13.1.3. constituem falhas formais, passíveis de serem supridas de ofício pelo(a) Pregoeiro(a):
+a omissão na documentação ou a documentação apresentada com data de validade vencida,
+quando passíveis de serem saneadas mediante consulta gratuita a sítio oficial na internet.
+Nestas hipóteses, o(a) Pregoeiro(a) poderá juntar a documentação obtida em diligência nos
+autos do processo;
+
+13.1.4. constituem falhas formais, que poderão ser sanadas com a solicitação à licitante para
+posterior juntada no processo: a omissão ou o erro no preenchimento das declarações das
+licitantes e dos demais documentos dispostos no Item 1 do Anexo 1, tendo em vista estes
+
+possuírem caráter acessório;
+
+13.1.5. poderá ser realizada complementação de informações acerca dos documentos já
+apresentados pelas licitantes para apurar fatos existentes à época da abertura do certame;
+
+13.1.6. poderá ser procedida a atualização de documentos cuja validade tenha expirado após
+a data de recebimento da proposta escrita e/ou dos documentos de habilitação;
+
+13.1.7. poderá ser solicitada apresentação de novo documento, ausente por equívoco ou falha,
+comprobatório de condição preexistente atendida pela licitante no momento de apresentação
+dos demais comprovantes de habilitação e/ou da proposta.
+14. RECURSO, ADJUDICAÇÃO E HOMOLOGAÇÃO
+14.1. Dos atos da Administração decorrentes desta licitação cabem:
+14.1.1. recurso hierárquico em face de:
+14.1.1.1. julgamento das propostas;
+14.1.1.2. ato de habilitação ou inabilitação de licitante;
+
+14.1.1.3. anulação ou revogação da licitação;
+
+14.1.1.4. extinção do contrato, quando determinada por ato unilateral e escrito da
+Administração.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 24
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+14.1.2. pedido de reconsideração, relativamente a ato do qual não caiba recurso hierárquico.
+
+14.2. Para os recursos apresentados em face do julgamento das propostas (subitem 14.1.1.1) e
+do ato de habilitação ou inabilitação de licitante (subitem 14.1.1.2), serão observadas as seguintes
+disposições:
+
+14.2.1. A intenção de recorrer deverá ser manifestada pela licitante, exclusivamente via
+sistema, no prazo de até 10 (dez) minutos, após o julgamento da proposta ou do ato de
+habilitação ou inabilitação, sob pena de preclusão.
+
+14.2.1.1. O(a) Pregoeiro(a) emitirá aviso prévio no sistema com, no mínimo, 24 (vinte
+e quatro) horas de antecedência, para realização do julgamento da proposta ou o ato de
+habilitação, ou ainda, para o julgamento da proposta ou do ato de inabilitação que
+resultarem no fracasso da licitação.
+
+14.2.1.2. A licitante desclassificada antes da fase de disputa ou no julgamento de sua
+proposta, ou a licitante inabilitada, também poderá manifestar e motivar a sua intenção
+de interpor recurso no período que se refere o subitem 14.2.1.
+
+14.2.2. As licitantes que manifestaram a intenção de interpor recurso apresentarão Memoriais,
+dirigidos ao(à) Pregoeiro(a), em campo próprio do sistema, no prazo de 03 (três) dias úteis,
+contado a partir do encerramento do(s) item(ns) no sistema, após o julgamento da proposta
+e do ato de habilitação de licitante.
+
+14.2.3. O prazo para apresentação de contrarrazões será o mesmo do recurso (03 dias úteis)
+e terá início na data de divulgação da interposição de recurso.
+
+14.2.4. A apreciação dar-se-á em fase única.
+
+14.3. Os demais recursos hierárquicos serão dirigidos à autoridade que tiver editado o ato ou
+proferido a decisão recorrida, através do ambiente do sistema eletrônico ou do e-mail indicado no
+preâmbulo deste edital ou do Protocolo Geral do Paço Municipal, no prazo de 03 (três) dias úteis,
+contado do dia subsequente ao da publicação no Diário Oficial do Município.
+
+14.4. A autoridade que praticou o ato recorrido poderá reconsiderar sua decisão no prazo de 03
+(três) dias úteis ou, nesse mesmo prazo, encaminhar o recurso com sua motivação à autoridade
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 25
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+superior, a qual deverá proferir sua decisão no prazo máximo de 10 (dez) dias úteis, contado do
+recebimento dos autos.
+
+14.5. O pedido de reconsideração será dirigido à autoridade que praticou o ato, através do e-mail
+indicado no preâmbulo deste edital ou do Protocolo Geral do Paço Municipal, no prazo máximo de
+03 (três) dias úteis, contado da data da intimação do referido ato.
+
+14.5.1. A autoridade deverá proferir sua decisão no prazo máximo de 10 (dez) dias úteis.
+
+14.6. O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão recorrida
+até que sobrevenha decisão final da autoridade competente.
+
+14.7. O acolhimento de recurso implicará a invalidação apenas do ato insuscetível de
+aproveitamento.
+
+14.8. É assegurada às licitantes vista dos elementos indispensáveis à defesa de seus interesses por
+acesso ao Sistema Eletrônico de Informações — SEI, mediante solicitação enviada para o e-mail
+indicado no preâmbulo deste edital.
+
+14.9. Não serão acatados recursos apresentados fora do prazo legal e/ou subscritos por
+representantes não habilitados legalmente ou não credenciados no processo para responder pela
+
+licitante.
+
+14.10. Encerradas as fases de julgamento e habilitação e exauridos os recursos administrativos,
+o(a) Pregoeiro(a) encaminhará o processo licitatório à autoridade superior, que poderá:
+
+14.10.1. determinar o retorno dos autos para saneamento de irregularidades;
+
+14.10.2. revogar o procedimento por motivo de conveniência e oportunidade, resultante de
+fato superveniente devidamente comprovado;
+
+14.10.3. proceder à anulação da licitação, de ofício ou mediante provocação de terceiros,
+sempre que presente ilegalidade insanável; ou
+
+14.10.4. adjudicar o objeto e homologar a licitação.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 26
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+14.11. À homologação desta licitação não obriga a Administração à contratação do objeto licitado.
+
+14.12. A adjudicação do objeto à licitante vencedora e a homologação da licitação serão publicadas
+no Diário Oficia do Município de Campinas e disponibilzadas no portal eletrônico
+licitacoes.campinas.sp.gov.br.
+
+15. CONTRATAÇÃO
+15.1. A contratação será formalizada por meio de Nota de Empenho.
+
+15.2. A Secretaria Gestora enviará, para assinatura da adjudicatária, juntamente com a Nota de
+Empenho, o Termo de Ciência e de Notificação, cujo modelo encontra-se anexo ao presente edital.
+
+15.2.1. A adjudicatária terá o prazo de 05 (cinco) dias úteis a contar da notificação, para
+aceitar a Nota de Empenho e assinar o Termo de Ciência e de Notificação, sob pena de decair
+o direito à contratação, sem prejuízo da aplicação da penalidade de impedimento de licitar e
+contratar no âmbito da Administração Direta e Indireta do Município de Campinas por até 03
+(três) anos e da perda da garantia de proposta (se houver).
+
+15.2.2. O prazo de convocação poderá ser prorrogado 01 (uma) vez, por igual período,
+mediante solicitação da parte durante seu transcurso, devidamente justificada, e desde que o
+motivo apresentado seja aceito pela Administração.
+
+15.3. Quando a adjudicatária convocada, dentro do prazo de validade de sua proposta, não mantiver
+habilitação regular ou se recusar a retirar ou aceitar a Nota de Empenho, é facultado ao Município:
+
+15.3.1. revogar a licitação, sem prejuízo da aplicação das sanções cabíveis, observado o
+disposto no subitem 18.1;
+
+15.3.2. convocar as licitantes remanescentes, na ordem de classificação, para, constatada a
+regularidade de sua habilitação e procedida nova homologação, retirar ou aceitar a Nota de
+Empenho, nas condições ofertadas pela licitante vencedora; ou
+
+15.3.3. Na hipótese de nenhuma das licitantes aceitar a contratação nos termos do subitem
+15.3.2, observados o valor máximo estimado e sua eventual atualização nos termos deste
+edital:
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 27
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+15.3.3.1. convocar as licitantes remanescentes para negociação, na ordem de
+classificação, com vistas à obtenção de preço melhor, mesmo que acima do preço da
+adjudicatária;
+
+15.3.3.2. adjudicar e celebrar o contrato nas condições ofertadas pelas licitantes
+remanescentes, atendida a ordem classificatória, quando frustrada a negociação de
+melhor condição.
+
+15.4. Além das situações previstas no subitem 5.2.2, é vedada a celebração de contrato com o
+Município ou sua execução com pessoa jurídica na qual haja administrador ou sócio com poder de
+direção, com vínculo de parentesco com agente político ou Vereador de Campinas, nos termos do
+disposto no art. 7º do Decreto Municipal nº 17.437/2011.
+
+15.4.1. Considera-se agente político o Chefe do Poder Executivo, o Vice-Prefeito, o Presidente
+ou Diretor-Presidente de entidades da Administração Indireta, os Secretários municipais, nos
+termos do art. 2º, inciso IV, do mesmo Decreto.
+
+15.5. Constituem motivos para a extinção do contrato as situações referidas no art. 137 da Lei
+Federal nº 14.133/2021.
+
+15.5.1. Na hipótese de extinção determinada por ato unilateral e escrito da Administração,
+ficarão assegurados ao Município os direitos elencados no art. 139 da Lei Federal nº
+14.133/2021.
+
+16. RECEBIMENTO DO OBJETO DA LICITAÇÃO
+
+16.1. No recebimento e aceitação do objeto desta licitação serão observadas, no que couber, as
+disposições contidas no art. 140 da Lei Federal nº 14.133/2021.
+
+16.2. O objeto do contrato será recebido:
+16.2.1. provisoriamente, de forma sumária, pelo responsável por seu acompanhamento e
+
+fiscalização, com verificação posterior da conformidade do material com as exigências
+contratuais;
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 28
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+16.2.2. definitivamente, por servidor ou comissão designada pela autoridade competente,
+mediante termo detalhado que comprove o atendimento das exigências contratuais.
+
+16.3. A entrega deve ocorrer de forma integral, no prazo e local especificados no Anexo II.
+
+16.4. O objeto do contrato poderá ser rejeitado, no todo ou em parte, quando estiver em desacordo
+com as especificações do Anexo II, inclusive no caso de vícios, devendo ser substituído pela
+Contratada no prazo máximo estabelecido no Anexo II, sem custos adicionais ao Município de
+Campinas.
+
+16.5.á A Contratada responsabilizar-se-á —“pelo  carregamento e transporte dos
+materiais/produtos/equipamentos, bem como pelo seu descarregamento no local de entrega
+indicado no Anexo II.
+
+16.5.1. Os materiais/produtos/equipamentos deverão ser transportados de forma a não
+sofrerem danificações/avarias no transporte e na entrega.
+
+16.6. Os materiais/produtos/equipamentos ofertados deverão ser novos.
+
+16.7. A Contratada responsabiliza-se por vícios de fabricação, bem como pelos desgastes anormais
+do material/produto/equipamento, suas partes e acessórios, obrigando-se a substituir os elementos
+defeituosos, sem ônus ao erário, no prazo fixado pela Administração, e ressarcir eventuais danos.
+
+16.8. Por ocasião da entrega dos materiais/produtos/equipamentos, a Contratada deverá apresentar
+Nota Fiscal constando quantidade, marca/fabricante, preço unitário, preço total e nº do código do
+item na Prefeitura de Campinas (igual ao da Nota de Empenho).
+
+16.8.1. Os preços da Nota Fiscal não poderão ser divergentes daqueles constantes na Nota
+de Empenho.
+
+16.8.2. A Nota Fiscal deverá ser emitida respeitando o quantitativo discriminado na Nota de
+Empenho.
+
+16.9. As condições de entrega, montagem e treinamento, quando for o caso, constarão no Anexo
+II.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 29
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+16.10. A garantia do material/produto/equipamento, quando for o caso, constará no Anexo II.
+17. PAGAMENTO E REAJUSTAMENTO DE PREÇOS
+
+17.1. A Contratada apresentará ao órgão gestor, que figura como interessado no preâmbulo deste
+edital, a Nota Fiscal referente ao fornecimento efetuado.
+
+17.2. O órgão gestor terá o prazo de 05 (cinco) dias úteis, a contar da apresentação da Nota Fiscal,
+para aceitá-la ou rejeitá-la.
+
+17.3. A Nota Fiscal não aceita pelo órgão gestor será devolvida à Contratada para as necessárias
+correções, com as informações que motivaram sua rejeição, contando-se o prazo estabelecido no
+
+subitem 17.2, a partir da data de sua reapresentação.
+
+17.4. No caso de controvérsia sobre a execução do objeto, quanto a dimensão, qualidade e
+quantidade, a parcela incontroversa deverá ser liberada no prazo previsto para pagamento.
+
+17.5. O Município de Campinas efetuará o pagamento no prazo estipulado no Anexo II.
+17.6. O Contratante reterá, na fonte, o imposto sobre a renda incidente sobre os pagamentos que
+efetuar à Contratada, em cumprimento ao art. 2º-A da Instrução Normativa RFB nº 1.234/2012,
+
+alterada pela Instrução Normativa RFB nº 2.145/2023.
+
+17.7. O Município de Campinas procederá ao reajustamento de preços na forma e condições
+estabelecidas no Item 6 do Anexo [.
+
+18. SANÇÕES ADMINISTRATIVAS
+
+18.1. Serão aplicadas ao responsável pelas infrações administrativas as seguintes sanções, nos
+termos dos arts. 155 a 163 da Lei Federal nº 14.133/2021:
+
+18.1.1. advertência, aplicável à Contratada que der causa à inexecução parcial do contrato,
+quando não se justificar a imposição de penalidade mais grave;
+
+18.1.2. multa de mora de 0,1% (um décimo por cento) a 0,5% (cinco décimos por cento) do
+valor da inadimplência, por dia de atraso injustificado em realizar o fornecimento, até o 4º
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 30
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTR&ÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+(quarto) dia corrido do atraso, após o que, a critério da Administração, poderá ocorrer a não
+aceitação do objeto, de forma a configurar, nessa hipótese, inexecução total da obrigação
+assumida, ocasião em que poderá ser convertida em multa compensatória e promovida a
+extinção unilateral do contrato, cumulada com outras sanções;
+
+18.1.3. multa compensatória em valor não inferior a 0,5% (cinco décimos por cento) do valor
+do contrato e não superior a 30% (trinta por cento), nas seguintes infrações:
+
+18.1.3.1. dar causa à inexecução parcial do contrato;
+
+18.1.3.2. dar causa à inexecução parcial do contrato que cause grave dano à
+Administração, ao funcionamento dos serviços públicos ou ao interesse coletivo;
+
+18.1.3.3. dar causa à inexecução total do contrato;
+18.1.3.4. deixar de entregar a documentação exigida para o certame;
+
+18.1.3.5. não manter a proposta, salvo em decorrência de fato superveniente
+devidamente justificado;
+
+18.1.3.6. não celebrar o contrato ou não entregar a documentação exigida para a
+contratação, quando convocado dentro do prazo de validade de sua proposta;
+
+18.1.3.7. ensejar o retardamento da execução ou da entrega do objeto da licitação sem
+motivo justificado;
+
+18.1.3.8. apresentar declaração ou documentação falsa exigida para o certame ou
+prestar declaração falsa durante a licitação ou a execução do contrato;
+
+18.1.3.9. fraudar a licitação ou praticar ato fraudulento na execução do contrato;
+18.1.3.10. comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+
+18.1.3.11. praticar atos ilícitos com vistas a frustrar os objetivos da licitação;
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 31
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTR&ÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+18.1.3.12. praticar ato lesivo previsto no art. 5º da Lei Federal nº 12.846/2013 Lei
+Anticorrupção), especialmente o inciso IV, no tocante a licitações e contratos:
+
+a) frustrar ou fraudar, mediante ajuste, combinação ou qualquer outro expediente,
+o caráter competitivo de procedimento licitatório público;
+
+b) impedir, perturbar ou fraudar a realização de qualquer ato de procedimento
+licitatório público;
+
+c) afastar ou procurar afastar licitante, por meio de fraude ou oferecimento de
+vantagem de qualquer tipo;
+
+d) fraudar licitação pública ou contrato dela decorrente;
+
+e) criar, de modo fraudulento ou irregular, pessoa jurídica para participar de
+licitação pública ou celebrar contrato administrativo;
+
+f) obter vantagem ou benefício indevido, de modo fraudulento, de modificações
+ou prorrogações de contratos celebrados com a administração pública, sem
+autorização em lei, no ato convocatório da licitação pública ou nos respectivos
+instrumentos contratuais; ou
+
+g) manipular ou fraudar o equilíbrio econômico-financeiro dos contratos
+celebrados com a administração pública.
+
+18.1.4. impedimento de licitar e contratar no âmbito da Administração Pública direta e indireta
+do Município de Campinas, pelo prazo máximo de 03 (três) anos, nas seguintes infrações,
+
+quando não se justificar a imposição de penalidade mais grave:
+
+18.1.4.1. dar causa à inexecução parcial do contrato que cause grave dano à
+Administração, ao funcionamento dos serviços públicos ou ao interesse coletivo;
+
+18.1.4.2. dar causa à inexecução total do contrato;
+
+18.1.4.3. deixar de entregar a documentação exigida para o certame;
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 32
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTR&ÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+18.1.4.4. não manter a proposta, salvo em decorrência de fato superveniente
+devidamente justificado;
+
+18.1.4.5. não celebrar o contrato ou não entregar a documentação exigida para a
+contratação, quando convocado dentro do prazo de validade de sua proposta;
+
+18.1.4.6. ensejar o retardamento da execução ou da entrega do objeto da licitação sem
+motivo justificado.
+
+18.1.5. declaração de inidoneidade para licitar ou contratar no âmbito da Administração
+Pública direta e indireta de todos os entes federativos, pelo prazo mínimo de 03 (três) anos e
+máximo de 06 (seis) anos, nas hipóteses previstas no subitem anterior, que justifiquem a
+imposição de penalidade mais grave que o impedimento de licitar e contratar e, ainda, nas
+
+seguintes hipóteses:
+
+18.1.5.1. apresentar declaração ou documentação falsa exigida para o certame ou
+prestar declaração falsa durante a licitação ou a execução do contrato;
+
+18.1.5.2. fraudar a licitação ou praticar ato fraudulento na execução do contrato;
+18.1.5.3. comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+18.1.5.4. praticar atos ilícitos com vistas a frustrar os objetivos da licitação;
+
+18.1.5.5. praticar ato lesivo previsto no art. 5º da Lei nº 12.846/2013 (Lei
+Anticorrupção), especialmente o inciso IV, no tocante a licitações e contratos:
+
+a) frustrar ou fraudar, mediante ajuste, combinação ou qualquer outro expediente,
+o caráter competitivo de procedimento licitatório público;
+
+b) impedir, perturbar ou fraudar a realização de qualquer ato de procedimento
+licitatório público;
+
+c) afastar ou procurar afastar licitante, por meio de fraude ou oferecimento de
+vantagem de qualquer tipo;
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 33
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTR&ÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+d) fraudar licitação pública ou contrato dela decorrente;
+
+e) criar, de modo fraudulento ou irregular, pessoa jurídica para participar de
+licitação pública ou celebrar contrato administrativo;
+
+f) obter vantagem ou benefício indevido, de modo fraudulento, de modificações
+ou prorrogações de contratos celebrados com a administração pública, sem
+autorização em lei, no ato convocatório da licitação pública ou nos respectivos
+
+instrumentos contratuais; ou
+
+g) manipular ou fraudar o equilíbrio econômico-financeiro dos contratos
+celebrados com a administração pública.
+
+18.1.6. Na aplicação das sanções serão considerados:
+
+18.1.6.1. a natureza e a gravidade da infração cometida;
+
+18.1.6.2. as peculiaridades do caso concreto;
+
+18.1.6.3. as circunstâncias agravantes ou atenuantes;
+
+18.1.6.4. os danos que dela provierem para a Administração Pública;
+
+18.1.6.5. a implantação ou o aperfeiçoamento de programa de integridade, conforme
+normas e orientações dos órgãos de controle.
+
+18.2. Na aplicação da sanção de multa, será facultada a defesa do interessado no prazo de 15
+(quinze) dias úteis, contado da data de sua intimação.
+
+18.3. A aplicação das sanções de impedimento de licitar e contratar e declaração de inidoneidade
+requererá a instauração de processo de responsabilização, a ser conduzido por comissão composta
+de 02 (dois) ou mais servidores estáveis, que avaliará fatos e circunstâncias conhecidos e intimará
+a licitante ou a Contratada para, no prazo de 15 (quinze) dias úteis, contado da data de intimação,
+apresentar defesa escrita e especificar as provas que pretenda produzir.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 34
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+18.4. É admitida a reabilitação da licitante ou contratada perante a própria autoridade que aplicou
+a penalidade, exigidos, cumulativamente:
+
+18.4.1. reparação integral do dano causado à Administração Pública;
+18.4.2. pagamento da multa;
+
+18.4.3. transcurso do prazo mínimo de 01 (um) ano da aplicação da penalidade, no caso de
+impedimento de licitar e contratar, ou de 03 (três) anos da aplicação da penalidade, no caso
+de declaração de inidoneidade;
+
+18.4.4. cumprimento das condições de reabilitação definidas no ato punitivo;
+
+18.4.5. análise jurídica prévia, com posicionamento conclusivo quanto aãao cumprimento dos
+requisitos definidos no subitem 18.4.
+
+18.5. A sanção pelas infrações de apresentar declaração ou documentação falsa exigida para o
+certame ou prestar declaração falsa durante a licitação ou a execução do contrato e praticar ato
+lesivo previsto no art. 5º da Lei nº 12.846/2013 exigirá como condição de reabilitação de licitante
+ou contratada, adicionalmente ao subitem 18.4, a implantação ou aperfeiçoamento de programa de
+integridade pelo responsável.
+
+18.6. A penalidade de multa poderá ser aplicada cumulativamente com as demais sanções.
+
+18.6.1. Possível a cumulação das multas moratória e compensatória quando tiverem elas
+origem e fatos geradores diversos.
+
+18.7. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de pagamento
+eventualmente devido pela Administração à Contratada, além da perda desse valor, a diferença será
+descontada da garantia prestada ou será cobrada judicialmente.
+
+18.8. A aplicação das sanções previstas não exclui, em hipótese alguma, a obrigação de reparação
+integral do dano causado à Administração.
+
+18.9. O descumprimento parcial ou total, por uma das partes, das obrigações que lhes
+correspondam, não será considerado inadimplemento contratual se tiver ocorrido por motivo de caso
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 35
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+fortuito ou de força maior, devidamente justificados e comprovados. O caso fortuito, ou de força
+maior, verifica-se no fato necessário, cujos efeitos não era possível evitar, ou impedir, nos termos do
+parágrafo único do art. 393 do Código Civil.
+
+18.10. Da aplicação das sanções de advertência, multa e impedimento de licitar e contratar caberá
+recurso no prazo de 15 (quinze) dias úteis, contado da data da intimação.
+
+18.10.1. O recurso de que trata o subitem 18.10 será dirigido à autoridade que tiver proferido
+a decisão recorrida, que, se não a reconsiderar no prazo de 05 (cinco) dias úteis, encaminhará
+O recurso com sua motivação à autoridade superior, a qual deverá proferir sua decisão no
+prazo máximo de 20 (vinte) dias úteis, contado do recebimento dos autos.
+
+18.11. Da aplicação da sanção de declaração de inidoneidade para licitar ou contratar caberá apenas
+pedido de reconsideração, que deverá ser apresentado no prazo de 15 (quinze) dias úteis, contado
+da data da intimação, e decidido no prazo máximo de 20 (vinte) dias úteis, contado do seu recebi-
+mento.
+
+19. FISCALIZAÇÃO E GESTÃO CONTRATUAL
+
+19.1. O Contratante, por meio da Secretaria Gestora, efetuará a fiscalização e a gestão do forneci-
+mento a qualquer instante, solicitando à Contratada, sempre que julgar conveniente, informações
+do seu andamento, devendo esta prestar os esclarecimentos desejados e comunicar ao Contratante
+quaisquer fatos ou anormalidades que porventura possam prejudicar o bom andamento do contrato
+ou o resultado final do fornecimento.
+
+19.2. No desempenho de suas atividades, é assegurado aos órgãos fiscalizadores o direito de veri-
+ficar e exigir a perfeita execução do presente ajuste em todos os seus termos e condições.
+
+19.3. A Contratada será responsável pelos danos causados diretamente à Administração ou a ter-
+ceiros em razão da execução do contrato, e não excluirá nem reduzirá essa responsabilidade a
+fiscalização ou o acompanhamento pelo Contratante.
+
+19.4. Demais condições do modelo de fiscalização e de gestão do contrato constam do Anexo II.
+20. DISPOSIÇÕES FINAIS
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 36
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+20.1. No processo licitatório, é permitida a identificação e assinatura digital por pessoa física ou
+jurídica em meio eletrônico, mediante certificado digital emitido em âmbito da Infraestrutura de
+Chaves Públicas Brasileira (ICP-Brasil), nos termos do disposto na Lei Federal nº 14.063/2020.
+
+20.2. Fica assegurado ao Município de Campinas, por intermédio da autoridade competente, o di-
+reito de, por motivo de conveniência e oportunidade, razões de interesse público decorrente de fato
+superveniente devidamente comprovado, revogar, a qualquer tempo, no todo ou em parte, a pre-
+sente licitação, ou proceder à sua anulação, de ofício ou por provocação de terceiros, sempre que
+presente ilegalidade insanável.
+
+20.2.1. Nos casos de anulação e revogação da licitação, deverá ser assegurada a prévia
+manifestação dos interessados, nos termos do caput e do 83º do art. 71 da Lei Federal nº
+14.133/2021.
+
+20.3. As licitantes são responsáveis pela veracidade e legitimidade das informações e dos
+documentos apresentados em qualquer fase da licitação.
+
+20.4. Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a realização
+do certame na data marcada, o(a) Pregoeiro(a) comunicará a nova data da sessão de disputa através
+
+do sistema “Compras” (www.gov.br/compras).
+
+20.5. No interesse do Município de Campinas, sem que caiba aos participantes qualquer reclamação
+ou indenização, esta licitação poderá ter a sua abertura adiada ou o edital alterado.
+
+20.6. Os prazos previstos neste edital serão contados com exclusão do dia do começo e inclusão do
+dia do vencimento e observarão as seguintes disposições:
+
+20.6.1. os prazos expressos em dias corridos serão computados de modo contínuo.
+20.6.2. os prazos expressos em meses ou anos serão computados de data a data. Se no mês
+do vencimento não houver o dia equivalente àquele do início do prazo, considera-se como
+
+termo o último dia do mês.
+
+20.6.3. os prazos expressos em dias úteis serão computados somente os dias em que ocorrer
+expediente normal na Prefeitura Municipal de Campinas.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 37
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTR&ÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+20.6.4. Considera-se dia do começo do prazo o primeiro dia útil seguinte ao da
+disponibilização da informação na internet ou, a data de juntada aos autos do aviso de
+recebimento, quando a notificação for pelos correios.
+
+20.6.5. Considera-se prorrogado o prazo até o primeiro dia útil seguinte se o vencimento cair
+em dia em que não houver expediente, se o expediente for encerrado antes da hora normal
+ou se houver indisponibilidade da comunicação eletrônica.
+
+20.7. Aplica-se aos casos omissos o disposto na Lei Federal nº 14.133/2021, na Instrução Normativa
+SEGES/ME nº 73/2022, na Lei Complementar nº 123/2006 e no Decreto Municipal nº 23.460/2024,
+e respectivas alterações.
+
+20.8. A participação da licitante neste certame implica a aceitação de todos os termos deste edital.
+
+20.9. Fica declarado competente o foro da Comarca de Campinas, com renúncia de qualquer outro
+por mais privilegiado que seja, para dirimir questões oriundas deste edital, não resolvidas
+administrativamente.
+
+Campinas, 17 de setembro de 2025.
+
+Assinado de f digital
+RAPHAEL BERNARDES ASpA semuanDes Peixoro
+PEIXOTO DOS DOS SANTOS:21452772851
+
+. Dados: 2025.09.17 11:50:21
+SANTOS:21452772851 XZoo
+
+RAPHAEL BERNARDES PEIXOTO DOS SANTOS
+Diretor do Departamento de Licitações
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 38
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+ANEXO I — INFORMAÇÕES COMPLEMENTARES
+
+1. CONTEÚDO DA PROPOSTA ESCRITA E DOCUMENTOS COMPLEMENTARES
+
+A licitante provisoriamente vencedora (arrematante) deverá enviar sua proposta escrita adequada
+ao último lance ofertado, observado o modelo constante no Anexo III, com:
+
+1.1. Preço unitário correspondente ao lance vencedor e total do item (preço unitário x quantidade),
+expresso em números, na moeda corrente nacional, com no máximo duas casas decimais, sendo
+desprezadas as demais;
+
+1.2. Marca/fabricante e, se houver, modelo do item ofertado;
+
+1.3. Dados bancários, contendo o número do banco, número da agência, nome da agência e número
+da conta corrente, com dígito verificador;
+
+1.4,. Literatura Técnica (manuais, catálogos, folhetos, prospectos) em português ou acompanhado
+de tradução para o português, com o desenho ou fotografia e descrição detalhada das características
+técnicas do material/produto/equipamento cotado, para verificação da compatibilidade com as
+especificações solicitadas no Anexo II, inclusive das condições de garantia técnica, manutenção e/ou
+assistência técnica previstas no Ttem 15 do Anexo II, bem como para orientações técnicas para seu
+manuseio;
+
+1.5. Para as licitantes vencedoras dos itens 01, 02 e 03 (Drone de Alto desempenho, Drone sem
+Tela e Drone com Câmera Termográfica), deverá(ão) apresentar produto(s) com certificado de
+Homologação expedido pela Agência Nacional de Telecomunicações (ANATEL);
+
+2. PRAZO DE VALIDADE DA PROPOSTA E DO LANCE
+
+2.1. Prazo de validade da proposta/lance: 3 (três) meses, contados da data da última proposta/lance
+ofertado pela licitante.
+
+3. HABILITAÇÃO JURÍDICA — AUTORIZAÇÃO PARA O EXERCÍCIO DA ATIVIDADE A SER
+CONTRATADA
+Não Exigível.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 39
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+4. QUALIFICAÇÃO TÉCNICA
+Não Exigível.
+
+5. AMOSTRA
+Não Exigível.
+
+6. REAJUSTAMENTO DE PREÇOS E ATUALIZAÇÃO MONETÁRIA POR ATRASO DE PAGA-
+MENTO
+
+6.1. Os valores contratados serão reajustados após 12 (doze) meses, contados a partir da data
+base do orçamento estimado da licitação, ou do último reajuste, de acordo com a seguinte fórmula:
+
+PR = Po x (1 + (variação acumulada do IPC - FIPE - Geral: até o IPC — FIPE - Geral 12))
+Onde:
+
+PR = Valores reajustados;
+
+Po = Valores contratados vigentes;
+
+IPC — FIPE — Geral = Índice de Preços ao Consumidor - Geral, publicado pela FIPE - Fundação
+Instituto de Pesquisas Econômicas;
+
+IPC — FIPE — Geral ; = Percentual do mês da data base do orçamento estimado da licitação, ou do
+último reajuste;
+
+IPC — FIPE — Geral 127 = Percentual do 12º mês contado a partir do mês da base do orçamento
+estimado da licitação, ou do último reajuste.
+
+6.1.1. No caso da impossibilidade em se obter a variação acumulada do IPC — FIPE — Geral,
+este será automaticamente substituído pelo IPCA — Índice Geral, mantendo-se o mesmo
+período de cálculo e vigência do reajuste.
+
+6.2. Considera-se data-base do orçamento estimado, para efeito de reajuste, a data da planilha
+eletrônica (art. 4º, 84º, do Decreto Municipal nº 22.031/2022) ou da validação, por profissional de
+economia ou de ciência contábeis, de outros critérios ou metodologias para tratamento estatístico
+dos preços previamente coletados (art. 4º, 86º, do Decreto Municipal nº 22.031/2022), dos quais
+tenha derivado o preço máximo aceitável para a licitação.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 40
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+6.2.1. Nesta licitação, data-base: 01/07/2025.
+
+6.3. Havendo atraso nos pagamentos não decorrente de falhas no cumprimento das obrigações
+contratuais por parte da Contratada, esta terá direito à correção monetária pro-rata die pelo IPC —
+FIPE — Geral, entre a data da exigibilidade do adimplemento das obrigações e a do efetivo
+pagamento, desde que requerido administrativamente pela Contratada em até 30 (trinta) dias
+corridos do efetivo pagamento.
+
+7. LINKS PARA ACESSO À REGULAMENTAÇÃO DA LEI FEDERAL Nº 14.133/2021
+
+Em atendimento ao Comunicado GP nº 3/2024 do Tribunal de Contas do Estado de São Paulo,
+seguem os links para acesso aos regulamentos nos termos da Lei Federal nº 14.133/2021:
+
+https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instru-
+
+cao-normativa-seges-me-no-73-de-30-de-setembro-de-2022
+
+https://bibliotecajuridica.campinas.sp.gov.br/index/visualizaratualizada/id/89676
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 41
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+ANEXO II — TERMO DE REFERÊNCIA
+
+1. DEFINIÇÃO DO OBJETO
+Aquisição de aeronaves remotamente pilotadas (drones) e itens periféricos.
+
+2. ESPECIFICAÇÃO DO PRODUTO
+
+Preço Unitá- Preço
+Quant. , ,
+Item Código Descrição Un. rio Máximo Total Má-
+Total
+(R$) ximo (R$)
+
+AERONAVE REMOTAMENTE PILOTADA
+
+(DRONE) DE ALTO DESEMPENHO
+1 167167 . PC 1 65.323,33 65.323,33
+ESPECIFICAÇÕES DE ACORDO COM O ITEM
+
+2.1. DESTE ANEXO II
+
+AERONAVE REMOTAMENTE PILOTADA
+
+(DRONE), SEM TELA
+2 167168 . PC 1 14.310,22 14.310,22
+ESPECIFICAÇÕES DE ACORDO COM O ITEM
+
+2.1. DESTE ANEXO II
+
+AERONAVE REMOTAMENTE PILOTADA
+
+(DRONE), COM CÂMERA TERMOGRÁFICA
+3 167169 . PC 1 33.154,00 33.154,00
+ESPECIFICAÇÕES DE ACORDO COM O ITEM
+
+2.1. DESTE ANEXO II
+
+CARTÃO DE MEMÓRIA MICRO SD
+
+4 167171 | ESPECIFICAÇÕES DE ACORDO COM O ITEM PC 4 194,35 777,40
+
+2.1. DESTE ANEXO II
+
+LEITOR DE CARTÕES 4 EM 1
+
+5 167170 | ESPECIFICAÇÕES DE ACORDO COM O ITEM PC 4 95,73 382,92
+
+2.1. DESTE ANEXO II
+
+OBS: No caso de divergência entre a descrição deste Anexo e a do Sistema "Compras”,
+prevalecerá a disposta neste Anexo.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 42
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+2.1. - DESCRIÇÃO DETALHADA
+
+- ITEM 1 — CÓDIGO 167167 - AERONAVE REMOTAMENTE PILOTADA (DRONE) DE ALTO
+DESEMPENHO COM AS SEGUINTES ESPECIFICAÇÕES MÍNIMAS:
+
+1. HOMOLOGADO PELA AGÊNCIA NACIONAL DE TELECOMUNICAÇÕES (ANATEL);
+
+2. TEMPO DE VOO APROXIMADO DE 41 MINUTOS;
+
+3. TEMPERATURA DE FUNCIONAMENTO: -20ºC A 50ºC;
+
+4. CÂMERA AMPLA COM SENSOR CMOS DE 1/> E 48 MP RESOLUÇÃO DA FOTO:
+
+4.1. 8K RESOLUÇÃO DE VÍDEO 4K / 30 FPS
+
+4.2. ZOOM DA CÂMERA: ÓTICO DE 5X A 16X E HÍBRIDO MÁXIMO DE 200X;
+
+5, COM SENSOR TELEMÉTRICO SISTEMA DE DETECÇÃO POR INFRAVERMELHO;
+
+6. CONTROLE REMOTO COM TELA SENSÍVEL AO TOQUE DE 7 POLEGADAS;
+
+7. BATERIA DE VOO INTELIGENTE COM CAPACIDADE 5880MAH;
+
+8. EMBALAGEM CONTENDO: 01 AERONAVE (DRONE); 01 CONTROLE REMOTO; 02 BATERIAS
+
+DE VOO INTELIGENTE; 01 ESTAÇÃO DE CARREGAMENTO; 04 HÉLICES; 01 CABO USB-C; 01
+
+CABO USB-C PARA USB-C; 01 CONJUNTO DE PARAFUSOS E FERRAMENTAS;
+
+9. 01 MALETA DE ARMAZENAMENTO
+
+- ITEM 2 — CÓDIGO 167167 - AERONAVE REMOTAMENTE PILOTADA (DRONE), SEM
+TELA; COM AS SEGUINTES ESPECIFICAÇÕES MÍNIMAS:
+
+«. HOMOLOGADO PELA AGENCIA NACIONAL DE TELECOMUNICAÇOÕES — ANATEL;
+
+«. TEMPO DE VOO APROXIMADO 31 MINUTOS;
+
+«. 01 BATERIA COM CAPACIDADE 3500 MAH;
+
+«. COM SENSOR CMOS CONTROLE REMOTO;
+
+« SEM TELA DETECÇAO DE OBSTACULOS;
+
+«. EM 4 DIREÇÕES CAMERA COM RESOLUÇAO DE 20MP;
+
+«. EMBALAGEM CONTENDO: 01 AERONAVE (DRONE); 01 CONTROLE REMOTO; 03 BATERIAS
+INTELIGENTES; 01 CARREGADOR DE BATERIA; 01 CABO DO CARREGADOR; 06 PARES DE HE-
+LICE; 01 CABO MICRO USB; 01 CABO USB TIPO C; 01 CABO LIGHTINING; 01 PROTETOR DE
+GIMBAL; 01 CABO TIPO C; 01 PAR DE STIKCS; 01 KIT DE FILTROS ND (4/8/16/32); 01 HUB DE
+CARREGAMENTO DE BATERIAS; 01 ADAPTADOR DE BATERIA PARA BANCO DE ENERGIA; 01
+BOLSA DE TRANSPORTE;
+
+N OO U --A W MN |
+
+- ITEM 3 — CÓDIGO 167169 - AERONAVE REMOTAMENTE PILOTADA (DRONE), COM
+CÂMERA TERMOGRÁFICA; COM AS SEGUINTES ESPECIFICAÇÕES MÍNIMAS:
+
+1. HOMOLOGADO PELA AGÊNCIA NACIONAL DE TELECOMUNICAÇÕES — ANATEL;
+
+2. TEMPO DE VOO APROXIMADO DE 45 MINUTOS;
+
+3. DETECÇÃO DE OBSTÁCULOS OMNIDIRECIONAL;
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 43
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+4. CÂMERA GRANDE-ANGULAR COM SENSOR CMOS;
+
+5, CÂMERA TERMOGRÁFICA, COM RESOLUÇÃO DE 48MP;
+
+6. ZOOM DA CÂMERA: DIGITAL DE 8X E HÍBRIDO DE 56X;
+
+7. TEMPERATURA DE FUNCIONAMENTO: -10 A 40ºC;
+
+8. EMBALAGEM CONTENDO: 01 AERONAVE (DRONE); 01 BATERIA COM CAPACIDADE DE 5.000
+MAH; 01 CONTROLE INTELIGENTE COM TELA INTEGRADA; 01 CABO DE ENERGIA; 01 CABO
+USB-C; 01 CABO USB-C PARA USB-C; 03 PARES DE HÉLICES; 01 CARREGADOR DE BATERIA;
+01 CHAVE DE FENDA; 01 MALETA DE ARMAZENAMENTO; 01 GUIA DE INÍCIO RÁPIDO;
+
+- ITEM 4 — CÓDIGO 167171 - CARTÃO DE MEMÓRIA MICRO SD
+1. CAPACIDADE 128GB;
+2. COM ADAPTADOR SD;
+3. À PROVA D'ÁGUA
+
+- ITEM 5 — CÓDIGO 167170 - LEITOR DE CARTÕES 4 EM 1
+1. ADAPTADOR HUB DE CARTÃO USB 3.0;
+2. COM 4 SLOTS - SD, TF, CF, MS
+3. FAZ LEITURA SIMULTÂNEA DE 4 CARTÕES
+
+O valor total estimado pelo Município para a presente aquisição é de R$ 113.947,87 (cento e treze
+mil, novecentos e quarenta e sete reais e oitenta e sete centavos).
+
+4. ADEQUAÇÃO ORÇAMENTÁRIA
+
+4.1. As despesas onerarão a(s) dotação(Õões) codificada(s) no orçamento, sob o(s) número(s) abaixo
+descrito(s):
+
+Dotação(ões) Orçamentária(s)
+21000 2200 04.182.2009.1012.000 4.4.90.52.00.00.00.00 0008.100604
+
+21000 2200 04.182.2009.1012.000 4.4.90.52.00.00.00.00 0008.100607
+21000 2200 04.182.2009.1012.000 4.4.90.52.00.00.00.00 0008.100622
+21000 2200 04.182.2009.1012.000 3.3.90.30.00.00.00.00 0008.100607
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 44
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+5. FUNDAMENTAÇÃO DA CONTRATAÇÃO
+
+A aquisição dos drones almeja modernizar os processos administrativos e operacionais, promovendo
+maior eficiência e agilidade no desempenho das funções públicas, além de contribuir para a trans-
+parência das ações realizadas no município. Mais especificamente, se justifica pela necessidade de
+atender a demanda do Departamento de Defesa Civil de Campinas, com o monitoramento de áreas
+de risco, levantamento aéreo em situações de emergência e desastres naturais, e suporte em ações
+preventivas e de resposta rápida.
+
+Com os novos equipamentos haverá monitoramento em tempo real de áreas críticas e de difícil
+acesso, pois os drones podem sobrevoar essas áreas de forma segura, proporcionando uma avalia-
+ção precisa sem colocar as equipes que estão em campo em risco. Os cartões de memória e leitores
+atuarão em conjunto, para que os dados coletados pelas aeronaves possam ser armazenados e
+transferidos para outros equipamentos, como computadores.
+
+A integração das atividades por meio do uso de um VANT (veículo aéreo não tripulado) alinha-se às
+metas de eficiência, sustentabilidade e inovação tecnológica na administração pública, garantindo
+melhores resultados e maior qualidade nos serviços prestados à população. O propósito deste do-
+cumento é garantir o cumprimento dos requisitos legais e técnicos necessários para a contratação,
+conforme estipulado na Lei 14.133/2021.
+
+A Defesa Civil desempenha um papel crucial na segurança e proteção da população, especialmente
+em situações de emergência. A aquisição de drones e periféricos pode proporcionar diversas vanta-
+gens:
+
+Monitoramento de Desastres Naturais: Utilização de drones para avaliar danos após eventos como
+enchentes, deslizamentos ou incêndios florestais, proporcionando dados rápidos para a formulação
+de planos de ação;
+
+Mapeamento de Áreas de Risco: Drones podem ajudar na identificação e mapeamento de áreas
+vulneráveis, facilitando o planejamento urbano seguro e a mitigação de riscos;
+
+Acompanhamento de Situações de Emergência: Prover imagens em tempo real de situações de crise,
+permitindo uma resposta mais eficiente e informada às necessidades da população;
+
+Educação e Conscientização: Criação de materiais audiovisuais de campanhas de prevenção e segu-
+rança, utilizando imagens aéreas que ajudam a sensibilizar a comunidade sobre os riscos e as prá-
+ticas de segurança.
+
+No âmbito da saúde pública: o drone será utilizado como ferramenta estratégica no combate ao
+mosquito Aedes aegypti, transmissor da Dengue, zika e chikungunya. O equipamento possibilitará o
+monitoramento éreo de áreas de difícil acesso, como terrenos baldios, telhados e locais com acúmulo
+de água, permitindo a identificação de possíveis focos do vetor.
+
+6. DESCRIÇÃO DA SOLUÇÃO COMO UM TODO
+
+A implementação de drones e periféricos pelo Departamento de Defesa Civil representa uma solução
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 45
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+inovadora e multifuncional para enfrentar diversos desafios enfrentados no âmbito municipal. Esta
+abordagem integra tecnologia de ponta com práticas operacionais eficientes, resultando em
+benefícios diretos para a administração pública e a população.
+
+A solução busca atender a objetivos comuns, como melhoria da gestão pública, aumentar a
+segurança, otimizar a prestação de serviços e promover a transparência na utilização dos recursos
+municipais, mais especificamente:
+
+Monitoramento de Desastres Naturais: Capacidade de realizar avaliações rápidas e precisas após
+desastres, permitindo uma resposta mais efetiva em situações de emergência; além de garantir
+segurança dos servidores em vistorias a ambientes de difícil acesso que podem trazer algum risco à
+sua integridade física;
+
+Planejamento e Prevenção: Mapeamento de áreas suscetíveis a desastres naturais (enchentes,
+deslizamentos, etc.), facilitando a criação de políticas de proteção e prevenção;
+
+Equipamentos Modernos: A contratação deve incluir drones equipados com tecnologia avançada,
+como câmeras de alta resolução, sensores térmicos e multiespectrais, que permitirão a coleta de
+dados em diferentes formatos;
+
+Análise de Dados: O uso de plataformas de software que possibilitam a análise e visualização de
+dados coletados e gravados nos cartões de memória utilizados nos Drones, e baixados nos leitores
+de cartões em computadores e srartphones, viabilizam relatórios que serão utilizados nas tomadas
+de decisão.
+
+A utilização de drones permitirá a realização de tarefas de forma mais rápida, barata e segura em
+comparação com práticas tradicionais. A possibilidade de documentar visualmente as atividades e
+operações possibilita maior transparência nas ações do governo municipal.
+
+Com informações precisas e em tempo real sobre situações de emergência e necessidades na
+infraestrutura, o Departamento de Defesa Civil poderá agir de forma mais proativa na proteção da
+população.
+
+7. REQUISITOS DA CONTRATAÇÃO
+
+7.1. RESPONSABILIDADES DA CONTRATADA
+
+7.1.1. Entregar os itens em perfeitas condições, conforme especificações, prazos e locais
+constantes neste Termo de Referência, acompanhado da respectiva nota fiscal, na qual constarão
+as indicações referentes a marca, fabricante, modelo e prazo de garantia ou validade, conforme
+proposta apresentada e exigências contidas no Edital.
+
+7.1.2. O(s) item(ns), devem(rão) estar acompanhados do manual do usuário, com uma versão em
+português (Brasil) ou se em outro idioma acompanhado de tradução, com o desenho ou fotografia
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 46
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+e descrição detalhada das características técnicas do item, com as especificações solicitadas, bem
+como das orientações técnicas para seu manuseio. Esta documentação poderá ser em formato
+digital.
+
+7.1.3. Reparar, corrigir, remover ou substituir, às suas expensas, no total ou em parte, no prazo
+fixado no subitem 4.8, os itens em que se verificarem vícios, defeitos ou incorreções resultantes
+da fabricação ou dos materiais empregados.
+
+7.1.4. Oferecer garantia dos produtos, a contar do recebimento definitivo dos mesmos pela
+Contratante.
+
+7.1.5. Atender prontamente qualquer exigência da Contratante inerente ao objeto.
+
+7.1.6. Comunicar à Contratante, por escrito, qualquer anormalidade de caráter urgente e prestar
+os esclarecimentos julgados necessários.
+
+7.1.7. Responsabilizar-se por todas as despesas diretas ou indiretas, tais como: salários,
+transportes, encargos sociais, fiscais, trabalhistas, previdenciários e de ordem de classe,
+indenizações e quaisquer outras que forem devidas aos seus empregados no desempenho da
+execução do objeto.
+
+7.1.8. Arcar com as despesas de transporte dos objetos licitados e se for o caso, da devolução de
+objetos reprovados.
+
+7.1.9. Estar ciente que os preços contidos na proposta, incluem todos os custos e despesas, tais
+como custos diretos e indiretos, tributos incidentes, taxa de administração, materiais, encargos
+sociais e trabalhistas, seguros, transporte, lucro e outros necessários ao cumprimento integral do
+objeto.
+
+7.2. RESPONSABILIDADES DO CONTRATANTE
+7.2.1. Receber o objeto no prazo e condições estabelecidas neste Termo de Referência.
+7.2.2. Verificar minuciosamente, no prazo fixado, a conformidade dos itens recebidos
+
+provisoriamente com as especificações constantes no Termo de Referência e das propostas, para
+fim de aceitação e recebimento definitivo.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 47
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+7.2.3. Comunicar à Contratada, por escrito, sobre imperfeições, falhas ou irregularidades
+verificadas no objeto fornecido, para que seja substituído, reparado ou corrigido.
+
+7.2.4. Acompanhar e fiscalizar o cumprimento das obrigações da Contratada.
+
+7.2.5. Efetuar o pagamento à Contratada no valor correspondente ao fornecimento do objeto, no
+prazo e forma estabelecidos neste Termo de Referência.
+
+7.2.6. Emitir a Ordem de Fornecimento para envio à Contratada, com as especificações do(s)
+item(ns), quantitativo(s), contando-se o prazo de entrega a partir do primeiro dia útil subsequente
+ao recebimento, pela Contratada, da referida Ordem.
+
+7.2.7. Efetuar as retenções tributárias devidas sobre o valor da Nota Fiscal.
+
+7.2.8. Rejeitar os produtos que estejam em desacordo às especificações constantes no Termo de
+Referência ou que apresentarem defeitos.
+
+7.2.9. Notificar o fornecedor, por escrito, sobre imperfeições, falhas ou irregularidades constatadas
+no fornecimento do produto, para que sejam adotadas as medidas corretivas necessárias para
+substituição, reparo ou correção.
+
+7.2.10. Para os itens 01, 02 e 03, providenciar os registros na Agência Nacional de Aviação Civil
+(ANAC) e no Departamento de Controle do Espaço Aéreo (DECEA), podendo ser solicitado auxílio
+da Contratada com documentação técnica, caso necessário.
+
+8. MODELO DE EXECUÇÃO DO OBJETO
+
+8.1. Conforme estabelecido nos itens 12 e 15 deste Anexo II.
+
+9. MODELO DE GESTÃO DO CONTRATO (ACOMPANHAMENTO E FISCALIZAÇÃO)
+
+9.1. O Contratante, por meio da Secretaria Gestora, efetuará a fiscalização e a gestão do forneci-
+mento a qualquer instante, solicitando à Contratada, sempre que julgar conveniente, informações
+do seu andamento, devendo esta prestar os esclarecimentos desejados e comunicar ao Contratante
+
+quaisquer fatos ou anormalidades que porventura possam prejudicar o bom andamento do contrato
+ou o resultado final do fornecimento.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 48
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+9.2. No desempenho de suas atividades, é assegurado aos órgãos fiscalizadores o direito de verificar
+e exigir a perfeita execução do presente ajuste em todos os seus termos e condições.
+
+9.3. A Contratada será responsável pelos danos causados diretamente à Administração ou a tercei-
+ros em razão da execução do contrato, e não excluirá nem reduzirá essa responsabilidade a fiscali-
+zação ou o acompanhamento pelo Contratante.
+
+10. CONDIÇÕES DE PAGAMENTO
+
+10.1. Prazo de pagamento é de 10 (dez) dias fora a dezena, contado da data do aceite da Nota
+Fiscal após o recebimento definitivo, por servidor ou comissão designada pela autoridade compe-
+tente, mediante termo detalhado que comprove o atendimento das exigências contratuais.
+
+10.1.1. Quando o dia do vencimento cair em dia não úteil, ou seja, aos sábados, domingos
+ou feriados, o pagamento será realizado no primeiro dia útil subsequente.
+
+10.1.2. A Contratada apresentará ao Departamento de Defesa Civil de Campinas a nota fiscal
+referente ao fornecimento efetuado.
+
+10.1.3. O Departamento de Defesa Civil de Campinas terá o prazo de 02 (dois) dias úteis, a
+contar da apresentação da nota fiscal, para aceitá-la ou rejeitá-la.
+
+10.1.4. A(s) nota(s) fiscal(is) não aprovada(s) pelo órgão requisitante será(ão) devolvida(s)
+à(s) licitante(s) vencedora(s) para as necessárias correções, com as informações que motiva-
+ram sua rejeição, contando-se o prazo estabelecido no item 10.1.2, a partir da data de sua
+reapresentação.
+
+10.1.5. A devolução da nota fiscal não aprovada pelo Departamento de Defesa Civil de Cam-
+pinas em hipótese alguma servirá de pretexto para que a(s) empresa(s) suspenda(m) o for-
+necimento.
+
+10.1.6. O Município de Campinas reterá, na fonte, o imposto sobre a renda incidente sobre
+os pagamentos que efetuar à Contratada, em cumprimento ao art. 2º- A da Instrução Norma-
+tiva RFB nº 1.234/2012, alterada pela Instrução Normativa RFB nº 2.145/2023.
+
+11. FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 49
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+11.1. De acordo com os subitens 10.4. e 11.1. do edital, o critério será o de menor preço para o
+item.
+
+12. LOCAIS E CONDIÇÕES DE ENTREGA
+
+12.1. Local de entrega: Departamento de Defesa Civil de Campinas, situado na Rua Sete de Setem-
+bro, 403 — Vila Industrial — Campinas/SP — CEP: 13035-350, de segunda a sexta-feira até as 16
+horas, mediante agendamento por meio dos telefones (19) 3735-9194 ou 3735-9195.
+
+12.2. Forma e Prazo de Entrega: entrega integral no prazo máximo de 30 (trinta) dias corridos,
+contado da data do recebimento da Nota de Empenho.
+
+12.2.1. Caso não seja possível a entrega na data assinalada, a Contratada deverá comunicar
+as razões respectivas com pelo menos 10 (dez) dias de antecedência para que qualquer pleito
+de prorrogação de prazo seja analisado, ressalvadas situações de caso fortuito e força maior.
+
+12.3. A Contratada será responsável pelo carregamento, transporte e descarregamento dos itens
+no endereço especificado no subitem 12.2.
+
+12.4. Os itens deverão ser novos e entregues acondicionados em suas embalagens originais
+lacradas, de forma a permitir completa segurança quanto a sua originalidade e integridade,
+devendo estar acondicionados e embalados conforme procedimentos do fabricante, protegendo o
+produto durante o transporte e armazenamento, com indicação do material contido, volume, data
+de fabricação, fabricante, importador (se for o caso), procedência, bem como demais informações
+exigidas na legislação em vigor, para posterior verificação da sua conformidade com as
+especificações e requisitos contidos na proposta e previstos neste Termo de Referência.
+
+12.5. O fornecedor deverá entregar juntamente com os itens, o manual do usuário em português
+(Brasil) ou, se em outro idioma, acompanhado de tradução. Esta documentação poderá ser em
+formato digital.
+
+12.6. A entrega dos itens será feita ao Departamento de Defesa Civil de Campinas, ao qual caberá
+a servidor designado lavrar Termo de Recebimento Provisório, para efeito de posterior verificação
+da conformidade do mesmo com as especificações e quantitativos exigidos.
+
+13. RECEBIMENTOS PROVISÓRIO E DEFINITIVO
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 50
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+13.1. Os recebimentos provisório e definitivo obedecerão ao disposto no subitem 16.2 do edital.
+
+13.2. Após entrega do objeto, o Departamento de Defesa Civil o receberá provisoriamente, para
+avaliação da conformidade do mesmo com as especificações e quantitativos exigidos, e
+definitivamente, caso atendidas todas as condições deste Termo de Referência.
+
+13.3. O Departamento de Defesa Civil de Campinas terá o prazo de até 03 (três) dias úteis,
+contados a partir do primeiro dia útil subsequente a assinatura do Termo de Recebimento Provisório,
+para conferência do objeto entregue.
+
+13.4. Os itens serão devolvidos na hipótese de não corresponderem às especificações constantes
+neste Termo de Referência, devendo ser substituídos pelo(s) fornecedor(es) no prazo máximo de
+15 (quinze) dias corridos, sem custos adicionais ao Município de Campinas, nos termos do artigo
+119 da Lei Federal nº 14.133/2021.
+
+13.4.1. A fiscalização por parte da Contratante e o recebimento provisório ou definitivo não
+excluem a responsabilidade civil da Contratada pela correção e/ou substituição do objeto
+contratual, bem como pelos danos/prejuízos causados à Contratante ou à terceiros,
+decorrentes de defeitos de fabricação/desconformidades com as normas técnicas exigíveis,
+nem a responsabilidade ético-profissional pela perfeita execução do contrato.
+
+13.5. Atendidas todas as especificações e quantitativos exigidos, será lavrado Termo de Recebi-
+mento Definitivo, assinado por servidor do Departamento de Defesa Civil de Campinas, possibilitando
+
+dessa forma o aceite da respectiva nota fiscal.
+
+13.6. O recebimento definitivo será efetivado em até 03 (três) dias úteis, contados a partir do
+primeiro dia útil subsequente a assinatura do Termo de Recebimento Provisório.
+
+14. MONTAGEM E TREINAMENTO
+Não exigível.
+
+15. GARANTIA E CONDIÇÕES DE MANUTENÇÃO E ASSISTÊNCIA TÉCNICA
+
+15.1. GARANTIA DOS MATERIAIS/PRODUTOS/EQUIPAMENTOS
+
+15.1.1. Para os itens 01 (AERONAVE REMOTAMENTE PILOTADA DE ALTO DESEMPENHO),
+02 (AERONAVE REMOTAMENTE PILOTADA SEM TELA) e 03 (AERONAVE REMOTAMENTE
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 51
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTR&ÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+PILOTADA COM CÂMERA TERMOGRÁFICA), o prazo de garantia contratual será de 12 (doze)
+meses, a contar da data do Termo de Recebimento Definitivo.
+
+15.1.2. Garantia mínima de 30 (trinta) dias, de acordo com o estabelecido no CDC — Código
+de Defesa do Consumidor (Lei 8.078/90) para os itens 04 (CARTÃO DE MEMÓRIA MICRO SD)
+e O5 (LEITOR DE CARTÕES 4 EM 1).
+
+15.2. MANUTENÇÃO E ASSISTÊNCIA TÉCNICA DOS MATERIAIS/PRODUTOS/EQUIPAMENTOS
+
+15.2.1. O prazo de assistência técnica do produto será de, no mínimo, 12 (doze) meses, a
+contar da entrega efetiva do produto, para os itens 01, 02 e 03.
+
+15.2.2. O prazo de assistência técnica do produto será de, no mínimo, 30 (trinta) dias, a
+contar da entrega efetiva do produto, para os itens 04 e 05.
+
+15.3. SUBSTITUIÇÃO DOS MATERIAIS/PRODUTOS/EQUIPAMENTOS
+
+15.3.1. Os materiais/produtos/equipamentos serão devolvidos na hipótese de não correspon-
+derem às especificações deste Termo de Referência ou no caso de vícios, devendo ser substi-
+tuídos pela empresa fornecedora no prazo máximo de 15 (quinze) dias, sem custos adicionais
+ao Município de Campinas.
+
+15.3.2. Decorrido o prazo para substituição sem o atendimento da solicitação do Contratante
+ou a apresentação de justificativas pelo Contratado, fica o Contratante autorizado a contratar
+empresa diversa para executar os reparos, ajustes ou a substituição do bem ou de seus com-
+ponentes, bem como a exigir do Contratado o reembolso pelos custos respectivos, não impli-
+cando na perda da garantia”.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 52
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+SECRETARIA DE ADMINISTRAÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+ANEXO ITI — MODELO DE PROPOSTA
+
+PROCESSO ADMINISTRATIVO: PMC.2025.00038275-37
+
+INTERESSADO: Secretaria Municipal de Governo
+
+OBJETO: Aquisição de aeronaves remotamente pilotadas (drones) e itens periféricos.
+MODALIDADE: Pregão nº 222/2025
+
+A empresa , sediada (endereço completo),
+apresenta sua proposta comercial para o objeto especificado, de acordo com as condições estabe-
+lecidas no edital do Pregão em epígrafe:
+
+Quant. Preço Unitá- Preço
+Item Código Descrição Un.
+Total rio (R$) Total (R$)
+
+NOTA: Descrição detalhada de acordo com o Anexo 11 — Termo de Referência.
+Documentos e Declarações solicitados nos subitens 1.4 e 1.5 do Anexo [.
+
+Condições de pagamento: 10 (dez) dias fora a dezena, contado da data do aceite da Nota Fiscal
+após o recebimento definitivo, por servidor ou comissão designada pela autoridade competente,
+mediante termo detalhado que comprove o atendimento das exigências contratuais.
+
+Validade da proposta: 03 (três) meses
+
+Informar: Banco nº, Nº Agência, Nome da Agência, Nº Conta-corrente e DV
+
+Representante Legal, RG nº, CPF nº
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 53
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+ANEXO IV — MODELO DE TERMO DE CIÊNCIA E DE NOTIFICAÇÃO
+(REDAÇÃO DADA PELA RESOLUÇÃO Nº 11/2021)
+
+PROCESSO ADMINISTRATIVO: PMC.2025.00038275-37
+
+INTERESSADO: Secretaria Municipal de Governo
+
+OBJETO: Aquisição de aeronaves remotamente pilotadas (drones) e itens periféricos.
+MODALIDADE: Pregão nº 222/2025
+
+CONTRATANTE: Município de Campinas
+
+CONTRATADA:
+
+CONTRATO Nº (DE ORIGEM): — /20 -
+
+Pelo presente TERMO, nós, abaixo identificados:
+
+1. Estamos CIENTES de que:
+
+a) o ajuste acima referido, seus aditamentos, bem como o acompanhamento de sua execução con-
+tratual, estarão sujeitos a análise e julgamento pelo Tribunal de Contas do Estado de São Paulo,
+cujo trâmite processual ocorrerá pelo sistema eletrônico;
+
+b) poderemos ter acesso ao processo, tendo vista e extraindo cópias das manifestações de interesse,
+Despachos e Decisões, mediante regular cadastramento no Sistema de Processo Eletrônico, em
+consonância com o estabelecido na Resolução nº 01/2011 do TCESP;
+
+c) além de disponíveis no processo eletrônico, todos os Despachos e Decisões que vierem a ser
+tomados, relativamente ao aludido processo, serão publicados no Diário Oficial do Estado, Caderno
+do Poder Legislativo, parte do Tribunal de Contas do Estado de São Paulo, em conformidade com o
+art. 90 da Lei Complementar nº 709, de 14 de janeiro de 1993, iniciando-se, a partir de então, a
+contagem dos prazos processuais, conforme regras do Código de Processo Civil;
+
+d) as informações pessoais dos responsáveis pelo Contratante estão cadastradas no módulo eletrô-
+nico do “Cadastro Corporativo TCESP — CadTCESP”, nos termos previstos no art. 2º das Instruções
+nº 01/2020, conforme “Declaração(ões) de Atualização Cadastral” anexa(s);
+
+e) é de exclusiva responsabilidade da Contratada manter seus dados sempre atualizados.
+
+2. Damo-nos por NOTIFICADOS para:
+
+a) O acompanhamento dos atos do processo até seu julgamento final e consequente publicação;
+b) Se for o caso e de nosso interesse, nos prazos e nas formas legais e regimentais, exercer o direito
+de defesa, interpor recursos e o que mais couber.
+
+LOCAL e DATA:
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 54
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTRQÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+AUTORIDADE MÁXIMA DO ÓRGÃO/ENTIDADE:
+Nome:
+
+Cargo:
+
+CPF:
+
+RESPONSÁVEIS PELA HOMOLOGAÇÃO DO CERTAME OU RATIFICAÇÃO DA DIS-
+PENSA/INEXIGIBILIDADE DE LICITAÇÃO:
+
+Nome:
+Cargo:
+CPF:
+Assinatura:
+
+RESPONSÁVEIS QUE ASSINARAM O AJUSTE:
+Pelo CONTRATANTE:
+
+Nome:
+Cargo:
+CPF:
+Assinatura:
+
+Pela CONTRATADA:
+Nome:
+
+Cargo:
+
+CPF:
+
+Assinatura:
+
+ORDENADOR DE DESPESAS DO CONTRATANTE:
+Nome:
+
+Cargo:
+
+CPF:
+
+Assinatura:
+
+GESTOR(ES) DO CONTRATO:
+
+Nome:
+Cargo:
+CPF:
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 55
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+
+PREFEITURA MUNICIPAL DE CAMPINAS
+
+SECRETARIA DE ADMINISTR&ÇÃO
+DEPARTAMENTO DE LICITAÇÕES
+
+Assinatura: e
+
+DEMAIS RESPONSÁVEIS (*):
+Tipo de ato sob sua responsabilidade:
+Nome:
+
+Cargo:
+
+CPF:
+
+Assinatura:
+
+(*) - O Termo de Ciência e de Notificação e/ou Cadastro do(s) Responsável(is) deve identificar as pessoas
+físicas que tenham concorrido para a prática do ato jurídico, na condição de ordenador da despesa; de partes
+contratantes; de responsáveis por ações de acompanhamento, monitoramento e avaliação; de responsáveis
+por processos licitatórios; de responsáveis por prestações de contas; de responsáveis com atribuições previstas
+em atos legais ou administrativos e de interessados relacionados a processos de competência deste Tribunal.
+Na hipótese de prestações de contas, caso o signatário do parecer conclusivo seja distinto daqueles já
+arrolados como subscritores do Termo de Ciência e de Notificação, será ele objeto de notificação específica.
+(inciso acrescido pela Resolução nº 11/2021)
+
+Nota: Redação deste Anexo dada pela Resolução nº 11/2021. O Núcleo de Formalização de Ajustes da PGM
+deve formalizar o Termo de Clência e de Notificação de acordo com à norma do Tribunal de Contas do Estado
+
+de São Paulo vígente no momento da celebração do ajuste, independentemente do Modelo contido neste
+Anexo.
+
+Edital padrão aprovado pelo Núcleo de Licitações da Procuradoria-Geral do Município, 56
+no bojo do processo administrativo PMC.2022.00065929-99.
+
+

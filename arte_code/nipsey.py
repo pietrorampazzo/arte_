@@ -29,7 +29,7 @@ if logger.hasHandlers():
 formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
 
 # File handler com UTF-8
-file_handler = logging.FileHandler('arte_orchestrator.log', mode='a', encoding='utf-8')
+file_handler = logging.FileHandler(r'C:\Users\pietr\OneDrive\.vscode\arte_\LOGS\arte_orchestrator.log', mode='a', encoding='utf-8')
 file_handler.setFormatter(formatter)
 logger.addHandler(file_handler)
 
@@ -178,7 +178,7 @@ class ArteOrchestrator:
             if self.run_script(DOWNLOAD_SCRIPT, "DOWNLOAD_EDITAIS"):
                 success_count += 1
                 # Verificar se o master.xlsx foi atualizado
-                master_file = os.path.join(BASE_DIR, "EDITAIS", "master.xlsx")
+                master_file = os.path.join(DOWNLOADS_DIR, "master.xlsx")
                 self.check_files_updated([master_file])
             else:
                 logger.error("❌ Falha no download de editais. Continuando com próximas etapas...")
@@ -199,7 +199,7 @@ class ArteOrchestrator:
         self.log_step("STATUS", "Verificando status dos arquivos principais...")
         
         key_files = [
-            os.path.join(BASE_DIR, "EDITAIS", "master.xlsx"),
+            os.path.join(DOWNLOADS_DIR, "master.xlsx"),
             os.path.join(DOWNLOADS_DIR, "summary.xlsx"),
             os.path.join(DOWNLOADS_DIR, "livro_razao.xlsx"),
             os.path.join(DOWNLOADS_DIR, "RESULTADO_metadados", "categoria_sonnet.xlsx"),

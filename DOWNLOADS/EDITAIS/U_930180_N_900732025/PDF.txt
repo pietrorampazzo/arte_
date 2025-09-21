@@ -1,0 +1,4322 @@
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+EDITAL
+PREGÃO ELETRÔNICO Nº 003/2025
+
+A CÂMARA MUNICIPAL DE DOMINGOS MARTINS, inscrita no CNPJ sob o n.º 27.477.447/0001-02,
+situado na Avenida Senador Jefferson de Aguiar, n.º 27, Centro, Domingos Martins - ES, torna público, para
+conhecimento dos interessados que realizará licitação na modalidade PREGÃO, na forma ELETRÔNICA,
+nos termos da Lei nº 14.133/2021, das Leis Complementares nºs 123/2006 e 147/2014, pelas demais
+legislações aplicáveis e das exigências estabelecidas neste edital.
+
+Data da sessão: 03/10/2025
+Horário: 09:00
+Local: Portal de Compras do Governo Federal — (https://wWww.gov.br/compras/pt-br)
+
+Critério de Julgamento: Menor Preço
+Modo de disputa: Aberto
+
+1. DO OBJETO E DISPOSIÇÕES PRELIMILARES.
+
+1.1. O objeto da presente licitação é a escolha da proposta mais vantajosa para aquisição dos equipamentos de
+informática para a Câmara Municipal de Domingos Martins, conforme condições, quantidades e exigências
+estabelecidas neste Edital e seus anexos.
+
+1.2. A licitação será dividida em ITENS, conforme Anexo |1, facultando-se ao licitante a participação em
+quantos itens forem de seu interesse.
+
+1.3. O critério de julgamento adotado será o menor preço do ITEM, considerado o menor dispêndio para
+a Administração, nos termos do art. 34 da Lei nº 14.133/2021, e observadas as exigências contidas neste Edital
+e seus Anexos quanto às especificações do objeto.
+
+1.4. O Edital encontra-se disponível na internet nos sites https://www.domingosmartins.es.leg.br/ e
+https://www.gov.br/pncp/pt-br, https://www.atribuna.com.br/ ou ainda poderá ser obtida cópia na Sala da
+Comissão de Licitação localizada na Av. Senador Jefferson de Aguiar, nº 27 - Centro, Domingos Martins - ES,
+em dias úteis, no horário das 08:00 às 12:00 horas e das 13:00 às 17:00.
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+1.5. Serão observadas as seguintes datas e horários para os procedimentos:
+PEDIDOS DE IMPUGNAÇÕES E ESCLARECIMENTOS: até às 23:59 horas do dia 30/09/2025.
+
+INÍCIO DE ACOLHIMENTO DAS PROPOSTAS: às 13:00 horas do dia 15/09/2025.
+LIMITE PARA ACOLHIMENTO DAS PROPOSTAS: até às 08:00 horas do dia 03/10/2025.
+ABERTURA DA SESSÃO PÚBLICA: às 09:00 horas do dia 03/10/2025.
+
+1.6. REFERÊNCIA DE TEMPO: Todas as referências de tempo no Edital, no aviso e durante a sessão pública
+observarão, obrigatoriamente, o horário de Brasília - DF.
+
+1.7. As propostas serão recebidas exclusivamente por meio eletrônico no endereço:
+https://www.gov.br/compras/pt-br.
+
+1.8. Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a realização do certame
+na data marcada, a sessão será automaticamente transferida para o primeiro dia útil subsequente, nos mesmos
+horários e endereço eletrônico anteriormente estabelecido; desde que não haja comunicação da Pregoeira em
+contrário.
+
+1.9. Compete a cada licitante fazer um minucioso exame do Edital, e das condições nele estabelecidas, ficando
+responsáveis pelo acompanhamento, mediante o acesso aos sites www.domingosmartins.es.gov.br ,
+https://www.gov.br/pncp/pt-br ou https://www.gov.br/compras/pt-br, bem como às publicações oficiais,
+questionamentos e impugnações ou quaisquer outras ocorrências que porventura possam ou não implicar em
+mudanças nos prazos de apresentação da proposta e da abertura da sessão pública.
+
+1.10. Problemas na operação do sistema deverão ser comunicados pelos licitantes, imediatamente ao Portal de
+Compras do Governo Federal.
+
+1.11. O valor estimado ou valor máximo aceitável possuirá caráter sigiloso, conforme Artigo 24 da Lei
+14.133/21, de forma a alcançar maior competitividade na disputa e maior economicidade para o município.
+
+1.12. Para fins do disposto no subitem anterior, o valor estimado ou valor máximo aceitável será tornado
+público apenas e imediatamente após o encerramento do envio dos lances, sem prejuízo da divulgação do
+detalhamento dos quantitativos e das demais informações necessárias à elaboração das propostas.
+
+2. DOS RECURSOS ORÇAMENTÁRIOS.
+
+2.1. — Asdespesas decorrentes da aquisição dos equipamentos de informática, correrão por conta de dotação
+orçamentária prevista no orçamento para o exercício de 2025, Unidade da Câmara Municipal de Domingos
+Martins, dotação: 010001.0103100012.001 — Manutenção dos Serviços Administrativos da Câmara Municipal
+com a rubrica 33903000000 — Material de consumo - ficha 9 e rubrica 44905200000, na ficha 24.
+
+
+&
+D
+META NSS
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+3. DO CREDENCIAMENTO.
+
+3.1. — O Pregão Eletrônico será realizado em sessão pública e serão utilizados recursos de tecnologia da
+informação, por meio de comunicação eletrônica via INTERNET, mediante condições de segurança -
+criptografia e autenticação - em todas as suas fases.
+
+3.2. Os trabalhos serão conduzidos pela Pregoeira, mediante a inserção e monitoramento de dados gerados ou
+transferidos pelo sítio https://www.gov.br/compras/pt-br.
+
+3.2.1.O cadastro deverá ser feito no Portal de Compras do Governo Federal, no sítio
+https://www.gov.br/compras/pt-br.
+3.2.2.0 CADASTRO DEVERA ESTAR EM CONFORMIDADE COM O REGISTRO da empresa.
+
+3.3. O credenciamento junto ao provedor do sistema implica a responsabilidade do licitante ou de seu
+representante legal e a presunção de sua capacidade técnica para realização das transações inerentes a esta
+licitação.
+
+3.4. O licitante responsabilizar-se exclusiva e formalmente pelas transações efetuadas em seu nome, assume
+como firmes e verdadeiras suas propostas e seus lances, inclusive os atos praticados diretamente ou por seu
+representante, excluída a responsabilidade do provedor do sistema ou do órgão ou entidade promotora da
+licitação por eventuais danos decorrentes de uso indevido das credenciais de acesso, ainda que por terceiros.
+
+3.5. É de responsabilidade do cadastrado conferir a exatidão dos seus dados cadastrais no PORTAL DE
+COMPRAS DO GOVERNO FEDERAL e mantê-los atualizados junto aos órgãos responsáveis pela
+informação, devendo proceder, imediatamente, à correção ou à alteração dos registros tão logo identifique
+incorreção ou aqueles se tornem desatualizados.
+3.5.1. A não observância do disposto no subitem anterior poderá ensejar desclassificação no momento da
+habilitação.
+
+4. DA PARTICIPAÇÃO NO PREGÃO.
+
+4.1. Poderão participar deste Pregão interessados cujo ramo de atividade seja compatível com o objeto desta
+licitação, e que estejam com Credenciamento regular no PORTAL DE COMPRAS DO GOVERNO
+FEDERAL.
+
+4.2. Será concedido tratamento favorecido para as microempresas, empresas de pequeno porte e para o
+microempreendedor individual - MEI, nos limites previstos da Lei Complementar nº 123/2006 e no artigo 4º
+da Lei nº 14.133/2021.
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+4.3. Não poderão participar desta licitação os interessados:
+4.3.1. Proibidos de participar de licitações e celebrar contratos administrativos, na forma da legislação
+vigente;
+4.3.2. Que não atendam às condições deste Edital e seu(s) anexo(s);
+4.3.3. Estrangeiros que não tenham representação legal no Brasil com poderes expressos para receber
+citação e responder administrativa ou judicialmente;
+4.3.4. Que se enquadrem nas vedações previstas nos artigos 9º e 14 da Lei nº 14.133/2021;
+4.3.5. Que estejam sob falência, concurso de credores, concordata ou em processo de dissolução ou
+liquidação;
+4.3.6. Organizações da Sociedade Civil de Interesse Público - OSCIP, atuando nessa condição (Acórdão nº
+746/2014-TCU-Plenário).
+
+4.4. A pessoa jurídica poderá participar da licitação em consórcio, observadas as regras do art. 15 da Lei nº
+14.133/2021.
+
+4.5. Como condição para participação no Pregão, a licitante assinalará "sim" ou "não" em campo próprio do
+sistema eletrônico, relativo às seguintes declarações:
+
+4.5.1. Que cumpre os requisitos estabelecidos no artigo 3º da Lei Complementar nº 123/2006, estando apta
+a usufruir do tratamento favorecido estabelecido em seus arts. 42 a 49 e que não celebrou contratos com a
+Administração Pública cujos valores extrapolam a receita bruta máxima admitida para fins de
+enquadramento como empresa de pequeno porte;
+
+4.5.1.1. — Nos itens exclusivos para participação de microempresas e empresas de pequeno porte, a
+assinalação do campo "não" impedirá o prosseguimento no certame;
+
+4.5.1.2. — Nos itens em que a participação não for exclusiva para microempresas e empresas de pequeno
+porte, a assinalação do campo "não" apenas produzirá o efeito de o licitante não ter direito ao tratamento
+favorecido previsto na Lei Complementar nº 123/2006, mesmo que microempresa, empresa de pequeno
+porte.
+
+4.5.2. Que está ciente e concorda com as condições contidas no Edital e seus anexos;
+
+4.5.3. Que cumpre os requisitos para a habilitação definidos no Edital e que a proposta apresentada está em
+conformidade com as exigências editalícias;
+
+4.5.4. Que inexistem fatos impeditivos para sua habilitação no certame, ciente da obrigatoriedade de
+declarar ocorrências posteriores;
+
+4.5.5. Que não emprega menor de 18 anos em trabalho noturno, perigoso ou insalubre e não emprega menor
+de 16 anos, salvo menor, a partir de 14 anos, na condição de aprendiz, nos termos do artigo 7º, XXXIII, da
+Constituição Federal de 1998;
+
+4.5.6. Que a proposta foi elaborada de forma independente;
+
+
+f , á
+R Opga = ES
+AULITEIDORESS
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+4.5.7. Que não possui, em sua cadeia produtiva, empregados executando trabalho degradante ou forçado,
+observando o disposto nos incisos III e IV do art. 1º e no inciso III do art. 5º da Constituição Federal;
+
+4.5.8. Que cumpre com a reserva de cargos prevista em lei para pessoa com deficiência ou para reabilitado
+da Previdência Social e que atendam às regras de acessibilidade previstas na legislação, conforme disposto
+no art. 93 da Lei nº 8.213/1991.
+
+4.6. A declaração falsa relativa ao cumprimento de qualquer condição sujeitará o licitante às sanções previstas
+em lei e neste Edital.
+
+5. DA APRESENTAÇÃO DA PROPOSTA E DOS DOCUMENTOS DE HABILITAÇÃO.
+
+5.1. Os licitantes encaminharão, exclusivamente por meio do sistema eletrônico a proposta com a descrição
+do objeto ofertado e o preço, até a data e o horário estabelecidos para abertura da sessão pública, quando, então,
+após a fase de lances, a Pregoeira convocará a(s) empresa(s) vencedora(s) para anexar os documentos de
+habilitação exigidos no edital no prazo improrrogável de 24 (vinte e quatro) horas, e após este prazo
+encerrar-se-á automaticamente a etapa de envio dessa documentação.
+
+5.2. A proposta de preços prevista no Edital deverá ser encaminhada por meio eletrônico até a data e horário
+estabelecidos para abertura da sessão pública.
+
+5.3. Será de inteira responsabilidade do licitante o preenchimento de todas as informações requeridas pelo
+sistema, devendo o mesmo cuidar para que tais não o identifiquem sob pena de desclassificação.
+
+5.4. O encaminhamento da proposta pelo licitante pressupõe seu pleno conhecimento e aceitação de todas as
+regras do certame.
+
+5.5. Para a elaboração da proposta comercial o licitante deverá considerar os preços praticados no mercado,
+sem quaisquer acréscimos em virtude de expectativa inflacionária.
+
+5.6. A proposta e os lances formulados pelo licitante na Sessão Pública através do sistema eletrônico
+deverão indicar o PREÇO UNITARIO DO ITEM, expresso em Real (R$).
+
+5.7. Todas as especificações do objeto contidas na proposta vinculam o licitante registrado.
+
+5.8. No caso de propostas com valores iguais, não ocorrendo lances, prevalecerá aquela que for recebida e
+registrada em primeiro lugar.
+
+5.9. O preço proposto deverá contemplar todos os custos diretos e indiretos porventura ou de qualquer outra
+forma relacionados com o objeto da presente licitação tais como, exemplificativamente: impostos, taxas,
+transportes, seguros, embalagens, encargos, contribuições e obrigações sociais, trabalhistas e previdenciárias,
+insumos de qualquer natureza etc.
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+5.10. Quaisquer tributos, custos ou despesas, de qualquer natureza, omitidos da proposta ou incorretamente
+cotados serão considerados como inclusos nos preços, não sendo aceitos pleitos de acréscimos, a esse ou a
+qualquer título, devendo o objeto ser entregue ao Município sem ônus adicional.
+
+5.11. Oenvio da proposta e dos documentos de habilitação exigidos neste Edital, ocorrerá por meio de chave
+de acesso e senha.
+
+5.12. Incumbirá ao licitante acompanhar as operações no sistema eletrônico durante a sessão pública do
+Pregão, ficando responsável pelo ônus decorrente da perda de negócios, diante da inobservância de quaisquer
+mensagens emitidas pelo sistema ou de sua desconexão.
+
+5.13. Até a abertura da sessão pública, os licitantes poderão retirar ou substituir a proposta anteriormente
+inserida no sistema.
+
+5.14. Não será estabelecida, nesta etapa do certame, ordem de classificação entre as propostas apresentadas,
+o que somente ocorrerá após a realização dos procedimentos de negociação e julgamento da proposta.
+
+5.15. — Os documentos que compõem a proposta do licitante melhor classificado e posteriormente os seus
+documentos de habilitação anexados somente serão disponibilizados para avaliação da Pregoeira e para acesso
+público após o encerramento do envio de lances.
+
+6. DO PREENCHIMENTO DA PROPOSTA.
+
+6.1. O licitante enviará sua proposta mediante o preenchimento, no sistema eletrônico, dos seguintes campos:
+6.1.1. Valor unitário e total para cada item ou lote de itens, em moeda corrente nacional;
+6.1.2. Marca de cada item ofertado;
+6.1.3. Modelo, prazo de validade ou de garantia, no que for aplicável, de cada item ofertado, quando for o
+Ccaso.
+
+6.2. Os preços ofertados, tanto na proposta inicial, quanto na etapa de lances, serão de exclusiva
+responsabilidade do licitante, não lhe assistindo o direito de pleitear qualquer alteração, sob alegação de erro,
+
+omissão ou qualquer outro pretexto.
+
+6.3. O prazo de validade da proposta não será inferior a 90 (NOVENTA) DIAS, a contar da data de sua
+apresentação.
+
+6.4. Os bens solicitados deverão ter garantia/validade, conforme Termo de Referência.
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+7. DA ABERTURA DA SESSÃO, CLASSIFICAÇÃO DAS PROPOSTAS E FORMULAÇÃO DE
+LANCES.
+
+7.1. A abertura da presente licitação dar-se-á em sessão pública, por meio de sistema eletrônico, na data,
+horário e local indicados neste Edital.
+
+7.2. A Pregoeira verificará as propostas apresentadas, desclassificando, desde logo, aquelas que não estejam
+em conformidade com os requisitos estabelecidos neste Edital, contenham vícios insanáveis ou não apresentem
+as especificações técnicas exigidas no Edital, conforme art. 59 da Lei nº 14.133/2021.
+7.2.1. Também será desclassificada a proposta que identifique o licitante.
+7.2.2. A desclassificação será sempre fundamentada e registrada no sistema, com acompanhamento em
+tempo real por todos os participantes.
+7.2.3. A não desclassificação da proposta não impede o seu julgamento definitivo em sentido contrário,
+levado a efeito na fase de aceitação.
+
+7.3. O sistema ordenará automaticamente as propostas classificadas, sendo que somente estas participarão da
+fase de lances.
+
+7.4. O sistema disponibilizará campo próprio para troca de mensagens entre o Pregoeiro e os licitantes.
+
+7.5. Iniciada a etapa competitiva, os licitantes deverão encaminhar lances exclusivamente por meio do sistema
+eletrônico, sendo imediatamente informados do seu recebimento e do valor consignado no registro.
+7.5.1. Olance deverá ser ofertado de acordo com o tipo de licitação indicada no preâmbulo deste Edital.
+
+7.6. Os licitantes poderão oferecer lances sucessivos, observando o horário fixado para abertura da sessão e
+as regras estabelecidas no Edital.
+
+7.7. O licitante somente poderá oferecer lance inferior ao último por ele ofertado e registrado pelo sistema.
+
+7.8. O intervalo mínimo de diferença de valores ou percentuais entre os lances, que incidirá tanto em relação
+aos lances intermediários quanto em relação à proposta que cobrir a melhor oferta deverá ser de R$ 5,00 (cinco
+reais).
+
+7.9. O intervalo entre os lances enviados pelo mesmo licitante não poderá ser inferior a 5 (cinco) segundos e
+o intervalo entre lances não poderá ser inferior a 5 (cinco) segundos, sob pena de serem automaticamente
+descartados pelo sistema os respectivos lances.
+
+7.10. Será adotado para o envio de lances na licitação o modo de disputa aberto, em que os licitantes
+apresentarão lances públicos e sucessivos, com prorrogações.
+
+7.11. A etapa de lances da sessão pública terá duração de dez minutos e, após isso, será prorrogada
+automaticamente pelo sistema quando houver lance ofertado nos últimos dois minutos do período de duração
+da sessão pública.
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+7.12. A prorrogação automática da etapa de lances, de que trata o item anterior, será de dois minutos e ocorrerá
+sucessivamente sempre que houver lances enviados neste período de prorrogação, inclusive no caso de lances
+intermediários.
+
+7.13. Não havendo novos lances na forma estabelecida nos itens anteriores, a sessão pública encerrar-se-á
+automaticamente.
+
+7T.14. Encerrada a fase competitiva sem que haja a prorrogação automática pelo sistema, poderá o Pregoeiro,
+assessorado pela equipe de apoio, Justificadamente, admitir o reinício da sessão pública de lances, em prol da
+consecução do melhor preço.
+
+7.15. Em caso de falha no sistema, os lances em desacordo com os subitens anteriores deverão ser
+desconsiderados pelo Pregoeiro.
+
+7.16. Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for recebido e registrado
+primeiro.
+
+7.17. Durante o transcurso da sessão pública, os licitantes serão informados, em tempo real, do valor do menor
+lance registrado, vedada a identificação do licitante.
+
+7.18. No caso de desconexão com a Pregoeira, no decorrer da etapa competitiva do Pregão, o sistema
+eletrônico poderá permanecer acessível aos licitantes para a recepção dos lances.
+
+7.19.  Quando a desconexão do sistema eletrônico para a Pregoeira persistir por tempo superior a dez
+minutos, a sessão pública será suspensa e terá reinício somente após comunicação expressa da Pregoeira aos
+participantes do certame, publicada no https://www.gov.br/compras/pt-br, quando serão divulgadas data e hora
+para a sua reabertura. E será reiniciada somente após decorridas 24 (vinte e quatro) horas da comunicação do
+fato pela Pregoeira aos participantes, no sítio eletrônico utilizado para divulgação.
+
+7.20. Caso o licitante não apresente lances, concorrerá com o valor de sua proposta.
+
+7.21. Em relação a itens não exclusivos para participação de microempresas e empresas de pequeno porte,
+uma vez encerrada a etapa de lances, será efetivada a verificação automática, junto à Receita Federal, do porte
+da entidade empresarial. O sistema identifica em coluna própria as microempresas e empresas de pequeno
+porte participantes, procedendo à comparação com os valores da primeira colocada, se esta for empresa de
+maior porte, assim como das demais classificadas, para o fim de aplicar-se o disposto nos arts. 44 e 45 da LC
+nº 123/2006, regulamentada pelo Decreto nº 8.538/2015.
+
+7.22. Nessas condições, as propostas de microempresas e empresas de pequeno porte que se encontrarem na
+faixa de até 5% (cinco por cento) acima da melhor proposta ou melhor lance serão consideradas empatadas
+com a primeira colocada.
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+7.23. A melhor classificada nos termos do item anterior terá o direito de encaminhar uma última oferta para
+desempate, obrigatoriamente em valor inferior ao da primeira colocada, no prazo de 5 (cinco) minutos
+controlados pelo sistema, contados após a comunicação automática para tanto.
+
+7.24. Caso a microempresa ou a empresa de pequeno porte melhor classificada desista ou não se manifeste no
+prazo estabelecido, serão convocadas as demais licitantes microempresa e empresa de pequeno porte que se
+encontrem naquele intervalo de 5% (cinco por cento), na ordem de classificação, para o exercício do mesmo
+direito, no prazo estabelecido no subitem anterior.
+
+7.25. No caso de equivalência dos valores apresentados pelas microempresas e empresas de pequeno porte
+que se encontrem nos intervalos estabelecidos nos subitens anteriores, será realizado sorteio entre elas para
+que se identifique aquela que primeiro poderá apresentar melhor oferta.
+
+7.26. Quando houver propostas beneficiadas com as margens de preferência em relação ao produto
+estrangeiro, o critério de desempate será aplicado exclusivamente entre as propostas que fizerem jus às
+margens de preferência, conforme regulamento.
+
+7.27. A ordem de apresentação pelos licitantes é utilizada como um dos critérios de classificação, de maneira
+que só poderá haver empate entre propostas iguais (não seguidas de lances), ou entre lances finais da fase
+fechada do modo de disputa aberto e fechado.
+
+7.28. Em caso de empate entre duas ou mais propostas, serão utilizados os seguintes critérios de desempate,
+nesta ordem:
+7.28.1. disputa final, hipótese em que os licitantes empatados poderão apresentar nova proposta em ato
+contínuo à classificação;
+7.28.2. avaliação do desempenho contratual prévio dos licitantes;
+7.28.3.  desenvolvimento pelo licitante de ações de equidade entre homens e mulheres no ambiente de
+trabalho, conforme regulamento;
+7.28.4.  desenvolvimento pelo licitante de programa de integridade, conforme orientações dos órgãos de
+controle;
+
+7.29. Persistindo o empate, será assegurada preferência, sucessivamente, aos bens e serviços produzidos ou
+prestados por:
+
+7.29.1. empresas estabelecidas no território do Estado ou do Distrito Federal do órgão ou entidade da
+Administração Pública estadual ou distrital licitante ou, no caso de licitação realizada por órgão ou
+entidade de Município, no território do Estado em que este se localize;
+
+7.29.2. empresas brasileiras;
+
+7.29.3.  empresas que invistam em pesquisa e no desenvolvimento de tecnologia no País;
+
+7.29.4.  empresas que comprovem a prática de mitigação, nos termos da Lei nº 12.187/2009.
+
+7.30. Encerrada a etapa de envio de lances da sessão pública, a Pregoeira deverá encaminhar, pelo sistema
+eletrônico, contraproposta ao licitante que tenha apresentado o melhor preço, para que seja obtida melhor
+proposta, vedada a negociação em condições diferentes das previstas neste Edital.
+
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+7.30.1. AÀ negociação será realizada por meio do sistema, podendo ser acompanhada pelos demais
+licitantes.
+
+7.30.2. A Pregoeira solicitará ao licitante melhor classificado que, no prazo IMPRORROGÁVEL de 24
+(vinte e quatro) horas, considerando dia útil, envie a proposta adequada ao último lance ofertado
+após a negociação realizada, acompanhada dos documentos de habilitação, conforme item 9 deste
+edital, e se for o caso, dos documentos complementares (prospectos/ficha técnica/catálogo), quando
+necessários.
+
+7.31. Após a negociação do preço, a Pregoeira iniciará a fase de aceitação e julgamento da proposta.
+
+8. DA ACEITABILIDADE DA PROPOSTA VENCEDORA.
+
+8.1. Encerrada a etapa de negociação, a Pregoeira examinará a proposta classificada em primeiro lugar quanto
+à adequação ao objeto e à compatibilidade do preço em relação ao valor estimado.
+
+8.2. Será desclassificada a proposta que contiver vício insanável; que não obedecer às especificações técnicas
+pormenorizadas no edital ou apresentarem desconformidade com exigências do ato convocatório.
+
+8.3. Após a finalização da fase de lances e negociação, não serão aceitas propostas com valores superiores aos
+estabelecidos no orçamento estimado do município.
+
+8.4. As propostas com valores superiores aos estabelecidos pela administração ao final da fase de lances e
+negociação, serão automaticamente desclassificadas.
+
+8.5. Será desclassificada também a proposta ou o lance vencedor, que apresentar preço manifestamente
+inexequível.
+8.5.1. Considera-se inexequível a proposta que apresente preços global ou unitários simbólicos, irrisórios
+ou de valor zero, incompatíveis com os preços dos insumos e salários de mercado, acrescidos dos
+respectivos encargos, ainda que o ato convocatório da licitação não tenha estabelecido limites mínimos,
+exceto quando se referirem a materiais e instalações de propriedade do próprio licitante, para os quais ele
+renuncie a parcela ou à totalidade da remuneração.
+
+8.6. Qualquer interessado poderá requerer que se realizem diligências para aferir a exequibilidade e a
+legalidade das propostas, devendo apresentar as provas ou os indícios que fundamentam a suspeita;
+
+8.7. Se houver indícios de inexequibilidade da proposta de preço, ou em caso da necessidade de
+esclarecimentos complementares, poderão ser efetuadas diligências para que a licitante comprove a
+exequibilidade da proposta.
+
+8.8. Na hipótese de necessidade de suspensão da sessão pública para a realização de diligências, com vistas
+ao saneamento das propostas, a sessão pública somente poderá ser reiniciada mediante aviso prévio no sistema
+com, no mínimo, 24 (vinte e quatro) horas de antecedência, e a ocorrência será registrada em ata;
+
+
+f , a
+2X ee ma NÊ ),
+QUULITIAOÕES
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+8.9. A Pregoeira PODERÁ convocar o licitante para enviar documento digital complementar
+(PROSPECTOS/FICHA TÉCNICA/CATÁLOGO), por meio de funcionalidade disponível no sistema, no
+prazo de 24 (vinte e quatro) horas, sob pena de não aceitação da proposta.
+8.9.1. O prazo estabelecido poderá ser prorrogado pela Pregoeira por solicitação escrita e Justificada do
+licitante, formulada antes de findo o prazo, e formalmente aceita pela Pregoeira, sob pena de não aceitação
+da proposta-
+8.9.2. Caso a compatibilidade com as especificações demandadas, sobretudo quanto a padrões de qualidade
+e desempenho, não possa ser aferida pelos meios previstos nos subitens acima, a Pregoeira exigirá que o
+licitante classificado em primeiro lugar apresente amostra, sob pena de não aceitação da proposta, no local
+a ser indicado e dentro de 48 (quarenta e oito) horas úteis contados da solicitação.
+8.9.3. Os exemplares colocados à disposição da Administração serão tratados como protótipos, podendo
+ser manuseados e desmontados pela equipe técnica responsável pela análise, não gerando direito a
+ressarcimento.
+
+8.10. Se a proposta ou lance vencedor for desclassificado, a Pregoeira examinará a proposta ou lance
+subsequente, e, assim sucessivamente, na ordem de classificação.
+
+8.11. Havendo necessidade, a Pregoeira suspenderá a sessão, informando no "chat" a nova data e horário para
+a sua continuidade.
+
+8.12. A Pregoeira poderá encaminhar, por meio do sistema eletrônico, contraproposta ao licitante que
+apresentou o lance mais vantajoso, com o fim de negociar a obtenção de melhor preço, vedada a negociação
+em condições diversas das previstas neste Edital.
+
+8.12.1. Também nas hipóteses em que a Pregoeira não aceitar a proposta e passar à subsequente, poderá
+
+negociar com o licitante para que seja obtido preço melhor.
+
+8.12.2. A negociação será realizada por meio do sistema, podendo ser acompanhada pelos demais licitantes.
+
+8.13. Nos itens não exclusivos para a participação de microempresas e empresas de pequeno porte, sempre
+que a proposta não for aceita, e antes da Pregoeira passar à subsequente, haverá nova verificação, pelo sistema,
+da eventual ocorrência do empate ficto, previsto nos artigos 44 e 45 da LC nº 123/ 2006, seguindo-se a
+disciplina antes estabelecida, se for o caso.
+
+8.14. Encerrada a análise quanto à aceitação da proposta, a Pregoeira verificará a habilitação do licitante,
+observado o disposto neste Edital.
+
+9. DA HABILITAÇÃO.
+
+9.1. Como condição prévia ao exame da documentação de habilitação do licitante detentor da proposta
+
+classificada em primeiro lugar, a Pregoeira verificará o eventual descumprimento das condições de
+participação, especialmente quanto à existência de sanção que impeça a participação no certame ou a futura
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+contratação, mediante a consulta aos documentos inseridos no Portal de Compras do Governo Federal, e ainda
+nos seguintes cadastros:
+
+9.1.1. Cadastro Nacional de Empresas Inidôneas e Suspensas - CEIS e o e o Cadastro Nacional de
+Empresas Punidas - CNEP (www .portaldatransparencia.gov.br).
+
+9.1.2. Cadastro Nacional de Condenações Cíveis por Atos de Improbidade Administrativa, mantido
+pelo Conselho Nacional de Justiça (www.cnJ jus.br/improbidade adm/consultar requerido.php).
+
+9.1.3. Lista de Inidôneos, mantida pelo Tribunal de Contas da União - TCU
+(<https://contas.teu.gov.br/ords/f?p=1660:3:0>).
+
+9.1.4. Constatada a existência de sanção, a Pregoeira reputará o licitante inabilitado, por falta de condição
+de participação.
+
+9.1.5. No caso de inabilitação, haverá nova verificação, pelo sistema, da eventual ocorrência do empate
+ficto, previsto nos arts. 44 e 45 da Lei Complementar nº 123/2006, seguindo-se a disciplina antes
+estabelecida para aceitação da proposta subsequente.
+
+9.2. Caso atendidas as condições de participação, a Pregoeira solicitará da(s) vencedora(s) a anexação dos
+documentos de habilitação exigidos neste edital, através de mensagem via chat no portal, concedendo o
+prazo IMPRORROGÁVEL de 24 (vinte e quatro) horas, considerando dia útil, para realização da
+anexação, sob pena de desclassificação, e posteriormente, verificará por meio do PORTAL DE COMPRAS
+DO GOVERNO FEDERAL, em relação à habilitação jurídica, à regularidade fiscal e trabalhista, à
+qualificação econômica financeira e à habilitação técnica.
+
+9.2.1. É dever do licitante atualizar previamente as comprovações constantes do PORTAL DE
+
+COMPRAS DO GOVERNO FEDERAL, para que estejam vigentes na data da abertura da sessão pública,
+
+ou encaminhar após solicitação a respectiva documentação atualizada.
+
+9.3. Em caso de participação de empresas em consórcio, será exigido o acréscimo de 10% (dez por cento) a
+30% (trinta por cento) sobre o valor exigido de licitante individual para a habilitação econômico-financeira,
+salvo Justificação no processo licitatório. Essa regra não se aplica aos consórcios formados, em sua totalidade,
+por microempresas e pequenas empresas, assim definidas em lei.
+
+9.4. Somente haverá a necessidade de comprovação do preenchimento de requisitos mediante apresentação
+dos documentos originais não digitais, quando houver dúvida em relação à integridade do documento digital.
+
+9.5. Não serão aceitos documentos de habilitação com indicação de CNPJ diferentes, salvo aqueles legalmente
+permitidos.
+
+9,6. Se o licitante for a matriz, todos os documentos deverão estar em nome da matriz, e se o licitante for a
+filial, todos os documentos deverão estar em nome da filial, exceto aqueles documentos que, pela própria
+natureza, comprovadamente, forem emitidos somente em nome da matriz.
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+9.6.1. Serão aceitos registros de CNPJ de licitante matriz e filial com diferenças de números de
+documentos pertinentes ao CND e ao CRF/FGTS, quando for comprovada a centralização do recolhimento
+dessas contribuições.
+
+9.7. Para fins de HABILITAÇÃO, os licitantes deverão encaminhar a documentação relacionada nos
+itens a seguir:
+
+9.8. HABILITAÇÃO JURÍDICA:
+
+9.8.1. Documento de identidade do representante legal.
+
+9.8.2. Registro comercial - no caso de empresa individual; ou ato constitutivo, estatuto ou contrato social
+em vigor, devidamente registrado - no caso de sociedades comerciais; e no caso de sociedade por ações,
+acompanhado de documentos de eleição de seus administradores;
+9.8.2.1. No caso em que houver consolidação do contrato social ou transformação do registro
+da empresa na última alteração, fica dispensada a apresentação das alterações anteriores.
+
+9.8.3. Em se tratando de microempreendedor individual - MEI: Certificado da Condição de
+Microempreendedor Individual - CCMEL.
+
+9.8.4. No caso de Cooperativa: ata de eleição da diretoria e estatuto social em vigor, com a ata da assembleia
+que o aprovou, devidamente registrados na Junta Comercial da respectiva sede.
+
+9.8.5. No caso de empresa ou sociedade estrangeira em funcionamento no País: Decreto de autorização, e
+ato de registro ou autorização para funcionamento expedido pelo órgão competente, quando a atividade
+assim o exigir.
+
+9.9. HABILITAÇÃO FISCAL, SOCIAL E TRABALHISTA:
+
+9.9.1. Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas (CNPJ) emitido em até 60 (sessenta)
+dias contados da data de abertura do certame;
+
+9.9.2. Prova de inscrição no cadastro de contribuintes estadual e/ou municipal, se houver relativo ao
+domicílio ou sede do licitante, pertinente ao seu ramo de atividade e compatível com o objeto
+contratual;
+
+9.9.3. Prova de regularidade para com a Fazenda Nacional, referente à dívida Ativa da União, Tributos
+Federais e à Seguridade Social (Certidão Conjunta);
+
+9.9.4. Prova de regularidade junto à Fazenda Estadual do Estado do Espírito Santo e do estado onde a
+empresa for sediada;
+
+
+&
+D
+MET NSS
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+9.9.5. Prova de regularidade junto à Fazenda Municipal do município de Domingos Martins e do
+município onde a empresa for sediada;
+
+9.9.6. Prova de regularidade com o Fundo de Garantia do Tempo de Serviço (FGTS);
+
+9.9.7. Prova de inexistência de débitos inadimplidos perante a justiça do trabalho, mediante a
+apresentação de certidão emitida no site http://www.tst.jus.br <http://www.tst.jus.br>.
+
+9.9.8. Caso o licitante detentor do menor preço seja qualificado como microempresa ou empresa de
+pequeno porte deverá apresentar toda a documentação exigida para efeito de comprovação de regularidade
+fiscal, mesmo que esta apresente alguma restrição, sob pena de inabilitação.
+
+9.9.9 Caso o licitante seja considerado isento de tributos estaduais ou municipais relacionados ao objeto
+licitatório, deverá comprovar tal condição mediante a apresentação de declaração da Fazenda Estadual ou
+da Fazenda Municipal do domicílio ou sede do fornecedor, ou outra equivalente que demonstre tal isenção.
+
+9.10. HABILITAÇÃO ECONÔMICO-FINANCEIRA.
+
+9.10.1. Certidão Negativa de falência, de concordata, de recuperação Jjudicial ou extrajudicial (Lei nº
+11.101/2005), expedida pelo distribuidor da sede da empresa, datado dos últimos 60 (sessenta) dias, ou que
+esteja dentro do prazo de validade expresso na própria Certidão.
+
+9.10.2. No caso de certidão positiva de recuperação judicial ou extrajudicial, o licitante deverá apresentar
+a comprovação de que o respectivo plano de recuperação foi acolhido jJudicialmente, na forma do art. 58,
+da Lei n.º 11.101, de 09 de fevereiro de 2005, sob pena de inabilitação, devendo, ainda, comprovar todos
+os demais requisitos de habilitação.
+
+9.11. QUALIFICAÇÃO TÉCNICA.
+9.11.1. Comprovação de aptidão no desempenho de atividade pertinente e compatível com o objeto desta
+licitação, mediante apresentação de atestado(s) de capacidade técnica, expedido por pessoa jurídica de
+direito público ou privado, para os quais já tenha o licitante fornecido materiais relativos ao objeto desta
+licitação, que atestem o desempenho da proponente quanto à qualidade dos mesmos, devidamente assinado
+pelo representante com papel timbrado ou carimbo do CNPJ do emissor.
+9.11.2. certificado do INMETRO
+
+9.12. DECLARAÇÕES
+
+9.12.1. Declarações constantes nos Anexos II, III, IV, VI, VIT e IX deste edital.
+9.12.1.1 Devem ser apresentadas TODAS as declarações, com as INFORMAÇÕES e ASSINATURAS,
+conforme discriminadas nos modelos.
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+9.13. COMPROVAÇÃO DA CONDIÇÃO DE ME/EPP.
+
+9.13.1. Para comprovar sua condição de ME/EPP a empresa deverá OBRIGATORIAMENTE apresentar:
+9.13.1.1. Declaração referente à Condição de ME/EPP assinada pelo REPRESENTANTE LEGAL em
+
+CONJUNTO com o CONTADOR, nos termos do Anexo IV deste Edital.
+
+9.13.1.2. Declaração, conforme modelo constante no anexo VIII deste edital, que no ano-calendário de
+realização da licitação, não celebrou contratos com a administração pública cujos valores somados extrapolem
+a receita bruta máxima admitida para fins de enquadramento como empresa de pequeno porte, em
+conformidade com o $ 2º do artigo 4º da Lei nº 14.133/2021.
+- Na declaração devem constar todos os contratos firmados no ano calendário com a administração
+pública. Não havendo contratos firmados, deverá ser enviada a declaração com a informação de que não possui
+contratos.
+
+9.13.1.3. Certidão Simplificada da Junta Comercial da qual conste o enquadramento como ME ou
+EPP, com data3de emissão não superior a 180 (cento e oitenta) dias, anteriores à data fixada para a sessão de
+abertura da licitação.
+
+9.14. A existência de restrição relativamente à regularidade fiscal e trabalhista não impede que a licitante
+qualificada como microempresa ou empresa de pequeno porte seja declarada vencedora, uma vez que atenda
+a todas as demais exigências do edital.
+
+9.14.1. A declaração do vencedor acontecerá no momento imediatamente posterior à fase de habilitação.
+
+9.15. Caso a proposta mais vantajosa seja ofertada por licitante qualificada como microempresa ou empresa
+de pequeno porte, e uma vez constatada a existência de alguma restrição no que tange à regularidade fiscal e
+trabalhista, a mesma será convocada para, no prazo de 5 (cinco) dias úteis, após a declaração do vencedor,
+comprovar a regularização. O prazo poderá ser prorrogado por igual período, a critério da administração
+pública.
+
+9.16. A não-regularização fiscal e trabalhista no prazo previsto no subitem anterior acarretará a inabilitação
+do licitante, sem prejuízo das sanções previstas neste Edital, sendo facultada a convocação dos licitantes
+remanescentes, na ordem de classificação. Se, na ordem de classificação, seguir-se outra microempresa ou
+empresa de pequeno porte com alguma restrição na documentação fiscal e trabalhista, será concedido o mesmo
+prazo para regularização.
+
+9.17. Após o encaminhamento dos documentos de habilitação pelo provedor Portal de Compras do Governo
+Federal, não será permitida a substituição ou a apresentação de novos documentos, salvo em sede de
+diligência, para:
+9.17.1. Complementação/confirmação de informações acerca dos documentos já apresentados pelos
+licitantes e desde que necessária para apurar fatos existentes à época da abertura do certame;
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+9.17.2. Atualização de documentos apresentados cuja validade tenha expirado, desde que, em consulta
+aos sítios eletrônicos oficiais emissores das certidões lograr êxito em encontrar a(s) certidão(ões) válida(s)
+no momento da diligência pela Pregoeira.
+
+9.17.2.1. Em se tratando de ME/EPP poderá ser aplicado o previsto no item 9.15.
+9.17.3. Sanar erros ou falhas que não alterem a substância dos documentos e sua validade Jjurídica,
+mediante despacho fundamentado registrado e acessível a todos, atribuindo-lhes eficácia para fins de
+habilitação e classificação.
+
+9.18. Havendo a necessidade de envio de documentos de habilitação complementares conforme descrito nos
+subitens 9.16.1 e 9.16.2, o licitante será convocado via sistema a encaminhá-los, em formato digital no portal,
+no prazo a ser concedido pela Pregoeira, podendo ser de até 24 (vinte e quatro) horas, sob pena de inabilitação.
+
+9.19. Será inabilitado o licitante que não comprovar sua habilitação, seja por não apresentar quaisquer dos
+documentos exigidos, ou apresentá-los em desacordo com o estabelecido neste Edital.
+
+9.20. Nos itens não exclusivos a microempresas e empresas de pequeno porte, em havendo inabilitação,
+haverá nova verificação, pelo sistema, da eventual ocorrência do empate ficto, previsto nos artigos 44 e 45 da
+LC nº 123/2006, seguindo-se a disciplina antes estabelecida para aceitação da proposta subsequente.
+
+9.21. Constatado o atendimento às exigências de habilitação fixadas no Edital, o licitante será declarado
+vencedor.
+
+10. DO ENCAMINHAMENTO DA PROPOSTA VENCEDORA.
+
+10.1. A proposta final do licitante vencedor deverá ser encaminhada no prazo improrrogável de 24 (vinte
+e quatro) horas a contar da solicitação da Pregoeira no sistema eletrônico, podendo ser solicitada
+concomitantemente aos documentos de habilitação para fins de agilidade processual, e deverá:
+10.1.1. Ser redigida em língua portuguesa, digitada, em uma via, sem emendas, rasuras, entrelinhas ou
+ressalvas, devendo a última folha ser assinada e as demais rubricadas pelo licitante ou seu representante
+legal.
+10.1.2. Conter preferencialmente a indicação do banco, número da conta e agência do licitante vencedor,
+para fins de pagamento.
+
+10.2. A proposta final deverá ser documentada nos autos e será levada em consideração no decorrer da
+execução do contrato e aplicação de eventual sanção à Contratada, se for o caso.
+10.2.1. Todas as especificações do objeto contidas na proposta, tais como marca, modelo, tipo, fabricante,
+vinculam a Contratada.
+
+10.3. Os preços devem ser expressos em moeda corrente nacional, o valor unitário em algarismos e o valor
+global da proposta em algarismos e por extenso.
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+10.3.1. Ocorrendo divergência entre os preços unitários e o preço global, prevalecerão os primeiros; no
+caso de divergência entre os valores numéricos e os valores expressos por extenso, prevalecerão também
+os primeiros.
+
+10.4. A oferta deverá ser firme e precisa, limitada, rigorosamente, ao objeto deste Edital, sem conter
+alternativas de preço ou de qualquer outra condição que induza o julgamento a mais de um resultado, sob pena
+de desclassificação.
+
+10.5. A proposta deverá obedecer aos termos deste Edital e seus Anexos, não sendo considerada aquela que
+não corresponda às especificações ali contidas ou que estabeleça vínculo à proposta de outro licitante.
+
+11. DOS RECURSOS.
+
+11.1. Após o julgamento das propostas e após a habilitação/inabilitação das participantes, o licitante
+interessado deverá manifestar imediatamente a sua intenção de recorrer, em campo próprio do sistema, sob
+pena de preclusão.
+
+11.1.1. Será considerada como manifestação imediata aquela efetuada por meio do sistema em até 30
+
+(trinta) minutos após a intimação ou lavratura da ata de habilitação/inabilitação.
+
+11.1.2. A apreciação dar-se à em fase única.
+
+11.2. Declarado o vencedor, e feita a manifestação motivada da intenção de recurso nos termos do item
+anterior, será concedido o prazo de 03 (três) dias úteis para apresentação das razões do recurso pelo sistema
+eletrônico, ficando os demais licitantes, desde logo, intimados para, querendo, apresentarem contrarrazões
+também pelo sistema eletrônico, em outros 3 (três) dias úteis, que começarão a contar do término do prazo do
+recorrente, sendo-lhes assegurada vista imediata dos elementos indispensáveis à defesa de seus interesses.
+11.2.1. O recurso/contrarrazão não será conhecido caso seja enviado fora do prazo registrado no sistema.
+
+11.3. O acolhimento do recurso invalida tão somente os atos insuscetíveis de aproveitamento.
+
+11.4. Os autos do processo permanecerão com vista franqueada aos interessados, no endereço constante 1.4
+deste Edital.
+
+12. DA REABERTURA DA SESSÃO PÚBLICA.
+
+12.1. A sessão pública poderá ser reaberta:
+12.1.1. Nas hipóteses de provimento de recurso que leve à anulação de atos anteriores à realização da
+sessão pública precedente ou em que seja anulada a própria sessão pública, situação em que serão repetidos
+os atos anulados e os que dele dependam.
+12.1.2. Quando houver erro na aceitação do preço melhor classificado ou quando o licitante declarado
+vencedor não assinar o contrato, não retirar o instrumento equivalente ou não comprovar a regularização
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+fiscal e trabalhista, nos termos do art. 43, $1º da LC nº 123/2006. Nessas hipóteses, serão adotados os
+procedimentos imediatamente posteriores ao encerramento da etapa de lances.
+
+13. DA ADJUDICAÇÃO E HOMOLOGAÇÃO.
+
+13.1.  Julgados os recursos ou não havendo interposição de recurso, o processo licitatório será encaminhado
+à Autoridade Competente para adjudicação e homologação.
+
+14. DA EMISSÃO DO INSTRUMENTO EQUIVALENTE AO TERMO DE CONTRATO.
+
+14.1. Após a homologação da licitação, em sendo realizada a aquisição, será emitido instrumento
+equivalente ao Termo de Contrato, ou seja, Nota de empenho/Autorização de Fornecimento. e posteriormente
+serão emitidas as Autorização de Fornecimento.
+
+14.2. O adjudicatário terá o prazo de 03 (três) dias úteis, contados a partir da data de sua convocação, para
+
+assinar o Termo de Contrato e posteriormente mesmo prazo para aceitar ou retirar a Autorização de
+
+Fornecimento, sob pena de decair do direito à contratação, sem prejuízo das sanções previstas neste Edital.
+14.2.1. . Alternativamente à convocação para comparecer perante o órgão ou entidade para a assinatura
+do Termo de Contrato ou aceite da Autorização de Fornecimento, a Administração poderá encaminhá-
+lo para assinatura ou aceite por meio eletrônico, para que seja assinado com assinatura digital do
+representante legal da contratada ou aceito no prazo de 03 (três) dias, a contar da data do envio do e-
+mail.
+14.2.2.  O prazo previsto no subitem anterior poderá ser prorrogado, por igual período, por solicitação
+Justificada do adjudicatário e aceita pela Administração.
+
+14.3O Aceite da Nota de Empenho/Autorização de Fornecimento, emitida à empresa adjudicada, implica no
+reconhecimento de que:
+14.3.1.1 A referida Autorização/Nota está substituindo o contrato, aplicando-se à relação de negócios ali
+estabelecida as disposições da Lei nº 14.133/2021;
+14.3.2 A contratada se vincula à sua proposta e às previsões contidas no edital e seus anexos;
+14.3.3 A contratada reconhece que as hipóteses de rescisão são aquelas previstas no artigo 137 da Lei nº
+14.133/2021 e reconhece os direitos da Administração previstos nos artigos 138 e 139 da mesma Lei.
+
+14.4. Previamente à contratação a Administração realizará consultas para identificar possível suspensão
+temporária de participação em licitação, no âmbito do órgão ou entidade, proibição de contratar com o Poder
+Público, bem como ocorrências impeditivas indiretas, nos termos do art. 6º, III, da Lei nº 10.522/2002,
+consulta prévia ao CADIN.
+
+14.5.  Na hipótese de o vencedor da licitação não comprovar as condições de habilitação consignadas no
+edital ou se recusar a assinar o contrato, a Administração, sem prejuízo da aplicação das sanções das demais
+cominações legais cabíveis a esse licitante, poderá convocar outro licitante, respeitada a ordem de
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+classificação, para, após a comprovação dos requisitos para habilitação, analisada a proposta e eventuais
+
+documentos complementares e, feita a negociação, assinar o contrato.
+
+15. DAS CONDIÇÕES DE ENTREGA E REQUISITOS DA AQUISIÇÃO
+15.1. As regras acerca das condições de recebimento e dos requisitos da aquisição/contratação são as
+estabelecidas no Termo de Referência parte integrante deste Edital.
+
+16. DO REAJUSTAMENTO EM SENTIDO GERAL.
+
+16.1 As regras acerca das condições de recebimento e dos requisitos da aquisição/contratação são as
+estabelecidas no Termo de Referência parte integrante deste Edital.
+
+17. DA GESTÃO, FISCALIZAÇÃO E ACOMPANHAMENTO.
+
+17.1. Os critérios de gestão, fiscalização e acompanhamento do objeto desta licitação estão previstos no
+Termo de Referência parte integrante deste Edital.
+
+18. DAS OBRIGAÇÕES DA CONTRATANTE E DA CONTRATADA.
+
+18.1. As obrigações da Contratante e da Contratada são as estabelecidas no Termo de Referência parte
+integrante deste Edital.
+
+19. DOS CRITÉRIOS DE PAGAMENTO.
+
+19.1. As regras acerca de medição e pagamento são as estabelecidas no Termo de Referência parte integrante
+deste Edital.
+
+20. DAS SANÇÕES ADMINISTRATIVAS.
+
+20.1.  Comete infração administrativa, nos termos da Lei nº 14.133/2021, o licitante/adjudicatário que:
+20.1.1. Der causa à inexecução parcial ou total do contrato;
+
+20.1.2. Deixar de entregar os documentos exigidos no certame;
+
+20.1.3. Não mantiver a proposta, salvo em decorrência de fato superveniente devidamente Justificado;
+20.1.4. Não assinar o termo de contrato ou aceitar/retirar o instrumento equivalente, quando
+convocado dentro do prazo de validade da proposta;
+
+20.1.5. Ensejar o retardamento da execução ou entrega do objeto da licitação sem motivo Justificado;
+20.1.6. Apresentar declaração ou documentação falsa;
+
+20.1.7. Fraudar a licitação ou praticar ato fraudulento na execução do contrato;
+
+20.1.8. Comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+
+
+>
+& e )
+
+a , el
+R Opga = ES
+SA "m,uipw o
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+20.1.9. Praticar atos ilícitos com vistas a frustrar os objetivos da licitação;
+20.1.10. Praticar ato lesivo previsto no art. 5º da Lei nº 12.846/2013.
+
+20.2. O licitante/adjudicatário que cometer qualquer das infrações discriminadas nos subitens anteriores ficará
+sujeito, sem prejuízo da responsabilidade civil e criminal, às seguintes sanções:
+
+a) Advertência por escrito;
+
+b) Multa;
+
+c) Impedimento de licitar e contratar;
+
+d) Declaração de inidoneidade para licitar ou contratar.
+
+20.3. A aplicação das sanções administrativas obedecerá ao art. 155 da Lei nº 14.133/2021).
+20.4. A penalidade de multa poderá ser aplicada cumulativamente com as demais sanções:
+
+20.5. Em caso de aplicação da penalidade de multa, serão obedecidos os seguintes critérios:
+20.5.1. multa de mora - punição de caráter pecuniário e será aplicada no caso de atraso injustificado na
+execução total ou parcial do contrato (entrega de bens ou prestação de serviço), correspondendo ao
+percentual de 0,5% (cinco décimos por cento) ao dia sobre o valor previsto no subitem 20.5.1.1, limitado a 30
+(trinta) dias.
+20.5.1.1. AÀ base de cálculo será o valor total contratado, em se tratando de entrega única, e o valor da
+parcela em mora, no caso de entrega parcelada.
+20.5.2 As sanções de multa de mora ou de multa compensatória, aplicadas individual ou acumuladamente,
+não poderão ser inferiores a 0,5% (cinco décimos por cento) nem superior a 30% (trinta por cento) do
+valor do contrato licitado ou celebrado em contratação direta e será aplicada ao responsável por qualquer
+das infrações administrativas previstas no item 20.1 deste edital.
+20.5.3 Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de pagamento eventualmente
+devido pela Administração ao contratado, além da perda desse valor, a diferença será descontada da garantia
+prestada ou será cobrada por meio da emissão de Documento de Arrecadação Municipal (DAM) ou ainda
+Judicialmente.
+20.5.4 No cálculo de apuração do valor referente à penalidade de multa, deverão ser incluídos os dias de início,
+primeiro dia útil após o vencimento da obrigação, e o de efetivo adimplemento contratual.
+20.5.5 A multa compensatória será aplicada por descumprimento total ou parcial das obrigações contratuais.
+Possui caráter indenizatório, cujo objetivo é compensar a Administração pelos prejuízos causados e obedecerá
+às seguintes disposições:
+I - o atraso injustificado e superior ao previsto no caput do artigo 8º (30 dias) será considerado
+inexecução contratual total ou parcial, sujeitando o infrator à cobrança, além de multa moratória, de multa
+compensatória de 1 a 5% (um a cinco por cento) sobre o valor total do contrato.
+II - a inexecução, no todo ou em parte, de qualquer cláusula pactuada, sujeitando o infrator à multa
+compensatória de 6 a 10% (seis a dez por cento) sobre o valor total do contrato, podendo ensejar sua
+extinção.
+20.5.6 O percentual estabelecido no inciso II do item 20.5.5 poderá ser dobrado, nos casos de reincidência.
+
+20.6. Do ato que aplicar a penalidade caberá recurso, no prazo de 15 (quinze) dias úteis, a contar da ciência da
+intimação, podendo a autoridade que tiver proferido o ato reconsiderar sua decisão ou, no prazo de 05 (cinco)
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+dias encaminhá-lo devidamente informado para a apreciação e decisão superior, no prazo de 20 (vinte) dias
+úteis.
+
+21 DA FRAUDE E DA CORRUPÇÃO
+21.1. Os licitantes e o contratado devem observar e fazer observar, por seus fornecedores e subcontratados, se
+admitida à subcontratação, o mais alto padrão de ética durante todo o processo de licitação, de contratação e
+de execução do objeto contratual.
+21.1.1. PARA OS PROPÓSITOS DESTA CLÁUSULA, DEFINEM-SE AS SEGUINTES
+PRÁTICAS:
+a) PRÁTICA CORRUPTA: Oferecer, dar, receber ou solicitar, direta ou indiretamente, qualquer
+vantagem com o objetivo de influenciar a ação de servidor público no processo de licitação ou na execução
+do contrato;
+b) PRÁTICA FRAUDULENTA: A falsificação ou omissão dos fatos, com o objetivo de influenciar o
+processo de licitação ou de execução do contrato;
+c) PRÁTICA CONCERTADA: Esquematizar ou estabelecer um acordo entre dois ou mais licitantes, com
+ou sem o conhecimento de representantes ou prepostos do órgão licitador, visando estabelecer preços em
+níveis artificiais e não-competitivos;
+d) PRÁTICA COERCITIVA: Causar danos ou ameaçar causar dano, direta ou indiretamente, às pessoas
+ou sua propriedade, visando influenciar sua participação em um processo licitatório ou afetar a execução
+do contrato.
+e) PRÁTICA OBSTRUTIVA: Destruir, falsificar, alterar ou ocultar provas em inspeções ou fazer
+declarações falsas aos representantes do organismo financeiro multilateral, com o objetivo de impedir
+materialmente a apuração de alegações de prática prevista acima; atos cuja intenção seja impedir
+materialmente o exercício do direito de o organismo financeiro multilateral promover inspeção.
+
+22. DA IMPUGNAÇÃO AO EDITAL E DO PEDIDO DE ESCLARECIMENTO.
+
+22.1. Até 03 (três) dias úteis antes da data designada para a abertura da sessão pública, qualquer pessoa poderá
+impugnar este Edital e/ou apresentar pedido de esclarecimento.
+
+22.2. Os pedidos de esclarecimentos deverão ser enviados a Pregoeira, EXCLUSIVAMENTE por meio
+eletrônico, através do Sistema Portal de Compras do Governo Federal (https://www.gov.br/compras/pt-br).
+22.2.1. Os esclarecimentos serão divulgados no referido portal.
+
+22.3. As impugnações deverão ser realizadas EXCLUSIVAMENTE por forma eletrônica, em local
+próprio no Sistema Portal de Compras do Governo Federal (https://Www.gov.br/compras/pt-br), no
+prazo assinalado, observados os demais requisitos de admissibilidade, não tendo efeito suspensivo.
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+22.4. A resposta à impugnação ou ao pedido de esclarecimento será divulgada no Portal de Compras do
+Governo Federal no prazo de até 3 (três) dias úteis, limitado ao último dia útil anterior à data da abertura do
+certame.
+
+22.5. Acolhida a impugnação, será definida e publicada nova data para a realização do certame.
+
+22.6. As impugnações e pedidos de esclarecimentos não suspendem os prazos previstos no certame, salvo
+quando se amolda ao art. 55, parágrafo 1º, da Lei nº 14.133/2021.
+
+22.7. As respostas aos pedidos de esclarecimentos serão divulgadas pelo sistema e vincularão os participantes
+e a administração.
+
+22.8. As respostas às impugnações e aos esclarecimentos solicitados, bem como outros avisos de ordem
+geral, serão cadastradas no sítio eletrônico https://www.gov.br/compras/pt-br, sendo de responsabilidade
+dos licitantes, seu acompanhamento.
+
+22.9. Qualquer modificação no edital será divulgada pelo mesmo instrumento de publicação em que se deu o
+texto original, reabrindo-se o prazo inicialmente estabelecido, exceto quando, inquestionavelmente, a alteração
+não afetar a formulação das propostas.
+
+23. DAS DISPOSIÇÕES GERAIS.
+23.1. Da sessão pública do Pregão divulgar-se-á Ata no sistema eletrônico.
+
+23.2. O desatendimento de exigências meramente formais que não comprometam a aferição da qualificação
+do licitante ou a compreensão do conteúdo de sua proposta não importará seu afastamento da licitação ou a
+invalidação do processo.
+
+23.3. A homologação do resultado desta licitação não implicará direito à contratação.
+
+23.4. As normas disciplinadoras da licitação serão sempre interpretadas em favor da ampliação da disputa
+entre os interessados, desde que não comprometam o interesse da Administração, o princípio da isonomia, a
+finalidade e a segurança da contratação.
+
+23.5. Os licitantes assumem todos os custos de preparação e apresentação de suas propostas e a Administração
+não será, em nenhum caso, responsável por esses custos, independentemente da condução ou do resultado do
+processo licitatório.
+
+23.6. Na contagem dos prazos estabelecidos neste Edital e seus Anexos só se iniciam e vencem os prazos em
+dias de expediente na Administração.
+
+23.7. Olicitante é o responsável pela fidelidade e legitimidade das informações prestadas e dos documentos
+apresentados em qualquer fase da licitação.
+
+
+&
+D
+META NSS
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+23.7.1. A falsidade de qualquer documento apresentado ou a inverdade das informações nele contidas
+implicará a imediata desclassificação do proponente que o tiver apresentado, ou, caso tenha sido o
+vencedor, a rescisão do contrato ou do documento equivalente, sem prejuízo das demais sanções
+cabíveis.
+
+23.8. A Câmara Municipal de Domingos Martins, poderá revogar este Pregão por razões de interesse público
+decorrente de fato superveniente que constitua óbice manifesto e incontornável, ou anulá-lo por ilegalidade,
+de ofício ou por provocação de terceiros, salvo quando for viável a convalidação do ato ou do procedimento
+viciado, desde que observados os princípios da ampla defesa e contraditório.
+
+23.8.1. A anulação do Pregão induz à extinção do contrato.
+
+23.8.2. A anulação da licitação por motivo de ilegalidade não gera obrigação de indenizar.
+
+23.9. É facultado à Autoridade Superior, em qualquer fase deste Pregão, promover diligência destinada a
+esclarecer ou completar a instrução do processo, vedada a inclusão posterior de informação ou de documentos
+que deveriam ter sido apresentados para fins de classificação e habilitação.
+
+23.10. Integram este Edital, para todos os fins e efeitos, os seguintes anexos:
+
+ANEXO [ - ESPECIFICAÇÃO DO OBJETO E TERMO DE REFERÊNCIA;
+
+ANEXO II - MODELO DE DECLARAÇÃO DE SUJEIÇÃO ÀS CONDIÇÕES ESTABELECIDAS NO EDITAL E
+DE INEXISTÊNCIA DE FATOS SUPERVENIENTES IMPEDITIVOS DA HABILITAÇÃO;
+
+ANEXO III - MODELO DE DECLARAÇÃO NOS TERMOS DO INCISO XXXIII, ART. 7º DA
+CONSTITUIÇÃO FEDERAL;
+
+ANEXO IV - MODELO DE DECLARAÇÃO DE ELABORAÇÃO INDEPENDENTE DE PROPOSTA;
+
+ANEXO V - MODELO DE DECLARAÇÃO DO PORTE DA EMPRESA;
+
+ANEXO VI - MODELO DE DECLARAÇÃO DE IDONEIDADE;
+
+NEXO VII - DECLARAÇÃO DE CUMPRIMENTO DOS REQUISITOS DE HABILITAÇÃO;ANEXO
+UM - DECLARAÇÃO DE CONTRATOS CELEBRADOS COM A ADMINISTRAÇÃO PÚBLICA;
+
+A
+V
+ANEXO IX - DECLARAÇÃO DE INEXISTÊNCIA DE SOCIETÁRIO PÚBLICO;
+ANEXO X - MINUTA DO CONTRATO
+
+Domingos Martins - ES, 12 de setembro de 2025.
+
+THAMIRES SUELI DO Assinado de forma digital por THAMIRES
+SUELI DO NASCIMENTO
+
+NASCIMENTO RASSELI:11408192756
+
+RASSELI:11408192756 Dados: 2025.09.12 14:51:39 -03'00'
+
+THAMIRES SUELI DO NASCIMENTO RASSELI
+Pregoeira
+
+
+F)
+" pl o
+
+2À Oeg aa N ),
+M lm,uiuw x“'ç'
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+ANEXO[I
+
+ESPECIFICAÇÃO DO OBJETO
+
+LOTE1
+ITEM ESPECIFICAÇÃO MARCA | UNIDADE | QUANTI | UNITÁRIO] TOTAL
+DADE
+
+Desktop
+
+Processador: 12º geração Intel& Core"M 17-12700
+
+(12-Core, Cache de 25MB, 2.1GHz até 4.8GHz), ou
+
+geração superior; Sistema operacional: Windows 11
+
+1 | Pro, português — Brasil; Placa de vídeo: Intel& UHD Unidade 5
+
+Graphics 770; Memória: Memória de 16GB
+(1x16GB), DDR5, 4400MT/s; Expansível até 64GB;
+Armazenamento: SSD de 512GB PCle NVMe M.2;
+Microsoft Office: Ative seu Microsoft 365 para fazer
+um teste de 30 dias; Software de Segurança:
+Avaliação de 30 dias do McAfee Business
+Protection; Complete Care None; Teclado e Mouse
+Sem fio original da marca; Portas: Parte frontal: 2
+portas USB 2.0 Type-A
+
+1 porta USB 3.2 Type-A de 1º geração
+
+1 porta USB 3.2 Type-C de 1º geração
+
+1 entrada global do headset
+
+Parte traseira: 2 portas USB 2.0 Type-A com suporte
+para ligar/reativar
+
+2 porta USB 3.2 Type-A de 1º geração
+
+1 porta de saída de áudio/ 1 porta DisplayPort 1.4/1
+porta Ethernet RJ45/ 1 porta HDMI 1.4b/ Nota: À
+resolução máxima suportada pela porta HDMI 1.4b é
+de 1920 x 1200./ Unidade óptica: Sem Optical Drive/
+Slots: 1 slot SATA 3.0 para um disco rigido de 3,5
+polegadas
+
+1 slot PCIe x16/ 1 slot PCle x1*
+
+1 slot M.2 2230 para cartão combinado Wi-Fi e
+Bluetooth/ 1 slot M.2 2230/2280 para unidade de
+estado sólido PCIe
+
+Dimensões: Altura: 29,00 cm
+
+Largura: 9,26 cm/ Profundidade: 29,28 cm/ Peso
+
+
+
+4 pl o
+p w*l
+A "m,uí ES
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+(mínimo): 4,02 kg/ Peso (máximo): 4,72 kg*/ Chassi:
+Material: Aço galvanizado por imersão a quente
+Cores: Malha preta com névoa azul
+
+Wireless: Placa de Rede local sem fio (WLAN)
+Realtek Wi-Fi 6 RTL8852BE taxa de transferência de
+até 1201 Mbps, Wi-Fi 6 (802.11ax) 2x2 e Rede local
+com fio (LAN) Ethernet RJ45 Gigabit 10/100/1000
+Mbps | com Bluetooth&/ Energia: Fonte de
+alimentação interna Bronze de 180 W
+
+Garantia: Garantia on-site do fabricante do
+equipamento.
+
+período de garantia de 12 (doze) meses.
+
+MONITOR 24”
+
+Informações Técnicas
+
+Tamanho da visualização diagonal 23,8"
+Área de exibição predefinida (H x V) Unidade 5
+527,04 mm x 296,46 mm (20,75" x 11,67")
+Área:156.246,28 mmº? (242,18 polegadas”)
+
+Tipo de painel: Tecnologia In-Plane Switching (IPS)/
+Revestimento da tela do monitor/ Antirreflexo com
+resistência 3H
+
+Resolução máxima predefinida1920 x 1080/ Taxa de
+atualização: 100 Hz
+
+Ângulo de visão: 178” vertical/178 horizontal
+Distância entre pixels: 0,2745 mm x 0,2745 mm/
+Pixels por polegada (PPTJ): 92,53
+
+Taxa de contraste: 1500:1 (típica)
+
+Taxa de proporção: 16:9
+
+Tecnologia de retroiluminação
+
+Sistema LED com borda iluminada
+
+Brilho: 250 cd/mº (típico)
+
+Tempo de resposta 5 ms cinza a cinza (modo rápido)
+8 ms cinza a cinza (modo normal)
+
+Suporte a cores: Até 16,7 milhões de cores
+
+Gama de cores: 99% de sRGB
+
+TÚV Eye Comfort: Sim, 4 estrelas
+
+Sem cintilação/ Sim Conectividade
+
+1 porta HDMI 1.4 (HDCP 1.4) (compatível com
+resolução Full HD de 1920 x 1080 a 100 Hz TMDS,
+
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+como especificado no HDMI 1.4)
+
+1 porta DP 1.2 (HDCP 1.4)/ 1 porta VGA
+
+1  portaUSB 3.2 Type-B de 1º geração para upstream/ 3
+portas USB 3.2 Type-A de 1º geração para downstream/ 1
+porta USB 3.2 Type-C de 1º geração para downstream com
+PD de até 15 W (somente dados)
+
+Alto-falante integrado: Não
+
+Power Delivery via USB: Sim, até 15 W via porta
+
+USB-C para downstream
+
+Ajustes: Altura, inclinação, rotação e giro
+
+Altura: Até 150 mm (5,9")/ Inclinação: -5 /+21”
+
+Rotação: -45 /+45 / Giro: -90 /+90”
+
+Compatibilidade com o Dell Display Manager: Sim,
+
+com o EasyArrange
+
+Gerenciamento remoto de ativos: Sim
+
+Tensão exigida: 100 VCA a 240 VCA/50 Hz ou 60
+
+Hz + 3 Hz/1,5 A (típica)
+
+Consumo de energia (operacional) (típico): 0,3 W
+
+(modo desligado)
+
+0,3 W (modo de espera)/ 11,7 W (modo ligado)/
+
+65 W (máx.)/ 12 W (Pon) / 38,4 kWh (TEC)
+
+Saída de áudio: Soundbar opcional (vendida
+
+separadamente)
+
+Segurança
+
+Slot de trava de segurança (com base no Kensington
+
+Security Slot””)
+
+Padrões de conformidade
+
+Monitor com certificação ENERGY STAR / EPEAT
+
+GOLD / EPEAT Climate+ / TCO Certified Displays
+
+TCO Certified Edge/ Compatível com RoHS
+
+Monitor sem BFR/PVC (exceto cabos externos)
+
+Vidro sem arsênico; painel sem mercúrio
+
+Interface de montagem da tela plana
+
+VESA (100 mm x 100 mm)
+
+Faixa de temperatura
+
+Operacional: 0 C—- 40 C(32 F- 104 F)
+
+Não operacional: -20 C- 60 C(-4 F- 140 F)
+
+Faixa de umidade
+
+Operacional: 10% — 80% (sem condensação)/ Não
+
+operacional: 5% — 90% (sem condensação)
+
+
+
+: ”
+m> -l
+aÀ Uugi dm R)
+A ”m;uíwm* S
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+Altitude / Operacional: Máxima de 5.000 m
+(16.404 pés)
+Não operacional: Máxima de 12.192 m (40.000 pés)
+O que está incluído
+e 1 painel de monitor
+e 1 baseeriser do suporte
+e | guiadeinstalação rápida
+e —“Informações regulamentares, ambientais e de
+segurança
+Cabos incluídos
+e 1cabodealimentação
+e 1 cabodeDPpara DPde 1,8m
+e 1caboUSB3.2 Type-A para B (upstream) de
+1º geração de 1,8m
+e 1 cabode HDMI para HDMI de 1,8 m
+
+e  Características físicas
+Altura com o suporte (compactado — estendido) /
+364,00 mm — 496,53 mm
+Largura com o suporte: 538,64 mm
+Profundidade com o suporte: 181,75 mm
+Altura sem o suporte: 314,23 mm
+Largura sem o suporte: 538,64 mm
+Profundidade sem o suporte: 50,03 mm
+Peso (somente painel — para montagem VESA):
+3,12 kg
+Peso (com a embalagem): 6,78 kg
+
+* Garantia
+Três anos de Garantia Limitada de Hardware com
+Serviço de Troca Avançada e Troca de Painel
+Premium
+
+NOTEBOOK
+Especificações Completas
+e —Processador
+12º Geração Intel& Core"!M j5-12º geração ou Unidade 1
+superior.
+e Sistema operacional
+Windows 11 Pro, português — Brasil
+e Placadevídeo*
+
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+Intel& UHD com memória gráfica compartilhada
+. FTela
+Full HD de 15.6" (1920 x 1080), 120 Hz, WVA
+e Memória*
+8GB DDR4 (1x8GB) 2666MT/s; Expansível até
+16GB (2 slots so DIMM)
+e Armazenamento
+SSD de 512GB PCle NVMe M.2
+e Cor
+Carbon Black - Preto Carbono
+e Microsoft Office *
+Nenhuma licença do Microsoft Office incluída
+(somente a oferta de avaliação de 30 dias)
+e Software de Segurança *
+McAfeeR& Business Protection - Avaliação de 30 dias
+e —Assistência técnica *
+1 ano de garantia básica via correios
+e Complete Care
+Sem Complete Care
+
+e FTeclado
+Teclado não retroiluminado em português (Brasil)
+e Portas
+
+2 portas USB 3.2 Type-A de 1º geração
+1 porta USB 2.0
+1 tomada de alimentação
+l porta para headset (combinação de fones de ouvido
+e microfone)
+1 porta HDMI 1.4 (a resolução máxima compatível
+com HDMI é de 1920 x 1080 a 60 Hz. Sem saída
+4K/2K)
+e Slots
+1 slot M.2 2230 para placa de WiFi e Bluetooth
+1 slot M.2 2230/2280 para unidade de estado sólido
+1 slot de cartão SD
+e Dimensões
+Altura: 1,609 cm a 2,11 cm
+Largura: 35,85 cm
+Profundidade: 23,49 cm
+Peso: 1,65 kg*
+
+
+
+Pa DG
+A Ner SS D
+Weos ss X#
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+
+Site: www.domingosmartins.es.leg.br
+
+>
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+e Câmera
+Câmera HD de 720p a 30 FPS com microfone único
+integrado
+e Áudioe alto-falantes
+Alto-falantes estéreo, 2 W x 2 =4 W no total
+e Chassi
+Preto Carbono sem leitor de impressão digital
+e Wireless*
+802.11ac 1x1 Wi-Fi, placa de rede wireless com
+Bluetooth&
+e Bateria principal
+Bateria de 3 células e 41 Wh (integrada)
+e Energia”*
+Adaptador CA 65 Watts (Bivolt)
+e Apoioparaasmãos
+Palmrest
+* Regulamentação
+ENERGY STAR
+e Garantia
+garantia on-site do fabricante do equipamento.
+período de garantia de 12 (doze) meses.
+e ItemAdicional
+Teclado e Mouse sem fio original do mesmo
+fabricante do Notebook.
+
+VALOR TOTAL DO LOTE R$
+LOTE 2
+ITTEM ESPECIFICAÇÃO MARCA | UNIDADE | QUANTI | UNITÁRIO | TOTAL
+DADE
+1 IMPRESSORA/TONNER/CILINDRO DE
+IMAGEM Unidade 3
+
+Especificações:
+
+Visor : Ecrã tátil a cores Lexmark e-Task de 4,3
+polegadas (10,9 cm)
+
+Velocidade de Impressão
+
+Mono: 46 ppm (páginas por minuto)
+
+Tempo para Primeira Página
+
+
+
+: pl o
+2R Qp tma N ),
+AULITEIDORESS
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+mono: 6 segundos
+
+Resolução de Impressão
+
+mono: Qualidade de imagem 1.200 x 1.200 ppp,
+Qualidade de imagem 2.400, 600 x 600 ppp
+Qualidade de imagem 1.200
+
+Memoória : standard: 2.048 MB / máximo: 2.048
+MB
+
+Disco Rígido : Incluído na configuração
+Volume de Páginas Mensal Recomendado
+2.000 - 15.000 Páginas
+
+Ciclo de Vida Mensal Máximo
+
+Até: 120.000 Páginas ao mês
+
+Velocidade de Cópia
+
+Até: mono: 44 cpm(A4) / mono: 46 cpm (carta)
+Tempo para a primeira cópia
+
+mono: mono: 6 segundos
+
+Tipo de Scanner / Digitalização
+
+Scanner de base plana com ADF / ADF: DADF
+(duplex de passagem única)
+
+A4/Ltr Simplex velocidade digitalização: Até:
+mono: 42 / 45 Lados por minuto / cor: 22 / 24
+Lados por minuto
+
+A4/Ltr Duplex velocidade digitalização
+
+Até: mono: 84 / 90 Lados por minuto / cor: 44 / 48
+Lados por minuto
+
+Capacidade de alimentação: Cópia/Fax/
+Digitalização
+
+Até: ADF: 50 páginas 20 Ib ou 75 gsm bond
+Envio de fax: Velocidade do Modem
+
+ITU T.30, V.34 Half-Duplex, 33.6 Kbps
+Capacidades dos toners
+
+até: Toner para 6.000 páginas, Toner de elevada
+capacidade para 15.000 páginas, Toner de alto
+rendimento de 20.000 páginas, Toner de
+capacidade ultra para 25.000 páginas
+Capacidade Estimada da unidade de
+processamento de imagens
+
+até: 60.000 páginas, baseada na média de 3
+páginas tamanho carta/A4 por trabalho de
+
+
+
+: pl o
+2R Qp tma N ),
+AULITEIDORESS
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+impressão com uma cobertura de
+aproximadamente 5%.
+
+Consumíveis entregues com o equipamento
+
+Toner Starter com Programa de Retorno para
+6.000 páginas
+
+Manuseamento de papel incluído
+
+Entrada 550 folhas, Alimentador multifuncional de
+100 folhas, Duplex integrado, Tabuleiro de saída
+para 250 folhas
+
+Manuseamento de papel opcional
+
+Bandeja de entrada de 250 folhas, Bandeja com
+trava para 550 folhas, Bandeja para 550 folhas
+Capacidade de alimentação de papel
+
+Até: standard: 350 páginas 20 Ib ou 75 gsm bond /
+máximo: 2.000 páginas 20 Ib ou 75 gsm bond
+
+350 páginas 20 Ib ou 75 gsm bond
+
+Capacidade saída de papel
+
+Até: standard: 150 páginas 20 Ib ou 75 gsm bond /
+máximo: 150 páginas 20 Ib ou 75 gsm bond
+
+Tipos de papel suportados
+
+Cartolina, Envelopes, Papel etiquetas, Papel
+normal, Transparências, Refer to the Paper &
+Specialty Media Guide
+
+Tamanhos de papel suportados
+
+Etiquetas de Papel, Cartolina, Papel comum,
+Transparências, Envelopes, Consulte o Guia de
+Papel e Mídia Especializada
+
+Conectividade standard
+
+Um Card Slot interno, Porta USB 2.0 com
+certificação de alta velocidade (Tipo B), Gigabit
+Ethernet (10/100/1000), Porta USB 2.0 frontal
+com certificação de alta velocidade (Tipo A), Porta
+USB traseira de alta velocidade certificada com a
+especificação USB 2.0(Tipo A)
+
+Conectividade rede opcional / Conectividade
+opcional
+
+Opção Marknet N8372 WiFi / RS-232C série
+interno, 1284-B paralelo bidirecional interno
+
+- Cada impressora deve conter 2 Kits de
+
+
+
+a ..
+QMTA
+— »
+
+Câmara Municipal de Domingos Martins
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+suprimento, sendo (Cartucho de toner inicial e
+Unidade de Imagem original do fabricante).
+Garantia do produto
+
+01 ano de garantia — Serviço Onsite.
+
+IMPRESSORA TÉRMICA DE ETIQUETA
+
+- A impressora deve conter 5 kits de suprimento,
+sendo (Etiqueta e Ribbons);
+
+Método de impressão por transferência térmica e Unidade
+impressão térmica direta
+
+Linguagens de programação ZPL e EPL
+
+Um único indicador de status de LED
+
+Um único botão de avançar/pausar
+
+Conectividade por USB
+
+OpenACCESS para fácil carregamento de mídia
+Construção com estrutura de parede dupla
+Qualificação de ENERGY STAR
+
+- Conectividade: USB
+
+- Etiquetas: Até 104mm de largura
+
+- Ribbons: Até 110mm de largura; até 74m de
+comprimento
+
+- Tecnologia de Impressão: Transferência Térmica
+- Resolução de Impressão: 203dpi
+
+- Velocidade de Impressão: 102mm/s
+
+- Memória RAM: 128 MB
+
+- Memória Flash: 256 MB
+
+- Ambiente de Operação: Temperatura: de 4,4 ºC a
+41 ºC; Umidade: de 5% até 95% sem
+
+- Dimensões: 267 mm C x 197 mm Lx 191 mm AÀ
+Garantia: 2 Anos do fabricante - Serviço Onsite.
+
+=
+
+VALOR TOTAL DO LOTE R$
+
+LOTE 3
+
+ITEM ESPECIFICAÇÃO MARCA | UNIDADE | QUANT | UNITÁRIO | TOTAL
+IDADE
+
+1 Nobreak 720 VA
+Potência: 720 va; Capacidade: 720 va; Tensão Unidade 13
+nominal Vac: 120 Vac; Variação máxima Vac: 90 a
+
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+145 Vac; Frequência 60 Hz 5%; Cabo de força
+Plugue tripolar de acordo com a norma nbr 14136;
+Fator de potência: 0,5; Tensão nominal Vac em
+modo bateria: 120 Vac 10%; Tempo de
+transferência: < 10 ms; Frequência no modo;
+bateria: 60 Hz 1%; Forma de onda no modo bateria:
+Senoidal por aproximação (retangular pwm -
+controle de largura de pulso); Tomadas de saída: 4
+tomadas (tripolar), de acordo com norma nbr 14136
+Proteção contra sobretensão/subtensão na entrada
+ac: Passa a operar em modo bateria
+
+Proteção contra descarga/sobrecarga de bateria:
+Descarga até 10,5 Volts; fusível de rede: 10 A
+Proteção contra sobrecarga na saída: Incorporado
+Bateria Quantidade/capacidade: 1 bateria 12 Vde/7
+Ah
+
+Led vermelho: Piscando indica sobrecarga na saída
+Led amarelo: Aceso indica que nobreak foi
+desligado em função de curto-circuito ou
+sobrecarga na saída, piscando indica modo
+bateria/carga de bateria
+
+Led verde: Aceso indica modo de rede
+
+Indicação de nobreak em modo bateria: Sinal
+sonoro emitido a cada 10 segundos
+
+ROTEADOR WIRELESS ACESS POINT
+Características técnicas
+
+- Funções Mu-MiMo, Beamforming e Fast
+Roaming Unidade
+- Amplo alcance de até 450m?
+
+- Suporta até 350 usuários simultâneos
+
+- Gerenciamento facilitado por interface Web,
+Software de gerenciamento ou Aplicativo
+
+- Tecnologia PoE para instalação otimizada: 802.3at
+- Velocidade de 1200 Mbps com tecnologia Dual
+Band AC
+
+- Garantia: 1 Ano
+
+=
+
+
+
+Estado do Espírito Santo
+
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+TELEFONE IP
+
+Especificações técnicas genéricas
+
+- Contas SIP 2
+
+- Alimentação PoE IEEE 802.3af Ativo
+
+- Display 128x48 pixels, monocromático com
+backlight - Teclas programáveis 2 teclas (L1 e L2)
+Teclas softkeys 4 - Agendas 1000 contatos;
+Agenda remota (XML/LDAP) - Funções
+WhiteList; Blacklist; Não Perturbe; Mudo; Hold;
+Chamada em Espera; Intercom; Chamada anônima;
+Desvio; Transferência; Rediscagem; Correio de
+voz; Conferência; HotLine; Agenda; Histórico de
+chamadas; SIP Hotspot; Multicast; Funções
+periódicas.
+
+- Histórico de chamadas Recebidas; Geradas;
+Perdidas e Desviadas
+
+- Status do Sistema Indicações visuais através de
+LED de status e Display
+
+- Desvios Se ocupado, se não atende e sempre
+
+- Transferência Cega e/ou com atendimento.
+Especificações técnicas de rede
+
+- Interface LAN e WAN 10/100/1000 Mbps — RJ45
+VLAN
+
+- Compatível com IEEE 802.1Q Configurações e
+atualizações
+
+- Através do navegador web ou teclado do aparelho
+/ display Modo IP
+
+- Estático; DHCP; PPPoE Protocolo de Internet / -
+IPV4 e IPV6
+
+- Protocolos VoIP TCP e UDP; DNS; DNS-SRV;
+NAT; STUN; VLAN; TLS; QoS; LLDP/LLDP-
+MED; OpenVPN;
+
+- Auto provisionamento Opção DHCP;
+HTTP/HTTPS; FTP; TFTP; RTP/RTCP/SRTP;
+SNTP; TR069
+
+- Protocolo SIP SIP 2.0 Modo de operação de rede
+Bridge
+
+Especificações técnicas de áudio
+
+- Qualidade de áudio CNG, VAD, cancelamento de
+
+Unidade
+
+—
+
+
+
+F.
+2À Opg —— «Xª'f ”
+UTS
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+eco, PLC (Ocultação de perda de pacotes) e AGC
+(Controle de Ganho Automático)
+
+- CODECs G.711A, G.711U, G.726-16, G.726-2A,
+G.726-32, G.726-40, G.729AB, iLBC, OPUS e
+G.722 (HD voice)
+
+- Método DTMF DTMEF: In-band, Out-of-Band —
+DTMF-Relay(RFC2833) / SIPINFO
+
+- Formas de atendimento Viva-Voz, Headset (RJ9) e
+monofone
+
+Especificações técnicas do produto
+
+- Dimensões (Lx A x P) 181 x 175.5 x 184.4 mm
+Peso 644 g
+
+- Fonte de alimentação Entrada: 100 a 240 Vac / 50-
+60Hz Saída: 5V/0,6A
+
+- Potência de consumo máxima 3 W
+
+- Temperatura de operação 0ºC — 45ºC Humidade
+10% — 95%
+
+VALOR TOTAL DO LOTE R$
+
+LOTE 4
+
+ITEM ESPECIFICAÇÃO MARCA | UNIDADE [ QUANT | UNITÁRIO | TOTAL
+IDADE
+
+1 BATERIA P/ MICROFONE
+
+Modelo: KADOSHI K5M Unidade 4
+1200mAh, 3.7 V, 4.4 Wh
+2 SSD 512GB Unidade 2
+
+Especificações principais:
+
+Capacidade: 512GB
+
+Intaface: SATA III 6Gbp/s
+
+Velocidade de leitura: até 550MB/s
+Velocidade de gravação: até S00MB/s
+Tecnologia NAND 3D TLC para maior
+durabilidade
+
+3 HD EXTERNO 2TB Unidade 1
+Interfaces de Conexão: USB 3.0
+
+
+
+'O e *
+A À
+o "meos a0 K>
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+Acessórios Incluídos: Cabo Usb 3.0
+Transferência de Leitura: 5.0 Gb/s
+
+Taxa de Velocidade: 5400 rpm
+
+Taxa de Transferência: Máximo: 100 MB/s
+Tecnologia de Armazenamento: HDD
+Garantia: 12 Meses
+
+PEN DRIVE 16GB Unidade 2
+Capacidade: 16GB
+
+Conexão: USB 3.0 para transferência rápida de
+dados
+
+Garantia do vendedor: 90 dias
+
+CABO DE REDE Unidade 10
+TAMANHO: | Metro
+
+CATEGORIA: CAT5e
+
+CAPA: Injetadas para evitar "fadiga no cabo" em
+movimentos na conexão
+
+VELOCIDADE DE TRANSFERÊNCIA: 1 GBPS/
+CONECTOR: RJ45 CAT5e
+
+CONFIGURAÇÃO: T-568A
+
+MATERIAL DO CONDUTOR: Alumínio Cobreado
+CCA/ AMBIENTE DE INSTALAÇÃO: Interior
+EMBALAGEM: Única para todos as unidades
+
+CABO DE REDE Unidade 2
+TAMANHO: 10 Metros
+
+CATEGORIA: CAT5e
+
+CAPA: Injetadas para evitar "fadiga no cabo" em
+movimentos na conexão
+
+VELOCIDADE DE TRANSFERÊNCIA: 1 GBPS/
+CONECTOR: RJ45 CAT5e
+
+CONFIGURAÇÃO: T-568A
+
+MATERIAL DO CONDUTOR: Alumínio Cobreado
+CCA/ AMBIENTE DE INSTALAÇÃO: Interior
+EMBALAGEM: Única para todos as unidades
+
+CABO DE REDE Unidade 2
+TAMANHO: 20 Metros
+
+CATEGORIA: CAT5e
+
+CAPA: Injetadas para evitar "fadiga no cabo" em
+movimentos na conexão
+
+VELOCIDADE DE TRANSFERÊNCIA: 1 GBPS/
+
+
+
+F)
+: ª'f f
+NSS
+»
+
+tº —
+MTS
+
+Câmara Municipal de Domingos Martins
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+CONECTOR: RJ45 CAT5e
+
+CONFIGURAÇÃO: T-568A
+
+MATERIAL DO CONDUTOR: Alumínio Cobreado
+CCA/ AMBIENTE DE INSTALAÇÃO: Interior
+EMBALAGEM: Única para todos as unidades
+
+8 CABO HDMI 1M Unidade 5
+Cabo HDMI 2.1 com suporte a 8$K(060Hz e
+4K(0120Hz, com pontas banhadas em ouro e
+revestimento de PVC.
+
+Certificação: Ultra High Speed HDMI Cable.
+
+9 CABO HDMI 5M Unidade 2
+Cabo HDMI 2.1 com suporte a 8$K(060Hz e
+4K(0120Hz, com pontas banhadas em ouro e
+revestimento de PVC.
+
+Certificação: Ultra High Speed HDMI Cable.
+
+10 | CABO HDMI 20M Unidade 3
+Cabo HDMI 2.1 com suporte a 8$K(060Hz e
+4K(0120Hz, com pontas banhadas em ouro e
+revestimento de PVC.
+
+Certificação: Ultra High Speed HDMI Cable.
+
+11 FILTRO DE LINHA RÉGUA RACK Unidade 3
+Quantidade: 6 Tomadas
+
+Tensão Operação: 127/220v (Bivolt)
+
+Tensão de Entrada: 127 / 1270 W
+Tensão de Entrada: 220 / 2200 W
+Comprimento do Cabo: até 1,2M
+Fusível: 10A MAX
+Certificações: Inmetro / Norma ABNT NBR 14136
+Condutor: Cobre Eletrolítico / PVC
+Tomada: Injetada em PP com terminais em latão
+Gabinete: Injetado em ABS
+Plugue: Injetado em PVC com terminais em latão
+niquelado
+Garantia: 3 meses
+
+12 | EXTENSÃO ELÉTRICA TRIPOLAR Unidade 3
+
+Comprimento do Cabo: 3 Metros
+Quantidade de tomadas: 3
+Corrente Máxima: 10A
+
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+13
+
+CAIXA DE SOM USB Unidade 3
+Tipo de alto-falante: ativo.
+Possui conectividade Bluetooth.
+Bateria recarregável.
+
+Potência de 5W.
+
+Conector de entrada: USB.
+
+VALOR TOTAL DO LOTE R$
+
+TERMO DE REFERÊNCIA
+EQUIPAMENTOS E ITENS DE INFORMÁTICA
+
+1. DAS CONDIÇÕES GERAIS DA CONTRATAÇÃO (art. 6º, XXIIL, “a” e “i” da Lei n.
+
+14.133/2021).
+
+1.1 O prazo de vigência da contratação é de 15 dias úteis contados da Autorização de Fornecimento,
+na forma do artigo 105 da Lei nº 14.133/2021.
+
+1.2 Visando a Viabilidade técnica e econômica e a Ampliação da competitividade afim de
+promover maior competitividade e potencialmente preços mais vantajosos para a
+Administração Pública, a presente aquisição será realizada por lotes, agrupados com
+características e funções similares, facilitando a cotação, comparação de preços e a gestão do
+contrato, sendo:
+
+Lote 01: (Desktop, Monitor 24”, Notebook);
+
+Lote 02: (Impressora/Tonner/Unidade de Imagem, Impressora de Etiqueta);
+
+Lote 03: (Nobreak, Roteador Acess Point, Telefone Voip);
+
+Lote 04: (Bateria p/ Microfone Kadosh KSM, SSD 512G, HD Externo 2T, Pen drive 16GB, Cabo
+
+de rede 1M cat5e, Cabo de rede 10M cat5e, Cabo de rede 20M cat5e, Cabo HDMI 1m, Cabo HDMI
+
+5m, Cabo HDMI 20m, Filtro de Linha 6 tomadas, Extensão 3m, Caixa de som bluetooth).
+
+1.3 Em caso de discordância existente entre as especificações deste objeto descritas no Compras.gov
+e as constantes deste Termo de Referência, prevalecerão as últimas;
+
+2. FUNDAMENTAÇÃO E DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO (art. 6º,
+inciso XXIII, alínea “b”, da Lei nº 14.133/2021).
+
+2.1. O objetivo deste Termo de Referência é orientar o processo de equipamentos de informática sob
+demanda a fim de proporcionar melhorias na infraestrutura de TI para atender ao crescimento e
+desenvolvimento de todas as unidades administrativas desta Casa de Leis.
+
+2.2. Esta aquisição busca, portanto, não apenas substituir os equipamentos que alcançaram o fim de
+seu ciclo útil, mas também garantir a manutenção constante de todos os dispositivos, assegurando seu
+
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+desempenho. Isso inclui aprimoramentos para acompanhar a evolução das demandas dos setores e
+dos serviços oferecidos, mantendo-os atualizados e funcionando de maneira eficaz, frente à constante
+evolução tecnológica.
+
+3. DESCRIÇÃO DA SOLUÇÃO COMO UM TODO CONSIDERADO O CICLO DE VIDA
+DO OBJETO E ESPECIFICAÇÃO DO PRODUTO (art. 6º, inciso XXIII, alínea “c”, e art. 40,
+$1º, inciso 1, da Lei nº 14.133/2021)
+
+3.1.
+
+3.2.
+
+3.3.
+
+AÀ aquisição dos itens tecnológicos listados é fundamental para modernizar e otimizar a
+infraestrutura de TI desta Câmara, garantindo maior eficiência, segurança e produtividade nas
+atividades diárias.
+
+Os equipamentos visam atender às necessidades de suporte às operações, facilitar a comunicação
+interna e externa, além de assegurar a continuidade dos trabalhos em caso de falhas ou quedas
+de energia
+
+A substituição ou complementação de equipamentos obsoletos e a ampliação da capacidade de
+armazenamento, processamento e conectividade são essenciais para manter a competitividade e
+a qualidade dos serviços oferecidos. A aquisição também busca atender às demandas de trabalho
+remoto, melhorar a comunicação interna e garantir maior segurança na rede e nos dados.
+
+4. REQUISITOS DA CONTRATAÇÃO (art. 6º, XXIIL, alínea “dº, da Lei nº 14.133/21)
+
+4.1.
+
+4.2.
+
+4.3.
+
+4.4.
+
+4.5.
+
+4.6.
+
+O prazo de entrega dos bens é de 15(quinze) dias úteis, contados da Autorização de Fornecimento, em
+remessa única.
+
+Caso não seja possível a entrega na data assinalada, a empresa deverá comunicar as razões respectivas
+com pelo menos 10(dez) dias de antecedência para que qualquer pleito de prorrogação de prazo seja
+analisado, ressalvadas situações de caso fortuito e força maior.
+
+Os bens deverão ser entregues no seguinte endereço Câmara Municipal de Domingos Martins, Avenida
+Senador Jefferson de A guiar, nº 27, Domingos Martins-ES, CEP 29260-000, Unidade de Almoxarifado.
+
+Os bens serão recebidos provisoriamente, de forma sumária, no prazo de 2(dois) dias, pelo(a) responsável
+do setor de TI
+
+, para efeito de posterior verificação de sua conformidade com as especificações constantes neste Termo
+de Referência e na proposta.
+
+Os bens poderão ser rejeitados, no todo ou em parte, quando em desacordo com as especificações
+constantes neste Termo de Referência e na proposta, devendo ser substituídos no prazo de 10(dez)dias
+úteis, a contar da notificação da contratada, às suas custas, sem prejuízo da aplicação das penalidades.
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+4.7. Os bens serão recebidos definitivamente no prazo de 2(dois) dias, contados do recebimento provisório,
+
+após a verificação da qualidade e quantidade do material e consequente aceitação mediante termo
+detalhado por servidor designado.
+
+4.8. Na hipótese de a verificação a que se refere o subitem anterior não ser procedida dentro do prazo fixado,
+
+reputar-se-á como realizada, consumando-se o recebimento definitivo no dia do esgotamento do prazo.
+
+4.9. O recebimento provisório ou definitivo não excluirá a responsabilidade civil pela solidez e pela segurança
+
+do serviço nem a responsabilidade ético-profissional pela perfeita execução do contrato.
+
+FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR (art. 6º, inciso XXIII, alínea
+“h, da Lei nº 14.133/2021)
+
+5.1. O fornecedor será selecionado por meio da realização de procedimento de pregão eletrônico, que culminará com a
+
+seleção da proposta de menor preço;
+
+5.2. Para a presente aquisição optou-se pelo parcelamento do objeto, constituído por quatro lotes, agrupados com
+
+características e funções similares, facilitando a cotação, comparação de preços e a gestão do contrato, o fornecedor
+poderá ofertar a quantidade de lotes que desejar, a saber:
+5.2.1. Lote 1: Desktop, Monitor 24”, Notebook;
+5.2.2. Lote 2: Impressora/Tonner/Unidade de Imagem, Impressora de etiqueta;
+5.2.3. Lote 3: Nobreak, Roteador Acess Point, Telefone Voip;
+5.2.4. Lote 4: Bateria para microfone Kadosh KSM, SSD 512G, HR Externo 2T, Pen — Drive 16GB, Cabo de Rede
+IM cat5e, Cabo de Rede 10M cat5e, Cabo de Rede 20M cat5e, cabo HDMI I1IM, Cabo HDMI 5M, Cabo
+HDMI 20M, Filtro de Linha 6 tomadas, Extensão 3M, Caixa de Som Bluetooth.
+5.3. As exigências de habilitação jurídica, fiscal, social e trabalhista são as usuais para a generalidade dos objetos,
+conforme disciplinado, nos moldes previstos no Aviso de Licitação Eletrônica que será publicado no Portal Nacional
+de Compras Públicas (PNCP).
+
+6. DAS OBRIGAÇÕES E RESPONSABILIDADES DA CONTRATADA
+
+6.1. Cumprir todas as obrigações constantes do Termo de Referência e seus anexos, assumindo como exclusivamente
+seus os riscos e as despesas decorrentes da boa e perfeita execução do objeto;
+
+6.2. Responsabilizar-se pelo cumprimento de todas as obrigações trabalhistas, previdenciárias, fiscais, comerciais e as
+demais previstas em legislação específica, cuja inadimplência não transfere a responsabilidade ao contratante e não
+poderá onerar o objeto do contrato.
+
+7. DAS OBRIGAÇÕES E RESPONSABILIDADES DO CONTRATANTE
+
+7.1. Cumprir todos os compromissos financeiros assumidos com a CONTRATADA, efetuando os pagamentos de
+acordo com o estabelecido;
+
+7.2 - Fornecer e colocar à disposição da CONTRATADA todos os elementos e informações que se fizerem necessários
+
+à execução da contratação;
+
+7.3 - Notificar, formal e tempestivamente a CONTRATADA sobre as irregularidades observadas no cumprimento da
+contratação;
+
+7.4 - Notificar a CONTRATADA, por escrito e com antecedência, sobre multas, penalidades e quaisquer débitos de
+sua responsabilidade;
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+7.5 - Responsabilizar-se pelos danos causados diretamente à CONTRATADA ou a terceiros, decorrentes de sua culpa
+ou dolo na execução da contratação;
+
+7.6 - Acompanhar, inspecionar e fiscalizar a contratação, notificando a Contratada para corrigir as irregularidades ou
+defeitos encontrados na Prestação dos Serviços.
+
+8. DOS CRITÉRIOS DE MEDIÇÃO PARA PAGAMENTO
+8.1. O pagamento dos produtos poderá ser feito por depósito em conta na instituição bancária, em até 5 (cinco) dias,
+após recebimento definitivo pela unidade requisitante do objeto, mediante apresentação da Nota Fiscal, devidamente
+aprovada, juntamente com a comprovação da regularidade fiscal exigidos pelo art. 68 da Lei nº 14.133/2021.
+8.2. O Fornecedor deverá, obrigatoriamente, emitir Nota Fiscal/Fatura com CNPJ idêntico ao apresentado para fins de
+habilitação e consequentemente lançado na Nota de Empenho e no futuro Contrato.
+
+8.3. As notas fiscais/faturas que apresentarem incorreções serão devolvidas ao Fornecedor e seu pagamento ocorrerá
+após a data de sua reapresentação válida.
+
+9. DAS PENALIDADES
+9.1- A Contratada deverá observar rigorosamente as condições estabelecidas para aquisição do material,
+
+sujeitando-se às penalidades constantes nos artigos 155, 156 e seguintes da Lei nº 14.133/2021.
+
+9.2 Comete infração administrativa, nos termos da Lei nº 14.133, de 2021, a Contratada que:
+
+a)
+D)
+
+c)
+d)
+
+º)
+
+>)
+
+g)
+
+b
+
+)
+k)
+D
+
+der causa à inexecução parcial do contrato;
+
+der causa à inexecução parcial do contrato que cause grave dano à Administração ou ao
+funcionamento dos serviços públicos ou ao interesse coletivo;
+
+der causa à inexecução total do contrato;
+deixar de entregar a documentação exigida para o certame;
+
+não manter a proposta, salvo em decorrência de fato superveniente devidamente
+Justificado;
+
+não celebrar o contrato ou não entregar a documentação exigida para a contratação,
+quando convocado dentro do prazo de validade de sua proposta;
+
+ensejar o retardamento da execução ou da entrega do objeto da contratação sem motivo
+Justificado;
+
+apresentar declaração ou documentação falsa exigida para o certame ou prestar
+declaração falsa durante a dispensa eletrônica ou execução do contrato;
+
+fraudar a contratação ou praticar ato fraudulento na execução do contrato;
+comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+praticar atos ilícitos com vistas a frustrar os objetivos da contratação;
+
+praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013.
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+9.2.1. Serão aplicadas ao responsável pelas infrações administrativas acima descritas as seguintes sanções:
+
+1) Advertência, quando o Contratado der causa à inexecução parcial do contrato, sempre que não se
+Justificar a imposição de penalidade mais grave (art. 156, $82º, da Lei);
+
+1) Impedimento de licitar e contratar, quando praticadas as condutas descritas nas alíneas b, c, d,
+e, fe g do subitem acima deste documento, sempre que não se Justificar a imposição de penalidade
+mais grave (art. 156, $4º, da Lei);
+
+111) Declaração de inidoneidade para licitar e contratar, quando praticadas as condutas descritas
+nas alíneas h, 1,), k e 1 do subitem acima deste documento, bem como nas alíneas b, c, d, e, feg,
+que Jjustifiquem a imposição de penalidade mais grave (art. 156, $5º, da Lei)
+
+iv) Multa:
+(1) moratória de 0,5% (meio por cento) por dia de atraso injustificado sobre o valor da parcela
+inadimplida, até o limite de 30 dias;
+(2) compensatória de 10% (dez por cento) sobre o valor total do contrato, no caso de inexecução
+total do objeto;
+9.3 - da aplicação de penalidades caberá recurso, conforme disposto no art. 157 e 158 da Lei nº
+14.133/2021;
+
+9.4 - as sanções administrativas somente serão aplicadas pelo CONTRATANTE após a devida notificação
+e o transcurso do prazo estabelecido para a defesa prévia;
+
+9.5 - a notificação deverá ocorrer pessoalmente ou por correspondência com aviso de recebimento, onde
+será indicada a conduta considerada irregular, a motivação e a espécie de sanção administrativa que se
+pretende aplicar, o prazo e o local de entrega das razões de defesa;
+
+10. ESTIMATIVAS DO VALOR DA CONTRATAÇÃO
+
+10.1. O custo estimado total da contratação é de R$ 77.105,00 (setenta e sete mil, cento e cinco reais).
+
+11. ADEQUAÇÃO ORÇAMENTÁRIA
+
+11.1. As despesas decorrentes da presente contratação correrão à conta de recursos específicos consignados no
+Orçamento da Câmara Municipal de Domingos Martins/ES.
+11.1.1 A contratação será atendida pelas seguintes dotações:
+
+As despesas decorrentes da aquisição de itens de informática, ocorrerão por conta de dotação
+orçamentária prevista no Orçamento da Câmara Municipal de Domingos Martins para o exercício de
+2025, dotação 010001.0103100012.001 — Manutenção dos Serviços Administrativos da Câmara
+Municipal, 44905200000 Material permanente -ficha 24.
+
+
+F)
+
+À ee dn sh”
+
+NQMLIT w—“wxv,á“—'
+— S
+
+Câmara Municipal de Domingos Martins
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+E dotação orçamentária 010001.0103100012.001/33903000000 - Manutenção dos Serviços
+Administrativos da Câmara Municipal - Ficha 09 — Material de Consumo.
+
+11.2 Esta despesa trata-se de despesa ordinária e rotineira da administração, já prevista no orçamento
+(item nº 38/2025 do PCA) e destinada à manutenção dos serviços administrativos não envolvendo
+criação, expansão ou aperfeiçoamento de ação governamental.
+
+12 - DA PROTEÇÃO DE DADOS PESSOAIS
+
+12.1 - As PARTES, por si e por seus colaboradores, obrigam-se a atuar no presente contrato em
+conformidade com a legislação vigente sobre Proteção de Dados Pessoais e as determinações de órgão
+reguladores e/ou fiscalizadores sobre a matéria, em especial, a Lei Federal nº 13.709/2018.
+
+12.2 - no presente contrato, a CONTRATANTE assume o papel de controlador, nos termos do artigo
+5º, VI da Lei nº 13.709/2018, e a CONTRATADA assume o papel de operador, nos termos do artigo
+5º, VII da Lei nº 13.709/2018.
+
+12.3 - a CONTRATADA deverá guardar sigilo sobre os dados pessoais compartilhados pela
+CONTRATANTE e só poderá fazer uso dos dados exclusivamente para fins de cumprimento do
+objeto deste contrato, sendo-lhe vedado, a qualquer tempo, o compartilhamento desses dados sem a
+expressa autorização da CONTRATANTE, ou o tratamento dos dados de forma incompatível com as
+finalidades e prazos acordados.
+
+12.4 - as PARTES deverão notificar uma à outra, por meio eletrônico, em até 2 (dois) dias úteis, sobre
+qualquer incidente detectado no âmbito de suas atividades, relativo a operações de tratamento de
+dados pessoais.
+
+12.5 - as PARTES se comprometem a adotar as medidas de segurança administrativas, tecnológicas,
+técnicas e operacionais necessárias a resguardar os dados pessoais que lhe serão confiados, levando
+em conta as diretrizes de órgãos reguladores, padrões técnicos e boas práticas existentes.
+
+12.6 -a CONTRATANTE terá o direito de acompanhar, monitorar, auditar e fiscalizar a conformidade
+da CONTRATADA, diante das obrigações de operador, para a proteção de dados pessoais referentes
+à execução deste contrato.
+
+12.7 - as PARTES ficam obrigadas a indicar encarregado pela proteção de dados pessoais, ou
+preposto, para comunicação sobre os assuntos pertinentes à Lei nº 13.709/2018, suas alterações e
+regulamentações posteriores.
+
+12.8 - as PARTES darão conhecimento formal a seus empregados e colaboradores das obrigações e
+condições acordadas nesta cláusula. As diretrizes aqui estipuladas deverão ser aplicadas a toda e
+qualquer atividade que envolva a presente contratação.
+
+
+Câmara Municipal de Domingos Martins
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+13. APÊNDICES
+13.1 — Constam como apêndices a este termo:
+
+- Estudo Técnico Preliminar (ETP)
+- Análise de Riscos
+14. RESPONSÁVEL PELA ELABORAÇÃO DO TERMO DE REFERÊNCIA
+Giane Maria de Aguiar, Matrícula nº 884, Assessor Administrativo e Legislativo (nível III).
+Município de Domingos Martins, 5 de junho de 2025.
+Exmº. Sr. Presidente Diogo Endlich
+
+Encaminho para análise e aprovação de V. Ex*. o Termo de Referência relacionado à aquisição de itens de
+informática para a Câmara Municipal de Domingos Martins.
+
+THAMIRES SUELI DO NASCIMENTO RASSELI
+Diretora Administrativa, Legislativa e de Cerimonial
+Matrícula 376
+
+15. APROVAÇÃO DO TERMO DE REFERÊNCIA
+À Diretora Administrativa Legislativa e de Cerimonial
+
+Na qualidade de ordenador de despesa, aprovo o presente Termo de Referência.
+
+DIOGO ENDLICH
+Presidente
+
+
+o .”
+Ogra =" ”
+MET NSS
+
+Câmara Municipal de Domingos Martins
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+ANEXO II
+
+DECLARAÇÃO DE SUJEIÇÃO ÀS CONDIÇÕES ESTABELECIDAS NO EDITAL E DE
+INEXISTÊNCIA DE FATOS SUPERVENIENTES IMPEDITIVOS DA HABILITAÇÃO
+
+Pregão ELETRÔNICO Nº 003/2025
+
+EN (RAZÃO SOCIAL DA EMPRESA), CNPJ
+N , localizada à
+
+........................................... , por intermédio de seu representante legal o(a) SI(a).....issi o
+portador(a)
+
+da Carteira de Identidade Nº ............eÀÍÀÍ e CPF N.n , declara expressamente que se
+
+sujeita às condições estabelecidas no edital acima citado e que acatará integralmente qualquer
+decisão que venha a ser tomada pelo órgão licitante quanto à qualificação apenas das proponentes
+que tenham atendido às condições estabelecidas no edital e que demonstrem integral capacidade
+de executar o fornecimento do bem previsto.
+
+Declara, ainda, para todos os fins de direito, a inexistência de fatos supervenientes impeditivos da
+habilitação ou que comprometa a idoneidade da proponente.
+Local, de de 2025
+
+(NOME, ASSINATURA DO RESPONSÁVEL E CPF)
+
+(PAPEL TIMBRADO E/OU CARIMBO DO CNPJ DA EMPRESA)
+
+
+o .”
+Ogra =" ”
+MET NSS
+
+Câmara Municipal de Domingos Martins
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+ANEXO III
+
+MODELO DE DECLARAÇÃO NOS TERMOS DO INCISO XXXIII DO ARTIGO 7º
+DA CONSTITUIÇÃO FEDERAL DE 1988
+
+Pregão ELETRÔNICO Nº003/2025
+
+À cn (RAZÃO SOCIAL DA EMPRESA), CNPJ
+N , localizada à
+
+........................................... , por intermédio de seu representante legal o(a) SI(a).....iiii£oo,
+portador(a)
+
+da Carteira de Identidade Nº ................ e CPFNº.....úÂÂ , declara, para fins do disposto no
+Inc. VI do art.
+
+Nº 68 da lei Nº 14.133/2021, que não emprega menor de dezoito anos em trabalho noturno,
+perigoso ou insalubre e não emprega menor de dezesseis anos.
+
+Ressalva: ( ) Emprega menor, a partir de quatorze anos, na condição de aprendiz. (1)
+
+Local, de de
+
+(NOME, ASSINATURA DO RESPONSÁVEL E CPF)
+
+(PAPEL TIMBRADO E/OU CARIMBO DO CNPJ DA EMPRESA)
+
+'Observação: em caso afirmativo, assinalar a ressalva acima.
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+ANEXO IV
+DECLARAÇÃO DE ELABORAÇÃO INDEPENDENTE DE PROPOSTA
+
+Pregão ELETRÔNICO Nº 003/2025
+
+portador(a)
+
+da Carteira de Identidade Nº ...l e CPF N.ó , para fins do disposto no edital de
+licitação Pregão ELETRÔNICO Nº 0001/2025, declara, sob as penas da lei, em especial o Art. 299 do
+Código Penal Braisleiro, que:
+
+A) A proposta apresentada para participar do Pregão ELETRÔNICO Nº 001/2025, , foi elaborada de
+maneira independente (pelo licitante), e o conteúdo da proposta não foi, no todo ou em parte, direta ou
+indiretamente, informado, discutido ou recebido de qualquer outro participante potencial ou de fato do
+Pregão ELETRÔNICO Nº 0001/2025, por qualquer meio ou por qualquer pessoa;
+
+B) A intenção de apresentar a proposta elaborada para participar do Pregão ELETRÔNICO Nº 0001/2025
+não foi informada, discutida ou recebida de qualquer outro participante potencial ou de fato do Pregão
+ELETRÔNICO Nº 0001/2025, por qualquer meio ou por qualquer pessoa;
+
+C) Que não tentou, por qualquer meio ou por qualquer pessoa, influir na decisão de qualquer outro
+participante potencial ou de fato do Pregão ELETRÔOÔNICO Nº 0001/2025quanto a participar ou não da
+referida licitação;
+
+D) Que o conteúdo da proposta apresentada para participar do Pregão ELETRÔNICO Nº 0001/2025 não
+será, no todo ou em parte, direta ou indiretamente, comunicado ou discutido com qualquer outro
+participante potencial ou de fato do Pregão ELETRÔNICO Nº 0001/2025 antes da adjudicação do
+objeto da referida licitação;
+
+que o conteúdo da proposta apresentada para participar do Pregão ELETRÔNICO Nº 0001/2025
+não foi, no todo ou em parte, direta ou indiretamente, informado, discutido ou recebido de qualquer
+integrante do município de domingos martins/es, antes da abertura oficial das propostas; e
+
+E) Que está plenamente ciente do teor e da extensão desta declaração e que detém plenos poderes
+e informações para firmá-la.
+
+Local, de de 2025
+(NOME, ASSINATURA DO RESPONSÁVEL E CPF)
+(PAPEL TIMBRADO E/OU CARIMBO DO CNPJ DA EMPRESA)
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+ANEXO V
+DECLARAÇÃO DO PORTE DA EMPRESA (MICROEMPRESA OU EMPRESA DE PEQUENO
+PORTE)
+Pregão ELETRÔNICO Nº 003/2025
+À ssn (RAZÃO SOCIAL DA EMPRESA), CNPJ Nº......icsnsn , localizada à
+........................................... , por intermédio de seu representante legal 0(a) SI(a)....isisi nn
+portador(a)
+da Carteira de Identidade Nº .......lÂÍ[[lÀ E CPF N.ón , DECLARA, sob as penalidades da lei,
+que se
+
+enquadra como microempresa ou empresa de pequeno porte, nos termos do Art. 3º da Lei Complementar Nº 123 de
+14 de dezembro de 2006, estando apta a fruir os benefícios e vantagens legalmente instituídas por não se enquadrar
+em nenhuma das vedações legais impostas pelo $ 4º do Art. 3º da Lei Complementar Nº 123 de 14 de dezembro de
+2006 e pelo artigo 4º da Lei Nº 14.133/2021,
+
+DECLARA, para fins da lc 123/2006 e suas alterações, sob as penalidades desta, ser:
+
+() MICROEMPRESA - receita bruta anual igual ou inferior a r$ 360.000,00 (trezentos e sessenta mil reais) e estando
+apta a fruir os benefícios e vantagens legalmente instituídas por não se enquadrar em nenhuma das vedações legais
+impostas pelo $ 4º do Art. 3º da Lei Complementar Nº 123/06 alterada pela LC 147/2014.
+
+( ) EMPRESA DE PEQUENO PORTE - receita bruta anual superior a R$ 360.000,00 (trezentos e sessenta mil
+reais) e igual ou inferior a R$ 4.800.000,00 (quatro milhões e oitocentos mil reais), estando apta a fruir os benefícios
+e vantagens legalmente instituídas por não se enquadrar em nenhuma das vedações legais impostas pelo $ 4º do art.
+3º da Lei Complementar Nº 123/06 alterada pela LC 147/2014.
+
+OBSERVAÇÕES:
+
+e estadeclaração poderá ser preenchida somente pela licitante enquadrada como ME ou EPP, nos termos da LC
+123, de 14 de dezembro de 2006;
+
+º a não apresentação desta declaração será interpretada como não enquadramento da licitante como ME ou
+EPP, nos termos da LC Nº 123/2006, ou a opção pela não utilização do direito de tratamento diferenciado.
+
+NOME, ASSINATURA DO RESPONSÁVEL LEGAL E CPF ...c
+NOME e ASSINATURA DO CONTADOR
+
+CRC:
+
+(PAPEL TIMBRADO E/OU CARIMBO DO CNPJ DA EMPRESA)
+
+
+Câmara Municipal de Domingos Martins
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+ANEXO VI
+DECLARAÇÃO DE IDONEIDADE
+
+Pregão ELETRÔNICO Nº 003/2025
+
+À ssn (RAZÃO SOCIAL DA EMPRESA), CNPJ Nº.....isccco , localizada
+à
+
+........................................... , por intermédio de seu representante legal o(a) SI(a).....iiise ,
+portador(a)
+
+da Carteira de Identidade Nº ...l CECPFN ssn , DECLARA não ter recebido do
+
+Município de Domingos Martins / ES ou de qualquer outra entidade da administração direta ou indireta, em âmbito
+federal, estadual e municipal, suspensão temporária de participação em licitação e ou impedimento de contratar com
+a administração, assim como não ter recebido declaração de idoneidade para licitar e ou contratar com a administração
+federal, estadual e municipal.
+
+(LOCAL), de de 2025.
+
+(NOME, ASSINATURA DO RESPONSÁVEL E CPF)
+
+
+Câmara Municipal de Domingos Martins
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+ANEXO VII
+
+DECLARAÇÃO DE CUMPRIMENTO DOS REQUISITOS DE HABILITAÇÃO
+
+Pregão ELETRÔNICO Nº 003/2025
+
+À sn (RAZÃO SOCIAL DA EMPRESA), CNPJ Nº......issou. , localizada à
+........................................... , por intermédio de seu representante legal 0(a) SI(a).....iiiinnnnn nn
+portador(a)
+
+da Carteira de Identidade Nº ...lh e CPF N.c , DECLARA, em conformidade com a Lei Federal Nº
+
+14.133/2021, que cumpre todos os requisitos para habilitação para este certame licitatório da Câmara Municipal de
+Domingos Martins - PREGÃO ELETRÔNICO Nº 01/2025.
+
+(LOCAL), de de 2025.
+
+(NOME, ASSINATURA DO RESPONSÁVEL E CPF)
+
+(PAPEL TIMBRADO E/OU CARIMBO DO CNPJ DA EMPRESA)
+
+
+&
+D
+MET NSS
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+ANEXO VIII
+DECLARAÇÃO DE CONTRATOS FIRMADOS COM A ADMINISTRAÇÃO PÚBLICA
+
+Pregão ELETRÔNICO Nº 003/2025
+
+À ssn (RAZÃO SOCIAL DA EMPRESA), CNPJ Nº......icsnsn , localizada à
+........................................... , por intermédio de seu representante legal 0(a) SI(a)...iisinnnni nn
+portador(a) da Carteira de Identidade Nº ..........JÂÀÍÀÍ e CPF Nº...ssosssiis , DECLARA, em conformidade com a lei
+
+Nº 14.133/2021 que possui os seguintes contratos firmados com a Administração Pública no ano-calendário de
+realização desta licitação: (OU: não possui contratos firmados com a Administração Pública no ano calendário de
+realização desta licitação)
+
+Nome do Órgão Vigência do Contrato Valor do Contrato
+Valor total dos Contratos R$ (XXXXXXX,XX)
+(LOCAL), de de 2025.
+
+(NOME, ASSINATURA DO RESPONSÁVEL E CPF)
+
+
+Câmara Municipal de Domingos Martins
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+ANEXO IX
+DECLARAÇÃO DE INEXISTÊNCIA DE SOCIETÁRIO PÚBLICO (MODELO)
+
+Pregão ELETRÔNICO Nº 003/2025
+
+A empresa , estabelecida na Rua , inscrita no CNPJ
+
+nº , declara sob as penas da lei que não
+
+possui em seu quadro societário servidor público da ativa ou empregado de empresa pública ou de sociedade
+
+de economia Mista, do órgão celebrante.
+
+(LOCAL), de de 2025.
+
+(NOME, ASSINATURA DO RESPONSÁVEL E CPF)
+
+(PAPEL TIMBRADO E/OU CARIMBO DO CNPJ DA EMPRESA)
+
+
+Câmara Municipal de Domingos Martins
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+CONTRATO Nº xx/2025
+PROCESSO ADMINISTRATIVO xx/2025
+
+CONTRATO DE PRESTAÇÃO DE SERVIÇO QUE ENTRE SI FAZEM A CÂMARA MUNICIPAL
+DE DOMINGOS MARTINS E A EMPRESA XX:
+
+A CÂMARA MUNICIPAL DE DOMINGOS MARTINS, com sede na Avenida Senador Jefferson de
+Aguiar, nº 27, Centro, Domingos Martins — ES, inscrita no CNPJ nº 27.477.447/0001-02, neste ato
+representado pelo Presidente Sr. Diogo Endlich, brasileiro, portador da Carteira de Identidade nº. 1762086,
+expedida pela SPTC-ES, inscrito no CPF sob o nº. 086.812.807-40, residente e domiciliado à Rua Iracema
+Lyra de Aguiar, 76, Bairro Jefferson de Aguiar, Município de Domingos Martins — ES - CEP: 29260-000,
+doravante denominado CONTRATANTE, e do outro lado, a empresa XX, representada por xx, ora
+denominado CONTRATADO, conforme Ato nº xx/2025 e xx, celebram o presente contrato com fulcro na Lei
+nº 14.133/2021 e suas alterações e demais legislações correlatas:
+
+CLÁUSULA PRIMEIRA - DO OBJETO:
+l. A aquisição dos equipamentos de informática para a Câmara Municipal de Domingos Martins, de
+acordo com as especificações e quantitativos relacionados conforme tabela abaixo:
+
+LOTE 1
+ITEM ESPECIFICAÇÃO MARCA | UNIDADE | QUANTI | UNITÁRIO] TOTAL
+DADE
+
+Desktop
+
+Processador: 12º geração Intel& Core"M 17-12700
+
+(12-Core, Cache de 25MB, 2.1GHz até 4.8GHz), ou
+
+geração superior; Sistema operacional: Windows 11
+
+1 | Pro, português — Brasil; Placa de vídeo: Intel& UHD Unidade 5
+
+Graphics 770; Memória: Memória de 16GB
+(1x16GB), DDR5, 4400MT/s; Expansível até 64GB;
+Armazenamento: SSD de 512GB PCle NVMe M.2;
+Microsoft Office: Ative seu Microsoft 365 para fazer
+um teste de 30 dias; Software de Segurança:
+
+Avaliação de 30 dias do McAfee Business
+
+
+
+F)
+ES
+S
+
+an xª'ç'
+
+H
+QT
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+Protection; Complete Care None; Teclado e Mouse
+Sem fio original da marca; Portas: Parte frontal: 2
+portas USB 2.0 Type-A
+
+1 porta USB 3.2 Type-A de 1º geração
+
+1 porta USB 3.2 Type-C de 1º geração
+
+1 entrada global do headset
+
+Parte traseira: 2 portas USB 2.0 Type-A com suporte
+para ligar/reativar
+
+2 porta USB 3.2 Type-A de 1º geração
+
+1 porta de saída de áudio/ 1 porta DisplayPort 1.4/1
+porta Ethernet RJ45/ 1 porta HDMI 1.4b/ Nota: À
+resolução máxima suportada pela porta HDMI 1.4b é
+de 1920 x 1200./ Unidade óptica: Sem Optical Drive/
+Slots: 1 slot SATA 3.0 para um disco rigido de 3,5
+polegadas
+
+1 slot PCIe x16/ 1 slot PCle x1*
+
+1 slot M.2 2230 para cartão combinado Wi-Fi e
+Bluetooth/ 1 slot M.2 2230/2280 para unidade de
+estado sólido PCIe
+
+Dimensões: Altura: 29,00 cm
+
+Largura: 9,26 cm/ Profundidade: 29,28 cm/ Peso
+(mínimo): 4,02 kg/ Peso (máximo): 4,72 kg*/ Chassi:
+Material: Aço galvanizado por imersão a quente
+Cores: Malha preta com névoa azul
+
+Wireless: Placa de Rede local sem fio (WLAN)
+Realtek Wi-Fi 6 RTL8852BE taxa de transferência de
+até 1201 Mbps, Wi-Fi 6 (802.11ax) 2x2 e Rede local
+com fio (LAN) Ethernet RJ45 Gigabit 10/100/1000
+Mbps | com Bluetooth&/ Energia: Fonte de
+alimentação interna Bronze de 180 W
+
+Garantia: Garantia on-site do fabricante do
+
+equipamento.
+período de garantia de 12 (doze) meses.
+
+MONITOR 24”
+
+Informações Técnicas
+
+Tamanho da visualização diagonal 23,8"
+Área de exibição predefinida (H x V) Unidade 5
+527,04 mm x 296,46 mm (20,75" x 11,67")
+Área:156.246,28 mmº (242,18 polegadas?)
+
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+Tipo de painel: Tecnologia In-Plane Switching (IPS)/
+
+Revestimento da tela do monitor/ Antirreflexo com
+
+resistência 3H
+
+Resolução máxima predefinida1920 x 1080/ Taxa de
+
+atualização: 100 Hz
+
+Ângulo de visão: 178” vertical/178 horizontal
+
+Distância entre pixels: 0,2745 mm x 0,2745 mm/
+
+Pixels por polegada (PPTJ): 92,53
+
+Taxa de contraste: 1500:1 (típica)
+
+Taxa de proporção: 16:9
+
+Tecnologia de retroiluminação
+
+Sistema LED com borda iluminada
+
+Brilho: 250 cd/mº (típico)
+
+Tempo de resposta 5 ms cinza a cinza (modo rápido)
+
+8 ms cinza a cinza (modo normal)
+
+Suporte a cores: Até 16,7 milhões de cores
+
+Gama de cores: 99% de sRGB
+
+TÚV Eye Comfort: Sim, 4 estrelas
+
+Sem cintilação/ Sim Conectividade
+
+1 porta HDMI 1.4 (HDCP 1.4) (compatível com
+
+resolução Full HD de 1920 x 1080 a 100 Hz TMDS,
+
+como especificado no HDMI 1.4)
+
+1 porta DP 1.2 (HDCP 1.4)/ 1 porta VGA
+
+2  porta USB3.2 Type-B de 1º geração para upstream/ 3
+portas USB 3.2 Type-A de 1º geração para downstream/ 1
+porta USB 3.2 Type-C de 1º geração para downstream com
+PD de até 15 W (somente dados)
+
+Alto-falante integrado: Não
+
+Power Delivery via USB: Sim, até 15 W via porta
+
+USB-C para downstream
+
+Ajustes: Altura, inclinação, rotação e giro
+
+Altura: Até 150 mm (5,9")/ Inclinação: -5 /+21”
+
+Rotação: -45"/+45 / Giro: -90 /+90"
+
+Compatibilidade com o Dell Display Manager: Sim,
+
+com o EasyArrange
+
+Gerenciamento remoto de ativos: Sim
+
+Tensão exigida: 100 VCA a 240 VCA/50 Hz ou 60
+
+Hz + 3 Hz/1,5 A (típica)
+
+Consumo de energia (operacional) (típico): 0,3 W
+
+(modo desligado)
+
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+0,3 W (modo de espera)/ 11,7 W (modo ligado)/
+65 W (máx.)/ 12 W (Pon) / 38,4 kWh (TEC)
+Saída de áudio: Soundbar opcional (vendida
+separadamente)
+Segurança
+Slot de trava de segurança (com base no Kensington
+Security Slot””)
+Padrões de conformidade
+Monitor com certificação ENERGY STAR / EPEAT
+GOLD / EPEAT Climate+ / TCO Certified Displays
+TCO Certified Edge/ Compatível com RoHS
+Monitor sem BFR/PVC (exceto cabos externos)
+Vidro sem arsênico; painel sem mercúrio
+Interface de montagem da tela plana
+VESA (100 mm x 100 mm)
+Faixa de temperatura
+Operacional: 0 C—- 40 C(32 F- 104 F)
+Não operacional: -20 C- 60 C(-4 F- 140 F)
+Faixa de umidade
+Operacional: 10% — 80% (sem condensação)/ Não
+operacional: 5% — 90% (sem condensação)
+Altitude / Operacional: Máxima de 5.000 m
+(16.404 pés)
+Não operacional: Máxima de 12.192 m (40.000 pés)
+O que está incluído
+
+e 1 painel de monitor
+
+e 1 baseeriser do suporte
+
+e | guiadeinstalação rápida
+
+e —“Informações regulamentares, ambientais e de
+
+segurança
+
+Cabos incluídos
+
+e 1cabodealimentação
+
+e 1 cabodeDPpara DPde 1,8m
+
+e 1caboUSB3.2 Type-A para B (upstream) de
+
+1º geração de 1,8m
+e 1 cabode HDMI para HDMI de 1,8 m
+
+e  Características físicas
+Altura com o suporte (compactado — estendido) /
+
+
+
+” G ”
+SEA
+LT ÓNA
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+364,00 mm — 496,53 mm
+Largura com o suporte: 538,64 mm
+Profundidade com o suporte: 181,75 mm
+Altura sem o suporte: 314,23 mm
+Largura sem o suporte: 538,64 mm
+Profundidade sem o suporte: 50,03 mm
+Peso (somente painel — para montagem VESA):
+3,12 kg
+Peso (com a embalagem): 6,78 kg
+
+*  Garantia
+Três anos de Garantia Limitada de Hardware com
+Serviço de Troca Avançada e Troca de Painel
+Premium
+
+NOTEBOOK
+Especificações Completas
+e —Processador
+12º Geração Intel& Core"!M j5-12º geração ou Unidade 1
+superior.
+e Sistema operacional
+Windows 11 Pro, português — Brasil
+e Placade vídeo*
+Intel& UHD com memória gráfica compartilhada
+. FTela
+Full HD de 15.6" (1920 x 1080), 120 Hz, WVA
+e Memória*
+8GB DDR4 (1x8GB) 2666MT/s; Expansível até
+16GB (2 slots so DIMM)
+e Armazenamento
+SSD de 512GB PCle NVMe M.2
+e Cor
+Carbon Black - Preto Carbono
+e Microsoft Office *
+Nenhuma licença do Microsoft Office incluída
+(somente a oferta de avaliação de 30 dias)
+e Softwarede Segurança *
+McAfeeR& Business Protection - Avaliação de 30 dias
+e —Assistência técnica *
+1 ano de garantia básica via correios
+e Complete Care
+
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+Sem Complete Care
+
+e FTeclado
+Teclado não retroiluminado em português (Brasil)
+e Portas
+
+2 portas USB 3.2 Type-A de 1º geração
+1 porta USB 2.0
+1 tomada de alimentação
+l porta para headset (combinação de fones de ouvido
+e microfone)
+1 porta HDMI 1.4 (a resolução máxima compatível
+com HDMI é de 1920 x 1080 a 60 Hz. Sem saída
+4K/2K)
+e Slots
+1 slot M.2 2230 para placa de WiFi e Bluetooth
+1 slot M.2 2230/2280 para unidade de estado sólido
+1 slot de cartão SD
+e Dimensões
+Altura: 1,609 cm a 2,11 cm
+Largura: 35,85 cm
+Profundidade: 23,49 cm
+Peso: 1,65 kg*
+e Câmera
+Câmera HD de 720p a 30 FPS com microfone único
+integrado
+* Áudioe alto-falantes
+Alto-falantes estéreo, 2 W x 2 =4 W no total
+e Chassi
+Preto Carbono sem leitor de impressão digital
+e Wireless*
+802.11ac 1x1 Wi-Fi, placa de rede wireless com
+Bluetooth&
+e Bateria principal
+Bateria de 3 células e 41 Wh (integrada)
+e Energia”*
+Adaptador CA 65 Watts (Bivolt)
+e Apoioparaasmãos
+Palmrest
+* Regulamentação
+ENERGY STAR
+
+
+
+-
+% >
+FÁ e )
+a , el
+2À Oeg aa N ),
+QM ªmuíuw o
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+e Garantia
+garantia on-site do fabricante do equipamento.
+período de garantia de 12 (doze) meses.
+
+e TtemAdicional
+Teclado e Mouse sem fio original do mesmo
+fabricante do Notebook.
+
+VALOR TOTAL DO LOTE RS$
+LOTE 2
+ITTEM ESPECIFICAÇÃO MARCA | UNIDADE | QUANTI | UNITÁRIO | TOTAL
+DADE
+1 IMPRESSORA/TONNER/CILINDRO DE
+
+IMAGEM Unidade 3
+
+Especificações:
+
+Visor : Ecrã tátil a cores Lexmark e-Task de 4,3
+
+polegadas (10,9 cm)
+
+Velocidade de Impressão
+
+Mono: 46 ppm (páginas por minuto)
+
+Tempo para Primeira Página
+
+mono: 6 segundos
+
+Resolução de Impressão
+
+mono: Qualidade de imagem 1.200 x 1.200 ppp,
+Qualidade de imagem 2.400, 600 x 600 ppp
+Qualidade de imagem 1.200
+
+Memória : standard: 2.048 MB / máximo: 2.048
+MB
+
+Disco Rígido : Incluído na configuração
+Volume de Páginas Mensal Recomendado
+2.000 - 15.000 Páginas
+
+Ciclo de Vida Mensal Máximo
+
+Até: 120.000 Páginas ao mês
+
+Velocidade de Cópia
+
+Até: mono: 44 cpm(A4) / mono: 46 cpm (carta)
+Tempo para a primeira cópia
+
+mono: mono: 6 segundos
+
+
+
+: pl o
+2R Qp tma N ),
+AULITEIDORESS
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+Tipo de Scanner / Digitalização
+
+Scanner de base plana com ADF / ADF: DADF
+(duplex de passagem única)
+
+A4/Ltr Simplex velocidade digitalização: Até:
+mono: 42 / 45 Lados por minuto / cor: 22 / 24
+Lados por minuto
+
+A4/Ltr Duplex velocidade digitalização
+
+Até: mono: 84 / 90 Lados por minuto / cor: 44 / 48
+Lados por minuto
+
+Capacidade de alimentação: Cópia/Fax/
+Digitalização
+
+Até: ADF: 50 páginas 20 Ib ou 75 gsm bond
+Envio de fax: Velocidade do Modem
+
+ITU T.30, V.34 Half-Duplex, 33.6 Kbps
+Capacidades dos toners
+
+até: Toner para 6.000 páginas, Toner de elevada
+capacidade para 15.000 páginas, Toner de alto
+rendimento de 20.000 páginas, Toner de
+capacidade ultra para 25.000 páginas
+Capacidade Estimada da unidade de
+processamento de imagens
+
+até: 60.000 páginas, baseada na média de 3
+páginas tamanho carta/A4 por trabalho de
+impressão com uma cobertura de
+aproximadamente 5%.
+
+Consumíveis entregues com o equipamento
+Toner Starter com Programa de Retorno para
+6.000 páginas
+
+Manuseamento de papel incluído
+
+Entrada 550 folhas, Alimentador multifuncional de
+100 folhas, Duplex integrado, Tabuleiro de saída
+para 250 folhas
+
+Manuseamento de papel opcional
+
+Bandeja de entrada de 250 folhas, Bandeja com
+trava para 550 folhas, Bandeja para 550 folhas
+Capacidade de alimentação de papel
+
+Até: standard: 350 páginas 20 Ib ou 75 gsm bond /
+máximo: 2.000 páginas 20 Ib ou 75 gsm bond
+350 páginas 20 1b ou 75 gsm bond
+
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+Capacidade saída de papel
+Até: standard: 150 páginas 20 Ib ou 75 gsm bond /
+máximo: 150 páginas 20 Ib ou 75 gsm bond
+Tipos de papel suportados
+Cartolina, Envelopes, Papel etiquetas, Papel
+normal, Transparências, Refer to the Paper &
+Specialty Media Guide
+Tamanhos de papel suportados
+Etiquetas de Papel, Cartolina, Papel comum,
+Transparências, Envelopes, Consulte o Guia de
+Papel e Mídia Especializada
+Conectividade standard
+Um Card Slot interno, Porta USB 2.0 com
+certificação de alta velocidade (Tipo B), Gigabit
+Ethernet (10/100/1000), Porta USB 2.0 frontal
+com certificação de alta velocidade (Tipo A), Porta
+USB traseira de alta velocidade certificada com a
+especificação USB 2.0(Tipo A)
+Conectividade rede opcional / Conectividade
+opcional
+Opção Marknet N8372 WiFi / RS-232C série
+interno, 1284-B paralelo bidirecional interno
+- Cada impressora deve conter 2 Kits de
+suprimento, sendo (Cartucho de toner inicial e
+Unidade de Imagem original do fabricante).
+Garantia do produto
+
+01 ano de garantia — Serviço Onsite.
+
+IMPRESSORA TÉRMICA DE ETIQUETA
+
+- A impressora deve conter 5 kits de suprimento,
+sendo (Etiqueta e Ribbons);
+
+Método de impressão por transferência térmica e Unidade
+impressão térmica direta
+
+Linguagens de programação ZPL e EPL
+
+Um único indicador de status de LED
+
+Um único botão de avançar/pausar
+Conectividade por USB
+
+OpenACCESS para fácil carregamento de mídia
+Construção com estrutura de parede dupla
+Qualificação de ENERGY STAR
+
+=
+
+
+
+F)
+: pl o
+2À g ta N ),
+Q to SS >.
+TSS
+
+Câmara Municipal de Domingos Martins
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+- Conectividade: USB
+
+- Etiquetas: Até 104mm de largura
+
+- Ribbons: Até 110mm de largura; até 74m de
+comprimento
+
+- Tecnologia de Impressão: Transferência Térmica
+- Resolução de Impressão: 203dpi
+
+- Velocidade de Impressão: 102mm/s
+
+- Memória RAM: 128 MB
+
+- Memória Flash: 256 MB
+
+- Ambiente de Operação: Temperatura: de 4,4 ºC a
+41 ºC; Umidade: de 5% até 95% sem
+
+- Dimensões: 267 mm C x 197 mm Lx 191 mm AÀ
+Garantia: 2 Anos do fabricante - Serviço Onsite.
+
+VALOR TOTAL DO LOTE R$
+
+LOTE 3
+
+ITEM ESPECIFICAÇÃO MARCA | UNIDADE | QUANT | UNITÁRIO | TOTAL
+IDADE
+
+1 Nobreak 720 VA
+Potência: 720 va; Capacidade: 720 va; Tensão Unidade 13
+nominal Vac: 120 Vac; Variação máxima Vac: 90 a
+145 Vac; Frequência 60 Hz 5%; Cabo de força
+Plugue tripolar de acordo com a norma nbr 14136;
+Fator de potência: 0,5; Tensão nominal Vac em
+modo bateria: 120 Vac 10%; Tempo de
+transferência: < 10 ms; Frequência no modo;
+bateria: 60 Hz 1%; Forma de onda no modo bateria:
+Senoidal por aproximação (retangular pwm -
+controle de largura de pulso); Tomadas de saída: 4
+tomadas (tripolar), de acordo com norma nbr 14136
+Proteção contra sobretensão/subtensão na entrada
+ac: Passa a operar em modo bateria
+
+Proteção contra descarga/sobrecarga de bateria:
+Descarga até 10,5 Volts; fusível de rede: 10 A
+Proteção contra sobrecarga na saída: Incorporado
+
+
+
+Estado do Espírito Santo
+
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+Bateria Quantidade/capacidade: 1 bateria 12 Vde/7
+Ah
+
+Led vermelho: Piscando indica sobrecarga na saída
+Led amarelo: Aceso indica que nobreak foi
+desligado em função de curto-circuito ou
+sobrecarga na saída, piscando indica modo
+bateria/carga de bateria
+
+Led verde: Aceso indica modo de rede
+
+Indicação de nobreak em modo bateria: Sinal
+sonoro emitido a cada 10 segundos
+
+ROTEADOR WIRELESS ACESS POINT
+Características técnicas
+
+- Funções Mu-MiMo, Beamforming e Fast
+Roaming
+
+- Amplo alcance de até 450m?
+
+- Suporta até 350 usuários simultâneos
+
+- Gerenciamento facilitado por interface Web,
+Software de gerenciamento ou Aplicativo
+
+- Tecnologia PoE para instalação otimizada: 802.3at
+- Velocidade de 1200 Mbps com tecnologia Dual
+Band AC
+
+- Garantia: 1 Ano
+
+Unidade
+
+=
+
+TELEFONE IP
+
+Especificações técnicas genéricas
+
+- Contas SIP 2
+
+- Alimentação PoE IEEE 802.3af Ativo
+
+- Display 128x48 pixels, monocromático com
+backlight - Teclas programáveis 2 teclas (L1 e L2)
+Teclas softkeys 4 - Agendas 1000 contatos;
+Agenda remota (XML/LDAP) - Funções
+WhiteList; Blacklist; Não Perturbe; Mudo; Hold;
+Chamada em Espera; Intercom; Chamada anônima;
+Desvio; Transferência; Rediscagem; Correio de
+voz; Conferência; HotLine; Agenda; Histórico de
+chamadas; SIP Hotspot; Multicast; Funções
+periódicas.
+
+- Histórico de chamadas Recebidas; Geradas;
+Perdidas e Desviadas
+
+- Status do Sistema Indicações visuais através de
+
+Unidade
+
+=
+
+
+
+: pl o
+2R Qp tma N ),
+AULITEIDORESS
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+LED de status e Display
+
+- Desvios Se ocupado, se não atende e sempre
+
+- Transferência Cega e/ou com atendimento.
+Especificações técnicas de rede
+
+- Interface LAN e WAN 10/100/1000 Mbps — RJ45
+VLAN
+
+- Compatível com IEEE 802.1Q Configurações e
+atualizações
+
+- Através do navegador web ou teclado do aparelho
+/ display Modo IP
+
+- Estático; DHCP; PPPoE Protocolo de Internet / -
+IPV4 e IPV6
+
+- Protocolos VoIP TCP e UDP; DNS; DNS-SRYV;
+NAT; STUN; VLAN; TLS; QoS; LLDP/LLDP-
+MED; OpenVPN;
+
+- Auto provisionamento Opção DHCP;
+HTTP/HTTPS; FTP; TFTP; RTP/RTCP/SRTP;
+SNTP; TR069
+
+- Protocolo SIP SIP 2.0 Modo de operação de rede
+Bridge
+
+Especificações técnicas de áudio
+
+- Qualidade de áudio CNG, VAD, cancelamento de
+eco, PLC (Ocultação de perda de pacotes) e AGC
+(Controle de Ganho Automático)
+
+- CODECs G.711A, G.711U, G.726-16, G.726-2A,
+G.726-32, G.726-40, G.729AB, iLBC, OPUS e
+G.722 (HD voice)
+
+- Método DTMF DTMEF: In-band, Out-of-Band —
+DTMF-Relay(RFC2833) / SIPINFO
+
+- Formas de atendimento Viva-Voz, Headset (RJ9) e
+monofone
+
+Especificações técnicas do produto
+
+- Dimensões (Lx A x P) 181 x 175.5 x 184.4 mm
+Peso 644 g
+
+- Fonte de alimentação Entrada: 100 a 240 Vac / 50-
+60Hz Saída: 5V/0,6A
+
+- Potência de consumo máxima 3 W
+
+- Temperatura de operação 0ºC — 45ºC Humidade
+10% — 95%
+
+
+
+)
+ES
+o o
+
+H
+Ã mDS
+
+Câmara Municipal de Domingos Martins
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+VALOR TOTAL DO LOTE R$
+
+LOTE 4
+
+ITTEM ESPECIFICAÇÃO MARCA | UNIDADE | QUANT | UNITÁRIO
+IDADE
+
+TOTAL
+
+1 BATERIA P/ MICROFONE
+
+Modelo: KADOSHI K5M Unidade 4
+1200mAh, 3.7 V, 4.4 Wh
+2 SSD 512GB Unidade 2
+
+Especificações principais:
+
+Capacidade: 512GB
+
+Intaface: SATA III 6Gbp/s
+
+Velocidade de leitura: até 550MB/s
+Velocidade de gravação: até S00MB/s
+Tecnologia NAND 3D TLC para maior
+durabilidade
+
+3 HD EXTERNO 2TB Unidade 1
+Interfaces de Conexão: USB 3.0
+Acessórios Incluídos: Cabo Usb 3.0
+Transferência de Leitura: 5.0 Gb/s
+
+Taxa de Velocidade: 5400 rpm
+
+Taxa de Transferência: Máximo: 100 MB/s
+Tecnologia de Armazenamento: HDD
+Garantia: 12 Meses
+
+4 PEN DRIVE 16GB Unidade 2
+Capacidade: 16GB
+
+Conexão: USB 3.0 para transferência rápida de
+dados
+
+Garantia do vendedor: 90 dias
+
+5 CABO DE REDE Unidade 10
+TAMANHO: | Metro
+
+CATEGORIA: CAT5e
+
+CAPA: Injetadas para evitar "fadiga no cabo" em
+movimentos na conexão
+
+
+
+o
+
+Coug — Áª'ª ”
+TTA ém
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+VELOCIDADE DE TRANSFERÊNCIA: | GBPS/
+CONECTOR: RJ45 CAT5e
+
+CONFIGURAÇÃO: T-568A
+
+MATERIAL DO CONDUTOR: Alumínio Cobreado
+CCA/ AMBIENTE DE INSTALAÇÃO: Interior
+EMBALAGEM: Única para todos as unidades
+
+CABO DE REDE
+
+TAMANHO: 10 Metros
+
+CATEGORIA: CAT5e
+
+CAPA: Injetadas para evitar "fadiga no cabo" em
+movimentos na conexão
+
+VELOCIDADE DE TRANSFERÊNCIA: 1 GBPS/
+CONECTOR: RJ45 CAT5e
+
+CONFIGURAÇÃO: T-568A
+
+MATERIAL DO CONDUTOR: Alumínio Cobreado
+CCA/ AMBIENTE DE INSTALAÇÃO: Interior
+EMBALAGEM: Única para todos as unidades
+
+Unidade
+
+CABO DE REDE
+
+TAMANHO: 20 Metros
+
+CATEGORIA: CAT5e
+
+CAPA: Injetadas para evitar "fadiga no cabo" em
+movimentos na conexão
+
+VELOCIDADE DE TRANSFERÊNCIA: 1 GBPS/
+CONECTOR: RJ45 CAT5e
+
+CONFIGURAÇÃO: T-568A
+
+MATERIAL DO CONDUTOR: Alumínio Cobreado
+CCA/ AMBIENTE DE INSTALAÇÃO: Interior
+EMBALAGEM: Única para todos as unidades
+
+Unidade
+
+CABO HDMI 1IM
+
+Cabo HDMI 2.1 com suporte a 8$K(060Hz e
+4K(0120Hz, com pontas banhadas em ouro e
+revestimento de PVC.
+
+Certificação: Ultra High Speed HDMI Cable.
+
+Unidade
+
+CABO HDMI 5M
+
+Cabo HDMI 2.1 com suporte a 8$K(060Hz e
+4K(0120Hz, com pontas banhadas em ouro e
+revestimento de PVC.
+
+Certificação: Ultra High Speed HDMI Cable.
+
+Unidade
+
+
+
+F)
+
+>> pn
+
+NQMLIT w—“wxv,á“—'
+— S
+
+Câmara Municipal de Domingos Martins
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+10 | CABO HDMI 20M Unidade 3
+Cabo HDMI 2.1 com suporte a 8$K(060Hz e
+4K(0120Hz, com pontas banhadas em ouro e
+revestimento de PVC.
+
+Certificação: Ultra High Speed HDMI Cable.
+
+11 FILTRO DE LINHA RÉGUA RACK Unidade 3
+Quantidade: 6 Tomadas
+
+Tensão Operação: 127/220v (Bivolt)
+
+Tensão de Entrada: 127 / 1270 W
+Tensão de Entrada: 220 / 2200 W
+Comprimento do Cabo: até 1,2M
+Fusível: 10A MAX
+Certificações: Inmetro / Norma ABNT NBR 14136
+Condutor: Cobre Eletrolítico / PVC
+Tomada: Injetada em PP com terminais em latão
+Gabinete: Injetado em ABS
+Plugue: Injetado em PVC com terminais em latão
+niquelado
+Garantia: 3 meses
+
+12 | EXTENSÃO ELÉTRICA TRIPOLAR Unidade 3
+
+Comprimento do Cabo: 3 Metros
+Quantidade de tomadas: 3
+Corrente Máxima: 10A
+
+13 CAIXA DE SOM USB Unidade 3
+Tipo de alto-falante: ativo.
+Possui conectividade Bluetooth.
+Bateria recarregável.
+
+Potência de 5W.
+
+Conector de entrada: USB.
+
+VALOR TOTAL DO LOTE
+
+R$
+
+CLÁUSULA SEGUNDA - DAS ESPECIFICAÇÕES E QUANTIDADES:
+
+2.2 São anexos a este instrumento e vinculam esta contratação, independentemente de transcrição:
+
+2.2.1 O Termo de Referência que embasou a contratação;
+
+2.2.2 Autorização de Contratação Direta e o Aviso de Dispensa Eletrônica, caso existentes;
+2.2.3 A Proposta do Contratado; e
+
+2.2.4 Eventuais anexos dos documentos supracitados.
+
+
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+CLÁUSULA TERCEIRA - DO PRAZO PARA PRESTAÇÃO DO SERVIÇO E CRITÉRIOS DE
+RECEBIMENTO:
+
+3.1 O prazo de entrega dos bens é de 15 (quinze) dias úteis, contados da Autorização de Fornecimento, em
+remessa única;
+
+3.2 Caso não seja possível a entrega na data assinalada, a empresa deverá comunicar as razões respectivas com
+pelo menos 10 (dez) dias de antecedência para que qualquer pleito de prorrogação de prazo seja analisado,
+ressalvadas situações de caso fortuito e força maior;
+
+3.3 Os bens deverão ser entregues no seguinte endereço Câmara Municipal de Domingos Martins, Avenida
+Senador Jefferson de Aguiar, nº 27, Domingos Martins-ES, CEP 29260-000, Unidade de Almoxarifado, em
+dias úteis, no horário das &8h às 17h;
+
+3.4 Os bens serão recebidos provisoriamente, de forma sumária, no prazo de 02 (dois) dias, pelo(a) responsável
+do setor de TI;
+
+3.5 Para efeito de posterior verificação de sua conformidade com as especificações constantes neste Termo de
+Referência e na proposta;
+
+3.6 Os bens poderão ser rejeitados, no todo ou em parte, quando em desacordo com as especificações
+constantes neste Termo de Referência e na proposta, devendo ser substituídos no prazo de 10 (dez) dias úteis,
+a contar da notificação da contratada, às suas custas, sem prejuízo da aplicação das penalidades;
+
+3.7 Os bens serão recebidos definitivamente no prazo de 02 (dois) dias, contados do recebimento provisório,
+após a verificação da qualidade e quantidade do material e consequente aceitação mediante termo detalhado
+por servidor designado;
+
+3.8 Na hipótese de a verificação a que se refere o subitem anterior não ser procedida dentro do prazo fixado,
+reputar-se-á como realizada, consumando-se o recebimento definitivo no dia do esgotamento do prazo;
+
+3.9 O recebimento provisório ou definitivo não excluirá a responsabilidade civil pela solidez e pela segurança
+do serviço nem a responsabilidade ético-profissional pela perfeita execução do contrato.
+
+CLÁUSULA QUARTA - DOS PROCEDIMENTOS DE FISCALIZAÇÃO:
+
+4.1 A execução dos serviços será acompanhada e fiscalizada pela servidora xx como titular e xx como suplente,
+designados pela autoridade competente, o qual assumirá a função de fiscal de contrato, as quais compete:
+4.1.1 Exercer de modo sistemático a fiscalização e o acompanhamento da execução do contrato, objetivando
+verificar o cumprimento das disposições contratuais, técnicas e administrativas, em todos os seus aspectos;
+4,1.2 Receber, conferir, entregar ao demandante, recolhendo o atesto nas ordens de serviços de fornecimento
+ou nota fiscal;
+
+4,1.3 Devolver para a Contratada reparar, corrigir, remover, reconstituir ou substituir, às suas expensas, no total
+ou em parte, o objeto do contrato em que se verificarem vícios, defeitos ou incorreções;
+
+4,1.4 Receber, conferir, e atestar as notas fiscais, com base nas requisições de que trata o item 3 deste Contrato;
+4,.1.5 Comprovar a manutenção das condições de habilitação e qualificação da contratada, exigidas no
+instrumento convocatório da licitação;
+
+4.1.6 Anotar em registro próprio todas as ocorrências relacionadas com a execução dos serviços contratados,
+determinando o que for preciso para regularização das falhas, defeitos observados, procedendo à juntada de
+documentos relevantes ao processo administrativo pertinente ao contrato;
+
+4.1.7 Apurar e lavrar relatório e considerações sobre qualquer infringência contratual não Jjustificada pela
+contratada, encaminhando à autoridade competente para decisão quanto à aplicação ou não de penalidades;
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+CLÁUSULA QUINTA - DO PRAZO DE VIGÊNCIA DO CONTRATO:
+5.1 O prazo de vigência da contratação é de 15 (quinze) dias úteis, contados da Autorização de Fornecimento,
+forma do artigo 105 da Lei nº 14.133/2021.
+
+CLÁUSULA SEXTA - DAS OBRIGAÇÕES E RESPONSABILIDADES DA CONTRATADA:
+
+6.1 Cumprir todas as obrigações constantes do Termo de Referência e seus anexos, assumindo como
+exclusivamente seus os riscos e as despesas decorrentes da boa e perfeita execução do objeto;
+
+6.2 Responsabilizar-se pela garantia do serviço prestado, dentro dos padrões adequados de qualidade,
+segurança, durabilidade e desempenho, conforme previsto na legislação em vigor e na forma exigida neste
+termo de referência;
+
+6.3 Reparar, corrigir, remover, reconstruir ou substituir, às suas expensas, no total ou em parte, no prazo fixado
+no Termo de Referência, os bens nos quais se verificarem vícios, defeitos ou incorreções resultantes da
+execução ou dos materiais empregados;
+
+6.4 Custear o frete relativo à devolução dos produtos defeituosos dentro do prazo de garantia;
+
+6.5 Responsabilizar-se pelo cumprimento de todas as obrigações trabalhistas, previdenciárias, fiscais,
+comerciais e as demais previstas em legislação específica, cuja inadimplência não transfere a responsabilidade
+ao contratante e não poderá onerar o objeto do contrato.
+
+CLÁUSULA SÉTIMA - DAS OBRIGAÇÕES E RESPONSABILIDADES DA CONTRATANTE:
+
+7.1 Cumprir e fazer cumprir todas as disposições contidas neste Termo de Referência;
+
+7.2 Receber o objeto no prazo e condições estabelecidas no Termo de Referência;
+
+7.3 Proporcionar todas as facilidades, inclusive esclarecimentos atinentes ao objeto deste Termo de Referência,
+para que a empresa possa cumprir as obrigações dentro das normas e condições da aquisição;
+
+7.4 Notificar a CONTRATADA, por escrito, sobre vícios, defeitos ou incorreções verificadas no objeto
+fornecido, para que seja por ela substituído, reparado ou corrigido, no total ou em parte, às suas expensas;
+7.4.1 As notificações se darão por meio eletrônico (e-mail) a ser fornecido pela CONTRATADA quando da
+assinatura contratual ou da apresentação da proposta, ficando a cargo desta avisar em até 01 (um) dia útil,
+qualquer alteração deste no curso do contrato;
+
+7.4.2 Considerar-se-á lido o e-mail pela CONTRATADA após 02 (dois) dias úteis do seu envio;
+
+7.5 Acompanhar e fiscalizar a execução do contrato e o cumprimento das obrigações pela CONTRATADA,
+designando servidores com competência necessária para promover o recebimento dos produtos, sob os
+aspectos quantitativos e qualitativos, assim como prazo de validade e entrega;
+
+7.6 Anotar em registro próprio os fatos que, a seu critério, exijam medidas corretivas no fornecimento dos
+produtos;
+
+7.7 Comunicar a empresa para emissão de Nota Fiscal no que pertence à parcela incontroversa da execução do
+objeto, para efeito de liquidação e pagamento, quando houver controvérsia sobre a execução do objeto, quanto
+à dimensão, qualidade e quantidade, conforme o art. 143 da Lei nº 14.133, de 2021;
+
+7.8 Alocar os recursos orçamentários e financeiros necessários à execução da contratação;
+
+7.9 Efetuar o pagamento à CONTRATADA do valor correspondente ao fornecimento do objeto, no prazo,
+forma e condições estabelecidos neste Termo de Referência;
+
+7.10 Aplicar à CONTRATADA aàas sanções previstas na lei e no Termo de Referência;
+
+7.11 Adotar as medidas cabíveis quando do descumprimento de obrigações pela CONTRATADA;
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+7.12 Explicitamente emitir decisão sobre todas as solicitações e reclamações relacionadas à execução da
+presente contratação, ressalvados os requerimentos manifestamente impertinentes, meramente protelatórios ou
+de nenhum interesse para a boa execução do ajuste.
+
+CLÁUSULA OITAVA - DAS PENALIDADES E SANÇÕES:
+8.1 A Contratada deverá observar rigorosamente as condições estabelecidas para aquisição do material,
+sujeitando-se às penalidades constantes nos artigos 155, 156 e seguintes da Lei nº 14.133/2021;
+8.2 Comete infração administrativa, nos termos da Lei nº 14.133, de 2021, a Contratada que:
+
+a) der causa à inexecução parcial do contrato;
+
+b)der causa à inexecução parcial do contrato que cause grave dano à Administração ou ao funcionamento dos
+serviços públicos ou ao interesse coletivo;
+
+c)der causa à inexecução total do contrato;
+
+d)deixar de entregar a documentação exigida para o certame;
+
+e)não manter a proposta, salvo em decorrência de fato superveniente devidamente justificado;
+
+Dnão celebrar o contrato ou não entregar a documentação exigida para a contratação, quando convocado
+dentro do prazo de validade de sua proposta;
+
+g)ensejar o retardamento da execução ou da entrega do objeto da contratação sem motivo Jjustificado;
+
+h)apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração falsa durante a
+dispensa eletrônica ou execução do contrato;
+
+1)fraudar a contratação ou praticar ato fraudulento na execução do contrato;
+
+J)comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+
+k)praticar atos ilícitos com vistas a frustrar os objetivos da contratação;
+
+Dpraticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013.
+
+10.2.1 Serão aplicadas ao responsável pelas infrações administrativas acima descritas as seguintes sanções:
+
+1) Advertência, quando o Contratado der causa à inexecução parcial do contrato, sempre que não se jJustificar
+a imposição de penalidade mais grave (art. 156, $2º, da Lei);
+
+1i)Impedimento de licitar e contratar, quando praticadas as condutas descritas nas alíneas b, c, d, e, fe g do
+subitem acima deste documento, sempre que não se Jjustificar a imposição de penalidade mais grave (art. 156,
+$4º, da Lei);
+
+111 Declaração de inidoneidade para licitar e contratar, quando praticadas as condutas descritas nas alíneas h,
+1,), kK e 1 do subitem acima deste documento, bem como
+nas alíneas b, c, d, e, fe g, que Justifiquem a imposição de penalidade mais grave (art. 156, $5º, da Lei)
+
+iv)Multa:
+
+(1)moratória de 0,5% (meio por cento) por dia de atraso injustificado sobre o valor da parcela inadimplida,
+até o limite de 30 dias;
+
+(2)compensatória de 10% (dez por cento) sobre o valor total do contrato, no caso de inexecução total do
+objeto;
+8.3 Da aplicação de penalidades caberá recurso, conforme disposto no art. 157 e 158 da Lei nº 14.133/2021;
+8.4 As sanções administrativas somente serão aplicadas pelo CONTRATANTE após a devida notificação e o
+transcurso do prazo estabelecido para a defesa prévia;
+8.5 A notificação deverá ocorrer pessoalmente ou por correspondência com aviso de recebimento, onde será
+indicada a conduta considerada irregular, a motivação e a espécie de sanção administrativa que se pretende
+
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+aplicar, o prazo e o local de entrega das razões de defesa;
+
+CLÁUSULA DÉCIMA MOMA - DA FORMA DE PAGAMENTO:
+
+9.1 O pagamento será efetuado de acordo com a prestação dos serviços por meio de depósito em conta corrente
+do fornecedor, no banco por ele indicado, constantes no verso da nota fiscal eletrônica, até o quinto dia útil
+após emissão do aceite definitivo de entrega emitido pelos fiscais do contrato e aprovação da nota fiscal, sem
+rasuras ou emendas, que deverá ser encaminhada em nome da Câmara Municipal de Domingos Martins, com
+o fornecimento dos objetos discriminados;
+
+9.2 Ocorrendo erros na apresentação do documento fiscal, o mesmo será devolvido ao contratado para
+correção, ficando estabelecido que o prazo para pagamento será contado a partir da data de apresentação da
+nova fatura, devidamente corrigida;
+
+9.3 O pagamento da fatura somente será feito em carteira ou cobrança simples, sendo expressamente vedado
+ao fornecedor cobrança ou desconto de duplicatas através de rede bancária ou de terceiros;
+
+9.4 A Câmara Municipal de Domingos Martins poderá deduzir do pagamento importâncias que a qualquer
+título lhe forem devidos pelo contratado, em decorrência de inadimplemento contratual;
+
+9.5 Para efetivação do pagamento o contratado deverá apresentar os seguintes documentos:
+
+a) prova de Regularidade para com a Fazenda Nacional, referente a dívida Ativa da União e junto aos Tributos
+Federais - Certidão Conjunta;
+
+b) prova de Regularidade para com a Fazenda Estadual do domicílio ou sede da licitante;
+
+c) prova de Regularidade para com a Fazenda Municipal do domicílio ou sede da licitante;
+
+d) prova de Regularidade relativa à Seguridade Social - INSS;
+
+e) prova de Regularidade relativa ao Fundo de Garantia por Tempo de Serviço — FGTS;
+
+f) prova de Regularidade Fiscal e Trabalhista, em cumprimento à Lei nº 12.440, de 7 de julho de 2011 e à
+Resolução Administrativa TST — Tribunal Superior do Trabalho nº 1.470, de 24 de agosto de 2011;
+
+g) alvará de Funcionamento / Localização da Empresa;
+
+CLÁUSULA DÉCIMA- DO VALOR E DOTAÇÃO ORÇAMENTÁRIA:
+
+10.1 O valor global da contratação é de xx (xx);
+
+10.2 No preço já estão incluídos todos os custos e despesas de prestação dos serviços, fornecimento de
+produtos, direitos trabalhistas, encargos sociais, seguros, impostos e taxas, necessárias a perfeita conclusão do
+objeto adquirido que porventura incidir direta ou indiretamente sobre a prestação dos serviços;
+
+10.3 As despesas decorrentes da aquisição de itens de informática, ocorrerão por conta de dotação orçamentária
+prevista no Orçamento da Câmara Municipal de Domingos Martins para o exercício de 2025, dotação
+010001.0103100012.001 — Manutenção dos Serviços Administrativos da Câmara Municipal, 44905200000
+Material permanente -ficha 24; E dotação orçamentária 010001.0103100012.001/33903000000 - Manutenção
+dos Serviços Administrativos da Câmara Municipal - Ficha 09 — Material de Consumo.
+
+CLÁUSULA DÉCIMA PRIMEIRA - REAJUSTE:
+
+11.1 Os preços inicialmente contratados são fixos e irreajustáveis no prazo de um ano contado da data do
+orçamento estimado, em xx;
+
+11.2 Após o interregno de um ano, e independentemente de pedido do Contratado, os preços iniciais serão
+reajustados, mediante a aplicação, pelo Contratante, do índice IPCA, exclusivamente para as obrigações
+
+
+&
+D
+MET NSS
+
+Câmara Municipal de Domingos Martins
+
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+iniciadas e concluídas após a ocorrência da anualidade;
+
+11.3 Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será contado a partir dos efeitos
+financeiros do último reajuste;
+
+11.4 No caso de atraso ou não divulgação do índice de reajustamento, o Contratante pagará ao Contratado a
+importância calculada pela última variação conhecida, liquidando a diferença correspondente tão logo seja
+divulgado o índice definitivo;
+
+11.5 Nas aferições finais, o índice utilizado para reajuste será, obrigatoriamente, o definitivo;
+
+11.6 Caso o índice estabelecido para reajustamento venha a ser extinto ou de qualquer forma não possa mais
+ser utilizado, será adotado, em substituição, o que vier a ser determinado pela legislação então em vigor;
+
+11.7 Na ausência de previsão legal quanto ao índice substituto, as partes elegerão novo índice oficial, para
+reajustamento do preço do valor remanescente, por meio de termo aditivo;
+
+11.8 O reajuste será realizado por apostilamento.
+
+CLÁUSULA DÉCIMA SEGUNDA - DA PROTEÇÃO DE DADOS PESSOAIS:
+
+12.1 As PARTES, por si e por seus colaboradores, obrigam-se a atuar no presente contrato em conformidade
+com a legislação vigente sobre Proteção de Dados Pessoais e as determinações de órgão reguladores e/ou
+fiscalizadores sobre a matéria, em especial, a Lei Federal nº 13.709/2018;
+
+12.2 No presente contrato, a CONTRATANTE assume o papel de controlador, nos termos do artigo 5º, VI da
+Lei nº 13.709/2018, e a CONTRATADA assume o papel de operador, nos termos do artigo 5º, VII da Lei nº
+13.709/2018;
+
+12.3 A CONTRATADA deverá guardar sigilo sobre os dados pessoais compartilhados pela CONTRATANTE
+e só poderá fazer uso dos dados exclusivamente para fins de cumprimento do objeto deste contrato, sendo-lhe
+vedado, a qualquer tempo, o compartilhamento desses dados sem a expressa autorização da CONTRATANTE,
+ou o tratamento dos dados de forma incompatível com as finalidades e prazos acordados;
+
+12.4 As PARTES deverão notificar uma à outra, por meio eletrônico, em até 2 (dois) dias úteis, sobre qualquer
+incidente detectado no âmbito de suas atividades, relativo a operações de tratamento de dados pessoais;
+
+12.5 As PARTES se comprometem a adotar as medidas de segurança administrativas, tecnológicas, técnicas e
+operacionais necessárias a resguardar os dados pessoais que lhe serão confiados, levando em conta as diretrizes
+de órgãos reguladores, padrões técnicos e boas práticas existentes;
+
+12.6 A CONTRATANTE terá o direito de acompanhar, monitorar, auditar e fiscalizar a conformidade da
+CONTRATADA, diante das obrigações de operador, para a proteção de dados pessoais referentes à execução
+deste contrato;
+
+12.7 As PARTES ficam obrigadas a indicar encarregado pela proteção de dados pessoais, ou preposto, para
+comunicação sobre os assuntos pertinentes à Lei nº 13.709/2018, suas alterações e regulamentações
+posteriores;
+
+12.8 As PARTES darão conhecimento formal a seus empregados e colaboradores das obrigações e condições
+acordadas nesta cláusula. As diretrizes aqui estipuladas deverão ser aplicadas a toda e qualquer atividade que
+envolva a presente contratação.
+
+CLÁUSULA DÉCIMA TERCEIRA - PUBLICAÇÃO:
+13.1 Incumbirá à contratante providenciar a publicação deste instrumento nos termos e condições previstas na
+Lei nº 14.133/21.
+
+
+Câmara Municipal de Domingos Martins
+Estado do Espírito Santo
+Avenida Senador Jefferson de A guiar, nº 27 — Domingos Martins — ES
+CEP: 29260-000 Telefone: (27) 4042 - 4849
+Site: www.domingosmartins.es.leg.br
+
+e-mail: emdmartins(odomingosmartins.es.leg.br
+
+CLÁUSULA DÉCIMA QUARTA - DA EXTINÇÃO CONTRATUAL:
+
+14.1 O contrato se extingue quando vencido o prazo nele estipulado, independentemente de terem sido
+cumpridas ou não as obrigações de ambas as partes contraentes;
+
+14.2 O contrato pode ser extinto antes de cumpridas as obrigações nele estipuladas, ou antes do prazo nele
+fixado, por algum dos motivos previstos no artigo 137 da NLLC, bem como amigavelmente, assegurados o
+contraditório e a ampla defesa;
+
+14.2.1 Nesta hipótese, aplicam-se também os artigos 138 e 139 da mesma Lei;
+
+14.2.2 A alteração social ou modificação da finalidade ou da estrutura da empresa não ensejará rescisão se não
+restringir sua capacidade de concluir o contrato;
+
+14.2.2.1 Se a operação implicar mudança da pessoa Jurídica contratada, deverá ser formalizado termo aditivo
+para alteração subjetiva;
+
+14.3 O termo de rescisão, sempre que possível, será precedido:
+
+14.3.1 Balanço dos eventos contratuais já cumpridos ou parcialmente cumpridos;
+
+14.3.2 Relação dos pagamentos já efetuados e ainda devidos;
+
+14.3.3 Indenizações e multas.
+
+CLÁUSULA DÉCIMA QUINTA - FORO:
+14.1 As partes elegem o Foro da Comarca de Domingos Martins, Estado do Espírito Santo, em detrimento de
+qualquer outro, por mais privilegiado que seja para dirimir as dúvidas relativas a este Contrato.
+
+E por estarem assim justos e acordados, assinam o presente contrato em 02 (duas) vias de igual teor e forma,
+para que produza seus efeitos legais.
+
+Domingos Martins, ES, xx de 2025.
+
+DIOGO ENDLICH
+Presidente da Câmara Municipal de Domingos Martins
+CONTRATANTE
+
+XX
+CONTRATADA
+Testemunhas:
+
+Nome: Nome:
+CPF nº CPF nº
+
+

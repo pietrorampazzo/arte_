@@ -1,0 +1,3434 @@
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+Públ > Pa
+
+CONTRATANTE
+CODIGO UASG:
+
+MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ
+453902
+
+PREGÃO ELETRÔNICO
+
+Nº 90040/25
+
+TIPO:
+
+MENOR PREÇO
+
+OBJETO
+
+Aquisição de 12 (doze) workstations de alto
+desempenho para processamento de vestígios
+digitais, com 2 (dois) monitores cada e garantia
+on-site de 60 (sessenta) meses.
+
+VALOR TOTAL DA
+CONTRATAÇÃO:
+
+R$ 1.077.600,00 (um milhão, setenta e sete mil e
+seiscentos reais).
+
+PERÍODO DE ACOLHIMENTO
+DAS PROPOSTAS
+(horário de Brasília-DF)
+
+De 18/09/2025 às 12h
+Até 3/10/2025 às 13h
+
+ABERTURA DAS PROPOSTAS
+
+Dia 3/10/2025 às 13h
+
+FASE DE LANCES
+
+Dia 3/10/2025 às 13h05min
+
+IMPUGNAÇÃO E
+ESCLARECIMENTOS
+
+Até dia 30/09/2025 às 18h
+
+EXCLUSIVIDADE ME/EPP:
+
+Lote 2
+
+PREGOEIRO:
+
+Andy José Silveira
+
+1/59
+
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+PúbI , Pa Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+TIPO: Menor Preço
+
+O MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ, por intermédio de seu Pregoeiro e
+Equipe de Apoio, designados pela Portaria nº 322, de 10 de junho de 2025, torna
+público para conhecimento dos interessados que, na forma da Lei nº 14.133, de 1º de
+abril de 2021, Decreto Estadual nº 10.086, de 17 de janeiro de 2022, Resolução MPPR
+nº 8.670 em 29 de dezembro de 2022 e Lei Complementar nº 123, de 14 de dezembro
+de 2006, fará realizar licitação na modalidade PREGÃO ELETRÔNICO, tipo menor
+preço, para aquisição de 12 (doze) workstations de alto desempenho para
+processamento de vestígios digitais, com 2 (dois) monitores cada e garantia on-site
+de 60 (sessenta) meses, conforme especificações contidas neste Edital e seus Anexos,
+em atendimento ao processo administraftivo eletrônico SEI nº
+19.19.8451.0023000/2024-70, de 11 de setembro de 2024.
+
+1. DO OBJETO
+
+A presente licitação tem como objeto a aquisição 12 (doze) workstations de alto
+desempenho para processamento de vestígios digitais, com 2 (dois) monitores cada
+e garantia on-site de 60 (sessenta) meses, conforme especificações contidas neste
+Edital e seus Anexos.
+
+2. DA MODALIDADE E DO TIPO DE LICITAÇÃO
+
+Esta licitação, sob a modalidade Pregaão Eletrônico, do tipo Menor Preço, conforme
+disposto no artigo 79, inciso |, do Decreto Estadual nº 10.086/2022, será realizada em
+sessão pública online através do endereço eletrônico https://wWwww.gov.br/compras/,
+conforme condições deste Edital, em data e horário abaixo indicados.
+
+3. ACOLHIMENTO E ABERTURA DE PROPOSTAS E FASE DE LANCES
+
+ACOLHIMENTO DAS PROPOSTAS: até as 13h (horário de Brasília/DF) do dia 3/10/2025,
+exclusivamente por meio eletrônico, através do site https://wWwww.gov.br/compras/,
+UASG 453902, PE Nº 90040/25, após prévio credenciamento.
+
+ABERTURA DAS PROPOSTAS: dia 3/10/2025 às 13h (horário de Brasília/DF).
+INÍCIO DA FASE DE LANCES: dia 3/10/2025 às 13ho05min (horário de Brasília/DF).
+
+MODO DE DISPUTA: aberto e fechado.
+
+4. INTRODUÇÃO
+
+4.1. Se no dia marcado para recebimento e abertura das propostas deste Pregão,
+por qualquer motivo, não houver expediente no Ministério Público do Estado do
+Paraná, estes realizar-se-ão no primeiro dia útil de funcionamento que se seguir, no
+mesmo horário.
+
+4.2. As solicitações de esclarecimentos, providências ou impugnação deste Edital
+poderão ser efetuadas por qualquer cidadão ou pelas interessadas em participar do
+certame, com antecedência de 3 (três) dias úteis da data estabelecida para a
+
+2/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+PúbI , Pa Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+abertura das propostas, dirigidas ao Pregoeiro, através do endereço eletrônico
+subadm.cplemppr.mp.br.
+
+4.3. As respostas do Pregoeiro dos pedidos interpostos estarão disponíveis em até 3
+(três) dias úteis contado da data de recebimento do pedido, limitado dao último dia
+Úútil anterior à data da abertura do certame, no site do Ministério Público do Estado
+do Paraná - www.mppr.mp.br — licitações e no site https://wWwww.gov.br/compras/.
+
+5. DO CREDENCIAMENTO
+
+5.1. Para acesso ao Sistema Eletrônico, a(s) interessada(s) em participar do Pregão,
+OU seuí(s) representante(s) legal(is), deverá (ão) estar previamente credenciada (s)
+junto dao site https://www.gov.br/compras/, o qual disponibilizará chave de acesso e
+senha, pessoal e intransferível, para certificação.
+
+5.1.1. Demais dados acerca da chave de acesso e senha poderão ser obtidos
+pelas interessadas em participar do Pregão Eletrônico diretamente no endereço
+eletrônico https://www.gov.br/compras/.
+5.2. O Credenciamento é o nível básico do registro cadastral no Sistema de
+Cadastramento Unificado de Fornecedores (SICAF), que permite a participação das
+interessadas na modalidade licitatória Pregão, em sua forma eletrônica.
+
+5.3. O cadastro no SICAF deverá ser feito no Portal de Compras do Governo Federal,
+no sítio https://www.gov.br/compras/, por meio de certificado digital conferido pela
+Infraestrutura de Chaves Públicas Brasileira — ICP - Brasil, em tempo hábil para
+participação neste certame.
+
+5.4. O credenciamento junto do provedor do Sistema implica a responsabilidade da
+licitante ou de seu representante legal e a presunção de sua capacidade técnica
+para realização das transações inerentes a este Pregão.
+
+5.5. A licitante se responsabiliza exclusiva e formalmente pelas transações efetuadas
+em seu nome, assume como firmes e verdadeiras suas propostas e seus lances,
+inclusive os atos praticados diretamente ou por seu representante, excluída a
+responsabilidade do provedor do Sistema ou do órgão ou entidade promotora da
+licitação por eventuais danos decorrentes de uso indevido das credenciais de
+acesso, ainda que por terceiros.
+
+5.6. Incumbirá à licitante acompanhar as operações no Sistema Eletrônico, ficando
+responsável pelo ônus decorrente da perda de negócios diante da inobservância de
+quaisquer mensagens emitidas pelo Pregoeiro ou pelo Sistema, ainda que ocorra sua
+desconexão.
+
+5.7. É de responsabilidade do cadastrado conferir a exatidão dos seus dados
+cadastrais no SICAF e mantê-los atualizados junto aos órgãos responsáveis pela
+informação, devendo proceder, imediatamente, à correção ou à alteração dos
+registros tão logo identifique incorreção ou aqueles se tornem desatualizados.
+
+3/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+Ministério Público do Paraná Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+6. DA PARTICIPAÇÃO NA LICITAÇÃO
+
+6.1. A participação no Pregão Eletrônico Nº 90040/25 dar-se-á pelo acesso através da
+senha pessoal e intransferível do representante credenciado e subsequente
+encaminhamento da proposta de preço por meio do Sistema Eletrônico, observados
+data e horário limite estabelecidos neste Edital.
+
+6.2. Poderão participar deste Pregão quaisquer licitantes que:
+6.2.1 detenham atividade pertinente e compatível com o objeto deste Pregão;
+
+6.2.2 atendam aos requisitos mínimos de classificação das propostas exigidos
+neste Edital;
+
+6.2.3 comprovem possuir os documentos de habilitação requeridos no item 9.1;
+
+6.2.4 estejam com cadastro regular no Portal Nacional de Contratações
+Públicas — PNCP;
+
+6.2.5 manifestem formalmente o pleno conhecimento e atendimento às
+exigências de habilitação do presente Edital, inclusive no que se refere daos
+custos decorrentes da elaboração e apresentação das propostas que são de
+responsabilidade exclusiva da licitante.
+
+6.3. Não poderão participar deste Pregão:
+
+6.3.1. consórcios de empresas, quaisquer que sejam suas formas de constituição,
+conforme justificativa técnica e econômica constante do procedimento
+administrativo;
+
+6.3.2. empresas impedidas de licitar e contratar no âmbito do Estado do Paraná;
+
+6.3.3. empresas que foram declaradas inidôneas para licitar ou contratar com
+a Administração Pública, enquanto perdurarem os motivos da punição;
+
+6.3.4. empresas que tenham sócios ou responsáveis ftécnicos que sejam
+servidores ou membros do Ministério Público do Estado do Paraná!;
+
+6.3.5. empresas que se encontrem sob falência, dissolução ou liquidação;
+
+6.3.6. as pessoas físicas e jurídicas de que trata o artigo 14 da Lei Federal n.º
+14.133/202].
+
+6.4. Para participação no certame, a licitante deverá manifestar, em campo próprio
+do Sistema Eletrônico, que cumpre plenamente os requisitos de habilitação e que sua
+proposta está em conformidade com as exigências deste Edital.
+
+6.4.1. A manifestação da licitante, de que cumpre plenamente os requisitos de
+habilitação e que sua proposta está em conformidade com as exigências deste
+Edital, quando não verdadeira, sujeitará a licitante às sanções previstas neste
+Edital, no artigo 155, inciso VIII, Lei nº 14.133/202] e artigo 197, inciso | do Decreto
+Estadual nº 10.086/2022.
+
+! O art. 150 da Lei nº 20.640/21 dispõe: “Ao funcionário é proibido:
+XVIl — participar de gerência ou administração de sociedade privada, personificada ou não personificada, e exercer
+o comércio, exceto na qualidade de acionista, cotista ou comanditário, ressalvada a participação em sociedade
+cooperativa constituída por servidores públicos para prestar serviços a seus cooperados”.
+O art. 156 da Lei Complementar nº 85/99 dispõe: "É vedado aos membros do Ministério Público:
+Ill — exercer o comércio ou participar de sociedade comercial, exceto como coftista ou acionista.”
+
+4/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+PúbI , Pa Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+6.5. Quando do cadastramento da proposta no Sistema de compras eletrônicas, a
+proponente deverá estar ciente que o CNPJ cadastrado para participação deverá
+ser o mesmo constante na proposta e nos demais documentos de habilitação e, no
+caso de adjudicação, o contrato será firmado com este mesmo CNPJ.
+
+6.5.1. Caso a licitante vencedora possua mairiz e filiais, deverá assinar o contrato
+com o mesmo CNPJ da maitriz ou filial cadastrado Sistema de compras eletrônicas
+e constante na proposta.
+
+6.5.2. Caso a licitante vencedora possua mairiz e filiais na data da habilitação, e
+participe da licitação com o CNPJ da matriz, poderá executar o contrato e emitir
+as respectivas faturas com o CNPJ da filial, desde que apresente na fase de
+habilitação as certidões de regularidade fiscal também da filial que cumprirá o
+objeto.
+
+6.6. Em cumprimento à Lei Complementar nº 123/2006, o lote 2 está destinado
+exclusivamente à participação de Microempresas e Empresas de Pequeno Porte.
+
+7. DO CADASTRAMENTO DAS PROPOSTAS INICIAIS
+
+7.1. AÀ proposta de preço inicial deverá ser cadastrada no Sistema de compras
+eletrônicas no prazo previsto e de acordo com o critério de disputa estabelecido no
+Edital.
+
+7.1.1. A licitante deverá registrar proposta precisa do valor unitário e total para cada
+lote, com no máximo duas casas decimais, sem alternativas de preços ou qualquer
+outra condição que induza o julgamento a ter mais de um resultado.
+
+7.1.2. A proposta registrada poderá ser alterada ou excluída até a data e hora
+definida no Edital para abertura das propostas e, após este prazo, o Sistema
+Eletrônico não aceitará inclusão, alteração ou desistência da proposta.
+
+7.1.3. As particibpantes do presente Pregão Eletrônico, quando empresas
+paranaenses, com exceção das microempresas, das empresas de pequeno
+porte e dos casos de aquisição de produtos sujeitos ao regime de substituição
+tributária, deverão apresentar suas propostas e lances de preços para o lote 1,
+com o valor líquido, ou seja, sem a carga tributária do ICMS, sob pena de
+desclassificação, em face da isenção prevista no Decreto Estadual nº 7.871/2017,
+introduzida no item 114 do Anexo V - Ilsenções, editado com amparo no
+Convênio ICMS nº 26/2003, aprovado pelo Conselho Nacional de Política
+Fazendária — CONFA/Z.
+
+7.1.3.1. As participantes enquadradas no Regime Fiscal do Simples Nacional
+não estão abrangidas pelo disposto no item 7.1.3. devendo apresentar
+proposta de preços com a carga tributária completa.
+
+7.1.4. Não será permitido à licitante oferecer proposta parcial.
+
+7.2. Nos dados preenchidos no Sistema para participação da etapa de lances não
+poderá conter qualquer tipo de identificação da licitante (nome, CNPJ, timbre da
+empresa, telefone, e-mail, site da empresa, etc.), sob pena de desclassificação da
+
+proposta, podendo a descrição do objeto do lote ser preenchida de forma resumida,
+5/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+PúbI , Pa Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+quando esta não couber inteira, conforme o Anexo |, ou remissão dao item do Edital
+que contenha as suas especificações.
+
+7.2.1. Qualqguer elemento que puder identificar a licitante na fase de lances
+poderá acarretar, além da desclassificação da proposta, a aplicação das
+sanções previstas neste Edital, no artigo 155 e seguintes da Lei nº 14.133/202]1 e
+artigo 194 e seguintes do Decreto Estadual nº 10.086/2022.
+
+7.3. A licitante deverá enviar sua proposta inicial mediante o preenchimento, no
+Sistema Eletrônico, dos seguintes campos:
+
+7.3.1. valor unitário e total para cada lote;
+
+7.3.2. descrição detalhada do objeto ou remissão ao item do Edital que contenha
+as suas especificações;
+
+7.3.3. fabricante, marca e modelo dos produtos cotados, sob pena de
+desclassificação.
+
+7.4. À apresentação de proposta implicará em:
+7.4.1. pleno conhecimento e aceitação de todas as cláusulas e condições
+estabelecidas neste Edital e seus Anexos; especificações e condições para
+execução do pactuado, sujeitando-se à fiscalização pelo Ministério Público;
+7.4.2. inexistência de fato impeditivo à habilitação neste certame e ciência da
+obrigatoriedade de informar acerca de ocorrências posteriores;
+
+7.4.3. prazo de validade da proposta não inferior a 90 (noventa) dias, contados
+da data estipulada para a abertura do presente certame.
+7.5. Como critério de aceitabilidade de preço unitário, será adotado como limite
+máximo os valores máximos unitários estimados pela Administração, no Anexo | a este
+Edital.
+7.6. No valor proposto já deverão estar incluídas as despesas legais incidentes, sendo
+esse valor de exclusiva e total responsabilidade da licitante.
+
+7.7. AÀ proposta deverá conter apenas uma opção de valor unitário e total para cada
+lote, sob pena de desclassificação.
+
+8. DA ABERTURA DA SESSÃO, DO EXAME DE CONFORMIDADE, CLASSIFICAÇÃO DAS
+PROPOSTAS E ETAPA DE LANCES
+
+8.1. Na data e horário estabelecidos neste Edital, terá início a sessão pública do
+Pregão Eletrônico Nº 90040/25, com a divulgação das propostas de preços recebidas,
+passando o Pregoeiro a avaliar a aceitabilidade das propostas, desclassificando
+aquelas que não estejam em conformidade com os requisitos estabelecidos neste
+Edital, contenham vícios insanáveis, sejam inexequíveis ou não apresentem as
+especificações técnicas exigidas no Anexo |.
+
+8.1.1. Também será desclassificada a proposta que identifique a licitante.
+
+8.2. Para julgamento e classificação das propostas, será adotado o critério de
+julgamento fixado no item 2, observadas as especificações mínimas obrigatórias
+definidas neste Edital.
+
+6/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+PúbI , Pa Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+8.2.1. A desclassificação da proposta, quando houver, será sempre
+fundamentada e registrada no Sistema, com acompanhamento em tempo real
+por todas as licitantes.
+
+8.3. Classificadas as propostas, será iniciada a etapa competitiva, devendo as
+licitantes encaminhar lances exclusivamente por meio de Sistema Eletrônico.
+
+8.3.1. Os lances deverão ser sucessivos; somente serão admitidos lances que
+expressem valor inferior ao seu último lance ofertado.
+
+8.3.2. Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo
+aquele que for recebido e registrado em primeiro lugar.
+
+8.3.3. Caso a licitante não readlize lances, permanecerá valendo o valor da
+proposta eletrônica apresentada, para efeito de classificação final.
+
+8.3.4. Não poderá haver desistência dos lances ofertados, sujeitando-se a
+licitante desistente às penalidades constantes deste Edital, do Decreto Estadual
+nº 10.086/2022 e da Lei Federal nº 14.133/202].
+
+8.4. A etapa de lances se dará no modo de disputa aberto e fechado. O modo
+aberto terá duração de 15 (quinze) minutos. Encerrado este prazo, o Sistema
+encaminhará o aviso de fechamento iminente dos lances, e, transcorrido o período
+de até (10) dez minutos, aleatoriamente determinado, a recepção de lances será
+automaticamente encerrada.
+
+8.4.1. Encerrado o tempo de até 10 (dez) minutos previsto no item 8.4, o Sistema
+abrirá a oportunidade para que a licitante da oferta de valor mais baixo e as
+licitantes das ofertas com valores até 10 %& (dez por cento) superiores àquela
+possam ofertar um lance final e fechado em até 5 (cinco) minutos, que será
+sigiloso até o encerramento deste prazo.
+
+8.4.2. Na ausência de, no mínimo, 3 (três) ofertas nas condições que trata o item
+8.4.1., as licitantes dos melhores lances subsequentes, na ordem de classificação,
+até o máximo de 3 (três), poderão oferecer um lance final e fechado em até 5
+(cinco) minutos, que será sigiloso até o encerramento do prazo.
+
+8.4.3. Encerrados os prazos estabelecidos nos itens 8.4.1 e 84.2, o Sistema
+ordenará os lances em ordem crescente de preços.
+
+8.4.4. Na ausência de lance final e fechado classificado nos termos dos itens 8.4.]
+e 8.4.2, haverá o reinício da etapa fechada para que as demais licitantes, até o
+máximo de 3 (três), na ordem de classificação, possam ofertar um lance final e
+fechado em até 5 (cinco) minutos, que será sigiloso até o encerramento deste
+prazo, observado, após esta etapa, o disposto no item 8.4.3.
+
+8.4.5. Na hipótese de não haver licitante classificada na etapa de lance fechado
+que atenda às exigências para habilitação, o Pregoeiro poderá, auxiliado pela
+equipe de apoio, mediante justificativa, admitir o reinício da etapa fechada, nos
+termos do disposto no item 8.4.4.
+
+8.5. Apbós a etapa de envio de lances, haverá a aplicação de desempate previsto
+
+nos artigos 44 e 45 da Lei Complementar nº 123/2006, seguido da aplicação dos
+
+critérios estabelecidos no artigo 60 da Lei n.º 14.133/21 e nos artigos 90 e 91 do
+7/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+Ministério Público do Paraná Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+Decreto Estadual nº 10.086/2022, se não hovuver licitante que atenda à primeira
+hipótese.
+8.5.1. Os critérios de desempate serão aplicados nos termos do item 8.5., caso
+não haja envio de lances após o início da fase competitiva.
+
+8.6. Encerrada a etapa de lances, o Pregoeiro deverá encaminhar pelo Sistema
+Eletrônico contraproposta diretamente à licitante que tenha apresentado o lance de
+menor valor, visando a obtenção de melhor proposta, vedada a negociação em
+condições diferentes das previstas no Editali, podendo esta negociação ser
+acompanhada pelas demais licitantes.
+
+8.6.1. O Pregoeiro poderá negociar com as demais licitantes, segundo a ordem
+de classificação inicialmente estabelecida, quando a primeira colocada, mesmo
+após a negociação, for desclassificada em razão de sua proposta permanecer
+acima do preço máximo definido no Edital.
+
+8.7. A partir da solicitação do Pregoeiro no Sistema Eletrônico, a licitante melhor
+classificada deverá encaminhar, sob pena de desclassificação, até as 13h do dia útil
+subsequente da sessão, proposta adequada ao úÚltimo lance ofertado após a
+negociação de que trata o item 8.6., conforme modelo do Anexo VY, e demais
+documentos listados no item 9.1, caso já não tenham sido anexados.
+
+8.7.1. Havendo necessidade de envio de documentos complementares após o
+julgamento da proposta, esses deverão ser apresentados em formato digital, via
+Sistema.
+
+8.7.2. É facultado ao Pregoeiro prorrogar o prazo estabelecido, a partir de
+solicitação fundamentada feita no chat pela licitante, antes de findo o prazo
+previsto no item 8.7.
+
+8.8. O Pregoeiro examinará a proposta classificada em primeiro lugar quanto à
+adequação dao objeto e à compatibilidade do preço em relação do máximo
+estipulado no Edital.
+
+8.9. As licitantes, a qualguer momento, após o término da etapa de lances, poderão
+registrar seus questionamentos para o Pregoeiro, através do Sistema, referente a
+determinado lote disputado, nos campos indicados. Todas as mensagens constarão
+no histórico do relatório referente à disputa.
+8.9.1. As respostas aos questionamentos também serão disponibilizadas no
+Sistema.
+8.10. No caso de desconexão apenas do Pregoeiro, e o Sistema permanecer
+acessível aos licitantes, no decorrer da etapa competitiva, os lances continuarão
+sendo recebidos, sem prejuízo dos atos realizados.
+8.10.1. O Pregoeiro, quando possível, dará continuidade à sua atuação no
+certame, sem prejuízo dos atos realizados.
+8.10.2. Quando a desconexão persistir por tempo superior a 10 (dez) minutos, a
+sessão pública será suspensa e reiniciada somente decorridas 24 (vinte e quatro)
+horas após a comunicação do fato às licitantes, no Sistema Eletrônico.
+
+8/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+PúbI , Pa Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+9. DA APRESENTAÇÃO DA PROPOSTA E DOS DOCUMENTOS DE HABILITAÇÃO
+
+9.1. As licitantes encaminharão, exclusivamente por meio do Sistema Eletrônico, a
+proposta com a descrição do objeto ofertado e o preço final proposto (conforme
+modelo do Anexo V) e os documentos de habilitação abaixo descritos, até a data e
+o horário estabelecidos pelo Pregoeiro, podendo deixar de apresentar os
+documentos de habilitação que constem no Sistema de Cadastramento Unificado
+de Fornecedores (SICAF) disponível no Portal Nacional de Contratações Públicas
+(PNCP) ou do Cadastro Unificado de Fornecedores do Estado do Paraná, desde que
+os referidos documentos estejam atualizados, assegurado às demais licitantes o
+direito de acesso aos dados constantes dos Sistemas:
+
+9.1.1. A proposta anexada no Sistema Eletrônico deverá conter:
+
+9.1.1.1. Descrição do objeto com o valor unitário e total para cada lote, sem
+ultrapassar os valores máximos fixados no Anexo |, cotados em moeda
+nacional, com no máximo duas casas decimais, em estrita observância a
+todas as descrições previstas neste Edital e seus Anexos, sob pena de
+desclassificação;
+
+9.1.1.2. Fabricante, marca e modelo dos produtos cotados, sob pena de
+desclassificação;
+
+9.1.1.3. Dados de identificação da licitante, do representante legal e
+assinatura, sob pena de desclassificação;
+
+9.1.1.4. As empresas beneficiárias do disposto no Convênio ICMS n.º 26/2003
+CONFAZ (item 7.1.3) deverão, de forma expressa e obrigatoriamente,
+indicar em sua proposta o preço onerado e o preço desonerado (o qual
+deve ser igual ou menor do preço do arrematante), para o lote 1,
+discriminando o percentual de desconto relacionado à isenção fiscal, sob
+pena de desclassificação;
+
+9.1.1.4.1. Para a licitante abrangida pelo benefício de que trata o item
+7.1.3, e que participar da licitação com o preço desonerado do ICMS
+(preço líquido), a soma do preço proposto (preço líquido) com o valor
+do respectivo imposto não pode ultrapassar o valor máximo
+estabelecido no Edital. Caso esta soma ultrapasse o máximo previsto no
+Edital, o Pregoeiro desclassificará a proposta;
+
+9.1.1.4.2.  Declaração da licitante, nos casos em que os produtos
+oferecidos estejam sujeitos do regime de substituição tributária, sob
+pena de desclassificação;
+9.1.2. Certidão Conjunta de Regularidade perante a Secretaria da Receita
+Federal do Brasil e Procuradoria-Geral da Fazenda Nacional, consoante Portaria
+MF nº 358/2014 (artigo 195, parágrafo 3º, da Constituição Federal e artigo 68,
+inciso IIl, da Lei nº 14.133/202]1);
+9.1.3. Certificado de Regularidade do Fundo de Garantia por Tempo de Serviço
+- FGTS (artigo é8, inciso IV, da Lei nº 14.133/202]1);
+
+9/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+PúbI , Pa Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+9.1.4. Certidão de Regularidade para com as Fazendas Estadual e Municipal
+(Mobiliária e Imobiliária) do domicílio ou da sede da empresa, ou outra
+equivalente (artigo 68, inciso IIl, da Lei nº 14.133/2021);
+
+9.1.5. Certidão Negativa de Débitos Trabalhistas (artigo 68, inciso V, da Lei nº
+14.133/2021);
+
+9.1.6. Declaração unificada, assinada pelo representante legal da licitante ou
+seu procurador devidamente qualificado, conforme modelo constante no Anexo
+|l a este Edital:
+
+- dando ciência de que cumpre plenamente os requisitos de habilitação e
+concorda na integralidade com o Edital e seus Anexos;
+
+- de elaboração independente de proposta;
+- de que cumpre o inciso XXXIII do artigo 7º da Constituição Federal;
+- de Inexistência de Fato Superveniente;
+
+- de Regularidade, em cumprimento às Resoluções nºs 37/2009 e 172/2017 do
+Conselho Nacional do Ministério Público;
+
+- de Reserva de Cargos para pessoas com deficiência e para reabilitado da
+Previdência Social;
+
+- dando ciência e concordância ao Código de Ética e de Conduta dos
+Servidores do Ministério Público do Estado do Paraná;
+
+- de Atendimento e Responsabilização com a Logística Reversa; e
+- de Atendimento dos Direitos Trabalhistas.
+
+9.1.6.1. Sendo a licitante Microempresa/Empresa de Pequeno Porte, deverá
+apresentar também a declaração conforme modelo constante no Anexo |ll
+a este Edital.
+
+9.1.7. Certidão da Junta Comercial, em caso de empresa individual; Ato
+Constitutivo, Estatuto ou Contrato Social em vigor, com todas as alterações,
+devidamente registrado, em se tratando de sociedades comerciais e, no caso
+de sociedades por ações, acompanhado da Atla de Eleição de seus
+administradores; ou Certidão do Cartório de Títulos e Documentos, quando se
+tratar de sociedade simples e sociedade civil;
+
+9.1.7.1. Os documentos mencionados no item supra podem ser substituídos
+por Certidão Simplificada da Junta Comercial, desde que constem os
+nomes dos representantes legais da licitante e o ramo de atividade, com
+data de expedição não superior a um dno;
+
+9.1.7.2. Comprovante de nomeação de administradores residentes no País,
+em caso de sociedade controlada por empresa estrangeira;
+
+9.1.8. A licitante deverá apresentar, em nome do fabricante do produto, dentro
+dos prazos de validade, caso a fabricação do produto fornecido tenha ocorrido
+em território nacional, conforme determinam a Resolução nº 237/1997 do
+CONAMA, art. 2º, 8 1º, Lei 6.938/81, art. 17, 1, Instrução Normativa nº 13/2021-
+IBAMA, art. 12, art.45, art. 46, art. 47 e Instrução Normativa nº 12/2018-IBAMA:
+
+10/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+PúbI , Pa Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+9.1.8.1. Licença Ambiental válida e compatível com o ramo de atividade
+da empresa, ou documento que comprove a isenção, ambos emitidos pelo
+órgão ambiental competente; e
+
+9.1.8.2. Cadastro Técnico Federal de Atividades Potencialmente Poluidoras
+ou Utiizadoras de Recursos Ambientais, (CTFAPP/IBAMA) válido e
+compatível com a fabricação do produto que é objeto da licitação,
+
+consulta do CNPJ do fabricante/importador, em:
+https://servicos.ibama.gov.br/ctf/publico/certificado regularidade consult
+a.php.
+
+9.1.9. Termo de Compromisso com a Segurança da Informação, conforme
+modelo Anexo 1.A a este Edital.
+
+9.1.10. Declaração de Ciência do Termo de Manutenção de Sigilo e das Normas
+de Segurança Vigentes conforme modelo Anexo |.B a este Edital.
+
+9.2. Os documentos exigidos deverão ter prazo de validade em curso na data de sua
+apresentação, sob pena de inabilitação, ou datados dos últimos 90 (noventa) dias
+que antecedem a data de abertura da sessão, quando não tiverem prazo
+estabelecido pelo órgão expedidor competente.
+
+9.2.1. Não se enquadram no prazo de que trata o item anterior os documentos
+cuja validade seja indeterminada.
+
+9.3. A verificação dos documentos apresentados nos sítios eletrônicos oficiais de
+órgãos e entidades emissores de certidões constitui meio legal de prova, para fins de
+habilitação.
+
+9.4. Na recomposição final da proposta, não poderá ser majorado o valor do último
+lance ofertado, sob pena de desclassificação.
+
+9.5. Os documentos exigidos neste Edital poderão ser apresentados por cópias, desde
+que legíveis e autenticadas por Oficial Público, e, os originais, com assinaturas do
+representante legal, que, havendo dúvida na representação, poderá ser realizada
+diligência para confirmação.
+
+9.5.1. Os documentos que forem apresentados com assinatura digital/eletrônica
+
+deverão ter — sua autenticidade — confirmada através do site
+
+https://validar.iti.gov.br/, sob pena de desclassificação.
+9.6. Constatado vício na comprovação da regularidade fiscal e trabalhista
+apresentada por microempresa ou empresa de pequeno porte ofertante do menor
+preço, o Pregoeiro declarará a licitante vencedora sob a condição de saneamento
+do defeito na documentação no prazo de 5 (cinco) dias úteis, cujo termo inicial
+corresponderá do momento em que a licitante for declarada vencedora do
+certame, prorrogáveis por igual período a critério da Administração, para
+regularização da documentação, nos termos do artigo 43, parágrafo 1º da Lei
+Complementar nº 123/2006.
+
+9.6.1. A não regularização da documentação, no prazo previsto no item
+anterior, implicará na decadência do direito à contratação, sem prejuízo das
+sanções previstas no artigo 90, parágrafo 5º da Lei nº 14.133/2021, sendo
+
+11/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+Ministério Público do Paraná Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+facultado à Administração convocar as licitantes remanescentes, na ordem de
+classificação, para assinatura do contrato, ou revogar a licitação.
+
+9.6.2. As microempresas e empresas de pequeno porte deverão apresentar
+toda a documentação exigida para efeito de comprovação de regularidade
+fiscal e trabalhista, mesmo que esta apresente alguma restrição.
+
+9.7. O Pregoeiro poderá, no julgamento da habilitação e das propostas, sanar erros
+ou falhas que não alterem a substância das propostas, dos documentos e sua
+validade jurídica, mediante decisão fundamentada, registrada no Sistema e
+acessível aos licitantes, e lhes atribuirá validade e eficácia para fins de habilitação e
+classificação.
+
+9.8. Havendo necessidade de suspensão da sessão pública para a realização de
+diligências, com vistas ao saneamento do procedimento, a sessão pública somente
+poderá ser reiniciada mediante aviso prévio no Sistema com, no mínimo, 24 (vinte e
+quatro) horas de antecedência, e a ocorrência será registrada no Sistema.
+
+9.9. A licitante que deixar de apresentar quaisquer dos documentos exigidos, ou
+apresentá-los em desacordo com o estabelecido neste Edital, ou com irregularidade,
+com exceção do previsto no item 9.6, será inabilitada, sem prejuízo da aplicação, no
+que couber, das penadlidades aqui previstas e demais cominações legais.
+
+9.10. Constatado o atendimento às exigências estabelecidas no Edital, mediante
+análise da proposta e da documentação, o Pregoeiro declarará a vencedora no
+Sistema Eletrônico.
+
+9.10.1. Verificada a documentação pertinente, se a proposta vencedora não
+for aceitável ou se a licitante desatender às exigências de habilitação, o
+Pregoeiro examinará as propostas subsequentes, na ordem de classificação,
+verificando sua aceitabilidade e procedendo a sua habilitação, e assim
+sucessivamente, até a apuração de uma proposta que atenda a todas as
+exigências do Edital.
+
+9.10.2. Ocorrendo a situação a que se refere o item 9.10.1, o Pregoeiro poderá
+negociar com a licitante, para que seja obtido preço melhor.
+
+9.10.3. Somente será considerada habilitada a licitante que houver preenchido
+todos os requisitos de habilitação.
+
+9.11. Encerradas as etapas de julgamento das propostas e do ato de habilitação e
+inabilitação, qualquer licitante poderá, no prazo de 10 minutos, em campo próprio
+do Sistema Eletrônico, manifestar de forma imediata a intenção de recorrer, sob pena
+de preclusão, em relação às fases de julgamento e habilitação, possuindo o prazo
+de 3 (três) dias úteis para apresentação das razões recursais após a formalização do
+término da etapa de antecede a adjudicação.
+9.11.1. Quando a licitante for desclassificada e o lote resultar fracassado ou
+prejudicado, essa deverá manifestar sua intenção de recorrer através do
+endereço subadm.cplemppr.mp.br, durante o prazo concedido na sessão
+pública, e a seguir obbedecer dao disposto no item 11.1.
+
+12/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+PúbI , Pa Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+9.12. A falta de manifestação imediata das licitantes quanto à intenção de recorrer
+implicará a decadência do direito de recurso, cabendo ao Pregoeiro encaminhar o
+processo devidamente instruído à Autoridade competente e propor a homologação.
+
+9.13. É facultado ao Pregoeiro ou a autoridade competente:
+
+9.13.1. Promover diligência destinada a esclarecer ou complementar a
+instrução do processo, em qualquer fase do Pregão;
+
+9.13.2. Relevar erros formais ou simples omissões em quaisquer documentos,
+para fins de habilitação e classificação da licitante, desde que sejam
+irrelevantes, não alterem os parâmetros da proposta e o ato não acarrete
+violação aos princípios básicos da licitação;
+
+9.13.3. Convocar licitantes para quaisquer esclarecimentos porventura
+necessários do entendimento de suas propostas.
+
+9.14. Para compor o processo eletrônico do certame, só serão transferidos do site
+https://wWww.gov.br/compras/ para o Sistema Eletrônico SEI, utiizado pelo Ministério
+Público do Estado do Paraná, os documentos elencados no item 9.1 deste Edital.
+
+10. DAS SOLICITAÇÕES DE ESCLARECIMENTOS, PROVIDÊNCIAS E IMPUGNAÇÃO DO
+EDITAL
+
+10.1. Qualquer pessoa, física ou jurídica, é parte legítima para solicitar
+esclarecimentos, providências, ou impugnar os termos do presente Edital, desde que
+encaminhada a manifestação com antecedência de 3 (três) dias úteis da data
+fixada para o recebimento das propostas, dirigidas do Pregoeiro, através do
+endereço eletrônico subadm.cplemppr.mp.br.
+
+10.2. Quaisquer outras manifestações formais subsequentes dao prazo do item anterior
+serão recebidas apenas como meros pedidos de esclarecimentos.
+
+10.3. Decairá do direito de impugnar os termos do Edital a licitante que não apontar
+as falhas ou irregularidades supostamente existentes no prazo fixado no item 10.1.
+10.4. ÀA autoridade competente decidirá sobre a petição no prazo de até 3 (três) dias
+Úúteis; limitado ao último dia útil anterior à data da abertura do certame.
+
+11. DOS RECURSOS
+
+11.1 Manifestada a intenção de recorrer, conforme item 9.11, inicia-se o prazo de 3
+(três) dias úteis para a apresentação dos memoriais relacionados à intenção
+manifestada, cuja contagem terá início no primeiro dia útil subsequente ao término
+do prazo concedido.
+
+11.1.1. Ficam as demais licitantes desde logo intimadas para apresentarem
+contrarrazões, se quiserem, em igual prazo, cuja contagem terá início no
+primeiro dia útil subsequente ao término do prazo do item 11.1.
+11.1.2. Os recursos intempestivos não serão conhecidos.
+11.2. As razões recursais devem ser encaminhadas em campo próprio do Sistema
+wWW.gov.br/compras .
+
+13/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+PúbI , Pa Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+ee
+11.2.1. A não apresentação dos memoriais configurará renúncia ao direito de
+recorrer.
+
+11.2.2. Será assegurada à licitante vista dos elementos indispensáveis à defesa
+de seus interesses, que deverá ser solicitada via e-mail para o endereço
+subadm.cplemppr.mp.br.
+
+11.3. Não serão conhecidos os recursos subscritos por representante que não
+comprove poder de representação legal.
+
+11.4. Caberá ao Pregoeiro receber, examinar e instruir os recursos impetrados contra
+suas decisões e ao Subprocurador-Geral de Justiça para Assuntos Administrativos a
+decisão final em relação àqueles, quando o Pregoeiro mantiver sua decisão.
+
+11.5. O recurso será dirigido à autoridade que tiver editado o ato ou proferido a
+decisão recorrida, a qual poderá reconsiderar sua decisão no prazo de 3 (três) dias
+Úteis, OU, nesse mesmo prazo, encaminhar o recurso para a autoridade superior, a
+qual deverá proferir sua decisão no prazo de 10 (dez) dias úteis, contado do
+recebimento dos autos.
+
+12. DA ADJUDICAÇÃO E DA HOMOLOGAÇÃO
+
+12.1. Examinada a aceitabilidade da proposta, a regularidade e a habilitação da
+licitante vencedora, o procedimento licitatório será encaminhado pelo Pregoeiro do
+Subprocurador-Geral de Justiça para Assuntos Administrativos para adjudicação e
+homologação.
+
+13. DO PRAZO DE VALIDADE DA PROPOSTA
+
+13.1. A proposta deverá ter validade mínima de 90 (noventa) dias a partir da data
+estipulada para abertura do presente certame, excluindo-se o dia de início e
+incluindo-se o do final. Caso este prazo não esteja expressamente indicado, o mesmo
+será considerado como aceito para efeito de julgamento.
+
+14. DA DESPESA E DO VALOR MÁXIMO
+
+14.1. O pagamento desta contratação correrá, mediante a emissão de Nota de
+Empenho, a conta da 0960.03091048.01] — Gestão do Fundo Especial do Ministério
+Público do Paraná - FUEMP, no subelemento de despesa 4490.5235 - Equipamentos
+de Processamento de Dados.
+
+14.2. O valor máximo para este Pregão é de R$ 1.077.600,00 (um milhão, setenta e
+sete mil e seiscentos reais).
+
+15. DOS PRAZOS, DA ENTREGA, DA GARANTIA E DA VIGÊNCIA DO CONTRATO
+
+15.1. O prazo de entrega para todos os equipamentos é de até 90 (noventa) dias
+corridos, a partir da data da assinatura do contrato;
+
+15.2. Todos os lotes devem ser entregues na sede do Departamento de Tecnologia
+
+da Informação do Ministério Público do Paraná — DTI/MP-PR, à Rua Deputado Mário
+14/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+PúbI , Pa Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+de Barros, número 1290, 1º andar — Centro Cívico/PR - Curitiba/PR, devidamente
+embalados e lacrados pela fábrica, acompanhados de notas fiscais.
+
+15.3. A entrega deve ser realizada dentro do horário regimental do MPPR, de segunda
+a sexta-feira, considerando o calendário de feriados do órgão, devendo ser
+agendada com antecedência mínima de 48 horas conforme indicado no item
+anterior, sob o risco de não ser autorizada, através do e-mail subadm.dti.nagemppr.mp.br
+
+15.4. Por ocasião da entrega dos produtos, por parte da contratada, os mesmos
+sofrerão verificação, sendo recusado(s) aquele(s) que estiverfem) em desacordo
+com as especificações do presente Instrumento ou em desconformidade com a
+proposta ou ainda com problemas de funcionamento, conforme item 1.4 do Anexo |
+a este Edital.
+
+15.5. Os equipamentos deverão ser entregues identificados, conforme item 1.4.21 do
+Anexo | a este Edital.
+
+15.6. O fabricante ou empresa credenciada pelo fabricante, deverá prestar, sem
+qualquer custo adicional, os serviços pertinentes a garantia dos equipamentos, bem
+como cumprir os prazos definidos neste edital, por um período de no mínimo 60
+(sessenta) meses a contar da data de recebimento (aceite) definitivo dos
+equipamentos.
+
+15.6.1. Demais orientações relativas à garantia encontram-se detalhadas no item
+4.5 do Anexo | a este Edital.
+
+15.7. A vigência do contrato inicia a partir de sua assinatura até 60 (sessenta) meses
+após a emissão do Termo de Aceite Definitivo, podendo ser prorrogada até o limite
+legal, conforme Item 4.4 do Anexo | a este Edital
+
+16. DA CONTRATAÇÃO E DO PAGAMENTO
+
+16.1. Após a publicação da homologação do resultado do julgamento e da
+declaração da adjudicatária no endereço eletrônico (www.mppr.mp.br — licitações)
+e no Diário Eletrônico do Ministério Público do Estado do Paraná, é dever da licitante,
+em até 5 (cinco) dias úteis, assinar o contrato e retirar a Nota de Empenho, mediante
+liberação por parte do Departamento de Aquisições e Logística, situado na Rua
+Marechal Hermes, nº 751, Centro Cívico, Curitiba, Paraná.
+
+16.1.1. A assinatura deverá, preferencialmente, ser realizada de forma
+digital/eletrônica, devidamente autenticada com certificado válido ou, de
+forma presencial no caso de empresas com domicílio na Capital do Estado do
+Paraná, devendo o representante da empresa comparecer à Sede da Instituição
+(Rua Marechal Hermes, 751, Centro Cívico, Curitiba/PR) para assinatura do
+contrato.
+
+16.1.2. Caso a empresa não disponha de assinatura digital/eletrônica, e também
+não possua domicílio na Capital do Estado do Paraná o contrato será remetido
+via Correio, encomenda expressa (SEDEX), devendo a empresa apor a assinatura
+e devolver também da mesma forma.
+
+15/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+PúbI , Pa Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+16.2. Na hipótese de não comprovação das condições de habilitação consignadas
+no item 16.5 do Edital ou a recusa da licitante em assinar o contrato e/ou retirar a
+nota de empenho, outra licitante poderá ser convocada, respeitada a ordem de
+classificação, para, após a comprovação dos requisitos para habilitação, analisada
+a proposta e eventuais documentos complementares e, feita a negociação, assinar
+o contrato e retirar a nota de empenho, em igual prazo e nas mesmas condições
+propostas pela licitante primeira classificada (artigo 90, parágrafo 2º, da Lei nº
+14.133/21), sem prejuízo da aplicação das sanções previstas neste Edital.
+
+16.3. Ocorrendo a hipótese descrita no item 16.2, caracterizar-se-á o descumprimento
+total da obrigação assumida pela licitante vencedora e adjudicatária, sujeitando-se
+esta às penalidades legais estabelecidas na Lei nº 14.133/2021 (artigos 155 a 163).
+
+16.4. O pagamento pelo objeto da presente licitação será efetuado em até 10 (dez)
+dias úteis, após o aceite definitivo. A Nota Fiscal deverá ser entregue do
+Departamento de Tecnologia da Informação, discriminando os bens fornecidos.
+
+16.5. O pagamento somente será efetuado mediante a apresentação das certidões
+de regularidade com a Secretaria da Receita Federal do Brasil e Procuradoria-Geral
+da Fazenda Nacional, o FGTS, as Fazendas Estadual e Municipal do domicílio ou sede
+da empresa, e a Certidão Negativa de Débitos Trabalhistas, além de comprovar a
+reserva de cargos prevista em lei para pessoa com deficiência, para reabilitado da
+Previdência Social ou para aprendiz, bem como as reservas de cargos previstas na
+legislação (artigo 116 da Lei nº 14.133/2021).
+
+16.6. Na ocorrência de rejeição da Nota Fiscal, motivada por erros ou incorreções, o
+prazo para pagamento passará a ser contado a partir da data da sua
+reapresentação, devidamente corrigida.
+
+16.7. Nenhum pagamento será efetuado à Contratada enquanto pendente de
+liquidação qualquer obrigação financeira, sem que isso gere direito a alteração de
+valor ou a compensação financeira.
+
+16.8. O Ministério Público do Estado do Paraná poderá deduzir do montante a pagar
+os valores correspondentes a multas ou indenizações devidas pela Contratada, nos
+termos deste Pregão.
+
+16.9. Para efeito da emissão da Nota Fiscal, o número de inscrição no CNPJ do
+Ministério Público do Estado do Paraná é 78.206.307/0001-30 e o endereço é Rua
+Marechal Hermes, nº 751, Centro Cívico, em Curitiba, Estado do Paraná.
+
+16.9.1. As Contratadas que se enquadrarem no item 7.1.3 do Edital deverão
+apresentar a Nota Fiscal para o lote 1 contendo o valor líquido com o
+abatimento do ICMS dos produtos, demonstrando no documento fiscal (campo
+destinado aos dados adicionais), a indicação do valor normal bruto com ICMS,
+valor do ICMS a ser deduzido e valor líquido com a respectiva dedução.
+
+16.10. O Ministério Público do Estado do Paraná reserva-se o direito de recusar o
+pagamento se, no ato da aceitação, o bem ofertado não estiver de acordo com as
+especificações apresentadas.
+
+16/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+PúbI , Pa Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+17. DAS PENALIDADES E SANÇÕES ADMINISTRATIVAS
+
+17.1. A licitante e a Contratada que incorra em infrações administrativas sujeita-se às
+seguintes sanções:
+
+| - advertência;
+|l - multa, na forma prevista neste instrumento convocatório;
+
+lll - impedimento de licitar e contratar com a Administração, por prazo não
+superior a 3 (três) anos, conforme o artigo 156, parágrafo 4º da Lei nº 14.133/202];
+e
+
+IV - declaração de inidoneidade para licitar ou contratar com a Administração
+Pública, pelo prazo de 3 (três) a 6 (seis) anos conforme o artigo 156, parágrafo 5º
+da Lei nº 14.133/202].
+
+17.2. As sanções previstas no item 17.1 poderão ser aplicadas a quem:
+| - der causa à iInexecução parcial do contrato;
+
+|l - der causa à inexecução parcial do contrato que cause grave dano à
+Administração, ao funcionamento dos serviços públicos ou dao interesse coletivo;
+
+lll - der causa à iInexecução total do contrato;
+
+IV - deixar de entregar a documentação exigida para o certame;
+
+V - não mantiver a proposta, salvo em decorrência de fato superveniente
+
+devidamente justificado;
+
+VI - não celebrar o contrato ou não entregar a documentação exigida para a
+
+contratação, quando convocado dentro do prazo de validade de sua proposta;
+
+VIl - ensejar o retardamento da execução ou da entrega do objeto da licitação
+
+sem motivo justificado;
+
+VIIl - apresentar declaração ou documentação falsa exigida para o certame ou
+
+prestar declaração falsa durante a licitação ou a execução do contrato;
+
+IX - fraudar a licitação ou praticar ato fraudulento na execução do contrato;
+
+X - comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+
+Xl - praticar atos ilícitos com vistas a frustrar os objetivos da licitação;
+
+XIl - praticar ato lesivo previsto no artigo 5º da Lei nº 12.846/2013.
+17.3. As sanções previstas nos itens |1, lll e IV do item 17.1 poderão ser aplicadas
+cumulativamente com a multa, conforme artigo 198, parágrafo 2º, do Decreto
+Estadual nº 10.086/2022.
+
+17.4. ADVERTÊNCIA é a sanção aplicada por descumprimento, de pequena
+relevância, de obrigação legal ou infração à Lei quando não se justificar aplicação
+de sanção mais grave e/ou inexecução parcial de obrigação contratual principal ou
+acessória de pequena relevância, a critério da Administração, quando não se
+justificar aplicação de sanção mais grave conforme artigo 195, do Decreto Estadual
+nº 10.086/2022.
+
+17.5. Fica estipulada a MULTA MORATÓRIA de 0,5% (cinco décimos por cento) por dia
+de atraso sobre o valor total do contrato quando a Contratada, sem justa causa,
+
+17/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+PúbI , Pa Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+deixar de cumprir, dentro dos prazos estabelecidos, a obrigação assumida. A partir
+do trigésimo primeiro dia de atraso, essa multa será aplicada em dobro, sobre todo
+o período moratório, limitando-se ao montante de até 30% (trinta por cento) sobre o
+valor total do contrato. Decorridos 30 (trinta) dias corridos de atraso, o Contratante
+poderá decidir pela continuidade da multa ou pelo cancelamento do pedido ou
+documento correspondente em razão da inexecução total do respecitivo objeto,
+aplicando, na hipótese de inexecução total, apenas a multa prevista no item 17.6.
+
+17.5.1. A Contratada estará sujeita à aplicação de multa de 10% (dez por cento)
+do valor unitário do equipamento objeto do ticket de atendimento, acrescida de
+0,5% (meio por cento) por dia de atraso, até o máximo de 30% (trinta por cento),
+pelo atraso no atendimento ao chamado constante do item 4.5.5 e pelo atraso
+à substituição constante dos itens 4.5.32 e 4.5.33, todos do Anexo | a este Edital.
+
+17.6. Fica estipulada a MULTA COMPENSATÓRIA de 30% (trinta por cento) sobre o valor
+total do contrato, na hipótese de inexecução parcial ou total, caracterizada esta
+quando a execução do objeto contratado for inferior a 50% (cinquenta por cento)
+do total, quando hovver reiterado descumprimento das obrigações assumidas, ou
+quando o atraso na execução ultrapassar o prazo limite de 30 (trinta) dias corridos, a
+que se refere o item 17.5, hipótese em que poderá ser cancelado o pedido ou
+documento correspondente.
+
+17.7. O valor correspondente a qualquer multa aplicada à Contratada, respeitados
+os Princípios do Contraditório e da Ampla Defesa, deverá ser depositado em até 10
+(dez) dias corridos, após o recebimento da notificação, em favor do Contratante,
+ficando a Contratada obrigada a comprovar o recolhimento, mediante a
+apresentação da cópia do recibo do depósito efetuado.
+
+17.7.1. As multas poderão ser descontadas de pagamento eventualmente
+devido pelo Contratante decorrentes de outros contratos firmados com o
+Ministério Público do Estado do Paraná, conforme artigo 199, parágrafo 2º, do
+Decreto Estadual nº 10.086/2022.
+
+17.8. Decorrido o prazo de 10 (dez) dias corridos, para recolhimento da muita, o
+débito será acrescido de 1% (um por cento) de mora por mês/fração, inclusive
+referente do mês da quitação/consolidação do débito, limitado o pagamento com
+atraso em até 60 (sessenta) dias corridos, após a data da notificação, e, após este
+prazo, o débito poderá ser cobrado judicialmente.
+
+17.9. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de
+pagamento eventualmente devido pela Administração à Contratada, além da
+perda desse valor, a diferença será descontada da garantia prestada ou será
+cobrada judicialmente, conforme artigo 156, parágrafo 8º, da Lei nº 14.133/202].
+
+17.10. AÀA aplicação das sanções previstas no item 17.1 não exclui, em hipótese
+alguma, a obrigação de reparação integral do dano causado à Administração
+Pública, conforme artigo 156, parágrafo 9º, da Lei nº 14.133/202].
+
+17.11. Os valores relativos à aplicação das multas serão retidos do pagamento da
+Contratada, durante o processo administrativo no qual se discute a sua regular
+
+18/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+PúbI , Pa Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+aplicação, após o qual será devolvida à Contratada ou estornada do empenho
+respectivo.
+
+17.12. AÀ aplicação da muita a que se refere o itlem 17.6 não impede a rescisão
+unilateral do contrato nem que se apliquem as demais sanções previstas neste Edital
+e na legislação pertinente.
+
+17.13. O IMPEDIMENTO DE LICITAR E CONTRATAR será aplicado à licitante que:
+
+17.13.1. der causa à inexecução parcial do contrato que cause grave dano à
+Administração, ao funcionamento dos serviços públicos ou dao interesse coletivo;
+
+17.13.2. der causa à inexecução total do contrato;
+
+17.13.3. deixar de entregar a documentação exigida para o certame;
+
+17.13.4. não mantiver a proposta, salvo em decorrência de fato superveniente
+devidamente justificado;
+
+17.13.5. não celebrar o contrato ou não entregar a documentação exigida para
+a contratação, quando convocado dentro do prazo de validade de sua
+proposta; e
+
+17.13.6. ensejar o retardamento da execução ou da entrega do objeto da
+licitação sem motivo justificado.
+
+17.14. AÀA aplicação da sanção prevista no item 17.13 deve observar o prazo de
+duração de no máximo 3 (três) anos e impede a participação da sancionada em
+procedimentos promovidos no âmbito do Estado do Paraná, sem prejuízo do disposto
+no artigo 156, parágrafo 4º da Lei nº 14.133/202].
+
+17.15. ADECLARAÇÃO DE INIDONEIDADE PARA LICITAR OU CONTRATAR será aplicada
+a quem:
+17.15.1. apresentar declaração ou documentação falsa exigida para o certame
+ou prestar declaração falsa durante a licitação ou a execução do contrato;
+
+17.15.2. fraudar a licitação ou praticar ato fraudulento na execução do contrato;
+
+17.15.3. comportar-se de modo inidôneo ou cometer fraude de qualquer
+natureza;
+
+17.15.4. praticar atos ilícitos com vistas a frustrar os objetivos da licitação;
+17.15.5. praticar ato lesivo previsto no artigo 5º da Lei nº 12.846/2013.
+
+17.16. A declaração de inidoneidade será aplicada pelo prazo mínimo de 3 (três) e
+máximo de é (seis) anos e produzirá seus efeitos no âmbito da Administração Pública
+direta e indireta de todos os entes federativos, conforme artigo 156, parágrafo 5º, da
+Lei nº 14.133/202].
+
+17.17. A autoridade máxima do órgão ou entidade é a autoridade competente para
+impor a declaração de inidoneidade, conforme artigo 156, parágrafo éº, inciso |l, da
+Lei nº 14.133/202].
+
+17.18. A personadlidade jurídica poderá ser desconsiderada sempre que utilizada com
+
+abuso do direito para facilitar, encobrir ou dissimular a prática dos atos ilícitos previstos
+
+na Lei nº 14.133/2021] ou para provocar confusão patrimonial, e, nesse caso, todos os
+
+efeitos das sanções aplicadas à pessoa jurídica serão estendidos aos seus
+19/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+PúbI , Pa Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+administradores e sócios com poderes de administração, a pessoa jurídica sucessora
+OU a empresa do mesmo ramo com relação de coligação ou controle, de fato ou
+de direito, com a sancionada, observados, em todos os casos, o contraditório, a
+ampla defesa e a obrigatoriedade de análise jurídica prévia, conforme artigos 215 a
+223 do Decreto Estadual nº 10.086/2022.
+
+PROCEDIMENTOS DE APLICAÇÃO DAS PENALIDADES E SANÇÕES ADMINISTRATIVAS
+
+17.19. Caso a licitante incorra em uma das condutas elencadas no presente capítulo,
+será instaurado procedimento administrativo para apuração da irregularidade e a
+aplicação de sanções, no qual será assegurada a ampla defesa e o contraditório,
+observado o disposto no Decreto Estadual nº 10.086/2022.
+
+17.20. Na aplicação das penalidades serão consideradas as circunstâncias artigo
+156, parágrafo 1º da Lei nº 14.133/2021, quais sejam:
+
+| - a natureza e a gravidade da infração cometida;
+
+1l - as peculiaridades do caso concreto;
+
+IIl - as circunstâncias agravantes ou atenuantes;
+
+IV - os danos que dela provierem para a Administração Pública;
+
+V-aimplantação ou o aperfeiçoamento de programa de integridade, conforme
+normas e orientações dos órgãos de controle.
+
+17.20.1. Deverão ser consideradas como agravantes e altenuantes as
+circunstâncias previstas nos incisos dos artigos 211 a 213 do Decreto Estadual nº
+10.086/2022.
+
+17.20.2. O cometimento de mais de uma infração em uma mesma licitação ou
+relação contratual sujeitará o infrator à sanção cabível para a mais grave entre
+elas, ou se iguais, somente uma delas, sopesando-se, em qualquer caso, as
+demais infrações como circunstância agravante, observando-se, ainda o
+previsto nos parágrafos do artigo 198 do Decreto Estadual 10.086/2022.
+
+18. DAS CONSIDERAÇÓES FINAIS
+18.1. O Ministério Público do Estado do Paraná poderá:
+
+18.1.1. anular este Pregão se hovuver ilegalidade, de ofício ou por provocação de
+terceiros, mediante parecer escrito e devidamente fundamentado;
+
+18.1.2. revogar a seu juízo se for considerado inoportuno ou inconveniente do
+interesse público, em decorrência de falo superveniente, devidamente
+comprovado, pertinente e suficiente para justificar tal conduta;
+
+18.1.3. transferir a data da sessão pública.
+
+18.2. As licitantes não terão direito à indenização em decorrência da anulação do
+procedimento licitatório por motivo de ilegalidade.
+
+20/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+o Público do Pa Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+18.3. A declaração de nulidade do contrato administrativo retroage impedindo os
+seus efeitos jurídicos e desconstitui os já produzidos, conforme artigo 148, caput, da
+Lei nº 14.133/202].
+
+18.4. AÀA presente licitação poderá ser revogada, a critério da Administração, nos
+termos do artigo 71 da Lei nº 14.133/2021, por razões de interesse público, como
+apresentar a licitante vencedora preço superior ao de mercado, salvo se promover
+a adequação/redução do preço; ou ser anulada por iilegalidade insanável, de ofício
+OU por provocação, mediante parecer escrito e fundamentado, visando resguardar
+o interesse da Administração, sem que às licitantes assista o direito à indenização de
+qualquer espécie, cabendo recurso no prazo de 5 (cinco) dias úteis contados a partir
+da data da anulação ou revogação da licitação, observado o disposto nos artigos.
+165 a 168 da Lei Federal n.º 14.133/2021], no que couber, conforme artigo 107,
+parágrafo 2º do Decreto Estadual nº 10.086/2022.
+
+19. DOS ANEXOS
+
+19.1. São partes integrantes deste Edital:
+
+ANEXO | — Termo de Referência;
+
+ANEXO |l - Modelo da declaração referente ao item 9.1.6;
+ANEXO Ill - Modelo da declaração referente ao item 9.1.6.1;
+ANEXO |V - Minuta do Termo de Contrato;
+
+ANEXO V — Modelo para Apresentação de Proposta;
+ANEXO VI — Estudo Técnico Preliminar; e
+
+ANEXO VIl - Mapa de Formação de Preços.
+
+Para conhecimento de todos, lavrou-se o presente Edital que será afixado no
+Ministério Público do Estado do Paraná no lugar de costume e publicado nos termos
+da legislação.
+
+Curitiba, 16 de setembro de 2025.
+AN DY JOSE Assinado de forma digital por
+
+ANDY JOSE
+
+SILVEIRA:046 1008  SILVEIRA:0461 0089980
+
+9980 %a;l:looos; 2025.09.17 12:53:02
+Andy José Silveira
+
+Pregoeiro
+
+Assinado de forma digital por
+BELISA TIEMI DUARTE BELISA TIEMI DUARTE DE
+
+DE ALMEIDA ALMEIDA
+OKAMURA:04281247 OKAMURA:04281247980
+
+Dados: 2025.09.16 15:28:29
+980 03'00
+
+21/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+M PPR Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+Anexo |
+
+Ministério Público do Paraná
+
+TERMO DE REFERÊNCIA
+
+1. OBJETO
+
+Aquisição de 12 (doze) workstations de alto desempenho para processamento de
+vestígios digitais, com 2 (dois) monitores cada e garantia on-site de 60 (sessenta) meses.
+
+1.1. DESCRIÇÃO
+
+Computadores no padrão workstations com processadores de alto desempenho, 256Gb
+de memória RAM, armazenamento SSD e HDD, placa de vídeo de 16Gb, dois monitores
+QHD de 27 polegadas, com garantia total de 60 meses para equipamento e acessórios
+na modalidade on-site em todo o Estado do Paraná.
+
+1.2. ESPECIFICAÇÕES TÉCNICAS MÍNIMAS
+
+Código CATMAT Descrição
+
+Microcomputador
+Memória Ram: Superior a 8 GB
+Núcleos Por Processador: Superior a 8
+Armazenamento Hdd: Superior a 4 TB
+467573 Armazenamento Ssd: Até 2Tb
+Monitor: 21 a 29 pol
+Componentes Adicionais: Com Teclado e Mouse
+Garantia On Site: Superior a 36 meses
+
+1.3. ESTIMATIVAS DO VALOR DA CONTRATAÇÃO
+
+Descrição . Valor Unitário (R$) Valor Total (R$)
+
+Workstations de alto desempenho para R$ 89.800,00 R$ 987.800,00
+processamento de vestígios digitais, com
+
+2 (dois) monitores cada e garantia on-
+
+site de 60 (sessenta) meses.
+
+Workstations de alto desempenho para R$ 89.800,00 R$ 89.800,00
+processamento de vestígios digitais, com
+
+2 (dois) monitores cada e garantia on-
+
+site de 60 (sessenta) meses.
+
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+M PPR Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+Anexo |
+
+Ministério Público do Paraná
+
+1.4. DO FORNECIMENTO
+
+1.4.1. A entrega de todos os equipamentos deverá ocorrer em até 90 (noventa) dias
+corridos, a partir da data da assinatura do contrato;
+
+1.4.2. A contratada deverá entregar os produtos, em perfeitas condições de uso no
+Departamento de Tecnologia e Informação, localizado na Rua Deputado Mario de
+Barros, 1290, Centro Cívico, Curitiba/PR, devidamente embalados e lacrados pela fábrica
+e acompanhados de notas fiscais;
+
+1.4.3. A entrega deverá ser, obrigatoriamente, agendada previamente através do e-mail
+subadm.dti.nagemppr.mp.br;
+
+1.4.4. AÀ entrega deve ser redlizada dentro do horário regimental do MPPR, de segunda a
+sexta-feira, considerando o calendário de feriados do órgão, devendo ser agendada
+com antecedência mínima de 48 horas conforme indicado no item anterior, sob o risco
+de não ser autorizada;
+
+1.4.5. O MPPR não fornecerá equipamentos ou mão-de-obra para auxiliar na descarga,
+designando apenas um funcionário para fiscalizar os procedimentos realizados pela
+contratada;
+
+1.4.6. Por ocasião da entrega dos produtos, por parte da contratada, os mesmos sofrerão
+verificação, sendo recusado(s) aquele(s) que estiverfem) em desacordo com as
+especificações do presente instrumento ou em desconformidade com a proposta ou
+ainda com problemas de funcionamento;
+
+1.4.7. Quaisquer danos ocorridos no transporte dos produtos e observados a qualquer
+tempo, deverão ser reparados pela contratada, sem qualquer solidariedade por parte
+do MPPR;
+
+1.4.8. Os equipamentos devem ser fornecidos em pleno funcionamento, prontos para a
+utiização, com todos os acessórios e componentes (cabos de energia, mouse, teclado,
+etc);
+
+1.4.9. Os equipamentos devem ser acondicionados em embalagens individuais, lacradas,
+originais do fabricante, com o menor volume possível, desenvolvidas para o produto, de
+modo a garantir um transporte seguro em qualisquer condições e limitações que possam
+ser encontradas, além de possibilitar o armazenamento e estocagem de forma segura;
+
+1.4.10. No ato de entrega dos equipamentos, o MPPR fornecerá à empresa contratada
+termo de recebimento provisório;
+
+1.4.11. A verificação quanto ao estado dos equipamentos será realizada no lote total;
+
+1.4.12. Serão verificadas as especificações técnicas dos equipamentos e ainda as
+características de marca, modelo, e outros elementos que de forma inequívoca
+identifiquem e constatem as configurações cotadas, possíveis expansões e upgrades,
+comprovando-os através de certificados, endereço eletrônico do fabricante, manuais
+
+23/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+Comissão Permanente de Licitação
+
+Ministério Público do Paraná Pregãº Eletrônicº nº 90040/25
+Anexo |
+
+técnicos, folders e demais literaturas técnicas editadas pelo fabricante e fornecidos pela
+contratada;
+
+1.4.13. Será verificado se os equipamentos fornecidos foram originalmente fabricados e
+homologados pelo fabricante;
+
+1.4.14. Será verificado se os equipamentos fornecidos são inteiramente novos, ou seja, os
+equipamentos, como um todo, e seus componentes / acessórios;
+
+1.4.15. Serão verificados os dados e prazo da garantia apresentada pela contratada,
+junto ao site do fabricante através do número de série do equipamento;
+
+1.4.16. Serão verificados os dados apresentados nas planilhas eletrônicas exigidas no item
+1.4.21.7;
+
+1.4.17. Será verificada a fixação das plaquetas de patrimônio em local determinado,
+conforme item 1.4.21.2;
+
+1.4.18. Será verificada a inscrição do número de patrimônio, número de série e código
+de barras na etiqueta da embalagem do equipamento, conforme item 1.4.21.6;
+
+1.4.19. Será verificada a presença de cabos e acessórios; e
+
+1.4.20. Sendo atendidas todas as exigências deste edital, o MP-PR emitirá o Termo de
+Aceite Definitivo.
+
+1.4.21. IDENTIFICAÇÃO
+
+1.4.21.1. Cada equipamento, além do número de série, deverá ser entregue identificado
+com etiqueta de patrimônio do MPPR;
+
+1.4.21.2. Deverão ser afixadas plaquetas de patrimônio, em local a ser definido pelo
+MPPR, preferencialmente na frente dos equipamentos, sendo uma no exterior do
+gabinete do computador e uma no exterior de cada mornitor;
+
+1.4.21.3. As plaquetas deverão ser retiradas pela contratada, na sede do Departamento
+de Tecnologia da Informação, após a assinatura do contrato, com agendamento prévio
+por e-mail;
+
+1.4.21.4. Os equipamentos deverão ser entregues pelo fabricante com as etiquetas
+devidamente afixadas através de processo fabril, não sendo aceito qualquer outro
+processo;
+
+1.4.21.5. O número de patrimônio do respectivo microcomputador deve ser gravado na
+BIOS através de processo fabril, permitindo acesso por intermédio do software de
+gerenciamento (Obs.: o software para este tipo de gerenciamento não será exigido);
+
+1.4.21.6. Deverá haver uma etiqueta afixada em cada uma das embalagens dos
+equipamentos, nas quais constem seus números de patrimônio e de série, de forma que
+seja fácil uma leitura visual e através de código de barras, com a mesma simbologia
+aplicada às etiquetas patrimoniais;
+
+24/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+M PPR Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+Anexo |
+
+Ministério Público do Paraná
+
+1.4.21.7. Deverá ser fornecida uma planilha, em formato eletrônico, que relacione:
+
+1.4.21.7.1. Equibamentos: Numeração sequencial das plaquetas patrimoniais, marca,
+modelo do equipamento, número de série, endereço MAC da interface de rede,
+endereço MAC da infterface wi-fi, separadas por nota fiscal. Cada uma dessas
+informações deverá estar em colunas e células separadas;
+
+1.4.21.7.2. Monitores: Numeração sequencial das plaquetas patrimoniais, marca, modelo
+do equipamento, número de série, separadas por nota fiscal. Cada uma dessas
+informações deverá estar em colunas e células separadas; e
+
+1.4.21.8. A entrega da planilha faz parte da contagem do prazo de entrega estipulado em
+edital.
+
+1.5. AMOSTRAS/PROTÓTIPOS
+
+Para a presente aquisição não é necessário o envio de amostras e/ou protótipos para
+avaliação.
+
+2. FUNDAMENTAÇÃO DA CONTRATAÇÃO
+
+A aquisição de workstations de alto desempenho para processamento de vestígios
+digitais é essencial para melhorar a eficiência nas atividades forenses da unidade.
+Atualmente, a equipe enfrenta limitações com computadores de baixo desempenho,
+dificultando a análise de grandes volumes de dados apreendidos, especialmente em
+casos envolvendo o crime organizado e a urgência necessária para analisar as
+apreensões. Os novos equipamentos permitirão processar e indexar arquivos complexos
+de maneira rápida e precisa, reduzindo o tempo de investigação e aumentando a
+eficácia nas operações. Esse investimento é crucial para garantir respostas ágeis e
+seguras nas investigações, cumprindo com eficiência nossa missão instiftucional.
+
+3. DESCRIÇÃO DA SOLUÇÃO COMO UM TODO
+
+Equipamentos que trarão celeridade na indexação de vestígios digitais de dispositivos
+móveis apreendidos, cuja extração dos dados é readlizada pela Polícia Científica do
+Estado do Paraná conforme convênio (dados do convênio) estabelecido com o MPPR,
+além de permitir que as equipes trabalhem com múltiplos softwares simultaneamente,
+sem risco de travamentos ou lentidão. Isso é crucial para o sucesso das investigações, já
+que muitas vezes é necessário cruzar dados de diferentes fontes e realizar análises
+complexas de forma ágil e precisa.
+
+4. REQUISITOS DA CONTRATAÇÃO
+4.1. CONDIÇÕES GERAIS
+
+4.1.1. GABINETE
+
+4.1.1.1. Gabinete do tipo torre;
+
+4.1.1.2. Deve ser compatível com manutenção sem ferramentas (“tool less”), permitindo
+sua abertura e troca de componentes sem necessidade de ferramentas;
+
+25/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+Comissão Permanente de Licitação
+
+Ministério Público do Paraná Pregãº Eletrônicº nº 90040/25
+Anexo |
+
+4.1.1.3. Deve possuir etiqueta identificadora permanente, em material resistente ao
+desgaste por abrasão, onde conste a marca, o modelo e o número de série do
+equipamento;
+
+4.1.1.4. Deve possuir botão liga/desliga com indicadores na parte frontal indicando
+liga/desliga e acesso do disco rígido; e
+
+4.1.1.5. Deve possuir, no mínimo, é (seis) baias para discos de 3.5" ou 2.5", podendo ser
+utilizado cases ou cages internas aão gabinete para alcançar a quantidade de baias
+exigidas.
+
+4,1.2. FONTE DE ALIMENTAÇÃO
+
+4.1.2.1. Deve ser capaz de fornecer potência para alimentar o sistema trabalhando em
+carga máxima em todos os dispositivos internos, sem instabilidades como desligar ou
+reiniciar;
+
+41.2.2. Deve possuir certificação nível Gold pelo progama 80 PLUS
+(http://www.80plus.org/);
+
+4.1.2.3. Deve operar em rede de corrente alternada com tensão de entrada de 100 a 240
+VAC (+/-10%), 60 Hz (Hertz), aceitando variação de potência de até 1450W &110V ou
+1700W &200YV, sendo vedado o uso de conversor ou transformador externo;
+
+4.1.2.4. Deve ser fornecido cabo de força no padrão NBR 14136:2002, adequado à
+potência do equipamento, sem emendoas.
+
+4.1.3. PLACA MÃE
+
+4.1.3.1. AÀ placa mãe deve oferecer total suporte às características requisitadas pelos
+processadores, memória RAM, discos rígidos e demais componentes;
+
+4.1.3.2. Deve ser compatível com memória RAM DDR5 ECC 4.800Mhz (Megahertz) ou
+superior, sendo capaz de operar com 8 canais simultâneos (Octa-Channel);
+
+4.1.3.3. Deve possuir, no mínimo, 01 (um) slot PCI-E 4.0x16 e 01 (um) slot PCI-E 4.0x8, ou
+superior;
+
+4.1.3.4. Deve possuir, no mínimo, 02 (dois) slots M2 padrão NVMe;
+
+4.1.3.5. Deve possuir, no mínimo, 06 (seis) portas SATA padrão 6Gb/s, sendo que no mínimo
+038 portas devem ser on-board (diretamente na placa-mãe) e as demais portas podem
+ser acessíveis através de placas PCI off-board, sendo vedado o uso de adaptadores/hubs
+externos via USB;
+
+4.1.3.6. Deve possuir, no mínimo, 08 (oito) portas USB 3.0 ou superior, sendo aão menos 02
+(duas) posicionadas na parte frontal do gabinete, sendo vedado o uso de
+adaptadores/hubs externos via USB;
+
+4.1.3.7. Deve possuir placa Thunderbolt 3 com velocidade de 40Gbps com, dão menos, 02
+(duas) portas USB tipo C;
+
+26/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+Comissão Permanente de Licitação
+
+Ministério Público do Paraná Pregãº Eletrônicº nº 90040/25
+Anexo |
+
+4.1.3.8. Deve possuir, no mínimo, 02 (duas) portas de rede Gigabit Ethernet (1Gb/s) com
+conector RJ45;
+
+4.1.3.9. Deve possuir interface de rede Wireless (sem fio), com Suporte as especificações
+IEEE 802.11 a/x, sendo aceito uso de placa interna conectada à placa mãe, não sendo
+aceito uso de adaptadores externos;
+
+4.1.3.10. Deve possuir inferface Bluetooth padrão 5.2, ou superior, sendo aceito uso de
+placa interna conectada à placa mãe, não sendo aceito uso de adaptadores externos;
+
+4.1.3.11. Deve possuir suporte a RAID 0, 1, e 5 para os discos padrão SATA e RAID 0, 1, 5 e
+10 para os discos padrão NVMe (por meio de controladora onboard ou offboard);
+
+4.1.3.12. AÀA BIOS deve ser do mesmo fabricante do equipamento ou projetada
+especificamente para o equipamento, não sendo aceitas placas de livre
+comercialização no mercado (OEM);
+
+4.1.3.13. Deve permitir o emprego dos recursos de hardware adquiridos, com suporte a
+"Plug and Play" e ACPI (Advanced Configuration and Power Interface); e
+
+4.1.3.14. Deve suportar WOL (Wake on LAN) e PXE (Pre-boot Execution Environment).
+4.1.4. PROCESSADOR
+
+4.1.4.1. O equipamento ofertado pode conter 1 ou 2 processadores, que devem ser das
+linhas Infel Xeon ou AMD Ryzen Threadripper;
+
+4.1.4.2. Caso o equipamento seja ofertado com UM PROCESSADOR, a medida de
+desempenho deve atingir o mínimo de 65.000 (sessenta e cinco mil), conforme a base de
+dados PassMark CPU disponível em
+https://www.cpubenchmark.net/high end cpus.htmil;
+
+4.1.4.3. Caso o equipamento seja ofertado com DOIS PROCESSADORES, a medida de
+desempenho deve atingir o mínimo de 63.400 (sessenta e três mil e quatrocentos),
+conforme a base de dados PassMark CPU disponível em
+https://www.cpubenchmark.net/muiti cpu.htmil;
+
+4.1.4.4. Deve possuir arquitetura de 64bits com extensões de virtualização e instruções SSE
+(Streaming SIMD Extensions) e AVX (Advanced Vector Extensions);
+
+4.1.4.5. Deve ter suporte do conjunto de instruções AES (Advanced Encryption Standard);
+e
+
+4.1.4.6. Deve ter suporte para operar com 8 canais de memória simultãneos (Octa-
+Channel).
+
+4.1.5. MEMÓRIA RAM
+
+4.1.5.1. Deve possuir, no mínimo, 256GB de memória operando em 8 canais simultâneos
+(Octa-Channel), configuradas para melhor performance;
+
+27/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+M PPR Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+Anexo |
+
+Ministério Público do Paraná
+
+4.1.5.2. Os módulos de memória devem ter tecnologia DDR-5 tipo ECC (errorcorrecting
+code), com frequência de 4.800Mhz ou superior compartível.
+
+4.1.6. ARMAZENAMENTO
+
+4.1.6.1. Deve possuir 01 (um) disco SSD M.2 NVMe com capacidade nominal mínima de
+armazenamento de 11b;
+
+4.1.6.2. Deve possuir 02 (dois) discos HDD SATA 3.5" (6Gb/s), cada um com capacidade
+nominal mínima de armazenamento de 8Tb e velocidade de rotação de 7.200rpm, cada.
+
+4.1.7. INTERFACE DE ÁUDIO
+
+4.1.7.1. Deve possuir, no mínimo, 02 (duas) interfaces de áudio, uma na parte frontal do
+gabinete e outra na parte traseira do equipamento, sendo aceito que ambas sejam do
+tipo combinado (entrada/saída).
+
+4.1.8. PLACA GRÁFICA (GPU)
+
+4.1.8.1. Deve possuir 01 (uma) placa de vídeo dedicada com, no mínimo, 16GB de
+memória e as seguintes características:
+
+4.1.8.2. Memória GDDRé ou superior;
+
+4.1.8.3. Largura de banda da memória de, no mínimo, 432Gb/s;
+
+4.1.8.4. Possuir no mínimo é6,144 núcleos CUDA;
+
+4.1.8.5. Desempenho de precisão de pico único (FP32) de, no mínimo, 19,2TFLOPS;
+4.1.8.6. Inferface PCI Express 4.0x16 ou superior;
+
+4.1.8.7. Suporte a, no mínimo, 02 (dois) monitores, ambos na resolução máxima; e
+
+4.1.8.8. Possuir, no mínimo, 02 (duas) interfaces no padrão DisplayPort ou mini DisplayPort
+ou HDMI.
+
+4.1.9. SISTEMA OPERACIONAL
+
+4.1.9.1. Windows 11 Pro 64bits em português do Brasil, compatível com a necessidade do
+equipamento;
+
+4.1.9.2. A inicialização do equipamento deve estar configurada para dual-boot;
+
+4.1.9.3. Se possível e de forma não obrigatória, o disco SSD M.2 NVMe de 11b deve conter
+três partições com o seguinte conteúdo:
+
+4.1.9.4. Partição 01: sistema operacional Microsoft Windows 11 Pro;
+4.1.9.5. Partição 02: sistema operacional Linux Debian; e
+4.1.9.6. Partição 038: restauração do sistema operacional Microsoft Windows 11 Pro.
+
+4.1.10. MONITORES
+28/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+Comissão Permanente de Licitação
+
+Ministério Público do Paraná Pregãº Eletrônicº nº 90040/25
+Anexo |
+
+4.1.10.1. Deve possuir 02 (dois) monitores de vídeo com as seguintes características cada:
+
+4.1.10.2. Tela plana de, no mínimo, 27" com tecnologia QHD-2k, com resolução mínima
+de 2560x1440 & 60Hz (Hertz);
+
+4.1.10.3. Painel do tipo IPS, VA ou TN;
+4.1.10.4. Taxa de atualização de, no mínimo, 60Hz;
+4.1.10.5. Tempo de resposta de, no máximo, 5.0ms;
+
+4.1.10.6. Entrada de vídeo no padrão DisplayPort ou mini DisplayPort ou HDMI, compartível
+com d interface da Placa Gráfica (GPU) fornecida;
+
+4.1.10.7. Deve operar em rede de corrente alternada com tensão de entrada de 100 a
+240 V AC (+/- 10%), 60Hz (Hertz);
+
+4.1.10.8. Deve vir acompanhado de cabo de alimentação padrão NBR 14136:2002;
+
+4.1.10.9. Deve vir acompanhado de cabo de vídeo compatível com a interface da Placa
+Gráfica (GPU) fornecida, sendo vedado o uso de qualquer tipo de adaptador/conversor;
+e
+
+4.1.10.10. Deve vir acompanhado de Pedestal com regulagem de altura e de inclinação,
+e com giro horizontal de 90º.
+
+4.1.11. PERIFÉRICOS
+
+4.1.11.1. Deve possuir 01 (um) mouse óptico com resolução de, no mínimo, 1000dpi, com
+no mínimo 02 (duas) teclas, dispositivo de rolagem (scroll) e interface USB; e
+
+4.1.11.2. Deve possuir 01 (um) teclado com interface USB, padrão ABNT 2.
+4.1.12. REQUISITOS ADICIONAIS
+
+4.1.12.1. O equipamento deverá possuir todos os componentes e características técnicas
+especificadas no edital, sendo aceitos componentes e especificações superiores;
+
+4.1.12.2. Os componentes do equipamento deverão ser homologados pelo Fabricante;
+
+4.1.12.3. Não serão admitidas configurações e ajustes que impliquem no funcionamento
+do equipamento fora das condições normais recomendadas pelo fabricante do
+equipamento ou dos componentes, fais como: alterações de frequência de clock
+(overclock), características de disco ou de memória e drivers não recomendados pelo
+fabricante.
+
+4.1.12.4. Os equipamentos deverão ser novos (todas as peças e componentes presentes
+nos equipamentos) e de primeiro uso (sem sinais de utilização anterior);
+
+4.1.12.5. Todos os componentes internos do equipamento, principalmente pentes de
+memória, deverão estar instalados livres de pressões ocasionados por outros
+componentes ou cabos, que possam causar desconexões, instabilidade, ou
+
+29/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+M PPR Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+Anexo |
+
+Ministério Público do Paraná
+
+funcionamento inadequado. Para isso, a organização interna dos componentes e cabos
+deve ser adequada sem a utilização de adaptadores, fresagens, usinagens em geral,
+furações, emprego de adesivos, fitas adesivas ou quaisquer outros procedimentos ou
+emprego de materiais inadequados ou que visem adaptar forçadamente o
+equipamento; e
+
+4.1.12.6. Os equipamentos, considerando a marca e modelo apresentados na licitação,
+não poderão estar fora de linha comercial, considerando a data de assinatura do
+contrato.
+
+4.2. SUSTENTABILIDADE
+
+Considerando o objeto a ser adquirido ser workstations de alto desempenho para
+processamento de vestígios digitais, a contratada está dispensada da responsabilidade
+referente ao descarte de materiais e embalagens desnecessárias aão uso dos
+equipamentos pelo Ministério Público do Estado do Paraná, após o recebimento.
+
+4.3. SUBCONTRATAÇÃO
+
+Esta aquisição veda a subcontratação, pela contratada, para dar atendimento aos itens
+obrigatórios deste Termo de Referência, no que diz respeito aos requisitos técnicos e
+condições gerais, devendo ser prestado integralmente pela Contratada.
+
+4,4. VIGÊNCIA E PRORROGAÇÃO DO CONTRATO
+
+A vigência da contratação está diretamente relacionada dao período de garantia
+exigido, de 60 (sessenta) meses na modalidade on-site em todo o Estado do Paraná,
+podendo ser renovada/prorrogada até os limites autorizados em legislação federal e/ou
+estadual.
+
+4.5. GARANTIA CONTRATUAL
+
+4.5.1. O fabricante ou empresa credenciada pelo fabricante, deverá prestar, sem
+qualquer custo adicional, os serviços pertinentes a garantia dos equipamentos, bem
+como cumprir os prazos definidos neste edital, por um período de no mínimo 60 (sessenta)
+meses a contar da data de recebimento (aceite) definitivo dos equipamentos;
+
+4.5.2. A garantia, incluindo diagnóstico e serviços de manutenção de hardware, devem
+ser prestados “on-site” (sedes do MP-PR) diretamente pelo fabricante ou através da rede
+de assistência técnica autorizada pelo fabricante;
+
+4.5.3. A contratada somente poderá prestar assistência técnica se fizer parte da rede de
+assistência técnica autorizada pelo fabricante;
+
+4.5.4. Em caso de descredenciamento da Contratada como assistência ftécnica
+autorizada, cabe ao Fabricante indicar outra empresa que preste os serviços de garantia
+ao MP-PR;
+
+4.5.5. O atendimento pela garantia deverá ser realizado em no máximo 7 (sete) dias úteis
+para solução completa (diagnóstico / manutenção / troca) do problema apresentado,
+deixando de considerar o dia de abertura do chamado;
+
+30/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+M PPR Comissão Permanente de Licitação
+Ministério Público do Paraná Pregãº Eletrônicº nº 90040/25
+Anexo |
+
+4.5.6. Os chamados técnicos de garantia serão cadastrados, exclusivamente via portal
+web disponibilizado pelo fabricante ou contratada, das 08:30h às 18h (horário comercioal)
+em dias úteis, por integrantes do MP-PR previamente cadastrados na plataforma;
+
+4.5.7. É vedado solicitação, por qualquer meio de contato, inclusive telefone e e-mail,
+para que usuários realizem testes, diagnósticos ou procedimentos para confirmação do
+problema, pois isso já é realizado pela equipe técnica do MP-PR e descrito na abertura
+do chamado com informações qualificadas e detalhadas sobre o problema;
+
+4.5.8. No momento do registro do atendimento, o sistema do fabricante ou da contratada
+deverá gerar número de protocolo/ticket de atendimento e registrar o chamado,
+permitindo assim ter um histórico de acompanhamento dos atendimentos, devendo
+ainda remeter cópia do registro para o e-mail do integrante do MP-PR que registrou o
+atendimento;
+
+4.5.9. Sempre que solicitado pelo MP-PR, a contratada deverá encaminhar planilha em
+formato eletrônico, que relacione por número de série e patrimônio, todo o histórico dos
+atendimentos redalizados nos equipamentos que receberam assistência técnica no
+período de garantia;
+
+4.5.10. Entende-se por chamado técnico a solicitação de atendimento técnico corretivo
+quando da ocorrência de:
+
+4.5.10.1. Defeito no equipamento e/ou;
+4.5.10.2. Desempenho comprovadamente reduzido, devido a problemas de hardware.
+
+4.5.11. A manutenção corretiva em garantia deverá ser prestada, presencialmente, no
+horário regimental do MP-PR, das 12h às 19h;
+
+4.5.12. A manutenção corretiva em garantia deverá ser realizada nas dependências do
+MP-PR. Havendo necessidade de remoção do equipamento para as dependências da
+empresa contratada, as despesas de transporte, seguros e embalagens, correrão por
+conta da empresa contratada;
+
+4.5.13. No caso de retirada de qualquer equipamento, a empresa contratada deverá
+solicitar autorização prévia do MP-PR e, caso autorizado, assinar termo de retirada se
+responsabilizando integralmente pelo equipamento (hardware, software e dados),
+enquanto estiver em suas dependências ou em trânsito sob sua responsabilidade. Cabe
+lembrar que dada a relevância deste Órgão, existe a possibilidade de serem encontrados
+documentos nos discos de armazenamento que sob hipótese alguma poderão ser
+divulgados pela contratada, ao rigor da Lei;
+
+4.5.14. Somente os técnicos da empresa contratada, ou pessoas a quem ela autorizar por
+escrito, poderão executar os serviços de manutenção corretiva em garantia;
+
+4.5.15. Para efetuarem qualquer serviço nas dependências do MP-PR, os técnicos, ou
+pessoas autorizadas pela empresa contratada, deverão apresentar, no ato do
+atendimento:
+
+31/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+M PPR Comissão Permanente de Licitação
+Ministério Público do Paraná Pregãº Eletrônicº nº 90040/25
+Anexo |
+
+4.5.15.1. Credenciamento (crachá da empresa), e;
+
+4.5.15.2. Documento de identidade pessoal, podendo ser RG ou Coarteira de Habilitação
+válida.
+
+4.5.16. Durante a execução dos serviços de manutenção corretiva em garantia o
+ambiente de trabalho deverá ser mantido em perfeitas condições de higiene e
+segurança, sendo que, após a conclusão dos serviços deverá ser efetuada limpeza geral
+no ambiente, decorrente da atuação do técnico;
+
+4.5.17. Após cada atendimento técnico de manutenção corretiva em garantia, a
+empresa deverá emitir, no ato, relatório técnico do atendimento onde deverão constar,
+obrigatoriamente, o número do chamado, dados gerais do chamado, situação do
+chamado (pendente no caso de retirada do equipamento ou concluído), nome do
+técnico responsável pelo atendimento, assinatura do técnico responsável pelo
+atendimento, data do atendimento, horário de início e término do atendimento,
+descrição do equipamento, número de série/patrimônio do equipamento atendido,
+localização do equipamento, descrição do problema relatado pelo MP-PR, descrição do
+problema realmente encontrado com a indicação clara da troca ou não de peças, lista
+das peças ou componentes que foram substituídos, solução dada ao problema e local
+para atesto de funcionário do MP-PR;
+
+4.5.18. O chamado só será considerado encerrado quando a solução for claramente
+descrita no relatório com assinatura (ciência) do funcionário do MP-PR. Deverá ser
+deixada cópia do relatório com funcionário do MP-PR e anexado do chamado no portal
+web;
+
+4.5.19. Para os casos em que hovuver troca de equipamentos ou componentes em
+garantia, deverá obrigatoriamente constar no relatório técnico de atendimento a marca,
+o modelo e o número de série do equipamento/componente recolhido e do
+equipamento/componente fornecido em substituição;
+
+4.5.20. Ao final do atendimento, o técnico deverá deixar o equipamento em condições
+de uso, ou seja, com o sistema operacional instalado e funcionando;
+
+4.5.21. Quaisquer peças, componentes ou outros materiais que apresentarem defeitos de
+fabricação e/ou instalação devem ser substituídos por originais, iguais e novos, sem ônus
+para o Ministério Público do Estado do Paraná. Em caso da descontinuidade de sua
+fabricação, ou não mais disponibilidade no mercado nacional e internacional para sua
+aquisição, poderão ser utilizados componentes com configuração superior às originais
+(tibo, capacidade, configuração, desempenho, situação/condição física) e devem ser
+do mesmo fabricante do equipamento ou atestadas pelo fabricante do equipamento,
+desde que haja a concordância prévia do MP-PR. Não serão admitidos componentes,
+peças e materiais recondicionados, usados ou de outros fabricantes;
+
+4.5.22. Em caso de troca de unidade de armazenamento, independentemente da causa
+ou defeito, a unidade com problema permanecerá retida no MP-PR, que promoverá o
+descarte adequado em razão da sensibilidade do conteúdo armazenado;
+
+32/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+M PPR Comissão Permanente de Licitação
+Ministério Público do Paraná Pregãº Eletrônicº nº 90040/25
+Anexo |
+
+4.5.23. As peças e componentes em substituição, instaladas pela empresa contratada,
+serão incorporadas aos equipamentos, passando a ser de propriedade do MP-PR e
+ficarão automaticamente em garantia até o final do contrato;
+
+4.5.24. Todo equipamento fornecido em substituição pela garantia deverá ser
+acompanhado de Nota Fiscal emitida pela contratada para o MP-PR;
+
+4.5.25. Ao MP-PR é reservado o direito de efetuar conexões do(s) equipamento(s) a
+outros, bem como adicionar demais acessórios compartíveis tecnicamente, sem que isso
+constitua motivo para o fornecedor se desobrigar da garantia, desde que tal fato não
+implique danos materiais ou técnicos do equipamento e acessórios, hipótese que deverá
+ser devidamente comprovada;
+
+4.5.26. A contratada autoriza que a equipe técnica do MP-PR readlize manutenção de
+urgência, incluindo abertura das máquinas, com rompimento de lacre, se houver, para
+detecção de problemas, podendo inclusive trocar componentes defeituosos (memória,
+armazenamento, GPU, etc.) antes da solicitação de chamado técnico;
+
+4.5.27. Qualisquer alegações por parte da empresa contratada contra instalações
+(ambiente inadequado, rede elétrica, rede lógica) ou usuários (mau uso, etc.) do MP-PR,
+devem ser comprovadas tecnicamente através de laudos detalhados e conclusivos,
+emitidos pelo fabricante do equipamento. Não serão admitidas omissões baseadas em
+suposições técnicas sem fundamentação, “experiência” dos ftécnicos ou alegações
+baseadas em exemplos de terceiros. Enquanto não for efetuado o laudo, e esse não
+demonstrar claramente os problemas alegados, a contratada deve prosseguir com o
+atendimento dos chamados;
+
+4.5.28. AÀ contratada ou empresa credenciada pelo fabricante, deverá prestar, sem
+qualquer custo adicional, os serviços pertinentes a manutenção dos equipamentos, bem
+como cumprir os prazos definidos neste edital;
+
+4.5.29. O atendimento coberto pela garantia inclui mão de obra, peças e em caso de
+necessidade de manutenção fora das dependências do MP-PR, transportes e seguros
+também se aplicam a mesma garantia;
+
+4.5.30. A gorantia técnica, oferecida pelo fabricante, deve contemplar todo o
+equipamento fornecido;
+
+4.5.31. A Contratada estará sujeita à aplicação de muita de 10% (dez por cento) do valor
+unitário do equipamento objeto do ticket de atendimento, acrescida de 0,5% (meio por
+cento) por dia de atraso, até o máximo de 5% (cinco por cento) do valor total do
+contrato, pelo atraso no atendimento ao chamado constante do item 4.5.5 e pelo atraso
+à substituição constante dos itfens 4.5.32 e 4.5.33;
+
+4.5.32. Após o décimo dia útil de atraso, sem a solução completa do problema de forma
+injustificada, a contratada deverá, obrigatoriamente, substituir o equipamento por um
+Novo; e
+
+33/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+M PPR Comissão Permanente de Licitação
+Ministério Público do Paraná Pregãº Eletrônicº nº 90040/25
+Anexo |
+
+4.5.33. Caso ocorram 03 (três) chamados para problemas de mesma natureza, no mesmo
+equipamento, no período de 60 (sessenta) dias, o fornecedor deverá substituir o
+equipamento no prazo de 10 (dez) dias úteis, às suas expensas.
+
+4.6. GARANTIA DA EXECUÇÃO
+
+Para a presente aquisição de workstations de alto desempenho não é exigido o
+cumprimento de cláusula de garantia de execução do contrato.
+
+4.7. REAJUSTE CONTRATUAL
+
+Para a presente aquisição de workstations de alto desempenho, não se aplica a cláusula
+de reajuste contratual.
+
+4.8. ALTERAÇÃO SUBJETIVA
+
+É admissível a continuidade do contrato administrativo quando houver fusão, cisão ou
+incorporação da Contratada com outra pessoa jurídica, desde que:
+
+4.8.1. Sejam observadas pela nova pessoa jurídica todos os requisitos de habilitação
+exigidos na licitação original;
+
+4.8.2. Sejam mantidas as demais cláusulas e condições do contrato;
+
+4.8.3. Não haoja prejuízo à execução do objeto pactuado e haja anuência expressa da
+Administração à continuidade do contrato; e
+
+4.8.4. AÀA alteração subjetiva a que se refere este item deverá ser formalizada por meio de
+termo aditivo ao contrato, sob iniciativa obrigatória da Contratada.
+
+4.9. CONSÓRCIO
+
+4.9.1. Conforme legislações federal e estadual, o consórcio de empresas para fins de
+particibação em licitação consiste na associação de empresas para um
+empreendimento de maior complexidade e, sendo assim, considerando o objeto da
+presente aquisição tratar-se de objeto comum, não é apropriado à exigência de
+formação de consórcio para esta finalidade; e
+
+4.9.2. A vedação quanto à participação de consórcio, no presente procedimento
+licitatório, não limita a competitividade, pois todas as empresas do ramo conseguem
+ofertar o objeto sem a necessidade de formar consórcio.
+
+5. MODELO DE EXECUÇÃO DO OBJETO
+5.1. OBRIGAÇÕES DA CONTRATADA
+
+5.1.1. Promover a entrega dos bens adquiridos, conforme as especificações descritas no
+termo de referência e demais artefatos que integram o certame;
+
+5.1.2. Indicar um representante da empresa para o contrato, sendo este o interlocutor da
+contratada junto do MPPR para os assuntos relativos do cumprimento das cláusulas
+
+34/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+M PPR Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+Anexo |
+
+Ministério Público do Paraná
+
+contratuais e para participar de reuniões de acompanhamento, sempre que solicitado
+por este Ministério Público;
+
+5.1.3. Responsabilizar-se técnica e administrativamente pela garantia do objeto
+contratado, não sendo aceito, sob qualqguer pretexto, a transferência de
+responsabilidade a outras entidades, sejam fabricantes, técnicos ou quaisquer outros.
+
+5.1.4. A contratada responderá integralmente por perdas e danos que vier a causar do
+MPPR ou a terceiros em razão de ação ou omissão, dolosa ou culposa, sua ou dos seus
+prepostos, independentemente de outras combinações contratuais ou legais a que
+estiver sujeita.
+
+5.1.5. O fornecedor não poderá cobrar valores adicionais ao valor do contrato, tais como
+custos de deslocamento, alimentação, transporte, alojamento, trabalho em sábados,
+domingos, feriados ou em horário noturno, bem como qualquer outro valor adicional.
+
+5.1.6. Propriedade, Sigilo e Restrições:
+
+5.1.6.1. As informações obtidas durante os serviços prestados pela Contratada, incluindo
+OS recursos, procedimentos e sistemas, são informações privilegiadas sendo tratada como
+confidencial. A Contratada compromete-se em manter com extremo sigilo todas as
+informações contidas neste documento. Não será comentada e/ou revelada nenhuma
+informação a terceiros sem uma plena autorização por escrito.
+
+5.1.6.2. A empresa contratada se compromete a manter sigilo acerca das informações
+obtidas e geradas no decorrer do contrato, mediante assinatura de Termo de
+Compromisso com a Segurança da Informação, conforme modelo contido em anexo.
+
+5.1.6.3. Pertencerão exclusivamente ao MPPR os direitos relativos aos produtos
+desenvolvidos e elaborados durante a vigência do Contrato, sendo vedada sua
+reprodução, transmissão e/ou divulgação sem o seu respectivo consentimento.
+
+5.1.6.4. Durante a execução dos serviços, a Contratada deverá observar as Políticas de
+Controle de Acesso definidas pelo MPPR.
+
+5.1.7. Mecanismos Formais de Comunicação:
+
+5.1.7.1. Sempre que necessário o gestor/fiscal do contrato poderá solicitar reunião com o
+representante da empresa da contratada com o objetivo de discutir questões
+contratuais, via videoconferência.
+
+5.2. OBRIGAÇÕES DO CONTRATANTE
+
+5.2.1. Efetuar o pagamento devido pela aquisição dos bens, desde que cumpridas todas
+as formalidades e exigências do contrato;
+
+5.2.2. Exigir o cumprimento de todas as obrigações assumidas pelo contratado no termo
+de referência, no edital de licitação e seus anexos, bem como na proposta; e
+
+5.2.3. Comunicar à Contratada, quaisquer irregularidades ocorridas, consideradas de
+natureza grave.
+
+35/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+M PPR Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+Anexo |
+
+Ministério Público do Paraná
+
+6. MODELO DE GESTÃO DO OBJETO
+6.1. GESTÃO E FISCALIZAÇÃO DO OBJETO
+
+6.1.1. A Contratada deverá habilitar os integrantes do MPPR indicados formalmente por
+e-mail no ambiente/sistema de registro de atendimento em garantia para abertura de
+chamados técnicos.
+
+6.1.2. A Contratada deverá entregar todos os equipamentos e seus acessórios no prazo
+de 90 (noventa) dias corridos a contar da data da assinatura do contrato.
+
+6.1.3. A gestão da presente contratação ficará sob responsabilidade do Departamento
+de Tecnologia da Informação (DTI), do Grupo de Atuação Especial de Combate dao
+Crime Organizado (GAECO) e do Núcleo de Inteligência do Centro de Apoio Técnico à
+Execução (CAEx/NI), ficando indicados como gestor o senhor Robson Luiz Feyh (GAECO)
+e o fiscal o senhor Maicon Cezar Simioni (CAEx/NI).
+
+6.1.4. O Fiscal do contrato juntamente com a equipe técnica de Tl ficará responsável por:
+
+6.1.4.1. Verificar o cumprimento dos termos de contrato, quando da realização da
+entrega dos bens;
+
+6.1.4.2. Informar ao gestor do contrato qualquer irregularidade na execução do objeto
+ou descumprimento dos níveis de serviços contratados;
+
+6.1.4.3. Assinar termo de aceite definitivo.
+6.1.5. O Gestor do contrato ficará responsável por:
+6.1.5.1. Conferir o atendimento dos níveis de serviços contratados;
+
+6.1.5.2. Relatar, por escrito, com a devida comprovação, as eventuais irregularidades na
+prestação de serviços;
+
+6.1.5.3. Sustar a execução de quaisquer trabalhos por estarem em desacordo com o
+especificado ou por qualquer outro motivo que caracterize a necessidade de tal medida;
+
+6.1.5.4. Veríficar a conformidade do faturamento do objeto contratado.
+
+6.1.6. Os membros indicados para comporem a Comissão de Aceite Definitivo do
+presente objeto são os Senhores João Pletsch Martins, Maicon Simioni, Marcel Henrick
+Mitkowski e Robson Luiz Feyh, sendo esse último o presidente.
+
+7. CRITÉRIOS DE MEDIÇÃO E PAGAMENTO
+7.1. FORMAS, CONDIÇÕES E PRAZOS DE PAGAMENTO
+
+O pagamento pelos bens fornecidos objeto deste Pregão será efetuado em até 10 (dez)
+dias úteis após a emissão do Termo de Aceite Definitivo.
+
+8. FORMA E CRITÉRIO DE SELEÇÃO DE FORNECEDOR
+
+36/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+M PPR Comissão Permanente de Licitação
+Ministério Público do Paraná Pregãº Eletrônicº nº 90040/25
+Anexo |
+
+8.1. A seleção do fornecedor se dará àquele que apresentar a proposta mais vantajosa
+à administração considerando o menor preço e estiver em cumprimento das
+especificações deste Termo de Referência e com as certidões válidas.
+
+8.2. Requisitos de seleção do fornecedor:
+
+8.2.1. Além das demais condições de habilitação, o interessado no certame deverá
+comprovar capacidade técnica mediante a apresentação da seguinte documentação:
+
+8.2.1.1. Termo de Compromisso com a Segurança da Informação, conforme modelo
+anexo a este documento; e
+
+8.2.1.2. Declaração de Ciência do Termo de Manutenção de Sigilo e das Normas de
+Segurança Vigentes conforme modelo anexo a este documento.
+
+8.2.2. A licitante deverá apresentar, em nome do fabricante do produto, dentro dos
+prazos de validade, caso a fabricação do produto fornecido tenha ocorrido em território
+nacional, conforme determinam a Resolução nº 237/1997 do CONAMA, art. 2º, 8& 1º, Lei
+6.938/81, art. 17, 1, Instrução Normativa nº 13/2021-IBAMA, art. 12, art.45, art. 46, arl. 47 e
+Instrução Normativa nº 12/2018-IBAMA:
+
+8.2.3. Licença Ambiental válida e compatível com o ramo de atividade da empresa, ou
+documento que comprove a isenção, ambos emitidos pelo órgão ambiental
+competente; e
+
+8.2.4. Cadastro Técnico Federal de Atividades Potencialmente Poluidoras ou Utilizadoras
+de Recursos Ambientais, (CTFAPP/IBAMA) válido e compatível com a fabricação do
+produto que é objeto da licitação, consulta do CNPJ do fabricante/importador, em:
+https://servicos.ibama.gov.br/ctf/publico/certificado. regularidade. consulta.php.
+
+9. ADEQUAÇÃO ORÇAMENTÁRIA
+
+9.1. As despesas com aquisição de mobiliário, objeto deste TR, estão contempladas na
+Lei Orçamentária Anual — LOA/2025 do MPPR, de forma genérica no elemento de
+despesa 4490.5200 — Equipamentos e Material Permanente;
+
+9.2 A presente despesa está contemplada no plano de contratações anual — 2025.
+10. PARCELAMENTO DO OBJETO
+
+10.1. O objeto da pretendida aquisição é indivisível na sua totalidade, não sendo possível
+aquisição do equipamento principal por um fornecedor e os demais itens, por outro,
+devendo ser entregue, totalmente, pela mesma contratada;
+
+10.2. O quanititativo dos itens adquiridos pode ser dividido, com quantitativo previsto em
+lei para participação exclusiva de microempresas e empresas de pequeno porte.
+
+11. CONTRATAÇÃO DE MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE
+
+37/59
+
+
+Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+Anexo |
+
+M PPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+Ministério Público do Paraná
+
+Em atendimento dao Art. 48, lll da Lei Complementar 123/2006, a participação do lote 01
+é destinada à ampla concorrência e a participação no lote 02 é exclusivo para
+microempresas e empresas de pequeno porte.
+
+12. SANÇÕES ADMINISTRATIVAS
+
+12.1. O licitante e o contratado que incorrem em infrações sujeitam-se às sanções
+administrativas previstas no art. 156 da Lei Federal n.º 14.133, de 2021 e nos aris. 193 do
+227 do Decreto n.º 10.086, de 17 de janeiro 2022, sem prejuízo de eventuais implicações
+pendais nos termos do que prevê o Capítulo 1I-B do Título Xl do Código Penal.
+
+13. DEMAIS ELEMENTOS
+
+Sem outras exigências ou elementos necessários aão cumprimento das regras
+estabelecidas em edital.
+
+14. DECRETO ESTADUAL No. 10.086 de 2022
+
+O servidor que subscreve este Termo de Referência atesta que observou integralmente a
+regulamentação estabelecida pelo Decreto Estadual No. 10.086/2022.
+
+Curitiba, 27 de agosto de 2025.
+
+Robson Luiz Feyh
+Técnico de TI - GAECO
+Divisão de Tecnologia Aplicada à Investigação
+
+38/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+M PPR Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+Anexo L.A
+
+Ministério Público do Paraná
+
+TERMO DE COMPROMISSO DE MANUTENÇÃO DE SIGILO E RESPEITO ÀS NORMAS DE SEGURANÇA
+VIGENTES E AOS DADOS DO MPPR
+
+PREGÃO ELETRÔNICO Nº 40/2025
+
+A empresa , pessoa jurídica com sede
+em , inscrita no
+CNPJ/MF com o n.o , neste ato representada na forma de seus
+
+atos constitutivos, doravante denominada simplesmente EMPRESA, por tomar conhecimento de
+informações sobre o ambiente computacional do Ministério Público do Estado do Paraná, aceita as
+regras, condições e obrigações constantes do presente Termo.
+
+O objetivo deste termo é prover a necessária e adequada proteção às informações restritas de
+propriedade exclusiva do MPPR reveladas à EMPRESA em razão da execução dos serviços objeto do
+Pregão Eletrônico nº /20 , doravante denominada simplesmente PREGÃO ELETRÔNICO, bem
+como assegurar o respeito às normas de segurança vigentes naquele órgão durante a realização dos
+serviços.
+
+A expressão “informação restrita” abrangerá toda informação escrita, oral ou de qualquer outro modo
+apresentada, tangível ou intangível, podendo incluir, mas não se limitando a: técnicas, projetos,
+especificações, desenhos, cópias, diagramas, fórmulas, modelos, amostras, fluxogramas, croquis,
+fotografias, plantas, programas de computador, contratos, planos de negócios, processos, projetos,
+conceitos de produto, especificações, amostras de ideia, dados armazenados em qualquer meio,
+invenções e ideias, outras informações técnicas, financeiras ou comerciais, dentre outros.
+
+A EMPRESA compromete-se a não reproduzir e/ou dar conhecimento a terceiros, sem a anuência
+formal e expressa do MPPR, das informações restritas reveladas.
+
+A EMPRESA compromete-se a não utilizar, bem como a não permitir que seus diretores,
+consultores, prestadores de serviços, empregados e/ou prepostos utilizem, de forma diversa da
+prevista no PREGÃO ELETRÔNICO, as informações restritas reveladas.
+
+A EMPRESA deverá cuidar para que as informações reveladas fiquem limitadas ao conhecimento
+dos diretores, consultores, prestadores de serviços, empregados e/ou prepostos que estejam
+diretamente envolvidos nas discussões, análises, reuniões e demais atividades relativas à
+prestação de serviços ao MPPR, devendo cientificá-los da existência deste Termo e da natureza
+confidencial das informações restritas reveladas.
+
+A EMPRESA declara conhecer e se compromete a seguir e divulgar entre seus colaboradores
+envolvidos na execução do objeto do PREGÃO ELETRÔNICO a Norma de Segurança da Informação
+do MPPR (Resolução 027/2011 e 3205/2018).
+
+A EMPRESA possuirá ou firmará acordos por escrito com seus diretores, consultores,
+prestadores de serviços, empregados e/ou prepostos cujos termos sejam suficientes a garantir
+o cumprimento de todas as disposições do presente Termo.
+
+A EMPRESA obriga-se a informar imediatamente ao MPPR qualquer violação das regras de sigilo
+estabelecidas neste Termo que tenha ocorrido por sua ação ou omissão, independentemente da
+existência de dolo.
+
+A quebra do sigilo das informações restritas reveladas, devidamente comprovada, sem
+autorização expressa do MPPR, possibilitará a imediata rescisão de qualquer contrato firmado
+entre o MPPR e a EMPRESA sem qualquer ônus para o MPPR. AÀ EMPRESA também estará sujeita,
+
+39/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+MPPR Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+Anexo L.A
+
+Ministério Público do Paraná
+
+por ação ou omissão, ao pagamento ou recomposição de todos os danos e perdas sofridos pelo
+MPPR, inclusive os de ordem moral, bem como as de responsabilidades civil e criminal respectivas,
+as quais serão apuradas em regular processo judicial ou administrativo.
+
+O presente Termo tem natureza irrevogável e irretratável, permanecendo em vigor desde
+a data de acesso às informações restritas do MPPR.
+
+E, por aceitar todas as condições e as obrigações constantes do presente Termo, a EMPRESA assina
+o presente termo através de seus representantes legais.
+
+, de de 2025.
+
+EMPRESA
+
+Nome/Cargo
+
+Observação: este documento deve ser emitido em papel timbrado que identifique o
+emissor.
+
+40/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+M PPR Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+Anexo |.B
+
+Ministério Público do Paraná
+
+MODELO DE DECLARAÇÃO DE CIÊNCIA DO TERMO DE MANUTENÇÃO DE SIGILO E DAS
+NORMAS DE SEGURANÇA VIGENTES E AOS DADOS DO MPPR
+
+PREGÃO ELETRÔNICO Nº 40/2025
+
+DECLARAÇÃO
+
+Por meio desta, o(a) Sr(a) [ nome do(a) diretor, consultor, prestador de serviço, empregado ou
+preposto |, CPF == , ocupante do cargo [cargo que ocupa] na empresa [Nome (Razão
+Social) da empresa], CNPJ [número do CNPJ da empresa ], declara sob as penas da Lei, ter tomado
+conhecimento do TERMO DE COMPROMISSO DE MANUTENÇÃO DE SIGILO E RESPEITO ÀS NORMAS
+DE SEGURANÇA VIGENTES E AOS DADOS DO MPPR, emitido por ocasião da habilitação no Pregão
+Eletrônico nº /20 ,esecompromete a seguir, naquilo que lhe couber, todas as disposições
+do referido Termo
+
+Local e data
+
+Assinatura
+
+41/59
+
+
+M PPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+Comissão Permanente de Licitação
+
+Ministério Público do Paraná Pregão Eletrônico nº 90040/25
+
+Anexo |l
+
+MODELO DE DECLARAÇÃO
+
+(timbre ou identificação da licitante)
+
+XXXXXXXK, inscrito no CNPJ n.º XXXXXXXX, por intermédio de seu representante legal, o(a)
+Sr.(a) XXXXXXXX, portador(a) da Carteira de Identidade n.º XXXXXXXX e do CPF n.º
+XXXXXXXX, DECLARA para os devidos fins, sob as penas da Lei que:
+
+1.
+
+CIÊNCIA E CONCORDÂNCIA AO EDITAL
+
+Cumpre plenamente com todos os requisitos de habilitação e concorda em sua
+plenitude com o Edital e seus Anexos.
+
+ELABORAÇÃO INDEPENDENTE DE PROPOSTA
+Em especial o artigo 299 do Código Penal Brasileiro, que:
+
+a) a proposta apresentada foi elaborada de maneira independente pela
+Licitante, e que o conteúdo da proposta anexa não foi, no todo ou em parte,
+direta ou indiretamente, informado, discutido ou recebido de qualquer outra
+participante potencial ou de fato do Pregão Eletrônico Nº 90040/25-MP/PGJ, por
+qualquer meio ou por qualquer pessoa;
+
+b) a intfenção de apresentar proposta não foi informada, discutida ou
+recebida de qualquer outra participbante potencial ou de fato do Pregão
+Eletrônico Nº 90040/25-MP/PGJ, por qualquer meio ou por qualquer pessoa;
+
+C) não tentou, por qualquer meio ou por qualquer pessoa, influir na decisão
+de qualquer outra participante potencial ou de fato do Pregão Eletrônico Nº
+90040/25-MP/PGJ quanto a participar ou não da referida licitação;
+
+d) o conteúdo da proposta não será, no todo ou em parte, direta ou
+indiretamente, comunicado ou discutido com qualquer outra participante
+potencial ou de fato do Pregão Eletrônico Nº 90040/25-MP/PGJ antes da
+adjudicação do objeto da referida licitação;
+
+e) o conteúdo da proposta apresentada não foi, no todo ou em parte, direta
+ou indiretamente, informado, discutido ou recebido de qualquer integrante do
+Ministério Público do Estado do Paraná antes da abertura oficial das propostas; e,
+f) está plenamente ciente do teor e da extensão desta declaração e que
+detém plenos poderes e informações para firmár-la.
+
+NÃO UTILIZAÇÃO DE MÃO DE OBRA DE MENORES
+
+Para fins do iInciso XXXIIIl do artigo 7º da Constituição Federal, que não emprega
+menor de dezoito anos em trabalho noturno, perigoso ou insalubre e não emprega
+menor de dezesseis anos?.
+
+( ) Emprega menor, a partir de quatorze anos, na condição de aprendiz?.
+
+INEXISTÊNCIA DE FATO SUPERVENIENTE
+
+Até a presente data inexistem fatos impeditivos para sua habilitação no presente
+processo licitatório e que está ciente da obrigatoriedade de declarar ocorrências
+
+? As atividades proibidas aos menores de 18 anos estão listadas no Decreto nº 6.841, de 12 de junho de 2008,
+ressalvando as normas contidas nos artigos 428 e seguintes da CLT acerca do contrato de aprendizagem.
+
+Em caso afirmativo, assinalar a ressalva acima.
+
+42/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+Comissão Permanente de Licitação
+
+Ministério Público do Paraná Pregão Eletrônico nº 90040/25
+Anexo |l
+ee
+posteriores.
+
+5. REGULARIDADE
+
+Nos termos da Resolução nº 037, de 28 de abril de 2009, alterada pela Resolução
+nº 172, de 04 de julho de 2017, do Conselho Nacional do Ministério Público — CNMP,
+que:
+
+( ) os sócios desta empresa, não são cônjuges, companheiros(as) ou parentes em
+linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, dos Membros
+ocupantes de cargos de direção ou no exercício de funções administrativas, assim
+como de servidores ocupantes de cargos de direção, chefia e assessoramento
+vinculados direta ou indiretamente às unidades situadas na linha hierárquica da
+área encarregada da licitação.
+
+OU
+
+( ) os sócios desta empresa, são cônjuges, companheiros(as) ou parentes em linha
+reta, colateral ou por afinidade, até o terceiro grau, inclusive, dos Membros
+ocupantes de cargos de direção ou no exercício de funções administrativas, assim
+como de servidores ocupantes de cargos de direção, chefia e assessoramento
+vinculados direta ou indiretamente às unidades situadas na linha hierárquica da
+área encarregada da licitação, abaixo identificado(s):
+
+Nome:
+
+Cargo:
+
+Órgão de Lotação:
+
+Grau de Parentesco:
+Para fins do disposto no inciso IV do artigo 14 da Lei Federal n.º 14.133/2021, que
+não mantém vínculo de natureza técnica, comercial, econômica, financeira,
+trabalhista ou civil com dirigente do órgão ou entidade contratante ou com
+agente público que desempenhe função na licitação ou atue na fiscalização ou
+na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente em
+linha reta, colateral ou por afinidade, até o terceiro grau.
+
+6. RESERVA DE CARGOS
+
+Para fins do disposto no inciso IV do artigo 63 da Lei Federal n.º 14.133/2021, cumpre
+as exigências de reserva de cargos para pessoa com deficiência e para
+reabilitado da Previdência Social, previstas em lei e em outras normas específicas.
+
+7. CIÊNCIA E CONCORDÂNCIA AO CÓDIGO DE ÉTICA DO MPPR
+(https://apps.mppr.mp.br/external/licitacao/CodigodeEtica MPPR
+
+Li e estou cienTç e de acordo com as normas, condutas e práticas estabelecidas
+no Código de Etica e de Conduta dos Servidores do Ministério Público do Estado
+do Paraná e comprometo-me a respeitá-las e cumpri-las integralmente.
+
+Assumo a responsabilidade de reportar ao fiscal/gestor do Contrato qualquer
+comportamento ou situação que esteja em desacordo com o estabelecido pelo
+referido Código.
+
+A assinatura do presente termo é expressão de livre consentimento e
+concordância do cumprimento das normas, condutas e práticas estabelecidas
+pelo Código de Ética e de Conduta dos Servidores do Ministério Público do Estado
+do Paraná.
+
+43/59
+
+
+Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+Anexo |l
+
+M PPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+Ministério Público do Paraná
+
+8. DECLARAÇÃO DE ATENDIMENTO E RESPONSABILIZAÇÃO COM A LOGÍSTICA
+REVERSA DOS PRODUTOS
+Declaramos que, todos os resíduos sólidos gerados pelos produtos fornecidos por
+nossa empresa que necessitarem de destinação ambientalmente adequada
+(incluindo embalagens vazias), terão o descarte adequado, obedecendo adaos
+procedimentos de logística reversa, em atendimento à Lei nº 12.305/2010, que
+institui a Polítfica Nacional de Resíduos Sólidos, em especial a responsabilidade
+compartilhada pelo ciclo de vida do produto.
+
+9. ATENDIMENTO DOS DIREITOS TRABALHISTAS
+Para fins do disposto no & 1.º do art. 63 da Lei Federal n.º 14.133/202]1 a proposta
+compreende a integralidade dos custos para atendimento dos direitos trabalhistas
+assegurados na Constituição Federal, nas leis trabalhistas, nas normas infralegais,
+nas convenções coletivas de trabalho e nos termos de ajustamento de conduta
+vigentes na data de entrega desta proposta.
+
+Por ser verdade, firmo a presente.
+
+de de 2025.
+
+Nome Completo e Assinatura do Representante Legal
+
+44/59
+
+
+M PPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+Comissão Permanente de Licitação
+
+Ministério Público do Paraná Pregão Eletrônico nº 90040/25
+Anexo |ll
+
+MODELO DE DECLARAÇÃO DE MICROEMPRESA E EMPRESA DE PEQUENO PORTE
+
+(timbre ou identificação da licitante)
+
+XXXXXXXK, inscrito no CNPJ n.º XXXXXXXX, por intermédio de seu representante legal, o(a)
+Sr.(a) XXXXXXXX, portador(a) da Carteira de Identidade n.º XXXXXXXX e do CPF n.º
+XXXXXXXX, DECLARA, para os fins dispostos no Pregão Eletrônico n.º . / , sob as
+penas da Lei, que esta empresa, na presente data, é considerada:
+
+( ) MICROEMPRESA, conforme Inciso | do artigo 3º da Lei Complementar nº 123/2006;
+
+( ) EMPRESA DE PEQUENO PORTE, conforme Inciso |l do artigo 3º da Lei Complementar nº
+123/2006;
+
+( ) MICROEMPREENDEDOR INDIVIDUAL, conforme parágrafo 1º do artigo 18-A da Lei
+Complementar nº 123/2006, com redação dada pela Lei Complementar nº 188/202]1.
+
+DECLARA ainda:
+
+1. Que a empresa está excluída das vedações constantes do parágrafo 4º do artigo 3º
+da Lei Complementar n.º 123/2006;
+
+2.Que não extrapolou a receita bruta máxima relativa do enquadramento como
+empresa de pequeno porte, de que trata o artigo 3º, inciso 1l da Lei Complementar nº
+123/2006, em relação aos valores dos contratos celebrados com a Administração Pública
+no ano-calendário de realização da licitação.
+
+Por ser verdade, firmo a presente.
+
+s de de2025.
+
+Nome Completo e Assinatura do Representante Legal
+
+45/59
+
+
+M PPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+Comissão Permanente de Licitação
+
+Ministério Público do Paraná Pregão Eletrônico nº 90040/25
+Anexo |V
+
+MINUTA DO TERMO DE CONTRATO
+
+CONTRATO DE AQUISIÇÃO DE WORKSTATIONS, QUE CELEBRAM O MINISTÉRIO PÚBLICO DO
+ESTADO DO PARANÁ, DORAVANTE DENOMINADO CONTRATANTE, INSCRITO NO CNPJ/MF
+Nº 78.206.307/0001-30, COM SEDE NO EDIFÍCIO AFFONSO ALVES DE CAMARGO, NA RUA
+MARECHAL HERMES, Nº 751, CENTRO CÍVICO, NESTA CAPITAL, NESTE ATO REPRESENTADO
+PELO SUBPROCURADOR-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS, DOUTOR
+CLÁUDIO FRANCO FÉLIX, E A EMPRESA XXXXX, DORAVANTE DENOMINADA CONTRATADA,
+INSCRITA NO CNPJ/MF SOB Nº XXXXXXX, ESTABELECIDA NA XXXXX, Nº XXXXX, XXXXX, NESTE
+ATO REPRESENTADA POR XXXXXXXX, INSCRITO NO CPF Nº XXXXXX, PORTADOR DO RG Nº
+XXXXXXX, TENDO EM VISTA O RESULTADO DO PREGÃO ELETRÔNICO Nº 90040/25,
+RESPALDADO NA LEI FEDERAL Nº 14.133/2021]1, E NO DECRETO ESTADUAL Nº 10.086/2022,
+MEDIANTE AS CLÁUSULAS SEGUINTES:
+
+CLÁUSULA PRIMEIRA - DOS DOCUMENTOS INTEGRANTES DESTE CONTRATO
+
+A aquisição de XX bpoox) workstations de alto desempenho
+para processamento de vestígios digitais, com 2 (dois) monitores cada e garantia on-site
+de 60 (sessenta) meses (Lote X), que compõem o processo de Pregão Eletrônico Nº
+90040/25 que, independentemente de transcrição, fazem parte e complementam este
+contrato:
+
+Edital do Pregão Eletrônico Nº 90040/25 com todos os seus Anexos.
+
+Proposta e documentos que a acompanham, firmados pela CONTRATADA.
+
+CLÁUSULA SEGUNDA - DO OBJETO
+
+O presente contrato tem por objeto a aquisição de XX poox)
+workstations de alto desempenho para processamento de vestígios digitais, com 2 (dois)
+monitores cada e garantia on-site de 60 (sessenta) meses, de acordo com as
+especificações contidas no Instrumento Convocatório do Pregão Eletrônico Nº 90040/25
+e SEUS ANEXOS.
+
+CLÁUSULA TERCEIRA - DOS PRAZOS, DA ENTREGA, DA GARANTIA E DA VIGÊNCIA DO
+CONTRATO
+
+3.1. O prazo de entrega para todos os equipamentos é de
+até 90 (noventa) dias corridos, a partir da data da assinatura do contrato;
+
+3.2. Todos os loles devem ser entregues na sede do
+Departamento de Tecnologia da Informação do Ministério Público do Paraná — DTI/MP-
+PR, à Rua Deputado Mário de Barros, número 1290, 1º andar — Centro Cívico/PR -
+Curitiba/PR, devidamente embalados e lacrados pela fábrica, acompanhados de notas
+fiscais;
+
+3.2.1. Os equipamentos devem ser fornecidos em pleno
+funcionamento, prontos para a utilização, com todos os acessórios e componentes
+(cabos de energia, mouse, teclado, etc).
+
+3.3. A entrega deve ser redlizada dentro do horário
+regimental do MPPR, de segunda a sexta-feira, considerando o calendário de feriados
+
+46/59
+
+
+M PPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+Comissão Permanente de Licitação
+
+Ministério Público do Paraná Pregão Eletrônico nº 90040/25
+Anexo |V
+
+do órgão, devendo ser agendada com antecedência mínima de 48 horas conforme
+indicado no item anterior, sob o risco de não ser autorizada, através do e-mail
+subadm.dti.nagemppr.mp.br.
+
+3.4 Por ocasião da entrega dos produtos, por parte da
+contratada, os mesmos sofrerão verificação, sendo recusado(s) aquele(s) que
+estiverfem) em desacordo com as especificações contidas no Anexo | ao Edital do
+Pregão Eletrônico nº 90040/25, ou em desconformidade com a proposta ou ainda com
+problemas de funcionamento, conforme item 14 do Anexo | ao Edital do Pregão
+Eletrônico Nº 90040/2025;
+
+3.5. Os equipamentos deverão ser entregues identificados,
+conforme item 1.4.21 do Anexo | ao Edital do Pregão Eletrônico Nº 90040/2025;
+
+3.6. O fabricante ou empresa credenciada pelo fabricante,
+deverá prestar, sem qualquer custo adicional, os serviços pertinentes a garantia dos
+equipamentos, bem como cumprir os prazos definidos neste edital, por um período de no
+mínimo 60 (sessenta) meses a contar da data de recebimento (aceite) definitivo dos
+equipamentos, bem como cumprir os prazos definidos no Edital do Pregão Eletrônico nº
+90040/25, por um período de no mínimo 60 (sessenta) meses a contar da data de
+recebimento (aceite) definitivo dos equipamentos;
+
+3.6.1. Demais orientações relativas à garantia encontram-se
+detalhadas no item 4.5 do Anexo | ao Edital do Pregão Eletrônico nº 90040/25.
+
+3.7. A vigência do contrato inicia a partir de sua assinatura
+até 60 (sessenta) meses após a emissão do Termo de Aceite Definitivo, podendo ser
+prorrogada até o limite legal, conforme item 4.4 do Anexo | ao Edital do Pregão Eletrônico
+Nº 90040/2025.
+
+CLÁUSULA QUARTA - DAS OBRIGAÇÕES DA CONTRATADA
+
+A CONTRATADA, além do disposto no item 6.1 do Anexo | do
+Edital do Pregão Eletrônico Nº 90040/25, compromete-se a manter, durante toda a
+contratação, as condições de habilitação e qualificação exigidas na legislação
+pertinente.
+
+CLÁUSULA QUINTA - DAS CONDIÇÕES DE PAGAMENTO
+
+O pagamento será efetuado pelo CONTRATANTE de acordo
+com o disposto no Edital do Pregão Eletrônico Nº 90040/25, tendo a CONTRATADA
+obrigação de apresentar, por ocasião do pagamento, as certidões de regularidade para
+com a Secretaria da Receita Federal do Brasil e Procuradoria-Geral da Fazenda Nacional,
+FGTS, Fazendas Estadual e Municipal do seu domicílio ou sede, e a Certidão Negativa de
+Débitos Trabalhistas, além de comprovar a reserva de cargos prevista em lei para pessoa
+com deficiência, para reabilitado da Previdência Social ou para aprendiz, bem como as
+reservas de cargos previstas na legislação (artigo 116 da Lei nº 14.133/2021).
+
+Parágrafo Primeiro: O CNPJ/MF constante da Nota Fiscal deverá ser o mesmo indicado
+na proposta, sob pena de não ser efetuado o pagamento.
+
+Parágrafo Segundo: Nenhum pagamento será efetuado enquanto pendente de
+liquidação qualquer obrigação financeira que tenha sido imposta à CONTRATADA pelo
+CONTRATANTE, em decorrência de penalidade ou inadimplência, nos termos da
+legislação vigente.
+
+47/59
+
+
+M PPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+Comissão Permanente de Licitação
+
+Ministério Público do Paraná Pregão Eletrônico nº 90040/25
+Anexo |V
+
+CLÁUSULA SEXTA - DO VALOR E DA DOTAÇÃO ORÇAMENTÁRIA
+
+O presente ajuste tem valor de R$ XXXXXX pococox), a conta
+da dotação orçamentária xXx0000000000X, no subelemento de despesa XX00000000000X.
+
+CLÁUSULA SÉTIMA - DAS PENALIDADES
+
+7.1 O não cumprimento das obrigações contratuais ensejará
+a aplicação das seguintes sanções, independentemente de outras previstas em lei:
+
+| - advertência;
+
+|l - multa de mora de 0,5% (cinco décimos por cento) por dia
+de atraso sobre o valor total do contrato quando a CONTRATADA, sem justa causa, deixar
+de cumprir, dentro dos prazos estabelecidos, a obrigação assumida. A partir do trigésimo
+primeiro dia de atraso, essa multa será aplicada em dobro, sobre todo o período
+moratório, limitando-se do montante de 30% (trinta por cento) sobre o valor total do
+contrato. Decorridos 30 (trinta) dias corridos de atraso, o CONTRATANTE poderá decidir
+pela continuidade da mulita ou pelo cancelamento do pedido ou documento
+correspondente em razão da inexecução total do respectivo objeto, aplicando, na
+hipótese de inexecução total, apenas a multa prevista no item IIl;
+
+ll.a - A Contratada estará sujeita à aplicação de multa de
+10% (dez por cento) do valor unitário do equipamento objeto do ticket de atendimento,
+acrescida de 0,5% (meio por cento) por dia de atraso, até o máximo de 30% (trinta por
+cento), pelo atraso no atendimento ao chamado constante do item 4.5.5 e pelo atraso
+à substituição constante dos itens 4.5.32 e 4.5.33, todos do Anexo | do Edital do Pregão
+Eletrônico Nº 90040/2025.
+
+|ll - multa compensatória de 30% (trinta por cento) sobre o
+valor total do contrato, na hipótese de inexecução parcial ou total, caracterizada esta
+quando a execução do objeto contratado for inferior a 50% (cinquenta por cento) do
+total, quando houver reiterado descumprimento das obrigações assumidas, ou quando
+o atraso na execução ultrapassar o prazo limite de 30 (trinta) dias corridos, a que se refere
+o item |1l, hipótese em que poderá ser cancelado o pedido ou documento
+correspondente;
+
+IV — impedimento de licitar e contratar, pelo prazo de no
+máximo 3 (três) anos, nos termos do artigo 156, parágrafo 4º, da Lei 14.133/202];
+
+V - declaração de inidoneidade para licitar ou contratar pelo
+prazo mínimo de 3 (três) anos e no máximo de é (seis) anos, nos termos do artigo 156,
+parágrafo 5º da Lei 14.133/202].
+
+Parágrafo Primeiro: As penalidades previstas serão aplicadas
+mediante processo administrativo autônomo, pela autoridade competente, garantindo-
+se o contraditório e ampla defesa à CONTRATADA.
+
+Parágrafo Segundo: As penalidades acima previstas são
+independentes entre si, podendo ser aplicadas isolada ou cumulativamente.
+
+Parágrafo Terceiro: As multas aplicadas deverão ser
+recolhidas à conta do CONTRATANTE no prazo de 10 (dez) dias a contar da data da
+notificação, podendo o seu valor ser descontado do documento de cobrança, na
+ocasião de seu pagamento.
+
+Parágrafo  Quarto: Além das multas estabelecidas, o
+CONTRATANTE poderá recusar o objeto contratado, se não estiver de acordo com o
+exigido nos documentos que compõem este contrato.
+
+48/59
+
+
+M PPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+Comissão Permanente de Licitação
+
+Ministério Público do Paraná Pregão Eletrônico nº 90040/25
+Anexo |V
+
+Parágrafo Quinto: Quaisquer penalidades aplicadas serão
+transcritas no Cadastro de Licitantes do Estado.
+
+CLÁUSULA OITAVA - DA PROTEÇÃO DE DADOS PESSOAIS
+
+8.1 É vedado às partes a utilização de todo e qualquer dado
+pessoal repassado em decorrência da execução contratual para finalidade distinta
+daquela do objeto da contratação, mantendo-se o sigilo e confidencialidade, sob pena
+de responsabilização administrafiva, civil e criminal.
+
+8.2 A CONTRATADA declara que tem ciência da existência
+da Lei Geral de Proteção de Dados (Lei nº 13.709/18) e se compromete a adequar todos
+os procedimentos internos ao disposto na referida norma, com o intuito de proteger os
+dados pessoais repassados pelo CONTRATANTE.
+
+8.3 Quando solicitada, a CONTRATADA fornecerá dao
+CONTRATANTE todas as informações necessárias para comprovar sua conformidade com
+as obrigações referentes à proteção de dados pessoals.
+
+8.4 A CONTRATADA (operadora) deverá comunicar do
+Ministério Público do Estado do Paraná, no prazo máximo de 2 (dois) dias úteis, contados
+do seu conhecimento, qualquer incidente de acesso não autorizado aos dados pessoais,
+situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou
+qualquer forma de tratamento inadequado ou ilícito, sob pena de multa diária de R$
+10.000,00 (dez mil reais).
+
+Parágrafo único: a comunicação deverá ser enviada para o
+e-mail: encarregado.Ilgodemppr.mp.br, devendo trazer em seu bojo, no mínimo, as
+seguintes informações: | - quais dados pessoais foram violados; 1l - a descrição da natureza
+dos dados pessoais afetados, bem como o número aproximado de titulares de dados
+pessoais envolvidos; lll - a indicação das medidas técnicas e de segurança utilizadas para
+a proteção dos dados; IV - os riscos relacionados dao incidente e descrição das medidas
+que foram ou que serão adotadas para reverter ou mitigar os efeitos do prejuízo
+
+8.5 A CONTRATADA deverá cooperar com o CONTRATANTE
+no cumprimento das obrigações referentes ao exercício dos direitos dos titulares previstos
+na LGPD e nas Leis e Regulamentos de Proteção de Dados em vigor e também no
+atendimento de requisições e determinações do Poder Judiciário, Ministério Público,
+ANPD e Órgãos de controle administrativo em geral.
+
+CLÁUSULA NONA - DOS CASOS DE EXTINÇÃO
+
+O inadimplemento, por parte da CONTRATADA, das cláusulas
+e condições estabelecidas neste ajuste assegurará do CONTRATANTE, nos termos dos
+artigos 180 a 183 do Decreto Estadual nº 10.086/2021, em sua atual redação, o direito de
+dá-lo por extinto.
+
+Parágrafo Único: Fica a critério do CONTRATANTE declarar
+extinto o contrato e/ou aplicar a multa de que trata o inciso ll da cláusula sétima.
+
+CLÁUSULA DÉCIMA - DAS ALTERAÇÕES CONTRATUAIS
+
+Este contrato poderá ser alterado, no que couber, nos termos
+dos artigos 124 a 136 da Lei nº 14.133/202].
+
+CLÁUSULA DÉCIMA PRIMEIRA — DA FISCALIZAÇÃO DO CONTRATO
+49/59
+
+
+MPPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+Comissão Permanente de Licitação
+
+Ministério Público do Paraná Pregão Eletrônico nº 90040/25
+Anexo |V
+
+A gestdio da presente contratação  ficará  sob
+responsabilidade do Departamento de Tecnologia da Informação (DTI), do Grupo de
+Atuação Especial de Combate ao Crime Organizado (GAECO) e do Núcleo de
+Inteligência do Centro de Apoio Técnico à Execução (CAEx/NI), ficando indicados como
+gestor o senhor Robson Luiz Feyh (GAECO) e como fiscal o senhor Maicon Cezar Simioni
+(CAEX/NI).
+
+CLÁUSULA DÉCIMA SEGUNDA - DOS CASOS OMISSOS
+
+Os casos omissos serão resolvidos pelo CONTRATANTE, à luz da
+legislação, da jurisorudência e da doutrina aplicável à espécie.
+
+CLÁUSULA DÉCIMA TERCEIRA - DO FORO
+
+Fica declarado o foro da comarca de Curitiba/PR para dirimir
+qualquer questão atinente ao presente contrato.
+
+E, por estarem assim acordadas, as partes firmam o presente
+contrato em 2 (duas) vias de igual teor.
+
+Curitiba, de de2025.
+
+MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ
+
+Cláudio Franco Félix
+Subprocurador-Geral de Justiça
+para Assuntos Administrativos
+
+CONTRATANTE
+
+KXKKKKKKKKXKKKKKK KKK KK KKK KKKKK KKK K
+CONTRATADA
+
+50/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+M PPR Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+
+Ministério Público do Paraná Anexo V
+
+MODELO DE APRESENTAÇÃO DE PROPOSTA
+
+AO MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ
+COMISSÃO PERMANENTE DE LICITAÇÃO
+PROPOSTA COMERCIAL REFERENTE AO PREGÃO ELETRÔNICO Nº 90040/25
+
+A empresa , inscrita no CNPJ sob nº
+, neste ato representada por
+(qualificação completa: nome, RG, CPF, endereço, telefones, nacionalidade, estado civil,
+cargo), em atendimento ao disposto no Edital do Pregão Eletrônico Nº 90040/25, após análise
+do referido instrumento convocatório e tendo pleno conhecimento do seu conteúdo, se
+propõe a fornecer os produtos, objeto desta licitação, sob sua inteira responsabilidade, nas
+condições e preços a seguir.
+
+Nº Descrição completa Fabricante, Marca Valor Unitário
+
+Lote do objeto e Modelo Quantidade (R$) Valor Total (R$)
+
+1. Esta proposta tem validade de 90 (noventa) dias.
+
+2. Identificação da Licitante:
+
+RAZÃO SOCIAL DA LICITANTE: CNP!J:
+
+ENDEREÇO:
+
+TELEFONES:
+
+CIDADE: ESTADO: CEP:
+
+E-MAIL:
+
+BANCO: AGÊNCIA Nº: CONTA Nº:
+
+De acordo com legislação em vigor, eu, , CPF/MF nº
+
+, declaro estar ciente da responsabilidade que assumo pelas informações
+constantes dessa proposta.
+
+de de 2025.
+
+Assinatura Representante Legal
+
+Ob;ervação:
+1) E dever do representante legal zelar pela atualização dos dados acima.
+2) Esta proposta deverá estar redigida em papel timbrado da licitante, preferencialmente.
+
+51/59
+
+
+M PPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+"- * Comissão Permanente de Licitação
+Ministério Público do Paraná Pregãº Eletrônicº no 90040/25
+Anexo VI
+
+ESTUDO TÉCNICO PRELIMINAR
+
+1. UNIDADE REQUERENTE
+COORDENAÇÃO ESTADUAL DO GAECO
+
+2. EQUIPE RESPONSÁVEL, TELEFONE E E-MAIL
+Robson Luiz Feyh / (41) 3219-5172 / robsonIfemppr.mp.br
+
+3. OBJETO
+
+Aquisição de 12 (doze) workstations de alto desempenho para processamento de
+vestígios digitais, com 2 monitores cada e com garantia on-site de 60 (sessenta) meses
+em todo o Estado do Paraná.
+
+4. Nº SEI
+PROCESSO SEI Nº 19.19.8451.0023000/2024-70
+
+5. OBJETO COMUM
+(X) Sim () Não
+
+6. SERVIÇO OU AQUISIÇÃO
+() Serviço ( X) Aquisição
+
+7. DESCRIÇÃO DA NECESSIDADE DA AQUISIÇÃO
+
+A aquisição de workstations de alto desempenho para processamento de vestígios
+digitais é essencial para melhorar a eficiência nas atividades forenses da unidade.
+Atualmente, a equipe enfrenta limitações com computadores de baixo desempenho,
+dificultando a análise de grandes volumes de dados apreendidos, especialmente em
+casos envolvendo o crime organizado e a urgência necessária para analisar as
+apreensões. Os novos equipamentos permitirão processar e indexar arquivos complexos
+de maneira rápida e precisa, reduzindo o tempo de investigação e aumentando a
+eficácia nas operações. Esse investimento é crucial para garantir respostas ágeis e
+seguras nas investigações, cumprindo com eficiência nossa missão instiftucional.
+
+8. DEMONSTRAÇÃO DA PREVISÃO DO PAC
+
+Considerando que a Nova Lei de Licitações e Contratos começou a ser aplicada nesta
+Instituição no início de 2024, Lei Federal nº 14.133/2021, o Plano Anual de Contratações
+será realizado posteriormente.
+
+9. DESCRIÇÃO DOS REQUISITOS DA CONTRATAÇÃO
+
+A. Condições gerais: Atlender a todas as leis brasileiras que tratam do assunto,
+principalmente sobre proteção de dados - Lei Nº 13.709, de 14 de agosto de 2018 (Lei
+Geral de Proteção de Dados Pessoais (LGPD);
+
+B. Definição do local da implantação: Os equipamentos serão utilizados nos Núcleos
+regionais do GAECO, no Núcleo de Inteligência do CAEx e na SUBJUR.
+
+52/59
+
+
+M PPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+Comissão Permanente de Licitação
+
+Ministério Público do Paraná Pregãº Eletrônicº no 90040/25
+Anexo VI
+
+C. Definição do tipo de contratação: Aquisição de equipamentos de tecnologia da
+informação.
+
+D. Quantidade de equipamentos: 12 (doze)
+
+E. Critério de julgamento: Menor preço por unidade, desde que a empresa vencedora
+atenda aos requisitos técnicos e de qualificação.
+
+F. Qualificação técnica dos licitantes: Os participantes deverão possuir representação
+em território nacional.
+
+G. Sustentabilidade: Não se aplica.
+H. Fundamentos Legais: Lei nº 14.133/2021 (Nova Lei de Licitações e Contratos).
+
+10. ESTIMATIVA DAS QUANTIDADES A SEREM CONTRATADAS
+
+Serão necessárias 12 (doze) workstations de alto desempenho para processamento de
+vestígios digitais, com dois monitores cada e garantia on-site de 60 (sessenta) meses a
+serem distribuídas aos Núcleos Regionais do GAECO, Núcleo de Inteligência do CAEXx,
+SUBJUR e Coordenação Estadual, em quantitativo ainda a ser definido.
+
+11. LEVANTAMENTO DE MERCADO
+
+a) a redação do Termo de Referência com os requisitos técnicos exigidos para o
+equipamento foi realizada por esta Coordenação Estadual do GAECO em conjunto
+com o Departamento de Tecnologia da Informação e com o Núcleo de Inteligência do
+CAEXx;
+
+b) os principais fabricantes desta categoria de equipamentos foram consultados sobre
+os requisitos iniciais, sendo que indicaram representantes e parceiros, sendo: HP com a
+empresa Torino, Supermicro com a empresa AmericaCorp., Dell com a empresa LTA-RH
+e LeNovo com a empresa Athenas;
+
+c) em diversas oportunidades, houveram reuniões online com os fabricantes e seus
+representantes/parceiros, com a participação do DTI e NI/CAEXx, discutindo opções de
+ajustes de requisitos como processadores, placa mãe, placa de vídeo, gabinete e etc.;
+d) em sua maioria, as diversas sugestões de ajustes foram acatadas, com exceção de
+alguns itens elencados pela Athenas LeNovo pois, se fossem inseridos no Termo de
+Referência, poderia restringir a participação de outras empresas;
+
+e) as sugestões encaminhadas por Torino, AmericaCorp. e LTA-RH foram ajustadas no
+Termo de Referência, sem restrição de competitividade entre todos os fabricantes;
+
+f) a empresa Athenas LeNovo foi a única que não enviou cotação de valores;
+
+g) das cotações obtidas, percebe-se uma grande diferença de valores entre os
+fornecedores, sendo que há, entre o maior e o menor valor, aproximadamente 40% de
+diferença;
+
+h) ao questionar os fornecedores sobre tal diferença, não indicaram resposta objetiva.
+
+Relação a ferramentas similares:
+
+i Maca HP modelo G8 Geração 5 Tower  httlps://wWww.hp.com/us-
+en/workstations/z8.html com cotação enviada em 26/08/2025.
+
+ii. Marca LeNovo modelo ThinkStation P7:
+https://www.lenovo.com/br/pt/p/workstations/thinkstationp/thinkstation-p7-
+workstation/len102s0012 sem cotação enviada pela empresa Athenas LeNovo.
+
+53/59
+
+
+M PPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+i Comissão Permanente de Licitação
+Ministério Público do Paraná Pregãº Eletrônicº no 90040/25
+Anexo VI
+
+li. c. Marca Dell modelo Precision 7960 Torre: hilps://wWwww.del.com/pt-
+br/shop/computadores-all-in-ones-e-workstations/workstation-em-torre-precision-
+7960/spd/precision-t7960-workstation com contação enviada em 21/08/2025.
+
+d. Marca Supermicro modelo SuperWorkstation SYS-751A-l:
+
+https://wWww.supermicro.com/en/products/system/workstation/tower/sys-7510- com
+cotação enviada em 06/08/2025.
+
+EN R$ 148.000,00 R$ 1.776.000,00
+
+Supermicro SuperWorkstation SYS- R$ 90.200,00 R$ 1.082.400,00
+751A
+
+12. ESTIMATIVA DO VALOR DA CONTRATAÇÃO
+
+O custo estimado total da contratação é de R$ 89.800,00 (oitenta e nove mil e
+oitocentos reais) por unidade, totalizando R$ 1.077.600,00 (um milhão, setenta e sete mi
+e seiscentos reais).
+
+As despesas com aquisição de mobiliário, objeto deste TR, estão contempladas na Lei
+Orçamentária Anual — LOA/2025 do MPPR, de forma genérica no elemento de despesa
+5590.5200 — Equipamentos e Material Permanente;
+
+A presente despesa está contemplada no plano de contratações anual — 2025.
+
+13. DESCRIÇÃO DA SOLUÇÃO COMO UM TODO
+
+Equipamentos que trarão celeridade na indexação de vestígios digitais de dispositivos
+móveis apreendidos, cuja extração dos dados é realizada pela Polícia Científica do
+Estado do Paraná conforme convênio (dados do convênio) estabelecido com o MPPR,
+além de permitir que as equipes trabalhem com múltiplos softwares simultaneamente,
+sem risco de travamentos ou lentidão. Isso é crucial para o sucesso das investigações, já
+que muitas vezes é necessário cruzar dados de diferentes fontes e readlizar análises
+complexas de forma ágil e precisa.
+
+14. JUSTIFICATIVA PARA O PARCELAMENTO OU NÃO DA SOLUÇÃO
+
+Não existe a possibilidade de aplicar o parcelamento em função do caráter indivisível
+da prestação de serviço solicitado.
+
+15. RESULTADOS PRETENDIDOS COM A CONTRATAÇÃO
+
+15.1.Celeridade no processamento de dados forenses, reduzindo significativamente o
+tempo de análise de grandes volumes de informações.
+
+15.2 Velocidade na indexação e leitura de arquivos extraídos, permitindo que as
+investigações avancem com maior agilidade.
+
+15.3 Segurança no manuseio de evidências digitais, garantindo que todos os dados
+sejam processados de forma confiável e sem falhas.
+
+54/59
+
+
+M PPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+Comissão Permanente de Licitação
+
+Ministério Público do Paraná Pregãº Eletrônicº no 90040/25
+Anexo VI
+
+15.4 Precisão na análise de provas, aumentando a exatidão dos resultados obtidos com
+os softwares forenses.
+
+15. 5 Eficiência no uso dos recursos tecnológicos, permitindo o processamento
+simultãneo de múltiplos casos sem comprometer o desempenho.
+
+15.6 Confiabilidade no desempenho das máquinas, minimizando o risco de travamentos
+e falhas durante a investigação.
+
+15.7 Agilidade nas respostas às demandas da sociedade, acelerando a conclusão de
+investigações complexas.
+
+15. 8 Capacidade ampliada de processamento de grandes volumes de dados,
+atendendo às necessidades crescentes das operações forenses.
+
+16. PROVIDÊNCIAS A SEREM ADOTADAS PELA ADMINISTRAÇÃO
+Infraestrutura e Recursos Tecnológicos:
+
+e Instalações elétricas: rede elétrica estabilizada para funcionamento dos
+equipamentos.
+
+e Acesso à rede e internet: rede de internet.
+
+17. CONTRATAÇÕES CORRELATAS E/OU INTERDEPENDENTES (ART. 15, 8 5º DO DECRETO
+ESTADUAL Nº 10.086/2022)
+
+Para a presente solução, e por tratar-se de prestação de serviços especializados, não
+há necessidade de outras contratações que guardem correlação e/ou dependência
+da aquisição pretendida.
+
+18. ANÁLISE/MATRIZ DE RISCOS (ART. 15, 88 2º E 3º DO DECRETO ESTADUAL Nº 10.086/2022)
+18.1 PROCESSO DE CONTRATAÇÃO
+
+RISCO 1
+
+RISCO: Resultado da Licitação Deserta ou Prejudicada.
+PROBABILIDADE Baixa
+
+ID DANO IMPACTO
+
+1 Atraso na aquisição: as equipes ainda permanecerão com deficiência técnica na análise de provas de
+vestígios digitais.
+
+2. Necessidade de refazer o processo: será necessário readlizar todo o processo de licitação novamente.
+
+ID AÇÃO PREVENTIVA RESPONSÁVEL
+1. Divulgação efetiva junto aos fabricantes e fornecedores dos equipamentos em território nacional, através
+
+de e-mail, contato telefônico e/ou aplicativo de mensagens. Unidade responsável: Coordenação Estadual
+do GAECO.
+
+ID AÇÃO DE CONTINGÊNCIA RESPONSÁVEL 1 Não há. Será necessário realizar nova tentativa de aquisição,
+sanando eventuais causas identificadas para o resultado fracassado. Unidade responsável: Coordenação
+Estadual do GAECO.
+
+18.2 RISCOS DURANTE A FASE DE EXECUÇÃO DO CONTRATO
+
+55/59
+
+
+tLs M PPR SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+"- * i Comissão Permanente de Licitação
+Ministério Público do Paraná Pregãº Eletrônico nº 90040/25
+
+Anexo VI
+
+RISCO 2
+
+RISCO: Atraso na solução de atendimento em garantia
+PROBABILIDADE Baixa
+
+ID DANO IMPACTO
+
+Atraso no SLA: equipamento sem funcionamento ou de forma parcial.
+ID AÇÃO PREVENTIVA RESPONSÁVEL
+
+Definição de penalidade sobre excesso de prazo no termo de referência e contrato, com prazos claros e
+detalhamento de tipo de problemas. Unidade responsável: Coordenação Estadual do GAECO.
+
+ID AÇÃO DE CONTINGÊNCIA RESPONSÁVEL
+
+Emitir Notificação extrajudicial à empresa contratada: Responsável Fiscal do Contrato. pelo Fiscal do
+Contrato
+
+Dar ciência à Administração Superior: Responsável: Fiscal do Contrato.
+
+19. DECLARAÇÃO DE VIABILIDADE TÉCNICA E ECONÔMICA
+
+A realização deste estudo demonstrou que o projeto em questão é viável tanto do
+ponto de vista técnico quanto econômico.
+
+Curitiba, 27 de agosto de 2025.
+
+Robson Luiz Feyh
+Técnico de Tl - GAECO
+Divisão de Tecnologia Aplicada à Investigação
+
+56/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+M PPR Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+Anexo VII
+
+Ministério Público do Paraná
+
+MAPA DE FORMAÇÃO DE PREÇOS
+
+1. DESCRIÇÃO DO OBJETO
+
+1.1. Aquisição de 12 (doze) workstations de alto desempenho para processamento de
+vestígios digitais, com 2 (dois) monitores cada e garantia on-site de 60 (sessenta) meses.
+
+1.2. Código CATMAT 467573
+
+Microcomputador
+
+Memória Ram: Superior a 8 gb
+
+Núcleos Por Processador: Superior a 8
+Armazenamento Hdd: Superior a 4 tb
+Armazenamento Ssd: Até 2 Tb
+
+Monitor: 21 a 29 pol
+
+Componentes Adicionais: Com Teclado E Mouse
+Garantia On Site: Superior a 36 meses
+
+2. BASE LEGAL DA PESQUISA
+2.1. Decreto Estadual 10.086/2022 e Lei Federal 14.133/202].
+
+3. NOTAS SOBRE A PESQUISA
+
+3.1. A pesquisa foi realizada conforme art. 368 do Decreto Estadual 10.086/2022? e art. 23
+da Lei 14.133/202].
+
+3.2. Para fins de determinação do preço estimado foram utilizados, sempre que possível,
+OS incisos | a Vl do citado artigo do Decreto Estadual.
+
+3.3. Com o objetivo de discutir os requisitos técnicos junto aos fabricantes e
+fornecedores, foram realizados contatos via telefone com as empresas indicadas pelo
+Departamento de Tecnologia da Informação (DTI/SUBADM), que já participaram das
+licitações de aquisição de computadores neste MPPR;
+
+3.4. As empresas ora mencionadas são os principais fabricantes e/ou parceiros dos
+fabricantes dos equipamentos no Brasil, sendo eles: Torino que representa HP, LTA-RH
+que representa Dell, Athenas que representa LeNovo e AmericaCorp que representa
+Supermicro.
+
+3.5. A cotlação de valores foi realizada com as empresas acima indicadas, com
+conhecimento, acompanhamento e autorização dos fabricantes, tendo o mesmo texto
+base sido enviado para todos os fornecedores consultados, como pode ser observado
+nos arquivos PDF de e-mails que seguem apensados dao presente expediente eletrônico.
+
+4. CARACTERIZAÇÃO DAS FONTES CONSULTADAS
+
+4,.1. As fontes consultadas foram aquelas mencionadas no Art. 368 do Decreto Estadual
+10.086/2022, conforme relação abaixo:
+
+4.1.1. PNCP/GMS: foram realizadas consultas no GMS, não tendo encontrado resultados
+em editais de licitação realizados nos últimos é (seis) meses.
+
+57/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+M PPR Comissão Permanente de Licitação
+Pregão Eletrônico nº 90040/25
+Anexo VII
+
+Ministério Público do Paraná
+
+4.1.2. Contratações similares: através de contatos telefônicos, foram identificados editais
+de licitação com especificações similares na Polícia Científica do Estado do Paraná e
+Ministério Público do Estado de São Paulo.
+
+4,1.3. Mídia especializada: foram encontrados sites dos equipamentos que atendem os
+requisitos técnicos, nos portais dos fabricantes conforme indicado no Estudo Técnico
+Preliminar, replicado abaixo:
+
+4.1.3.1. Marca HP modelo G8 Geração 5 Tower no endereço eletrônico
+https://www.hp.com/us-en/workstations/z8.html;
+
+4.1.3.2. Marca LleNovo modelo ThinkStation P7 no endereço eletrônico
+https://www.lenovo.com/br/pt/p/workstations/thinkstationp/thinkstation-p7-
+workstation/len102s0012 sem cotação enviada pela empresa Athenas LeNovo;
+
+4.1.3.3. Marca Dell modelo Precision 7960 Torre no endereço  eletrônico
+https://www.dell.com/pt-br/shop/computadores-all-In-ones-e-workstations/workstation-
+emr-torre-precision-7960/spd/precision-t7960-workstation; e
+
+4,.1.3.4. Marca Supermicro modelo SuperWorkstation SYS-751A- no endereço eletrônico
+https://www.supermicro.com/en/producits/system/workstation/tower/sys-751a-.
+
+4.1.4. Orçamento direto de fornecedor: foi solicitado cotlação de valores dos
+fornecedores e representantes dos fabricantes acima relacionados, enviando por e-mail
+o descrito técnico dos equipamentos, que foram respondidos por e-mail enviando
+cotação de valores dos equipamentos e identificação da marca/modelo que atendem
+a especificação solicitada;
+
+4,.1.5. Nota Paraná: foi realizada pesquisa através do aplicativo Menor Preço Paraná,
+não encontrando nenhum resultado;
+
+4,1.6. Tabelas Oficiais: não foram encontradas tabelas de valores oficiais para o bem
+que se pretende adquirir.
+
+5. CONSIDERAÇÕES E CONCLUSÃO
+
+5.1. De acordo com o Art. 368 do Decreto Estadual 10.086/2022, o valor adotado como
+preço máximo para a aquisição pretendida corresponde ao valor médio da soma de
+02 (dois) valores obtidos em cotação de valores, com a ressalta do contido no item 5.5
+abaixo.
+
+5.2. O quaniitativo de 12 (doze) equipamentos que se pretende adquirir tem a previsão
+de distribuição entre os 9 atuais Núcleos Regionais do GAECO, |1 unidade ao Núcleo de
+Inteligência do CAEx, 1 unidade à SUBJUR - Subprocuradoria-Geral de Justiça de
+Assuntos Jurídicos e 1 unidade para a Coordenação Estadual do GAECO.
+
+5.3. As cotações recebidas pelos fornecedores e representantes dos fabricantes, foram
+solicitadas pela Coordenação Estadual do GAECO, mesma unidade solicitante da
+presente aquisição;
+
+5.4. Os fornecedores e representantes dos fabricantes, ao longo das tratativas, via e-mail
+e reuniões on-line, sugeriram adequações aos itens do Termo de Referência, que foram
+plenamente atendidos para a redação final do documento, objetivando a maior
+participação possível de concorrentes no mercado nacional que tenham condições de
+atender a especificidade dos equipamentos; e
+
+5.5. Das cotações obtidas, percebe-se uma grande diferença de valores entre os
+fornecedores, sendo que há, entre o maior e o menor valor, aproximadamente 40% de
+diferença. Ao questionar os fornecedores qual a razão da diferença, não indicaram
+resposta objetiva. Desta forma, sendo expressiva a mencionada diferença, o valor de
+R$ 148.000,00 foi desconsiderado.
+
+58/59
+
+
+SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS ADMINISTRATIVOS
+
+Comissão Permanente de Licitação
+
+Ministério Público do Paraná Pregão Eletrônico nº 90040/25
+Anexo VII
+
+5.6. Desta forma, esta unidade sugere, salvo melhor juízo, que o edital de licitação tenha
+como valor máximo o preço de R$ 89.800,00, sendo o valor médio das duas menores
+cotações conforme indicado na tabela do item 6.
+
+6. TABELA DE VALORES OBTIDOS EM COTAÇÃO
+
+m Precision 7960 LTA-RH R$ 148.000,00* R$ 1.776.000,00
+
+SuperWorkstation SYS- R$ 90.200,00 R$ 1.082.400,00
+751A-
+
+* - valor desconsiderado conforme indicado no item 5.5.
+
+Curitiba, 27 de agosto de 2025.
+
+Robson Luiz Feyh
+Técnico de Tl - GAECO
+Divisão de Tecnologia Aplicada à Investigação
+
+59/59
+
+

@@ -1,0 +1,3170 @@
+$ Compras.gov.br UASG 389097
+
+CONSELHO REG. DE ENGENHARIA E AGRONOMIA - PE
+
+Edital 11/2025
+
+EDITAL DO PREGÃO ELETRÔNICO Nº 02/2025
+
+SERVIÇO PÚBLICO FEDERAL
+CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE PERNAMBUCO - CREA-PE
+COMISSÃO DE LICITAÇÃO - LIC
+
+EDITAL DO PREGÃO ELETRÔNICO Nº 06/2025
+
+Contratante (UASG): Conselho Regional de Engenharia e Agronomia de Pernambuco (389097)
+
+Objeto: Aquisição de notebooks para atendimento de demandas das áreas ligadas a atividade fim do
+CREA-PE para uso pelos fiscais e áreas administrativas.
+
+Data e hora de abertura da sessão pública: 02/10/2025 às 10:30 h
+
+Local: www.gov.br/compras/pt-br, horário de Brasília/DF.
+
+z
+
+Critério de Julgamento: menor preço por grupo
+
+Modo de disputada: Aberto
+
+Valor Total Estimado da Contratação: R$ 263.268,00
+
+Exclusiva MEIEPP ( )Sim (x)Não
+Reserva de cota exclusiva ME/IEPPIEQUIPARADAS ( )Sim (x)Não
+Pedidos de esclarecimento e Impugnação: até 29/09/2025
+
+1de 21
+
+
+Os pedidos de esclarecimento e as impugnações referentes a este procedimento devem ser
+encaminhados, exclusivamente, por meio eletrônico via internet, para o endereço cpl&wcrea-pe.org.br,
+conforme Lei nº 14.133/21.
+
+AVISO DE LICITAÇÃO
+
+SERVIÇO PÚBLICO FEDERAL
+
+CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE PERNAMBUCO - CREA-PE
+
+COMISSÃO DE LICITAÇÃO - LIC
+
+AVISO DE LICITAÇÃO
+
+EDITAL DO PREGÃO ELETRÔNICO Nº 006/2025
+
+Torna-se público que o CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE
+PERNAMBUCO - CREA-PE, por meio da Comissão de Licitação — LIC, sediado na Rua da Hora,
+570 — Espinheiro, Recife — PE, CEP 52020-015, realizará licitação, na modalidade PREGÃO
+ELETRÔNICO, do tipo menor preço por item, visando à aquisição de notebooks, nos termos da Lei
+nº 14.133/2021, da Lei Complementar nº 123/2006 e suas alterações (ME/EPP), da Lei nº 12.846/2013
+(Responsabilização por atos contra a Administração Pública), da Lei nº 13.709/2018 (Lei Geral de
+Proteção de Dados), bem como da legislação correlata, incluindo o Código de Defesa do Consumidor e
+o Código Civil Brasileiro, e sob as condições estabelecidas neste Ato Convocatório e seus anexos.
+
+Data de abertura da sessão pública: 02/10/2025
+Hora: às 10:30h - horário de Brasília — DF
+Local: sítio www.gov.br/compras/pt-br, horário de Brasília/DF.
+
+Informações Básicas
+
+Número do
+
+UASG Editado por
+artefato
+
+389097-CONSELHO REG. DE ENGENHARIA E AGRONOMIA - - JOAO CESAR DOS
+PE SANTOS
+
+11/2025
+
+Atualizado em
+
+11/09/2025 11:51 (v
+0.10)
+
+2 de 21
+
+
+Status
+ASSINADO
+
+Outras informações
+
+Categoria Número da Contratação Processo Administrativo
+
+II - compra, inclusive por encomenda/Bens permanentes PGE 06 2002.63669/2024-11/25
+
+1. DO OBJETO
+
+1.1. O presente Pregão Eletrônico tem por objeto a aquisição de notebooks, destinados a atender às
+necessidades do Conselho Regional de Engenharia e Agronomia de Pernambuco — CREA-PE,
+conforme especificações, quantidades e demais condições estabelecidas no Termo de Referência
+(Anexo |II) deste Edlital.
+
+1.2. O valor total estimado para contratação é de R$ 263.268,00 (duzentos e sessenta e três mil,
+duzentos e sessenta e olto reais).
+
+1.3. O objeto será adjudicado por item, conforme tabela transcrita abaixo e nos termos do item 1 —
+Definição do Objeto, constante do Termo de Referência (Anexo II), onde se encontram detalhadas as
+respectivas quantidades, descrições mínimas e principais características técnicas dos itens a serem
+contratados.
+
+Valor Valor
+Item | Descrição dos Produtos | CATMAT | Quantidade | Unidade |Unitário R$ |Total R$
+
+Notebook Básico 7.999,00 223.972,00
+Core i5 8Gb 253Gb 630109 Unid.
+
+SSD, conforme descrição do
+
+tópico 2 do Termo de
+
+Referência (Anexo II).
+
+Notebook
+2 Intermediário Core 630109 03 Unid. /8.999,00 — |/26.997,00
+i7 16Gb 256Gb SSD,
+conforme descrição do tópico
+2 do Termo de Referência
+(Anexo II).
+,
+
+Notebook Avançado
+
+Core i7 32Gb 1Tb 630109 Unid. /12.299,00 |/12.299,00
+SSD, conforme descrição do
+
+tópico 2 do Termo de
+
+Referência (Anexo II).
+
+VALOR TORAL R$ | 26326800
+
+1.4. O prazo de entrega dos bens será de 15 (quinze) dias úteis, contados a partir da assinatura da
+Autorização de Fornecimento, nos termos do subtópico 4.6 do Termo de Referência.
+
+1.4.1. O prazo de entrega poderá ser prorrogado uma única vez, por igual período, mediante
+solicitação formal e justificada da contratada, apresentada antes do vencimento do prazo Iinicial, e
+desde que a Jjustificativa seja aceita pela Administração, nos termos do art. 122, 82º, da Lei nº 14.133
+/2021.
+
+1.5. Os bens deverão ser entregues no seguinte endereço: Rua da Hora, 570 — Espinheiro — Recife —
+PE, CEP 52020-015, no horário de 09h00 às 14h30, de segunda a sexta-feira, conforme demanda
+(subtópico 4.6 do Termo de Referência).
+
+3 de 21
+
+
+1.6. O prazo de garantia dos notebooks será de no mínimo 36 (trinta e seis) meses, contado a partir do
+primeiro dia útil subsequente à data do Termo de Recebimento Definitivo emitido pelo CREA-PE,
+contra quaisquer defeitos de fabricação (subtópico 4.9 do Termo de Referência).
+
+1.7. Os critérios de habilitação estão elencados no Anexo | deste Edital.
+
+1.8. Quanto à sustentabilidade, a Contratada deverá obedecer o disposto no subtópico 4.25 do Termo
+de Referência.
+
+1.9. A licitação será realizada por itens distintos, conforme tabela constante no subtópico 1.1 do Termo
+de Referência (Anexo |l), sendo admitida a apresentação de proposta para um ou mais itens, de
+acordo com o interesse da licitante.
+
+1.10. Em caso de divergência entre as especificações constantes nos códigos padronizados do
+CATMAT/CATSER e aquelas descritas no Termo de Referência (Anexo |lI) deste Edital, prevalecerão
+estas últimas, desde que tecnicamente justificadas no referido Termo de Referência, conforme dispõe
+o art. 40, inciso |, da Instrução Normativa SEGES/ME nº 73, de 5 de agosto de 20??.
+
+1.10.1. As especificações técnicas constantes no Termo de Referência, ainda que eventualmente mais
+detalhadas ou ampliadas em relação ao código CATMAT correspondente, foram validadas pelo setor
+técnico demandante do CREA-PE, com vistas a atender necessidades específicas da Administração.
+
+1.11. Integram o presente Edital os seguintes documentos:
+1.11.1. ANEXO | — Modelo de Proposta de Preços;
+
+1.11.2. ANEXO |1l — Termo de Referência;
+
+1.11.3. ANEXO ll — Minuta de Termo de Contrato.
+
+1.12. Em caso de discordância entre as especificações do objeto descritas no COMPRASGOV e as
+especificações técnicas constantes deste Edital, prevalecerão as últimas.
+
+2. DAS DISPOSIÇÕES PRELIMINARES
+
+2.1. O Pregão Eletrônico será realizado em sessão pública, por meio da INTERNET, mediante
+condições de segurança - criptografia e autenticação — em todas as suas fases.
+
+2.2. Os trabalhos serão conduzidos por servidor do CREA-PE, designado Agente de Contratação
+lpregoeiro e Equipe de Apoio, mediante a inserção e monitoramento de dados gerados ou transferidos
+para o aplicativo “COMPRASGOV"”, constante da página eletrônica https://www.gov.br/compras/pt-br
+2.3. Os horários estabelecidos no Edital, no aviso e durante a sessão pública observarão o horário de
+Brasília, Distrito Federal, inclusive para contagem de tempo, registro no sistema eletrônico e na
+documentação relativa ao certame.
+
+2.4. Os participantes de Licitação na modalidade de Pregão, na forma eletrônica e qualquer
+interessado poderão acompanhar o seu desenvolvimento em tempo real, por meio da internet.
+
+2.5. O licitante deverá observar rigorosamente os prazos limites (data e horário) para o recebimento de
+propostas, bem como de abertura e início da sessão de disputa de preços, assim como, as
+convocações feitas no sistema pelo Agente de Contratação/Pregoeiro.
+
+2.6. Caberá à licitante a responsabilidade por informações inverídicas prestadas com o intuito de obter
+os benefícios previstos na Lei Complementar nº 123/2006 e suas alterações.
+
+4 de 21
+
+
+3. DA PARTICIPAÇÃO NA LICITAÇÃO
+
+3.1. Poderão participar deste Pregão todas as empresas que atuem comprovadamente no ramo de
+fornecimento de equipamentos de informática e tecnologia (notebooks e), devidamente
+credenciadas no Sistema de Cadastramento Unificado de Fornecedores — SICAF e no Sistema de
+Compras do Governo Federal (www.gov.br/compras), por meio de Certificado Digital conferido pela
+Infraestrutura de Chaves Públicas Brasileira — ICP-Brasil.
+
+3.2. O licitante responsabilizar-se-á, exclusiva e formalmente, pelas transações efetuadas em seu
+nome, assumindo como firmes e verdadeiras suas propostas e seus lances, inclusive os atos
+praticados diretamente ou por seu representante, excluída a responsabilidade do provedor do sistema
+ou do órgão ou entidade promotora da licitação por eventuais danos decorrentes de uso indevido das
+credenciais de acesso, ainda que por terceiros.
+
+3.3. É de responsabilidade do cadastrado conferir a exatidão dos seus dados cadastrais nos Sistemas
+relacionados no item anterior e mantê-los atualizados junto aos órgãos responsáveis pela informação,
+devendo proceder imediatamente à correção ou alteração dos registros tão logo identifique incorreção
+ou desatualização.
+
+3.4. Será concedido tratamento favorecido às microempresas, empresas de pequeno porte,
+sociedades cooperativas mencionadas no artigo 16 da Lei nº 14.133/2021, agricultores familiares,
+produtores rurais pessoas físicas e microempreendedores individuais — MEI, nos limites previstos na
+Lei Complementar nº 123/2006 e no Decreto nº 8.538/2015.
+
+3.5. Não será admitida a contratação de cooperativa cujo estatuto ou objeto social não prevejam ou
+não estejam de acordo com o fornecimento de equipamentos de informática objeto deste certame
+(Art. 13, IN 5/2017).
+
+3.6. Não poderão disputar esta licitação:
+
+a) aqueles que não atendam às condições deste Edital e seu(s) anexo(s);
+
+b) o autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa física ou jurídica, quando a
+licitação versar sobre serviços ou fornecimento de bens a ele relacionados (Art. 14, |, Lei 14.133/2021);
+c) a empresa, isoladamente ou em consórcio, responsável pela elaboração do projeto básico ou do
+projeto executivo, ou empresa da qual o autor do projeto seja dirigente, gerente, controlador, acionista
+ou detentor de mais de 5% do capital votante, responsável técnico ou subcontratado, quando a
+licitação versar sobre serviços ou fornecimento de bens a ela necessários (Art. 14, Il, Lei 14.133/2021);
+d) pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitada de participar do
+certame em decorrência de sanção que lhe tenha sido imposta (Art. 14, Ill, Lei 14.133/2021);
+
+e) aqueles que mantenham vínculo de natureza técnica, comercial, econômica, financeira, trabalhista
+ou civil com dirigente do órgão ou entidade contratante ou com agente público que desempenhe
+função na licitação ou atue na fiscalização ou gestão do contrato, ou que deles sejam cônjuges,
+companheiros ou parentes em linha reta, colateral ou por afinidade, até o terceiro grau (Art. 14, IV, Lei
+14.133/2021);
+
+f) empresas controladoras, controladas ou coligadas, nos termos da Lei nº 6.404/1976, concorrendo
+entre si (Art. 14, V, Lei 14.133/2021);
+
+g) pessoa física ou jurídica que, nos 5 anos anteriores à divulgação do edital, tenha sido condenada
+judicialmente, com trânsito em julgado, por exploração de trabalho infantil, submissão de trabalhadores
+a condições análogas às de escravo ou contratação de adolescentes em casos vedados pela
+legislação trabalhista (Art. 14, VI, Lei 14.133/2021);
+
+h) Organizações da Sociedade Civil de Interesse Público (OSCIP), atuando nessa condição;
+
+5 de 21
+
+
+i) agente público do órgão ou entidade contratante, direta ou indiretamente, devendo ser observadas
+as situações que configurem conílito de interesses no exercício ou após o exercício do cargo ou
+emprego, nos termos da legislação aplicável (81º, art. 9º, Lei nº 14.133/2021).
+
+3.7. O impedimento de que trata a alínea “d” aplica-se também ao licitante que atue em substituição a
+outra pessoa, física ou jurídica, com o intuito de burlar a sanção aplicada, inclusive sua controladora,
+controlada ou coligada, desde que comprovada a fraude (Art. 14, 81º, Lei 14.133/2021).
+
+3.8. A vedação de que trata a alínea “” estende-se a terceiros que auxiliem a condução da contratação
+na qualidade de integrante da equipe de apoio, profissional especializado ou representante de
+empresa prestadora de assessoria técnica (Art. 9º, 82º, Lei 14.133/2021).
+
+4. DA CONDUÇÃO DO CERTAME
+
+4.1. O certame, destinado à aquisição de notebooks para atender às necessidades do CREA-PE, será
+conduzido por servidor designado agente de contratação/pregoeiro, que coordenará a sessão pública
+da licitação e promoverá as seguintes ações:
+
+a) receber, examinar e decidir as impugnações e os pedidos de esclarecimentos ao edital e aos seus
+anexos, requisitando, se necessário, subsídios formais aos responsáveis pela elaboração desses
+documentos;
+
+b) verificar a conformidade da proposta mais bem classificada com os requisitos estabelecidos no
+edital;
+
+c) verificar e julgar as condições de habilitação;
+
+d) sanear erros ou falhas que não alterem a substância das propostas, em observância ao princípio do
+formalismo moderado;
+
+e) negociar, quando for o caso, condições mais vantajosas com o primeiro colocado;
+f) indicar o vencedor do certame;
+g) conduzir os trabalhos da equipe de apoio;
+
+h) encaminhar o processo instruído, após encerradas as fases de julgamento e de habilitação e
+exauridos os recursos administrativos, à autoridade superior para adjudicação e homologação.
+(Fundamento: 85º do art. 8º e 81º do art. 64 da Lei nº 14.133/2021).
+
+5. DO CREDENCIAMENTO DO SISTEMA ELETRÔNICO
+
+5.1. A licitação será realizada à distância e em sessão pública, por meio do Sistema de Compras do
+Governo Federal disponível no endereço eletrônico https://www.gov.br/compras/pt-br (art. 7º da IN
+SEGES/ME 73//2022).
+
+5.2. O sistema mantém a integração com o Portal Nacional de Contratações Públicas (PNCP) de que
+trata o art. 174 da Lei nº 14.133/2021.
+
+5.3. Caberá ao licitante interessado em participar da licitação, na forma eletrônica (art. 13 da IN SEGES
+IME 73/202?2):
+
+6 de 21
+
+
+| - credenciar-se previamente no SICAF - Sistema de Cadastramento Unificado de Fornecedores para
+ter acesso ao sistema eletrônico utilizado no certame;
+
+|l - remeter, no prazo estabelecido, exclusivamente via sistema, a proposta com o preço até a data e
+hora marcadas para abertura da sessão;
+
+Ill - responsabilizar-se formalmente pelas transações efetuadas em seu nome, assumir como firmes e
+verdadeiras suas propostas e seus lances, inclusive os atos praticados diretamente ou por seu
+representante, excluída a responsabilidade do provedor do sistema ou do órgão ou entidade promotora
+da licitação por eventuais danos decorrentes de uso indevido da senha, ainda que por terceiros;
+
+IV - acompanhar as operações no sistema eletrônico durante o processo licitatório e responsabilizar-se
+pelo ônus decorrente da perda de negócios diante da inobservância de mensagens emitidas pela
+Administração ou de sua desconexão; e
+
+V - comunicar imediatamente ao provedor do sistema qualquer acontecimento que possa comprometer
+o sigilo ou a segurança, para imediato bloqueio de acesso.
+
+6. DA APRESENTAÇÃO DA PROPOSTA
+
+6.1. Na presente licitação, a fase de habilitação sucederá as fases de apresentação de propostas, de
+lances e de julgamento.
+
+6.2. Após a divulgação do edital de licitação, no sítio eletrônico, Diário Oficial da União e/ou jornal
+diário de grande circulação, os licitantes encaminharão, exclusivamente por meio do sistema, a
+proposta com o preço até a data e o horário estabelecidos para abertura da sessão pública.
+
+6.3. O licitante declarará, em campo próprio do sistema, sem prejuízo da exigência de outras
+declarações previstas em legislação específica e na Lei nº 14.133, de 2021, o cumprimento dos
+requisitos para a habilitação e a conformidade de sua proposta com as exigências do edital de
+licitação. A falsidade da declaração sujeitará o licitante às sanções previstas na Lei nº 14.133/2021.
+
+6.4. Os licitantes poderão retirar ou substituir a proposta até a abertura da sessão pública.
+
+6.5. A ordem de classificação das propostas ocorrerá somente após os procedimentos relacionados à
+disputa da fase de lances.
+
+6.6. Serão disponibilizados para acesso público os documentos que compõem a proposta dos licitantes
+convocados para apresentação de proposta, após a fase de envio de lances.
+
+7. DA ABERTURA DA SESSÃO PÚBLICA
+
+7.1 A partir do horário previsto no edital de licitação, a sessão pública será aberta automaticamente
+pelo sistema.
+
+7.2 A verificação da conformidade da proposta será feita exclusivamente na fase de julgamento em
+relação à proposta mais bem classificada.
+
+7.3 O sistema disponibilizará campo próprio para troca de mensagens entre o Agente de Contratação
+IPregoeiro e os licitantes, vedada outra forma de comunicação.
+
+8. INÍCIO DA FASE COMPETITIVA
+
+8.1. O licitante será imediatamente informado do recebimento do lance e do valor consignado no
+registro.
+
+8.2. O licitante somente poderá oferecer valor inferior ao último lance por ele ofertado e registrado pelo
+sistema, observado o intervalo mínimo de diferença de valores ou de percentuais entre os lances, que
+
+7 de 21
+
+
+incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor
+oferta.
+
+8.3. O licitante poderá, uma única vez, excluir seu último lance ofertado, no intervalo de quinze
+segundos após o registro no sistema, na hipótese de lance inconsistente ou inexequível, nos termos
+dos arts. 33 e 34 da IN SEGES/ME 73/202?.
+
+8.4. O agente de contratação/Pregoeiro, poderá, durante a disputa, como medida excepcional, excluir a
+proposta ou o lance que possa comprometer, restringir ou frustrar o caráter competitivo do processo
+licitatório, mediante comunicação eletrônica automática via sistema.
+
+8.5. Eventual exclusão de proposta do licitante, de que trata o item anterior, implica a retirada do
+licitante do certame, sem prejuízo do direito de defesa.
+
+8.6. Durante a sessão pública, os licitantes serão informados, em tempo real, do valor do melhor lance
+registrado, vedada a identificação do licitante.
+
+8.7. Desde que disponibilizada a funcionalidade no sistema, o licitante poderá parametrizar o seu valor
+final mínimo ou o seu percentual de desconto máximo quando do cadastramento da proposta e
+obedecerá às regras constantes do art 19 da IN SEGES/ME 73/202?.
+
+9. MODO DE DISPUTA
+
+9.1. No Pregão Eletrônico será adotado o modo de disputa aberto, em que os licitantes apresentarão
+lances públicos e sucessivos, conforme previsto no artigo 22, inciso |, da Instrução Normativa SEGES
+IME nº 73/202?.
+
+9.2. Os lances serão ordenados pelo sistema e divulgados em ordem crescente de valor.
+
+9.3. O intervalo mínimo de diferença entre os lances será de 1% (um por cento), aplicável tanto em
+relação aos lances intermediários quanto ao lance que cobrir a melhor oferta.
+
+9.4. No modo de disputa aberto, a etapa de envio de lances na sessão pública terá duração inicial de
+quinze minutos. Encerrado esse prazo, o sistema emitirá aviso de fechamento iminente e, após período
+adicional de até dez minutos, com duração aleatória, a recepção de lances será automaticamente
+encerrada.
+
+10. DA DESCONEXÃO DURANTE OS LANCES
+
+10.1. Na hipótese de o sistema eletrônico se desconectar no decorrer da etapa de envio de lances da
+sessão pública e permanecer acessível aos licitantes, os lances continuarão sendo recebidos, sem
+prejuízo dos atos realizados.
+
+10.2. Caso a desconexão do sistema eletrônico persistir por tempo superior a dez minutos para o
+órgão, a sessão pública será suspensa e reiniciada somente decorridas vinte e quatro horas após a
+comunicação do fato aos participantes, no sítio eletrônico utilizado para divulgação.
+
+11. DOS CRITÉRIOS DE DESEMPATE
+
+11.1. Em caso de empate entre duas ou mais propostas, serão utilizados os seguintes critérios de
+desempate, estabelecidos no art. 60 da Lei nº 14.133/2021:
+
+| - disputa final, hipótese em que os licitantes empatados poderão apresentar nova proposta em ato
+contínuo à classificação;
+
+|l - avaliação do desempenho contratual prévio dos licitantes, para a qual deverão preferencialmente
+
+8 de 21
+
+
+ser utilizados registros cadastrais para efeito de atesto de cumprimento de obrigações previstos nesta
+Lei;
+
+Ill - desenvolvimento pelo licitante de ações de equidade entre homens e mulheres no ambiente de
+trabalho, conforme regulamento;
+
+IV - desenvolvimento pelo licitante de programa de integridade, conforme orientações dos órgãos de
+controle.
+
+11.2. Será assegurado, nos termos dos arts. 44 e 45 da Lei Complementar nº 123/2006, tratamento
+diferenciado e favorecido para as microempresas (ME), empresas de pequeno porte (EPP) e
+microempreendedores individuais (MEI), no caso de empate ficto.
+
+11.2.1. Considera-se empate ficto a situação em que a proposta apresentada por ME, EPP ou MEI for
+
+até 5% (cinco por cento) superior à proposta mais bem classificada, desde que esta tenha sido
+apresentada por empresa que não se enquadre nessa condição.
+
+11.2.2. Nessa hipótese, a ME, EPP ou MEI mais bem classificada será convocada para, no prazo de
+até cinco minutos após o encerramento da etapa de lances, ofertar valor igual ou inferior à proposta
+melhor classificada, exercendo seu direito de preferência.
+
+11.2.3. Caso a ME/EPP/MEI convocada não apresente nova proposta no prazo estabelecido ou recuse
+o exercício do direito de preferência, o sistema convocará os demais licitantes enquadrados como ME
+IEPP/MEI classificados nas mesmas condições, conforme a ordem de classificação, para o exercício
+do mesmo direito, respeitado o limite de 5%.
+
+11.2.4. O não exercício do direito de preferência implicará preclusão do benefício, passando-se à
+adjudicação conforme a ordem final de classificação.
+
+11.3. Empatadas as propostas iniciais e não havendo o envio de lances após o início da fase
+competitiva, aplicam-se os critérios de desempate acima.
+
+12. DA FASE DO JULGAMENTO DAS PROPOSTAS
+
+12.1 Para fins de julgamento, será considerada vencedora a proposta que apresentar o menor preço
+por GRUPO, desde que atendidas todas as exigências deste Edital e observadas as especificações
+técnicas dos itens, conforme Termo de Referência.
+
+12.2 Encerrada a etapa de envio de lances da sessão pública, será realizada a verificação da
+conformidade da proposta classificada em primeiro lugar quanto:
+
+| — à adequação do objeto, inclusive com a apresentação dos certificados de aprovação (CA) emitidos
+pelo Ministério do Trabalho e Emprego, laudos técnicos e fichas técnicas exigidas neste edital;
+
+|l — à compatibilidade do preço final em relação ao valor estimado para a contratação, nos termos dos
+arts. 33 e 34 da IN SEGES/ME 73/20??.
+
+12.3 Será concedido o prazo mínimo de duas horas, prorrogável por igual período, contado da
+solicitação do agente de contratação/Pregoeiro no sistema, para envio da proposta adequada ao último
+lance ofertado ou valor negociado (no caso de proposta superior ao valor estimado) e, se necessário,
+dos documentos complementares de conformidade técnica e de habilitação.
+
+12.4 A prorrogação do prazo poderá ocorrer:
+| — por solicitação do licitante, mediante Jjustificativa aceita pelo agente de contratação/Pregoeiro ou
+
+9 de 21
+
+
+pela comissão de contratação, quando o substituir; ou
+1l — de ofício, a critério do agente de contratação/Pregoeiro ou da comissão de contratação, quando o
+
+substituir, constatado que o prazo inicialmente estabelecido é insuficiente para a apresentação dos
+documentos exigidos.
+
+12.5 Na hipótese de a proposta do primeiro colocado permanecer acima do preço máximo definido
+para a contratação, mesmo após negociação, esta poderá ser estendida aos demais licitantes
+classificados, exclusivamente pelo sistema, respeitada a ordem de classificação.
+
+12.6 Concluída a negociação, se houver, o resultado será registrado em ata da sessão pública, a qual
+será anexada aos autos do processo de contratação.
+
+12.7 Considerar-se-á indício de inexequibilidade quando a proposta apresentar valores inferiores a
+50% (cinquenta por cento) do valor orçado pela Administração. Para EPIs, poderão ser solicitadas
+diligências adicionais, a fim de verificar a viabilidade dos preços em relação à qualidade, certificações e
+padrões de segurança exigidos.
+
+12.8 A inexequibilidade somente será confirmada após diligência do agente de contratação/Pregoeiro,
+que comprove:
+
+| — que os custos do licitante ultrapassam o valor proposto; ou
+
+|l — que não existem condições de fornecimento que justifiquem o preço ofertado, observadas as
+exigências de qualidade e certificação dos EPlIs.
+
+12.9 Serão desclassificadas as propostas que (Art. 59, incisos | a V, Lei 14.133/2021):
+
+| — contiverem vícios insanáveis;
+
+|l — não obedecerem às especificações técnicas pormenorizadas no edital, incluindo ausência de
+certificados de aprovação ou laudos exigidos;
+
+Ill — apresentarem preços inexequíveis ou permanecerem acima do orçamento estimado para a
+contratação;
+
+IV — não tiverem sua exequibilidade demonstrada, quando exigido pela Administração;
+
+V — apresentarem desconformidade insanável com quaisquer outras exigências do edital.
+
+12.10 A verificação da conformidade das propostas poderá ser feita exclusivamente em relação à
+proposta mais bem classificada (Art. 59, 81º, Lei 14.133/2021).
+
+12.11 A Administração poderá realizar diligências para aferir a exequibilidade das propostas ou exigir
+dos licitantes a devida comprovação (Art. 59, 82º, Lei 14.133/2021).
+
+12.12 Encerrada a fase de julgamento e após a verificação da conformidade da proposta, o Pregoeiro
+procederá à análise da documentação de habilitação do licitante, conforme as disposições deste edital.
+
+12.13 Em caso de empate, serão aplicados os critérios previstos no art. 60 da Lei nº 14.133/2021,
+priorizando, sempre que possível, fornecedores que apresentem certificações ambientais ou adotem
+práticas sustentáveis no fornecimento dos EPIs, conforme regulamento aplicável.
+
+13. DA PROPOSTA DE PREÇOS
+
+13.1. O licitante deverá, na elaboração de sua proposta, observar integralmente o disposto no Termo
+de Referência (Anexo |l deste edital), respeitando as quantidades e especificações técnicas Aali
+descritas.
+
+10 de 21
+
+
+13.2. Os valores, preços e custos deverão ser expressos em moeda corrente nacional (Art. 12, Il, Lei
+14.133/2021), contendo apenas duas casas decimais.
+
+13.3. A proposta, readequada ao lance ou valor negociado, deverá ser formulada e enviada
+exclusivamente por meio do sistema eletrônico.
+
+13.4. A proposta deverá observar as seguintes condições:
+
+a) Cotação de preços que atenda rigorosamente às quantidades e especificações técnicas contidas no
+Termo de Referência, informando obrigatoriamente a marca (fabricante) e o modelo (referência) de
+cada item cotado;
+
+b) Indicação, para cada item, do respectivo número do Certificado de Aprovação (CA) emitido pelo
+Ministério do Trabalho e Emprego, válido na data da apresentação da proposta, com anexação de
+cópia do CA ou link de consulta no sistema do MTE;
+
+c) Anexação da ficha técnica do produto, contendo descrição detalhada, marca, modelo, normas
+técnicas de fabricação (ABNT, ISO, NR-06 ou outras aplicáveis), materiais empregados, nível de
+proteção e demais características necessárias para análise técnica pela Administração;
+
+d) Informação do prazo de validade do produto, que não poderá ser inferior a 12 (doze) meses na data
+prevista para a entrega, salvo quando o produto possuir prazo de validade inferior por natureza do
+material, hipótese que deverá ser justificada e aceita pela Administração;
+
+e) Preço unitário e total, expresso em moeda corrente nacional. Nos casos de divergência entre o
+preço total e o unitário, prevalecerá este último;
+
+f) Inclusão, no preço ofertado, de todos os custos relacionados ao fornecimento do objeto, tais como
+impostos, taxas, embalagem, seguros, licenciamento, garantia, frete e entrega no local indicado pelo
+CONTRATANTE;
+
+g) Compromisso de que, na hipótese de descontinuidade da fabricação ou da certificação do produto
+ofertado, o fornecedor apresentará produto equivalente com CA válido, previamente aprovado pela
+Administração, sem ônus adicional para o CONTRATANTE.
+
+13.5. A quantidade a ser cotada pelo licitante para cada item corresponderá à quantidade estimada
+prevista no subtópico 1.3 deste Edital, vedada a apresentação de proposta em quantidade inferior ou
+com preços diferenciados por item (Art. 82, 1l a IV, Lei 14.133/21).
+
+13.6. O prazo mínimo de validade da proposta será de 90 (noventa) dias, contados da data limite para
+apresentação das propostas nesta Licitação, sendo este o prazo considerado em caso de omissão ou
+erro do licitante.
+
+13.7. A proposta deverá conter o endereço, telefone, e-mail da empresa e assinatura do seu
+representante legal devidamente identificado e qualificado.
+
+13.8. O não envio da proposta adequada ao valor final negociado, no prazo determinado pelo agente
+de contratação/pregoeiro via sistema eletrônico, resultará na desclassificação da proposta, ficando
+ainda passível de aplicação das penalidades cabíveis (Inc. Il, Art. 13; 81º, Art. 20; 82º, Art. 29 da IN
+SEGES/ME 73/202?).
+
+11 de 21
+
+
+14. DA FASE DE HABILITAÇÃO
+
+14.1. Toda documentação de habilitação, nos termos dos arts. 62 a 70 da Lei nº 14.133/2021 e
+conforme disposto no subtópico 9.4 do Termo de Referência (Anexo |l), deverá ser encaminhada,
+exclusivamente, por meio do sistema eletrônico.
+
+14.2. Na fase de habilitação, será exigida a apresentação dos documentos apenas pelo licitante
+vencedor, nos termos do inciso |l do art. 63 da Lei nº 14.133/2021.
+
+14.3. Serão exigidos os documentos relativos à regularidade fiscal somente após o julgamento das
+propostas e exclusivamente do licitante mais bem classificado (Inciso IIl, art. 63, Lei nº 14.133/2021).
+
+14.4. O fornecedor deverá assinalar, em campo próprio do sistema, as declarações pré-existentes
+(item 6 do Anexo | deste edital). As demais deverão ser anexadas quando solicitadas pelo Pregoeiro
+(tópico 5 do Anexo | deste edital).
+
+14.5. O licitante organizado em cooperativa deverá declarar, ainda, que cumpre os requisitos
+estabelecidos no art. 16 da Lei nº 14.133/2021.
+
+14.5.1. O licitante deverá comprovar que exerce atividade compatível com o objeto desta licitação,
+mediante apresentação do comprovante de inscrição no CNPJ, com CNAE correspondente à
+comercialização de Equipamentos de Proteção Individual (EPIs).
+
+14.5.2. O licitante deverá apresentar declaração formal, assinada por seu representante legal, de que
+todos os produtos ofertados possuem Certificado de Aprovação (CA) válido, emitido pelo Ministério do
+Trabalho e Emprego, conforme determina a NR-O6.
+
+14.5.3. A Administração poderá solicitar, a qualguer momento, comprovação de autorização para
+comercialização de EPIs, emitida por órgão competente, quando aplicável, bem como atestados de
+capacidade técnica emitidos por pessoas jurídicas de direito público ou privado, que comprovem
+fornecimento prévio de produtos similares aos deste certame.
+
+14.5.4. Poderá ser exigida, durante a habilitação, a apresentação de responsável técnico habilitado
+para orientação quanto ao uso adequado dos EPIs, quando se tratar de equipamentos de uso
+especializado (ex.: proteção respiratória, química ou de alto risco).
+
+14.6. Após a apresentação dos documentos de habilitação, na forma estabelecida no art. 64 da Lei nº
+14.133/2021, não será permitida a substituição ou a apresentação de novos documentos, salvo em
+sede de diligência para:
+
+| - complementação de informações acerca dos documentos já apresentados pelos licitantes, desde
+que necessária para apurar fatos existentes à época da abertura do certame; e
+
+|| - atualização de documentos cuja validade tenha expirado após a data de recebimento das propostas.
+
+14.7. A vedação à inclusão de novo documento, prevista no art. 64 da Lei nº 14.133/2021, não alcança
+documento ausente comprobatório de condição atendida pelo licitante quando apresentou sua
+proposta, que não foi juntado por falha ou equívoco, devendo ser solicitado e avaliado pelo Pregoeiro
+(Acórdão TCU nº 1211/2021).
+
+14.8. Os documentos deverão ser apresentados em formato digital, via sistema eletrônico, no prazo de,
+no mínimo, duas horas, prorrogável por igual período, conforme 83º do art. 29 da IN SEGES/ME 73
+/202?.
+
+12 de 21
+
+
+14.9. A verificação em sítios eletrônicos oficiais de órgãos e entidades emissores de certidões constitui
+meio legal de prova para fins de habilitação.
+
+14.10. Na hipótese de o licitante não atender às exigências para habilitação, será examinada a
+proposta subsequente e assim sucessivamente, até a apuração de uma proposta que atenda a este
+edital.
+
+14.11. A comprovação de regularidade fiscal e trabalhista das microempresas e empresas de pequeno
+porte será exigida apenas para efeito de contratação, e não como condição de participação (art. 4º do
+Decreto nº 8.538/2015).
+
+a) Havendo restrição, será assegurado prazo de cinco dias úteis, prorrogável por igual período, para
+regularização, pagamento ou parcelamento do débito e emissão de certidões negativas ou positivas
+com efeito de negativa.
+
+b) A não regularização da documentação no prazo previsto implicará decadência do direito à
+contratação, sem prejuízo das sanções previstas em lei, sendo facultado à Administração convocar os
+licitantes remanescentes, na ordem de classificação, ou revogar a licitação.
+
+14.12. Será verificada a existência de sanções impeditivas à participação ou futura contratação
+mediante consulta ao Sistema de Cadastramento Unificado de Fornecedores (SICAF) e à certidão
+consolidada do Tribunal de Contas da União (TCU), abrangendo:
+
+a) Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS);
+
+b) Cadastro Nacional de Condenações Civis por Ato de Improbidade Administrativa (CNIA);
+
+c) Inelegibilidade do Conselho Nacional de Justiça;
+
+d) Cadastro Nacional de Empresas Punidas do Portal da Transparência.
+
+14.13. A existência de registro impeditivo acarretará a exclusão automática da empresa do certame.
+
+14.14. A consulta aos cadastros será realizada em nome da empresa licitante e também de seu sócio
+majoritário, por força do art. 12 da Lei nº 8.429/1992 (alterada pela Lei nº 14.230/2021).
+
+14.15. Caso conste na Consulta de Situação do Fornecedor a existência de Ocorrências Impeditivas
+Indiretas, o gestor realizará diligência para verificar se houve fraude por parte das empresas apontadas.
+
+14.16. A tentativa de burla será verificada por meio de vínculos societários, linhas de fornecimento
+similares, dentre outros indícios.
+
+14.17. Constatada a existência de sanção, o Pregoeiro reputará o licitante inabilitado, por falta de
+condição de participação.
+
+14.18. No caso de inabilitação, haverá nova verificação, pelo sistema, da eventual ocorrência do
+empate ficto previsto nos arts. 44 e 45 da Lei Complementar nº 123/2006.
+
+14.19. As empresas integrantes do Sistema de Cadastramento Unificado de Fornecedores — SICAF
+ficam desobrigadas de apresentar documentos constantes do sistema, desde que o cadastramento
+esteja válido e atualizado.
+
+15. DO SANEAMENTO DOCUMENTAL
+
+15.1. O Pregoeiro ou Agente de Contratação poderá, durante o julgamento das propostas, sanar erros
+ou falhas que não alterem a substância da proposta nem prejudiquem sua validade jurídica, atribuindo-
+lhes eficácia para fins de classificação, observado o disposto no art. 55 da Lei nº 9.784/1999.
+
+13 de 21
+
+
+15.2. O Pregoeiro ou Agente de Contratação também poderá, durante a análise da habilitação, sanar
+erros ou falhas formais nos documentos apresentados, desde que não alterem sua substância nem
+prejudiquem sua validade jurídica, mediante despacho fundamentado, registrado em ata e acessível a
+todos os interessados, atribuindo-lhes eficácia para fins de habilitação e classificação, nos termos do 8
+1º do art. 64 da Lei nº 14.133/2021.
+
+15.3. Na hipótese de necessidade de suspensão da sessão pública para a realização de diligências
+com vistas ao saneamento da proposta ou da habilitação, o reinício da sessão somente poderá ocorrer
+mediante aviso prévio no sistema, com no mínimo 24 (vinte e quatro) horas de antecedência, sendo a
+ocorrência devidamente registrada em ata.
+
+15.4. Será facultado ao licitante o saneamento de falhas formais em sua proposta ou documentação de
+habilitação, desde que não alterem sua substância, valor ou classificação, nos termos do art. 64 da Lei
+nº 14.133/2021. Persistindo a irregularidade após a oportunidade concedida, o licitante será
+desclassificado.
+
+16. DAS IMPUGNAÇÕES E ESCLARECIMENTOS
+
+16.1. Qualquer pessoa é parte legítima para impugnar o edital de licitação por irregularidade ou para
+solicitar esclarecimento sobre os seus termos, devendo encaminhar o pedido até 3 (três) dias úteis
+antes da data de abertura da sessão pública, por meio eletrônico, para o seguinte endereço de e-mail:
+cplOMcrea-pe.org.br.
+
+16.2. As respostas aos pedidos de esclarecimentos e/ou impugnação serão dadas no prazo de até três
+dias úteis contado da data de recebimento do pedido, limitado ao último dia útil anterior à data da
+abertura do certame.
+
+16.3. A impugnação não possui efeito suspensivo, sendo a sua concessão medida excepcional que
+deverá ser motivada pelo agente de contratação/pregoeiro, nos autos do processo de licitação.
+
+16.4. Acolhida a impugnação contra o edital de licitação, será definida e publicada nova data para
+realização do certame, observados os prazos legais.
+
+16.5. AsS respostas aos pedidos de esclarecimentos e impugnações serão divulgadas em sítio
+eletrônico oficial deste órgão (https://Www.creape.org.br) e no sistema, dentro do prazo estabelecido no
+subtópico 16.2 e vincularão os participantes e a Administração.
+
+17. DA INTENÇÃO E DA FASE RECURSAL
+
+17.1. Qualquer licitante poderá, durante o prazo concedido na sessão pública, não inferior a 10
+minutos, de forma imediata após o término do julgamento das propostas e do ato de habilitação ou
+inabilitação, em campo próprio do sistema, manifestar sua intenção de recorrer, sob pena de
+preclusão, ficando a autoridade superior autorizada a adjudicar o objeto ao licitante declarado vencedor.
+17.2. AsS razões do recurso deverão ser apresentadas em momento único, em campo próprio no
+sistema, no prazo de três dias úteis, contados a partir da data de intimação ou de lavratura da ata de
+habilitação ou inabilitação.
+
+17.3. Os demais licitantes ficarão intimados para, se desejarem, apresentar suas contrarrazões, no
+prazo de três dias úteis, contado da data de intimação pessoal ou de divulgação da interposição do
+recurso.
+
+17.4. Será assegurado ao licitante vista dos elementos indispensáveis à defesa de seus interesses.
+17.5. O acolhimento do recurso importará na invalidação apenas dos atos que não possam ser
+aproveitados.
+
+14 de 21
+
+
+18. DA ADJUDICAÇÃO E HOMOLOGAÇÃO
+
+18.1. Encerradas as fases de julgamento e habilitação, e exauridos os recursos administrativos, o
+processo licitatório será encaminhado à autoridade superior para adjudicar o objeto e homologar o
+procedimento, observado o disposto no art. 71 da Lei nº 14.133/2021.
+
+19. DA DESPESA
+
+19.1. As despesas decorrentes da contratação correrão à conta de recursos específicos consignados
+no Orçamento do CREA-PE. A dotação relativa aos exercícios financeiros subsequentes será indicada
+após aprovação da Lei Orçamentária respectiva e liberação dos créditos correspondentes, mediante
+apostilamento.
+
+19.2. A indicação da disponibilidade de créditos orçamentários deverá estar comprovada previamente à
+formalização do contrato ou de outro instrumento hábil, conforme dispõe a legislação aplicável,
+observada a dotação específica consignada no orçamento do CREA-PE.
+
+20. DA CONVOCAÇÃO PARA CONTRATAÇÃO
+
+20.1. A contratação com a empresa vencedora far-se-á por Termo de Contrato, conforme Minuta de
+Contrato em anexo, considerando a proposta apresentada e disposições legais, vinculando a empresa
+vencedora aos termos do Edital e demais Anexos, à proposta apresentada e às disposições da Lei nº
+14.133/2021 e suas alterações.
+
+20.2. Após a homologação, o licitante vencedor será convocado para assinar o termo de contrato, ou
+aceitar ou retirar o instrumento equivalente, sob pena de decair o direito à contratação, sem prejuízo
+das sanções previstas na Lei nº 14.133, de 2021, e em outras legislações aplicáveis.
+
+20.3. O licitante vencedor será convocado para assinar o termo de contrato no prazo de 05 (cinco) dias
+úteis, a contar da data de seu recebimento ou da disponibilização do acesso ao sistema de processo
+eletrônico.
+
+a) Alternativamente à convocação para comparecer perante o órgão para a assinatura do Termo de
+Contrato, a Administração poderá encaminhá-lo para assinatura, mediante correspondência postal com
+aviso de recebimento (AR), disponibilização de acesso à sistema de processo eletrônico para esse fim
+ou outro meio eletrônico, para que seja assinado e devolvido no prazo acima citado.
+
+20.4. O prazo de convocação poderá ser prorrogado por 01 (uma) única vez por igual período,
+mediante solicitação da parte durante seu transcurso, devidamente justificada, e desde que o motivo
+apresentado seja aceito pela Administração (Art. 90, 81º da Lei 14.133/2021).
+
+20.5. Na hipótese de o vencedor da licitação não assinar o contrato, ou não aceitar ou não retirar o
+instrumento equivalente no prazo e nas condições estabelecidas, outro licitante poderá ser convocado,
+respeitada a ordem de classificação, para celebrar a contratação, ou instrumento equivalente, nas
+condições propostas pelo licitante vencedor, sem prejuízo da aplicação das sanções previstas na Lei nº
+14.133, de 2021, e em outras legislações aplicáveis.
+
+20.6. Caso nenhum dos licitantes aceitar a contratação nos termos acima, a Administração,
+observados o valor estimado e sua eventual atualização nos termos do edital de licitação, poderá:
+
+| - convocar os licitantes remanescentes para negociação, na ordem de classificação, com vistas à
+obtenção de preço melhor, mesmo que acima do preço ou inferior ao desconto do adjudicatário;
+
+1l - adjudicar e celebrar o contrato nas condições ofertadas pelos licitantes remanescentes, atendida a
+ordem classificatória, quando frustrada a negociação de melhor condição.
+
+15 de 21
+
+
+20.7. Decorrido o prazo de validade da proposta indicado no edital sem convocação para a
+contratação, ficarão os licitantes liberados dos compromissos assumidos (Art. 90, 83º da Lei 14.133
+/2021).
+
+20.8. A recusa injustificada do adjudicatário em assinar o contrato ou em aceitar ou retirar o
+instrumento equivalente, no prazo estabelecido pela Administração, caracterizará o descumprimento
+total da obrigação assumida e o sujeitará às penalidades legalmente estabelecidas e à imediata perda
+da garantia de proposta em favor do órgão ou entidade promotora da licitação.
+
+20.9. A regra constante do subtópico anterior, não se aplica aos licitantes remanescentes convocados
+na forma do inciso | do subtópico 20.5. (Art. 90, 86º da Lei 14.133/2021).
+
+21. DA CONTRATAÇÃO E DA EXECUÇÃO DO OBJETO
+
+21.1. Os requisitos da contratação e a execução do objeto estão elencados nos tópicos 4 e 6 do Termo
+de Referência.
+
+21.2. Respeitado, no que couber, o amplo direito de defesa, o contrato poderá ser extinto em
+conformidade com o disposto nos arts. 137 a 139 da Lei nº 14.133/2021 e alterações posteriores, nas
+seguintes formas:
+
+|. determinada por ato unilateral e escrito da Administração, exceto no caso de descumprimento
+decorrente de sua própria conduta;
+
+Il. consensual, por acordo entre as partes, por conciliação, por mediação ou por comitê de resolução
+de disputas, desde que haja interesse da Administração;
+
+Ill. determinada por decisão arbitral, em decorrência de cláusula compromissória ou compromisso
+arbitral, ou por decisão judicial.
+
+21.3. A extinção administrativa ou amigável deverá ser precedida de autorização escrita e
+fundamentada do Ordenador de Despesa do CREA-PE.
+
+21.4. É admissível a fusão, cisão ou incorporação da contratada com/em outra pessoa jurídica, desde
+que sejam observados pela nova pessoa jurídica todos os requisitos da habilitação exigidos na
+Licitação original; sejam mantidas as demais cláusulas e condições do contrato; não haja prejuízo à
+execução do objeto pactuado e haja a anuência expressa da Administração à continuidade do contrato,
+podendo ser extinto,
+
+caso restrinja a capacidade da empresa de concluir o contrato (art. 137, inciso IIl, da Lei nº 14.133
+/2021).
+
+22. DA SUBCONTRATAÇÃO
+
+22.1. Não é admitida a subcontratação do objeto contratual (subtópico 4.27 do Termo de Referência),
+cumulativamente com o que prescreve o art. 122, 8 3º, da Lei nº 14.133/2021.
+
+23. DO RECEBIMENTO E FISCALIZAÇÃO DO OBJETO
+
+23.1. O recebimento do objeto será em conformidade com o art. 140 da Lei nº 14.133/2021 e de acordo
+com o estabelecido no tópico 7 do Termo de Referência.
+
+23.2. Os bens serão recebidos provisoriamente, de forma sumária, no ato da entrega, juntamente com
+a nota fiscal ou instrumento de cobrança equivalente, pelo(a) responsável pelo acompanhamento e
+fiscalização do contrato, para efeito de posterior verificação de sua conformidade com as
+especificações constantes no Termo de Referência e na proposta.
+
+23.3. Os bens poderão ser rejeitados, no todo ou em parte, inclusive antes do recebimento provisório,
+
+16 de 21
+
+
+quando em desacordo com as especificações constantes no Termo de Referência e na proposta,
+devendo ser substituídos no prazo de 05 (cinco) dias consecutivos, a contar da notificação da
+contratada, às suas custas, sem prejuízo da aplicação das penalidades.
+
+23.4. O recebimento definitivo ocorrerá no prazo de 05 (cinco) dias úteis, a contar do recebimento da
+nota fiscal ou instrumento de cobrança equivalente pela Administração, após a verificação da qualidade
+e quantidade do material e consequente aceitação mediante termo detalhado.
+
+23.5. O prazo para recebimento definitivo poderá ser excepcionalmente prorrogado, de forma
+justificada, por igual período, quando houver necessidade de diligências para a aferição do
+atendimento das exigências contratuais.
+
+23.6. A execução do contrato deverá ser acompanhada e fiscalizada pelo(s) fiscal(is) do contrato, ou
+pelos respectivos substitutos (Lei nº 14.133, de 2021, art. 117, caput).
+
+24. DAS OBRIGAÇÕES DA CONTRATADA
+
+24.1. São obrigações de exclusiva conta e responsabilidade da contratada, além das constantes no
+subtópico 5.2 do Termo de Referência (Anexo |l), afora outras que por Lei lhe couberem, as abaixo
+relacionadas:
+
+|. Responsabilizar-se por todas as despesas diretas e indiretas, tais como: transportes, fretes, encargos
+sociais, fiscais, trabalhistas, previdenciários e de ordem de classe, indenizações e quaisquer outras
+que porventura existam ou venham a ser criadas e exigidas
+
+pela Administração Pública;
+
+Il. Manter durante a vigência do contrato, todas as condições de habilitação e qualificação exigidas na
+Licitação;
+
+Ill. Abster-se de contratar para atuarem no contrato decorrente desta Licitação, empregados que
+sejam: cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau,
+inclusive de ocupantes de cargos de direção e de assessoramento vinculados ao CREA-PE,
+conforme Parágrafo Único, Lei 14.133/2021);
+
+IV. Entregar os bens, conforme as disposições constantes do Termo de Referência e orientações da
+CONTRATANTE.
+
+25. DAS OBRIGAÇÕES DA CONTRATANTE
+
+25.1. São obrigações de exclusiva conta e responsabilidade do contratante, além das constantes no
+Termo de Referência, afora outras que por Lei lhe couberem, as abaixo relacionadas:
+
+|. Receber o objeto do contrato provisoriamente e definitivamente, mediante termo de recebimento, em
+conformidade com a legislação, e com o subtópico 5.1. do Termo de Referência (Anexo |l);
+
+Il. Comunicar eventuais falhas ocorridas na execução do objeto;
+
+1. Efetuar o pagamento no prazo estabelecido neste Edlital;
+
+IV. Designar, em conformidade com o disposto no art. 117 da Lei nº 14.133/2021, um representante
+responsável pela fiscalização e acompanhamento do contrato, sem prejuízo da total responsabilidade
+da contratada perante o contratante ou para com terceiros.
+
+26. DO PAGAMENTO
+
+26.1. O pagamento será efetuado no prazo de até 10 (dez) dias úteis, contados da finalização da
+liquidação da despesa, nos termos da Instrução Normativa SEGES/ME n.º 77/202?.
+
+17 de 21
+
+
+26.2. Os pagamentos mediante a emissão de qualquer modalidade de ordem bancária serão
+realizados desde que a contratada efetue a cobrança de forma a permitir o cumprimento das
+exigências legais, principalmente no que se refere às retenções tributárias.
+
+26.3. Sobre o valor faturado será retido na fonte o correspondente ao Imposto sobre a Renda de
+Pessoas Jurídicas (IRPJ), a Contribuição Social sobre o Lucro Líquido (CSLL), a Contribuição para o
+Financiamento da Seguridade Social (COFINS) e a Contribuição para os Programas de Integração
+Social e de Formação do Patrimônio do Servidor Público ( PIS/PASEP) na forma da Instrução
+Normativa RFB nº 1.234, de 11 de janeiro de 2012, conforme determina o art. 64 da Lei nº 9.430, de 27
+/12/1996, Lei nº 9.718, de 27/11/98, Lei Complementar nº 116/2003 e Lei do município onde serão
+prestados os serviços (ISS), se for o caso.
+
+26.4. O contratado regularmente optante pelo Simples Nacional, nos termos da Lei Complementar nº
+123, de 2006, não sofrerá a retenção tributária quanto aos impostos e contribuições abrangidos por
+aquele regime. No entanto, o pagamento ficará condicionado à apresentação de comprovação, por
+meio de documento oficial, de que faz jus ao tratamento tributário favorecido previsto na referida Lei
+Complementar (tópico 7.22 do Termo de referência).
+
+26.5. O contratante verificará a situação do fornecedor por meio de consulta “on-line”, no SICAF, cujo
+resultado será impresso e anexado ao processo.
+
+26.6. Na hipótese de atraso no pagamento da nota fiscal devidamente atestada, o valor devido pela
+Administração será atualizado monetariamente, pro rata die, a partir do dia seguinte ao vencimento até
+a data do efetivo pagamento, conforme a fórmula e os parâmetros definidos no Termo de Referência.
+
+26.7. Se o inadimplemento for provocado pela contratada por não cumprir com as suas obrigações, o
+contratante ficará isento de promover tal atualização monetária.
+
+26.8. Os preços inicialmente contratados são fixos e irreajustáveis no prazo de um ano contado da data
+do orçamento estimado.
+
+26.9. Após o transcurso de 12 (doze) meses, contados a partir da data de assinatura do contrato, os
+preços poderão ser reajustados com base na variação do Índice Nacional de Preços ao Consumidor
+Amplo — IPCA, divulgado pelo IBGE, ou por outro Índice oficial que venha a substituí-lo, nos termos do
+art. 135 da Lei nº 14.133/2021.
+
+27. DAS INFRAÇÕES E SANÇÕES ADMINISTRATIVAS
+
+27.1. O CREA-PE poderá aplicar ao licitante ou contratado (conforme o caso), garantido o direito prévio
+ao contraditório e à ampla defesa, as penalidades constantes no Termo de Referência, conforme o
+estabelecido nos arts 155 a 163 da Lei 14.133/2021 e Decreto 11.462/2023.
+
+27.2. O licitante ou o contratado será responsabilizado administrativamente pelas seguintes infrações:
+
+| - dar causa à inexecução parcial do contrato;
+
+|l - dar causa à inexecução parcial do contrato que cause grave dano à Administração, ao
+funcionamento dos serviços públicos ou ao interesse coletivo;
+
+|ll - dar causa à inexecução total do contrato;
+
+IV - deixar de entregar a documentação exigida para o certame;
+
+V - não manter a proposta, salvo em decorrência de fato superveniente devidamente justificado
+
+VI - não celebrar o contrato ou não entregar a documentação exigida para a contratação, quando
+convocado dentro do prazo de validade de sua proposta;
+VII - ensejar o retardamento da execução ou da entrega do objeto da licitação sem motivo Jjustificado;
+
+18 de 21
+
+
+VIII - apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração falsa
+durante a licitação ou a execução do contrato;
+
+IX - fraudar a licitação ou praticar ato fraudulento na execução do contrato;
+
+X - comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+
+XI - praticar atos ilícitos com vistas a frustrar os objetivos da licitação;
+
+XIl - praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013.
+
+27.3. Serão aplicadas ao responsável pelas infrações administrativas as sanções previstas no artigo
+156 da Lei nº14.133/21, conforme segue:
+
+| - advertência;
+
+|l - multa;
+
+11l - impedimento de licitar e contratar;
+
+IV - declaração de inidoneidade para licitar ou contratar.
+
+27.4. Na aplicação das sanções serão considerados:
+
+| - a natureza e a gravidade da infração cometida;
+
+|l - as peculiaridades do caso concreto;
+
+Ill - as circunstâncias agravantes ou atenuantes;
+
+IV - os danos que dela provierem para a Administração Pública;
+
+V-aimplantação ou o aperfeiçoamento de programa de integridade, conforme normas e orientações
+dos órgãos de controle.
+
+27.5. A sanção prevista no inciso | do subtópico 29.3 será aplicada exclusivamente pela infração
+administrativa prevista no inciso | do caput do art. 155 da Lei 14.133/2021, quando não se Jjustificar a
+imposição de penalidade mais grave.
+
+27.6. A sanção prevista no inciso |l do subtópico 29.3 não poderá ser inferior a 0,5% (cinco décimos
+por cento) nem superior a 30% (trinta por cento) do valor do contrato licitado ou celebrado com
+contratação direta e será aplicada ao responsável por qualquer das infrações administrativas previstas
+no art. 155 desta Lei 14.133/2021.
+
+27.7. A sanção prevista no inciso |ll do subtópico 29.3 será aplicada ao responsável pelas infrações
+administrativas previstas nos incisos 1, IIl, IV, V, Vl e VII do caput do art. 155 da Lei 14.133/2021,
+quando não se justificar a imposição de penalidade mais grave, e impedirá o responsável de licitar ou
+contratar no âmbito da Administração Pública direta e indireta do ente federativo que tiver aplicado a
+sanção, pelo prazo máximo de 3 (três) anos.
+
+27.8. A sanção prevista no inciso IV do subtópico 29.3 será aplicada ao responsável pelas infrações
+administrativas previstas nos incisos VIII, IX, X, Xl e XIl do caput do art. 155 da Lei 14.133/2021, bem
+como pelas infrações administrativas previstas nos incisos 1, Ill, IV, V, Vl e VIIl do caput do referido
+artigo que justifiquem a imposição de penalidade mais grave que a sanção referida no subtópico
+anterior, e impedirá o responsável de licitar ou contratar no âmbito da Administração Pública direta e
+indireta de todos os entes federativos, pelo prazo mínimo de 3 (três) anos e máximo de 6 (seis) anos.
+27.9. A sanção estabelecida no inciso IV do subtópico 29.3 será precedida de análise jurídica e
+observará as regras previstas 86º, do artigo 156, da Lei nº 14.133/2021.
+
+27.10. As sanções previstas nos incisos |, lll e IV do subtópico 29.3 poderão ser aplicadas
+cumulativamente com a prevista no inciso |1l do subtópico 29.3.
+
+27.11. A recusa injustificada da firma adjudicatária em receber o Contrato e/ou a Nota de Empenho no
+prazo estabelecido após a convocação caracteriza o descumprimento total da obrigação assumida,
+sujeitando-a às penalidades legalmente estabelecidas.
+
+27.12. A aplicação das sanções previstas nos incisos lll e IV do caput do art. 156 da Lei nº 14.133
+/2021 requererá a instauração de processo de responsabilização, a ser conduzido por comissão
+composta de 2 (dois) ou mais servidores estáveis, que avaliará fatos e circunstâncias conhecidos e
+intimará o licitante ou o contratado para, no prazo de 15 (quinze) dias úteis, contado da data de
+intimação, apresentar defesa escrita e especificar as provas que pretenda produzir.
+
+19 de 21
+
+
+27.13. As penalidades aplicadas poderão ser relevadas por juízo da Administração nas hipóteses de
+casos fortuito e/ou força maior, devidamente justificadas e comprovadas.
+
+27.14. O CREA-PE aplicará as penalidades previstas no Edital e seus anexos e na Lei nº 14.133/2021,
+sem prejuízo das responsabilidades penal e cível.
+
+27.15. Quando for aplicada multa, seu valor será descontado da fatura a que fizer jus a contratada ou
+da garantia contratual, quando houver.
+
+27.16. Não verificando a hipótese anterior, a contratada deverá efetuar o recolhimento do valor
+correspondente mediante Guia de Recolhimento da União (GRU). Frustrada a cobrança, serão
+encaminhadas cópias do processo para inscrição da dívida junto à Procuradoria da Fazenda Nacional,
+observados os limites propostos na Portaria MF Nº 75/2012.
+
+27.17. A retenção do valor da multa presumida poderá ser feita cautelarmente pela Administração
+quando da instauração do processo administrativo quando se tratar de fatura única ou última fatura.
+29.18. A aplicação das sanções, previstas neste Edital e seus anexos, não afasta eventuais processos
+de responsabilização e aplicação de penalidades decorrentes da Lei nº 12.846/20138.
+
+28. DAS DISPOSIÇÕES FINAIS
+
+28.1. O CREA-PE reserva-se o direito de revogar total ou parcialmente a presente Licitação, tendo em
+vista o interesse público, ou ainda anulá-la por ilegalidade, de ofício ou mediante provocação de
+terceiros, não cabendo às licitantes o direito de indenizações, salvo as disposições legalmente
+previstas.
+
+28.2. Simples omissões ou irregularidades sanáveis e irrelevantes, assim entendidas aquelas que não
+alterem a substância das propostas, dos documentos, bem como de suas validades jurídicas, e que
+não causem prejuízo à Administração e aos licitantes, poderão ser relevadas.
+
+28.3. O desatendimento de exigências meramente formais que não comprometam a aferição da
+qualificação do licitante ou a compreensão do conteúdo de sua proposta não importará seu
+afastamento da licitação ou a invalidação do processo (Art. 12, Inc. 1l da lei 14.133/2021).
+
+28.4. Os casos omissos serão resolvidos pelo pregoeiro de acordo com a Legislação pertinente.
+
+28.5. O CREA-PE reserva-se o direito de filmar e/ou gravar as sessões relativas a este Pregão e
+utilizar este meio como prova.
+
+28.6. É facultada ao pregoeiro e/ou autoridade superior, em qualquer fase da Licitação, a promoção de
+diligências destinadas a esclarecer ou a complementar a instrução do processo.
+
+28./7. As normas que disciplinam este Pregão serão sempre interpretadas a favor da ampliação da
+disputa entre os interessados sem comprometimento da segurança jurídica do futuro contrato.
+
+28.8. Todos os elementos do edital, incluídos minuta de contrato, termos de referência, anteprojeto,
+projetos e outros anexos porventura existentes, serão divulgados em sítio eletrônico oficial na mesma
+data de divulgação do edital, inexistindo necessidade de registro ou de identificação para acesso (Art.
+25, 83º da Lei 14.133/2021).
+
+28.9. A publicidade do edital de licitação será realizada mediante divulgação e manutenção do inteiro
+teor do ato convocatório e de seus anexos no Portal Nacional de Contratações Públicas (PNCP) - Art.
+54, caput, da Lei n.º 14.133/2021.
+
+28.10. O extrato do edital será publicado no Diário Oficial da União, bem como em jornal diário de
+grande circulação e no site deste Conselho: www.creape.org.br (Art. 54,881º e 2º Lei 14.133/2021).
+28.11. Eventuais modificações no edital implicarão nova divulgação na mesma forma de sua
+divulgação inicial, além do cumprimento dos mesmos prazos dos atos e procedimentos originais,
+exceto quando a alteração não comprometer a formulação das propostas (Art. 55, 81º da Lei 14.133
+/2021).
+
+20 de 21
+
+
+28.12. Compete ao Juízo Federal da Seção Judiciária da Cidade do Recife, no Estado de Pernambuco,
+dirimir quaisquer litígios oriundos da presente licitação.
+29. Responsáveis
+
+Todas as assinaturas eletrônicas seguem o horário oficial de Brasília e fundamentam-se no 83º do Art. 4º do Decreto nº 10.543, de 13 de novembro de
+2020.
+
+JOAO CESAR DOS SANTOS
+
+Agente de contratação
+
+> ”
+t' Assinou eletronicamente em 11/09/2025 às 11:51:21.
+
+LEONARDO DE ALBUQUERQUE MENEZES
+
+Gerência de Tecnologia da Informação - GTI
+
+21 de 21
+
+
+ANEXO | — Modelo de Proposta de Preços
+
+Descrição dos Produtos| CATMAT
+
+INotebook Básico 630109
+Core 15 8Gb 253Gb
+SSD, conforme
+descrição do tópico 2
+do Termo de
+Referência (Anexo II).
+Notebook 630109
+Intermediário Core
+
+17 16Gb 256Gb SSD,
+conforme descrição do
+tópico 2 do Termo de
+Referência (Anexo II).
+INotebook Avançado 630109
+Core 17 32Gb 1Tb
+SSD, conforme
+descrição do tópico 2
+do Termo de
+Referência (Anexo II).
+IVALOR TORAL R$
+
+
+
+$ Compras.gov.br UASG 389097
+
+CONSELHO REG. DE ENGENHARIA E AGRONOMIA - PE
+
+Termo de Referência 13/2025
+
+Informações Básicas
+
+Número do UASG Editado por Atualizado em
+
+artefato
+
+13/2025 389097-CONSELHO REG. DE ENGENHARIA E AGRONOMIA - -. RERIVALDO DE 29/08/2025 12:53 (v
+PE AMARANTES 1.4)
+
+Status
+
+ASSINADO
+
+Outras informações
+
+Categoria Número da Contratação Processo Administrativo
+
+VII - contratações de tecnologia da informação e de comunicação/Bens de TIC 200263669-21/2025
+
+1. Condições gerais da contratação
+
+1.1. Aquisição de notebooks para atendimento de demandas das áreas ligadas a atividade
+fim do CREA-PE para uso pelos fiscais e áreas administrativas, nos termos da tabela
+abaixo, conforme condições e exigências estabelecidas neste instrumento.
+
+ITEM ESPECIFICAÇÃO CATMAT MÉTRICA OU QUANTIDADE VALOR VALOR TOTAL
+UNIDADE DE UNITÁRIO
+MEDIDA
+Notebook Básico
+Core 15 8Gb 253Gb |
+SSD 630109 Unidade 2 7.999,00 223.972,00
+
+IIIII IIIIIIIII
+Notebook
+Intermediário Core Unidad 3
+nl
+
+17 16Gb 256Gb SSD 630109 ade 8.999,00 26.997,00
+Notebook Avançado
+Core i17 32Gb 1Tb |
+
+3 SSD 630109 Unidade 1 12.299,00 12.299,00
+
+Preço Máximo Estimado: 263.268,00
+
+1.2. O objeto desta contratação não se enquadra como sendo bem de luxo, conforme
+Decreto nº 10.818, de 27 de setembro de 2021.
+
+1.3. Os bens objetos desta contratação são caracterizados como comuns, uma vez que
+possuem características e qualidades objetivamente definidos, permitindo a oferta de
+propostas sem grandes variações de qualidade e desempenho.
+
+Modelo de TR para Aquisição de Bens de TIC
+Versão: jul/2023 1 de 17
+Aprovado pela Diretoria de Gestão de Recursos de TISGD/MGI
+
+
+1.4. O prazo de vigência da contratação é de 36 (trinta seis) meses contados da ordem
+de fornecimento, na forma do artigo 105 da Lei nº 14.133, de 2021.
+
+1.5. O contrato oferece maior detalhamento das regras que serão aplicadas em relação à
+vigência da contratação.
+
+2. Descrição da solução
+
+2.1. A descrição da solução como um todo encontra-se pormenorizada em tópico específico
+dos Estudos Técnicos Preliminares, apêndice deste Termo de Referência.
+
+2.2. AÀ solução de TIC consiste em:
+2.2.1. Notebook básico administrativo
+
+a) Processador i5-1235 ou seu equivalente AMD de 12º geração com no mínimo 10
+cores, cache de 12MB, até 4.4GHz
+
+b) Tela Full HD de 15"" (1920 x 1080)
+
+c) Memória de 8GB DDR4 (1x8GB), não serão aceitos módulos soldados
+d) Placa de vídeo com memória gráfica compartilhada
+
+e) Armazenamento mínimo SSD de 256GB PCIe NVMe M.2
+
+f) Teclado retroiluminado, numérico e em português
+
+g) Portas de comunicação mínimas com: 2 USB 3.1l Gen 1; 1 USB 2.0; 1 HDMI 1.4b;
+1 RI-45; 1 combo de fone de ouvido/microfone; 1 alimentação CA e funções de
+
+áudio com dois alto-falantes estéreo.
+
+h) O Sistema Operacional deverá ser Windows 11 Pro 64bits, devido a
+compatibilidade com os demais sistemas corporativos e legados do Conselho.
+
+1) Wireless Intelo Wi-Fi 6 AX201, 2x2, 802.1l1ax, placa de rede wireless com
+Bluetootho
+
+3) Bateria mínima de 4 células (integrada)
+
+1) Fonte de alimentação adaptador (Bivolt)
+
+m) Cabo de força
+
+n) Driver do sistema Windows
+
+o) Garantia mínima de 3 anos de serviço e suporte
+2.2.2. Notebook intermediário para georreferenciamento
+
+a) Processador Core" i7-13650HX de 13º geração ou seu equivalente com no
+
+mínimo 14 cores, cache de 24MB, até 4.9GHz
+
+b) Tela Full HD de 15.6"" (1920 x 1080)
+
+c) Placa de vídeo RTX" 3050, 6GB GDDR6 ou sua equivalencia em desempenho
+
+d) Memória mínima de 16GB DDR5 (1x16GB) 4800MT/s, não serão aceitos módulos
+soldados
+
+e) Armazenamento mínimo SSD de 256GB PCIe NVMe M.2
+
+Modelo de TR para Aquisição de Bens de TIC
+
+Versão: jul/2023 2 de 17
+Aprovado pela Diretoria de Gestão de Recursos de TISGD/MGI
+
+
+f) Teclado retroiluminado, numérico e em português
+
+g) Portas de comunicação mínimas com: 2 USB 3.1l Gen 1; 1 USB 2.0; 1 HDMI 1.4b;
+1 RI-45; 1 combo de fone de ouvido/microfone; 1 alimentação CA e funções de
+áudio com dois alto-falantes estéreo.
+
+h) Câmera HD RGB de 720p a 30 fps com microfone único integrado
+
+1) O Sistema Operacional deverá ser Windows 11 Pro 64bits, devido a
+compatibilidade com os demais sistemas corporativos e legados do Conselho.
+
+3) Wireless 2x2, 802.l1lax, placa de rede wireless com Bluetootho
+
+l) Bateria mínima de 4 células (integrada)
+
+m) Fonte de alimentação adaptador (Bivolt)
+
+n) Cabo de força
+
+o) Driver do sistema Windows
+
+2.2.3. Notebook avançado para georreferencimento
+
+a) Processador Core" i7-13650HX de 13º geração ou seu equivalente com no
+mínimo 14 cores, cache de 24MB, até 4.9GHz
+
+b) Tela Full HD de 15.6" (1920 x 1080)
+
+c) Memória de 32GB DDR5 (2x16GB), não serão aceitos módulos soldados
+d) Armazenamento SSD de 1TB PCIe NVMe M.2
+
+e) Teclado retroiluminado RGB 4-zones, numérico e em português
+
+f) Portas de comunicação mínimas com: 2 USB 3.1 Gen 1; 1 USB 2.0; 1 HDMI 1.4b;
+1 RI-45; 1 combo de fone de ouvido/microfone; 1 alimentação CA e funções de
+áudio com dois alto-falantes estéreo.
+
+g) Câmera HD RGB de 720p a 30 fps com microfone único integrado
+
+h) O Sistema Operacional deverá ser Windows 11 Pro 64bits,
+
+i) Wireless 2x2, 802.1lax, placa de rede wireless com Bluetooth6
+
+3) Bateria mínima de 4 células (integrada)
+
+1) Fonte de alimentação adaptador (Bivolt)
+
+m) Cabo de força
+
+n) Placa de vídeo RTX" 4050, 6GB GDDR6 ou sua equivalência em desempenho
+
+o) Driver do sistema Windows
+
+2.3. Todos os notebooks devem possuir 36 (trinta seis) meses de garantia, podendo ser
+o somatório da garantia do fabricante com a garantia estendida do fornecedor.
+
+2.4. Todos os notebooks devem vir em embalagens devidamente lacrada.
+
+Modelo de TR para Aquisição de Bens de TIC
+Versão: jul/2023 3 de 17
+Aprovado pela Diretoria de Gestão de Recursos de TISGD/MGI
+
+
+3. Fundamentação e descrição da necessidade
+
+3.1. Fiscalizar utilizando ferramentas de sensoriamento remoto com processamentos de
+
+imagens àd satélit cruzamentos de dados e informações já fazem parte das
+necessidades imediatas. A atualização dos computadores da fiscalização se deve à
+necessidade de adequação às novas tecnologias disponíveis, assim como na obtenção de
+
+maior eficiência produtiva, flexibilidade na possibilidade de trabalhos com novos
+
+softwares, maior capacidade de processamento armazenamento, ou seja, otimizar e
+atualizar-se às novas possibilidades e necessidades da fiscalização.
+
+3.2. O objeto da contratação está previsto no Plano Diretor de Tecnologia da Informação
+2023/2025.
+
+4. Requisitos da contratação
+Requisitos de Negócio
+
+4.1. Por se tratar de aquisição para atender demanda de TIC, esta aquisição está amparada no PDTI 2023
+/2025 devidamente aprovada.
+
+4.2. A utilização de notebook é essencial no cenário de trabalho em home office,
+permitindo a mobilidade e agilidade no acesso aos sistemas computacionais necessários
+ao exercício das funções dos colaboradores da área de fiscalização.
+
+Requisitos de Capacitação
+
+4.3. Não será necessário iniciativa de capacitação.
+
+Requisitos Legais
+
+4.,4. O presente processo de contratação deve estar aderente à Constituição Federal, à
+Lei nº 14.133/2021, à Instrução Normativa SGD/ME nº 94, de 2022, Instrução Normativa
+
+SEGES/ME nº 65, de 7 de julho de 2021, Lei nº 13.709, de 14 de agosto de 2018 (Lei
+Geral de Proteção de Dados Pessoais - LGPD) e a outras legislações aplicáveis.
+
+Requisitos de Manutenção
+
+4,5. Devido às características da solução, há necessidade de realização de
+manutenções assistência técnica em caso de defeitos ou necessidade de trocas.
+
+Requisitos Temporais
+
+4.6. A Entrega dos equipamentos deverá ser efetivada no prazo máximo de 15 (quinze)
+dias úteis no endereço Rua da Hora, nº 570 - Espinheiro - Recife - PE, CEP: 52020-015,
+a contar do recebimento da Autorização de Fornecimento, emitida pela contratante,
+podendo ser prorrogada, excepcionalmente, por até igual período, desde que justificado
+previamente pelo Contratado e autorizado pela Contratante.
+
+Requisitos de Segurança e Privacidade
+
+4.7. A solução deverá atender aos princípios e procedimentos elencados na Política de
+Segurança da Informação do Contratante.
+
+Requisitos da Arquitetura Tecnológica
+
+4,8. Os equipamentos deverão observar integralmente os requisitos de arquitetura
+tecnológica descritos na descrição da contratação.
+
+Requisitos de Garantia, Manutenção e Assistência Técnica
+
+Modelo de TR para Aquisição de Bens de TIC
+
+Versão: jul/2023 4 de 17
+Aprovado pela Diretoria de Gestão de Recursos de TISGD/MGI
+
+
+4.9. O prazo de garantia é aquel stabelecido na Lei nº 8.078, de 11 de setembro de
+1990 (Código de Defesa do Consumidor), e suas atualizações acrescida da garantia do
+fornecedor, devendo a soma das garantias chegar a no mínimo 36 (trinta sels) meses.
+
+4.10. A garantia será prestada com vistas a manter os equipamentos fornecidos em
+perfeitas condições de uso, sem qualquer ônus ou custo adicional para o Contratante.
+
+4.11. A garantia abrange a realização da manutenção corretiva dos bens pelo próprio
+Contratado, ou, se for o caso, por meio de assistência técnica autorizada, de acordo
+com as normas técnicas específicas.
+
+4.,12. Entende-se por manutenção corretiva aquela destinada a corrigir os defeitos
+apresentados pelos bens, compreendendo a substituição de peças, a realização de
+ajustes, reparos correções necessárias.
+
+4.,13. AS peças que apresentarem vício ou defeito no período de vigência da garantia
+deverão ser substituídas por outras novas, de primeiro uso, e originais, que apresentem
+padrões de qualidad desempenho iguais ou superiores aos das peças utilizadas na
+fabricação do equipamento.
+
+4,.14. Uma vez notificado, o Contratado realizará a reparação ou substituição dos bens
+que apresentarem vício ou defeito no prazo de até 05 (cinco) dias úteis, contados a
+partir da data de retirada do equipamento das dependências da Administração pelo
+Contratado ou pela assistência técnica autorizada.
+
+4,.15. O prazo indicado no subitem anterior, durante seu transcurso, poderá ser
+prorrogado uma única vez, por igual período, mediante solicitação escrita e justificada
+do Contratado, aceita pelo Contratante.
+
+4.16. Decorrido o prazo para reparos e substituições sem o atendimento da solicitação
+do Contratante ou a apresentação de justificativas pelo Contratado, fica o Contratante
+autorizado a contratar empresa diversa para executar os reparos, ajustes ou a
+substituição do bem ou de seus componentes, bem como a exigir do Contratado o reembolso
+pelos custos respectivos, sem que tal fato acarrete a perda da garantia dos
+equipamentos.
+
+4.17. O custo referente ao transporte dos equipamentos cobertos pela garantia será de
+responsabilidade do Contratado.
+
+4,18. A garantia legal ou contratual do objeto tem prazo de vigência própria e
+desvinculado daquele fixado no contrato, permitindo eventual aplicação de penalidades
+em caso de descumprimento de alguma de suas condições, mesmo depois de expirada a
+vigência contratual.
+
+Requisitos de Formação da Equipe
+
+4.19. Os serviços deverão ser prestados por técnicos devidamente capacitados, de acordo
+com as exigências dos fabricantes.
+
+4,.20. Não serão exigidos requisitos de formação da equipe para a presente a contratação.
+Requisitos de Metodologia de Trabalho
+
+4.21. O fornecimento dos equipamentos está condicionado ao recebimento pelo Contratado
+de Autorização de Fornecimento (AF) emitida pela Contratante.
+
+4.,22. A AF indicará o tipo de equipamento, a quantidade e a localidade na qual os
+equipamentos deverão ser entregues.
+
+4.,23. O Contratado deve fornecer meios para contato e registro de ocorrências.
+
+4,.24. O andamento do fornecimento dos equipamentos devem ser acompanhado pelo
+Contratado, que dará ciência de eventuais acontecimentos à Contratante.
+
+Sustentabilidade
+
+4,25. Além dos critérios de sustentabilidade eventualmente inseridos na descrição do
+objeto, devem ser atendidos os requisitos que se baselam no Guia Nacional de
+
+Modelo de TR para Aquisição de Bens de TIC
+Versão: jul/2023 5 de 17
+Aprovado pela Diretoria de Gestão de Recursos de TISGD/MGI
+
+
+Contratações Sustentáveis e na IN nº 01/2010 SLTI/MPOG, desde que aplicáveis ao objeto,
+e em particular aos seguintes requisitos:
+
+4.,25.1. Os bens, no todo ou em parte, devem ser construídos com materiais reciclados,
+atóxicos ou biodegradáveis, conforme norma ABNT NBR - 15448-1 e 15448-2;
+
+4.,25.2. Embalagens preferencialmente com materiais recicláveis, embalados
+individualmente com o menor volume possível;
+
+4.25.3. Que os bens não contenham substâncias perigosas em concentração acima da
+recomendada nas diretivas RoHS (Restriction of Certain Hazardous Substance).
+
+Indicação de marcas ou modelos (Art. 41, inciso I, da Lei nº 14.133, de 2021)
+
+4,26. Na presente contratação não será admitida a indicação de marcas nas
+características dos bens.
+
+Subcontratação
+
+4.27. Não é admitida a subcontratação do objeto contratual.
+
+Da verificação de amostra do objeto
+
+4.28. Não serão exigidas amostras para os bens, devendo a avaliação da qualidade e
+adequação dos bens ofertados com os requisitos da contratação, serem feitas por meio da
+descrição detalhada e precisa dos modelos, marcas e características dos notebooks
+ofertados pelos licitantes.
+
+Garantia da Contratação
+
+4.,29. Não haverá exigência da garantia da contratação dos artigos 96 e seguintes da Lei
+nº 14.133, de 2021, pelas razões constantes do Estudo Técnico Preliminar.
+
+5. Papéis e responsabilidades
+5.1. São obrigações da CONTRATANTE:
+
+5.1.1. nomear Gestor e Fiscais Técnico, Administrativo do contrato para acompanhar
+e fiscalizar a execução dos contratos;
+
+5.1.2. encaminhar formalmente a demanda por meio de Autorização de Fornecimento
+(AF), de acordo com os critérios estabelecidos neste Termo de Referência;
+
+5.1.3. receber o objeto fornecido pelo Contratado que esteja em conformidade com a
+
+proposta aceita, conforme inspeções realizadas;
+
+5.1.4. aplicar à contratada as sanções administrativas regulamentares e
+contratuais cabíveis;
+
+5.1.5. liquidar o empenho fetuar o pagamento à contratada, dentro dos prazos
+
+preestabelecidos em contrato;
+
+5.1.6. comunicar à contratada todas e quaisquer ocorrências relacionadas com o
+fornecimento da solução de TIC;
+
+5.1.7. providenciar local adequado para recebimento dos itens.
+
+5.2. São obrigações do CONTRATADO:
+
+5.2.1. indicar formalmente preposto apto a representá-la junto à Contratante, que
+
+deverá responder pela fiel execução do contrato;
+
+Modelo de TR para Aquisição de Bens de TIC
+
+Versão: jul/2023 6 de 17
+Aprovado pela Diretoria de Gestão de Recursos de TISGD/MGI
+
+
+5.2.2. atender prontamente quaisquer orientações xigências da Equipe de
+Fiscalização do Contrato, inerentes à execução do objeto contratual;
+
+5.2.3. reparar quaisquer danos diretamente causados à Contratante ou a terceiros
+por culpa ou dolo d seus representantes legais, prepostos ou empregados, em
+
+decorrência da relação contratual, não excluindo ou reduzindo a responsabilidade
+da fiscalização ou o acompanhamento da execução dos serviços pela Contratante;
+
+5.2.4. propiciar todos os meios necessários à fiscalização do contrato pela
+Contratante, cujo representante terá poderes para sustar o fornecimento, total ou
+parcial, em qualquer tempo, desde que motivadas as causas e justificativas desta
+decisão;
+
+5.2.5. manter, durante toda a execução do contrato, as mesmas condições da
+habilitação;
+
+5.2.6. quando especificada, manter, durante a execução do contrato, equipe técnica
+
+composta por profissionais devidamente habilitados, treinados e qualificados para
+fornecimento da solução de TIC.
+
+6. Modelo de execução do contrato
+Rotinas de execução
+Do Encaminhamento Formal de Demandas
+
+6.1. A área demandante solicitará ao Coordenador de Compras que emita a Autorização de
+Fornecimento (AF) para a entrega dos bens desejados.
+
+6.2. O Contratado deverá fornecer os equipamentos com as mesmas configurações e
+quantidades definidas na AF e em conformidade com a proposta vencedora.
+
+6.3. O recebimento provisório e definitivo dos bens é disciplinado em tópico próprio
+deste TR.
+
+Forma de execução e acompanhamento dos serviços
+Condições de Entrega
+
+6.5. O prazo de entrega dos bens é de 15 (quinze) dias úteis, contados da emissão da
+Autorização de Fornecimento (AF), em remessa única.
+
+6.6. Caso não seja possível a entrega na data assinalada, a empresa deverá comunicar as
+razões respectivas com pelo menos 5 (cinco) dias de antecedência para que qualquer
+pleito de prorrogação de prazo seja analisado, ressalvadas situações de caso fortuito e
+força maior.
+
+6.7. Os bens deverão ser ntregues no seguinte endereço Rua da Hora, nº 570 -
+Espinheiro - Recife - PE. CEP: 52020-015.
+
+Quantidade mínima de bens ou serviços para comparação e controle
+
+6.8. Cada AF conterá a quantidade a ser fornecida, incluindo a sua localização e o
+prazo, conforme definições deste TR.
+
+Mecanismos formais de comunicação
+
+6.9. São definidos como mecanismos formais de Comunicação, entre a Contratante e o
+Contratado, qualquer meio letrônico ou físico que permita comprovar o envio e
+recebimento da comunicação tais como (e-mail, serviços postais, sistemas de mensagens,
+softwares de comunicação privativa do fornecedor ou contratado ou outro meio de
+comunicação disponibilizada previamente pelo contratado ou pela contratante).
+
+Modelo de TR para Aquisição de Bens de TIC
+
+Versão: jul/2023 7 de 17
+Aprovado pela Diretoria de Gestão de Recursos de TISGD/MGI
+
+
+7. Modelo de gestão do contrato
+
+7.1. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas
+avençadas e as normas da Lei nº 14.133, de 2021, e cada parte responderá pelas
+consequências de sua inexecução total ou parcial.
+
+7.2. Em caso de impedimento, ordem de paralisação ou suspensão do contrato, oO
+cronograma de execução será prorrogado automaticament pelo tempo correspondente,
+anotadas tais circunstâncias mediante simples apostila.
+
+7.3. AS comunicações entre o órgão ou entidade e o Contratado devem ser realizadas por
+escrito sempre que o ato exigir tal formalidade, admitindo-se o uso de mensagem
+eletrônica para esse fim.
+
+7.4. O órgão ou entidade poderá convocar representante da empresa para adoção de
+providências que devam ser cumpridas de imediato.
+
+Fiscalização
+
+7.5. A execução do contrato deverá ser acompanhada e fiscalizada pelo(s) fiscal(is) do
+contrato, ou pelos respectivos substitutos (Lei nº 14.133, de 2021, art. 117, caput) ,
+nos termos do art. 33 da IN SGD nº 94, de 2022, observando-se, em especial, as rotinas
+a seguir.
+
+Fiscalização Técnica
+
+7.6. O fiscal técnico do contrato, além d xercer as atribuições previstas no art. 33,
+II, da IN SGD nº 94, de 2022, acompanhará a execução do contrato, para que sejam
+cumpridas todas as condições estabelecidas no contrato, de modo a assegurar os melhores
+resultados para a Administração. (Decreto nº 11.246, de 2022, art. 22, VI);
+
+7.6.1. O fiscal técnico do contrato anotará no histórico de gerenciamento do
+contrato todas as ocorrências relacionadas à execução do contrato, com a descrição
+do que for necessário para a regularização das faltas ou dos defeitos observados.
+(Lei nº 14.133, de 2021, art. 117, S1º, e Decreto nº 11.246, de 2022, art. 22,
+IL);
+
+7.6.2. Identificada qualquer inexatidão ou irregularidade, o fiscal técnico do
+contrato emitirá notificações para a correção da execução do contrato,
+determinando prazo para a correção. (Decreto nº 11.246, de 2022, art. 22, IIL);
+
+7.6.3. O fiscal técnico do contrato informará ao gestor do contato, em tempo
+hábil, a situação que demandar decisão ou adoção de medidas que ultrapassem sua
+competência, para que adote as medidas necessárias e saneadoras, se for o caso.
+(Decreto nº 11.246, de 2022, art. 22, IV).
+
+7.6.4. No caso de ocorrências que possam inviabilizar a execução do contrato nas
+datas aprazadas, o fiscal técnico do contrato comunicará o fato imediatamente ao
+gestor do contrato. (Decreto nº 11.246, de 2022, art. 22, V).
+
+7.6.5. O fiscal técnico do contrato comunicará ao gestor do contrato, em tempo
+hábil, o término do contrato sob sua responsabilidade, com vistas à renovação
+tempestiva ou à prorrogação contratual (Decreto nº 11.246, de 2022, art. 22, VIL).
+
+Fiscalização Administrativa
+
+7T.7. O fiscal administrativo do contrato, além d xercer as atribuições previstas no
+art. 33, IV, da IN SGD nº 94, de 2022, verificará a manutenção das condições de
+habilitação do Contratado, acompanhará o empenho, o pagamento, as garantias, as glosas
+e a formalização de apostilamento e termos aditivos, solicitando quaisquer documentos
+comprobatórios pertinentes, caso necessário (Art. 23, I e II, do Decreto nº 11.246, de
+2022).
+
+7T.7.1. Caso ocorram descumprimento das obrigações contratuais, o fiscal
+administrativo do contrato atuará tempestivamente na solução do problema,
+
+Modelo de TR para Aquisição de Bens de TIC
+
+Versão: jul/2023 8 de 17
+Aprovado pela Diretoria de Gestão de Recursos de TISGD/MGI
+
+
+reportando ao gestor do contrato para que tome as providências cabíveis, quando
+ultrapassar a sua competência; (Decreto nº 11.246, de 2022, art. 23, IV).
+
+Gestor do Contrato
+
+7.8. O gestor do contrato, além d xercer as atribuições previstas no art. 33, I, da
+IN SGD nº 94, de 2022, coordenará a atualização do processo de acompanhamento e
+fiscalização do contrato contendo todos os registros formais da execução no histórico
+de gerenciamento do contrato, a exemplo da ordem de serviço, do registro de
+ocorrências, das alterações e das prorrogações contratuais, elaborando relatório com
+vistas à verificação da necessidade de adequações do contrato para fins de atendimento
+da finalidade da administração. (Decreto nº 11.246, de 2022, art. 21, IV).
+
+7.9. O gestor do contrato acompanhará a manutenção das condições de habilitação do
+Contratado, para fins de empenho de despesa pagamento, e anotará os problemas que
+obstem o fluxo normal da liquidação e do pagamento da despesa no relatório de riscos
+eventuais. (Decreto nº 11.246, de 2022, art. 21, IIL).
+
+7.10. O gestor do contrato acompanhará os registros realizados pelos fiscais do
+contrato, de todas as ocorrências relacionadas à execução do contrato e as medidas
+adotadas, informando, se for o caso, à autoridade superior àquelas que ultrapassarem a
+sua competência. (Decreto nº 11.246, de 2022, art. 21, IL).
+
+7.11. O gestor do contrato emitirá documento comprobatório da avaliação realizada pelos
+fiscais técnico, administrativo e setorial quanto ao cumprimento de obrigações
+assumidas pelo Contratado, com menção ao seu desempenho na execução contratual, baseado
+nos indicadores objetivamente definidos e aferidos, e a eventuais penalidades
+aplicadas, devendo constar do cadastro de atesto de cumprimento de obrigações. (Decreto
+nº 11.246, de 2022, art. 21, VIIL).
+
+7.12. O gestor do contrato tomará providências para a formalização de processo
+administrativo de responsabilização para fins de aplicação de sanções, a ser conduzido
+pela comissão de que trata o art. 158 da Lei nº 14.133, de 2021, ou pelo agente ou pelo
+setor com competência para tal, conforme o caso. (Decreto nº 11.246, de 2022, art. 21,
+x) .
+
+7.13. O fiscal técnico do contrato comunicará ao gestor do contrato, em tempo hábil, o
+término do contrato sob sua responsabilidade, com vistas à tempestiva renovação OuU
+prorrogação contratual. (Decreto nº 11.246, de 2022, art. 22, VIL).
+
+7.14. O gestor do contrato deverá elaborará relatório final com informações sobre a
+consecução dos objetivos que tenham justificado a contratação e eventuais condutas a
+serem adotadas para o aprimoramento das atividades da Administração. (Decreto nº
+11.246, de 2022, art. 21, VI).
+
+Critérios de Aceitação
+
+7.15. A avaliação da qualidade dos produtos entregues, para fins de aceitação, consiste
+na verificação dos critérios relacionados a seguir:
+
+7.16. Todos os equipamentos fornecidos deverão ser novos (incluindo todas as peças e
+componentes presentes nos produtos), de primeiro uso (sem sinais de utilização
+anterior), não recondicionados e em fase de comercialização normal através dos canais
+de venda do fabricante no Brasil (não serão aceitos produtos end-of-life).
+
+7.17. Todos os componentes do(s) equipamento(s) e respectivas funcionalidades deverão
+ser compatíveis entre si, sem a utilização de adaptadores, frisagens, pinturas,
+usinagens em geral, furações, emprego de adesivos, fitas adesivas ou quaisquer outros
+procedimentos não previstos nas especificações técnicas ou, ainda, com emprego de
+materiais inadequados ou que visem adaptar forçadamente o produto ou suas partes que
+sejam fisicamente ou logicamente incompatíveis.
+
+7.18. Todos os componentes internos do(s) equipamento(s) deverá(ão) estar instalado(s)
+de forma organizada livres de pressões ocasionados por outros componentes ou cabos,
+que possam causar desconexões, instabilidade, ou funcionamento inadequado.
+
+7.19. O número de série de cada equipamento deve ser obrigatório e único, afixado em
+local visível, na parte externa do gabinete e na embalagem que o contém. Esse número
+
+Modelo de TR para Aquisição de Bens de TIC
+Versão: jul/2023 9 de 17
+Aprovado pela Diretoria de Gestão de Recursos de TISGD/MGI
+
+
+deverá ser identificado pelo fabricante, como válido para o produto entregue e para as
+condições do mercado brasileiro no que se refere à garantia e assistência técnica no
+Brasil.
+
+7.20. Serão recusados os produtos que possuam componentes ou acessórios com sinais
+claros de oxidação, danos físicos, sujeira, riscos ou outro sinal de desgaste, mesmo
+sendo o componente ou acessório considerado como novos pelo fornecedor dos produtos.
+
+7.21. Os produtos, considerando a marca e modelo apresentados na licitação, não poderão
+estar fora de linha comercial, considerando a data de LICITAÇÃO (abertura das
+propostas). Os produtos devem ser fornecidos completos e prontos para a utilização, com
+todos os acessórios, componentes, cabos etc.
+
+7.22. Todas as licenças, referentes aos softwares e drivers solicitados, devem estar
+registrados para utilização do Contratante, em modo definitivo (licenças perpétuas),
+
+legalizado, não sendo admitidas versões “shareware” ou “trial”. O modelo do produto
+ofertado pelo licitante deverá estar em fase de produção pelo fabricante (no Brasil ou
+no exterior), sem previsão d ncerramento de produção, até a data de entrega da
+proposta.
+
+7.23. A Contratante poderá optar por avaliar a qualidade de todos os equipamentos
+fornecidos, atentando para a inclusão nos autos do processo administrativo de todos os
+documentos que evidenciem a realização dos testes de aceitação em cada equipamento
+selecionado, para posterior rastreabilidade.
+
+7.24. Só haverá o recebimento definitivo, após a análise da qualidade dos bens «e/ou
+serviços, em face da aplicação dos critérios de aceitação, resguardando-se ao
+Contratante o direito de não receber o OBJE-TO cuja qualidade seja comprovadamente
+baixa ou em desacordo com as especificações definidas neste Termo de Referência -
+situação em que poderão ser aplicadas à CONTRATADA as penalidades previstas em lei,
+neste Termo de Referência e no CONTRATO. Quando for o caso, a empresa será convocada a
+
+refazer todos os serviços rejeitados, sem custo adicional.
+
+Procedimentos de Teste e Inspeção
+
+7.25. Serão adotados como procedimento de test inspeção, para fins de elaboração dos
+Termo de Recebimento Provisório e Definitivo:
+
+7.25.1. No recebimento provisório, deverão ser observados se os produtos estão
+lacrados, se todas as partes acessórias estão dentro das embalagens originais dos
+produtos, se não existem marcas visíveis de danos ou vícios não ocultos, se os
+equipamentos estão ligando e carregando normalmente os softwares, se os
+periféricos inclusos ou acessórios estão funcionando, se a marca e modelo foi o
+especificado na proposta vencedora, dentre outros que seja possível realizar
+apenas com a observação visual dos produtos.
+
+7.25.2. O prazo de recebimento provisório será de 5 (cinco) dias úteis a partir do
+recebimento dos produtos.
+
+7.25.3. O recebimento provisório deverá ser atestado em termo próprio e assinado
+pelo responsável pelo recebimento fiscal do contrato.
+
+7.25.4. O recebimento definitivo se dará após o recebimento provisório, devendo
+ser realizado os testes funcionais dos equipamentos e sistemas, observando o
+atendimento dos requisitos descritos na proposta vencedora, as configurações
+apresentadas na proposta, o funcionamento dos softwares e hardwares, dentre outros
+testes e verificações que requeiram avaliações de funcionamento e qualidade.
+
+7.25.5. O prazo de recebimento definitivo será de 10 (dez) dias úteis a partir do
+recebimento provisório.
+
+7.25.6. O recebimento definitivo deverá ser atestado em termo próprio, assinado
+pelo responsável pelas avaliações, pelo fiscal e pelo gestor do contrato.
+
+7.26. O recebimento definitivo não exime o contratado das obrigações contratuais que
+ocorram após o recebimento definitivo.
+
+Sanções Administrativas e Procedimentos para retenção ou glosa no pagamento
+
+Modelo de TR para Aquisição de Bens de TIC
+
+Versão: jul/2023 10 de 17
+Aprovado pela Diretoria de Gestão de Recursos de TISGD/MGI
+
+
+7.27. Nos casos de inadimplemento na execução do objeto, as ocorrências serão
+registradas pela Contratante, conforme a tabela abaixo:
+
+Ocorrência Glosa / Sanção
+
+Multa de 0,5 % sobre o valor total da
+Autorização de Fornecimento por dia
+útil de atraso, até o limite de 10
+
+Não entregar os produtos dias úteis.
+
+prazo adequado,
+
+justificativa prévia aprovada
+
+pela contratada. Após o limite de 10 (dez) dias úteis,
+aplicar-se-á multa de 1 % do valor
+total da Autorização de Fornecimento
+por dia útil excedente.
+
+Multa de 0,5 % sobre o valor total da
+Autorização de Fornecimento por
+produto com defeito, até o limite de 5
+(cinco) produtos.
+
+Entregar o produto com defeito
+que não possibilite seu uso.
+
+Após o limite de 5 (cinco) produtos,
+aplicar-se-á multa de 10 % do valor
+total da Autorização de Fornecimento.
+
+Não realizar a troca de produtos
+danificados no prazo
+estabelecido no TR ou não enviar
+os acessórios faltantes após a
+comunicação da contratante.
+
+Multa de 1 % sobre o valor total da
+Autorização de Fornecimento por dia
+útil de atraso, até o limite de 10
+(dez) dias úteis.
+
+7.28. Nos termos do art. 19, inciso III da Instrução Normativa SGD/ME nº 94, de 2022,
+será efetuada a retenção ou glosa no pagamento, proporcional à irregularidade
+verificada, sem prejuízo das sanções cabíveis.
+
+Critérios de medição e de pagamento
+Recebimento do objeto
+
+7.29. Os bens serão recebidos provisoriamente, de forma sumária, no prazo de 5 (cinco)
+dias úteis a partir da entrega dos produtos, pelo(a) responsável pelo acompanhamento e
+fiscalização do contrato, para efeito de posterior verificação de sua conformidade com
+as especificações constantes no Termo de Referência na proposta.
+
+7.30. Os bens poderão ser rejeitados, no todo ou em parte, inclusive antes do
+recebimento provisório, quando em desacordo com as especificações constantes no Termo
+de Referência na proposta, devendo ser substituídos no prazo de 5 (cinco) dias úteis,
+a contar da notificação do Contratado, às suas custas, sem prejuízo da aplicação das
+penalidades.
+
+7.31. O recebimento definitivo ocorrerá no prazo de 10 (dez) dias úteis, a contar do
+recebimento provisório, após a verificação da qualidade e quantidade do material e
+consequente aceitação mediante termo detalhado.
+
+7.32. O prazo para recebimento definitivo poderá ser excepcionalmente prorrogado, de
+forma justificada, por igual período, quando houver necessidade de diligências para a
+aferição do atendimento das exigências contratuais ou quando ocorrem eventos fortuitos
+devidamente justificados pela contratante e cientificada a contratada.
+
+7.33. No caso de controvérsia sobre a execução do objeto, quanto à dimensão, qualidade
+e quantidade, deverá ser observado o teor do art. 143 da Lei nº 14.133, de 2021,
+comunicando-se à empresa para emissão de Nota Fiscal no que concerne à parcela
+incontroversa da execução do objeto, para efeito de liquidação e pagamento.
+
+7.34. O prazo para a solução, pelo Contratado, de inconsistências na execução do objeto
+ou de saneamento da nota fiscal ou de instrumento de cobrança equivalente, verificadas
+
+Modelo de TR para Aquisição de Bens de TIC
+
+Versão: jul/2023 11 de 17
+Aprovado pela Diretoria de Gestão de Recursos de TISGD/MGI
+
+
+pela Administração durante a análise prévia à liquidação de despesa, não será computado
+para os fins do recebimento definitivo.
+
+7.35. O recebimento provisório ou definitivo não excluirá a responsabilidade civil pela
+solidez pela segurança do serviço nem a responsabilidade ético-profissional pela
+perfeita execução do contrato.
+
+Liquidação
+
+7.36. Recebida a Nota Fiscal ou documento de cobrança equivalente, correrá o prazo de
+dez dias úteis a partir do recebimento definitivo para fins de liquidação, na forma
+desta seção, prorrogáveis por igual período, nos termos do art. 7º, S2º da Instrução
+Normativa SEGES/ME nº 77/2022.
+
+7.37. Para fins de liquidação, o setor competente deverá verificar se a nota fiscal ou
+instrumento de cobrança equivalente apresentado expressa os elementos necessários e
+essenciais do documento, tais como:
+
+7T.37.1. o prazo de validade;
+
+7T.37.2. a data da emissão;
+
+7T.37.3. os dados do contrato e do órgão Contratante;
+
+7T.37.A. o período respectivo de execução do contrato;
+
+7T.37.5. o valor a pagar; e
+
+7T.37.6. eventual destaque do valor de retenções tributárias cabíveis.
+
+7.38. Havendo erro na apresentação da nota fiscal ou instrumento de cobrança
+
+equivalente, ou circunstância que impeça a liquidação da despesa, esta ficará
+sobrestada até que o Contratado providencie as medidas saneadoras, reiniciando-se o
+prazo após a comprovação da regularização da situação, sem ônus ao Contratante;
+
+7.39. A nota fiscal ou instrumento de cobrança equivalente deverá ser obrigatoriamente
+acompanhado da comprovação da regularidade fiscal, constatada por meio de consulta on-
+line ao SICAF ou, na impossibilidade de acesso ao referido Sistema, mediante consulta
+aos sítios eletrônicos oficiais ou à documentação mencionada no art. 68 da Lei nº
+14.133, de 2021.
+
+7.40. AÀA Administração deverá realizar consulta ao SICAF para:
+a) verificar a manutenção das condições de habilitação exigidas no edital;
+b) identificar possível razão que impeça a participação em licitação, no âmbito do
+
+órgão ou entidade, que implique proibição de contratar com o Poder Público, bem como
+ocorrências impeditivas indiretas.
+
+7.41. Constatando-se, junto ao SICAF, a situação de irregularidade do Contratado, será
+providenciada sua notificação, por escrito, para que, no prazo de 5 (cinco) dias úteis,
+regularize sua situação ou, no mesmo prazo, apresente sua defesa. O prazo poderá ser
+prorrogado uma vez, por igual período, a critério do Contratante.
+
+7.42. Não havendo regularização ou sendo a defesa considerada improcedente, o
+Contratante deverá comunicar aos órgãos responsáveis pela fiscalização da regularidade
+fiscal quanto à inadimplência do Contratado, bem como quanto à existência de pagamento
+a ser efetuado, para que sejam acionados os meios pertinentes necessários para
+garantir o recebimento de seus créditos.
+
+7.43. Persistindo a irregularidade, o Contratante deverá adotar as medidas necessárias
+à rescisão contratual nos autos do processo administrativo correspondente, assegurada
+ao Contratado a ampla defesa.
+
+7.44. Havendo a efetiva execução do objeto, os pagamentos serão realizados normalmente,
+até que se decida pela rescisão do contrato, caso o Contratado não regularize sua
+situação junto ao SICAF.
+
+Prazo de pagamento
+
+Modelo de TR para Aquisição de Bens de TIC
+
+Versão: jul/2023 12 de 17
+Aprovado pela Diretoria de Gestão de Recursos de TISGD/MGI
+
+
+7.45. O pagamento será efetuado no prazo de até 10 (dez) dias úteis contados da
+finalização da liquidação da despesa, conforme seção anterior, nos termos da Instrução
+Normativa SEGES/ME nº 77, de 2022.
+
+7.46. No caso de atraso pelo Contratante, os valores devidos ao Contratado serão
+atualizados monetariament ntre o termo final do prazo de pagamento até a data de sua
+efetiva realização, mediante aplicação do índice IPCA de correção monetária.
+
+Forma de pagamento
+
+7.47. O pagamento será realizado por meio de ordem bancária, para crédito em banco,
+agência e conta corrente indicados pelo Contratado.
+
+7.48. Será considerada data do pagamento o dia em que constar como emitida a ordem
+bancária para pagamento.
+
+7.49. Quando do pagamento, será efetuada a retenção tributária prevista na legislação
+aplicável.
+
+7.50. Independentemente do percentual de tributo inserido na planilha, quando houver,
+serão retidos na fonte, quando da realização do pagamento, os percentuais estabelecidos
+na legislação vigente.
+
+7.51. O Contratado regularmente optante pelo Simples Nacional, nos termos da Lei
+Complementar nº 123, de 2006, não sofrerá a retenção tributária quanto aos impostos e
+contribuições abrangidos por aquele regime. No entanto, o pagamento ficará condicionado
+à apresentação de comprovação, por meio de documento oficial, de que faz jus ao
+tratamento tributário favorecido previsto na referida Lei Complementar.
+
+8. Do reajuste
+
+8.1. Será adotado como índice de reajuste do Contrato o Índice de Custos de Tecnologia
+da Informação - ICTI.
+
+9. Critérios de seleção do fornecedor
+Forma de seleção e critério de julgamento da proposta
+9.1. O fornecedor será selecionado por meio da realização de procedimento de LICITAÇÃO,
+
+na modalidade PREGÃO, sob a forma ELETRÔNICA, com adoção do critério de julgamento pelo
+MENOR PREÇO.
+
+9.2. A forma de fornecimento será por aquisição única e integral do objeto.
+
+Da Aplicação da Margem de Preferência
+
+9.3. Não será aplicada margem de preferência na presente contratação.
+
+Exigências de habilitação
+
+9.4. Para fins de habilitação, deverá o licitante comprovar os seguintes requisitos:
+Habilitação jurídica
+
+9.4.1. Pessoa física: cédula de identidade (RG) ou documento equivalente que, por força
+de lei, tenha validade para fins de identificação em todo o território nacional;
+
+9.4.2. Empresário individual: inscrição no Registro Público de Empresas Mercantis, a
+cargo da Junta Comercial da respectiva sede;
+
+Modelo de TR para Aquisição de Bens de TIC
+
+Versão: jul/2023 13 de 17
+Aprovado pela Diretoria de Gestão de Recursos de TISGD/MGI
+
+
+9.4.3. Microempreendedor Individual - MEI: Certificado da Condição de Microempreendedor
+
+Individual - CCMEI, cuja aceitação ficará condicionada à verificação da autenticidade
+no sítio https://www.gov.br/empresas-e-negocios/pt-br/empreendedor;
+
+9.4.4. Sociedade empresária, sociedade limitada unipessoal - SLU ou sociedade
+identificada como empresa individual de responsabilidade limitada - EIRELI: inscrição
+
+do ato constitutivo, estatuto ou contrato social no Registro Público de Empresas
+Mercantis, a cargo da Junta Comercial da respectiva sede, acompanhada de documento
+comprobatório de seus administradores;
+
+9.4.5. Sociedade empresária estrangeira: portaria de autorização de funcionamento no
+Brasil, publicada no Diário Oficial da União e arquivada na Junta Comercial da unidade
+federativa onde se localizar a filial, agência, sucursal ou stabelecimento, a qual
+será considerada como sua sede, conforme Instrução Normativa DREI/ME n.º 77, de 18 de
+março de 2020;
+
+9.4.6. Sociedade simples: inscrição do ato constitutivo no Registro Civil de Pessoas
+Jurídicas do local de sua sede, acompanhada de documento comprobatório de seus
+administradores;
+
+9.4.7. Filial, sucursal ou agência de sociedade simples ou empresária: inscrição do ato
+constitutivo da filial, sucursal ou agência da sociedade simples ou empresária,
+respectivamente, no Registro Civil das Pessoas Jurídicas ou no Registro Público de
+Empresas Mercantis onde opera, com averbação no Registro onde tem sede a matriz;
+
+9.4.8. Sociedade cooperativa: ata de fundação e estatuto social, com a ata da
+assembleia que o aprovou, devidamente arquivado na Junta Comercial ou inscrito no
+Registro Civil das Pessoas Jurídicas da respectiva sede, além do registro de que trata
+o art. 107 da Lei nº 5.764, de 16 de dezembro 1971;
+
+9.4.9. Os documentos apresentados deverão estar acompanhados de todas as alterações ou
+da consolidação respectiva;
+
+Habilitação fiscal, social e trabalhista
+
+9.4.10. Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas ou no Cadastro de
+Pessoas Físicas, conforme o caso;
+
+9.4.11. Prova de regularidade fiscal perante a Fazenda Nacional, mediante apresentação
+de certidão expedida conjuntamente pela Secretaria da Receita Federal do Brasil (RFB) e
+pela Procuradoria-Geral da Fazenda Nacional (PGEFN), referente a todos os créditos
+tributários federais e à Dívida Ativa da União (DAU) por elas administrados, inclusive
+aqueles relativos à Seguridade Social, nos termos da Portaria Conjunta nº 1.751, de 02
+de outubro de 2014, do Secretário da Receita Federal do Brasil e da Procuradora-Geral
+da Fazenda Nacional.
+
+9.4.12. Prova de regularidade com o Fundo de Garantia do Tempo de Serviço (FGTS);
+
+9.4.13. Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho,
+mediante a apresentação de certidão negativa ou positiva com efeito de negativa, nos
+termos do Título VII-A da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei
+nº 5.452, de 1º de maio de 1943;
+
+9.4.14. Prova de inscrição no cadastro de contribuintes estadual relativo ao domicílio
+ou sede do fornecedor, pertinente ao seu ramo de atividade e compatível com o objeto
+contratual;
+
+9.4.15. Prova de regularidade com a Fazenda estadual do domicílio ou sede do
+fornecedor, relativa à atividade em cujo exercício contrata ou concorre;
+
+9.4.16. Caso o fornecedor seja considerado isento dos tributos estaduais relacionados
+ao objeto contratual, deverá comprovar tal condição mediante a apresentação de
+declaração da Fazenda respectiva do seu domicílio ou sede, ou outra equivalente, na
+forma da lei;
+
+9.4.17. O fornecedor enquadrado como microempreendedor individual que pretenda auferir
+os benefícios do tratamento diferenciado previstos na Lei Complementar n. 123, de 2006,
+
+Modelo de TR para Aquisição de Bens de TIC
+
+Versão: jul/2023 14 de 17
+Aprovado pela Diretoria de Gestão de Recursos de TISGD/MGI
+
+
+estará dispensado da prova de inscrição nos cadastros de contribuintes estadual e
+municipal;
+
+Qualificação Econômico-Financeira
+
+9.4.18. Certidão negativa de insolvência civil expedida pelo distribuidor do domicílio
+ou sede do licitante, caso se trate de pessoa física, desde que admitida a sua
+participação na licitação (art. 5º, inciso II, alínea “c”, da Instrução Normativa Seges
+
+)
+
+/ME nº l116, de 2021), ou de sociedade simples;
+
+9.4.19. Certidão negativa de falência expedida pelo distribuidor da sede do fornecedor
+- Lei nº 14.133, de 2021, art. 69, caput, inciso IL);
+
+9.4.20. Balanço patrimonial, demonstração de resultados de exercício e demais
+demonstrações contáveis dos 2 (dois) últimos exercício sociais, comprovando:
+
+9.4.20.1. índices de Liquidez Geral (LG), Liquidez Corrente (LC), e Solvência
+Geral (SG) superiores a 1 (um);
+
+9.4.20.2. As empresas criadas no exercício financeiro da licitação deverão atender
+a todas as exigências da habilitação e poderão substituir os demonstrativos
+contábeis pelo balanço de abertura;
+
+9.4.20.3. Os documentos referidos acima limitar-se-ão ao último exercício no caso
+de a pessoa jurídica ter sido constituída há menos de 2 (dois) anos;
+
+9.4.20.4. Os documentos referidos acima deverão ser exigidos com base no limite
+definido pela Receita Federal do Brasil para transmissão da Escrituração Contábil
+Digital - ECD ao Sped.
+
+9.4.21. Caso a empresa licitante apresente resultado inferior ou igual a 1 (um) em
+qualquer dos índices de Liquidez Geral (LG), Solvência Geral (SG) e Liquidez Corrente
+(LC), será exigido para fins de habilitação capital mínimo de 10% do valor total
+estimado da contratação;
+
+9.4.22. As empresas criadas no exercício financeiro da licitação deverão atender a
+todas as exigências da habilitação e poderão substituir os demonstrativos contábeis
+pelo balanço de abertura. (Lei nº 14.133, de 2021, art. 65, S1º);
+
+9.4.23. O atendimento dos índices econômicos previstos neste item deverá ser atestado
+mediante declaração assinada por profissional habilitado da área contábil, apresentada
+pelo fornecedor;
+
+Qualificação Técnica
+
+9.4.24.Comprovação de aptidão para fornecimento de bens similares em qualidade, em
+quantidade igual ou superior a 50% da quantidade objeto desta contratação.
+
+9.4.24.1. Será admitida, para fins de comprovação de quantitativo mínimo, a
+apresentação e o somatório de diferentes atestados executados de forma
+concomitante.
+
+9.4.24.2. Os atestados de capacidade técnica poderão ser apresentados em nome da
+matriz ou da filial do fornecedor.
+
+9.4.24.3. O fornecedor disponibilizará todas as informações necessárias à
+comprovação da legitimidade dos atestados, apresentando, quando solicitado pela
+Administração, cópia do contrato que deu suporte à contratação, endereço atual da
+Contratante e local em que foi executado o objeto contratado, dentre outros
+documentos.
+
+10. Estimativas do valor da contratação
+
+Valor (R$): 263.268,00
+
+Modelo de TR para Aquisição de Bens de TIC
+Versão: jul/2023 15 de 17
+Aprovado pela Diretoria de Gestão de Recursos de TISGD/MGI
+
+
+10.1. O custo estimado total da contratação é de R$ 263.268,00 (duzentos e sessenta e
+três mil, duzentos e sessenta e oito reais), conforme custos unitários apostos na
+planilha de formação de preços.
+
+11. Adequação orçamentária
+
+11.1. As despesas decorrentes da presente contratação correrão à conta de recursos
+específicos consignados do programa de financiamento do PRODESU e contrapartida do CREA-
+PE caso necessite de complementação do valor.
+
+11.2. O CONFEA por meio do Convênio nº 61/225 custeará o valor de R$ 247.872,58
+(duzentos e quarenta e sete mil, oitocentos e setenta e dois reais e cinquenta e oito
+centavos) por meio da conta orçamentária 6.2.2.1.1.02.04.01.001 - Transferências de
+Capital.
+
+11.3. O CREA-PE custeará eventual necessidade de complementação tendo em vista o preço
+estimado, no valor máximo de R$ 15.395,42 (quinze mil, trezentos noventa cinco
+reais e quarenta e dois centavos), por meio da conta orçamentária
+6.2.2.1.1.02.01.03.006-Equipamentos de Processamento de Dados.
+
+12. Responsáveis
+
+Todas as assinaturas eletrônicas seguem o horário oficial de Brasília e fundamentam-se no 83º do Art. 4º do Decreto nº 10.543, de 13 de novembro de
+2020.
+
+Despacho: Responsável pela condução do planejamento e pela elaboração dos artefatos.
+
+RERIVALDO DE AMARANTES
+
+Agente de contratação
+
+> ”
+t' Assinou eletronicamente em 29/08/2025 às 12:53:56.
+
+Despacho: Responsável pela área demandante e pela revisão dos artefatos.
+
+Documento assinado digitalmente LEONARDO DE ALBUQUERQUE MENEZES
+govbr s asaTeEeNTEes Gerente de TI
+
+Verifique em https://validar.iti.gov.br
+
+Despacho: Responsável pela revisão dos artefatos e pela elaboração do projeto PRODESU.
+
+FABIO VIRGINIO DE BARROS
+
+Analista Técnico
+
+Modelo de TR para Aquisição de Bens de TIC
+
+Versão: jul/2023 16 de 17
+Aprovado pela Diretoria de Gestão de Recursos de TISGD/MGI
+
+
+Modelo de TR para Aquisição de Bens de TIC
+
+Versão: jul/2023 17 de 17
+Aprovado pela Diretoria de Gestão de Recursos de TISGD/MGI
+
+
+UASG 389097 Termo de Referência 13/2025
+
+Lista de Anexos
+
+Atenção: Apenas arquivos nos formatos ".pdf", ".txt", ".jpg”, ".jpeg", ".gif” e ".png" enumerados abaixo são anexados
+diretamente a este documento.
+
+* Anexol-23-VWValor de Referencia assinado Notebooks Fiscalizaca assinado.pdf (481.39 KB)
+* Anexoll-25-Disponibilidade Orcamentaria Assinada..pdf (77.47 KB)
+
+
+SERVIÇO PÚBLICO FEDERAL
+CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE PERNAMBUCO
+COORDENAÇÃO DE CONTRATOS E CONVÊNIOS
+
+CcT- 12025 | ARP- 12025 | PGE-006/2025| PL-200263669-21/2025
+
+CONTRATO Nº CT-XXX/2025, QUE CELE-
+BRAM O CONSELHO REGIONAL DE ENGE-
+NHARIA E AGRONOMIA DE PERNAMBUCO
+(CREA-PE) E A EMPRESA [NOME EMPRE-
+SARIAL], NA FORMA ABAIXO:
+
+Pelo presente instrumento contratual, de um lado, o
+
+m CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE PERNAMBUCO
+ª (CREA-PE), autarquia federal de fiscalização profissional, condição instituída pelo
+S art. 80 da Lei n. 5.194/66, inscrita no CNPJ/MF sob o n. 09.795.881/0001-59, com
+sede à Av. Gov. Agamenon Magalhães, n. 2.978, Espinheiro, Recife/PE, CEP: 52.020-000, e
+atualmente instalada à Rua da Hora, n. 570, Espinheiro, Recife/PE, CEP: 52.020-015, por seu
+Presidente, o Eng. Civ. Adriano Antônio de Lucena, brasileiro, registrado no CREA-PE sob
+o n. 1804279277, residente na cidade de Recife/PE, doravante denominado simplesmente
+CREA-PE,
+
+e, do outro lado, a empresa
+
+5 [NOME EMPRESARIAL], pessoa jurídica de direito privado, inscrita no CNPJ/MF
+sob o n. [00.000.000/0000-00], com sede à [Endereço completo: logradouro,
+número, complemento, bairro, cidade/UF, CEP: 00.000-000], por seu
+Representante Legal, na forma de seus atos constitutivos, o Sr. [Nome Completol],
+[nacionalidade], [profissão], inscrito no CPF/MF sob o n. [000.000.000-00], residente na
+cidade de [Cidade/UF], , doravante denominado simplesmente CONTRATADA,
+
+— sujeitando-se às disposições legais contidas no art. 75 da Lei n. 14.133/21 e, no que
+w couber, nas alterações posteriores, resolvem celebrar o CONTRATO N. CT-
+
+KXXI2025] oriundo do PREGÃO ELETRÔNICO N. PGE-006/2025, este
+proveniente do PROCESSO DE AQUISIÇÃO DE BENS E SERVIÇOS N. PABS-012/2025-
+GTI, e processada por meio do PROTOCOLO SITAC N. PT- 200263669/2025, tendo, entre
+si, justas e acordadas, a contratação ora ajustada, mediante as cláusulas e condições
+discriminadas abaixo:
+
+Cláusula 1º
+
+OBJETO DO CONTRATO
+
+1.1. — Constitui objeto do CT-XXX/2025 objeto a aquisição de notebooks, destinados a
+
+atender às necessidades do CREA-PE, nas quantidades, condições e exigências
+
+estabelecidas no edital do PGE-006/2025 e seus anexos, conforme quadro descrito abaixo:
+ITEM | CATMAT DESCRIÇÃO MEDIDA QTD. VAL.UNIT. VAL.TOTAL
+
+1 | 630109 Qêfggg'êfgªgº Core 15 | ynidade 28 | R$0.000,00 | R$ 0.000,00
+
+Notebook Intermediário :
+2 630109 | coreji7 16Gb 256Gb ssp, | Unidade o3 R$ 0.000,00 | R$ 0.000,00
+
+Í[' Av. Gov. Agamenon Magalhães, nº 2.978, Espinheiro, Recife/PE, CEP: 52.020-000 | (O (81) 3423-4383
+A www.creape.org.br | contratos&Acreape.org.br
+
+
+SERVIÇO PÚBLICO FEDERAL
+CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE PERNAMBUCO
+COORDENAÇÃO DE CONTRATOS E CONVÊNIOS
+
+CcT- 12025 | ARP- 12025 | PGE-006/2025| PL-200263669-21/2025
+
+Notebook Avançado Core ;
+3 630109 i7 32Gb 1Tb SSD. Unidade o1 R$ 0.000,00 | R$ 0.000,00
+
+1.1.1. Item 1: Notebook básico administrativo:
+
+1.1.1.1. Processador i5-1235 ou seu equivalente AMD de 12º geração, com no mínimo
+10 cores, cache de 12MB, até 4.4GHz;
+
+1.1.1.2. Tela Full HD de 15"" (1920 x 1080);
+
+1.1.1.3. Memória de 8GB DDR4 (1x8GB), não serão aceitos módulos soldados;
+1.1.1.4. Placa de vídeo com memória gráfica compartilhada;
+
+1.1.1.5. Armazenamento mínimo SSD de 256GB PCle NVMe M.2;
+
+1.1.1.6. Teclado retroiluminado, numérico e em português;
+
+1.1.1.7. Portas de comunicação mínimas com: 2 USB 3.1 Gen 1; 1 USB 2.0; 1 HDMI
+
+1.4b;1 RJ-45; 1 combo de fone de ouvido/microfone; 1 alimentação CA e funções de áudio
+com dois alto-falantes estéreo;
+
+1.1.1.8. Sistema Operacional Windows 11 Pro 64bits, devido a compatibilidade com os
+demais sistemas corporativos e legados do CREA-PE;
+
+1.1.1.9. Wireless Intel& Wi-Fi 6 AX201, 2x2, 802.11ax, placa de rede wireless com
+Bluetooth€&;
+
+1.1.1.10. Bateria mínima de 4 células (integrada);
+
+1.1.1.11. Fonte de alimentação adaptador (Bivolt);
+
+1.1.1.12. Cabo de força;
+
+1.1.1.13. Driver do sistema Windows;
+
+1.1.1.14. Garantia mínima de 3 anos de serviço e suporte.
+
+1.1.2. Item 2: Notebook intermediário para georreferenciamento:
+
+1.1.2.1. Processador CoreTM i7-13650HX de 13a geração ou seu equivalente, com no
+mínimo 14 cores, cache de 24MB, até 4.9GHz;
+
+1.1.2.2. Tela Full HD de 15.6"" (1920 x 1080);
+
+1.1.2.3. Placa de vídeo RTXTM 3050, 6GB GDDR6 ou sua equivalência em
+desempenho;
+
+1.1.2.4. Memória mínima de 16GB DDR5 (1xX16GB) 4800MT/s, não serão aceitos
+módulos soldados;
+
+1.1.2.5. Armazenamento mínimo SSD de 256GB PCle NVMe M.2;
+
+1.1.2.6. Teclado retroiluminado, numérico e em português;
+
+1.1.2.7. Portas de comunicação mínimas com: 2 USB 3.1 Gen 1; 1 USB 2.0; 1 HDMI
+
+1.4b;1 RJ-45; 1 combo de fone de ouvido/microfone; 1 alimentação CA e funções de áudio
+com dois alto-falantes estéreo;
+
+1.1.2.8. Câmera HD RGB de 720p a 30 fps com microfone único integrado;
+
+1.1.2.9. Sistema Operacional Windows 11 Pro 64bits, devido a compatibilidade com os
+demais sistemas corporativos e legados do CREA-PE;
+
+1.1.2.10. Wireless 2x2, 802.11ax, placa de rede wireless com Bluetoothê&;
+
+1.1.2.11. Fonte de alimentação adaptador (Bivolt);
+
+1.1.2.12. Cabo de força;
+
+1.1.2.13. Driver do sistema Windows.
+
+Í[' Av. Gov. Agamenon Magalhães, nº 2.978, Espinheiro, Recife/PE, CEP: 52.020-000 | (O (81) 3423-4383
+A www.creape.org.br | contratos&Acreape.org.br
+
+
+SERVIÇO PÚBLICO FEDERAL
+CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE PERNAMBUCO
+COORDENAÇÃO DE CONTRATOS E CONVÊNIOS
+
+CcT- 12025 | ARP- 12025 | PGE-006/2025| PL-200263669-21/2025
+
+1.1.3. Item 3: Notebook avançado para georreferenciamento:
+
+1.1.3.1. Processador CoreTM i7-13650HX de 13º geração, ou seu equivalente, com no
+mínimo 14 cores, cache de 24MB, até 4.9GHz;
+
+1.1.3.2. Tela Full HD de 15.6" (1920 x 1080);
+
+1.1.3.3. Memória de 32GB DDRS5 (2x16GB), não serão aceitos módulos soldados;
+1.1.3.4. Armazenamento SSD de 1T1TB PCle NVMe M.2;
+
+1.1.3.5. Teclado retroiluminado RGB 4-zones, numérico e em português;
+
+1.1.3.6. Portas de comunicação mínimas com: 2 USB 3.1 Gen 1; 1 USB 2.0; 1 HDMI
+
+1.4b;1 RJ-45; 1 combo de fone de ouvido/microfone; 1 alimentação CA e funções de áudio
+com dois alto-falantes estéreo;
+
+1.1.3.7. Câmera HD RGB de 720p a 30 fps com microfone único integrado;
+
+1.1.3.8. Sistema Operacional Windows 11 Pro 64bits;
+
+1.1.3.9. Wireless 2x2, 802.11ax, placa de rede wireless com Bluetooth€&;
+
+1.1.3.10. Bateria mínima de 4 células (integrada);
+
+1.1.3.11. Fonte de alimentação adaptador (Bivolt);
+
+1.1.3.12. Cabo de força;
+
+1.1.3.13. Placa de vídeo RTXTM 4050, 6GB GDDR6 ou sua equivalência em
+desempenho;
+
+1.1.3.14. Driver do sistema Windows;
+
+1.1.4. Todos os notebooks devem possuir 36 (trinta e seis) meses de garantia, podendo ser
+o somatório da garantia do fabricante com a garantia estendida do fornecedor.
+1.1.5. Todos os notebooks devem vir em embalagens devidamente lacrada.
+
+Cláusula 2º
+
+VALOR E DOTAÇÃO ORÇAMENTÁRIA
+
+21. Ovalor global estimado da contratação é de R$ 0.000,00 (zero mil e zero reais e
+zero centavos), incluídas no valor discriminado todas as despesas ordinárias diretas e
+indiretas decorrentes da execução do objeto contratual, até mesmo tributos e/ou impostos,
+encargos sociais, trabalhistas, previdenciários, fiscais e comerciais incidentes, taxa de
+administração, frete, seguro e/ou outros necessários ao cumprimento integral da contratação.
+2.2. As obrigações financeiras assumidas no CT-XXX/2025 correrão por conta dos
+recursos da seguinte dotação orçamentária:
+
+2.2.1. As despesas decorrentes da presente contratação correrão à conta de recursos
+específicos consignados do programa de financiamento do PRODESU e contrapartida do
+CREA-PE caso necessite de complementação do valor.
+
+2.2.2. O CONFEA, por meio do Convênio n. 61/2025, custeará o valor de R$ 247.872,58
+(duzentos e quarenta e sete mil, oitocentos e setenta e dois reais e cinquenta e oito centavos)
+por meio da conta orçamentária 6.2.2.1.1.02.04.01.001 — Transferências de Capital.
+
+2.2.3. O CREA-PE custeará eventual necessidade de complementação, tendo em vista o
+preço estimado, no valor máximo de R$ 15.395,42 (quinze mil, trezentos e noventa e cinco
+reais e quarenta e dois centavos), por meio da conta orçamentária 6.2.2.1.1.02.01.03.006 —
+Equipamentos de Processamento de Dados.
+
+Í[' Av. Gov. Agamenon Magalhães, nº 2.978, Espinheiro, Recife/PE, CEP: 52.020-000 | (O (81) 3423-4383
+A www.creape.org.br | contratos&Acreape.org.br
+
+
+SERVIÇO PÚBLICO FEDERAL
+CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE PERNAMBUCO
+COORDENAÇÃO DE CONTRATOS E CONVÊNIOS
+
+CcT- 12025 | ARP- 12025 | PGE-006/2025| PL-200263669-21/2025
+
+2.3. Findo o exercício financeiro em curso, serão emitidos novos empenhos para
+complementação dos respectivos créditos orçamentários e custeio das obrigações financeiras
+assumidas no CT-XXX/2025.
+
+Cláusula 3º
+
+PRAZO DE VIGÊNCIA E PRORROGAÇÃO
+
+3.1.  O CT-XXX/2025 terá a duração de 12 (doze) meses, com início em XX/XX/XXXX e
+término em XX/XX/XXXX, podendo ser prorrogado com as devidas justificativas técnicas
+avaliadas pelo fiscal e pelo gestor do contrato, na forma dos arts. 106 e 107 da Lei n.
+14.133/21, mediante elaboração do competente termo aditivo.
+
+Cláusula 4º
+
+CONDIÇÕES GERAIS DE EXECUÇÃO E GESTÃO CONTRATUAIS
+
+4.1. Oregime de execução do CT-XXX/2025 os modelos de gestão e de execução, assim
+como os prazos e condições de conclusão, entrega, observação e recebimento do objeto
+constam no termo de referência (TR).
+
+Cláusula 5º
+SUBCONTRATAÇÃO
+5.1. . Não será admitida a subcontratação total do objeto do CT-XXX/2025.
+
+Cláusula 6º
+CRITÉRIOS DE MEDIÇÃO E PAGAMENTO
+
+6.1. " Do Recebimento:
+
+6.1.1. Os bens serão recebidos provisoriamente, de forma sumária, no prazo de 5 (cinco)
+dias úteis a partir da entrega dos produtos, pelo(a) responsável pelo acompanhamento e
+fiscalização do CT-XXX/2025, para efeito de posterior verificação de sua conformidade com
+as especificações constantes no Termo de Referência (TR) e na proposta.
+
+6.1.2. Os bens poderão ser rejeitados, no todo ou em parte, inclusive antes do recebimento
+provisório, quando em desacordo com as especificações constantes no TR e na proposta,
+devendo ser substituídos no prazo de 15 (quinze) dias, a contar da notificação da
+CONTRATADA, às suas custas, sem prejuízo da aplicação das penalidades.
+
+6.1.3. O recebimento definitivo ocorrerá no prazo de 10 (dez) dias uteis, a contar do
+recebimento pelo CREA-PE da nota fiscal/fatura, ou documento de cobrança equivalente,
+após a verificação da qualidade e quantidade do material e consequente aceitação mediante
+termo detalhado.
+
+6.1.4. O prazo para recebimento definitivo poderá ser excepcionalmente prorrogado, de
+forma justificada, por igual período, quando houver necessidade de diligências para a aferição
+do atendimento das exigências contratuais ou quando ocorrem eventos fortuitos devidamente
+justificados pelo CREA-PE e cientificada a contratada.
+
+6.1.5. No caso de controvérsia sobre a execução do objeto, quanto a dimensão, quantidade
+e qualidade, deverá ser observado o teor do art. 143 da Lei 14.133/21, comunicando-se à
+
+Í[' Av. Gov. Agamenon Magalhães, nº 2.978, Espinheiro, Recife/PE, CEP: 52.020-000 | (O (81) 3423-4383
+A www.creape.org.br | contratos&Acreape.org.br
+
+
+SERVIÇO PÚBLICO FEDERAL
+CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE PERNAMBUCO
+COORDENAÇÃO DE CONTRATOS E CONVÊNIOS
+
+CcT- 12025 | ARP- 12025 | PGE-006/2025| PL-200263669-21/2025
+
+CONTRATADA, para emissão de nota fiscal/fatura, ou documento de cobrança equivalente,
+no que pertence à parcela incontroversa da execução do objeto, para efeito de liquidação e
+pagamento.
+
+6.1.6. O prazo para solução, pela CONTRATADA, de inconsistências na execução do objeto
+contratual ou de saneamento da nota fiscal/fatura, ou documento de cobrança equivalente,
+verificadas pelo CREA-PE, durante a análise prévia à liquidação de despesa, não será
+computado, para fins de recebimento definitivo.
+
+6.1.7. O recebimento provisório ou definitivo não excluirá a responsabilidade civil pela solidez
+e pela segurança do serviço nem a responsabilidade ético-profissional pela perfeita execução
+do CT-XXX/2025.
+
+6.2. Daliquidação:
+
+6.2.1. Recebida a nota fiscal/fatura, ou documento de cobrança equivalente, correrá o prazo
+de 10 (dez) dias úteis, para fins de liquidação, na forma desta seção, prorrogáveis por igual
+período, nos termos do art. 7º, 8 3º, da Instrução Normativa SEGES/ME n. 77/202?.
+
+6.2.1.1. Para fins de liquidação, o CREA-PE deverá verificar se a nota fiscal/fatura, ou
+documento de cobrança equivalente, expressa seus elementos necessários e essenciais, tais
+como:
+
+6.2.1.1.1. O prazo de validade;
+
+6.2.1.1.2. A data da emissão;
+
+6.2.1.1.3. Os dados do CT-XXX/2025 e do CREA-PE;
+
+6.2.1.1.4. O período de execução do CT-XXX/2025;
+
+6.2.1.1.5. O valor a pagar; e
+
+6.2.1.1.6. Eventual destaque do valor de retenções tributárias cabíveis.
+
+6.2.1.2. Havendo erro na apresentação da nota fiscal/fatura, ou documento de cobrança
+equivalente, ou circunstância que impeça a liquidação da despesa, esta ficará sobrestada até
+que a CONTRATADA providencie as medidas saneadoras, reiniciando-se o prazo após a
+comprovação da regularizaçãoda situação, sem ônus ao CREA-PE;
+
+6.2.1.3. A nota fiscal/fatura, ou documento de cobrança equivalente, deverá ser
+obrigatoriamente acompanhado da comprovação da regularidade fiscal, constatada por meio
+de consulta online ao SICAF ou, na impossibilidade de acesso ao referido Sistema, mediante
+consulta aos sítios eletrônicos oficiais ou à documentação mencionada no art. 68 da Lei n.
+14.133/21;
+
+6.2.1.4. O CREA-PE deverá realizar consulta ao SICAF para:
+6.2.1.4.1. Verificar a manutenção das condições de habilitação exigidas;
+6.2.1.4.2. Identificar possível razão que impeça a contratação no âmbito do órgão ou
+
+entidade, tais como: a proibição de contratar com a Administração ou com o Poder Público,
+bem como ocorrências impeditivas indiretas (Instrução Normativa n. 3, de 26 de abril de 2018).
+6.2.1.5. Constatando-se, junto ao SICAF, a situação de irregularidade da
+CONTRATADA, será providenciada sua notificação, por escrito, para que, no prazo de 5
+(cinco) dias úteis, regularize sua situação ou, no mesmo prazo, apresente sua defesa, o qual
+poderá ser prorrogado uma única vez, por igual período, a critério do CREA-PE.
+
+6.2.1.6. Não havendo regularização ou sendo a defesa considerada improcedente, o
+CREA-PE deverá comunicar aos órgãos responsáveis pela fiscalização da regularidade fiscal
+
+Í[' Av. Gov. Agamenon Magalhães, nº 2.978, Espinheiro, Recife/PE, CEP: 52.020-000 | (O (81) 3423-4383
+A www.creape.org.br | contratos&Acreape.org.br
+
+
+SERVIÇO PÚBLICO FEDERAL
+CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE PERNAMBUCO
+COORDENAÇÃO DE CONTRATOS E CONVÊNIOS
+
+CcT- 12025 | ARP- 12025 | PGE-006/2025| PL-200263669-21/2025
+
+quanto à inadimplência da CONTRATADA, bem como quanto à existência de pagamento
+a ser efetuado, paraque sejam acionados os meios pertinentes e necessários para garantir
+o recebimento de seus créditos.
+
+6.2.1.7. Persistindo a irregularidade, o CREA-PE deverá adotar as medidas
+necessárias à rescisão contratual nos autos do processo administrativo correspondente,
+assegurada à CONTRATADA a ampla defesa.
+
+6.2.1.8. Havendo a efetiva execução do objeto, os pagamentos serão realizados
+normalmente, atéque se decida pela rescisão do contrato, caso a CONTRATADA não
+regularize sua situação junto ao SICAF.
+
+6.3. — Do Prazo de Pagamento:
+
+6.3.1. O pagamento será efetuado no prazo de até 10 (dez) dias úteis contados da finalização
+da liquidação da despesa, nos termos da Instrução Normativa SEGES/ME n. 77/202?2;
+
+6.3.2. No caso de atraso pelo CREA-PE, os valores devidos à CONTRATADA serão
+atualizados monetariamente entre o termo final do prazo de pagamento até a data de sua
+efetiva realização, mediante aplicação do Índice de Preços ao Consumidor Amplo (IPCA).
+6.4. Daformade Pagamento:
+
+6.4.1. O pagamento será realizado, por meio de ordem bancária, para crédito em banco,
+agência e conta corrente indicados pela CONTRATADA;
+
+6.4.2. Será considerada data do pagamento o dia em que constar como emitida a ordem
+bancária para pagamento;
+
+6.4.3. Quando do pagamento, o CREA-PE procederá com a retenção tributária prevista na
+legislação aplicável;
+
+6.4.4. Independentemente do percentual de tributo inserido na planilha, quando houver,
+serão retidos na fonte, quando da realização do pagamento, os percentuais estabelecidos na
+legislação vigente;
+
+6.4.5. A CONTRATADA regularmente optante pelo Simples Nacional, nos termos da Lei
+Complementar n. 123/06, não sofrerá a retenção tributária quanto aos impostos e
+contribuições abrangidos por aquele regime, ficando o pagamento, no entanto, condicionado
+à apresentação de comprovação, por meio de documento oficial, de que faz jus ao tratamento
+tributário favorecido previsto na referida Lei Complementar.
+
+Cláusula 7º
+SANÇÕES ADMINISTRATIVAS E PROCEDIMENTOS PARA RETENÇÃO OU
+GLOSA NO PAGAMENTO
+
+T.1. —Noscasos de inadimplemento na execução do objeto contratual, as ocorrências serão
+registradas pelo CREA-PE, conforme a tabela abaixo:
+
+ID OCORRÊNCIA GLOSA/SANÇÃO
+
+Multa de 0,5% (cinco décimos por cento)
+sobre o valor total da AF, por dia útil de atraso,
+até o limite de 10 (dez) dias úteis.
+
+Multa de 1% (um por cento) sobre o valor total
+da AF, por dia útil excedente, após o limite de
+10 (dez) dias úteis.
+
+Não entregar o(s) produto(s) no prazo
+1 | adequado, sem justificativa prévia aprovada
+pelo CREA-PE.
+
+Í[' Av. Gov. Agamenon Magalhães, nº 2.978, Espinheiro, Recife/PE, CEP: 52.020-000 | (O (81) 3423-4383
+A www.creape.org.br | contratos&Acreape.org.br
+
+
+SERVIÇO PÚBLICO FEDERAL
+CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE PERNAMBUCO
+COORDENAÇÃO DE CONTRATOS E CONVÊNIOS
+
+CcT- 12025 | ARP- 12025 | PGE-006/2025| PL-200263669-21/2025
+
+Multa de 0,5% (cinco décimos por cento)
+sobre o valor total da AF, por produto
+Entregar o(s) produto(s) com defeito(s) que | defeituoso, até o limite de 5 (cinco) produtos.
+
+2 impossibilite(m) o uso. Multa de 10% (dez por cento) sobre o valor
+total da AF, após o limite de 5 (cinco)
+produtos.
+
+dNãr?i ficarãã?szf rno ? raâ?%ítabª?eciãgºggt?r(lâ) Multa de 1% (um por cento) sobre o valor total
+3 ? P ' | da AF, por dia útil de atraso, até o limite de 10
+
+ou não enviar o(s) acessório(s) faltante(s),
+após a comunicação do CREA-PE.
+
+7.2. OCREA-PE efetuará a retenção ou glosa no pagamento, proporcional à irregularidade
+verificada, sem prejuízo de outras sanções administrativas cabíveis, conforme previsto no art.
+19, IIl, da Instrução Normativa SGD/ME n. 94/202?2.
+
+(dez) dias úteis.
+
+Cláusula 8º
+
+REAJUSTE DO CONTRATO
+
+8.1. OCTXXX/2025 poderá ser repactuado, desde que observado o interregno mínimo de
+1 (um) ano, a contar da data da proposta, ou da data do orçamento a que a proposta se referir,
+ou, ainda, da data da última repactuação, visando a adequação aos novos preços de mercado
+e a demonstração analítica da variação dos componentes de custos da contratação,
+devidamente justificada.
+
+8.2. Após o interregno de um ano, e independentemente de pedido do contratado, os
+preços iniciais serão reajustados, mediante a aplicação, pelo CREA-PE, do Índice de Custos
+de Tecnologia da Informação (ICTI), exclusivamente para as obrigações iniciadas e concluídas
+após a ocorrência da anualidade.
+
+8.3. — Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será contado
+a partir dos efeitos financeiros do último reajuste.
+
+8.4. Nocaso de atraso ou não divulgação do(s) índice (s) de reajustamento, o CREA-PE
+pagará ao contratado a importância calculada pela última variação conhecida, liquidando a
+diferença correspondente tão logo seja(m) divulgado(s) o(s) índice(s) definitivo(s).
+
+8.5. Nas  aferições finais, o(s) índice(s) utilizado(s) para reajuste será(ão),
+obrigatoriamente, o(s) definitivo(s).
+
+8.6. Caso o(s) índice(s) estabelecido(s) para reajustamento venha(m) a ser extinto(s) ou
+de qualquer forma não possa(m) mais ser utilizado(s), será(ão) adotado(s), em substituição,
+O(s) que vier(em) a ser determinado(s) pela legislação então em vigor.
+
+8./. — Na ausência de previsão legal quanto ao índice substituto, as partes elegerão novo
+Índice oficial, para reajustamento do preço do valor remanescente, por meio de termo aditivo.
+8.8. ..Oreajuste será realizado por apostilamento.
+
+Cláusula 9º
+
+OBRIGAÇÕES CONTRATUAIS
+
+9.1. Sãoobrigações do CREA-PE:
+
+9.1.1. Nomear Gestor e Fiscal(is) Técnico e Administrativo do CT-XXX/2025, para
+acompanhar e fiscalizar a execução contratual;
+
+Í[' Av. Gov. Agamenon Magalhães, nº 2.978, Espinheiro, Recife/PE, CEP: 52.020-000 | (O (81) 3423-4383
+A www.creape.org.br | contratos&Acreape.org.br
+
+
+SERVIÇO PÚBLICO FEDERAL
+CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE PERNAMBUCO
+COORDENAÇÃO DE CONTRATOS E CONVÊNIOS
+
+CcT- 12025 | ARP- 12025 | PGE-006/2025| PL-200263669-21/2025
+
+9.1.2. Encaminhar formalmente a demanda, por meio de Autorização de Fornecimento (AF),
+de acordo com os critérios estabelecidos no Termo de Referência (TR);
+
+9.1.3. Aplicar à CONTRATADA as sanções administrativas regulamentares e contratuais
+cabíveis;
+
+9.1.4. Liquidar o empenho e efetuar o pagamento à CONTRATADA, dentro dos prazos
+preestabelecidos em CT-XXX/2025;
+
+9.1.5. Comunicar à CONTRATADA todas e quaisquer ocorrências relacionadas com o
+fornecimento da solução de TIC;
+
+9.1.6. Providenciar local adequado para recebimento dos itens.
+
+9.2. Sãoobrigações da CONTRATADA:
+
+9.2.1. Indicar formalmente preposto apto a representá-la junto ao CREA-PE, que deverá
+responder pela fiel execução do CT-XXX/2025;
+
+9.2.2. Atender prontamente quaisquer orientações e exigências da Gestão e/ou da
+Fiscalização Contratual, inerentes à execução do objeto contratado;
+
+9.2.3. Reparar quaisquer danos diretamente causados ao CREA-PE ou a terceiros, por culpa
+ou dolo de seus representantes legais, prepostos ou empregados, em decorrência da relação
+contratual, não excluindo ou reduzindo a responsabilidade da fiscalização ou o
+acompanhamento da execução dos serviços pelo CREA-PE;
+
+9.2.4. Propiciar todos os meios necessários à fiscalização do CT-XXX/2025 pelo CREA-PE,
+cujo representante terá poderes para sustar o fornecimento, total ou parcial, em qualquer
+tempo, desde que motivadas as causas e justificativas dessa decisão;
+
+9.2.5. Manter, durante toda a execução do CT-XXX/2025, as mesmas condições da
+habilitação;
+
+9.2.6. Quando especificada, manter, durante a execução do CT-XXX/2025, equipe técnica
+composta por profissionais devidamente habilitados, treinados e qualificados para
+fornecimento da solução de TIC.
+
+Cláusula 10º
+
+EXTINÇÃO CONTRATUAL
+
+10.1. O CT-XXX/2025 se extingue quando vencido o prazo nele estipulado,
+independentemente de terem sido cumpridas ou não as obrigações de ambas as PARTES.
+10.2. O CT-XXX/2025 pode ser extinto antes do prazo nele fixado, sem ônus para o CREA-
+PE, quando esta não dispuser de créditos orçamentários, para sua continuidade, ou quando
+entender que a contratação não mais lhe oferece vantagem.
+
+10.3. A extinção na hipótese do subitem 10.2. ocorrerá na próxima data de aniversário do
+CT-XXX/2025, desde que haja a notificação da CONTRATADA pelo CREA-PE, com pelo
+menos 2 (dois) meses de antecedência.
+
+10.4. Caso a notificação da não-continuidade do CT-XXX/2025 de que trata o subitem 10.3.
+ocorra com menos de 2 (dois) meses da data de aniversário, a extinção contratual ocorrerá
+após 2 (dois) meses da data da comunicação.
+
+10.5. O CT-XXX/2025 pode ser extinto antes de cumpridas as obrigações nele estipuladas,
+ou antes do prazo nele fixado, por algum dos motivos previstos no art. 137 da Lei n. 14.133/21,
+bem como amigavelmente, assegurados o contraditório e a ampla defesa.
+
+Í[' Av. Gov. Agamenon Magalhães, nº 2.978, Espinheiro, Recife/PE, CEP: 52.020-000 | (O (81) 3423-4383
+A www.creape.org.br | contratos&Acreape.org.br
+
+
+SERVIÇO PÚBLICO FEDERAL
+CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE PERNAMBUCO
+COORDENAÇÃO DE CONTRATOS E CONVÊNIOS
+
+CcT- 12025 | ARP- 12025 | PGE-006/2025| PL-200263669-21/2025
+
+10.6. Na hipótese prevista no subitem 10.5, aplicam-se também os arts. 138 e 139 da Lei n.
+14.133/21.
+
+10.7. A alteração social ou modificação da finalidade ou da estrutura do CREA-PE não
+ensejará rescisão se não restringir sua capacidade de concluir a execução do objeto
+contratual.
+
+10.8. Se a operação implicar mudança da pessoa jurídica, deverá ser formalizado termo
+aditivo para alteração subjetiva.
+
+10.9. Otermo de rescisão contratual, sempre que possível, será precedido:
+
+10.9.1. Balanço dos eventos contratuais já cumpridos ou parcialmente cumpridos;
+
+10.9.2. Relação dos pagamentos já efetuados e ainda devidos;
+
+10.9.3. Indenizações e multas.
+
+10.10. Qualquer das PARTES poderá rescindir o CT-XXX/2025 por qualquer motivo, antes do
+término do seu prazo de vigência, ficando dispensado do pagamento de qualquer multa,
+desde que mediante aviso prévio de, no mínimo, 30 (trinta) dias.
+
+Cláusula 11º
+
+FISCALIZAÇÃO DO CONTRATO
+
+11.1. A execução do CT-XXX/2025 deverá ser acompanhada e fiscalizada pelo servidor, ou
+pelo(s) respectivo(s) substituto(s), nos termos do art. 117, caput, da Lei n. 14.133/21,
+devidamente designado(s) por meio de Portaria da Presidência.
+
+11.2. O fiscal técnico do CT-XXX/2025 acompanhará o recebimento provisório e definitivo,
+por meio de atesto em nota fiscal/fatura, ou documento de cobrança equivalente, garantindo
+o efetivo recebimento dos bens com as características contratadas.
+
+Cláusula 12º
+
+OBRIGAÇÕES PERTINENTES À LGPD
+
+12.1. As PARTES deverão cumprir a Lei n. 13.709/18 (LGPD), quanto a todos os dados
+pessoais a que tenham acesso em razão do certame ou do contrato administrativo que
+eventualmente venha a ser firmado, a partir da apresentação da proposta no procedimento
+de contratação, independentemente de declaração ou de aceitação expressa.
+
+12.2. Os dados obtidos somente poderão ser utilizados para as finalidades que justificaram
+seu acesso e de acordo com a boa-fé e com os princípios do art. 6º da LGPD.
+
+12.3. É vedado o compartilhamento com terceiros dos dados obtidos fora das hipóteses
+permitidas em Lei.
+
+12.4. O CREA-PE deverá ser informada no prazo de 5 (cinco) dias úteis sobre todos os
+contratos de suboperação firmados ou que venham a ser celebrados pela CONTRATADA.
+12.5. Terminado o tratamento dos dados nos termos do art. 15 da LGPD, é dever da
+CONTRATADA eliminá-los, com exceção das hipóteses do art. 16 da LGPD, incluindo aquelas
+em que houver necessidade de guarda de documentação para fins de comprovação do
+cumprimento de obrigações legais ou contratuais e somente enquanto não prescritas essas
+obrigações.
+
+Í[' Av. Gov. Agamenon Magalhães, nº 2.978, Espinheiro, Recife/PE, CEP: 52.020-000 | (O (81) 3423-4383
+A www.creape.org.br | contratos&Acreape.org.br
+
+
+SERVIÇO PÚBLICO FEDERAL
+CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE PERNAMBUCO
+COORDENAÇÃO DE CONTRATOS E CONVÊNIOS
+
+CcT- 12025 | ARP- 12025 | PGE-006/2025| PL-200263669-21/2025
+
+12.6. É dever da CONTRATADA orientar e treinar seus empregados sobre os deveres,
+requisitos e responsabilidades decorrentes da LGPD.
+
+12.7.. ACONTRATADA deverá exigir de suboperadores e subcontratados o cumprimento dos
+deveres da presente cláusula, permanecendo integralmente responsável por garantir sua
+observância.
+
+12.8. O CREA-PE poderá realizar diligência para aferir o cumprimento dessa cláusula,
+devendo a CONTRATADA atender prontamente eventuais pedidos de comprovação
+formulados.
+
+12.9. A CONTRATADA deverá prestar, no prazo fixado pelo CREA-PE, prorrogável
+justificadamente, quaisquer informações acerca dos dados pessoais para cumprimento da
+LGPD, inclusive quanto a eventual descarte realizado.
+
+12.10. Bancos de dados formados a partir de contratos administrativos, notadamente aqueles
+que se proponham a armazenar dados pessoais, devem ser mantidos em ambiente virtual
+controlado, com registro individual rastreável de tratamentos realizados (art. 37 da LGPD),
+com cada acesso, data, horário e registro da finalidade, para efeito de responsabilização, em
+caso de eventuais omissões, desvios ou abusos.
+
+12.11. Os referidos bancos de dados devem ser desenvolvidos em formato interoperável, a
+fim de garantir a reutilização desses dados pela Administração nas hipóteses previstas na
+LGPD.
+
+12.12. O CT-XXX/2025 está sujeito a ser alterado nos procedimentos pertinentes ao
+tratamento de dados pessoais, quando indicado pela autoridade competente, em especial a
+ANPD por meio de opiniões técnicas ou recomendações, editadas na forma da LGPD.
+12.13. Os contratos e convênios de que trata o art. 26, $ 1º, da LGPD deverão ser
+comunicados à autoridade nacional.
+
+Cláusula 13º
+
+ALTERAÇÕES DO CONTRATO
+
+13.1. . Eventuais alterações contratuais reger-se-ão pela disciplina dos arts. 124 e seguintes
+da Lei n. 14.133/21.
+
+13.2. A CONTRATADA é obrigada a aceitar, nas mesmas condições contratuais, os
+acréscimos ou supressões que se fizerem necessários, até o limite de 25% (vinte e cinco por
+cento) do valor inicial atualizado do CT-XXX/2025.
+
+13.3. Registros que não caracterizam alteração do CT-XXX/2025 podem ser realizados por
+simples apostila, dispensada a celebração de termo aditivo, na forma do art. 136 da Lei n.
+14.133/21.
+
+Cláusula 14º
+
+DISPOSIÇÕES FINAIS
+
+14.1. É vedado à CONTRATADA:
+
+14.1.1. Caucionar ou utilizar o CT-XXX/2025 para a realização de qualquer operação
+financeira;
+
+Í[' Av. Gov. Agamenon Magalhães, nº 2.978, Espinheiro, Recife/PE, CEP: 52.020-000 | (O (81) 3423-4383
+A www.creape.org.br | contratos&Acreape.org.br
+
+
+SERVIÇO PÚBLICO FEDERAL
+CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE PERNAMBUCO
+COORDENAÇÃO DE CONTRATOS E CONVÊNIOS
+
+CcT- 12025 | ARP- 12025 | PGE-006/2025| PL-200263669-21/2025
+
+14.1.2. Interromper a execução dos contratados sob a alegação de inadimplemento por parte
+do CREA-PE, salvo nos casos previstos em lei.
+
+14.2. Não será admitida a subcontratação do objeto contratual.
+
+14.3. Fica vedado à CONTRATADA transferir ou ceder a terceiros, no todo ou em parte, a
+qualquer título, os direitos e obrigações estipulados no CT-XXX/2025, sob pena de rescisão
+contratual e aplicação de multa de 10% (dez por cento) do valor global estimado da
+contratação.
+
+14.4. Qualquer omissão ou tolerância das PARTES em exigir o estrito cumprimento dos
+termos e condições do CT-XXX/2025, ou não exercer qualquer prerrogativa decorrente da
+contratação estipulada, constituirá mera liberalidade e, por isso, não se configurará novação
+ou renúncia, nem afetará o direito da parte de exercê-la a qualquer tempo.
+
+14.5. Integram o CT-XXX/2025, independentemente de transcrição:
+
+14.5.1.O Processo Licitatório n.: PL- 200269132.05/2025;
+
+14.5.2. O Pregão Eletrônico n.: PGE-006/2025;
+
+14.5.3. O edital da licitação;
+
+14.5.4. O termo de referência (TR);
+
+14.5.5. A proposta da CONTRATADA; e
+
+14.5.6. Eventuais anexos dos documentos supracitados.
+
+14.6. Os casos omissos serão decididos pelo CREA-PE, com base na Lei n. 14.133/21,
+alterações posteriores e demais normativos federais aplicáveis à espécie, assim como,
+subsidiariamente, na Lei n. 8.078/90 (Código de Defesa do Consumidor — CDC) e nos
+princípios gerais dos contratos, por força do disposto no art. 92, Ill, da referida Lei n.
+14.133/21.
+
+Cláusula 15º
+
+REGIME JURÍDICO
+
+15.1. / As PARTES declaram não haver entre si vínculo empregatício, tendo a CONTRATADA
+plena autonomia na prestação dos serviços, desde que prestados conforme as condições ora
+pactuadas e demais exigências legais, além de responder exclusivamente por eventual
+imprudência, negligência, imperícia ou dolo na execução de serviços que venham causar
+qualquer dano ao CREA-PE ou a terceiros, bem como regressivamente, caso esta seja
+responsabilizada judicialmente por tais fatos, desde que haja a denunciação da lide, salvo no
+caso de conduta da própria e contrária à orientação por ela dada.
+
+15.2. Em face da responsabilidade técnica assumida, a CONTRATADA deverá fazer por
+escrito suas orientações ao CREA-PE e aos seus prepostos, mediante protocolo de
+recebimento ou ciência.
+
+Cláusula 16º
+
+PUBLICAÇÃO DO CONTRATO
+
+16.1.  Incumbirá ao CREA-PE divulgar o CT-XXX/2025 no Portal Nacional de Contratações
+Públicas (PNCP), na forma prevista no art. 94 da Lei n. 14.133/21, bem como no respectivo
+sítio oficial na rede mundial de computadores (internet), em atenção ao caput art. 91 da
+referida Lei e ao $ 2º do art. 8º da Lei n. 12.527/11 c/c o art. 7º, $ 3º, V, do Decreto n. 7.724/12.
+
+Í[' Av. Gov. Agamenon Magalhães, nº 2.978, Espinheiro, Recife/PE, CEP: 52.020-000 | (O (81) 3423-4383
+A www.creape.org.br | contratos&Acreape.org.br
+
+
+SERVIÇO PÚBLICO FEDERAL
+CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE PERNAMBUCO
+COORDENAÇÃO DE CONTRATOS E CONVÊNIOS
+
+CcT- 12025 | ARP- 12025 | PGE-006/2025| PL-200263669-21/2025
+
+Cláusula 17º
+
+FORO COMPETENTE
+
+17.1. Eventuais controvérsias decorrentes da execução do CT-XXX/2025, que não puderem
+ser dirimidas administrativamente, serão processadas e julgadas na Justiça Federal de
+Pernambuco, no foro da comarca do Recife, conforme previsto no art. 92, 8 1º, da Lei n.
+14.133/21.
+
+E, por estarem, assim, justas e acordadas entre si, as PARTES assinam o CT-XXX/2025 por
+meio digital, preferencialmente, ou de forma manuscrita, e, nesta hipótese, em 2 (duas) vias
+
+de igual teor e forma, na presença de 2 (duas) testemunhas, que também o subscrevem.
+
+Recife/PE, 00 de [mês do ano] de 2025.
+
+Eng. Civ. Adriano Antonio de Lucena Sr. [Nome Completo]
+Presidente do CREA-PE Rep. Leg. da [LICITANTE VENCEDORA]
+CREA-PE CONTRATADA
+TESTEMUNHAS:
+[Testemunha 1: Nome completo] [Testemunha 2: Nome completo]
+CPF/MF: n. XXX.XXX.XXX-XX CPF/MF: n. XXX.XXX.XXX-XX
+
+í? Av. Gov. Agamenon Magalhães, nº 2.978, Espinheiro, Recife/PE, CEP: 52.020-000 | (O (81) 3423-4383
+A www.creape.org.br | contratos&Acreape.org.br
+
+

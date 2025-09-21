@@ -24,9 +24,9 @@ from dotenv import load_dotenv
 # Makes the script robust by building absolute paths from the project root.
 _SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(_SCRIPT_DIR)
-CAMINHO_DADOS = r"DOWNLOADS/PRODUTOS/base_produtos.xlsx"
-PASTA_SAIDA = r'C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS'
-ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "categoria_GEMINI.xlsx")
+CAMINHO_DADOS = r"C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\PRODUTOS\ultra_base.xlsx"
+PASTA_SAIDA = r'C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\RESULTADO_metadados'
+ARQUIVO_SAIDA = os.path.join(PASTA_SAIDA, "categoria_GPT.xlsx")
 
 # --- LLM Config ---
 # A chave de API agora deve ser carregada de um arquivo .env para segurança.
@@ -34,12 +34,13 @@ load_dotenv()
 
 # O script tentará os modelos nesta ordem. Se um falhar por cota, ele passa para o próximo.
 # Usando nomes padrão da API para garantir compatibilidade.
-LLM_MODELS_FALLBACK = [    
-    "gemini-2.5-pro",    
+LLM_MODELS_FALLBACK = [  
+    "gemini-2.5-pro",
+    "gemini-2.0-flash",
+    "gemini-2.0-flash-lite",    
     "gemini-2.5-flash",
     "gemini-2.5-flash-lite",
-    "gemini-2.0-flash",
-    "gemini-2.0-flash-lite",
+
     "gemini-1.5-flash",  
 ]
 LLM_MODEL_PRIMARY = LLM_MODELS_FALLBACK[0]
@@ -110,7 +111,7 @@ def gerar_conteudo_com_fallback(prompt: str, modelos: list[str]) -> str | None:
             logger.info(f"Tentando chamada à API com o modelo: {nome_modelo}...")
             model = genai.GenerativeModel(nome_modelo)
             response = model.generate_content(prompt)
-            logger.info(f"✅ Sucesso com o modelo '{nome_modelo}'.")
+            logger.info(f" Sucesso com o modelo '{nome_modelo}'.")
             return response.text
         except google_exceptions.ResourceExhausted as e:
             logger.warning(f"⚠️ Cota excedida para o modelo '{nome_modelo}'. Tentando o próximo da lista.")
@@ -129,42 +130,68 @@ def curar_descricoes_em_batch_llm(batch_produtos: list[dict]) -> list[str]:
     """Usa o LLM com fallback para curar uma lista de descrições de produtos em batch."""
     produtos_json = json.dumps(batch_produtos, ensure_ascii=False, indent=2)
 
-    prompt = f"""Você é um especialista em catalogação de produtos musicais e de áudio.
-Sua tarefa é criar uma descrição técnica concisa para CADA produto na lista JSON abaixo.
+    prompt = f"""Você é um especialista técnico em produtos musicais e de áudio com acesso a bancos de dados técnicos.
 
-**Regras Essenciais para CADA produto:**
-1. **Foco em Dados:** Liste apenas especificações técnicas concretas e verificáveis (ex: material, dimensões, tipo de conexão). Use o Google para confirmar as informações.
-2. **Sem "Encheção":** NÃO inclua opiniões, marketing, ou frases vagas.
-3. **Omissão é Chave:** Se não encontrar uma informação com certeza, não a mencione.
-4. **Formato Limpo:** Apresente as especificações como uma lista de características separadas por vírgulas.
-5. **Instrução:** Complete a descrição com: tipo do produto e suas principais características técnicas.
+**OBJETIVO PRINCIPAL:**
+Para CADA produto na lista JSON abaixo, gere uma descrição técnica DETALHADA e ENRIQUECIDA, realizando pesquisa virtual implícita para completar informações faltantes e validar especificações.
 
-**Exemplo de Descrição Curada:**
-- Produto: "Fone de Ouvido XYZ"
-- Descrição Curada: "Fone de ouvido over-ear, driver de 40mm, resposta de frequência 20Hz-20kHz, impedância 32 ohms, cabo destacável de 1.2m." 
+**METODOLOGIA DE PESQUISA E VALIDAÇÃO:**
+1. Para cada produto, consulte mentalmente especificações técnicas de fabricantes e marketplaces
+2. Cross-reference entre pelo menos 2 fontes virtuais para validar dados
+3. Complete informações parciais com dados técnicos padrão do segmento
+4. Priorize informações de manuais técnicos e fichas de especificação
+5. Pesquise em sites confiáveis como Thomann, Sweetwater, Amazon, fabricantes oficiais
+6. Se o produto for genérico ou desconhecido, use especificações técnicas padrão do segmento
+7. Se a descrição original for muito vaga, use termos técnicos padrão do segmento
+8. Mantenha a precisão técnica, evitando suposições não verificadas
 
-**ENTRADA (Lista de {len(batch_produtos)} produtos):**
+**ESTRUTURA DA DESCRIÇÃO ENRIQUECIDA (siga esta ordem):**
+[FUNÇÃO PRINCIPAL] - [CATEGORIA TÉCNICA] com [CARACTERÍSTICAS PRINCIPAIS]. 
+Especificações técnicas: [DETALHES TÉCNICOS COMPLETOS]. 
+Construção: [MATERIAIS E ACABAMENTO]. 
+Aplicações: [USOS RECOMENDADOS]. 
+Compatibilidade: [EQUIPAMENTOS COMPATÍVEIS].
+
+**REGRAS ESSENCIAIS:**
+- INSIRA dados técnicos concretos: dimensões, pesos, materiais, conexões, especificações elétricas
+- INCLUA faixas de frequência, sensibilidade, impedância, potência, quando aplicável
+- DESTAQUE features únicas e diferenciais técnicos comprovados
+- USE terminologia técnica precisa e padrão do mercado
+- MENCIONE compatibilidades e requisitos do sistema
+- EVITE linguagem de marketing - foque em fatos técnicos verificáveis
+
+**EXEMPLO DE DESCRIÇÃO ENRIQUECIDA:**
+Produto: "Microfone Condensador XYZ"
+Descrição: "Microfone condensador de estúdio para captação vocal e instrumental com padrão polar cardioide. 
+Especificações técnicas: resposta de frequência 20Hz-20kHz, sensibilidade de -32dB, impedância de 250 ohms, 
+Relação sinal-ruído de 82dB, máxima pressão sonora de 138dB. 
+Construção: corpo em metal zincado, grade de proteção em aço, membrana de 3/4". 
+Aplicações: estúdio de gravação, podcasting, vocais, instrumentos acústicos. 
+Compatibilidade: requer fonte phantom power 48V, interface de áudio com entrada XLR." 
+
+**ENTRADA (Lista de {len(batch_produtos)} produtos):
 {produtos_json}
 
-**SAÍDA (Responda APENAS com uma lista de objetos JSON, um para cada produto, na mesma ordem da entrada. Mantenha o 'id' original):**
+**SAÍDA (Responda APENAS com uma lista de objetos JSON, um para cada produto, na mesma ordem):**
 [
   {{
     "id": "<id_do_produto_original_1>",
-    "descricao_curada": "<descrição_técnica_concisa_para_o_produto_1>"
+    "descricao_enriquecida": "<descrição_técnica_detalhada_completa>",
+    "especificacoes_validadas": ["spec1", "spec2", "spec3"]  # lista de specs confirmadas
   }},
   ...
-]
-"""
+]"""
     for attempt in range(MAX_RETRIES):
         response_text = gerar_conteudo_com_fallback(prompt, LLM_MODELS_FALLBACK)
         if response_text:
             parsed_response = parse_llm_response(response_text)
             if parsed_response and isinstance(parsed_response, list) and len(parsed_response) == len(batch_produtos):
                 # Sucesso! Garante a ordem correta usando o ID.
-                response_map = {item.get('id'): item.get('descricao_curada', '') for item in parsed_response}
+                response_map = {item.get('id'): item.get('descricao_enriquecida', '') for item in parsed_response}
                 # Retorna as descrições na ordem original do batch de entrada
                 ordered_descriptions = [response_map.get(prod['id'], prod['descricao']) for prod in batch_produtos]
                 return ordered_descriptions
+
             else:
                 logger.warning(f"Tentativa {attempt + 1}: Resposta da curadoria em batch inválida ou com contagem incorreta de itens.")
         else:
@@ -184,18 +211,22 @@ def processar_batch_llm(batch_descricoes: list[str]) -> list[dict]:
         "Sua tarefa é classificar cada descrição de produto fornecida usando ESTRITAMENTE as categorias e subcategorias definidas abaixo.\n\n"
         "**ESTRUTURA DE CATEGORIAS (USE APENAS ESTAS):**\n"
 
-        "EQUIPAMENTO_SOM : amplificador,caixa de som,cubo para guitarra\n"
-        "INSTRUMENTO_CORDA: violino, viola, violão, guitarra, baixo, violoncelo\n"
-        "INSTRUMENTO_PERCUSSAO: afuché, bateria, bombo, bumbo, caixa de guerra, ganza, pandeiro, quadriton, reco reco, surdo, tambor, tarol, timbales\n"
-        "INSTRUMENTO_SOPRO: trompete, bombardino, trompa, trombone, tuba,sousafone, clarinete, saxofone, flauta, tuba bombardão,flugelhorn,euphonium\n"
-        "INSTRUMENTO_TECLAS: piano, teclado digital, glockenspiel, metalofone\n"
-        "ACESSORIO_CORDA :arco, cavalete, corda, corda, kit nut, kit rastilho, \n"
-        "ACESSORIO_GERAL :bag,banco,carrinho prancha,estante de partitura, suporte\n"
-        "ACESSORIO_PERCURSSAO :baqueta,carrilhão,esteira,Máquina de Hi Hat,Pad para Bumbo,parafuso,pedal de bumbo,pele,prato,sino,talabarte,triângulo\n"
-        "ACESSORIO_SOPRO : graxa,oleo lubrificante,palheta de saxofone/clarinete\n"
-        "EQUIPAMENTO_AUDIO : fone de ouvido,globo microfone,Interface de guitarra,pedal,mesa de som,microfone\n"
-        "EQUIPAMENTO_CABO : cabo CFTV, cabo de rede, Medusa, switch, cabo_musical\n"
-        "INFORMATICA: projetor, ssd, fonte energia, drone\n"
+        "EQUIPAMENTO_SOM : caixa_ativa, caixa_passiva, caixa_portatil, line_array, subwoofer_ativo, subwoofer_passivo, amplificador_potencia, cabeçote_amplificado, coluna_vertical, monitor_de_palco"
+
+        "EQUIPAMENTO_AUDIO : microfone_dinamico, microfone_condensador, microfone_lapela, microfone_sem_fio, microfone_instrumento, mesa_analogica, mesa_digital, interface_audio, processador_dsp, fone_monitor, sistema_iem, pedal_efeitos"
+
+        "INSTRUMENTO_CORDA : violao, guitarra, contra_baixo, violino, violoncelo, ukulele, cavaquinho"
+
+        "INSTRUMENTO_PERCUSSAO : bateria_acustica, repinique, rocari, tantan, rebolo,surdo_mao, cuica, zabumba, caixa_guerra, bombo_fanfarra, lira_marcha,tarol, malacacheta, caixa_bateria, pandeiro, tamborim,reco_reco, agogô, triangulo, chocalho, afuche, cajon, bongo, conga, djembé, timbal, atabaque, berimbau,tam_tam, caxixi, carilhao, xequerê, prato"
+
+        "INSTRUMENTO_SOPRO : saxofone, trompete, trombone, trompa, clarinete, flauta, tuba, flugelhorn, bombardino, corneta, cornetão"
+
+        "INSTRUMENTO_TECLADO : teclado_digital, piano_acustico, piano_digital, sintetizador, controlador_midi, glockenspiel, metalofone"
+
+        "ACESSORIO_MUSICAL : banco_teclado, estante_partitura, suporte_microfone, suporte_instrumento, carrinho_transporte, case_bag, afinador, metronomo, cabos_audio, palheta, cordas, oleo_lubrificante, graxa, surdina, bocal_trompete, pele_percussao, baqueta, talabarte, pedal_bumbo, chimbal_hihat"
+
+        "EQUIPAMENTO_TECNICO : ssd, fonte_energia, switch_rede, projetor, drone"
+
         
         "**TAREFA:**\n"
         "Para CADA descrição na lista de entrada (há exatamente {len(batch_descricoes)} itens), determine a `CATEGORIA_PRINCIPAL` e a `SUBCATEGORIA`.\n"

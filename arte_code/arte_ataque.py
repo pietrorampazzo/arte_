@@ -22,8 +22,8 @@ load_dotenv()
 PROJECT_ROOT = Path(r"c:\\Users\\pietr\\OneDrive\\.vscode\\arte_")
 BASE_DIR = PROJECT_ROOT / "DOWNLOADS"
 PASTA_EDITAIS = BASE_DIR / "EDITAIS"
-SUMMARY_EXCEL_PATH = PASTA_EDITAIS / "summary.xlsx"
-FINAL_MASTER_PATH = PASTA_EDITAIS / "master.xlsx"
+SUMMARY_EXCEL_PATH = BASE_DIR / "summary.xlsx"
+FINAL_MASTER_PATH = BASE_DIR / "master.xlsx"
 
 # --- Configurações de Ferramentas Externas ---
 SCRIPTS_DIR = PROJECT_ROOT / "scripts"
@@ -41,19 +41,74 @@ else:
 
 # --- Configurações de Filtro ---
 PALAVRAS_CHAVE = [
-    'Instrumento Musical - Sopro', 'Instrumento Musical - Corda', 'Instrumento Musical - Percursão',
-    'Instrumento Musical', 'Peças e acessórios instrumento musical', 'Cabo Rede Computador',
-    'saxofone', 'trompete', 'tuba', 'clarinete', 'óleo lubrificante', 'trompa', 'sax', 'óleos para válvulas',
-    'violão', 'Guitarra', 'Baixo', 'Violino', 'Viola', 'Cavaquinho', 'Bandolim', 'Ukulele',
-    'Microfone', 'Microfone direcional', 'Suporte microfone', 'Microfone Dinâmico', 'Microfone de Lapela',
-    'Base microfone', 'Pedestal microfone', 'Medusa para microfone', 'Pré-amplificador microfone',
-    'Caixa Acústica', 'Caixa de Som', 'Caixa som', 'Subwoofer', 'tarol', 'Estante - partitura',
-    'Amplificador de áudio', 'Amplificador som', 'Amplificador fone ouvido',
-    'Piano', 'Suporte para teclado', 'Mesa áudio', 'Interface de Áudio',
-    'Pedestal', 'Pedestal caixa acústica', 'Pedal Efeito', 'fone de ouvido', 'headset',
-    'Bateria Eletrônica', 'Cabo extensor', 'Tela projeção', 'Projetor Multimídia',
+
+    # ------------------ Categorias principais ------------------
+    r'Instrumento Musical',r'Instrumento Musical - Sopro',r'Instrumento Musical - Corda',r'Instrumento Musical - Percussão',
+    r'Peças e acessórios instrumento musical',    r'Peças E Acessórios Instrumento Musical',
+
+    # ------------------ Sopros ------------------
+    r'saxofone',r'trompete',r'tuba',r'clarinete',r'trompa', 
+    r'óleo lubrificante', r'óleos para válvulas',
+
+    # ------------------ Cordas ------------------
+    r'violão',r'Guitarra',r'Violino',
+    r'Viola',r'Cavaquinho',r'Bandolim',
+    r'Ukulele',
+
+    # ------------------ Percussão ------------------
+    r'tarol',
+
+    # ------------------ Teclas ------------------
+    r'Piano',
+    r'Suporte para teclado',
+
+    # ------------------ Microfones e acessórios ------------------
+    r'Microfone',
+    r'Microfone direcional',
+    r'Microfone Dinâmico',
+    r'Microfone de Lapela',
+    r'Suporte microfone',
+    r'Base microfone',
+    r'Medusa para microfone',
+    r'Pré-amplificador microfone',
+
+    # ------------------ Áudio (caixas, amplificação, interfaces) ------------------
+    r'Caixa Acústica',
+    r'Caixa de Som',
+    r'Caixa som',
+    r'Subwoofer',
+    r'Amplificador de áudio',
+    r'Amplificador som',
+    r'Amplificador fone ouvido',
+    r'Interface de Áudio',
+    r'Mesa áudio',
+
+    # ------------------ Pedestais e suportes ------------------
+    r'Pedestal caixa acústica',
+    r'Pedestal microfone',
+    r'Estante - partitura',
+    r'Suporte de videocassete',
+
+    # ------------------ Projeção ------------------
+    r'Tela projeção',
+    r'Projetor Multimídia',
+
+    # ------------------ Efeitos ------------------
+    r'drone',
+
 ]
+
+
 REGEX_FILTRO = re.compile('|'.join(PALAVRAS_CHAVE), re.IGNORECASE)
+
+# --- Configurações de Exclusão ---
+PALAVRAS_EXCLUIR = [
+    r'notebook',
+    r'webcam',
+    r'Microcomputador',
+]
+REGEX_EXCLUIR = re.compile('|'.join(PALAVRAS_EXCLUIR), re.IGNORECASE)
+
 
 
 # =====================================================================================
@@ -137,16 +192,30 @@ def tratar_dataframe(df):
     """Aplica tratamento e padronização em um DataFrame de itens."""
     if df.empty:
         return df
-    df['QTDE'] = pd.to_numeric(df['QTDE'], errors='coerce').fillna(0)
+
+    # Converter QTDE para numérico, mantendo NaN para valores inválidos/vazios
+    df['QTDE'] = pd.to_numeric(df['QTDE'], errors='coerce')
+
+    # Limpar e converter colunas de valor para numérico
     for col in ['VALOR_UNIT', 'VALOR_TOTAL']:
-        df[col] = pd.to_numeric(df[col].astype(str).str.replace('.', '', regex=False).str.replace(',', '.', regex=False), errors='coerce').fillna(0)
+        # Assegurar que a coluna é string antes de usar métodos .str
+        series = df[col].astype(str)
+        # Limpeza: remove pontos (milhar) e substitui vírgula (decimal) por ponto
+        cleaned_series = series.str.replace('.', '', regex=False).str.replace(',', '.', regex=False)
+        # Converte para numérico, valores inválidos viram NaN (Not a Number), que representa células vazias
+        df[col] = pd.to_numeric(cleaned_series, errors='coerce')
+
+    # Tenta calcular VALOR_UNIT se estiver faltando, mas outras informações estiverem presentes
+    # Usamos isnull() para checar células vazias (NaN)
+    mask_unit = (df['VALOR_UNIT'].isnull()) & (df['VALOR_TOTAL'].notna()) & (df['QTDE'].notna() & df['QTDE'] > 0)
+    df.loc[mask_unit, 'VALOR_UNIT'] = df.loc[mask_unit, 'VALOR_TOTAL'] / df.loc[mask_unit, 'QTDE']
+
+    # Recalcula VALOR_TOTAL para garantir consistência onde for possível
+    mask_total = df['QTDE'].notna() & df['VALOR_UNIT'].notna()
+    df.loc[mask_total, 'VALOR_TOTAL'] = df.loc[mask_total, 'QTDE'] * df.loc[mask_total, 'VALOR_UNIT']
     
-    mask = (df['VALOR_UNIT'] == 0) & (df['VALOR_TOTAL'] > 0) & (df['QTDE'] > 0)
-    df.loc[mask, 'VALOR_UNIT'] = df.loc[mask, 'VALOR_TOTAL'] / df.loc[mask, 'QTDE']
-    df['VALOR_TOTAL'] = df['QTDE'] * df['VALOR_UNIT']
-    
-    for col in ['VALOR_UNIT', 'VALOR_TOTAL']:
-        df[col] = df[col].apply(lambda x: f"{x:.2f}".replace(".", ","))
+    # As colunas de valor agora são numéricas (float), com NaN para vazios.
+    # A conversão de volta para string foi removida para permitir cálculos em outros scripts.
     return df
 
 def chamar_llm(prompt):
@@ -327,7 +396,7 @@ def processar_pasta_edital(pasta_path):
                 # Preencher colunas ausentes
                 for col in ['DESCRICAO', 'QTDE', 'VALOR_UNIT', 'VALOR_TOTAL', 'UNID_FORN', 'LOCAL_ENTREGA']:
                     if col not in df_final.columns:
-                        df_final[col] = '-'
+                        df_final[col] = ''
                 print("    > Itens extraídos do zero pela IA.")
             except Exception as e:
                 print(f"    > FALHA ao processar resposta da IA para extração: {e}")
@@ -339,7 +408,7 @@ def processar_pasta_edital(pasta_path):
     if not df_final.empty:
         # Reordenar colunas para o padrão
         desired_order = ['Nº', 'DESCRICAO', 'REFERENCIA', 'QTDE', 'VALOR_UNIT', 'VALOR_TOTAL', 'UNID_FORN', 'LOCAL_ENTREGA', 'ARQUIVO']
-        df_final = df_final.reindex(columns=desired_order, fill_value='-')
+        df_final = df_final.reindex(columns=desired_order, fill_value='')
         
         df_final.to_excel(caminho_final_xlsx, index=False)
         print(f"    >✅ SUCESSO! Planilha final salva como: {caminho_final_xlsx.name}")
@@ -347,7 +416,7 @@ def processar_pasta_edital(pasta_path):
     else:
         print("    >❌ FALHA: Nenhum item foi extraído ou gerado. Criando placeholder.")
         headers = ['Nº', 'DESCRICAO', 'REFERENCIA', 'QTDE', 'VALOR_UNIT', 'VALOR_TOTAL', 'UNID_FORN', 'LOCAL_ENTREGA', 'ARQUIVO']
-        df_placeholder = pd.DataFrame([{col: '-' for col in headers}], columns=headers)
+        df_placeholder = pd.DataFrame([{col: '' for col in headers}], columns=headers)
         df_placeholder['ARQUIVO'] = nome_pasta
         df_placeholder.to_excel(caminho_final_xlsx, index=False)
         return None, df_placeholder
@@ -380,14 +449,14 @@ def main():
 
     print("\n--- Finalizando e Gerando Arquivos Consolidados ---")
 
-    # Gerar summary.xlsx com todos os itens base (de RelacaoItens)
-    if todos_os_itens_base:
-        df_summary = pd.concat(todos_os_itens_base, ignore_index=True)
+    # Gerar summary.xlsx com todos os itens finais (de _master.xlsx)
+    if todos_os_itens_finais:
+        df_summary = pd.concat(todos_os_itens_finais, ignore_index=True)
         df_summary = tratar_dataframe(df_summary)
         df_summary.to_excel(SUMMARY_EXCEL_PATH, index=False)
-        print(f"✅ Arquivo 'summary.xlsx' criado com {len(df_summary)} itens totais (base).")
+        print(f"✅ Arquivo 'summary.xlsx' criado com {len(df_summary)} itens totais (dos arquivos _master).")
     else:
-        print("🟡 Nenhum item base foi extraído para gerar o 'summary.xlsx'.")
+        print("🟡 Nenhum item final foi processado para gerar o 'summary.xlsx'.")
 
     # Gerar master.xlsx com itens finais filtrados por palavras-chave
     if todos_os_itens_finais:
@@ -401,16 +470,32 @@ def main():
         df_master['DESCRICAO'] = df_master['DESCRICAO'].astype(str)
         df_master['REFERENCIA'] = df_master['REFERENCIA'].astype(str)
 
-        # Aplicar filtro nas colunas DESCRICAO e REFERENCIA
+        # Aplicar filtro de inclusão (palavras-chave)
         mask_descricao = df_master['DESCRICAO'].apply(lambda x: bool(REGEX_FILTRO.search(x)))
         mask_referencia = df_master['REFERENCIA'].apply(lambda x: bool(REGEX_FILTRO.search(x)))
+        df_com_relevantes = df_master[mask_descricao | mask_referencia]
+
+        # Aplicar filtro de exclusão (palavras indesejadas)
+        mask_excluir_desc = df_com_relevantes['DESCRICAO'].apply(lambda x: not bool(REGEX_EXCLUIR.search(x)))
+        mask_excluir_ref = df_com_relevantes['REFERENCIA'].apply(lambda x: not bool(REGEX_EXCLUIR.search(x)))
         
-        df_filtrado = df_master[mask_descricao | mask_referencia].copy()
-        
+        # Um item é mantido somente se NENHUMA das colunas contiver uma palavra a ser excluída
+        df_filtrado = df_com_relevantes[mask_excluir_desc & mask_excluir_ref].copy()
+
         df_filtrado.to_excel(FINAL_MASTER_PATH, index=False)
         print(f"✅ Arquivo 'master.xlsx' criado com {len(df_filtrado)} itens relevantes.")
     else:
         print("🔴 Nenhum item final foi processado para gerar o 'master.xlsx'.")
+
+    print("\n--- Limpando arquivos intermediários ---")
+    for pasta in pastas_de_editais:
+        caminho_itens_xlsx = pasta / f"{pasta.name}_itens.xlsx"
+        if caminho_itens_xlsx.exists():
+            try:
+                os.remove(caminho_itens_xlsx)
+                print(f"  > Arquivo intermediário removido: {caminho_itens_xlsx.name}")
+            except OSError as e:
+                print(f"  > ERRO ao remover {caminho_itens_xlsx.name}: {e}")
 
     print("="*80)
     print("PROCESSO CONCLUÍDO!")
