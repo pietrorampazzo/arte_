@@ -1,0 +1,611 @@
+2025-09-22 18:52:57,718 - INFO - Starting the Stanley product matching process...
+2025-09-22 18:52:58,009 - INFO - Loaded 318 items from edital and 3519 products from base.
+2025-09-22 18:52:58,013 - INFO - Identified 318 new items to process.
+2025-09-22 18:53:35,154 - INFO - Starting the Stanley product matching process...
+2025-09-22 18:53:35,433 - INFO - Loaded 318 items from edital and 3519 products from base.
+2025-09-22 18:53:35,438 - INFO - Identified 318 new items to process.
+2025-09-22 18:56:33,493 - WARNING - Item 2 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 18:57:45,092 - INFO - ✅ Incremental save after processing item 1/318
+2025-09-22 18:59:28,185 - WARNING - Item 3 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 19:01:11,555 - INFO - ✅ Incremental save after processing item 2/318
+2025-09-22 19:01:56,103 - INFO - ✅ Incremental save after processing item 3/318
+2025-09-22 19:03:40,193 - WARNING - Item 14 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 19:05:22,730 - INFO - ✅ Incremental save after processing item 4/318
+2025-09-22 19:07:00,920 - INFO - ✅ Incremental save after processing item 5/318
+2025-09-22 19:08:37,189 - WARNING - Item 22 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 19:10:29,730 - INFO - ✅ Incremental save after processing item 6/318
+2025-09-22 19:12:06,611 - WARNING - Item 24 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 19:13:43,324 - INFO - ✅ Incremental save after processing item 7/318
+2025-09-22 19:15:21,569 - WARNING - Item 26 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 19:17:01,004 - INFO - ✅ Incremental save after processing item 8/318
+2025-09-22 19:18:45,065 - WARNING - Item 1 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 19:19:30,026 - INFO - ✅ Incremental save after processing item 9/318
+2025-09-22 19:21:14,235 - WARNING - Item 2 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 19:22:57,221 - INFO - ✅ Incremental save after processing item 10/318
+2025-09-22 19:24:42,281 - WARNING - Item 4 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 19:25:28,506 - INFO - ✅ Incremental save after processing item 11/318
+2025-09-22 19:27:07,523 - WARNING - Item 1 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 19:28:46,719 - INFO - ✅ Incremental save after processing item 12/318
+2025-09-22 19:30:27,657 - WARNING - Item 2 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 19:32:06,378 - INFO - ✅ Incremental save after processing item 13/318
+2025-09-22 19:33:43,891 - WARNING - Item 3 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 19:35:20,744 - INFO - ✅ Incremental save after processing item 14/318
+2025-09-22 19:36:57,241 - WARNING - Item 4 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 19:38:34,688 - INFO - ✅ Incremental save after processing item 15/318
+2025-09-22 19:40:10,086 - WARNING - Item 6 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 19:41:44,312 - INFO - ✅ Incremental save after processing item 16/318
+2025-09-22 19:43:20,059 - WARNING - Item 7 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 19:44:55,013 - INFO - ✅ Incremental save after processing item 17/318
+2025-09-22 19:46:29,879 - WARNING - Item 3 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 19:48:07,821 - INFO - ✅ Incremental save after processing item 18/318
+2025-09-22 19:49:45,395 - WARNING - Item 4 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 19:51:23,451 - INFO - ✅ Incremental save after processing item 19/318
+2025-09-22 19:53:03,574 - WARNING - Item 5 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 19:54:43,111 - INFO - ✅ Incremental save after processing item 20/318
+2025-09-22 19:56:22,811 - WARNING - Item 6 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 19:57:08,184 - INFO - ✅ Incremental save after processing item 21/318
+2025-09-22 19:58:46,886 - INFO - ✅ Incremental save after processing item 22/318
+2025-09-22 19:59:58,145 - INFO - ✅ Incremental save after processing item 23/318
+2025-09-22 20:01:35,885 - WARNING - Item 2 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 20:03:12,673 - INFO - ✅ Incremental save after processing item 24/318
+2025-09-22 20:04:51,871 - WARNING - Item 2 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 20:06:30,505 - INFO - ✅ Incremental save after processing item 25/318
+2025-09-22 20:08:13,422 - WARNING - Item 3 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 20:09:29,252 - INFO - ✅ Incremental save after processing item 26/318
+2025-09-22 20:11:09,889 - WARNING - Item 4 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 20:12:50,813 - INFO - ✅ Incremental save after processing item 27/318
+2025-09-22 20:13:36,128 - INFO - ✅ Incremental save after processing item 28/318
+2025-09-22 20:14:19,985 - INFO - ✅ Incremental save after processing item 29/318
+2025-09-22 20:16:00,604 - WARNING - Item 10 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 20:17:42,090 - INFO - ✅ Incremental save after processing item 30/318
+2025-09-22 20:19:20,235 - WARNING - Item 14 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 20:20:04,289 - INFO - ✅ Incremental save after processing item 31/318
+2025-09-22 20:21:43,061 - WARNING - Item 18 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 20:23:21,529 - INFO - ✅ Incremental save after processing item 32/318
+2025-09-22 20:25:04,114 - WARNING - Item 1 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 20:25:51,038 - INFO - ✅ Incremental save after processing item 33/318
+2025-09-22 20:27:33,340 - WARNING - Item 2 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 20:29:16,707 - INFO - ✅ Incremental save after processing item 34/318
+2025-09-22 20:30:55,101 - WARNING - Item 1 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 20:32:34,457 - INFO - ✅ Incremental save after processing item 35/318
+2025-09-22 20:34:09,072 - WARNING - Item 6 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 20:35:44,162 - INFO - ✅ Incremental save after processing item 36/318
+2025-09-22 20:37:22,523 - WARNING - Item 2 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 20:39:01,202 - INFO - ✅ Incremental save after processing item 37/318
+2025-09-22 20:39:48,695 - INFO - ✅ Incremental save after processing item 38/318
+2025-09-22 20:41:26,795 - WARNING - Item 11 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 20:42:12,586 - INFO - ✅ Incremental save after processing item 39/318
+2025-09-22 20:43:52,751 - WARNING - Item 1 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 20:45:33,324 - INFO - ✅ Incremental save after processing item 40/318
+2025-09-22 20:47:14,758 - WARNING - Item 2 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 20:47:59,792 - INFO - ✅ Incremental save after processing item 41/318
+2025-09-22 20:49:38,534 - WARNING - Item 2 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 20:51:17,006 - INFO - ✅ Incremental save after processing item 42/318
+2025-09-22 20:52:56,819 - WARNING - Item 8 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 20:54:37,610 - INFO - ✅ Incremental save after processing item 43/318
+2025-09-22 20:56:17,362 - WARNING - Item 1 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 20:58:00,691 - INFO - ✅ Incremental save after processing item 44/318
+2025-09-22 20:59:38,841 - WARNING - Item 2 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:01:18,910 - INFO - ✅ Incremental save after processing item 45/318
+2025-09-22 21:02:58,191 - WARNING - Item 4 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:04:39,463 - INFO - ✅ Incremental save after processing item 46/318
+2025-09-22 21:06:13,872 - WARNING - Item 8 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:07:49,816 - INFO - ✅ Incremental save after processing item 47/318
+2025-09-22 21:09:24,263 - WARNING - Item 9 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:10:59,871 - INFO - ✅ Incremental save after processing item 48/318
+2025-09-22 21:12:34,248 - WARNING - Item 10 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:14:09,794 - INFO - ✅ Incremental save after processing item 49/318
+2025-09-22 21:15:45,172 - WARNING - Item 11 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:17:20,506 - INFO - ✅ Incremental save after processing item 50/318
+2025-09-22 21:18:57,604 - WARNING - Item 12 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:20:35,725 - INFO - ✅ Incremental save after processing item 51/318
+2025-09-22 21:21:19,846 - INFO - ✅ Incremental save after processing item 52/318
+2025-09-22 21:22:56,195 - WARNING - Item 1 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:24:33,613 - INFO - ✅ Incremental save after processing item 53/318
+2025-09-22 21:26:11,793 - WARNING - Item 2 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:27:50,918 - INFO - ✅ Incremental save after processing item 54/318
+2025-09-22 21:28:33,119 - WARNING - Item 3 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:29:16,147 - INFO - ✅ Incremental save after processing item 55/318
+2025-09-22 21:29:58,385 - WARNING - Item 4 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:30:41,125 - INFO - ✅ Incremental save after processing item 56/318
+2025-09-22 21:31:23,960 - WARNING - Item 5 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:32:06,166 - INFO - ✅ Incremental save after processing item 57/318
+2025-09-22 21:33:43,190 - WARNING - Item 6 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:35:21,415 - INFO - ✅ Incremental save after processing item 58/318
+2025-09-22 21:36:57,975 - WARNING - Item 7 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:38:34,570 - INFO - ✅ Incremental save after processing item 59/318
+2025-09-22 21:40:11,013 - WARNING - Item 8 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:41:47,733 - INFO - ✅ Incremental save after processing item 60/318
+2025-09-22 21:43:24,442 - WARNING - Item 9 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:45:01,168 - INFO - ✅ Incremental save after processing item 61/318
+2025-09-22 21:46:38,778 - WARNING - Item 10 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:48:16,643 - INFO - ✅ Incremental save after processing item 62/318
+2025-09-22 21:49:53,459 - INFO - ✅ Incremental save after processing item 63/318
+2025-09-22 21:51:30,755 - WARNING - Item 12 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:53:08,153 - INFO - ✅ Incremental save after processing item 64/318
+2025-09-22 21:54:47,024 - WARNING - Item 13 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:56:23,279 - INFO - ✅ Incremental save after processing item 65/318
+2025-09-22 21:58:00,137 - WARNING - Item 14 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 21:59:36,677 - INFO - ✅ Incremental save after processing item 66/318
+2025-09-22 22:01:13,170 - WARNING - Item 15 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 22:02:49,592 - INFO - ✅ Incremental save after processing item 67/318
+2025-09-22 22:04:26,429 - WARNING - Item 16 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 22:06:04,410 - INFO - ✅ Incremental save after processing item 68/318
+2025-09-22 22:07:41,715 - WARNING - Item 17 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 22:08:51,286 - INFO - ✅ Incremental save after processing item 69/318
+2025-09-22 22:10:28,055 - WARNING - Item 18 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 22:12:05,142 - INFO - ✅ Incremental save after processing item 70/318
+2025-09-22 22:12:47,891 - WARNING - Item 19 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 22:13:31,345 - INFO - ✅ Incremental save after processing item 71/318
+2025-09-22 22:14:14,489 - WARNING - Item 20 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 22:14:57,508 - INFO - ✅ Incremental save after processing item 72/318
+2025-09-22 22:16:33,665 - WARNING - Item 21 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 22:18:13,265 - INFO - ✅ Incremental save after processing item 73/318
+2025-09-22 22:18:55,876 - WARNING - Item 22 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 22:19:38,050 - INFO - ✅ Incremental save after processing item 74/318
+2025-09-22 22:21:14,352 - WARNING - Item 23 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 22:22:50,577 - INFO - ✅ Incremental save after processing item 75/318
+2025-09-22 22:23:33,403 - WARNING - Item 24 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 22:24:15,780 - INFO - ✅ Incremental save after processing item 76/318
+2025-09-22 22:24:58,275 - WARNING - Item 25 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 22:25:40,326 - INFO - ✅ Incremental save after processing item 77/318
+2025-09-22 22:27:15,023 - WARNING - Item 26 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 22:28:51,814 - INFO - ✅ Incremental save after processing item 78/318
+2025-09-22 22:29:34,528 - INFO - ✅ Incremental save after processing item 79/318
+2025-09-22 22:31:12,112 - WARNING - Item 28 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 22:32:49,079 - INFO - ✅ Incremental save after processing item 80/318
+2025-09-22 22:34:25,583 - WARNING - Item 29 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 22:36:01,667 - INFO - ✅ Incremental save after processing item 81/318
+2025-09-22 22:37:37,493 - INFO - ✅ Incremental save after processing item 82/318
+2025-09-22 22:39:15,772 - WARNING - Item 32 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 22:40:58,909 - INFO - ✅ Incremental save after processing item 83/318
+2025-09-22 22:41:52,843 - INFO - ✅ Incremental save after processing item 84/318
+2025-09-22 22:43:55,202 - WARNING - Item 34 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 22:45:24,482 - INFO - ✅ Incremental save after processing item 85/318
+2025-09-22 22:46:20,111 - INFO - ✅ Incremental save after processing item 86/318
+2025-09-22 22:47:48,161 - INFO - ✅ Incremental save after processing item 87/318
+2025-09-22 22:49:49,708 - WARNING - Item 37 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 22:50:44,945 - ERROR - Failed to save Excel file: [Errno 13] Permission denied: 'C:\\Users\\pietr\\OneDrive\\.vscode\\arte_\\DOWNLOADS\\master_stanley.xlsx'
+2025-09-22 22:52:47,049 - WARNING - Item 38 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 22:54:48,426 - ERROR - Failed to save Excel file: [Errno 13] Permission denied: 'C:\\Users\\pietr\\OneDrive\\.vscode\\arte_\\DOWNLOADS\\master_stanley.xlsx'
+2025-09-22 22:56:51,256 - WARNING - Item 39 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 22:58:47,855 - INFO - ✅ Incremental save after processing item 90/318
+2025-09-22 22:58:56,405 - INFO - Starting the Stanley product matching process...
+2025-09-22 22:58:56,744 - INFO - Loaded 318 items from edital and 3519 products from base.
+2025-09-22 22:58:56,745 - INFO - Loading existing processed data from master_stanley.xlsx
+2025-09-22 22:58:56,774 - INFO - Identified 228 new items to process.
+2025-09-22 23:00:59,077 - WARNING - Item 40 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 23:03:03,276 - INFO - ✅ Incremental save after processing item 1/228
+2025-09-22 23:05:08,743 - WARNING - Item 41 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 23:07:16,953 - INFO - ✅ Incremental save after processing item 2/228
+2025-09-22 23:08:19,084 - INFO - ✅ Incremental save after processing item 3/228
+2025-09-22 23:10:21,889 - INFO - ✅ Incremental save after processing item 4/228
+2025-09-22 23:11:45,260 - INFO - ✅ Incremental save after processing item 5/228
+2025-09-22 23:12:40,681 - INFO - ✅ Incremental save after processing item 6/228
+2025-09-22 23:14:42,717 - WARNING - Item 6 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 23:16:47,933 - INFO - ✅ Incremental save after processing item 7/228
+2025-09-22 23:17:45,216 - INFO - ✅ Incremental save after processing item 8/228
+2025-09-22 23:18:39,875 - INFO - ✅ Incremental save after processing item 9/228
+2025-09-22 23:19:39,477 - INFO - ✅ Incremental save after processing item 10/228
+2025-09-22 23:21:38,839 - WARNING - Item 10 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 23:22:26,915 - INFO - ✅ Incremental save after processing item 11/228
+2025-09-22 23:24:24,453 - WARNING - Item 11 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 23:24:45,439 - INFO - Starting the Stanley product matching process...
+2025-09-22 23:24:45,997 - INFO - Loaded 318 items from edital and 3519 products from base.
+2025-09-22 23:24:45,998 - INFO - Loading existing processed data from master_stanley.xlsx
+2025-09-22 23:24:46,046 - INFO - Identified 217 new items to process.
+2025-09-22 23:25:44,987 - INFO - Starting the Stanley product matching process...
+2025-09-22 23:25:45,475 - INFO - Loaded 318 items from edital and 3519 products from base.
+2025-09-22 23:25:45,476 - INFO - Loading existing processed data from master_stanley.xlsx
+2025-09-22 23:25:45,523 - INFO - Identified 217 new items to process.
+2025-09-22 23:26:25,216 - INFO - ✅ Incremental save after processing item 12/228
+2025-09-22 23:27:36,315 - WARNING - Item 11 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 23:28:29,664 - WARNING - Item 12 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 23:29:23,199 - INFO - ✅ Incremental save after processing item 13/228
+2025-09-22 23:29:36,412 - INFO - ✅ Incremental save after processing item 1/217
+2025-09-22 23:31:41,983 - WARNING - Item 12 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 23:33:11,172 - INFO - ✅ Incremental save after processing item 2/217
+2025-09-22 23:34:38,404 - INFO - ✅ Incremental save after processing item 3/217
+2025-09-22 23:35:34,039 - INFO - ✅ Incremental save after processing item 4/217
+2025-09-22 23:36:46,806 - INFO - Starting the Stanley product matching process...
+2025-09-22 23:36:47,311 - INFO - Loaded 318 items from edital and 3519 products from base.
+2025-09-22 23:36:47,312 - INFO - Loading existing processed data from master_stanley.xlsx
+2025-09-22 23:36:47,377 - INFO - Identified 213 new items to process.
+2025-09-22 23:37:16,806 - INFO - Starting the Stanley product matching process...
+2025-09-22 23:37:17,297 - INFO - Loaded 318 items from edital and 3519 products from base.
+2025-09-22 23:37:17,298 - INFO - Loading existing processed data from master_stanley.xlsx
+2025-09-22 23:37:17,358 - INFO - Identified 213 new items to process.
+2025-09-22 23:37:50,974 - INFO - ✅ Incremental save after processing item 1/213
+2025-09-22 23:38:24,726 - INFO - ✅ Incremental save after processing item 2/213
+2025-09-22 23:38:57,552 - INFO - ✅ Incremental save after processing item 3/213
+2025-09-22 23:40:22,363 - INFO - ✅ Incremental save after processing item 4/213
+2025-09-22 23:40:56,061 - INFO - ✅ Incremental save after processing item 5/213
+2025-09-22 23:41:30,374 - WARNING - Item 20 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 23:42:06,084 - INFO - ✅ Incremental save after processing item 6/213
+2025-09-22 23:43:27,505 - WARNING - Item 21 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 23:44:47,921 - INFO - ✅ Incremental save after processing item 7/213
+2025-09-22 23:46:08,194 - WARNING - Item 22 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 23:47:25,500 - INFO - ✅ Incremental save after processing item 8/213
+2025-09-22 23:48:43,463 - WARNING - Item 23 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 23:49:18,486 - INFO - Starting the Stanley product matching process...
+2025-09-22 23:49:18,930 - INFO - Loaded 318 items from edital and 3519 products from base.
+2025-09-22 23:49:18,931 - INFO - Loading existing processed data from master_stanley.xlsx
+2025-09-22 23:49:18,983 - INFO - Identified 205 new items to process.
+2025-09-22 23:51:30,712 - WARNING - Item 23 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 23:53:10,827 - INFO - ✅ Incremental save after processing item 1/205
+2025-09-22 23:55:27,596 - WARNING - Item 24 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 23:57:12,832 - INFO - ✅ Incremental save after processing item 2/205
+2025-09-22 23:58:05,540 - WARNING - Item 45 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-22 23:58:37,433 - INFO - ✅ Incremental save after processing item 3/205
+2025-09-23 00:00:38,239 - WARNING - Item 49 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 00:02:18,571 - INFO - ✅ Incremental save after processing item 4/205
+2025-09-23 00:04:20,050 - WARNING - Item 52 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 00:06:00,592 - INFO - ✅ Incremental save after processing item 5/205
+2025-09-23 00:08:01,001 - WARNING - Item 71 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 00:09:40,839 - INFO - ✅ Incremental save after processing item 6/205
+2025-09-23 00:11:45,251 - WARNING - Item 10 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 00:13:32,871 - INFO - ✅ Incremental save after processing item 7/205
+2025-09-23 00:14:38,851 - WARNING - Item 22 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 00:16:41,456 - INFO - ✅ Incremental save after processing item 8/205
+2025-09-23 00:17:46,804 - INFO - ✅ Incremental save after processing item 9/205
+2025-09-23 00:20:11,511 - INFO - ✅ Incremental save after processing item 10/205
+2025-09-23 00:22:33,833 - WARNING - Item 23 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 00:24:32,580 - INFO - ✅ Incremental save after processing item 11/205
+2025-09-23 00:27:00,725 - WARNING - Item 26 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 00:29:02,763 - INFO - ✅ Incremental save after processing item 12/205
+2025-09-23 00:30:09,411 - INFO - ✅ Incremental save after processing item 13/205
+2025-09-23 00:31:16,531 - INFO - ✅ Incremental save after processing item 14/205
+2025-09-23 00:32:24,221 - INFO - ✅ Incremental save after processing item 15/205
+2025-09-23 00:33:30,579 - INFO - ✅ Incremental save after processing item 16/205
+2025-09-23 00:35:57,277 - WARNING - Item 19 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 00:37:56,648 - INFO - ✅ Incremental save after processing item 17/205
+2025-09-23 00:40:07,118 - WARNING - Item 20 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 00:41:56,928 - INFO - ✅ Incremental save after processing item 18/205
+2025-09-23 00:42:51,022 - INFO - ✅ Incremental save after processing item 19/205
+2025-09-23 00:44:35,335 - INFO - ✅ Incremental save after processing item 20/205
+2025-09-23 00:47:02,041 - WARNING - Item 23 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 00:49:01,819 - INFO - ✅ Incremental save after processing item 21/205
+2025-09-23 00:51:26,820 - WARNING - Item 24 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 00:53:25,228 - INFO - ✅ Incremental save after processing item 22/205
+2025-09-23 00:54:26,569 - INFO - ✅ Incremental save after processing item 23/205
+2025-09-23 00:55:07,903 - INFO - ✅ Incremental save after processing item 24/205
+2025-09-23 00:55:56,636 - INFO - ✅ Incremental save after processing item 25/205
+2025-09-23 00:57:04,013 - INFO - ✅ Incremental save after processing item 26/205
+2025-09-23 00:59:31,725 - WARNING - Item 29 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 01:01:34,076 - INFO - ✅ Incremental save after processing item 27/205
+2025-09-23 01:02:39,392 - INFO - ✅ Incremental save after processing item 28/205
+2025-09-23 01:05:07,794 - WARNING - Item 33 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 01:07:08,159 - INFO - ✅ Incremental save after processing item 29/205
+2025-09-23 01:08:55,916 - INFO - ✅ Incremental save after processing item 30/205
+2025-09-23 01:13:12,160 - WARNING - Item 36 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 01:15:13,690 - INFO - ✅ Incremental save after processing item 31/205
+2025-09-23 01:17:42,296 - WARNING - Item 52 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 01:19:41,606 - INFO - ✅ Incremental save after processing item 32/205
+2025-09-23 01:20:47,428 - WARNING - Item 55 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 01:21:27,078 - INFO - ✅ Incremental save after processing item 33/205
+2025-09-23 01:23:48,032 - WARNING - Item 56 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 01:24:26,170 - INFO - ✅ Incremental save after processing item 34/205
+2025-09-23 01:26:52,569 - WARNING - Item 25 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 01:28:53,399 - INFO - ✅ Incremental save after processing item 35/205
+2025-09-23 01:29:57,888 - INFO - ✅ Incremental save after processing item 36/205
+2025-09-23 01:33:00,788 - WARNING - Item 60 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 01:35:02,041 - INFO - ✅ Incremental save after processing item 37/205
+2025-09-23 01:37:29,139 - WARNING - Item 69 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 01:39:30,159 - INFO - ✅ Incremental save after processing item 38/205
+2025-09-23 01:42:57,508 - WARNING - Item 1 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 01:44:59,214 - INFO - ✅ Incremental save after processing item 39/205
+2025-09-23 01:47:24,844 - WARNING - Item 2 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 01:49:23,918 - INFO - ✅ Incremental save after processing item 40/205
+2025-09-23 01:51:50,169 - WARNING - Item 3 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 01:53:50,119 - INFO - ✅ Incremental save after processing item 41/205
+2025-09-23 01:56:20,382 - WARNING - Item 1 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 01:58:24,992 - INFO - ✅ Incremental save after processing item 42/205
+2025-09-23 02:00:50,202 - INFO - ✅ Incremental save after processing item 43/205
+2025-09-23 02:03:17,230 - WARNING - Item 3 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 02:05:19,063 - INFO - ✅ Incremental save after processing item 44/205
+2025-09-23 02:07:48,261 - WARNING - Item 6 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 02:09:50,433 - INFO - ✅ Incremental save after processing item 45/205
+2025-09-23 02:12:14,965 - WARNING - Item 8 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 02:15:46,689 - INFO - ✅ Incremental save after processing item 46/205
+2025-09-23 02:20:32,063 - WARNING - Item 9 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 02:24:40,915 - INFO - ✅ Incremental save after processing item 47/205
+2025-09-23 02:29:48,867 - WARNING - Item 10 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 02:34:20,870 - INFO - ✅ Incremental save after processing item 48/205
+2025-09-23 02:36:33,281 - INFO - ✅ Incremental save after processing item 49/205
+2025-09-23 02:38:19,913 - WARNING - Item 3 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 02:39:23,233 - INFO - ✅ Incremental save after processing item 50/205
+2025-09-23 02:43:38,269 - WARNING - Item 1 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 02:47:18,246 - INFO - ✅ Incremental save after processing item 51/205
+2025-09-23 02:50:35,779 - WARNING - Item 4 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 02:52:54,829 - INFO - ✅ Incremental save after processing item 52/205
+2025-09-23 02:55:22,614 - WARNING - Item 6 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 02:58:33,755 - INFO - ✅ Incremental save after processing item 53/205
+2025-09-23 03:02:44,669 - WARNING - Item 7 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 03:06:18,382 - INFO - ✅ Incremental save after processing item 54/205
+2025-09-23 03:10:33,280 - WARNING - Item 8 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 03:13:45,091 - INFO - ✅ Incremental save after processing item 55/205
+2025-09-23 03:17:34,104 - WARNING - Item 27 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 03:20:09,483 - INFO - ✅ Incremental save after processing item 56/205
+2025-09-23 03:23:09,899 - WARNING - Item 43 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 03:25:34,380 - INFO - ✅ Incremental save after processing item 57/205
+2025-09-23 03:28:36,586 - WARNING - Item 56 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 03:31:02,071 - INFO - ✅ Incremental save after processing item 58/205
+2025-09-23 03:34:32,606 - WARNING - Item 6 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 03:36:56,744 - INFO - ✅ Incremental save after processing item 59/205
+2025-09-23 03:39:57,155 - WARNING - Item 19 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 03:42:23,074 - INFO - ✅ Incremental save after processing item 60/205
+2025-09-23 03:45:32,427 - WARNING - Item 6 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 03:48:05,222 - INFO - ✅ Incremental save after processing item 61/205
+2025-09-23 03:51:05,253 - WARNING - Item 5 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 03:53:43,711 - INFO - ✅ Incremental save after processing item 62/205
+2025-09-23 03:56:51,971 - WARNING - Item 19 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 03:59:27,547 - INFO - ✅ Incremental save after processing item 63/205
+2025-09-23 04:00:51,086 - WARNING - Item 145 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 04:01:37,337 - INFO - ✅ Incremental save after processing item 64/205
+2025-09-23 04:04:47,375 - WARNING - Item 4 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 04:07:20,561 - INFO - ✅ Incremental save after processing item 65/205
+2025-09-23 04:12:02,677 - WARNING - Item 1 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 04:14:49,165 - INFO - ✅ Incremental save after processing item 66/205
+2025-09-23 04:18:14,720 - WARNING - Item 2 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 04:21:33,700 - INFO - ✅ Incremental save after processing item 67/205
+2025-09-23 04:26:01,247 - WARNING - Item 3 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 04:30:15,204 - INFO - ✅ Incremental save after processing item 68/205
+2025-09-23 04:34:41,975 - WARNING - Item 9 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 04:38:42,438 - INFO - ✅ Incremental save after processing item 69/205
+2025-09-23 04:41:37,065 - WARNING - Item 6 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 04:43:58,620 - INFO - ✅ Incremental save after processing item 70/205
+2025-09-23 04:47:03,178 - WARNING - Item 1 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 04:49:54,957 - INFO - ✅ Incremental save after processing item 71/205
+2025-09-23 04:50:55,440 - WARNING - Item 44 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 04:52:40,593 - INFO - ✅ Incremental save after processing item 72/205
+2025-09-23 04:55:50,450 - WARNING - Item 7 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 04:58:36,302 - INFO - ✅ Incremental save after processing item 73/205
+2025-09-23 05:03:44,684 - INFO - ✅ Incremental save after processing item 74/205
+2025-09-23 05:06:56,434 - WARNING - Item 5 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 05:10:11,434 - INFO - ✅ Incremental save after processing item 75/205
+2025-09-23 05:13:36,653 - WARNING - Item 8 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 05:16:39,260 - INFO - ✅ Incremental save after processing item 76/205
+2025-09-23 05:18:02,607 - INFO - ✅ Incremental save after processing item 77/205
+2025-09-23 05:20:38,803 - WARNING - Item 456 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 05:23:05,351 - INFO - ✅ Incremental save after processing item 78/205
+2025-09-23 05:24:21,990 - INFO - ✅ Incremental save after processing item 79/205
+2025-09-23 05:25:20,075 - INFO - ✅ Incremental save after processing item 80/205
+2025-09-23 05:29:07,608 - WARNING - Item 69 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 05:31:12,191 - INFO - ✅ Incremental save after processing item 81/205
+2025-09-23 05:33:27,527 - WARNING - Item 107 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 05:35:15,364 - INFO - ✅ Incremental save after processing item 82/205
+2025-09-23 05:38:24,735 - WARNING - Item 9 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 05:40:58,636 - INFO - ✅ Incremental save after processing item 83/205
+2025-09-23 05:44:12,789 - WARNING - Item 1 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 05:47:06,918 - INFO - ✅ Incremental save after processing item 84/205
+2025-09-23 05:51:36,419 - WARNING - Item 2 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 05:54:53,709 - INFO - ✅ Incremental save after processing item 85/205
+2025-09-23 05:57:39,911 - WARNING - Item 3 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 06:00:07,969 - INFO - ✅ Incremental save after processing item 86/205
+2025-09-23 06:02:45,572 - INFO - ✅ Incremental save after processing item 87/205
+2025-09-23 06:05:46,971 - WARNING - Item 6 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 06:08:54,922 - INFO - ✅ Incremental save after processing item 88/205
+2025-09-23 06:11:18,941 - WARNING - Item 9 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 06:13:22,698 - INFO - ✅ Incremental save after processing item 89/205
+2025-09-23 06:18:06,189 - WARNING - Item 10 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 06:23:11,420 - INFO - ✅ Incremental save after processing item 90/205
+2025-09-23 06:26:07,350 - INFO - ✅ Incremental save after processing item 91/205
+2025-09-23 06:28:44,411 - WARNING - Item 12 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 06:30:40,356 - INFO - ✅ Incremental save after processing item 92/205
+2025-09-23 06:31:51,686 - WARNING - Item 13 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 06:32:58,862 - INFO - ✅ Incremental save after processing item 93/205
+2025-09-23 06:36:26,026 - WARNING - Item 1 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 06:39:45,342 - INFO - ✅ Incremental save after processing item 94/205
+2025-09-23 06:43:52,930 - WARNING - Item 2 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 06:47:35,455 - INFO - ✅ Incremental save after processing item 95/205
+2025-09-23 06:50:46,740 - WARNING - Item 8 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 06:53:05,995 - INFO - ✅ Incremental save after processing item 96/205
+2025-09-23 06:54:33,938 - INFO - ✅ Incremental save after processing item 97/205
+2025-09-23 06:58:06,110 - WARNING - Item 16 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 07:01:33,954 - INFO - ✅ Incremental save after processing item 98/205
+2025-09-23 07:04:51,114 - WARNING - Item 20 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 07:08:08,743 - INFO - ✅ Incremental save after processing item 99/205
+2025-09-23 07:11:57,715 - WARNING - Item 21 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 07:12:54,953 - INFO - ✅ Incremental save after processing item 100/205
+2025-09-23 07:14:08,187 - INFO - ✅ Incremental save after processing item 101/205
+2025-09-23 07:15:34,422 - INFO - ✅ Incremental save after processing item 102/205
+2025-09-23 07:18:28,930 - WARNING - Item 3 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 07:21:23,047 - INFO - ✅ Incremental save after processing item 103/205
+2025-09-23 07:23:37,764 - WARNING - Item 4 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 07:25:32,250 - INFO - ✅ Incremental save after processing item 104/205
+2025-09-23 07:27:32,775 - INFO - ✅ Incremental save after processing item 105/205
+2025-09-23 07:29:45,892 - INFO - ✅ Incremental save after processing item 106/205
+2025-09-23 07:33:00,715 - WARNING - Item 8 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 07:35:42,401 - INFO - ✅ Incremental save after processing item 107/205
+2025-09-23 07:37:36,558 - WARNING - Item 9 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 07:39:18,223 - INFO - ✅ Incremental save after processing item 108/205
+2025-09-23 07:40:59,737 - WARNING - Item 10 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 07:42:21,412 - INFO - ✅ Incremental save after processing item 109/205
+2025-09-23 07:43:03,270 - WARNING - Item 11 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 07:43:29,723 - INFO - ✅ Incremental save after processing item 110/205
+2025-09-23 07:45:07,985 - WARNING - Item 12 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 07:46:29,504 - INFO - ✅ Incremental save after processing item 111/205
+2025-09-23 07:48:09,531 - WARNING - Item 13 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 07:49:30,686 - INFO - ✅ Incremental save after processing item 112/205
+2025-09-23 07:51:07,403 - INFO - ✅ Incremental save after processing item 113/205
+2025-09-23 07:51:49,417 - WARNING - Item 15 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 07:52:15,670 - INFO - ✅ Incremental save after processing item 114/205
+2025-09-23 07:53:58,872 - WARNING - Item 16 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 07:55:19,548 - INFO - ✅ Incremental save after processing item 115/205
+2025-09-23 07:56:54,498 - WARNING - Item 17 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 07:58:14,682 - INFO - ✅ Incremental save after processing item 116/205
+2025-09-23 07:59:51,481 - WARNING - Item 18 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:01:12,644 - INFO - ✅ Incremental save after processing item 117/205
+2025-09-23 08:01:55,868 - INFO - ✅ Incremental save after processing item 118/205
+2025-09-23 08:02:38,695 - INFO - ✅ Incremental save after processing item 119/205
+2025-09-23 08:04:15,256 - WARNING - Item 21 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:05:35,498 - INFO - ✅ Incremental save after processing item 120/205
+2025-09-23 08:07:11,285 - WARNING - Item 22 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:08:33,233 - INFO - ✅ Incremental save after processing item 121/205
+2025-09-23 08:10:08,650 - WARNING - Item 23 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:11:31,003 - INFO - ✅ Incremental save after processing item 122/205
+2025-09-23 08:13:07,877 - WARNING - Item 24 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:14:28,397 - INFO - ✅ Incremental save after processing item 123/205
+2025-09-23 08:16:02,810 - WARNING - Item 25 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:17:22,370 - INFO - ✅ Incremental save after processing item 124/205
+2025-09-23 08:19:00,809 - WARNING - Item 26 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:20:22,878 - INFO - ✅ Incremental save after processing item 125/205
+2025-09-23 08:21:05,570 - WARNING - Item 27 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:21:32,053 - INFO - ✅ Incremental save after processing item 126/205
+2025-09-23 08:22:14,680 - WARNING - Item 28 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:22:41,047 - INFO - ✅ Incremental save after processing item 127/205
+2025-09-23 08:23:24,204 - WARNING - Item 29 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:23:50,745 - INFO - ✅ Incremental save after processing item 128/205
+2025-09-23 08:25:26,287 - WARNING - Item 30 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:26:46,905 - INFO - ✅ Incremental save after processing item 129/205
+2025-09-23 08:27:29,429 - WARNING - Item 31 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:27:56,191 - INFO - ✅ Incremental save after processing item 130/205
+2025-09-23 08:28:38,103 - WARNING - Item 32 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:29:04,427 - INFO - ✅ Incremental save after processing item 131/205
+2025-09-23 08:30:39,986 - INFO - ✅ Incremental save after processing item 132/205
+2025-09-23 08:31:24,097 - INFO - ✅ Incremental save after processing item 133/205
+2025-09-23 08:33:06,575 - WARNING - Item 1 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:34:32,052 - INFO - ✅ Incremental save after processing item 134/205
+2025-09-23 08:36:13,570 - WARNING - Item 2 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:37:39,581 - INFO - ✅ Incremental save after processing item 135/205
+2025-09-23 08:39:20,101 - WARNING - Item 3 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:40:46,303 - INFO - ✅ Incremental save after processing item 136/205
+2025-09-23 08:41:31,016 - INFO - ✅ Incremental save after processing item 137/205
+2025-09-23 08:43:08,279 - WARNING - Item 33 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:44:31,934 - INFO - ✅ Incremental save after processing item 138/205
+2025-09-23 08:46:09,211 - WARNING - Item 34 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:47:32,588 - INFO - ✅ Incremental save after processing item 139/205
+2025-09-23 08:48:14,915 - WARNING - Item 2 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:48:41,664 - INFO - ✅ Incremental save after processing item 140/205
+2025-09-23 08:49:24,956 - WARNING - Item 3 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:49:52,466 - INFO - ✅ Incremental save after processing item 141/205
+2025-09-23 08:50:34,865 - WARNING - Item 8 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:51:01,432 - INFO - ✅ Incremental save after processing item 142/205
+2025-09-23 08:52:37,593 - WARNING - Item 9 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:53:59,498 - INFO - ✅ Incremental save after processing item 143/205
+2025-09-23 08:55:42,374 - WARNING - Item 15 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 08:57:06,518 - INFO - ✅ Incremental save after processing item 144/205
+2025-09-23 08:58:47,653 - WARNING - Item 23 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:00:21,269 - INFO - ✅ Incremental save after processing item 145/205
+2025-09-23 09:02:04,763 - WARNING - Item 15 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:03:30,518 - INFO - ✅ Incremental save after processing item 146/205
+2025-09-23 09:04:12,281 - WARNING - Item 16 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:04:38,884 - INFO - ✅ Incremental save after processing item 147/205
+2025-09-23 09:06:19,390 - WARNING - Item 19 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:07:45,450 - INFO - ✅ Incremental save after processing item 148/205
+2025-09-23 09:08:29,733 - INFO - ✅ Incremental save after processing item 149/205
+2025-09-23 09:10:06,867 - WARNING - Item 54 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:10:34,358 - INFO - ✅ Incremental save after processing item 150/205
+2025-09-23 09:12:18,914 - WARNING - Item 55 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:13:44,073 - INFO - ✅ Incremental save after processing item 151/205
+2025-09-23 09:14:27,642 - INFO - ✅ Incremental save after processing item 152/205
+2025-09-23 09:16:03,650 - WARNING - Item 75 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:17:24,166 - INFO - ✅ Incremental save after processing item 153/205
+2025-09-23 09:17:39,925 - WARNING - Item 113 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:17:40,431 - INFO - ✅ Incremental save after processing item 154/205
+2025-09-23 09:19:16,066 - WARNING - Item 1 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:20:35,375 - INFO - ✅ Incremental save after processing item 155/205
+2025-09-23 09:21:17,880 - WARNING - Item 2 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:21:44,471 - INFO - ✅ Incremental save after processing item 156/205
+2025-09-23 09:23:22,999 - WARNING - Item 3 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:24:46,028 - INFO - ✅ Incremental save after processing item 157/205
+2025-09-23 09:26:21,959 - WARNING - Item 4 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:27:41,411 - INFO - ✅ Incremental save after processing item 158/205
+2025-09-23 09:29:18,240 - WARNING - Item 5 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:30:39,811 - INFO - ✅ Incremental save after processing item 159/205
+2025-09-23 09:32:17,878 - WARNING - Item 6 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:33:41,116 - INFO - ✅ Incremental save after processing item 160/205
+2025-09-23 09:34:24,336 - WARNING - Item 7 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:35:45,500 - INFO - ✅ Incremental save after processing item 161/205
+2025-09-23 09:37:22,768 - WARNING - Item 8 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:38:43,088 - INFO - ✅ Incremental save after processing item 162/205
+2025-09-23 09:39:26,606 - WARNING - Item 9 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:39:54,309 - INFO - ✅ Incremental save after processing item 163/205
+2025-09-23 09:41:30,073 - WARNING - Item 10 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:42:50,916 - INFO - ✅ Incremental save after processing item 164/205
+2025-09-23 09:44:28,671 - WARNING - Item 11 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:45:50,752 - INFO - ✅ Incremental save after processing item 165/205
+2025-09-23 09:47:26,957 - WARNING - Item 12 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:48:47,404 - INFO - ✅ Incremental save after processing item 166/205
+2025-09-23 09:50:25,887 - WARNING - Item 1 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:51:49,728 - INFO - ✅ Incremental save after processing item 167/205
+2025-09-23 09:53:31,306 - WARNING - Item 2 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:54:54,568 - INFO - ✅ Incremental save after processing item 168/205
+2025-09-23 09:56:32,795 - WARNING - Item 3 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 09:57:54,678 - INFO - ✅ Incremental save after processing item 169/205
+2025-09-23 09:59:31,670 - WARNING - Item 4 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 10:00:55,180 - INFO - ✅ Incremental save after processing item 170/205
+2025-09-23 10:02:31,916 - WARNING - Item 5 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 10:03:53,352 - INFO - ✅ Incremental save after processing item 171/205
+2025-09-23 10:05:35,416 - WARNING - Item 51 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 10:07:02,504 - INFO - ✅ Incremental save after processing item 172/205
+2025-09-23 10:08:41,260 - INFO - ✅ Incremental save after processing item 173/205
+2025-09-23 10:10:15,817 - WARNING - Item 71 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 10:11:35,107 - INFO - ✅ Incremental save after processing item 174/205
+2025-09-23 10:12:17,421 - WARNING - Item 72 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 10:12:45,437 - INFO - ✅ Incremental save after processing item 175/205
+2025-09-23 10:14:24,189 - WARNING - Item 73 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 10:15:47,178 - INFO - ✅ Incremental save after processing item 176/205
+2025-09-23 10:17:26,095 - WARNING - Item 74 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 10:18:47,821 - INFO - ✅ Incremental save after processing item 177/205
+2025-09-23 10:20:27,160 - WARNING - Item 75 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 10:21:49,439 - INFO - ✅ Incremental save after processing item 178/205
+2025-09-23 10:23:27,911 - WARNING - Item 76 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 10:24:51,771 - INFO - ✅ Incremental save after processing item 179/205
+2025-09-23 10:26:31,447 - WARNING - Item 77 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 10:27:55,688 - INFO - ✅ Incremental save after processing item 180/205
+2025-09-23 10:29:31,440 - WARNING - Item 79 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 10:30:53,912 - INFO - ✅ Incremental save after processing item 181/205
+2025-09-23 10:32:35,759 - WARNING - Item 80 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 10:34:03,552 - INFO - ✅ Incremental save after processing item 182/205
+2025-09-23 10:35:41,971 - WARNING - Item 81 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 10:37:05,945 - INFO - ✅ Incremental save after processing item 183/205
+2025-09-23 10:37:36,115 - INFO - Starting the Stanley product matching process...
+2025-09-23 10:37:36,554 - INFO - Loaded 318 items from edital and 3468 products from base.
+2025-09-23 10:37:36,556 - INFO - Loading existing processed data from master_stanley.xlsx
+2025-09-23 10:37:36,643 - INFO - Identified 22 new items to process.
+2025-09-23 10:39:17,454 - WARNING - Item 82 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 10:40:41,197 - INFO - ✅ Incremental save after processing item 1/22
+2025-09-23 10:42:19,395 - WARNING - Item 83 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 10:43:43,237 - INFO - ✅ Incremental save after processing item 2/22
+2025-09-23 10:45:22,319 - WARNING - Item 84 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 10:46:45,257 - INFO - ✅ Incremental save after processing item 3/22
+2025-09-23 10:48:22,650 - WARNING - Item 85 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 10:49:43,729 - INFO - ✅ Incremental save after processing item 4/22
+2025-09-23 10:50:28,292 - INFO - ✅ Incremental save after processing item 5/22
+2025-09-23 10:51:11,817 - INFO - ✅ Incremental save after processing item 6/22
+2025-09-23 10:52:50,553 - WARNING - Item 88 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 10:54:13,772 - INFO - ✅ Incremental save after processing item 7/22
+2025-09-23 10:55:53,571 - WARNING - Item 89 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 10:57:15,663 - INFO - ✅ Incremental save after processing item 8/22
+2025-09-23 10:58:57,667 - WARNING - Item 90 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 11:00:20,957 - INFO - ✅ Incremental save after processing item 9/22
+2025-09-23 11:02:02,610 - WARNING - Item 91 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 11:03:27,280 - INFO - ✅ Incremental save after processing item 10/22
+2025-09-23 11:05:05,184 - WARNING - Item 92 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 11:06:29,387 - INFO - ✅ Incremental save after processing item 11/22
+2025-09-23 11:07:09,926 - INFO - Starting the Stanley product matching process...
+2025-09-23 11:07:10,371 - INFO - Loaded 318 items from edital and 3468 products from base.
+2025-09-23 11:07:10,373 - INFO - Loading existing processed data from master_stanley.xlsx
+2025-09-23 11:07:10,446 - INFO - Identified 11 new items to process.
+2025-09-23 11:08:08,633 - WARNING - Item 93 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 11:09:30,785 - INFO - ✅ Incremental save after processing item 12/22
+2025-09-23 11:11:07,634 - INFO - ✅ Incremental save after processing item 13/22
+2025-09-23 11:12:46,506 - WARNING - Item 95 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 11:14:11,549 - INFO - ✅ Incremental save after processing item 14/22
+2025-09-23 11:15:50,862 - WARNING - Item 96 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 11:17:13,535 - INFO - ✅ Incremental save after processing item 15/22
+2025-09-23 11:17:56,959 - INFO - ✅ Incremental save after processing item 16/22
+2025-09-23 11:19:38,173 - WARNING - Item 98 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 11:21:02,881 - INFO - ✅ Incremental save after processing item 17/22
+2025-09-23 11:21:46,678 - WARNING - Item 99 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 11:22:20,027 - INFO - ✅ Incremental save after processing item 18/22
+2025-09-23 11:24:01,971 - WARNING - Item 100 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 11:25:27,956 - INFO - ✅ Incremental save after processing item 19/22
+2025-09-23 11:26:11,915 - WARNING - Item 101 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 11:26:40,664 - INFO - ✅ Incremental save after processing item 20/22
+2025-09-23 11:28:18,124 - WARNING - Item 102 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 11:29:39,770 - INFO - ✅ Incremental save after processing item 21/22
+2025-09-23 11:31:17,617 - WARNING - Item 103 não encontrou match. Tentando com filtro de preço expandido.
+2025-09-23 11:32:39,793 - INFO - ✅ Incremental save after processing item 22/22
+2025-09-23 11:32:39,793 - INFO - All new items processed and saved incrementally.

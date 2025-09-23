@@ -20,6 +20,7 @@ CAMINHO_EDITAL = os.path.join(BASE_DIR, "DOWNLOADS", "master.xlsx")
 CAMINHO_BASE = os.path.join(BASE_DIR, "DOWNLOADS", "METADADOS", "categoria_GPT.xlsx")
 CAMINHO_SAIDA = os.path.join(BASE_DIR, "DOWNLOADS", "master_heavy.xlsx")
 CAMINHO_HEAVY_EXISTENTE = CAMINHO_SAIDA
+
 # --- Financial Parameters ---
 PROFIT_MARGIN = 0.53  # MARGEM DE LUCRO 
 INITIAL_PRICE_FILTER_PERCENTAGE = 0.60  # FILTRO DE PREÇO DOS PRODUTOS NA BASE
@@ -443,7 +444,10 @@ def main():
     for idx, item_edital in df_edital_new.iterrows():
         descricao = str(item_edital['DESCRICAO'])
         referencia = str(item_edital.get('REFERENCIA', 'N/A'))
-        print(f"\n 📈 Processing new item {idx + 1}/{total_new_items}: {referencia[:60]}...")
+
+        print(f"\n📈 Processing new item {df_edital_new.index.get_loc(idx) + 1}/{total_new_items}: {referencia[:60]}...")
+        print(f"📈 Processing new item {df_edital_new.index.get_loc(idx) + 1}/{total_new_items}: {descricao[:60]}...")
+
         status = ""
         best_match_data = None
         closest_match_data = None
@@ -574,7 +578,7 @@ def main():
         result_row = {
             'ARQUIVO': item_edital['ARQUIVO'],
             'Nº': item_edital['Nº'],
-            'DESCRICAO': item_edital['DESCRICAO'],
+            'DESCRICAO_EDITAL': item_edital['DESCRICAO'],
             'REFERENCIA': item_edital.get('REFERENCIA'),
             'UNID_FORN': item_edital.get('UNID_FORN'),
             'QTDE': item_edital.get('QTDE'),
@@ -640,7 +644,7 @@ def main():
         df_final = df_existing
 
         output_columns = [
-            'ARQUIVO','Nº','DESCRICAO','REFERENCIA','STATUS',
+            'ARQUIVO','Nº','DESCRICAO_EDITAL','REFERENCIA','STATUS',
             'UNID_FORN', 'QTDE', 'VALOR_UNIT_EDITAL', 'VALOR_TOTAL',
             'LOCAL_ENTREGA', 'INTERVALO_LANCES',
             'MARCA_SUGERIDA', 'MODELO_SUGERIDO', 'CUSTO_FORNECEDOR',
@@ -673,8 +677,8 @@ def main():
                 worksheet.cell(row=row_idx, column=col_idx).fill = color_fill
 
         writer.close()
-        logger.info(f"✅ Incremental save after processing item {idx + 1}/{total_new_items} at {CAMINHO_SAIDA}")
-        print(f"✅ - Incremental save completed for item {idx + 1}/{total_new_items}.")
+        logger.info(f"✅ Incremental save after processing item {df_edital_new.index.get_loc(idx) + 1}/{total_new_items} at {CAMINHO_SAIDA}")
+        print(f"✅ - Incremental save completed for item {df_edital_new.index.get_loc(idx) + 1}/{total_new_items}.")
 
     logger.info("All new items processed and saved incrementally.")
     print("✅ All new items processed and saved incrementally.")

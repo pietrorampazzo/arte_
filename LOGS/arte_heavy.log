@@ -2431,3 +2431,656 @@
 2025-09-21 19:44:09,280 - INFO - ✅ Incremental save after processing item 2/196 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
 2025-09-21 19:48:32,619 - INFO - ✅ Incremental save after processing item 3/196 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
 2025-09-21 19:51:04,509 - INFO - ✅ Incremental save after processing item 4/196 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 19:52:22,664 - INFO - ✅ Incremental save after processing item 5/196 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 19:53:49,040 - INFO - ✅ Incremental save after processing item 6/196 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 19:55:01,976 - INFO - ✅ Incremental save after processing item 7/196 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 19:56:29,623 - INFO - Starting the product matching process...
+2025-09-21 19:56:29,892 - INFO - Loaded 202 items from master.xlsx and 3607 products from categoria_GPT.xlsx
+2025-09-21 19:56:29,892 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-21 19:56:29,927 - INFO - Found 74 already processed items.
+2025-09-21 19:56:29,929 - INFO - Identified 202 new items to process.
+2025-09-21 19:58:39,186 - INFO - ✅ Incremental save after processing item 1/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 19:58:45,214 - INFO - Starting the product matching process...
+2025-09-21 19:58:45,479 - INFO - Loaded 202 items from master.xlsx and 3607 products from categoria_GPT.xlsx
+2025-09-21 19:58:45,480 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-21 19:58:45,516 - INFO - Found 74 already processed items.
+2025-09-21 19:58:45,519 - INFO - Identified 202 new items to process.
+2025-09-21 20:01:16,718 - INFO - ✅ Incremental save after processing item 1/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:02:18,318 - INFO - ✅ Incremental save after processing item 2/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:03:49,646 - INFO - ✅ Incremental save after processing item 3/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:04:48,036 - INFO - ✅ Incremental save after processing item 4/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:05:41,353 - INFO - ✅ Incremental save after processing item 5/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:06:35,977 - INFO - ✅ Incremental save after processing item 6/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:07:30,325 - INFO - ✅ Incremental save after processing item 7/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:10:55,871 - INFO - ✅ Incremental save after processing item 8/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:11:52,004 - INFO - ✅ Incremental save after processing item 9/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:12:52,241 - INFO - ✅ Incremental save after processing item 10/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:13:46,996 - INFO - ✅ Incremental save after processing item 11/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:14:38,933 - INFO - ✅ Incremental save after processing item 12/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:15:31,338 - INFO - ✅ Incremental save after processing item 13/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:16:27,538 - INFO - ✅ Incremental save after processing item 14/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:17:52,636 - INFO - ✅ Incremental save after processing item 15/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:18:53,955 - INFO - ✅ Incremental save after processing item 16/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:19:47,772 - INFO - ✅ Incremental save after processing item 17/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:20:43,596 - INFO - ✅ Incremental save after processing item 18/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:21:39,344 - INFO - ✅ Incremental save after processing item 19/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:22:35,823 - INFO - ✅ Incremental save after processing item 20/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:24:10,122 - INFO - ✅ Incremental save after processing item 21/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:25:43,584 - INFO - ✅ Incremental save after processing item 22/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:26:37,940 - INFO - ✅ Incremental save after processing item 23/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:27:33,111 - INFO - ✅ Incremental save after processing item 24/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:28:54,456 - INFO - ✅ Incremental save after processing item 25/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:29:48,689 - INFO - ✅ Incremental save after processing item 26/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:33:19,701 - INFO - ✅ Incremental save after processing item 27/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:34:17,713 - INFO - ✅ Incremental save after processing item 28/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:35:11,205 - INFO - ✅ Incremental save after processing item 29/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:36:06,380 - INFO - ✅ Incremental save after processing item 30/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:37:04,787 - INFO - ✅ Incremental save after processing item 31/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:37:58,954 - INFO - ✅ Incremental save after processing item 32/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:41:17,513 - INFO - ✅ Incremental save after processing item 33/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:42:13,953 - INFO - ✅ Incremental save after processing item 34/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:43:07,542 - INFO - ✅ Incremental save after processing item 35/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:44:03,659 - INFO - ✅ Incremental save after processing item 36/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:44:57,332 - INFO - ✅ Incremental save after processing item 37/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:45:49,659 - INFO - ✅ Incremental save after processing item 38/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:46:42,925 - INFO - ✅ Incremental save after processing item 39/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:47:36,105 - INFO - ✅ Incremental save after processing item 40/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:48:28,751 - INFO - ✅ Incremental save after processing item 41/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:49:22,056 - INFO - ✅ Incremental save after processing item 42/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:50:15,267 - INFO - ✅ Incremental save after processing item 43/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:51:09,043 - INFO - ✅ Incremental save after processing item 44/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:52:07,492 - INFO - ✅ Incremental save after processing item 45/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:53:03,315 - INFO - ✅ Incremental save after processing item 46/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:53:58,987 - INFO - ✅ Incremental save after processing item 47/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:54:52,457 - INFO - ✅ Incremental save after processing item 48/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:55:46,154 - INFO - ✅ Incremental save after processing item 49/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:56:39,512 - INFO - ✅ Incremental save after processing item 50/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:57:31,241 - INFO - ✅ Incremental save after processing item 51/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:58:24,373 - INFO - ✅ Incremental save after processing item 52/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 20:59:17,705 - INFO - ✅ Incremental save after processing item 53/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:00:10,935 - INFO - ✅ Incremental save after processing item 54/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:01:03,868 - INFO - ✅ Incremental save after processing item 55/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:02:17,061 - INFO - ✅ Incremental save after processing item 56/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:03:10,263 - INFO - ✅ Incremental save after processing item 57/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:04:05,185 - INFO - ✅ Incremental save after processing item 58/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:04:59,759 - INFO - ✅ Incremental save after processing item 59/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:05:53,330 - INFO - ✅ Incremental save after processing item 60/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:07:09,648 - INFO - ✅ Incremental save after processing item 61/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:08:03,941 - INFO - ✅ Incremental save after processing item 62/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:08:57,730 - INFO - ✅ Incremental save after processing item 63/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:09:51,812 - INFO - ✅ Incremental save after processing item 64/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:10:44,477 - INFO - ✅ Incremental save after processing item 65/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:11:38,969 - INFO - ✅ Incremental save after processing item 66/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:12:31,734 - INFO - ✅ Incremental save after processing item 67/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:13:24,987 - INFO - ✅ Incremental save after processing item 68/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:14:18,400 - INFO - ✅ Incremental save after processing item 69/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:15:11,756 - INFO - ✅ Incremental save after processing item 70/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:16:04,812 - INFO - ✅ Incremental save after processing item 71/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:16:57,489 - INFO - ✅ Incremental save after processing item 72/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:17:51,552 - INFO - ✅ Incremental save after processing item 73/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:19:09,703 - INFO - ✅ Incremental save after processing item 74/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:20:03,070 - INFO - ✅ Incremental save after processing item 75/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:20:58,318 - INFO - ✅ Incremental save after processing item 76/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:22:21,788 - INFO - ✅ Incremental save after processing item 77/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:23:15,915 - INFO - ✅ Incremental save after processing item 78/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:24:08,933 - INFO - ✅ Incremental save after processing item 79/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:25:02,945 - INFO - ✅ Incremental save after processing item 80/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:25:56,500 - INFO - ✅ Incremental save after processing item 81/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:26:51,700 - INFO - ✅ Incremental save after processing item 82/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:27:44,000 - INFO - ✅ Incremental save after processing item 83/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:28:37,377 - INFO - ✅ Incremental save after processing item 84/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:29:29,785 - INFO - ✅ Incremental save after processing item 85/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:30:22,602 - INFO - ✅ Incremental save after processing item 86/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:31:16,245 - INFO - ✅ Incremental save after processing item 87/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:32:09,309 - INFO - ✅ Incremental save after processing item 88/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:33:04,412 - INFO - ✅ Incremental save after processing item 89/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:33:59,198 - INFO - ✅ Incremental save after processing item 90/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:34:52,928 - INFO - ✅ Incremental save after processing item 91/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:35:47,126 - INFO - ✅ Incremental save after processing item 92/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:36:40,429 - INFO - ✅ Incremental save after processing item 93/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:37:35,841 - INFO - ✅ Incremental save after processing item 94/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:38:34,278 - INFO - ✅ Incremental save after processing item 95/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:39:28,787 - INFO - ✅ Incremental save after processing item 96/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:40:31,777 - INFO - ✅ Incremental save after processing item 97/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:43:26,618 - INFO - ✅ Incremental save after processing item 98/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:44:52,931 - INFO - ✅ Incremental save after processing item 99/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:45:51,096 - INFO - ✅ Incremental save after processing item 100/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:46:43,426 - INFO - ✅ Incremental save after processing item 101/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:47:39,264 - INFO - ✅ Incremental save after processing item 102/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:48:33,519 - INFO - ✅ Incremental save after processing item 103/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:49:30,794 - INFO - ✅ Incremental save after processing item 104/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:50:24,423 - INFO - ✅ Incremental save after processing item 105/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:51:17,873 - INFO - ✅ Incremental save after processing item 106/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:52:44,273 - INFO - ✅ Incremental save after processing item 107/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:54:28,640 - INFO - ✅ Incremental save after processing item 108/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:55:25,243 - INFO - ✅ Incremental save after processing item 109/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:56:21,195 - INFO - ✅ Incremental save after processing item 110/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:57:15,827 - INFO - ✅ Incremental save after processing item 111/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:58:13,071 - INFO - ✅ Incremental save after processing item 112/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 21:59:13,035 - INFO - ✅ Incremental save after processing item 113/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:00:12,778 - INFO - ✅ Incremental save after processing item 114/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:01:09,261 - INFO - ✅ Incremental save after processing item 115/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:02:03,008 - INFO - ✅ Incremental save after processing item 116/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:02:56,229 - INFO - ✅ Incremental save after processing item 117/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:03:53,731 - INFO - ✅ Incremental save after processing item 118/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:04:49,147 - INFO - ✅ Incremental save after processing item 119/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:05:43,106 - INFO - ✅ Incremental save after processing item 120/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:06:38,057 - INFO - ✅ Incremental save after processing item 121/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:07:31,088 - INFO - ✅ Incremental save after processing item 122/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:08:25,252 - INFO - ✅ Incremental save after processing item 123/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:09:22,458 - INFO - ✅ Incremental save after processing item 124/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:10:17,060 - INFO - ✅ Incremental save after processing item 125/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:11:13,546 - INFO - ✅ Incremental save after processing item 126/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:12:10,308 - INFO - ✅ Incremental save after processing item 127/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:13:03,334 - INFO - ✅ Incremental save after processing item 128/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:13:56,477 - INFO - ✅ Incremental save after processing item 129/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:14:49,471 - INFO - ✅ Incremental save after processing item 130/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:15:54,058 - INFO - ✅ Incremental save after processing item 131/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:16:50,242 - INFO - ✅ Incremental save after processing item 132/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:17:53,890 - INFO - ✅ Incremental save after processing item 133/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:18:55,444 - INFO - ✅ Incremental save after processing item 134/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:19:49,524 - INFO - ✅ Incremental save after processing item 135/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:20:44,513 - INFO - ✅ Incremental save after processing item 136/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:21:38,784 - INFO - ✅ Incremental save after processing item 137/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:22:32,366 - INFO - ✅ Incremental save after processing item 138/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:23:25,010 - INFO - ✅ Incremental save after processing item 139/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:24:18,631 - INFO - ✅ Incremental save after processing item 140/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:25:12,733 - INFO - ✅ Incremental save after processing item 141/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:26:11,569 - INFO - ✅ Incremental save after processing item 142/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:27:11,150 - INFO - ✅ Incremental save after processing item 143/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:28:09,073 - INFO - ✅ Incremental save after processing item 144/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:29:02,405 - INFO - ✅ Incremental save after processing item 145/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:29:57,376 - INFO - ✅ Incremental save after processing item 146/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:31:11,125 - INFO - ✅ Incremental save after processing item 147/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:32:09,099 - INFO - ✅ Incremental save after processing item 148/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:33:02,029 - INFO - ✅ Incremental save after processing item 149/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:33:55,427 - INFO - ✅ Incremental save after processing item 150/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:34:50,197 - INFO - ✅ Incremental save after processing item 151/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:35:45,035 - INFO - ✅ Incremental save after processing item 152/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:36:39,441 - INFO - ✅ Incremental save after processing item 153/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:37:31,908 - INFO - ✅ Incremental save after processing item 154/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:38:27,311 - INFO - ✅ Incremental save after processing item 155/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:39:22,143 - INFO - ✅ Incremental save after processing item 156/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:40:15,208 - INFO - ✅ Incremental save after processing item 157/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:41:08,608 - INFO - ✅ Incremental save after processing item 158/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 22:42:01,488 - INFO - ✅ Incremental save after processing item 159/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:30:22,429 - INFO - Starting the product matching process...
+2025-09-21 23:30:22,722 - INFO - Loaded 202 items from master.xlsx and 3607 products from categoria_GPT.xlsx
+2025-09-21 23:30:22,722 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-21 23:30:22,783 - INFO - Found 175 already processed items.
+2025-09-21 23:30:22,786 - INFO - Identified 202 new items to process.
+2025-09-21 23:31:19,462 - INFO - ✅ Incremental save after processing item 1/202 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:32:42,886 - INFO - Starting the product matching process...
+2025-09-21 23:32:43,158 - INFO - Loaded 202 items from master.xlsx and 3607 products from categoria_GPT.xlsx
+2025-09-21 23:32:43,159 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-21 23:32:43,242 - INFO - Found 175 already processed items.
+2025-09-21 23:32:43,246 - INFO - Identified 202 new items to process.
+2025-09-21 23:37:53,394 - INFO - Starting the product matching process...
+2025-09-21 23:37:53,646 - INFO - Loaded 202 items from master.xlsx and 3607 products from categoria_GPT.xlsx
+2025-09-21 23:37:53,648 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-21 23:38:08,214 - INFO - Starting the product matching process...
+2025-09-21 23:38:08,484 - INFO - Loaded 202 items from master.xlsx and 3607 products from categoria_GPT.xlsx
+2025-09-21 23:38:08,485 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-21 23:38:08,520 - INFO - Found 174 already processed items.
+2025-09-21 23:38:08,525 - INFO - Identified 29 new items to process.
+2025-09-21 23:40:44,273 - INFO - Starting the product matching process...
+2025-09-21 23:40:44,557 - INFO - Loaded 202 items from master.xlsx and 3607 products from categoria_GPT.xlsx
+2025-09-21 23:40:44,558 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-21 23:40:44,593 - INFO - Found 141 already processed items.
+2025-09-21 23:40:44,595 - INFO - Identified 62 new items to process.
+2025-09-21 23:41:39,659 - INFO - ✅ Incremental save after processing item 1/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:42:34,627 - INFO - ✅ Incremental save after processing item 2/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:43:28,205 - INFO - ✅ Incremental save after processing item 3/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:44:20,312 - INFO - ✅ Incremental save after processing item 4/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:45:13,508 - INFO - ✅ Incremental save after processing item 5/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:46:06,132 - INFO - ✅ Incremental save after processing item 6/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:47:03,026 - INFO - ✅ Incremental save after processing item 7/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:47:58,339 - INFO - ✅ Incremental save after processing item 8/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:48:55,172 - INFO - ✅ Incremental save after processing item 9/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:49:47,626 - INFO - ✅ Incremental save after processing item 10/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:50:40,429 - INFO - ✅ Incremental save after processing item 11/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:51:33,613 - INFO - ✅ Incremental save after processing item 12/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:52:25,987 - INFO - ✅ Incremental save after processing item 13/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:53:19,089 - INFO - ✅ Incremental save after processing item 14/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:54:12,038 - INFO - ✅ Incremental save after processing item 15/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:55:04,148 - INFO - ✅ Incremental save after processing item 16/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:55:56,554 - INFO - ✅ Incremental save after processing item 17/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:56:49,838 - INFO - ✅ Incremental save after processing item 18/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:57:43,375 - INFO - ✅ Incremental save after processing item 19/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:58:36,338 - INFO - ✅ Incremental save after processing item 20/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-21 23:59:30,906 - INFO - ✅ Incremental save after processing item 21/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:00:24,245 - INFO - ✅ Incremental save after processing item 22/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:01:56,293 - INFO - ✅ Incremental save after processing item 23/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:02:48,264 - INFO - ✅ Incremental save after processing item 24/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:03:40,313 - INFO - ✅ Incremental save after processing item 25/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:04:33,629 - INFO - ✅ Incremental save after processing item 26/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:05:27,226 - INFO - ✅ Incremental save after processing item 27/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:06:19,780 - INFO - ✅ Incremental save after processing item 28/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:07:12,039 - INFO - ✅ Incremental save after processing item 29/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:08:05,681 - INFO - ✅ Incremental save after processing item 30/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:09:01,316 - INFO - ✅ Incremental save after processing item 31/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:09:53,854 - INFO - ✅ Incremental save after processing item 32/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:10:46,798 - INFO - ✅ Incremental save after processing item 33/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:11:40,833 - INFO - ✅ Incremental save after processing item 34/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:12:34,727 - INFO - ✅ Incremental save after processing item 35/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:13:28,403 - INFO - ✅ Incremental save after processing item 36/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:14:20,462 - INFO - ✅ Incremental save after processing item 37/62 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:16:04,906 - INFO - Starting the product matching process...
+2025-09-22 00:16:05,195 - INFO - Loaded 202 items from master.xlsx and 3607 products from categoria_GPT.xlsx
+2025-09-22 00:16:05,195 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-22 00:16:05,241 - INFO - Found 178 already processed items.
+2025-09-22 00:16:05,243 - INFO - Identified 25 new items to process.
+2025-09-22 00:16:56,128 - INFO - Starting the product matching process...
+2025-09-22 00:16:56,444 - INFO - Loaded 202 items from master.xlsx and 3607 products from categoria_GPT.xlsx
+2025-09-22 00:16:56,445 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-22 00:16:56,499 - INFO - Found 176 already processed items.
+2025-09-22 00:16:56,503 - INFO - Identified 27 new items to process.
+2025-09-22 00:17:49,920 - INFO - ✅ Incremental save after processing item 1/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:18:43,585 - INFO - ✅ Incremental save after processing item 2/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:19:36,134 - INFO - ✅ Incremental save after processing item 3/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:20:28,759 - INFO - ✅ Incremental save after processing item 4/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:21:21,834 - INFO - ✅ Incremental save after processing item 5/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:22:14,224 - INFO - ✅ Incremental save after processing item 6/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:23:06,607 - INFO - ✅ Incremental save after processing item 7/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:24:00,331 - INFO - ✅ Incremental save after processing item 8/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:24:53,181 - INFO - ✅ Incremental save after processing item 9/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:25:46,711 - INFO - ✅ Incremental save after processing item 10/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:26:39,622 - INFO - ✅ Incremental save after processing item 11/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:27:33,010 - INFO - ✅ Incremental save after processing item 12/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:28:27,573 - INFO - ✅ Incremental save after processing item 13/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:29:19,791 - INFO - ✅ Incremental save after processing item 14/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:30:13,496 - INFO - ✅ Incremental save after processing item 15/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:31:06,914 - INFO - ✅ Incremental save after processing item 16/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:32:00,000 - INFO - ✅ Incremental save after processing item 17/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:32:53,232 - INFO - ✅ Incremental save after processing item 18/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:33:46,442 - INFO - ✅ Incremental save after processing item 19/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:34:39,201 - INFO - ✅ Incremental save after processing item 20/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:35:32,261 - INFO - ✅ Incremental save after processing item 21/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:36:25,290 - INFO - ✅ Incremental save after processing item 22/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:37:18,256 - INFO - ✅ Incremental save after processing item 23/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:38:41,943 - INFO - ✅ Incremental save after processing item 24/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:39:36,168 - INFO - ✅ Incremental save after processing item 25/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:40:52,143 - INFO - ✅ Incremental save after processing item 26/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:41:45,160 - INFO - ✅ Incremental save after processing item 27/27 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 00:41:45,161 - INFO - All new items processed and saved incrementally.
+2025-09-22 08:39:23,384 - INFO - Starting the product matching process...
+2025-09-22 08:39:23,672 - INFO - Loaded 292 items from master.xlsx and 3574 products from categoria_GPT.xlsx
+2025-09-22 08:39:23,674 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-22 08:39:23,710 - INFO - Found 203 already processed items.
+2025-09-22 08:39:23,718 - INFO - Identified 90 new items to process.
+2025-09-22 08:40:57,731 - INFO - ✅ Incremental save after processing item 1/90 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 08:42:05,104 - INFO - ✅ Incremental save after processing item 2/90 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 08:43:41,325 - INFO - ✅ Incremental save after processing item 3/90 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 08:45:03,983 - INFO - ✅ Incremental save after processing item 4/90 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 08:46:15,558 - INFO - ✅ Incremental save after processing item 5/90 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 08:48:25,072 - INFO - ✅ Incremental save after processing item 6/90 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 08:50:23,635 - INFO - ✅ Incremental save after processing item 7/90 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 08:53:43,744 - INFO - ✅ Incremental save after processing item 8/90 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 08:54:24,938 - INFO - Starting the product matching process...
+2025-09-22 08:54:25,292 - INFO - Loaded 477 items from master.xlsx and 3574 products from categoria_GPT.xlsx
+2025-09-22 08:54:25,293 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-22 08:54:25,349 - INFO - Found 211 already processed items.
+2025-09-22 08:54:25,353 - INFO - Identified 267 new items to process.
+2025-09-22 08:54:49,982 - INFO - ✅ Incremental save after processing item 9/90 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 08:55:48,167 - INFO - ✅ Incremental save after processing item 1/267 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 08:56:19,223 - INFO - ✅ Incremental save after processing item 10/90 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 08:56:52,910 - INFO - ✅ Incremental save after processing item 2/267 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 08:57:39,989 - INFO - ✅ Incremental save after processing item 11/90 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 08:58:01,803 - INFO - ✅ Incremental save after processing item 3/267 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 09:25:41,857 - INFO - Starting the product matching process...
+2025-09-22 09:26:26,395 - INFO - Starting the product matching process...
+2025-09-22 09:26:26,655 - INFO - Loaded 283 items from master.xlsx and 3574 products from categoria_GPT.xlsx
+2025-09-22 09:26:26,656 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-22 09:26:26,677 - INFO - Found 78 already processed items.
+2025-09-22 09:26:26,680 - INFO - Identified 207 new items to process.
+2025-09-22 09:28:50,157 - INFO - ✅ Incremental save after processing item 1/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 09:31:08,224 - INFO - ✅ Incremental save after processing item 2/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 09:32:35,037 - INFO - ✅ Incremental save after processing item 3/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 09:33:41,351 - INFO - ✅ Incremental save after processing item 4/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 09:35:02,122 - INFO - ✅ Incremental save after processing item 5/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 09:36:19,518 - INFO - ✅ Incremental save after processing item 6/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 09:37:44,730 - INFO - ✅ Incremental save after processing item 7/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 09:41:27,940 - INFO - ✅ Incremental save after processing item 8/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 09:42:56,119 - INFO - ✅ Incremental save after processing item 9/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 09:44:27,466 - INFO - ✅ Incremental save after processing item 10/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 09:45:54,070 - INFO - ✅ Incremental save after processing item 11/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 09:47:11,880 - INFO - ✅ Incremental save after processing item 12/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 09:48:06,195 - INFO - ✅ Incremental save after processing item 13/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 09:48:59,984 - INFO - ✅ Incremental save after processing item 14/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 09:51:03,335 - INFO - ✅ Incremental save after processing item 15/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 09:52:54,411 - INFO - ✅ Incremental save after processing item 16/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 09:57:06,739 - INFO - ✅ Incremental save after processing item 17/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 09:58:29,726 - INFO - ✅ Incremental save after processing item 18/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:00:24,746 - INFO - ✅ Incremental save after processing item 19/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:02:01,715 - INFO - ✅ Incremental save after processing item 20/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:03:12,040 - INFO - ✅ Incremental save after processing item 21/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:04:53,323 - INFO - ✅ Incremental save after processing item 22/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:07:35,864 - INFO - ✅ Incremental save after processing item 23/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:09:06,094 - INFO - ✅ Incremental save after processing item 24/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:10:23,503 - INFO - ✅ Incremental save after processing item 25/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:11:44,530 - INFO - ✅ Incremental save after processing item 26/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:12:53,704 - INFO - ✅ Incremental save after processing item 27/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:14:14,128 - INFO - ✅ Incremental save after processing item 28/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:15:24,496 - INFO - ✅ Incremental save after processing item 29/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:16:54,165 - INFO - ✅ Incremental save after processing item 30/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:17:58,684 - INFO - ✅ Incremental save after processing item 31/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:19:12,305 - INFO - ✅ Incremental save after processing item 32/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:20:38,216 - INFO - ✅ Incremental save after processing item 33/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:22:18,498 - INFO - ✅ Incremental save after processing item 34/207 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:22:44,577 - INFO - Starting the product matching process...
+2025-09-22 10:22:44,832 - INFO - Loaded 286 items from master.xlsx and 3574 products from categoria_GPT.xlsx
+2025-09-22 10:22:44,833 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-22 10:22:44,860 - INFO - Found 112 already processed items.
+2025-09-22 10:22:44,862 - INFO - Identified 176 new items to process.
+2025-09-22 10:24:00,417 - INFO - ✅ Incremental save after processing item 1/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:25:19,314 - INFO - ✅ Incremental save after processing item 2/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:26:48,219 - INFO - ✅ Incremental save after processing item 3/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:28:07,625 - INFO - ✅ Incremental save after processing item 4/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:29:29,435 - INFO - ✅ Incremental save after processing item 5/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:30:39,006 - INFO - ✅ Incremental save after processing item 6/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:31:55,356 - INFO - ✅ Incremental save after processing item 7/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:33:05,542 - INFO - ✅ Incremental save after processing item 8/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:34:33,349 - INFO - ✅ Incremental save after processing item 9/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:35:45,465 - INFO - ✅ Incremental save after processing item 10/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:37:12,395 - INFO - ✅ Incremental save after processing item 11/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:38:44,848 - INFO - ✅ Incremental save after processing item 12/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:40:00,094 - INFO - ✅ Incremental save after processing item 13/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:41:03,711 - INFO - ✅ Incremental save after processing item 14/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:42:13,036 - INFO - ✅ Incremental save after processing item 15/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:43:30,479 - INFO - ✅ Incremental save after processing item 16/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:44:38,270 - INFO - ✅ Incremental save after processing item 17/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:45:41,757 - INFO - ✅ Incremental save after processing item 18/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:46:53,823 - INFO - ✅ Incremental save after processing item 19/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:48:02,347 - INFO - ✅ Incremental save after processing item 20/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:49:26,999 - INFO - ✅ Incremental save after processing item 21/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:50:29,173 - INFO - ✅ Incremental save after processing item 22/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:51:34,269 - INFO - ✅ Incremental save after processing item 23/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:53:09,483 - INFO - ✅ Incremental save after processing item 24/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:54:44,783 - INFO - ✅ Incremental save after processing item 25/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:58:08,940 - INFO - ✅ Incremental save after processing item 26/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 10:59:19,875 - INFO - ✅ Incremental save after processing item 27/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:00:21,328 - INFO - ✅ Incremental save after processing item 28/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:01:37,262 - INFO - ✅ Incremental save after processing item 29/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:03:29,638 - INFO - ✅ Incremental save after processing item 30/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:05:19,394 - INFO - ✅ Incremental save after processing item 31/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:06:47,552 - INFO - ✅ Incremental save after processing item 32/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:08:16,142 - INFO - ✅ Incremental save after processing item 33/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:09:30,051 - INFO - ✅ Incremental save after processing item 34/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:11:01,382 - INFO - ✅ Incremental save after processing item 35/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:12:19,246 - INFO - ✅ Incremental save after processing item 36/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:13:30,736 - INFO - ✅ Incremental save after processing item 37/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:18:18,371 - INFO - ✅ Incremental save after processing item 38/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:20:33,876 - INFO - ✅ Incremental save after processing item 39/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:22:07,708 - INFO - ✅ Incremental save after processing item 40/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:23:27,756 - INFO - ✅ Incremental save after processing item 41/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:24:33,611 - INFO - ✅ Incremental save after processing item 42/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:25:43,567 - INFO - ✅ Incremental save after processing item 43/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:27:05,663 - INFO - ✅ Incremental save after processing item 44/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:28:23,401 - INFO - ✅ Incremental save after processing item 45/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:29:38,465 - INFO - ✅ Incremental save after processing item 46/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:30:57,132 - INFO - ✅ Incremental save after processing item 47/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:32:04,302 - INFO - ✅ Incremental save after processing item 48/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:33:45,135 - INFO - ✅ Incremental save after processing item 49/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:35:30,401 - INFO - ✅ Incremental save after processing item 50/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:36:41,170 - INFO - ✅ Incremental save after processing item 51/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:38:08,993 - INFO - ✅ Incremental save after processing item 52/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:39:15,419 - INFO - ✅ Incremental save after processing item 53/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:40:52,994 - INFO - ✅ Incremental save after processing item 54/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:42:01,159 - INFO - ✅ Incremental save after processing item 55/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:43:19,979 - INFO - ✅ Incremental save after processing item 56/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:45:01,367 - INFO - ✅ Incremental save after processing item 57/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:46:20,147 - INFO - ✅ Incremental save after processing item 58/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:47:50,105 - INFO - ✅ Incremental save after processing item 59/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:50:38,181 - INFO - ✅ Incremental save after processing item 60/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:55:45,639 - INFO - ✅ Incremental save after processing item 61/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:56:40,033 - INFO - ✅ Incremental save after processing item 62/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:57:32,926 - INFO - ✅ Incremental save after processing item 63/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:58:26,424 - INFO - ✅ Incremental save after processing item 64/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 11:59:58,547 - INFO - ✅ Incremental save after processing item 65/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:00:51,905 - INFO - ✅ Incremental save after processing item 66/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:04:03,119 - INFO - ✅ Incremental save after processing item 67/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:05:01,383 - INFO - ✅ Incremental save after processing item 68/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:05:56,372 - INFO - ✅ Incremental save after processing item 69/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:06:50,312 - INFO - ✅ Incremental save after processing item 70/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:07:49,222 - INFO - ✅ Incremental save after processing item 71/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:08:43,575 - INFO - ✅ Incremental save after processing item 72/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:09:38,324 - INFO - ✅ Incremental save after processing item 73/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:10:31,719 - INFO - ✅ Incremental save after processing item 74/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:11:24,148 - INFO - ✅ Incremental save after processing item 75/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:12:16,656 - INFO - ✅ Incremental save after processing item 76/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:13:12,291 - INFO - ✅ Incremental save after processing item 77/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:14:05,557 - INFO - ✅ Incremental save after processing item 78/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:15:00,406 - INFO - ✅ Incremental save after processing item 79/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:15:56,068 - INFO - ✅ Incremental save after processing item 80/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:16:51,262 - INFO - ✅ Incremental save after processing item 81/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:17:45,136 - INFO - ✅ Incremental save after processing item 82/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:18:41,824 - INFO - ✅ Incremental save after processing item 83/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:19:35,421 - INFO - ✅ Incremental save after processing item 84/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:20:30,515 - INFO - ✅ Incremental save after processing item 85/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:21:23,326 - INFO - ✅ Incremental save after processing item 86/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:22:17,534 - INFO - ✅ Incremental save after processing item 87/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:23:10,820 - INFO - ✅ Incremental save after processing item 88/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:24:03,624 - INFO - ✅ Incremental save after processing item 89/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:24:57,448 - INFO - ✅ Incremental save after processing item 90/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:25:50,977 - INFO - ✅ Incremental save after processing item 91/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:26:44,269 - INFO - ✅ Incremental save after processing item 92/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:27:36,479 - INFO - ✅ Incremental save after processing item 93/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:28:29,103 - INFO - ✅ Incremental save after processing item 94/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:29:21,862 - INFO - ✅ Incremental save after processing item 95/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:30:14,461 - INFO - ✅ Incremental save after processing item 96/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:31:11,358 - INFO - ✅ Incremental save after processing item 97/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:32:03,962 - INFO - ✅ Incremental save after processing item 98/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:32:56,722 - INFO - ✅ Incremental save after processing item 99/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:33:49,951 - INFO - ✅ Incremental save after processing item 100/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:34:42,702 - INFO - ✅ Incremental save after processing item 101/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:35:35,097 - INFO - ✅ Incremental save after processing item 102/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:36:29,260 - INFO - ✅ Incremental save after processing item 103/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:37:26,491 - INFO - ✅ Incremental save after processing item 104/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:38:21,312 - INFO - ✅ Incremental save after processing item 105/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:39:16,452 - INFO - ✅ Incremental save after processing item 106/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:40:39,754 - INFO - ✅ Incremental save after processing item 107/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:41:33,608 - INFO - ✅ Incremental save after processing item 108/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:42:33,589 - INFO - ✅ Incremental save after processing item 109/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:43:28,009 - INFO - ✅ Incremental save after processing item 110/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:44:20,660 - INFO - ✅ Incremental save after processing item 111/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:45:14,546 - INFO - ✅ Incremental save after processing item 112/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:46:10,065 - INFO - ✅ Incremental save after processing item 113/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:47:02,501 - INFO - ✅ Incremental save after processing item 114/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:47:56,200 - INFO - ✅ Incremental save after processing item 115/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:48:51,748 - INFO - ✅ Incremental save after processing item 116/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:49:48,091 - INFO - ✅ Incremental save after processing item 117/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:50:42,744 - INFO - ✅ Incremental save after processing item 118/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:51:41,193 - INFO - ✅ Incremental save after processing item 119/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:52:36,507 - INFO - ✅ Incremental save after processing item 120/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:53:30,990 - INFO - ✅ Incremental save after processing item 121/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:54:24,428 - INFO - ✅ Incremental save after processing item 122/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:55:18,053 - INFO - ✅ Incremental save after processing item 123/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:56:14,963 - INFO - ✅ Incremental save after processing item 124/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:57:08,586 - INFO - ✅ Incremental save after processing item 125/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:58:01,773 - INFO - ✅ Incremental save after processing item 126/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:58:56,731 - INFO - ✅ Incremental save after processing item 127/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 12:59:49,859 - INFO - ✅ Incremental save after processing item 128/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:00:42,184 - INFO - ✅ Incremental save after processing item 129/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:01:36,794 - INFO - ✅ Incremental save after processing item 130/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:02:34,060 - INFO - ✅ Incremental save after processing item 131/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:03:27,526 - INFO - ✅ Incremental save after processing item 132/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:04:21,866 - INFO - ✅ Incremental save after processing item 133/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:05:17,642 - INFO - ✅ Incremental save after processing item 134/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:06:13,892 - INFO - ✅ Incremental save after processing item 135/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:07:11,092 - INFO - ✅ Incremental save after processing item 136/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:08:12,872 - INFO - ✅ Incremental save after processing item 137/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:09:07,842 - INFO - ✅ Incremental save after processing item 138/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:10:04,266 - INFO - ✅ Incremental save after processing item 139/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:11:04,375 - INFO - ✅ Incremental save after processing item 140/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:11:59,369 - INFO - ✅ Incremental save after processing item 141/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:12:57,590 - INFO - ✅ Incremental save after processing item 142/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:14:15,234 - INFO - ✅ Incremental save after processing item 143/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:15:09,229 - INFO - ✅ Incremental save after processing item 144/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:16:07,436 - INFO - ✅ Incremental save after processing item 145/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:17:00,790 - INFO - ✅ Incremental save after processing item 146/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:17:54,975 - INFO - ✅ Incremental save after processing item 147/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:18:48,140 - INFO - ✅ Incremental save after processing item 148/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:19:41,648 - INFO - ✅ Incremental save after processing item 149/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:20:35,513 - INFO - ✅ Incremental save after processing item 150/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:21:28,490 - INFO - ✅ Incremental save after processing item 151/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:22:23,414 - INFO - ✅ Incremental save after processing item 152/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:23:19,602 - INFO - ✅ Incremental save after processing item 153/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 13:43:57,326 - INFO - ✅ Incremental save after processing item 154/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:04:24,640 - INFO - ✅ Incremental save after processing item 155/176 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:04:57,947 - INFO - Starting the product matching process...
+2025-09-22 14:04:58,651 - INFO - Loaded 341 items from master.xlsx and 3519 products from categoria_GPT.xlsx
+2025-09-22 14:04:58,652 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-22 14:04:58,780 - INFO - Found 267 already processed items.
+2025-09-22 14:04:58,794 - INFO - Identified 76 new items to process.
+2025-09-22 14:05:50,688 - INFO - ✅ Incremental save after processing item 1/76 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:07:00,358 - INFO - ✅ Incremental save after processing item 2/76 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:07:53,794 - INFO - ✅ Incremental save after processing item 3/76 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:08:48,990 - INFO - ✅ Incremental save after processing item 4/76 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:09:41,365 - INFO - ✅ Incremental save after processing item 5/76 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:10:34,495 - INFO - ✅ Incremental save after processing item 6/76 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:11:27,668 - INFO - ✅ Incremental save after processing item 7/76 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:12:20,725 - INFO - ✅ Incremental save after processing item 8/76 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:13:13,642 - INFO - ✅ Incremental save after processing item 9/76 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:14:08,622 - INFO - ✅ Incremental save after processing item 10/76 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:35:03,910 - INFO - ✅ Incremental save after processing item 11/76 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:38:46,104 - INFO - Starting the product matching process...
+2025-09-22 14:38:46,379 - INFO - Loaded 341 items from master.xlsx and 3519 products from categoria_GPT.xlsx
+2025-09-22 14:38:46,379 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-22 14:38:46,451 - INFO - Found 278 already processed items.
+2025-09-22 14:38:46,454 - INFO - Identified 65 new items to process.
+2025-09-22 14:39:40,971 - INFO - ✅ Incremental save after processing item 1/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:40:34,397 - INFO - ✅ Incremental save after processing item 2/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:41:27,520 - INFO - ✅ Incremental save after processing item 3/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:42:22,149 - INFO - ✅ Incremental save after processing item 4/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:43:14,792 - INFO - ✅ Incremental save after processing item 5/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:44:08,790 - INFO - ✅ Incremental save after processing item 6/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:45:02,506 - INFO - ✅ Incremental save after processing item 7/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:45:57,995 - INFO - ✅ Incremental save after processing item 8/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:46:55,620 - INFO - ✅ Incremental save after processing item 9/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:47:49,078 - INFO - ✅ Incremental save after processing item 10/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:48:44,145 - INFO - ✅ Incremental save after processing item 11/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:49:37,809 - INFO - ✅ Incremental save after processing item 12/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:50:30,831 - INFO - ✅ Incremental save after processing item 13/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:51:24,373 - INFO - ✅ Incremental save after processing item 14/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:52:16,814 - INFO - ✅ Incremental save after processing item 15/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:53:10,376 - INFO - ✅ Incremental save after processing item 16/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:54:04,806 - INFO - ✅ Incremental save after processing item 17/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:55:20,793 - INFO - ✅ Incremental save after processing item 18/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:56:13,239 - INFO - ✅ Incremental save after processing item 19/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:57:06,759 - INFO - ✅ Incremental save after processing item 20/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:57:59,839 - INFO - ✅ Incremental save after processing item 21/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:58:52,534 - INFO - ✅ Incremental save after processing item 22/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 14:59:45,234 - INFO - ✅ Incremental save after processing item 23/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:00:40,179 - INFO - ✅ Incremental save after processing item 24/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:01:34,485 - INFO - ✅ Incremental save after processing item 25/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:02:27,083 - INFO - ✅ Incremental save after processing item 26/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:03:20,958 - INFO - ✅ Incremental save after processing item 27/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:04:13,573 - INFO - ✅ Incremental save after processing item 28/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:05:06,409 - INFO - ✅ Incremental save after processing item 29/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:05:59,329 - INFO - ✅ Incremental save after processing item 30/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:06:52,935 - INFO - ✅ Incremental save after processing item 31/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:07:48,601 - INFO - ✅ Incremental save after processing item 32/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:08:41,286 - INFO - ✅ Incremental save after processing item 33/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:09:37,135 - INFO - ✅ Incremental save after processing item 34/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:11:08,004 - INFO - ✅ Incremental save after processing item 35/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:12:01,070 - INFO - ✅ Incremental save after processing item 36/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:12:56,500 - INFO - ✅ Incremental save after processing item 37/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:14:24,655 - INFO - ✅ Incremental save after processing item 38/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:15:18,214 - INFO - ✅ Incremental save after processing item 39/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:16:11,970 - INFO - ✅ Incremental save after processing item 40/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:17:04,529 - INFO - ✅ Incremental save after processing item 41/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:17:58,543 - INFO - ✅ Incremental save after processing item 42/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:18:52,079 - INFO - ✅ Incremental save after processing item 43/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:19:46,072 - INFO - ✅ Incremental save after processing item 44/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:20:39,884 - INFO - ✅ Incremental save after processing item 45/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:21:33,518 - INFO - ✅ Incremental save after processing item 46/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:22:27,994 - INFO - ✅ Incremental save after processing item 47/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:23:20,861 - INFO - ✅ Incremental save after processing item 48/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:24:15,366 - INFO - ✅ Incremental save after processing item 49/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:25:08,602 - INFO - ✅ Incremental save after processing item 50/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:26:01,888 - INFO - ✅ Incremental save after processing item 51/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:26:54,815 - INFO - ✅ Incremental save after processing item 52/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:27:47,755 - INFO - ✅ Incremental save after processing item 53/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:28:41,132 - INFO - ✅ Incremental save after processing item 54/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:29:34,468 - INFO - ✅ Incremental save after processing item 55/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:30:28,414 - INFO - ✅ Incremental save after processing item 56/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:31:23,070 - INFO - ✅ Incremental save after processing item 57/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:32:16,797 - INFO - ✅ Incremental save after processing item 58/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:33:10,521 - INFO - ✅ Incremental save after processing item 59/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:34:04,133 - INFO - ✅ Incremental save after processing item 60/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:34:57,363 - INFO - ✅ Incremental save after processing item 61/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:35:51,165 - INFO - ✅ Incremental save after processing item 62/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:36:46,534 - INFO - ✅ Incremental save after processing item 63/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:38:05,615 - INFO - ✅ Incremental save after processing item 64/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:38:58,009 - INFO - ✅ Incremental save after processing item 65/65 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:38:58,010 - INFO - All new items processed and saved incrementally.
+2025-09-22 15:48:03,511 - INFO - Starting the product matching process...
+2025-09-22 15:48:04,386 - INFO - Loaded 341 items from master.xlsx and 3519 products from categoria_GPT.xlsx
+2025-09-22 15:48:04,387 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-22 15:48:04,487 - INFO - Found 294 already processed items.
+2025-09-22 15:48:04,505 - INFO - Identified 49 new items to process.
+2025-09-22 15:48:58,365 - INFO - ✅ Incremental save after processing item 1/49 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:49:51,397 - INFO - ✅ Incremental save after processing item 2/49 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:50:44,718 - INFO - ✅ Incremental save after processing item 3/49 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:51:38,603 - INFO - ✅ Incremental save after processing item 4/49 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:52:44,636 - INFO - ✅ Incremental save after processing item 5/49 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:53:44,273 - INFO - ✅ Incremental save after processing item 6/49 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:54:39,183 - INFO - ✅ Incremental save after processing item 7/49 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:55:32,339 - INFO - ✅ Incremental save after processing item 8/49 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:56:26,391 - INFO - ✅ Incremental save after processing item 9/49 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:57:20,790 - INFO - ✅ Incremental save after processing item 10/49 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:58:14,488 - INFO - ✅ Incremental save after processing item 11/49 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:59:06,883 - INFO - ✅ Incremental save after processing item 12/49 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 15:59:29,268 - INFO - Starting the product matching process...
+2025-09-22 15:59:29,628 - INFO - Loaded 341 items from master.xlsx and 3519 products from categoria_GPT.xlsx
+2025-09-22 15:59:29,629 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-22 15:59:29,710 - INFO - Found 306 already processed items.
+2025-09-22 15:59:29,712 - INFO - Identified 37 new items to process.
+2025-09-22 16:00:59,567 - INFO - ✅ Incremental save after processing item 1/37 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:02:09,552 - INFO - ✅ Incremental save after processing item 2/37 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:03:04,059 - INFO - ✅ Incremental save after processing item 3/37 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:03:27,066 - INFO - Starting the product matching process...
+2025-09-22 16:03:27,398 - INFO - Loaded 341 items from master.xlsx and 3519 products from categoria_GPT.xlsx
+2025-09-22 16:03:27,399 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-22 16:03:27,475 - INFO - Found 309 already processed items.
+2025-09-22 16:03:27,478 - INFO - Identified 34 new items to process.
+2025-09-22 16:04:20,803 - INFO - ✅ Incremental save after processing item 1/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:05:17,266 - INFO - ✅ Incremental save after processing item 2/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:06:10,200 - INFO - ✅ Incremental save after processing item 3/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:07:03,536 - INFO - ✅ Incremental save after processing item 4/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:07:56,151 - INFO - ✅ Incremental save after processing item 5/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:08:49,443 - INFO - ✅ Incremental save after processing item 6/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:09:44,468 - INFO - ✅ Incremental save after processing item 7/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:10:37,590 - INFO - ✅ Incremental save after processing item 8/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:11:33,470 - INFO - ✅ Incremental save after processing item 9/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:12:27,391 - INFO - ✅ Incremental save after processing item 10/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:13:23,235 - INFO - ✅ Incremental save after processing item 11/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:14:17,994 - INFO - ✅ Incremental save after processing item 12/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:15:19,670 - INFO - ✅ Incremental save after processing item 13/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:16:12,597 - INFO - ✅ Incremental save after processing item 14/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:17:05,204 - INFO - ✅ Incremental save after processing item 15/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:17:57,550 - INFO - ✅ Incremental save after processing item 16/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:18:50,481 - INFO - ✅ Incremental save after processing item 17/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:19:42,611 - INFO - ✅ Incremental save after processing item 18/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:20:35,133 - INFO - ✅ Incremental save after processing item 19/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:21:29,795 - INFO - ✅ Incremental save after processing item 20/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:22:23,210 - INFO - ✅ Incremental save after processing item 21/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:23:15,825 - INFO - ✅ Incremental save after processing item 22/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:24:07,722 - INFO - ✅ Incremental save after processing item 23/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:25:00,783 - INFO - ✅ Incremental save after processing item 24/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:25:53,268 - INFO - ✅ Incremental save after processing item 25/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:26:48,113 - INFO - ✅ Incremental save after processing item 26/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:27:41,185 - INFO - ✅ Incremental save after processing item 27/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:28:34,674 - INFO - ✅ Incremental save after processing item 28/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:29:29,714 - INFO - ✅ Incremental save after processing item 29/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:30:24,287 - INFO - ✅ Incremental save after processing item 30/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:31:19,477 - INFO - ✅ Incremental save after processing item 31/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:32:14,404 - INFO - ✅ Incremental save after processing item 32/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:33:10,750 - INFO - ✅ Incremental save after processing item 33/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:34:04,328 - INFO - ✅ Incremental save after processing item 34/34 at C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master_heavy.xlsx
+2025-09-22 16:34:04,329 - INFO - All new items processed and saved incrementally.
+2025-09-23 11:16:15,701 - INFO - Starting the product matching process...
+2025-09-23 11:16:16,165 - INFO - Loaded 572 items from master.xlsx and 3468 products from categoria_GPT.xlsx
+2025-09-23 11:16:16,165 - INFO - Loading existing processed data from master_heavy.xlsx
+2025-09-23 11:16:16,251 - INFO - Found 343 already processed items.
+2025-09-23 11:16:16,255 - INFO - Identified 255 new items to process.

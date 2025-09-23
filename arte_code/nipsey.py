@@ -50,8 +50,7 @@ BASE_DIR = r"C:\Users\pietr\OneDrive\.vscode\arte_"
 DOWNLOADS_DIR = os.path.join(BASE_DIR, "DOWNLOADS")
 SCRIPTS_DIR = os.path.join(BASE_DIR, "arte_code")
 
-# Caminhos dos scripts - CORREÇÃO DOS CAMINHOS
-DOWNLOAD_SCRIPT = r"C:\Users\pietr\OneDrive\.vscode\arte_\arte_code\arte_orquestra.py"
+DOWNLOAD_SCRIPT = os.path.join(SCRIPTS_DIR, "arte_orquestra.py")
 METADADOS_SCRIPT = os.path.join(SCRIPTS_DIR, "arte_metadados.py")
 HEAVY_SCRIPT = os.path.join(SCRIPTS_DIR, "arte_heavy.py")  # ajustado para o caminho correto
 

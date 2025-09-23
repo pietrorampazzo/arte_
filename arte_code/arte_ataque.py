@@ -56,7 +56,14 @@ PALAVRAS_CHAVE = [
     r'Ukulele',
 
     # ------------------ Percussão ------------------
-    r'tarol',
+    r'tarol', r'Bombo', r'CAIXA TENOR', r'Caixa tenor', r'Caixa de guerra',
+    r'Bateria', r'Bateria completa', r'Bateria eletrônica',
+    r'Pandeiro', r'Pandeiro profissional',
+    r'Atabaque', r'Congas', r'Timbau',
+    r'Xilofone', r'Glockenspiel', r'Vibrafone',
+    r'Tamborim', r'Reco-reco', r'Agogô', r'Chocalho',
+    r'Prato de bateria', r'Prato de Bateria', r'TRIÂNGULO',
+    r'Baqueta', r'Baquetas', r'PAD ESTUDO', r'QUADRITOM', 
 
     # ------------------ Teclas ------------------
     r'Piano',
@@ -71,6 +78,7 @@ PALAVRAS_CHAVE = [
     r'Base microfone',
     r'Medusa para microfone',
     r'Pré-amplificador microfone',
+    r'Fone Ouvido', r'Gooseneck',
 
     # ------------------ Áudio (caixas, amplificação, interfaces) ------------------
     r'Caixa Acústica',
@@ -94,7 +102,7 @@ PALAVRAS_CHAVE = [
     r'Projetor Multimídia', r'PROJETOR MULTIMÍDIA', r'Projetor imagem',
 
     # ------------------ Efeitos ------------------
-    r'drone', r'DRONE'
+    r'drone', r'DRONE', r'Aeronave', r'Energia solar',
 
 ]
 
@@ -103,14 +111,26 @@ REGEX_FILTRO = re.compile('|'.join(PALAVRAS_CHAVE), re.IGNORECASE)
 
 # --- Configurações de Exclusão ---
 PALAVRAS_EXCLUIR = [
-    r'notebook', r'Dosímetro Digital',
-    r'webcam', r'Porteiro Eletrônico',
-    r'Microcomputador', r'Lâmpada projetor',
-    r'Aparelho Telefônico', r'Decibelímetro',
-    r'Câmera', 
+    r'notebook', r'Dosímetro Digital', r'Radiação',r'Raios X', r'Aparelho eletroestimulador',
+    r'webcam', r'Porteiro Eletrônico', r'Alicate Amperímetro',r'multímetro', r'Gabinete Para Computador', 
+    r'Microcomputador', r'Lâmpada projetor', r'Furadeira', r'Luminária', r'Parafusadeira', r'Brinquedo em geral', 
+    r'Aparelho Telefônico', r'Decibelímetro', r'Termohigrômetro', r'Trenador', r'Balança Eletrônica', r'BATERIA DE LÍTIO', 
+    r'Câmera', r'smart TV', r'bombona', r'LAMPADA', r'LUMINARIA', r'ortopedia', r'Calculadora eletrônica', r'Luz Emergência', r'Desfibrilador', 
+    r'Colorímetro', r'Peagâmetro', r'Rugosimetro', r'Nível De Precisão', r'Memória Flash', r'Fechadura Biometrica', r'Bateria Telefone', 
+    r'Testador Bateria', r'Analisador cabeamento', r'Termômetro', r'Sensor infravermelho', r'Relógio Material', r'Armário de aço',
+    r'Bateria recarregável', r'Serra portátil', r'Ultrassom', r'Bateria não recarregável', r'Arduino', r'ALICATE TERRÔMETRO'
+    r'Lâmina laboratório', r'Medidor E Balanceador', r'Trena eletrônica', r'Acumulador Tensão', r'Sirene Multiaplicação', r'Clinômetro', 
+    r'COLETOR DE ASSINATURA', r'Localizador cabo', r'Laserpoint', r'Bateria Filmadora', 
+
 
 ]
 REGEX_EXCLUIR = re.compile('|'.join(PALAVRAS_EXCLUIR), re.IGNORECASE)
+
+# --- Configurações de Exceção ao Filtro ---
+PALAVRAS_EXCECAO = [
+    r'drone', r'DRONE', r'Aeronave',
+]
+REGEX_EXCECAO = re.compile('|'.join(PALAVRAS_EXCECAO), re.IGNORECASE)
 
 
 
@@ -478,12 +498,18 @@ def main():
         mask_referencia = df_master['REFERENCIA'].apply(lambda x: bool(REGEX_FILTRO.search(x)))
         df_com_relevantes = df_master[mask_descricao | mask_referencia]
 
-        # Aplicar filtro de exclusão (palavras indesejadas)
-        mask_excluir_desc = df_com_relevantes['DESCRICAO'].apply(lambda x: not bool(REGEX_EXCLUIR.search(x)))
-        mask_excluir_ref = df_com_relevantes['REFERENCIA'].apply(lambda x: not bool(REGEX_EXCLUIR.search(x)))
-        
-        # Um item é mantido somente se NENHUMA das colunas contiver uma palavra a ser excluída
-        df_filtrado = df_com_relevantes[mask_excluir_desc & mask_excluir_ref].copy()
+        # Aplicar filtro de exclusão, mas com exceções
+        def deve_manter(row):
+            texto_completo = f"{row['DESCRICAO']} {row['REFERENCIA']}"
+            # Se o texto contiver uma palavra de exceção (ex: 'drone'), mantenha o item.
+            if REGEX_EXCECAO.search(texto_completo):
+                return True
+            # Caso contrário, verifique se contém uma palavra de exclusão. Se contiver, remova.
+            if REGEX_EXCLUIR.search(texto_completo):
+                return False
+            # Se não contiver exceção nem exclusão, mantenha (já passou pelo filtro de inclusão).
+            return True
+        df_filtrado = df_com_relevantes[df_com_relevantes.apply(deve_manter, axis=1)].copy()
 
         df_filtrado.to_excel(FINAL_MASTER_PATH, index=False)
         print(f"✅ Arquivo 'master.xlsx' criado com {len(df_filtrado)} itens relevantes.")

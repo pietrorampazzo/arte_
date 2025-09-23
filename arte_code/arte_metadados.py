@@ -57,14 +57,14 @@ logger = logging.getLogger(__name__)
 # --- Estrutura de Categorias ---
 # Centralizar as categorias facilita a manutenção e a consistência com o prompt.
 CATEGORIAS_PRODUTOS = {
-    "EQUIPAMENTO_SOM": ["caixa_ativa", "caixa_passiva", "caixa_portatil", "line_array", "subwoofer_ativo", "subwoofer_passivo", "amplificador_potencia", "cabeçote_amplificado", "coluna_vertical", "monitor_de_palco"],
-    "EQUIPAMENTO_AUDIO": ["microfone_dinamico", "microfone_condensador", "microfone_lapela", "microfone_sem_fio", "microfone_instrumento", "mesa_analogica", "mesa_digital", "interface_audio", "processador_dsp", "fone_monitor", "sistema_iem", "pedal_efeitos"],
-    "INSTRUMENTO_CORDA": ["violao", "guitarra", "contra_baixo", "violino", "violoncelo", "ukulele", "cavaquinho"],
-    "INSTRUMENTO_PERCUSSAO": ["bateria_acustica", "bateria_eletronica", "repinique", "rocari", "tantan", "rebolo", "surdo_mao", "cuica", "zabumba", "caixa_guerra", "bombo_fanfarra", "lira_marcha", "tarol", "malacacheta", "caixa_bateria", "pandeiro", "tamborim", "reco_reco", "agogô", "triangulo", "chocalho", "afuche", "cajon", "bongo", "conga", "djembé", "timbal", "atabaque", "berimbau", "tam_tam", "caxixi", "carilhao", "xequerê", "prato"],
-    "INSTRUMENTO_SOPRO": ["saxofone", "trompete", "trombone", "trompa", "clarinete", "flauta", "tuba", "flugelhorn", "bombardino", "corneta", "cornetão"],
-    "INSTRUMENTO_TECLADO": ["teclado_digital", "piano_acustico", "piano_digital", "sintetizador", "controlador_midi", "glockenspiel", "metalofone"],
-    "ACESSORIO_MUSICAL": ["banco_teclado", "estante_partitura", "suporte_microfone", "suporte_instrumento", "carrinho_transporte", "case_bag", "afinador", "metronomo", "cabos_audio", "palheta", "cordas", "oleo_lubrificante", "graxa", "surdina", "bocal_trompete", "pele_percussao", "baqueta", "talabarte", "pedal_bumbo", "chimbal_hihat"],
-    "EQUIPAMENTO_TECNICO": ["ssd", "fonte_energia", "switch_rede", "projetor", "drone"]
+        "EQUIPAMENTO_SOM" : ["caixa_ativa", "caixa_passiva", "caixa_portatil", "line_array", "subwoofer_ativo", "subwoofer_passivo", "amplificador_potencia", "cabeçote_amplificado", "coluna_vertical", "monitor_de_palco"],
+        "EQUIPAMENTO_AUDIO" : ["microfone_dinamico", "microfone_condensador", "microfone_lapela", "microfone_sem_fio", "microfone_instrumento", "mesa_analogica", "mesa_digital", "interface_audio", "processador_dsp", "fone_monitor", "sistema_iem", "pedal_efeitos"],
+        "INSTRUMENTO_CORDA" : ["violao", "guitarra", "contra_baixo", "violino", "violoncelo", "ukulele", "cavaquinho"],
+        "INSTRUMENTO_PERCUSSAO" : ["bateria_acustica", "bateria_eletronica", "repinique", "rocari", "tantan", "rebolo","surdo_mao", "cuica", "zabumba", "caixa_guerra", "bombo_fanfarra", "lira_marcha","tarol", "malacacheta", "caixa_bateria", "pandeiro", "tamborim","reco_reco", "agogô", "triangulo", "chocalho", "afuche", "cajon", "bongo", "conga", "djembé", "timbal", "atabaque", "berimbau","tam_tam", "caxixi", "carilhao", "xequerê", "prato"],
+        "INSTRUMENTO_SOPRO" : ["saxofone", "trompete", "trombone", "trompa", "clarinete", "flauta", "tuba", "flugelhorn", "bombardino", "corneta", "cornetão"],
+        "INSTRUMENTO_TECLADO" : ["teclado_digital", "piano_acustico", "piano_digital", "sintetizador", "controlador_midi", "glockenspiel", "metalofone"],
+        "ACESSORIO_MUSICAL" : ["banco_teclado", "estante_partitura", "suporte_microfone", "suporte_instrumento", "carrinho_transporte", "case_bag", "afinador", "metronomo", "cabos_audio", "palheta", "cordas", "oleo_lubrificante", "graxa", "surdina", "bocal_trompete", "pele_percussao", "baqueta", "talabarte", "pedal_bumbo", "chimbal_hihat"],
+        "EQUIPAMENTO_TECNICO" : ["ssd", "fonte_energia", "switch_rede", "projetor", "drone"]
 }
 
 def append_df_to_excel(filename, df, **to_excel_kwargs):

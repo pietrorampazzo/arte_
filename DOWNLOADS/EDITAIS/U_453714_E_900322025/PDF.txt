@@ -1,0 +1,733 @@
+J FAPEC
+
+TERMO DE REFERÊNCIA
+
+1.  DOOBJETO
+
+1.1.  Aquisição de equipamentos para laboratórios de Comunicação e Artes da FAALC/UFMS, para
+
+atender às demandas do Projeto 375-UFMS - Contrato nº 120/2023 - "Qualificação dos equipamentos e
+
+laboratórios de Artes e Comunicação para a inovação no ensino”, sob a Coordenação do Prof. Gustavo
+
+Rodrigues Penha, conforme condições, quantidades e exigências estabelecidas neste instrumento.
+1.2. Especificação detalhada do objeto:
+1.2.1. Pedido de Compra nº 25312/2025 — Projeto 375
+
+MICROFONE LAPELA SEM FIO
+BOYA BY-WM8
+
+Descrição: Oscilador de controle
+sintetizado PLL. Faixa de frequência: 576,4
+a 599,9 MHz (Transmissor A); 568,6 a
+592,1 MHz (Transmissor B). Canais: 48.
+Resposta de frequência: 40 Hz a 18 kHz (t
+
+3 dB). Alcance de operação: 100 m (sem
+1. 4 UNID. R$ 962,95 R$ 3.851,80
+obstáculo). Transmissor: Potência de saída
+RF: 10 mW. Emissão espúria: 250 nW ou
+menos. Conectores de entrada de áudio:
+entrada de microfone de 1/8" / 3,5 mm
+(P2); entrada de nível de linha de 1/8" / 3,5
+mm (P2). Nível de entrada de referência: -
+60 dBV (Mic Input, O dB attenuation).
+
+Desvio de referência: + 5 kHz (-60 dBV,
+
+FUNDACAOFAPEC.ORG.BR
+
+FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA FAPECGFAPEC.ORG | t> +55(67)3345-5910
+AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA "
+
+CNPJ: Nº 15.513.690/0001-50
+
+
+
+J FAPEC
+
+entrada de 1 kHz). Faixa de frequência de
+entrada: 20 Hz a 20 kHz. Distorção: 0,5%
+ou menos. Fonte de alimentação: 2 pilhas
+tamanho AA. Receptor: Conectores de
+saída de áudio: 1/8" / 3,5 mm P2; fones P2.
+Relação sinal/ruído: 70 dB ou mais.
+Distorção: 0,5% ou menos. Nível de saída
+de headphone: 30 mW (16 ohms). Nível de
+saída de áudio: -60 dBV. Fonte de
+alimentação: 2 pilhas tamanho AA. Tempo
+de operação: cerca de 4 horas. Itens
+inclusos: 01 receptor Boya BY-WMS8 canal
+duplo; 02 transmissores de bolso sem fio;
+02 microfones de lapela omnidirecionais;
+02 para-brisas de espuma; 02 clipes de
+microfone; 01 montagem de sapata; O1
+cabo de saída de 3,5 mm para XLR
+(P2/XLR); 01 cabo de saída de 3,5 mm para
+3,5 mm (P2/P2); O1 maleta para proteção e
+
+transporte.
+
+MICROFONE DE LAPELA DUPLO
+SEM FIO BOYA BY-WM4 PRO K6
+PARA DISPOSITIVOS E
+SMARTPHONES ANDROID (USB-C)
+Descrição: Sistema de modulação: GFSK.
+Faixa de frequência: 2,4 GHz (2405-2478
+MHz). Resposta de frequência: 35 Hz — 14
+kHz ( 3 dB). Relação sinal/ruído: 84 dB
+
+ou mais. Nível de saída do fone de ouvido:
+
+UNID. R$2.012,19
+
+R$ 6.036,57
+
+FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA
+AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA
+
+FUNDACAOFAPEC.ORG.BR
+
+FAPECGFAPEC.ORG |
+CNPJ: Nº 15.513.690/0001-50
+
++55 (67) 3345-5910
+
+
+
+J FAPEC
+
+32 O, 65 mW. Sensibilidade de recepção: -
+90 dB + 3 dB /0 dB= 1V/Pa, 1 kHz7.
+Conector do receptor: USB-C. Faixa de
+
+operação: 60 m (sem obstáculos).
+Alimentação do transmissor: 2 pilhas AAA
+3 V (não incluídas). Consumo de energia do
+transmissor: 3V / 70 mA. Dimensões:
+Transmissor: 4,5 em x 7,0 cm x 3,5 cm.
+Receptor: 8,2 em x 3,07 em x 1,2 em. Peso:
+Transmissor: 47 g (sem bateria). Receptor:
+12 g (sem bateria). Itens inclusos: 2
+transmissores TX4 Pro; | receptor RXD
+Pro; 2 microfones de lapela
+omnidirecionais (125 em); 1 estojo de
+
+proteção e transporte.
+
+GRAVADOR ZOOM H6
+Descrição: Número de tracks: WAV: 6;
+MP3: 2. Taxa máxima de
+amostragem/resolução: 96 kHz / 24-bit.
+Microfone: intercambiável, X/Y
+condensador cardioide estéreo. Memória
+aceita: SD (16 MB a 2 GB), SDHC (4 a 32
+GB), SDXC (64 a 128 GB). Formatos de
+áudio: BWF, MP3, WAV. Taxa de
+amostragem: WAV: 44.1 / 48 / 96 kHz;
+MP3: 44.1 kHz. Profundidade de bit: 16 /
+24-bit. Conectores: 4 entradas XLR TRS
+balanceadas / linha desbalanceada / entrada
+
+de microfone; | entrada de linha/microfone
+
+UNID. R$ 3.850,63
+
+R$ 7.701,26
+
+FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA
+AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA
+
+FUNDACAOFAPEC.ORG.BR
+
+FAPECGFAPEC.ORG | +55 (67) 3345-5910
+CNPJ: Nº 15.513.690/0001-50
+
+
+
+J FAPEC
+
+não balanceada TRS P2; saída de linha não
+balanceada TRS P2; saída de fone de
+ouvido TRS não balanceada P2. Itens
+inclusos: 01 gravador de áudio Zoom H6
+AIll Black 6-input; 01 cápsula de microfone
+H6 All Black X/Y; 04 pilhas AA; 01
+
+manual.
+
+CÂMERA BLACKMAGIC POCKET
+CINEMA 4K
+Descrição: Sensor de imagem 4/3, ISO
+duplo nativo. Possui 13 pontos de faixa
+dinâmica e ISO nativo duplo de até 25.600
+para capturar imagens em resoluções de até
+DCI 4K. Montagem de lente: Micro Quatro
+Terços. Resoluções de filmagem: 4096 x
+2160 (DCI 4K), 3840 x 2160 (Ultra HD
+4K), 1920 x 1080 (HD). Tela: touchscreen
+de 5". Captura em CFast 2.0, SD/UHS-I e
+USB Type-C. Alimentação: bateria
+recarregável Canon LP-E6 ou fonte inclusa.
+Inclui chave de ativação do DaVinci
+
+Resolve Studio.
+
+LENTE EF 24-70MM F/2.8L II USM
+Descrição: Intervalo de zoom versátil de
+24-70 mm. Design óptico completamente
+novo. Elementos de dispersão ultrabaixa
+
+(UD) e Super UD. Abertura máxima de
+
+£/2.8 rápida. Distância mínima de focagem:
+
+0,38 m. Proteção contra pó e umidade.
+
+R$
+UNID. | R$ 14.363,25
+28.726,50
+R$
+UNID. | R$ 18.642,92
+18.642,92
+
+FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA
+AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA
+
+FUNDACAOFAPEC.ORG.BR
+
+FAPECGFAPEC.ORG | +55 (67) 3345-5910
+CNPJ: Nº 15.513.690/0001-50
+
+
+
+J FAPEC
+
+Focagem automática rápida e silenciosa.
+Controle de focagem manual. Abertura
+circular de 9 lâminas. Similar ou superior à
+marca Canon.
+
+MONITOR DE ÁUDIO EDIFIER
+R1000T4 PRETO
+
+Descrição: Dimensões das caixas: 20 / 14,8
+/23,5 em (profundidade/largura/altura).
+Dados técnicos: Potência: 24 W RMS (12
+W x 2). Agudos: 1,2". Graves: 4". Proteção
+magnética: sim. Relação sinal/ruído: > 85
+dB. Distorção: 0,5%. Resposta de
+frequência: 75 Hz — 18 kHz ( 9 dB). Nível
+
+6. 2 UNID. R$ 1.134,99º | R$2.269,98
+de entrada: PC: 700 mV + 50 mV; Aux: 550
+
+mV + 50 mV. Bivolt. Impedância: 4 ohms.
+Medidas do produto: C 14,8 x PI9,8xA
+23,3 cm. Medidas da embalagem: C 35,8 x
+L 26,3 x A 27,5 cm. Itens inclusos: 1 coluna
+ativa, 1 coluna passiva, 1 cabo de ligação
+das colunas, 1 cabo de áudio P2 (3,5 mm)
+para RCA duplo, 1 cabo de áudio RCA para
+RCA estéreo.
+
+CÂMERA PXW-Z150
+Descrição: Sensor Exmor RS CMOS de 1"
+UHD 4K (3840 x 2160) até 30p; HD até
+T. 120 fps. Zoom óptico de 12x, zoom de 2 UNID. | R$27.300,00
+
+R$
+
+54.600,00
+imagem clara 18/24x, zoom digital 48x.
+
+Foco manual discreto. Anéis de íris.
+
+Formatos: XAVC, AVC/H.264, AVCHD
+
+FUNDACAOFAPEC.ORG.BR
+
+FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA FAPECGFAPEC.ORG | t> +55(67)3345-5910
+AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA -
+
+CNPJ: Nº 15.513.690/0001-50
+
+
+
+J
+
+Fundação
+
+FAPEC
+
+2.0, MPEG-4. Função de movimento lento
+e rápido. Armazenamento: dois slots de
+cartão SD. Conectividade: Wi-Fi. Áudio: 2
+entradas XLR de 3 pinos.
+
+VARA DE BOOM DE FIBRA DE
+
+CARBONO (MÍNIMO 2,5 M)
+
+Descrição: Boom extensível para
+microfones, com 5 seções e alongamento
+ultra suave. Rosca de 3/8" e adaptador de
+5/8". Comprimento máximo: 6 m. Punho
+acolchoado em neoprene. Construção em
+
+fibra de carbono. Ideal para microfones
+
+direcionais e shotgun.
+
+UNID.
+
+RS$ 1.731,88
+
+RS$ 1.731,88
+
+FONE DE OUVIDO
+Descrição: Fone de ouvido tipo Over-Ear
+(circumaural), estilo Earcup fechado.
+Resposta de frequência: 10 Hz — 20 kHz.
+Sensibilidade: 104 dB. Impedância: 63
+ohms. Potência máxima suportada: 1000
+mW. Similar ou superior ao Sony 7506
+
+Studio Headphones.
+
+UNID.
+
+R$ 1.130,52
+
+R$ 3.391,56
+
+10.
+
+MICROFONE SHOTGUN RODE NTG4
+SUPERCARDIOIDE CONDENSADOR
+(PHANTOM)
+
+Descrição: Som de qualidade broadcast
+para filmes, TV e documentários.
+Comutação digital. Alimentação por
+phantom power. Reforço de agudos
+comutável. PAD -10 dB. Filtro low-cut 75
+
+UNID.
+
+R$ 2.911,88
+
+R$ 5.823,76
+
+FUNDACAOFAPEC.ORG.BR
+
+FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA
+AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA
+
+FAPECGFAPEC.ORG |
+
++55 (67) 3345-5910
+
+CNPJ: Nº 15.513.690/0001-50
+
+
+
+Fundação
+
+J FAPEC
+
+Hz selecionável. Circuito de baixo ruído.
+Alta sensibilidade e SPL máximo elevado.
+Tom quente e natural. Acompanha espuma
+
+windscreen para redução de ruído.
+CARTÃO DE MEMÓRIA SD UHS-II
+256 GB 170 MB/S
+
+Descrição: Velocidade de
+
+UNID. R$ 374,82 R$ 2.248,92
+
+leitura/transferência: 170 MB/s (1133x) ou
+
+superior. Velocidade de escrita/gravação:
+até 90 MB/s (600x). Similar ou superior ao
+Sandisk Extreme Pro.
+
+TRIPÉ PROFISSIONAL PARA VÍDEO,
+CABEÇA HIDRÁULICA
+
+Descrição: Altura máxima: 154 em (com
+
+1.
+
+UNID. R$ 1.224,77 | R$2.449,54
+
+cabeça). Altura mínima: 71 em. Cabeça
+hidráulica para até 10 kg. Panorâmica 360º
+e pan/tilt. Interface bowl 60 mm. Placa de
+liberação rápida 1/4" e 3/8". Acompanha
+bolsa de transporte. Similar ou superior à
+marca Kingjoy.
+
+CASE PARA BLACKMAGIC POCKET
+CINEMA CAMERA 4K OU 6K (SKB
+
+ISERIES)
+R$ 3.710,63
+
+Descrição: Tipo de fechamento: trava com
+orifício para cadeado. Transporte: alça UNID. R$ 3.710,63
+
+superior. Compatível com Blackmagic
+
+12.
+
+13.
+
+Pocket Cinema Camera 6K/4K. Material de
+
+construção: polietileno e resina. IP67, à
+
+prova d'água. Válvula de pressão/purga:
+
+FUNDACAOFAPEC.ORG.BR
+
+FAPECGFAPEC.ORG |
+CNPJ: Nº 15.513.690/0001-50
+
++55 (67) 3345-5910
+
+FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA
+AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA
+
+
+
+J
+
+Fundação
+
+FAPEC
+
+sim. Dimensões externas: 37,47 x 30,48 x
+
+18,41 cem. Peso: 2,36 kg.
+
+14.
+
+CASE PARA PXW-Z150
+Descrição: Material: poliéster rígido de alta
+resistência. Tamanho interno: 50 x 26 x 28
+em (comprimento x largura x altura). Peso:
+
+5 kg.
+
+UNID.
+
+R$ 567,78
+
+R$ 1.135,56
+
+15.
+
+BATERIA LP-E6N PARA CÂMERA
+DIGITAL
+Descrição: Não desenvolve efeito
+memória. Capacidade: 2600 mAh (19,2
+Whbh) e 7,4 V. Compatível com carregadores
+Canon. Substitui a bateria Canon LP-E6N.
+
+Similar ou superior à marca Manen.
+
+UNID.
+
+R$ 355,60
+
+R$ 1.066,80
+
+16.
+
+FONTE AC MINI XLR 2PIN 12V PARA
+BLACKMAGIC POCKET 4K E 6K
+(BIVOLT)
+
+Descrição: Adaptador AC/DC de alta
+eficiência. Proteção contra curto e
+sobrecarga. Plug Mini XLR 2 pinos
+(SF610/S2). Fonte bivolt 110-220V 50/60
+Hz. Tensão de saída: 12V — 3 A. Carga
+contínua para BMPCC 4K, 6K e 6K Pro.
+
+UNID.
+
+R$ 408,20
+
+R$ 408,20
+
+17.
+
+MAGICRIG BMPCC 4K PRO GAIOLA
+COM ALÇA SUPERIOR + SUPORTE
+SSD
+Descrição: Dimensões: 193 x 75 x 115
+
+mm. Peso líquido: 558 g. Material: liga de
+
+UNID.
+
+R$ 2.851,20
+
+R$ 2.851,20
+
+FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA
+AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA
+
+FUNDACAOFAPEC.ORG.BR
+
+FAPECGFAPEC.ORG |
+
++55 (67) 3345-5910
+
+CNPJ: Nº 15.513.690/0001-50
+
+
+
+J
+
+Fundação
+
+FAPEC
+
+alumínio. Tipo de parafuso da câmera:
+1/4"-20. Tipo de parafuso de orifício: 1/4"-
+20. Itens inclusos: 1 gaiola, 1 alça superior,
+1 suporte SSD, 2 parafusos M3, 2 parafusos
+MA, 4 parafusos 1/4", 3 chaves hexagonais,
+
+1 placa com pinos de localização.
+
+18.
+
+HD EXTERNO SSD 500 GB (USO
+COMO CARTÕES DE CÂMERA)
+Descrição: Interfaces: SATA III, SATA II.
+Aplicações: PC. Tipo de disco: externo
+(desktop ou notebook). Formato: 2,5".
+Capacidade: 500 GB. Tecnologia: SSD.
+Cache: 512 MB. Dimensões: Largura:
+3,94"; altura: 2,75"; profundidade: 0,27".
+Peso: 0,19 Ib. Compatível com sistemas
+Windows, MacOS e Linux. Consumo
+energético: 3,5 W. Similar ou superior à
+
+marca Kingston.
+
+UNID.
+
+R$ 705,77
+
+R$ 5.646,16
+
+19.
+
+NOTEBOOK PARA EDIÇÃO DE
+IMAGENS
+Descrição: Processador Intel& Core 12º
+geração. Memória: 8 GB DDR5-4800 MHz
+(SODIMM) + 8 GB DDR5-4800 MHz
+(SODIMM ). Placa de vídeo: GPU
+NVIDIAQG GeForce RTX 3050 6 GB
+GDDR6. Armazenamento: 512 GB SSD.
+Sistema operacional: Windows 11 Pro 64.
+
+Tela: 15,6" FHD (1920 x 1080), IPS,
+
+antirreflexo, non-touch, 45% NTSC, 300
+
+UNID.
+
+R$ 8.470,63
+
+R$
+50.823,78
+
+FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA
+
+AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA
+
+FUNDACAOFAPEC.ORG.BR
+FAPECGFAPEC.ORG |
+
++55 (67) 3345-5910
+
+CNPJ: Nº 15.513.690/0001-50
+
+
+
+J FAPEC
+
+nits, 60 Hz, narrow bezel. Com
+
+especificações similares ou superiores.
+
+PC GAMER INTEL 13º GERAÇÃO 19-
+
+13900K 32GB 1TB NVME 2TB SSD
+RTX 4070 850W GOLD
+Descrição: Placa-mãe: LGA 1700 Z790
+
+DDRS5. Processador: Intel Core 19-
+13900KF. Refrigeração: water cooler
+compatível 240 mm (branco) + 6 coolers
+fan RGB. Memória RAM: 64 GB 5600
+20. MHz DDR5 RGB. Gabinete gamer UNID. | R$24.188,83 R$
+quadrado. Fonte real bivolt Gold 850 W 48,377,66
+XPG. Armazenamento: SSD NVMe ITB
+PCle 4.0. Placa de vídeo: GeForce RTX
+4070 Ti 12 GB GDDR6X.
+Adaptador/receptor Wi-Fi USB dual band.
+Sistema operacional: Windows 11 Pro.
+Com especificações similares ou
+superiores. Montado.
+MONITOR 24" 144HZ 1IMS
+Descrição: Ajustes de posição: inclinação
+Furação: 100 x 100 mm. Tela: IPS de 24".
+Ângulo de visão: 178º / 178º. Resolução
+máxima: Full HD (1920 x 1080). Brilho: 1 UNID. R$ 1.642,04
+300 cd/m?. Contraste: 1000:1. Tempo de
+resposta: 1 ms (GTG). Taxa de atualização:
+
+R$ 1.642,04
+
+21.
+
+144 Hz. Gama de cores: SRGB 99%
+(típico). Profundidade de cores: 16,7 M.
+
+FUNDACAOFAPEC.ORG.BR
+FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA FAPECGFAPEC.ORG |
+AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA "
+CNPJ: Nº 15.513.690/0001-50
+
++55 (67) 3345-5910
+
+
+
+J
+
+Fundação
+
+FAPEC
+
+Distância entre pixels: 0,2745 x 0,2745
+mm. Tratamento de tela: antirreflexo.
+Entradas/saídas: HDMI (x1, v2.0),
+DisplayPort (v1.4), saída para fones de
+ouvido. Similar ou superior ao LG modelo
+
+24GN60R-B.AWZM.
+
+22.
+
+REFLETOR LED 20.000 LUMENS
+BICOLOR 110/220V
+Descrição: LED tecnologia SMD. Sistema
+DMX512 ou fixo. Voltagem fixa: 110V,
+220V ou bivolt automático. Vida útil:
+40.000 horas. Filtro difusor. Consumo: 300
+W. Luminosidade: 20.000 lumens. Drive de
+alta frequência Flicker Free. Proteção
+contra surtos e sobretensão. Isento de RFI.
+Acabamento: pintura eletrostática. Braço
+articulado. Cabo de energia de 1,5 m. Plug
+NBR 14136. Manípulos laterais reforçados.
+Compatível com cubos adaptadores 5/8.
+
+Similar ou superior ao RL20B.
+
+UNID.
+
+R$ 4.346,00
+
+R$ 8.692,00
+
+23.
+
+REFLETOR LED 10.000 LUMENS
+BICOLOR 110/220V
+Descrição: LED tecnologia SMD. Sistema
+DMX512 ou fixo. Voltagem fixa: 110V,
+220V ou bivolt automático. Vida útil:
+40.000 horas. Filtro difusor. Consumo: 150
+W. Luminosidade: 10.000 lumens. Drive de
+alta frequência Flicker Free. Proteção
+
+contra surtos e sobretensão. Isento de RFI.
+
+UNID.
+
+R$ 2.734,00
+
+R$ 5.468,00
+
+FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA
+AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA
+
+FUNDACAOFAPEC.ORG.BR
+
+FAPECGFAPEC.ORG |
+
++55 (67) 3345-5910
+
+CNPJ: Nº 15.513.690/0001-50
+
+
+
+J FAPEC
+
+Acabamento: pintura eletrostática. Braço
+articulado. Cabo de energia de 1,5 m. Plug
+NBR 14136. Manípulos laterais reforçados.
+Compatível com cubos adaptadores 5/8.
+MICROFONE
+
+Descrição: Portátil. Campo de som: mono.
+
+Princípio de funcionamento: operado por
+pressão. Cápsula: dinâmica. Padrão polar:
+cardióide. Frequência de resposta: 50 Hz —
+24. 15 kHz. Rejeição fora do eixo: 2 dB a 60º; 2 UNID. R$ 1.902,87 R$ 3.805,74
+10 dB a 120º; 20 dB a 180º. Impedância:
+300 ohms. Sensibilidade: -56 dBV/Pa a 1
+kHz. Itens inclusos: estojo de transporte em
+
+couro, cachimbo e organizador de cabo.
+
+Similar ou superior ao Shure SM58 LC.
+
+1.3.  O orçamento estimativo apresentou o montante de R$ 271.102,46 (duzentos e setenta e um mil, cento
+e dois reais e quarenta e seis centavos), valor que se encontra dentro do saldo total disponível de R$
+
+327.218,70 (trezentos e vinte e sete mil, duzentos e dezoito reais e setenta centavos), correspondente à soma
+
+dos valores aprovados nas sub-rubricas.
+
+1.3.1. Ressalta-se que, após a finalização do orçamento estimativo, procedeu-se à redução dos quantitativos
+de determinados itens, de forma a adequar as quantidades ao saldo disponível, garantindo a exequibilidade da
+contratação.
+
+1.4. O prazo de vigência da contratação é de 90 (noventa) dias, contados da assinatura do contrato ou da
+
+emissão de instrumento equivalente, na forma do art. 105 da Lei nº 14.133, de 2021.
+1.5. O contrato oferece maior detalhamento das regras que serão aplicadas em relação à vigência da
+aquisição.
+
+1.6. Este Termo de Referência constitui documento necessário para a contratação de bens e serviços e
+
+FUNDACAOFAPEC.ORG.BR
+
+FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA FAPECGFAPEC.ORG | t> +55(67)3345-5910
+
+AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA
+
+CNPJ: Nº 15.513.690/0001-50

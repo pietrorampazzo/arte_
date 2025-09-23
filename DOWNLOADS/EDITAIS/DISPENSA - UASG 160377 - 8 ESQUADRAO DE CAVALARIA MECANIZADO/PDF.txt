@@ -1,184 +1,161 @@
-UASG 160377 Estudo Técnico Preliminar 28/2025
+UASG 160377                                          Estudo Técnico Preliminar 28/2025
 
-MINISTÉRIO DA DEFESA
-EXÉRCITO BRASILEIRO
-8º ESQUADRÃO DE CAVALARIA MECANIZADO
-(ESQUADRÃO RAFAEL PINTO BANDEIRA)
 
-Estudo Técnico Preliminar 28/2025
+
+
+
+                             MINISTÉRIO DA DEFESA
+                            EXÉRCITO BRASILEIRO
+                          8° ESQUADRÃO DE CAVALARIA MECANIZADO
+                    (ESQUADRÃO RAFAEL PINTO BANDEIRA)
+
+                      Estudo Técnico Preliminar 28/2025
+
+
 
 1. Informações Básicas
-
 Número do Processo: Conforme Processo Eletrônico
-
 Assunto: Aquisição de caixa de som e microfone de lapela para o 8º Esquadrão de Cavalaria
 Mecanizado
+
 
 2. Descrição da necessidade
 2.1. Contextualização Geral:
 2.1.1 Organização Militar
-
-O 8º Esquadrão de Cavalaria Mecanizado (8º Esqd C Mec), é uma Organização Militar (OM)
-localizado na Av. Orleans, 651 — Guarujá, Porto Alegre-RS, e é subordinado a 8º Brigada de
+     O 8º Esquadrão de Cavalaria Mecanizado (8º Esqd C Mec), é uma Organização Militar (OM)
+localizado na Av. Orleans, 651 – Guarujá, Porto Alegre-RS, e é subordinado a 8ª Brigada de
 Infantaria Motorizada, localizada em Pelotas-RS.
-
-O 8º Esqd C Mec possui atribuições operacionais, cumprindo sua missão constitucional,
+     O 8º Esqd C Mec possui atribuições operacionais, cumprindo sua missão constitucional,
 além de possuir autonomia administrativa patrimonial e orçamentária.
-
 2.1.2 Área Requisitante
-
-O almoxarifado é setor administrativo destinado ao armazenamento e à gestão de
+    O almoxarifado é setor administrativo destinado ao armazenamento e à gestão de
 materiais, suprimentos e equipamentos da OM. Sua função principal é controlar o estoque,
 garantir a disponibilidade de itens necessários para as operações e manter a organização dos
 recursos de maneira eficiente.
-
-A importância do almoxarifado reside na sua capacidade de assegurar que a OM tenha
-os materiais certos no momento certo, evitando interrupções nas atividades, minimizando
+     A importância do almoxarifado reside na sua capacidade de assegurar que a OM tenha
+os materiais certos no momento  certo, evitando interrupções nas atividades, minimizando
 desperdícios e contribuindo para a otimização dos processos logísticos e administrativos. Uma
 boa gestão de almoxarifado pode resultar em economia de custos e melhoria na produtividade da
 organização.
-
 2.2 Necessidade da Contratação
 2.2.1 Situação
-
-O 8º Esqd C Mec realiza formaturas semanais para manutenção da Ordem Unida e
+     O 8º Esqd C Mec realiza formaturas semanais para manutenção da Ordem Unida e
 passagem de avisos gerais, além de, recorrentemente, realizar solenidades com público externo,
 sendo assim, faz-se necessário a aquisição de materiais de som capazes de cumprir as demandas
 exigidas nestes eventos, atualmente, todas atividades são realizadas com caixas de som de outras
 OM da Guarnição de Porto Alegre, tendo em vista a limitação dos materiais em posse desta OM.
 2.2.2 Necessidade
-
-Desta forma, a presente contratação visa aumentar a capacidade da OM em realizar as
+       Desta forma, a presente contratação visa aumentar a capacidade da OM em realizar as
 solenidades previstas, e melhorar a qualidade de som das mesmas.
-
 3. Área requisitante
 
-Área Requisitante Responsável
 
-ALMOXARIFADO HENRIQUE MORENO MONTES - 3º Sgt
+             Área Requisitante                           Responsável
+
+ ALMOXARIFADO                      HENRIQUE MORENO MONTES - 3º Sgt
 
 4. Descrição dos Requisitos da Contratação
 
+UASG 160377                                          Estudo Técnico Preliminar 28/2025
 
-UASG 160377 Estudo Técnico Preliminar 28/2025
 
-4,1 Natureza da Contratação
-
-Os itens do presente processo são considerados comuns, pois seus padrões de
-desempenho e qualidade podem ser objetivamente definidos neste processo, por meio de
+4.1 Natureza da Contratação
+      Os  itens do  presente  processo são  considerados comuns,  pois seus  padrões de
+desempenho e  qualidade podem  ser  objetivamente  definidos  neste  processo,  por meio de
 especificações usuais no mercado.
 4.2 Natureza continuada ou não continuada
-
-Os itens do presente processo são considerados de natureza não continuada, porque se
-
-trata da contratação pontual de entrega imediata de bens / prestação de serviços, ou seja, uma
-necessidade que atenderá um momento especiífico de necessidade do órgão, não sendo necessário
-seu fornecimento / prestação por vários períodos sucessivamente. Uma vez finalizada a entrega,
+      Os itens do presente processo são considerados de natureza não continuada, porque se
+trata da contratação pontual de entrega imediata de bens  / prestação de serviços, ou seja, uma
+necessidade que atenderá um momento específico de necessidade do órgão, não sendo necessário
+seu fornecimento  / prestação por vários períodos sucessivamente. Uma vez finalizada a entrega,
 resolve-se a necessidade que deu azo ao contrato
 4.3 Duração inicial do contrato
-
-O contrato do presente processo terá duração de 02 (dois) meses, tendo a vista este período
+     O contrato do presente processo terá duração de 02 (dois) meses, tendo a vista este período
 ser suficiente para atender todos os seguintes prazos envolvidos da contratação:
+       Prazo de entrega/fornecimento: 30 (trinta) dias corridos;
 
-Prazo de entrega/fornecimento: 30 (trinta) dias corridos;
+       Prazo de prorrogação de entrega/fornecimento: 05 (cinco) dias úteis;
 
-Prazo de prorrogação de entrega/fornecimento: 05 (cinco) dias úteis;
+       Prazo de substituição/reparo: 05 (cinco) dias úteis;
 
-Prazo de substituição/reparo: 05 (cinco) dias úteis;
+       Prazo de recebimento provisório: 01 (um) dia útil;
 
-Prazo de recebimento provisório: 01 (um) dia útil;
+       Prazo de recebimento definitivo: 10 (dez) dias úteis;
 
-Prazo de recebimento definitivo: 10 (dez) dias úteis;
+       Prazo de prorrogação do recebimento definitivo: 10 (dez) dias úteis;
 
-Prazo de prorrogação do recebimento definitivo: 10 (dez) dias úteis;
+       Prazo de liquidação: 10 (dez) dias úteis;
 
-Prazo de liquidação: 10 (dez) dias úteis;
+       Prazo de prorrogação da liquidação: 10 (dez) dias úteis;
 
-Prazo de prorrogação da liquidação: 10 (dez) dias úteis;
-
-Prazo de pagamento: 10 (dez) dias úteis;
+       Prazo de pagamento: 10 (dez) dias úteis;
 4.4 Sustentabilidade
-
-Os itens do presente processo não estão sujeitos a critérios de sustentabilidade, porque não
+      Os itens do presente processo não estão sujeitos a critérios de sustentabilidade, porque não
 foram encontradas informações após consulta no Guia Nacional de Contratações Sustentáveis, nem
-requisitos técnicos previstos em Leis, Decretos, Instruções Normativas, Resoluções, Portarias e
-normas da ANVISA, do INMETRO, do lbama, do CONAMA, do painel de legislação ambiental do
+requisitos técnicos previstos em  Leis, Decretos, Instruções Normativas, Resoluções, Portarias e
+normas da ANVISA, do INMETRO, do Ibama, do CONAMA, do painel de legislação ambiental do
 Ministério do Meio Ambiente.
 4.5 Catálogo eletrônico de padronização
-
-Os itens do presente processo não seguem um catálogo eletrônico de padronização, porque
-ainda não estão previstos após consulta no endereço: https://wWww.gov.br/pncp/pt-br/catalogo-
+      Os itens do presente processo não seguem um catálogo eletrônico de padronização, porque
+ainda não estão  previstos após  consulta no endereço:  https://www.gov.br/pncp/pt-br/catalogo-
 eletronico-de-padronizacao.
 4.6 Padronização e indicação de marcas ou modelos
-
-Os itens do presente processo não estão sujeitos à indicação de marca(s), característica(s)
+      Os itens do presente processo não estão sujeitos à indicação de marca(s), característica(s)
 ou modelo(s), porque podem ser aceitos diversos modelos ou marcas disponíveis no mercado, pois
 não há necessidade de padronização nem problemas de compatibilidades.
 4.7 Vedação de marcas ou modelos
-
-Os itens do presente processo não estão sujeitos à vedação de marca(s), característica(s)
+      Os itens do presente processo não estão sujeitos à vedação de marca(s), característica(s)
 ou modelo(s), porque não foram identificadas marcas/modelos que não possam atender a esta
 necessidade de contratação.
-4,8 Necessidade de amostras, prova de conceito, protótipo ou testes
-
-Os itens do presente processo não necessitam de prova de conceito, amostra, protótipo,
-
+4.8 Necessidade de amostras, prova de conceito, protótipo ou testes
+      Os itens do presente processo não necessitam de prova de conceito, amostra, protótipo,
 testes nem outras formas de avaliação de conformidade do objeto aos licitantes provisoriamente em
 primeiro lugar, porque não se tratam de itens de alta complexidade e que podem trazer riscos à
 administração, e suas características são bem conhecidas no mercado.
 4.9 Carta de solidariedade
-
-Os itens do presente processo não necessitam de carta de solidariedade emitida pelo
+      Os itens do presente processo não necessitam de carta de solidariedade emitida pelo
 fabricante, porque são considerados itens que qualquer fornecedor, revendedor ou distribuidor possui
 autonomia para fornecimento, revenda ou distribuição.
 4.10 Subcontratação
 
+UASG 160377                                          Estudo Técnico Preliminar 28/2025
 
 
-UASG 160377 Estudo Técnico Preliminar 28/2025
 
-O presente processo não permite a subcontratação, porque se trata de fornecimento de
+     O presente processo não permite a subcontratação, porque se trata de fornecimento de
 materiais sem a necessidade de serviços acessórios.
 4.11 Garantia de execução
-
-O presente processo não exige garantia de execução, porque não se trata de materiais de
+     O presente processo não exige garantia de execução, porque não se trata de materiais de
 alta complexidade e que podem trazer riscos à administração.
 4.12 Garantia de manutenção e/ou assistência técnica
-
-O presente processo não exige garantia de manutenção e/ou assistência técnica além
+     O presente processo não exige garantia de manutenção e/ou assistência técnica além
 aquele estabelecido na Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor),
 porque não se trata de materiais/serviços de alta complexidade e que podem trazer riscos à
 administração
-4,13 Vistoria prévia
-
-O presente processo não necessita de vistoria prévia do local de execução porque se trata
+4.13 Vistoria prévia
+     O presente processo não necessita de vistoria prévia do local de execução porque se trata
 unicamente de fornecimento de materiais, não sendo necessário avaliar condições e peculiaridades
 do objeto a ser contratado.
 4.14 Instalação de escritório
-
-O presente processo não necessita de instalação de escritório por parte da contratada em
+     O presente processo não necessita de instalação de escritório por parte da contratada em
 local próximo à execução porque se trata unicamente de fornecimento de materiais, não sendo
 necessárias gestões da contratada na execução.
 4.15 Instalação de escritório
-
-O presente processo não exige transição contratual, porque os itens do presente processo
-não são considerados de natureza continuada, não havendo transição contratual entre duas
+     O presente processo não exige transição contratual, porque os itens do presente processo
+não são considerados de natureza continuada, não havendo transição  contratual entre duas
 contratadas.
 4.16 Sistema de Registro de Preços (SRP)
-
-O presente processo não se trata de Sistema de Registro de Preços, porque o presente
+     O presente processo não se trata de Sistema de Registro de Preços, porque o presente
 processo não se enquadra em nenhuma possibilidade do Art. 3º, parágrafo único, do Decreto nº
 11.462, de 2023.
 
 5. Levantamento de mercado
 5.1 Restrições do mercado
-
-Após o levantamento de mercado a quantidade de fornecedores não foi considerada
+       Após o levantamento de mercado a quantidade de fornecedores não foi considerada
 restrita, não havendo necessidade de os requisitos que limitam a participação serem flexibilizados,
 podendo a necessidade ser atendida com ampla concorrência de mercado.
 5.2 Prospecção e Análise das Alternativas de Solução:
-
-Foi realizada a prospecção e análise das alternativas possíveis de soluções no mercado para o
+        Foi realizada a prospecção e análise das alternativas possíveis de soluções no mercado para o
 fornecimento de caixas de som e microfones de lapela. O objetivo principal foi identificar a forma que
 melhor atende às necessidades estruturais do 8º Esquadrão de Cavalaria Mecanizado, considerando
 os princípios da economicidade, eficiência e qualidade. A análise abrangeu diferentes fornecedores e
@@ -186,93 +163,91 @@ modelos de entrega, buscando as melhores condições para a Administração Púb
 
 6. Descrição da solução como um todo
 6.1 Modalidade de Contratação
-
-Dispensa de Licitação (com fundamento no Art. 75, Inc. 1l da Lei nº 14.133/2021, em razão
+       Dispensa de Licitação (com fundamento no Art. 75, Inc. II da Lei nº 14.133/2021, em razão
 desta UASG não encontrar os itens necessários em pregões).
 6.2 Elementos a se produzir/ contratar/executar
-
-O presente processo trata de aquisição de materiais permanentes sem serviços acessórios. À
+     O presente processo trata de aquisição de materiais permanentes sem serviços acessórios. A
 especificação dos itens encontra-se completa e compreensível na tabela com a descrição destes no
-presente processo. A produção estará a cargo dos produtores e / ou fabricantes seguindo as
+presente processo. A produção estará a cargo dos produtores e  / ou fabricantes seguindo as
 regulamentações vigentes. O fornecimento / distribuição / transporte estará a cargo da contratada
 seguindo as regulamentações vigentes. O armazenamento após o recebimento estará a cargo do
 órgão contratante seguindo as regulamentações vigentes. A operação estará a cargo do órgão
-contratante seguindo as regulamentações vigentes conforme a sua necessidade. A manutenção
+contratante seguindo as regulamentações vigentes conforme a sua necessidade.  A manutenção
 estará a cargo do órgão contratante seguindo as regulamentações vigentes. A assistência técnica não
 
+UASG 160377                                          Estudo Técnico Preliminar 28/2025
 
-UASG 160377 Estudo Técnico Preliminar 28/2025
+
 
 será necessária para estes itens. A destinação final estará a cargo do órgão contratante seguindo as
 regulamentações vigentes.
 
 7. Estimativa das Quantidades a serem Contratadas
-
 71. No intuito de evitar estimativa de quantidades de materiais menores que as necessidades,
 levando à falta de produtos para atender à necessidade da contratação, o presente setor requisitante,
 levantou as necessidades desta OM embasada nas quantidades necessárias ao atendimento das
 demandas. As quantidades seguem descritas abaixo:
+                                     Unidade                  Valor de      Valor
+ Item     Especificação do Material                Quantidade
+                                   de medida                Referência     Total
 
-iAaAS ; Unidade ; Valor de Valor
-m Especificação do Material Quantidade
+      Código 602332 – Amplificador
+     Som
 
-Código 602332 — Amplificador
-Som
+       Descrição:
 
-Descrição:
+       Caixa de Som Amplificadora
 
-Caixa de Som Amplificadora
-Tensão: 127V
+       Tensão: 127V
 
-Impedância: 8 Ohm
+       Impedância: 8 Ohm
 
-Tecnologia de comunicação sem
-fio: Bluetooth
+       Tecnologia de comunicação sem
+           fio: Bluetooth
+  01   Entrada de áudio compatível com o   Unidade        2      R$ 1.950,00 R$ 3.900,00
+        produto: Microfone, linha, USB,
+       Cartão SD
 
-Entrada de áudio compatível como| Unidade 2 R$ 1.950,00 | R$ 3.900,00
-produto: Microfone, linha, USB,
-Cartão SD
+      Peso do produto aproximado: 15kg
 
-Peso do produto aproximado: 15kg
-Tipo de alto-falante: Woofer
-Características especiais: Reforço
-de graves, Áudio de alta resolução
-Componentes incluídos: Cabo de
-alimentação e Manual de instruçõe
+       Tipo de alto-falante: Woofer
 
-Código 628026 - Microfone
-Descrição:
+        Características especiais: Reforço
+      de graves, Áudio de alta resolução
 
-Tipo: Lapela Sem Fio
+      Componentes incluídos: Cabo de
+       alimentação e Manual de instruções
 
-Kit com 02 microfones
+      Código 628026  – Microfone
 
-Sistema de Transmissão:
-Sem Fio UHF
+       Descrição:
 
-Saída: P10 / Balanceada XLR
-Receptor UHF com 2 Antenas
-Alcance Efetivo: 50 metros
-Alimentação transmissor 2 x Unidade 1 R$550,00 | R$ 550,00
-AA
+        Tipo: Lapela Sem Fio
 
-Frequências: 500 a 980 mh
-Nível de saída de Áudio: 10
-dbm
+         Kit com 02 microfones
+      Sistema de Transmissão:
+     Sem Fio UHF
+       Saída: P10 / Balanceada XLR
+      Receptor UHF com 2 Antenas
+      Alcance Efetivo: 50 metros
+      Alimentação transmissor 2 x  02                                   Unidade        1      R$ 550,00  R$ 550,00
+     AA
+      Frequências: 500 a 980 mh
+       Nível de saída de Áudio: 10
+     dbm
+      Alimentação do Transmissor:
+     2 Pilhas AA
+       Sensibilidade - 96 dbm
+      Frequência de Resposta 30 a
+      20.000 Hz
+     Acompanha fonte
 
-Alimentação do Transmissor:
-2 Pilhas AA
-
-Sensibilidade - 96 dbm
-Frequência de Resposta 30 a
-20.000 Hz
-
-Acompanha fonte
+UASG 160377                                          Estudo Técnico Preliminar 28/2025
 
 
-UASG 160377 Estudo Técnico Preliminar 28/2025
 
-VALOR TOTAL | R$ 4.450,00
+                                             VALOR TOTAL R$ 4.450,00
+
 
 8. Estimativa do Valor da Contratação
 8.1 Valor Estimado: R$ 4.450 (quatro mil quatrocentos e cinquenta reais).
@@ -281,16 +256,14 @@ VALOR TOTAL | R$ 4.450,00
 9.1. Não é viável o parcelamento do material tendo em vista que visa atender uma demanda urgente
 e pontual.
 
-10. Contratações Correlatas e/ou Interdependentes
 
+10. Contratações Correlatas e/ou Interdependentes
 10.1. Contratações correlatas são aquelas que guardam relação com o objeto principal interligando-
 se a essa aquisição de materiais, mas que não precisam, necessariamente, ser adquiridas para a
 completa prestação do objeto principal.
-
 10.2. As Contratações interdependentes são aquelas que precisam ser contratadas juntamente com
 o objeto principal para a sua completa prestação.
-
-10.3. Não se aplicam às contratações correlatas ou interdependentes no presente processo
+10.3. Não se aplicam às contratações  correlatas ou interdependentes no presente processo
 licitatório.
 
 11. Alinhamento entre a Contratação e o Planejamento
@@ -298,14 +271,12 @@ licitatório.
 
 12. Benefícios a serem alcançados com a contratação
 12.1. Resultados
-
-Os resultados pretendidos é o de cumprir os princípios da vantajosidade, economicidade,
+      Os resultados pretendidos é o de cumprir os princípios da vantajosidade, economicidade,
 eficácia e eficiência, proporcionando melhores condições as dependências do 8º Esquadrão de
 Cavalaria Mecanizado, evitando-se a degradação do Patrimônio Público.
 12.2. Benefícios
-
-A aquisição do material permanente deste estudo é importante e necessário, visto que
-contribuem para um aumenta na capacidade da OM em realizar as solenidades previstas, e
+     A aquisição do material permanente deste estudo é importante e necessário, visto que
+contribuem para um aumenta  na capacidade da OM em realizar as solenidades previstas, e
 melhorar a qualidade de som das mesmas.
 
 13. Providências a serem Adotadas
@@ -318,14 +289,9 @@ efeitos, com os responsáveis por estes ajustes nos diversos setores.
 15. Declaração de Viabilidade
 15.1 Este setor requisitante declara esta contratação.viável.
 
-Documento assinado digitalmente
-
-h HENRIQUE MORENO MONTES
-gw Data: 15/09/2025 14:10:10-0300
-
-Verifique em https://validar.iti.gov.br
-
-HENRIQUE MORENO MONTES - 3º Sgt Com
-Auxiliar do Setor de Almoxarifado
 
 
+
+
+                HENRIQUE MORENO MONTES - 3º Sgt Com
+                           Auxiliar do Setor de Almoxarifado

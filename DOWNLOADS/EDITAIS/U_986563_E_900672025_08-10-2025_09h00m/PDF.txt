@@ -1,0 +1,507 @@
+ANEXO I
+
+
+               TERMO DE REFERÊNCIA – PREGÃO ELETRÔNICO
+
+
+                   PREGÃO ELETRÔNICO Nº 90067/2025
+
+                            Processo Administrativo n° 14.299/24
+
+
+
+
+1.   CONDIÇÕES GERAIS
+
+1.1     Registro de Preços de materiais de informática para serem utilizados pela Secretaria Municipal
+de Governo, nos termos da tabela abaixo, conforme condições e exigências estabelecidas neste
+instrumento.
+
+
+LOTE 1
+                                                         UNIDADE
+ ITEM DESCRIÇÃO / ESPECIFICAÇÃO                             DE   QTDE
+                                                         MEDIDA
+
+     PLACA MÃE PARA DESKTOP
+
+     PLACA MÃE PARA DESKTOP.SUPORTE AO PROCESSADOR
+      (SOCKET E COMPATIBILIDADE) DO ITEM 1.8/1.9/1.10. 02 SLOTS
+     PARA MEMÓRIA DO TIPO DDR4 COM FREQUÊNCIA DE
+  1.1  2133/2400/2666 MHZ. PLACA DE VÍDEO ON-BOARD CONEXÃO      UNIDADE  500
+       VGA/DVI. ÁUDIO ON-BOARD, 04 ENTRADAS USB 3.0 E 02
+     ENTRADAS USB 2.0. ENTRADA CONECTORA PS2(TECLADO E
+      MOUSE). INTERFACE DE REDE RJ-45 - 10/100/1000 MBPS. 04
+     PORTAS SATA 6GB/S (MÍNIMO). SLOTS DE EXPANSÃO 01 PCI-
+     EXPRESS 3.0/2.0 16X, 2PCI-EXPRESS 2.0 1X.
+
+      DISCO RÍGIDO HD 4TB
+
+  1.2  HDS EXTERNO TIPO DISCO RÍGIDO EXTERNO, MODELO DE 3,5     UNIDADE   40
+      POLEGADAS, 4TB 4.000GB) DE CAPACIDADE, INTERFACE USB V3.0.
+      GARANTIA: 12 (DOZE) MESES
+      DISCO RÍGIDO SSD 480GB
+
+           - DISCO RÍGIDO SSD COM FATOR DE FORMA: SSD INTERNO DE 2,5
+  1.3                                                      UNIDADE   42
+      POLEGADAS, CAPACIDADE: 480GB, INTERFACE: SATA 6.0GB / S,
+      TIPO DE DISPOSITIVO: DRIVE DE ESTADO SÓLIDO INTERNO,
+     ALTURA DA UNIDADE: 7,0 MM, FATOR DE FORMA: 2,5 "(7MM)
+      DISCO RÍGIDO SSD 240GB
+
+           - DISCO RÍGIDO SSD COM FATOR DE FORMA: SSD INTERNO DE 2,5
+  1.4                                                      UNIDADE  500
+      POLEGADAS, CAPACIDADE: 240GB, INTERFACE: SATA 6.0GB / S,
+      TIPO DE DISPOSITIVO: DRIVE DE ESTADO SÓLIDO INTERNO,
+     ALTURA DA UNIDADE: 7,0 MM, FATOR DE FORMA: 2,5 "(7MM)
+
+                  Secretaria Municipal de Administração e Modernização
+                     Departamento de Compras e Licitações
+              Rua Vereador José Barbosa de Araújo, 151 – Vila Virginia
+                         Email: compras@itaquaquecetuba.sp.gov.br
+                                   Telefone: 11 4642-1531
+                                                                                25
+
+    MEMÓRIA RAM DDR4 8GB
+
+ 1.5    - MEMÓRIA RAM TECNOLOGIA DDR4, VELOCIDADE DDR4 – MÍNIMO UNIDADE  500
+    DE 2666MHz, CAPACIDADE 8GB, TIPO DE MÓDULO DIMM, TEMPO
+     ESTENDIDO: 15-15-15-36,
+
+    MEMÓRIA RAM DDR4 16GB
+
+ 1.6    - MEMÓRIA RAM TECNOLOGIA DDR4, VELOCIDADE DDR4 - MÍNIMO  UNIDADE   50
+    DE 2666MHz, CAPACIDADE 16GB, TIPO DE MÓDULO DIMM, TEMPO
+     ESTENDIDO: 15-15-15-36,
+
+    FONTE DE ALIMENTAÇÃO PARA COMPUTADORES
+
+         - FONTE DE ALIMENTAÇÃO PARA COMPUTADORES: FONTE DE
+     ALIMENTAÇÃO ATX COM POTÊNCIA DE 550 W, COMPATÍVEL COM
+    PADRÃO INTEL ATX/BTX, 02 CONECTORES DE ATX 12 V, EXPRESS
+ 1.7  (DUAL SLI PCI-E COM UM CONECTOR DE 6+2 PINOS),            UNIDADE  500
+    UM VENTILADOR DE 12 CM DE DIÂMETRO, EFICIÊNCIA > 73%,
+    FONTE COM CHAVEAMENTO BIVOLT 110/220V, CONECTOR DE
+    PLACA MÃE DE 24 PINOS, 80 PLUS MODULAR. 03 CONECTORES
+     SATA, 06 CONECTORES MOLEX DE 04 PINOS, 01 CONECTOR DE 04
+     PINOS PARA FLOPPY, 02 CONECTORES PCI.
+
+    PROCESSADOR PARA DESKTOP 1
+
+     DESCRIÇÃO: PROCESSADOR PARA DESKTOP. ESPECIFICAÇÕES
+    DO PROCESSADOR: NÚCLEOS: 04, NÚMERO DE THREADS: 08. 3.3
+ 1.8                                                      UNIDADE  500
+    GHZ DE PROCESSAMENTO MÍNIMO. CACHE, 5 MB INTEL SMART
+     CACHE, VELOCIDADE DO BARRAMENTO 8 GT/S, TDP 60 W,
+    FREQUÊNCIA DA BASE GRÁFICA 300 MHZ, SAÍDA GRÁFICA EDP
+      1.4B, DP 1.4A, HDMI 2.1
+
+    PROCESSADOR PARA DESKTOP 2
+
+     DESCRIÇÃO: PROCESSADOR PARA DESKTOP. ESPECIFICAÇÕES
+ 1.9  DO PROCESSADOR: NÚCLEOS: 06, NÚMERO DE THREADS: 12. 4.4  UNIDADE   3
+    GHZ DE PROCESSAMENTO MÍNIMO. CACHE 7,5 MB INTEL SMART
+     CACHE, TDP 65 W, FREQUÊNCIA DA BASE GRÁFICA 300 MHZ,
+     SAÍDA GRÁFICA EDP 1.4B, DP 1.4A, HDMI 2.1
+
+    PROCESSADOR PARA DESKTOP 3
+
+     DESCRIÇÃO: PROCESSADOR PARA DESKTOP. ESPECIFICAÇÕES
+1.10 DO PROCESSADOR: NÚCLEOS: 08, NÚMERO DE THREADS: 20. 5    UNIDADE   42
+    GHZ DE PROCESSAMENTO MÍNIMO. CACHE 12 MB INTEL SMART
+     CACHE, TDP 125 W, FREQUÊNCIA DA BASE GRÁFICA 300 MHZ,
+     SAÍDA GRÁFICA EDP 1.4B, DP 1.4A, HDMI 2.1
+
+
+
+
+
+                 Secretaria Municipal de Administração e Modernização
+                    Departamento de Compras e Licitações
+             Rua Vereador José Barbosa de Araújo, 151 – Vila Virginia
+                        Email: compras@itaquaquecetuba.sp.gov.br
+                                  Telefone: 11 4642-1531
+                                                                               26
+
+    TECLADO PARA MICROCOMPUTADOR
+
+         - TECLADO, PARA MICROCOMPUTADOR PC, NA COR PRETA,
+    LAYOUT PADRÃO ABNT-2 (PORTUGUÊS DO BRASIL, COM 'Ç');
+     ESTENDIDO, CONECTOR USB. - LAYOUT ABNT-2 ESTENDIDO COM
+     TECLAS PARA WINDOWS, DEVE POSSUIR TECLADO NUMÉRICO; -
+    CONECTOR USB; PLUG AND PLAY; - CONSTRUÍDO EM
+    TERMOPLÁSTICO DE COR ÚNICA - MÍNIMO DE 107 TECLAS EM
+1.11                                                      UNIDADE  500
+    ÂNGULO RETO, COM GRAVAÇÃO PERMANENTE (A LASER OU
+     TRANSFERÊNCIA A QUENTE) DAS LETRAS E SÍMBOLOS.; - TECLAS
+    BACKSPACE E ENTER DE TAMANHO DUPLO; - BLOCO NUMÉRICO
+    SEPARADO DAS DEMAIS; - TECLAS ALTGR, POWER OFF, SLEEP,
+     INSERT E DELETE. - REGULAGEM DE INCLINAÇÃO.; - INDICATIVO
+    LUMINOSO NO TECLADO O STATUS DAS FUNCIONALIDADES NUM
+    LOCK E CAPS LOCK - GARANTIA DE 1 ANO. ATENDER A (S) NORMA
+       (S) ABNT VIGENTE (S).
+
+    MOUSE OPTICO
+
+         - MOUSE, OPTICO, MÍNIMO 800 DPI, PADRAO USB, 3 BOTOES
+     INCLUINDO BOTAO SCROLL, ERGONOMICO, TAMANHO NORMAL,
+     COMPATIVEL COM WINDOWS E LINUX; - RESOLUCAO MINIMA 800
+      DPI. - TECNOLOGIA DE SENSOR OPTICO SEM ESFERA -
+    CONECTOR USB. - 2 (DOIS) BOTOES. - RODA DE ROLAGEM
+1.12  (SCROLL) PARA ROLAGEM DA TELA MANUAL OU AUTOMATICA,    UNIDADE  500
+     SELECIONAVEL POR CLICK NA RODA DE ROLAGEM. (NAO SERA
+     ACEITO MINI MOUSE), DESENHO SIMETRICO PARA USO POR
+    DESTROS E CANHOTOS. - COMPATIBILIDADE COM WINDOWS
+    PARA TODAS AS VERSOES A PARTIR DO WINDOWS 98 E LINUX. -
+    INSTRUCOES DE OPERACAO E INSTALACAO EM PORTUGUES. -
+     GARANTIA MÍNIMA DE 6 MESES. ATENDER A (S) NORMA (S) ABNT
+     VIGENTE (S).
+
+    PLACA DE VIDEO
+
+    PLACA DE VÍDEO OFFBOARD DE 12GB GDDR5, INTERFACE: PCI
+    PLACA DE VÍDEO OFFBOARD DE 12GB GDDR5 ou SUPERIOR,
+     INTERFACE: PCI EXPRESS 3.0 16X, CORE CLOCK: 1650 MHZ,
+1.13  MEMÓRIA: 12GB GDDR5 OU SUPERIOR, FREQÜÊNCIA DA         UNIDADE   42
+     MEMÓRIA: 14000MHZ, INTERFACE DA MEMÓRIA: 192BIT, LARGURA
+    DE BANDA DE MEMÓRIA: ATÉ 336 GB/S, CUDA CORES/STREAM
+    PROCESSORS: 2176, MONITORES SUPORTADOS: 4
+    CONECTORES: 3X DISPLAYPORT 1.4 1X HDMI 2.0B, CONECTOR DE
+     ENERGIA: 8 PIN*1
+
+    PLACA DE REDE WIRELESS
+
+1.14                                                      UNIDADE  1.000
+         - ADAPTADOR WIFI DUAL BAND 2.4 / 5GHZ MINIMO DE 600MBPS
+    COM SUPORTE A WIRELESS 5G AC OU SUPERIOR.
+
+    PLACA DE REDE
+1.15                                                      UNIDADE  500
+    PLACA DE REDE RJ45 GIGABIT ETHERNET 10/100/1000
+
+                 Secretaria Municipal de Administração e Modernização
+                    Departamento de Compras e Licitações
+             Rua Vereador José Barbosa de Araújo, 151 – Vila Virginia
+                        Email: compras@itaquaquecetuba.sp.gov.br
+                                  Telefone: 11 4642-1531
+                                                                               27
+
+     PLACA DE VIDEO
+
+     PLACA OFFBOARD DE VÍDEO COM NO MINIMO 2GB DDR3.
+      CARACTERISTICAS IGUAL O SUPERIOR MEMÓRIA DE VÍDEO:
+ 1.16                                                      UNIDADE  200
+     GDDR3 2GB, CLOCK DO PROCESSADOR: 1620 MHZ, CUDA CORE:
+         2.1, CLOCK DE MEMÓRIA: 898 MHZ / 1796 MHZ EFICAZ, INTERFACE
+     DE MEMÓRIA: 64 BITS, RESOLUÇÃO: MÁXIMA D-SUB: 2048 X 1536 -
+     MÁXIMA DVI: 2560 X 1600
+
+     WEBCAM
+
+           - WEBCAM FULL HD RESOLUÇÃO FULL HD 1080P/30QPS; FOCO
+      AUTOMÁTICO; MICROFONE ESTÉREO EMBUTIDO; FAZ FILMAGENS
+ 1.17 EM ATÉ 30 FPS COM AJUSTE PARA MONITORES LCD OU LAPTOPS, UNIDADE  500
+      INTERFACE USB, CAMPO DE VISÃO CDV DIAGONAL DE 78°, ZOOM
+      DIGITAL DE ATÉ 1.2X, PROTEÇÃO DE PRIVACIDADE REMOVÍVEL
+       (TAMPA), ALCANCE DE CAPTAÇÃO DO SOM DE, NO MÍNIMO 1M,
+     COM CABO DE NO MÍNIMO 1,5M, 01 ANO DE GARANTIA.
+
+     HD INTERNO
+
+     TAMANHO DO DISCO RÍGIDO 1.8". CAPACIDADE DO HD 160 GB.
+      VELOCIDADE DO HDD 5400 RPM. TAMANHO DO BUFFER DO DRIVE
+     DE ARMAZENAMENTO 16 MB. NÚMERO DE CABEÇAS DO HDD 2.
+     TEMPO DE BUSCA FAIXA A FAIXA 3 MS. MÉDIA DE TEMPO DE
+ 1.18 BUSCA 15 MS. LATÊNCIA MÉDIA 5,6 MS. ENERGIA: CONSUMO DE   UNIDADE   40
+      ENERGIA (STANDBY) 0,18 W. CONSUMO DE ENERGIA (LEITURA) 1,3
+      W. CONSUMO DE ENERGIA (GRAVAÇÃO) 1,3 W. CONSUMO DE
+      ENERGIA (OCIOSO) 0,4 W. VOLTAGEM 3,3 V. CONDIÇÕES DE
+     OPERAÇÃO. TEMPERATURA OPERAÇÃO (T-T) 5 - 65 °C. VIBRAÇÃO
+     EM OPERAÇÃO 2 G. VIBRAÇÃO SEM OPERAÇÃO 5 G. CHOQUE EM
+     OPERAÇÃO 500 G. CHOQUE SEM OPERAÇÃO 1500 G
+
+
+LOTE 2
+
+                                                         UNIDADE
+ ITEM DESCRIÇÃO / ESPECIFICAÇÃO                             DE   QTDE
+                                                         MEDIDA
+
+     MONITOR 21 POLEGADAS
+
+     MONITOR 21 POLEGADAS - TIPO LCD COM TECNOLOGIA LED DE
+  2.1  NO MINIMO 21 POLEGADAS; RESOLUÇÃO 1920 X 1080 A 60 HZ;     UNIDADE  300
+     CONTRASTE 1.000:00; BASE COM GIRO ATE 90 GRAUS;
+     REGULAGEM DE ALTURA DE 10 CM; CONEXÃO DE ENTRADA VGA,
+      HDMI OU DISPLAY PORT; TENSÃO 110/220V AUTOMÁTICO.
+     MONITOR PIVOT
+
+      MÍNIMO DE 21.5 POLEGADAS;
+  2.2                                                      UNIDADE   30
+     RESOLUÇÃO MÍNIMA DE 1920X1080; MÍNIMO DE 01
+      (UMA) CONEXÃO VGA; MÍNIMO DE 01 (UMA)
+     CONEXÃO HDMI; QUE SEJA POSSÍVEL ELEVAR,
+
+                  Secretaria Municipal de Administração e Modernização
+                     Departamento de Compras e Licitações
+              Rua Vereador José Barbosa de Araújo, 151 – Vila Virginia
+                         Email: compras@itaquaquecetuba.sp.gov.br
+                                   Telefone: 11 4642-1531
+                                                                                28
+
+       INCLINAR, ARTICULAR E ROTACIONAR (LTPS LIFT,
+        TILT, PIVOT, SWIVEL
+
+
+     MONITOR 29'' LED ULTRAWIDE
+
+     MONITOR ULTRAWIDE 29 POLEGADAS, FULL HD IPS, ENTRADAS:
+  2.3  HDMI. DEVE VIR ACOMPANHADO 01 CABO DE ALIMENTAÇÃO, E    UNIDADE   30
+     CABO HDMI; ENTRADA: 100~240V. SUPORTE PARA MONTAGEM EM
+      MESA. DEVE POSSUIR TECNOLOGIA PARA VISUALIZAR UMA OU
+      MAIS TELAS AO MESMO TEMPO.
+
+
+LOTE 3 – COTA RESERVADA PARA ME/EPP
+
+                                                         UNIDADE
+ ITEM DESCRIÇÃO / ESPECIFICAÇÃO                             DE   QTDE
+                                                         MEDIDA
+
+       FITA PARA ROTULADOR
+
+  3.1                                                      UNIDADE  100
+      MEDIDAS: 12MM X 8M
+      COR: PRETO/BRANCO
+     CABO DE REDE CAT 6E
+
+           - CABO DE REDE CAT 6E, COMPRIMENTO: 305 M, ISOLAÇÃO:
+  3.2  TERMOPLÁSTICA, TIPO DE CABO: 4 PARES DE CABOS             CAIXA    50
+      TRANÇADOS, CCA, UTP, DIÂMETRO DOS CONDUTORES: 0,50MM,
+      COR: AZUL TIPO FURUKAWA SOHOPLUS OU DE QUALIDADE
+      SUPERIOR
+     CONECTOR DE REDE RJ45 CAT 6E
+
+           - CONECTOR DE REDE RJ45 CAT 6E, TIPO DE CONECTOR: RJ-45,
+      QUANTIDADE:100 CONECTORES, TIPO DE CABO UTILIZADO:
+  3.3                                                   PACOTE   300
+       U/UTP,
+     TEMPERATURA DE ARMAZENAMENTO: -40º C A +70ºC,
+     TEMPERATURA DE OPERAÇÃO - 10ºC A +60ºC, COR:
+      TRANSPARENTE.
+     CONECTOR TIPO RJ45 FÊMEA (KEYSTONE T568A/B) CAT 6
+
+           - CONECTOR TIPO RJ45 FÊMEA (KEYSTONE T568A/B) CAT 6. COR
+  3.4  BRANCA, APLICAÇÃO: REDE DE COMPUTADORES, AMBIENTE DE   PACOTE   50
+      INSTALAÇÃO: INTERNO. NÃO BLINDADO, C E R T I F I C A Ç Ã O
+      ROHS, CONFORMIDADE COM AS N O R M A S NBR 14565 E
+       ANSI/TIA-568-C.2. PACOTE COM 100 UNIDADES
+     SWITCH DE 24 PORTAS
+
+     SWITCH DE ACESSO 24 PORTAS GIGABIT GERENCIÁVEL
+      ESPECIFICAÇÕES: EQUIPAMENTO TIPO COMUTADOR ETHERNET
+  3.5  COM CAPACIDADE DE OPERAÇÃO EM CAMADA 2 DO MODELO OSI; UNIDADE  200
+     DEVE POSSUIR, NO MÍNIMO, A SEGUINTE CONFIGURAÇÃO DE
+      PORTAS: 24 (VINTE E QUATRO) PORTAS 10/100/1000 RJ45 02
+      SLOTS SFP OU SFP+ O TOTAL DE PORTAS ATIVAS
+     SIMULTANEAMENTE NÃO DEVERÁ SER INFERIOR A 26 O
+                  Secretaria Municipal de Administração e Modernização
+                     Departamento de Compras e Licitações
+              Rua Vereador José Barbosa de Araújo, 151 – Vila Virginia
+                         Email: compras@itaquaquecetuba.sp.gov.br
+                                   Telefone: 11 4642-1531
+                                                                                29
+
+      GABINETE DEVE TER, NO MÁXIMO, UM (01) U (RACK UNIT) E
+      PERMITIR A INSTALAÇÃO EM RACK PADRÃO DE 19´ (DEZENOVE
+      POLEGADAS), INCLUINDO TODOS OS ACESSÓRIOS
+      NECESSÁRIOS; DEVE POSSUIR PORTA DE CONSOLE PARA
+      LIGAÇÃO DIRETA DE TERMINAL RS-232 OU RJ45 OU USB PARA
+     ACESSO À INTERFACE DE LINHA DE COMANDO; DEVE POSSUIR
+     CONFIGURAÇÃO DE CPU E MEMÓRIA (RAM E FLASH)
+      SUFICIENTES PARA IMPLANTAÇÃO DE TODAS AS
+      FUNCIONALIDADES DISPONÍVEIS; DEVE PERMITIR O
+     ENCAMINHAMENTO DE JUMBO FRAMES (PACOTES DE 9000
+       BYTES); DEVE POSSUIR FONTE DE ALIMENTAÇÃO INTERNA BI-
+      VOLT COM COMUTAÇÃO AUTOMÁTICA E SER FORNECIDO CABOS
+     NECESSÁRIOS PARA SUA LIGAÇÃO; DEVE POSSUIR LEDS PARA
+      INDICAÇÃO DO STATUS DAS PORTAS E ATIVIDADE; DEVE TER
+      CAPACIDADE PARA PELO MENOS 8.000 (OITO MIL) ENDEREÇOS
+     MAC NA TABELA DE COMUTAÇÃO
+     ACCESS POINT
+
+     ACCESS POINT DE ALTO DESEMPENHO PARA MONTAGEM EM
+      PAREDE/TETO. SUPORTE A WIFI 6 DUAL-BAND (2.4/5 GHZ)
+      SIMULTANEAMENTE. INTERFACE DE REDE 1× 10/100/1000 BASE-
+       TX, RJ45. SUPORTE PARA 350 CLIENTES SIMULTÂNEOS OU MAIS.
+     COM SISTEMA DE ADOÇÃO VIA WEB, ANDROID E IOS E APP DE
+     MONITORAMENTO + DISPOSITIVO MULTI PORTAS PROCESSADOR
+  3.6                                                      UNIDADE  200
+     ARM V8-A CORTEX A53 DE 64 BITS 1.2GHZ COM NEON SIMD E FPU
+     NUCLEO DUPLO, UMA PORTA WAN DE 1 GIGABIT ETHERNET
+      (RJ45/SFPCOMBO) QUATRO PORTAS LAN DE 1 GIGABIT
+     ETHERNET (SWITCH MARVEL 88E6141) AS PORTAS LAN PODEM
+     SER REAPROVEITADAS PARA PORTAS WAN ADICIONAIS. SSD M.2
+      SATA 2242 M.2 M.2 (NÃO COMPATIVEL COM NVME). PORTA 1X 2.0.
+      ARREFECIMENTO: PASSIVO, CERTIFICAÇÕES: CE, FCC (CLASSE
+        B), ROHS, UL, RCM, VCCI.
+
+
+LOTE 4
+
+                                                         UNIDADE
+ ITEM DESCRIÇÃO / ESPECIFICAÇÃO                             DE   QTDE
+                                                         MEDIDA
+
+     PASTA TERMICA
+
+           - PASTA TERMICA - COMPOSTO À BASE DE PRATA COLOIDAL,
+      ALTA CONDUTIVIDADE TERMICA, NÃO CORROSIVA, ALTA
+  4.1  PERFORMANCE, ALTA VISCOSIDADE, ALTO PODER DE           UNIDADE  150
+      REFRIGERAÇÃO, EXTREMAMENTE ADERENTE, CONDUTIVIDADE
+      TÉRMICA - 6,2W/MK, TEMPERATURA DE TRABALHO (-) 30ºC A (+)
+       200ºC, CONDUÇÃO
+     DE ELETRICIDADE - NENHUMA, POTE DE 50G
+     PASTA TERMICA SERINGA
+
+  4.2  PASTA TERMICA PARA PROCESSADORES TIPO SERINGA, COR    UNIDADE  150
+      PRATA, COM AS ESPECIFICACOES: CONDUTIVIDADE TERMICA: 3,8
+    W / MK, IMPEDANCIA TERMICA: 0,01 ° C EM 2 / W, VISCOSIDADE:
+                  Secretaria Municipal de Administração e Modernização
+                     Departamento de Compras e Licitações
+              Rua Vereador José Barbosa de Araújo, 151 – Vila Virginia
+                         Email: compras@itaquaquecetuba.sp.gov.br
+                                   Telefone: 11 4642-1531
+                                                                                30
+
+     2300K CPS, GRAVIDADE ESPECIFICA: 2,5 G / CM 3, EMBALAGEM:
+     01 PASTA TERMICA, PESO: 5G.
+
+
+    PEN DRIVE DE 64 GB
+
+        - PEN DRIVE, CAPACIDADE DE 64 GB, PLUG-ANDPLAY;
+    ALIMENTAÇÃO INTEGRADA JUNTO À PRÓPRIA PORTA USB;
+4.3                                                      UNIDADE  100
+    INTERFACE USB 2.0 E 3.0;
+    ARMAZENAMENTO TIPO FLASH MEMORY; TAXA DE
+    TRANSFERÊNCIA DE, NO MÍNIMO, 80MB/SEG (LEITURA), 10MB/SEG
+    (GRAVAÇÃO); COMPATÍVEL COM TODAS VERSÕES DO WINDOWS.
+    CABO HDMI
+
+    CABO HDMI 1.5 METROS 1.4 FULLHD - MACHO X MACHO ALTA
+4.4  QUALIDADE. COM FUNCIONALIDADE EM TODAS AS RESOLUÇÕES  UNIDADE  300
+    COMPATÍVEIS COM HDMI INC. 720P, 720I, 1080I, 1080P, 60HZ. 3D,
+     HD. ALTO DESEMPENHO DE TRANSMISSÃO DE SINAL. IDEAL PARA
+    TRANSFERÊNCIA DE SINAL GRÁFICO DE ALTA DEFINIÇÃO
+
+    CABO DVI-DVI
+
+    CABO DVI-DVI MACHO / MACHO - CONECTORES: BANHADOS EM
+4.5  OURO - INDICADO: CONEXÃO ENTRE: PC E LCDS, DISPLAY       UNIDADE   30
+     DIGITAIS, PROJETORES, HDTV OU OUTROS APARELHOS COM
+    TECNOLOGIA DVI. - COR DO CABO: PRETO - COR DO CONECTOR:
+    DOURADO - TAMANHO DO CABO: 1,8 M
+
+    FONE DE OUVIDO
+
+        - FONE DE OUVIDO INTRA-AURICULAR, COM FIO ESPECIFICAÇÕES
+    DE ÁUDIO. SENSIBILIDADE DO DRIVER A 1KHZ1MW (DB):
+     101±3DBSPL, 1MW. RESPOSTA DE FREQUÊNCIA DINÂMICA: 20 HZ
+4.6                                                      UNIDADE  500
+     – 20 KHZ. IMPEDÂNCIA DE ENTRADA: 30 OHMS.
+    ALTO-FALANTES 8,6 MM. COMPRIMENTO DO CABO 1,2 M. PLUG:
+      3,5 MM. CARACTERÍSTICAS: TELECOMANDO DE 1 BOTÃO/
+    MICROFONE. MICROFONE INTEGRADO. CHAMADA SEM UTILIZAR
+    AS MÃOS. INTRA-AURICULAR.
+
+    FONE DE OUVIDO (HEADSET)
+
+    FONE DE OUVIDO DO TIPO HEADSET, COM AS SEGUINTES
+    CARACTERÍSTICAS MÍNIMAS: FUNCIONAR EM COMPUTADORES;
+     TIPO DE MICROFONE BIDIRECIONAL; IMPEDÂNCIA DE ENTRADA
+     32 OHM; SENSIBILIDADE (HEADPHONE) 94 DBV/PA +/- 3 DB;
+4.7  SENSIBILIDADE                                        UNIDADE  500
+    (MICROFONE) -17 DBV/PA +/- 4 DB; RESPOSTA DE FREQUÊNCIA
+    (HEADSET) 20 HZ - 20 KHZ; RESPOSTA DE FREQUÊNCIA
+    (MICROFONE) 100 HZ - 10 KHZ; ALMOFADA DE ORELHA EM COURO
+   COM ESPUMA; CONECTIVIDADE DIGITAL USB 2.0; CONTROLE DE
+    VOLUME NO FIO; PADRÃO DE CAPTAÇÃO DO MICROFONE
+     DIRECIONAL; COR PRETO;
+
+
+                Secretaria Municipal de Administração e Modernização
+                    Departamento de Compras e Licitações
+             Rua Vereador José Barbosa de Araújo, 151 – Vila Virginia
+                       Email: compras@itaquaquecetuba.sp.gov.br
+                                 Telefone: 11 4642-1531
+                                                                              31
+
+     COOLER
+
+      DISSIPADOR ALUMÍNIO TDP 65W COMPATÍVEL COM LGA 1150,
+       1151, 1155 E 1200 CONECTOR DE 4 PINOS MONTAGEM SEM
+  4.8                                                      UNIDADE  300
+     SUPORTE INFERIOR, NÃO É PRECISO RETIRAR A PLACA-MÃE DO
+      GABINETE DISSIPADOR: INTEIRO EM ALUMÍNIO E COBRE
+      ROTAÇÃO: 2.200 RPM PWM ± 10% FLUXO DE AR: 45 CFM ± 10%
+      RUÍDO: 26 DBA TIPO DE ROLAMENTO: SLEEVE VOLTAGEM: 12 VDC
+
+
+1.2 Havendo  divergência  entre o  sistema  e o  estabelecido  neste  Edital,  quanto  à
+descrição/especificação,  quantidade e unidade dos  itens  objeto da  presente  licitação,
+prevalecerá o disposto no Termo de Referência.
+
+1.3   Os bens objeto desta ata de registro de preços são caracterizados como comuns, conforme
+justificativa constante do Estudo Técnico Preliminar.
+
+1.4   O objeto desta ata de registro de preços não se enquadra como sendo de bem de luxo,
+conforme Decreto nº 10.818, de 27 de setembro de 2021.
+
+1.5   O prazo de vigência da Ata de Registro de Preços é de 01 (um) ano, contado da data de sua
+assinatura, podendo ser prorrogada por  igual período e quantidade, mediante a anuência do
+fornecedor, desde que comprovado o preço vantajoso.
+
+        1.5.1 A duração do contrato observará, a cada exercício financeiro, a disponibilidade de créditos
+        orçamentários, bem como a previsão no plano plurianual.
+
+1.4   A existência de preços registrados implicará compromisso de fornecimento nas condições
+estabelecidas, mas não obrigará a Administração a  adquirir, facultada a realização de licitação
+específica para a aquisição pretendida, desde que devidamente justificada, sendo assegurada à
+detentora da Ata de Registro a preferência de contratação em igualdade de condições.
+
+2.   FUNDAMENTAÇÃO E DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO (CONFIRMAR
+SE TEM A INFORMAÇÃO NO ETP DO PROCESSO)
+
+2.1   A Fundamentação do Registro de Preços para Aquisição e de seus quantitativos encontra-se
+em tópico específico no Estudo Técnicos Preliminar, publicado no PNCP e no endereço eletrônico
+www.itaquaquecetuba.sp.gov.br.
+
+2.2   O objeto da contratação não está previsto no Plano de Contratações Anual, conforme consta
+das informações básicas do Estudo Técnico Preliminar - ETP.
+
+3.   DESCRIÇÃO DA SOLUÇÃO COMO UM TODO CONSIDERADO O CICLO DE VIDA DO
+OBJETO E ESPECIFICAÇÃO DO PRODUTO.
+
+3.1   A descrição da solução como um todo encontra-se no Estudo Técnico Preliminar, publicado no
+PNCP e no endereço eletrônico www.itaquaquecetuba.sp.gov.br.
+
+4.   REQUISITOS DA CONTRATAÇÃO
+
+4.1  Sustentabilidade:
+
+     4.1.1 Não foram encontrados critérios de sustentabilidade incidentes sobre o objeto a ser licitado.
+
+4.2 Subcontratação
+
+     4.2.1 Não é admitida a subcontratação do objeto contratual.
+
+4.3  Garantia da proposta
+
+     4.3.1 Haverá exigência da garantia de proposta, pelas razões do Estudo Técnico Preliminar.
+                  Secretaria Municipal de Administração e Modernização
+                     Departamento de Compras e Licitações
+              Rua Vereador José Barbosa de Araújo, 151 – Vila Virginia
+                         Email: compras@itaquaquecetuba.sp.gov.br
+                                   Telefone: 11 4642-1531
+                                                                                32

@@ -24,10 +24,9 @@ def test_paths():
     paths_to_test = [
         (base_dir, "Diretório base"),
         (downloads_dir, "Diretório DOWNLOADS"),
-        (os.path.join(downloads_dir, "EDITAIS"), "Diretório EDITAIS"),
-        (os.path.join(downloads_dir, "ORCAMENTOS"), "Diretório ORCAMENTOS"),
+        (os.path.join(downloads_dir, "EDITAIS"), "Diretório EDITAIS"), 
         (os.path.join(downloads_dir, "PRODUTOS"), "Diretório PRODUTOS"),
-        (os.path.join(downloads_dir, "RESULTADO_metadados"), "Diretório RESULTADO_metadados"),
+        (os.path.join(downloads_dir, "METADADOS"), "Diretório METADADOS"),
     ]
     
     all_good = True
@@ -48,11 +47,11 @@ def test_files():
     downloads_dir = os.path.join(base_dir, "DOWNLOADS")
     
     files_to_test = [
-        (os.path.join(base_dir, "EDITAIS", "master.xlsx"), "master.xlsx"),
+        (os.path.join(downloads_dir, "master.xlsx"), "master.xlsx"),
         (os.path.join(downloads_dir, "summary.xlsx"), "summary.xlsx"),
         (os.path.join(downloads_dir, "livro_razao.xlsx"), "livro_razao.xlsx"),
-        (os.path.join(downloads_dir, "PRODUTOS", "base_produtos.xlsx"), "produtos_o4-mini.xlsx"),
-        (os.path.join(downloads_dir, "RESULTADO_metadados", "categoria_sonnet.xlsx"), "categoria_sonnet.xlsx"),
+        (os.path.join(downloads_dir, "PRODUTOS", "ultra_base.xlsx"), "ultra_base.xlsx"),
+        (os.path.join(downloads_dir, "METADADOS", "categoria_GPT.xlsx"), "categoria_GPT.xlsx"),
     ]
     
     all_good = True
