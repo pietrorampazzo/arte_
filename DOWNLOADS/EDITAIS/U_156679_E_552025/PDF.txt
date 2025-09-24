@@ -1,0 +1,124 @@
+06/08/25, 11:15                                     Sistema Integrado de Patrimônio, Administração e Contratos
+
+                              UNIVERSIDADE FEDERAL DE CATALÃO
+                            Sistema Integrado de Patrimônio, Administração e
+                                             Contratos
+                                           Emitido em 06/08/2025 11:13
+
+
+
+                   RELATÓRIO DOS MATERIAIS A SEREM LICITADOS
+
+        Licitação: 23852.004879/2025-08 - DL 90067/2025 - UFCAT
+       Gestora: 1102 - UFCAT
+       Assunto: AQUISIÇÃO - 5233 - EQUIPAMENTOS PARA AUDIO, VIDEO E FOTO
+       Tipo:    MATERIAIS
+       Status:  SETOR DE COMPRAS - EM ANALISE - SETOR COMPRAS
+
+
+
+
+                                       LISTA DOS MATERIAIS
+
+                                                                                            Quant.
+      Item  Especificação do Material                                                   Unid.                                                                                                Requis.
+
+     NÃO ASSOCIADO(S) A LOTE/GRUPO
+
+                        CÂMERA, FOTOGRÁFICA, DIGITAL, COMPACTA, SUPERZOOM,
+         1 5233000000195                                                   UNIDADE       1                            16.0 MEGAPIXEL
+            CÂMERA, FOTOGRÁFICA, DIGITAL, COMPACTA, SUPERZOOM, 16.0 MEGAPIXEL
+            Quant. Int.
+            106121 - PROAP-MODELAGEM MATEMATICA E COMPUTACIONAL                                1
+
+         2 5233000000349 KIT ILUMINAÇÃO, 1 SOFTBOX + 1 TRIPÉ + 1 LÂMPADA LED  KIT           2
+             KIT ILUMINAÇÃO, 1 SOFTBOX + 1 TRIPÉ + 1 LÂMPADA LED
+
+            CARACTERÍSTICAS SOFTBOX: DESMONTÁVEL, TAMANHO: 50CM X 70CM, COM SOQUETE EMBUTIDO PAR
+           A LUZ CONTÍNUA, TIPO GUARDA CHUVA, CABO DE FORÇA COM 2 METROS APROXIMADAMENTE, CHAVE
+             LIGA E DESLIGA, ACOMPANHA TELA DIFUSORA, VOLTAGEM: 220V OU BIVOLT, BOCAL COM ROSCA TIPO
+              E27, SUPORTE COM REGULAGEM DE ÂNGULO PARA MONTAGEM SOBRE TRIPÉ.
+
+            CARACTERISTICAS TRIPÉ: ALTURA MÁXIMA: 2M, ALTURA MÍNIMA APROXIMADA: 80 CM, COM 3 SEÇÕES
+            PARA AJUSTE DE ALTURA COM TRAVAS, COR: PRETO, ENCAIXE UNIVERSAL COM ROSCA PADRÃO, PESO
+            APROXIMADO: 900G, MATERIAL: ALUMÍNIO, SUPORTA: MÍNIMO DE 2KG.
+
+            CARACTERÍSTICAS LÂMPADA: LED, POTÊNCIA: 61W, BASE E27, BIVOLT, BRANCA, TEMPERATURA DA CO
+              R: 6500K, FLUXO LUMINOSO: 5500LM.
+             KIT ACOMPANHA BOLSA DE TRANSPORTE.
+            Quant. Int.
+            106121 - PROAP-MODELAGEM MATEMATICA E COMPUTACIONAL                                2
+
+                        MICROFONE, COM FIO, TIPO: DINÂMICO, DE MÃO, PADRÃO
+                       POLAR UNIDIRECIONAL (CARDIOIDE), RESPOSTA
+                        FREQUÊNCIA: 50HZ ~ 15KHZ, IMPEDÂNCIA: 600 OHMS,
+         3 5233000000357 SENSIBILIDADE: - 52DBV/PA ~ 1KHZ 1 PA=94DB SPL,     UNIDADE       6
+                         INCLUI INTERRUPTOR ON-OFF, CABO XLR-XLR DE 4,5M,
+                      GLOBO RESISTENTE, ADAPTADOR COM ROSCA E BOLSA COM
+                           ZÍPER, COR: PRETO, PESO APROXIMA
+            MICROFONE, COM FIO, TIPO: DINÂMICO, DE MÃO, PADRÃO POLAR UNIDIRECIONAL (CARDIOIDE), RESP
+           OSTA FREQUÊNCIA: 50HZ ~ 15KHZ, IMPEDÂNCIA: 600 OHMS, SENSIBILIDADE: - 52DBV/PA ~ 1KHZ 1 P
+           A=94DB SPL, INCLUI INTERRUPTOR ON-OFF, CABO XLR-XLR DE 4,5M, GLOBO RESISTENTE, ADAPTADOR
+          COM ROSCA E BOLSA COM ZÍPER, COR: PRETO, PESO APROXIMADO: 244 G.
+            Quant. Int.
+            106121 - PROAP-MODELAGEM MATEMATICA E COMPUTACIONAL                                6
+
+                        MICROFONE, SEM FIO, DUPLO, BASTÃO, FORMATO: DE MÃO,
+                         FEITO EM METAL, PINTURA ELETROSTÁTICA, BOTÃO COM
+                       FUNÇÕES ON / MUTE / OFF, PADRÃO POLAR: CARDIÓIDE,
+         4 5233000000355 DISPLAY OLED COM INDICAÇÃO DE NÍVEL DE AF, RF, CARGA KIT           1
+                      DAS PILHAS, MUTE E LOCK AUTOMÁTICO, RESPOSTA DE
+                        FREQUÊNCIA: 80HZ - 14.000HZ ± 2DB, SAÍDA DE ÁUDIO:
+                        XLR E TS
+            MICROFONE, SEM FIO, DUPLO, BASTÃO, FORMATO: DE MÃO, FEITO EM METAL, PINTURA ELETROSTÁTIC
+               A, BOTÃO COM FUNÇÕES ON / MUTE / OFF, PADRÃO POLAR: CARDIÓIDE, DISPLAY OLED COM INDICAÇÃ
+          O DE NÍVEL DE AF, RF, CARGA DAS PILHAS, MUTE E LOCK AUTOMÁTICO, RESPOSTA DE FREQUÊNCIA: 8
+
+https://sipac.sistemas.ufcat.edu.br/sipac/buscaRelatorioCompras.do                                                                                1/2
+
+06/08/25, 11:15                                     Sistema Integrado de Patrimônio, Administração e Contratos
+           0HZ - 14.000HZ ± 2DB, SAÍDA DE ÁUDIO: XLR E TS, CONEXÃO ANTENAS: BNC 50 OHMS, MODULAÇÃO:
+              UHF, SISTEMA PLL, POTÊNCIA DE SAÍDA: 10MW, LARGURA DE BANDA: 50MHZ, INCLUI 2 MICROFONES,
+            INCLUÍDO PILHA DE LITIO RECARREGÁVEL, BIVOLT.
+            Quant. Int.
+            106121 - PROAP-MODELAGEM MATEMATICA E COMPUTACIONAL                                1
+
+                         PROJETOR, MULTIMÍDIA, VOLTAGEM 100/240 V, 2
+                       ENTRADAS VÍDEO, TAMANHO MÍNIMO IMAGEM 21
+         5 5233000000263 POLEGADAS, ZOOM DIGITAL ÓPTICO, COM CONTROLE      UNIDADE       1
+                       REMOTO, LUMINOSIDADE MÍNIMA 3.000LM, PROJEÇÃO
+                       FRONTAL E TETO, RESOLUÇÃO 1.024 X 768
+            PROJETOR, MULTIMÍDIA, VOLTAGEM 100/240 V, 2 ENTRADAS VÍDEO, TAMANHO MÍNIMO IMAGEM 21 POL
+            EGADAS, ZOOM DIGITAL ÓPTICO, COM CONTROLE REMOTO, LUMINOSIDADE MÍNIMA 3.000LM, PROJEÇ
+           ÃO FRONTAL E TETO, RESOLUÇÃO 1.024 X 768
+            Quant. Int.
+            106121 - PROAP-MODELAGEM MATEMATICA E COMPUTACIONAL                                1
+
+                          TELEVISOR, TAMANHO TELA 75 POL, TELA LED, VOLTAGEM
+         6 5233000000299 110/220V, SMART TV, 4K, WIFI, ENTRADAS HDMI, USB,    UNIDADE       1
+                       CONVERSOR, CONTROLE REMOTO
+             TELEVISOR, TAMANHO TELA 75 POL, TELA LED, VOLTAGEM 110/220V, SMART TV, 4K, WIFI, ENTRADAS H
+             DMI, USB, CONVERSOR, CONTROLE REMOTO
+            Quant. Int.
+            106121 - PROAP-MODELAGEM MATEMATICA E COMPUTACIONAL                                1
+
+                          TELEVISOR, TELA LED, TAMANHO TELA 65 POLEGADAS,
+         7 5233000000237 VOLTAGEM 110/ 220 V, SMART TV, 4K, WIFI, ENTRADAS    UNIDADE       1
+                        HDMI, USB, CONVERSOR, COM CONTROLE REMOTO
+             TELEVISOR, TELA LED, TAMANHO TELA 65 POLEGADAS, VOLTAGEM 110/ 220 V, SMART TV, 4K, WIFI, EN
+           TRADAS HDMI, USB, CONVERSOR, COM CONTROLE REMOTO
+            Quant. Int.
+            106121 - PROAP-MODELAGEM MATEMATICA E COMPUTACIONAL                                1
+
+
+
+
+               SIPAC | Secretaria de Tecnologia da Informação - (64) 3441-5337 | Copyright © 2005-2025 - UFRN -
+                                                         sigapp03.srv3inst1
+
+
+
+
+
+https://sipac.sistemas.ufcat.edu.br/sipac/buscaRelatorioCompras.do                                                                                2/2
+

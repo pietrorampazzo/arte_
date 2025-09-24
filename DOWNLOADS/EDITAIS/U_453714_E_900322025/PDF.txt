@@ -1,8 +1,9 @@
-J FAPEC
+ANEXO I
 
-TERMO DE REFERÊNCIA
+                     TERMO DE REFERÊNCIA
 
-1.  DOOBJETO
+
+1.  DO OBJETO
 
 1.1.  Aquisição de equipamentos para laboratórios de Comunicação e Artes da FAALC/UFMS, para
 
@@ -11,701 +12,638 @@ atender às demandas do Projeto 375-UFMS - Contrato nº 120/2023 - "Qualificaç�
 laboratórios de Artes e Comunicação para a inovação no ensino”, sob a Coordenação do Prof. Gustavo
 
 Rodrigues Penha, conforme condições, quantidades e exigências estabelecidas neste instrumento.
-1.2. Especificação detalhada do objeto:
-1.2.1. Pedido de Compra nº 25312/2025 — Projeto 375
 
-MICROFONE LAPELA SEM FIO
-BOYA BY-WM8
+1.2.   Especificação detalhada do objeto:
 
-Descrição: Oscilador de controle
-sintetizado PLL. Faixa de frequência: 576,4
-a 599,9 MHz (Transmissor A); 568,6 a
-592,1 MHz (Transmissor B). Canais: 48.
-Resposta de frequência: 40 Hz a 18 kHz (t
-
-3 dB). Alcance de operação: 100 m (sem
-1. 4 UNID. R$ 962,95 R$ 3.851,80
-obstáculo). Transmissor: Potência de saída
-RF: 10 mW. Emissão espúria: 250 nW ou
-menos. Conectores de entrada de áudio:
-entrada de microfone de 1/8" / 3,5 mm
-(P2); entrada de nível de linha de 1/8" / 3,5
-mm (P2). Nível de entrada de referência: -
-60 dBV (Mic Input, O dB attenuation).
-
-Desvio de referência: + 5 kHz (-60 dBV,
-
-FUNDACAOFAPEC.ORG.BR
-
-FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA FAPECGFAPEC.ORG | t> +55(67)3345-5910
-AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA "
+1.2.1. Pedido de Compra nº 25312/2025 – Projeto 375
 
-CNPJ: Nº 15.513.690/0001-50
+                                               VALOR     VALOR
 
+ ITEM           DESCRIÇÃO         QTDE  UNID   UNITÁRIO    TOTAL
 
+                                                                      (R$)          (R$)
 
-J FAPEC
+        MICROFONE LAPELA SEM FIO
 
-entrada de 1 kHz). Faixa de frequência de
-entrada: 20 Hz a 20 kHz. Distorção: 0,5%
-ou menos. Fonte de alimentação: 2 pilhas
-tamanho AA. Receptor: Conectores de
-saída de áudio: 1/8" / 3,5 mm P2; fones P2.
-Relação sinal/ruído: 70 dB ou mais.
-Distorção: 0,5% ou menos. Nível de saída
-de headphone: 30 mW (16 ohms). Nível de
-saída de áudio: -60 dBV. Fonte de
-alimentação: 2 pilhas tamanho AA. Tempo
-de operação: cerca de 4 horas. Itens
-inclusos: 01 receptor Boya BY-WMS8 canal
-duplo; 02 transmissores de bolso sem fio;
-02 microfones de lapela omnidirecionais;
-02 para-brisas de espuma; 02 clipes de
-microfone; 01 montagem de sapata; O1
-cabo de saída de 3,5 mm para XLR
-(P2/XLR); 01 cabo de saída de 3,5 mm para
-3,5 mm (P2/P2); O1 maleta para proteção e
+              BOYA BY-WM8
 
-transporte.
+               Descrição: Oscilador de controle
 
-MICROFONE DE LAPELA DUPLO
-SEM FIO BOYA BY-WM4 PRO K6
-PARA DISPOSITIVOS E
-SMARTPHONES ANDROID (USB-C)
-Descrição: Sistema de modulação: GFSK.
-Faixa de frequência: 2,4 GHz (2405-2478
-MHz). Resposta de frequência: 35 Hz — 14
-kHz ( 3 dB). Relação sinal/ruído: 84 dB
-
-ou mais. Nível de saída do fone de ouvido:
+            sintetizado PLL. Faixa de frequência: 576,4
 
-UNID. R$2.012,19
+             a 599,9 MHz (Transmissor A); 568,6 a
 
-R$ 6.036,57
+           592,1 MHz (Transmissor B). Canais: 48.
 
-FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA
-AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA
+          Resposta de frequência: 40 Hz a 18 kHz (±
 
-FUNDACAOFAPEC.ORG.BR
+          3 dB). Alcance de operação: 100 m (sem
+    1.                                            4    UNID.    R$ 962,95    R$ 3.851,80
+            obstáculo). Transmissor: Potência de saída
 
-FAPECGFAPEC.ORG |
-CNPJ: Nº 15.513.690/0001-50
+          RF: 10 mW. Emissão espúria: 250 nW ou
 
-+55 (67) 3345-5910
+           menos. Conectores de entrada de áudio:
 
+             entrada de microfone de 1/8" / 3,5 mm
 
+            (P2); entrada de nível de linha de 1/8" / 3,5
 
-J FAPEC
+      mm (P2). Nível de entrada de referência: -
 
-32 O, 65 mW. Sensibilidade de recepção: -
-90 dB + 3 dB /0 dB= 1V/Pa, 1 kHz7.
-Conector do receptor: USB-C. Faixa de
+           60 dBV (Mic Input, 0 dB attenuation).
 
-operação: 60 m (sem obstáculos).
-Alimentação do transmissor: 2 pilhas AAA
-3 V (não incluídas). Consumo de energia do
-transmissor: 3V / 70 mA. Dimensões:
-Transmissor: 4,5 em x 7,0 cm x 3,5 cm.
-Receptor: 8,2 em x 3,07 em x 1,2 em. Peso:
-Transmissor: 47 g (sem bateria). Receptor:
-12 g (sem bateria). Itens inclusos: 2
-transmissores TX4 Pro; | receptor RXD
-Pro; 2 microfones de lapela
-omnidirecionais (125 em); 1 estojo de
+           Desvio de referência: ± 5 kHz (-60 dBV,
 
-proteção e transporte.
+        entrada de 1 kHz). Faixa de frequência de
 
-GRAVADOR ZOOM H6
-Descrição: Número de tracks: WAV: 6;
-MP3: 2. Taxa máxima de
-amostragem/resolução: 96 kHz / 24-bit.
-Microfone: intercambiável, X/Y
-condensador cardioide estéreo. Memória
-aceita: SD (16 MB a 2 GB), SDHC (4 a 32
-GB), SDXC (64 a 128 GB). Formatos de
-áudio: BWF, MP3, WAV. Taxa de
-amostragem: WAV: 44.1 / 48 / 96 kHz;
-MP3: 44.1 kHz. Profundidade de bit: 16 /
-24-bit. Conectores: 4 entradas XLR TRS
-balanceadas / linha desbalanceada / entrada
+        entrada: 20 Hz a 20 kHz. Distorção: 0,5%
 
-de microfone; | entrada de linha/microfone
+       ou menos. Fonte de alimentação: 2 pilhas
 
-UNID. R$ 3.850,63
+        tamanho AA. Receptor: Conectores de
 
-R$ 7.701,26
+       saída de áudio: 1/8" / 3,5 mm P2; fones P2.
 
-FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA
-AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA
+          Relação sinal/ruído: 70 dB ou mais.
 
-FUNDACAOFAPEC.ORG.BR
+        Distorção: 0,5% ou menos. Nível de saída
 
-FAPECGFAPEC.ORG | +55 (67) 3345-5910
-CNPJ: Nº 15.513.690/0001-50
+      de headphone: 30 mW (16 ohms). Nível de
 
+            saída de áudio: -60 dBV. Fonte de
 
+       alimentação: 2 pilhas tamanho AA. Tempo
 
-J FAPEC
+          de operação: cerca de 4 horas. Itens
 
-não balanceada TRS P2; saída de linha não
-balanceada TRS P2; saída de fone de
-ouvido TRS não balanceada P2. Itens
-inclusos: 01 gravador de áudio Zoom H6
-AIll Black 6-input; 01 cápsula de microfone
-H6 All Black X/Y; 04 pilhas AA; 01
+        inclusos: 01 receptor Boya BY-WM8 canal
 
-manual.
+        duplo; 02 transmissores de bolso sem fio;
 
-CÂMERA BLACKMAGIC POCKET
-CINEMA 4K
-Descrição: Sensor de imagem 4/3, ISO
-duplo nativo. Possui 13 pontos de faixa
-dinâmica e ISO nativo duplo de até 25.600
-para capturar imagens em resoluções de até
-DCI 4K. Montagem de lente: Micro Quatro
-Terços. Resoluções de filmagem: 4096 x
-2160 (DCI 4K), 3840 x 2160 (Ultra HD
-4K), 1920 x 1080 (HD). Tela: touchscreen
-de 5". Captura em CFast 2.0, SD/UHS-I e
-USB Type-C. Alimentação: bateria
-recarregável Canon LP-E6 ou fonte inclusa.
-Inclui chave de ativação do DaVinci
+       02 microfones de lapela omnidirecionais;
 
-Resolve Studio.
+        02 para-brisas de espuma; 02 clipes de
 
-LENTE EF 24-70MM F/2.8L II USM
-Descrição: Intervalo de zoom versátil de
-24-70 mm. Design óptico completamente
-novo. Elementos de dispersão ultrabaixa
+         microfone; 01 montagem de sapata; 01
 
-(UD) e Super UD. Abertura máxima de
+          cabo de saída de 3,5 mm para XLR
 
-£/2.8 rápida. Distância mínima de focagem:
+      (P2/XLR); 01 cabo de saída de 3,5 mm para
 
-0,38 m. Proteção contra pó e umidade.
+       3,5 mm (P2/P2); 01 maleta para proteção e
 
-R$
-UNID. | R$ 14.363,25
-28.726,50
-R$
-UNID. | R$ 18.642,92
-18.642,92
+                         transporte.
 
-FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA
-AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA
+     MICROFONE DE LAPELA DUPLO
 
-FUNDACAOFAPEC.ORG.BR
+      SEM FIO BOYA BY-WM4 PRO K6
 
-FAPECGFAPEC.ORG | +55 (67) 3345-5910
-CNPJ: Nº 15.513.690/0001-50
+         PARA DISPOSITIVOS E
 
+     SMARTPHONES ANDROID (USB-C)
+2.     Descrição: Sistema de modulação: GFSK.     3    UNID.   R$ 2.012,19   R$ 6.036,57
+       Faixa de frequência: 2,4 GHz (2405–2478
 
+      MHz). Resposta de frequência: 35 Hz – 14
 
-J FAPEC
+      kHz (± 3 dB). Relação sinal/ruído: 84 dB
 
-Focagem automática rápida e silenciosa.
-Controle de focagem manual. Abertura
-circular de 9 lâminas. Similar ou superior à
-marca Canon.
+      ou mais. Nível de saída do fone de ouvido:
 
-MONITOR DE ÁUDIO EDIFIER
-R1000T4 PRETO
+      32 O, 65 mW. Sensibilidade de recepção: -
 
-Descrição: Dimensões das caixas: 20 / 14,8
-/23,5 em (profundidade/largura/altura).
-Dados técnicos: Potência: 24 W RMS (12
-W x 2). Agudos: 1,2". Graves: 4". Proteção
-magnética: sim. Relação sinal/ruído: > 85
-dB. Distorção: 0,5%. Resposta de
-frequência: 75 Hz — 18 kHz ( 9 dB). Nível
+         90 dB ± 3 dB / 0 dB = 1V/Pa, 1 kHz.
 
-6. 2 UNID. R$ 1.134,99º | R$2.269,98
-de entrada: PC: 700 mV + 50 mV; Aux: 550
+        Conector do receptor: USB-C. Faixa de
 
-mV + 50 mV. Bivolt. Impedância: 4 ohms.
-Medidas do produto: C 14,8 x PI9,8xA
-23,3 cm. Medidas da embalagem: C 35,8 x
-L 26,3 x A 27,5 cm. Itens inclusos: 1 coluna
-ativa, 1 coluna passiva, 1 cabo de ligação
-das colunas, 1 cabo de áudio P2 (3,5 mm)
-para RCA duplo, 1 cabo de áudio RCA para
-RCA estéreo.
+            operação: 60 m (sem obstáculos).
 
-CÂMERA PXW-Z150
-Descrição: Sensor Exmor RS CMOS de 1"
-UHD 4K (3840 x 2160) até 30p; HD até
-T. 120 fps. Zoom óptico de 12x, zoom de 2 UNID. | R$27.300,00
+       Alimentação do transmissor: 2 pilhas AAA
 
-R$
+     3V (não incluídas). Consumo de energia do
 
-54.600,00
-imagem clara 18/24x, zoom digital 48x.
+          transmissor: 3V / 70 mA. Dimensões:
 
-Foco manual discreto. Anéis de íris.
+         Transmissor: 4,5 cm x 7,0 cm x 3,5 cm.
 
-Formatos: XAVC, AVC/H.264, AVCHD
+       Receptor: 8,2 cm x 3,07 cm x 1,2 cm. Peso:
 
-FUNDACAOFAPEC.ORG.BR
+       Transmissor: 47 g (sem bateria). Receptor:
 
-FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA FAPECGFAPEC.ORG | t> +55(67)3345-5910
-AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA -
+         12 g (sem bateria). Itens inclusos: 2
 
-CNPJ: Nº 15.513.690/0001-50
+         transmissores TX4 Pro; 1 receptor RXD
 
+               Pro; 2 microfones de lapela
 
+          omnidirecionais (125 cm); 1 estojo de
 
-J
+                 proteção e transporte.
 
-Fundação
+         GRAVADOR ZOOM H6
 
-FAPEC
+        Descrição: Número de tracks: WAV: 6;
 
-2.0, MPEG-4. Função de movimento lento
-e rápido. Armazenamento: dois slots de
-cartão SD. Conectividade: Wi-Fi. Áudio: 2
-entradas XLR de 3 pinos.
+            MP3: 2. Taxa máxima de
 
-VARA DE BOOM DE FIBRA DE
+         amostragem/resolução: 96 kHz / 24-bit.
 
-CARBONO (MÍNIMO 2,5 M)
+            Microfone: intercambiável, X/Y
 
-Descrição: Boom extensível para
-microfones, com 5 seções e alongamento
-ultra suave. Rosca de 3/8" e adaptador de
-5/8". Comprimento máximo: 6 m. Punho
-acolchoado em neoprene. Construção em
+        condensador cardioide estéreo. Memória
 
-fibra de carbono. Ideal para microfones
+        aceita: SD (16 MB a 2 GB), SDHC (4 a 32
+3.                                            2    UNID.   R$ 3.850,63   R$ 7.701,26
+       GB), SDXC (64 a 128 GB). Formatos de
 
-direcionais e shotgun.
+            áudio: BWF, MP3, WAV. Taxa de
 
-UNID.
+        amostragem: WAV: 44.1 / 48 / 96 kHz;
 
-RS$ 1.731,88
+      MP3: 44.1 kHz. Profundidade de bit: 16 /
 
-RS$ 1.731,88
+         24-bit. Conectores: 4 entradas XLR TRS
 
-FONE DE OUVIDO
-Descrição: Fone de ouvido tipo Over-Ear
-(circumaural), estilo Earcup fechado.
-Resposta de frequência: 10 Hz — 20 kHz.
-Sensibilidade: 104 dB. Impedância: 63
-ohms. Potência máxima suportada: 1000
-mW. Similar ou superior ao Sony 7506
+       balanceadas / linha desbalanceada / entrada
 
-Studio Headphones.
+      de microfone; 1 entrada de linha/microfone
 
-UNID.
+      não balanceada TRS P2; saída de linha não
 
-R$ 1.130,52
+          balanceada TRS P2; saída de fone de
 
-R$ 3.391,56
+         ouvido TRS não balanceada P2. Itens
 
-10.
+         inclusos: 01 gravador de áudio Zoom H6
 
-MICROFONE SHOTGUN RODE NTG4
-SUPERCARDIOIDE CONDENSADOR
-(PHANTOM)
+       All Black 6-input; 01 cápsula de microfone
 
-Descrição: Som de qualidade broadcast
-para filmes, TV e documentários.
-Comutação digital. Alimentação por
-phantom power. Reforço de agudos
-comutável. PAD -10 dB. Filtro low-cut 75
+       H6 All Black X/Y; 04 pilhas AA; 01
 
-UNID.
+                      manual.
 
-R$ 2.911,88
+     CÂMERA BLACKMAGIC POCKET
 
-R$ 5.823,76
+             CINEMA 4K
 
-FUNDACAOFAPEC.ORG.BR
+        Descrição: Sensor de imagem 4/3, ISO
 
-FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA
-AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA
+        duplo nativo. Possui 13 pontos de faixa
 
-FAPECGFAPEC.ORG |
+       dinâmica e ISO nativo duplo de até 25.600
 
-+55 (67) 3345-5910
+       para capturar imagens em resoluções de até
 
-CNPJ: Nº 15.513.690/0001-50
+     DCI 4K. Montagem de lente: Micro Quatro
+                                                                  R$
+4.       Terços. Resoluções de filmagem: 4096 x      2    UNID.   R$ 14.363,25
+                                                                                    28.726,50
+       2160 (DCI 4K), 3840 x 2160 (Ultra HD
 
+       4K), 1920 x 1080 (HD). Tela: touchscreen
 
+       de 5". Captura em CFast 2.0, SD/UHS-II e
 
-Fundação
+       USB Type-C. Alimentação: bateria
 
-J FAPEC
+       recarregável Canon LP-E6 ou fonte inclusa.
 
-Hz selecionável. Circuito de baixo ruído.
-Alta sensibilidade e SPL máximo elevado.
-Tom quente e natural. Acompanha espuma
+           Inclui chave de ativação do DaVinci
 
-windscreen para redução de ruído.
-CARTÃO DE MEMÓRIA SD UHS-II
-256 GB 170 MB/S
+                   Resolve Studio.
 
-Descrição: Velocidade de
+      LENTE EF 24-70MM F/2.8L II USM
 
-UNID. R$ 374,82 R$ 2.248,92
+        Descrição: Intervalo de zoom versátil de
 
-leitura/transferência: 170 MB/s (1133x) ou
+       24-70 mm. Design óptico completamente
+                                                                  R$
+5.      novo. Elementos de dispersão ultrabaixa      1    UNID.   R$ 18.642,92
+                                                                                    18.642,92
+       (UD) e Super UD. Abertura máxima de
 
-superior. Velocidade de escrita/gravação:
-até 90 MB/s (600x). Similar ou superior ao
-Sandisk Extreme Pro.
+        f/2.8 rápida. Distância mínima de focagem:
 
-TRIPÉ PROFISSIONAL PARA VÍDEO,
-CABEÇA HIDRÁULICA
+         0,38 m. Proteção contra pó e umidade.
 
-Descrição: Altura máxima: 154 em (com
+       Focagem automática rápida e silenciosa.
 
-1.
+         Controle de focagem manual. Abertura
 
-UNID. R$ 1.224,77 | R$2.449,54
+        circular de 9 lâminas. Similar ou superior à
 
-cabeça). Altura mínima: 71 em. Cabeça
-hidráulica para até 10 kg. Panorâmica 360º
-e pan/tilt. Interface bowl 60 mm. Placa de
-liberação rápida 1/4" e 3/8". Acompanha
-bolsa de transporte. Similar ou superior à
-marca Kingjoy.
+                  marca Canon.
 
-CASE PARA BLACKMAGIC POCKET
-CINEMA CAMERA 4K OU 6K (SKB
+      MONITOR DE ÁUDIO EDIFIER
 
-ISERIES)
-R$ 3.710,63
+              R1000T4 PRETO
 
-Descrição: Tipo de fechamento: trava com
-orifício para cadeado. Transporte: alça UNID. R$ 3.710,63
+      Descrição: Dimensões das caixas: 20 / 14,8
 
-superior. Compatível com Blackmagic
+             / 23,5 cm (profundidade/largura/altura).
 
-12.
+       Dados técnicos: Potência: 24 W RMS (12
 
-13.
+   W x 2). Agudos: 1,2". Graves: 4". Proteção
 
-Pocket Cinema Camera 6K/4K. Material de
+        magnética: sim. Relação sinal/ruído: > 85
 
-construção: polietileno e resina. IP67, à
+          dB. Distorção: 0,5%. Resposta de
 
-prova d'água. Válvula de pressão/purga:
+       frequência: 75 Hz – 18 kHz (± 9 dB). Nível
+6.                                            2    UNID.   R$ 1.134,99   R$ 2.269,98
+      de entrada: PC: 700 mV ± 50 mV; Aux: 550
 
-FUNDACAOFAPEC.ORG.BR
+    mV ± 50 mV. Bivolt. Impedância: 4 ohms.
 
-FAPECGFAPEC.ORG |
-CNPJ: Nº 15.513.690/0001-50
+       Medidas do produto: C 14,8 x P 19,8 x A
 
-+55 (67) 3345-5910
+       23,3 cm. Medidas da embalagem: C 35,8 x
 
-FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA
-AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA
+     L 26,3 x A 27,5 cm. Itens inclusos: 1 coluna
 
+         ativa, 1 coluna passiva, 1 cabo de ligação
 
+       das colunas, 1 cabo de áudio P2 (3,5 mm)
 
-J
+       para RCA duplo, 1 cabo de áudio RCA para
 
-Fundação
+             RCA estéreo.
 
-FAPEC
+         CÂMERA PXW-Z150
 
-sim. Dimensões externas: 37,47 x 30,48 x
+       Descrição: Sensor Exmor RS CMOS de 1"
 
-18,41 cem. Peso: 2,36 kg.
+     UHD 4K (3840 x 2160) até 30p; HD até
+                                                                  R$
+7.      120 fps. Zoom óptico de 12x, zoom de       2    UNID.   R$ 27.300,00
+                                                                                    54.600,00
+       imagem clara 18/24x, zoom digital 48x.
 
-14.
+         Foco manual discreto. Anéis de íris.
 
-CASE PARA PXW-Z150
-Descrição: Material: poliéster rígido de alta
-resistência. Tamanho interno: 50 x 26 x 28
-em (comprimento x largura x altura). Peso:
+        Formatos: XAVC, AVC/H.264, AVCHD
 
-5 kg.
+         2.0, MPEG-4. Função de movimento lento
 
-UNID.
+         e rápido. Armazenamento: dois slots de
 
-R$ 567,78
+        cartão SD. Conectividade: Wi-Fi. Áudio: 2
 
-R$ 1.135,56
+                entradas XLR de 3 pinos.
 
-15.
+       VARA DE BOOM DE FIBRA DE
 
-BATERIA LP-E6N PARA CÂMERA
-DIGITAL
-Descrição: Não desenvolve efeito
-memória. Capacidade: 2600 mAh (19,2
-Whbh) e 7,4 V. Compatível com carregadores
-Canon. Substitui a bateria Canon LP-E6N.
+        CARBONO (MÍNIMO 2,5 M)
 
-Similar ou superior à marca Manen.
+            Descrição: Boom extensível para
 
-UNID.
+         microfones, com 5 seções e alongamento
+ 8.       ultra suave. Rosca de 3/8" e adaptador de      1    UNID.   R$ 1.731,88   R$ 1.731,88
+          5/8". Comprimento máximo: 6 m. Punho
 
-R$ 355,60
+        acolchoado em neoprene. Construção em
 
-R$ 1.066,80
+           fibra de carbono. Ideal para microfones
 
-16.
+                   direcionais e shotgun.
 
-FONTE AC MINI XLR 2PIN 12V PARA
-BLACKMAGIC POCKET 4K E 6K
-(BIVOLT)
+           FONE DE OUVIDO
 
-Descrição: Adaptador AC/DC de alta
-eficiência. Proteção contra curto e
-sobrecarga. Plug Mini XLR 2 pinos
-(SF610/S2). Fonte bivolt 110-220V 50/60
-Hz. Tensão de saída: 12V — 3 A. Carga
-contínua para BMPCC 4K, 6K e 6K Pro.
+        Descrição: Fone de ouvido tipo Over-Ear
 
-UNID.
+           (circumaural), estilo Earcup fechado.
 
-R$ 408,20
+        Resposta de frequência: 10 Hz – 20 kHz.
+ 9.                                            3    UNID.   R$ 1.130,52   R$ 3.391,56
+          Sensibilidade: 104 dB. Impedância: 63
 
-R$ 408,20
+        ohms. Potência máxima suportada: 1000
 
-17.
+       mW. Similar ou superior ao Sony 7506
 
-MAGICRIG BMPCC 4K PRO GAIOLA
-COM ALÇA SUPERIOR + SUPORTE
-SSD
-Descrição: Dimensões: 193 x 75 x 115
+                  Studio Headphones.
 
-mm. Peso líquido: 558 g. Material: liga de
+    MICROFONE SHOTGUN RODE NTG4
 
-UNID.
+     SUPERCARDIOIDE CONDENSADOR
 
-R$ 2.851,20
+              (PHANTOM)
 
-R$ 2.851,20
+         Descrição: Som de qualidade broadcast
+10.                                           2    UNID.   R$ 2.911,88   R$ 5.823,76
+            para filmes, TV e documentários.
 
-FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA
-AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA
+         Comutação digital. Alimentação por
 
-FUNDACAOFAPEC.ORG.BR
+          phantom power. Reforço de agudos
 
-FAPECGFAPEC.ORG |
+        comutável. PAD -10 dB. Filtro low-cut 75
 
-+55 (67) 3345-5910
+      Hz selecionável. Circuito de baixo ruído.
 
-CNPJ: Nº 15.513.690/0001-50
+        Alta sensibilidade e SPL máximo elevado.
 
+      Tom quente e natural. Acompanha espuma
 
+           windscreen para redução de ruído.
 
-J
+     CARTÃO DE MEMÓRIA SD UHS-II
 
-Fundação
+                256 GB 170 MB/S
 
-FAPEC
+               Descrição: Velocidade de
+11.      leitura/transferência: 170 MB/s (1133x) ou     6    UNID.    R$ 374,82    R$ 2.248,92
+          superior. Velocidade de escrita/gravação:
 
-alumínio. Tipo de parafuso da câmera:
-1/4"-20. Tipo de parafuso de orifício: 1/4"-
-20. Itens inclusos: 1 gaiola, 1 alça superior,
-1 suporte SSD, 2 parafusos M3, 2 parafusos
-MA, 4 parafusos 1/4", 3 chaves hexagonais,
+        até 90 MB/s (600x). Similar ou superior ao
 
-1 placa com pinos de localização.
+                 Sandisk Extreme Pro.
 
-18.
+     TRIPÉ PROFISSIONAL PARA VÍDEO,
 
-HD EXTERNO SSD 500 GB (USO
-COMO CARTÕES DE CÂMERA)
-Descrição: Interfaces: SATA III, SATA II.
-Aplicações: PC. Tipo de disco: externo
-(desktop ou notebook). Formato: 2,5".
-Capacidade: 500 GB. Tecnologia: SSD.
-Cache: 512 MB. Dimensões: Largura:
-3,94"; altura: 2,75"; profundidade: 0,27".
-Peso: 0,19 Ib. Compatível com sistemas
-Windows, MacOS e Linux. Consumo
-energético: 3,5 W. Similar ou superior à
+         CABEÇA HIDRÁULICA
 
-marca Kingston.
+        Descrição: Altura máxima: 154 cm (com
 
-UNID.
+          cabeça). Altura mínima: 71 cm. Cabeça
+12.     hidráulica para até 10 kg. Panorâmica 360°     2    UNID.   R$ 1.224,77   R$ 2.449,54
+        e pan/tilt. Interface bowl 60 mm. Placa de
 
-R$ 705,77
+         liberação rápida 1/4" e 3/8". Acompanha
 
-R$ 5.646,16
+         bolsa de transporte. Similar ou superior à
 
-19.
+                  marca Kingjoy.
 
-NOTEBOOK PARA EDIÇÃO DE
-IMAGENS
-Descrição: Processador Intel& Core 12º
-geração. Memória: 8 GB DDR5-4800 MHz
-(SODIMM) + 8 GB DDR5-4800 MHz
-(SODIMM ). Placa de vídeo: GPU
-NVIDIAQG GeForce RTX 3050 6 GB
-GDDR6. Armazenamento: 512 GB SSD.
-Sistema operacional: Windows 11 Pro 64.
+     CASE PARA BLACKMAGIC POCKET
 
-Tela: 15,6" FHD (1920 x 1080), IPS,
+      CINEMA CAMERA 4K OU 6K (SKB
 
-antirreflexo, non-touch, 45% NTSC, 300
+                  ISERIES)
 
-UNID.
+       Descrição: Tipo de fechamento: trava com
+13.        orifício para cadeado. Transporte: alça       1    UNID.   R$ 3.710,63   R$ 3.710,63
+           superior. Compatível com Blackmagic
 
-R$ 8.470,63
+       Pocket Cinema Camera 6K/4K. Material de
 
-R$
-50.823,78
+          construção: polietileno e resina. IP67, à
 
-FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA
+        prova d’água. Válvula de pressão/purga:
 
-AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA
+        sim. Dimensões externas: 37,47 x 30,48 x
 
-FUNDACAOFAPEC.ORG.BR
-FAPECGFAPEC.ORG |
+                18,41 cm. Peso: 2,36 kg.
 
-+55 (67) 3345-5910
 
-CNPJ: Nº 15.513.690/0001-50
+          CASE PARA PXW-Z150
 
+       Descrição: Material: poliéster rígido de alta
+14.      resistência. Tamanho interno: 50 x 26 x 28     2    UNID.    R$ 567,78    R$ 1.135,56
+     cm (comprimento x largura x altura). Peso:
 
+                      5 kg.
 
-J FAPEC
+      BATERIA LP-E6N PARA CÂMERA
 
-nits, 60 Hz, narrow bezel. Com
+                DIGITAL
 
-especificações similares ou superiores.
+           Descrição: Não desenvolve efeito
+15.      memória. Capacidade: 2600 mAh (19,2      3    UNID.    R$ 355,60    R$ 1.066,80
+      Wh) e 7,4 V. Compatível com carregadores
 
-PC GAMER INTEL 13º GERAÇÃO 19-
+       Canon. Substitui a bateria Canon LP-E6N.
 
-13900K 32GB 1TB NVME 2TB SSD
-RTX 4070 850W GOLD
-Descrição: Placa-mãe: LGA 1700 Z790
+           Similar ou superior à marca Manen.
 
-DDRS5. Processador: Intel Core 19-
-13900KF. Refrigeração: water cooler
-compatível 240 mm (branco) + 6 coolers
-fan RGB. Memória RAM: 64 GB 5600
-20. MHz DDR5 RGB. Gabinete gamer UNID. | R$24.188,83 R$
-quadrado. Fonte real bivolt Gold 850 W 48,377,66
-XPG. Armazenamento: SSD NVMe ITB
-PCle 4.0. Placa de vídeo: GeForce RTX
-4070 Ti 12 GB GDDR6X.
-Adaptador/receptor Wi-Fi USB dual band.
-Sistema operacional: Windows 11 Pro.
-Com especificações similares ou
-superiores. Montado.
-MONITOR 24" 144HZ 1IMS
-Descrição: Ajustes de posição: inclinação
-Furação: 100 x 100 mm. Tela: IPS de 24".
-Ângulo de visão: 178º / 178º. Resolução
-máxima: Full HD (1920 x 1080). Brilho: 1 UNID. R$ 1.642,04
-300 cd/m?. Contraste: 1000:1. Tempo de
-resposta: 1 ms (GTG). Taxa de atualização:
+     FONTE AC MINI XLR 2PIN 12V PARA
 
-R$ 1.642,04
+      BLACKMAGIC POCKET 4K E 6K
 
-21.
+                  (BIVOLT)
 
-144 Hz. Gama de cores: SRGB 99%
-(típico). Profundidade de cores: 16,7 M.
+          Descrição: Adaptador AC/DC de alta
+16.          eficiência. Proteção contra curto e        1    UNID.    R$ 408,20    R$ 408,20
+            sobrecarga. Plug Mini XLR 2 pinos
 
-FUNDACAOFAPEC.ORG.BR
-FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA FAPECGFAPEC.ORG |
-AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA "
-CNPJ: Nº 15.513.690/0001-50
+        (SF610/S2). Fonte bivolt 110-220V 50/60
 
-+55 (67) 3345-5910
+         Hz. Tensão de saída: 12V – 3 A. Carga
 
+         contínua para BMPCC 4K, 6K e 6K Pro.
 
+     MAGICRIG BMPCC 4K PRO GAIOLA
 
-J
+    COM ALÇA SUPERIOR + SUPORTE
+17.                SSD                    1    UNID.   R$ 2.851,20   R$ 2.851,20
+         Descrição: Dimensões: 193 x 75 x 115
 
-Fundação
+      mm. Peso líquido: 558 g. Material: liga de
 
-FAPEC
+          alumínio. Tipo de parafuso da câmera:
 
-Distância entre pixels: 0,2745 x 0,2745
-mm. Tratamento de tela: antirreflexo.
-Entradas/saídas: HDMI (x1, v2.0),
-DisplayPort (v1.4), saída para fones de
-ouvido. Similar ou superior ao LG modelo
+        1/4"-20. Tipo de parafuso de orifício: 1/4"-
 
-24GN60R-B.AWZM.
+        20. Itens inclusos: 1 gaiola, 1 alça superior,
 
-22.
+      1 suporte SSD, 2 parafusos M3, 2 parafusos
 
-REFLETOR LED 20.000 LUMENS
-BICOLOR 110/220V
-Descrição: LED tecnologia SMD. Sistema
-DMX512 ou fixo. Voltagem fixa: 110V,
-220V ou bivolt automático. Vida útil:
-40.000 horas. Filtro difusor. Consumo: 300
-W. Luminosidade: 20.000 lumens. Drive de
-alta frequência Flicker Free. Proteção
-contra surtos e sobretensão. Isento de RFI.
-Acabamento: pintura eletrostática. Braço
-articulado. Cabo de energia de 1,5 m. Plug
-NBR 14136. Manípulos laterais reforçados.
-Compatível com cubos adaptadores 5/8.
+      M4, 4 parafusos 1/4", 3 chaves hexagonais,
 
-Similar ou superior ao RL20B.
+          1 placa com pinos de localização.
 
-UNID.
+      HD EXTERNO SSD 500 GB (USO
 
-R$ 4.346,00
+      COMO CARTÕES DE CÂMERA)
 
-R$ 8.692,00
+        Descrição: Interfaces: SATA III, SATA II.
 
-23.
+          Aplicações: PC. Tipo de disco: externo
 
-REFLETOR LED 10.000 LUMENS
-BICOLOR 110/220V
-Descrição: LED tecnologia SMD. Sistema
-DMX512 ou fixo. Voltagem fixa: 110V,
-220V ou bivolt automático. Vida útil:
-40.000 horas. Filtro difusor. Consumo: 150
-W. Luminosidade: 10.000 lumens. Drive de
-alta frequência Flicker Free. Proteção
+          (desktop ou notebook). Formato: 2,5".
 
-contra surtos e sobretensão. Isento de RFI.
+         Capacidade: 500 GB. Tecnologia: SSD.
+18.                                           8    UNID.    R$ 705,77    R$ 5.646,16
+         Cache: 512 MB. Dimensões: Largura:
 
-UNID.
+         3,94"; altura: 2,75"; profundidade: 0,27".
 
-R$ 2.734,00
+         Peso: 0,19 lb. Compatível com sistemas
 
-R$ 5.468,00
+         Windows, MacOS e Linux. Consumo
 
-FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA
-AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA
+          energético: 3,5 W. Similar ou superior à
 
-FUNDACAOFAPEC.ORG.BR
+                  marca Kingston.
 
-FAPECGFAPEC.ORG |
+      NOTEBOOK PARA EDIÇÃO DE
 
-+55 (67) 3345-5910
+              IMAGENS
 
-CNPJ: Nº 15.513.690/0001-50
+         Descrição: Processador Intel® Core 12ª
 
+        geração. Memória: 8 GB DDR5-4800 MHz
 
+       (SODIMM) + 8 GB DDR5-4800 MHz
+                                                                   R$
+19.       (SODIMM). Placa de vídeo: GPU        6    UNID.   R$ 8.470,63
+                                                                                    50.823,78
+       NVIDIA® GeForce RTX 3050 6 GB
 
-J FAPEC
+      GDDR6. Armazenamento: 512 GB SSD.
 
-Acabamento: pintura eletrostática. Braço
-articulado. Cabo de energia de 1,5 m. Plug
-NBR 14136. Manípulos laterais reforçados.
-Compatível com cubos adaptadores 5/8.
-MICROFONE
+        Sistema operacional: Windows 11 Pro 64.
 
-Descrição: Portátil. Campo de som: mono.
+           Tela: 15,6" FHD (1920 x 1080), IPS,
 
-Princípio de funcionamento: operado por
-pressão. Cápsula: dinâmica. Padrão polar:
-cardióide. Frequência de resposta: 50 Hz —
-24. 15 kHz. Rejeição fora do eixo: 2 dB a 60º; 2 UNID. R$ 1.902,87 R$ 3.805,74
-10 dB a 120º; 20 dB a 180º. Impedância:
-300 ohms. Sensibilidade: -56 dBV/Pa a 1
-kHz. Itens inclusos: estojo de transporte em
+          antirreflexo, non-touch, 45% NTSC, 300
 
-couro, cachimbo e organizador de cabo.
+                 nits, 60 Hz, narrow bezel. Com
 
-Similar ou superior ao Shure SM58 LC.
+          especificações similares ou superiores.
 
-1.3.  O orçamento estimativo apresentou o montante de R$ 271.102,46 (duzentos e setenta e um mil, cento
+
+     PC GAMER INTEL 13ª GERAÇÃO I9-
+
+        13900K 32GB 1TB NVME 2TB SSD
+
+          RTX 4070 850W GOLD
+
+         Descrição: Placa-mãe: LGA 1700 Z790
+
+         DDR5. Processador: Intel Core i9-
+
+         13900KF. Refrigeração: water cooler
+
+        compatível 240 mm (branco) + 6 coolers
+
+          fan RGB. Memória RAM: 64 GB 5600
+                                                                   R$
+20.     MHz DDR5 RGB. Gabinete gamer        2    UNID.   R$ 24.188,83
+                                                                                    48.377,66
+         quadrado. Fonte real bivolt Gold 850W
+
+       XPG. Armazenamento: SSD NVMe 1TB
+
+        PCIe 4.0. Placa de vídeo: GeForce RTX
+
+             4070 Ti 12 GB GDDR6X.
+
+        Adaptador/receptor Wi-Fi USB dual band.
+
+         Sistema operacional: Windows 11 Pro.
+
+        Com especificações similares ou
+
+                   superiores. Montado.
+
+        MONITOR 24" 144HZ 1MS
+
+        Descrição: Ajustes de posição: inclinação.
+
+        Furação: 100 x 100 mm. Tela: IPS de 24".
+
+        Ângulo de visão: 178º / 178º. Resolução
+21.     máxima: Full HD (1920 x 1080). Brilho:      1    UNID.   R$ 1.642,04   R$ 1.642,04
+        300 cd/m². Contraste: 1000:1. Tempo de
+
+        resposta: 1 ms (GTG). Taxa de atualização:
+
+         144 Hz. Gama de cores: sRGB 99%
+
+           (típico). Profundidade de cores: 16,7 M.
+
+          Distância entre pixels: 0,2745 x 0,2745
+
+       mm. Tratamento de tela: antirreflexo.
+
+            Entradas/saídas: HDMI (x1, v2.0),
+
+          DisplayPort (v1.4), saída para fones de
+
+        ouvido. Similar ou superior ao LG modelo
+
+             24GN60R-B.AWZM.
+
+      REFLETOR LED 20.000 LUMENS
+
+           BICOLOR 110/220V
+
+       Descrição: LED tecnologia SMD. Sistema
+
+      DMX512 ou fixo. Voltagem fixa: 110V,
+
+        220V ou bivolt automático. Vida útil:
+
+       40.000 horas. Filtro difusor. Consumo: 300
+
+      W. Luminosidade: 20.000 lumens. Drive de
+22.                                           2    UNID.   R$ 4.346,00   R$ 8.692,00
+            alta frequência Flicker Free. Proteção
+
+        contra surtos e sobretensão. Isento de RFI.
+
+        Acabamento: pintura eletrostática. Braço
+
+         articulado. Cabo de energia de 1,5 m. Plug
+
+     NBR 14136. Manípulos laterais reforçados.
+
+        Compatível com cubos adaptadores 5/8.
+
+              Similar ou superior ao RL20B.
+
+      REFLETOR LED 10.000 LUMENS
+
+           BICOLOR 110/220V
+
+       Descrição: LED tecnologia SMD. Sistema
+
+      DMX512 ou fixo. Voltagem fixa: 110V,
+23.      220V ou bivolt automático. Vida útil:       2    UNID.   R$ 2.734,00   R$ 5.468,00
+       40.000 horas. Filtro difusor. Consumo: 150
+
+      W. Luminosidade: 10.000 lumens. Drive de
+
+            alta frequência Flicker Free. Proteção
+
+        contra surtos e sobretensão. Isento de RFI.
+
+           Acabamento: pintura eletrostática. Braço
+
+            articulado. Cabo de energia de 1,5 m. Plug
+
+       NBR 14136. Manípulos laterais reforçados.
+
+           Compatível com cubos adaptadores 5/8.
+
+              MICROFONE
+
+          Descrição: Portátil. Campo de som: mono.
+
+            Princípio de funcionamento: operado por
+
+            pressão. Cápsula: dinâmica. Padrão polar:
+
+            cardióide. Frequência de resposta: 50 Hz –
+   24.    15 kHz. Rejeição fora do eixo: 2 dB a 60°;     2    UNID.   R$ 1.902,87   R$ 3.805,74
+          10 dB a 120°; 20 dB a 180°. Impedância:
+
+          300 ohms. Sensibilidade: -56 dBV/Pa a 1
+
+          kHz. Itens inclusos: estojo de transporte em
+
+             couro, cachimbo e organizador de cabo.
+
+             Similar ou superior ao Shure SM58 LC.
+
+                           TOTAL: R$ 271.102,46
+
+
+1.3. O orçamento estimativo apresentou o montante de R$ 271.102,46 (duzentos e setenta e um mil, cento
+
 e dois reais e quarenta e seis centavos), valor que se encontra dentro do saldo total disponível de R$
 
 327.218,70 (trezentos e vinte e sete mil, duzentos e dezoito reais e setenta centavos), correspondente à soma
@@ -713,21 +651,18 @@ e dois reais e quarenta e seis centavos), valor que se encontra dentro do saldo 
 dos valores aprovados nas sub-rubricas.
 
 1.3.1. Ressalta-se que, após a finalização do orçamento estimativo, procedeu-se à redução dos quantitativos
+
 de determinados itens, de forma a adequar as quantidades ao saldo disponível, garantindo a exequibilidade da
+
 contratação.
 
 1.4. O prazo de vigência da contratação é de 90 (noventa) dias, contados da assinatura do contrato ou da
 
-emissão de instrumento equivalente, na forma do art. 105 da Lei nº 14.133, de 2021.
+emissão de instrumento equivalente, na forma do art. 105 da Lei n° 14.133, de 2021.
+
 1.5. O contrato oferece maior detalhamento das regras que serão aplicadas em relação à vigência da
+
 aquisição.
 
-1.6. Este Termo de Referência constitui documento necessário para a contratação de bens e serviços e
+1.6.  Este Termo de Referência constitui documento necessário para a contratação de bens e serviços e
 
-FUNDACAOFAPEC.ORG.BR
-
-FUNDAÇÃO DE APOIO À PESQUISA, AO ENSINO E À CULTURA FAPECGFAPEC.ORG | t> +55(67)3345-5910
-
-AVENIDA EDUARDO ELIAS ZAHRAN, 529 - VILA GLÓRIA
-
-CNPJ: Nº 15.513.690/0001-50

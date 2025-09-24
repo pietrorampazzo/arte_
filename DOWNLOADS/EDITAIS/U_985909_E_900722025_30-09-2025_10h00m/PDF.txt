@@ -1,0 +1,3574 @@
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 379 RUBRICA _________
+
+
+
+
+
+                      EDITAL
+        PREGÃO ELETRÔNICO Nº 90072/2025
+
+                       CRITÉRIO DE JULGAMENTO MENOR PREÇO POR ITEM
+
+                OBJETO: Aquisição de equipamentos de informática, para atender
+                  as demandas da Secretaria Municipal de Urbanismo da Prefeitura
+                                   de Saquarema-RJ.
+
+                         SECRETARIA REQUISITANTE
+
+                                    SECRETARIA MUNICIPAL DE URBANISMO
+
+                     ORDENADOR DE DESPESAS
+                                                    Felipe de Oliveira Araújo
+                                                              Secretária Municipal de Urbanismo
+
+
+
+
+
+                                              379
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 380 RUBRICA _________
+
+
+
+
+                                            SUMÁRIO
+
+
+
+          1.  PREÂMBULO ______________________________________________________________________________ 381
+
+          2.   OBJETO ___________________________________________________________________________________ 381
+
+          3.   DAS DISPOSIÇÕES PRELIMINARES _____________________________________________________________ 382
+
+          4.  DA RETIRADA DO EDITAL: ____________________________________________________________________ 382
+
+          5.  DOS ESCLARECIMENTOS: ____________________________________________________________________ 383
+
+          6.   REQUISITOS MÍNIMOS PARA PARTICIPAÇÃO:____________________________________________________ 383
+
+          7.  DA APRESENTAÇÃO DA PROPOSTA E DOS DOCUMENTOS DE HABILITAÇÃO: __________________________ 386
+
+          8.  DO PREENCHIMENTO DA PROPOSTA: __________________________________________________________ 388
+
+          9.  DA ABERTURA DA SESSÃO, CLASSIFICAÇÃO DAS PROPOSTAS E FORMULAÇÃO DE LANCES: ______________ 390
+
+         10.   DA FASE DE JULGAMENTO: ________________________________________________________________ 395
+
+         11.   DA FASE DE HABILITAÇÃO: _________________________________________________________________ 398
+
+         12.   DO ENCAMINHAMENTO DA PROPOSTA VENCEDORA: __________________________________________ 406
+
+         13.   DOS RECURSOS: _________________________________________________________________________ 408
+
+         14.   DA REABERTURA DA SESSÃO PÚBLICA: _______________________________________________________ 409
+
+         15.   DA ADJUDICAÇÃO E HOMOLOGAÇÃO: _______________________________________________________ 409
+
+         16.   DA GARANTIA:___________________________________________________________________________ 409
+
+         17.   DO TERMO DE CONTRATO: ________________________________________________________________ 410
+
+         18.   DO REAJUSTAMENTO EM SENTIDO GERAL: ___________________________________________________ 410
+
+         19.   DO RECEBIMENTO DO OBJETO E DA FISCALIZAÇÃO: ____________________________________________ 411
+
+         20.   DO VALOR E DOS RECURSOS ORÇAMENTÁRIOS: _______________________________________________ 411
+
+         21.    DAS OBRIGAÇÕES DA CONTRATANTE E DA CONTRATADA: ______________________________________ 411
+
+         22.   DO PAGAMENTO: ________________________________________________________________________ 411
+
+         23.    DAS INFRAÇÕES ADMINISTRATIVAS E SANÇÕES: _______________________________________________ 411
+
+         24.   DA IMPUGNAÇÃO AO EDITAL E DOS PEDIDOS DE ESCLARECIMENTOS: _____________________________ 414
+
+         25.    DAS DISPOSIÇÕES GERAIS: _________________________________________________________________ 416
+
+
+
+
+
+                                              380
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 381 RUBRICA _________
+
+
+
+                            MINUTA DE EDITAL DE PREGÃO ELETRÔNICO
+
+      OBJETO DA LICITAÇÃO: AQUISIÇÃO DE EQUIPAMENTOS DE INFORMÁTICA, PARA ATENDER AS DEMANDAS
+             DA SECRETARIA MUNICIPAL DE URBANISMO DA PREFEITURA DE SAQUAREMA-RJ.
+
+      EDITAL DE PREGÃO ELETRÔNICO nº 90072/2025
+
+      PROCESSO Nº 18.455/2024
+
+      SECRETARIA REQUISITANTE: SECRETARIA MUNICIPAL DE URBANISMO
+
+            1. PREÂMBULO
+
+       Torna-se público que O MUNICÍPIO DE SAQUAREMA, inscrito no CNPJ sob o nº 32.147.670/0001-21, por meio
+      da SECRETARIA MUNICIPAL DE GESTÃO, INOVAÇÃO E TECNOLOGIA, com endereço na Rua Coronel
+       Madureira, nº 77, Centro, na Cidade de Saquarema/RJ, CEP 28.990-756, realizará licitação, na modalidade
+      PREGÃO, na forma ELETRÔNICA, nos termos da Lei nº 14.133, de 1º de abril de 2021, da Lei Complementar n°
+       123, de 14 de dezembro de 2006, do Decreto Municipal nº 2.740, de 06 de fevereiro de 2024 e das exigências
+       estabelecidas neste Edital.
+
+
+      Integram este Edital os seguintes Anexos:
+
+           I - Termo de Referência e seus Anexos
+
+           II - Modelo de Proposta de Preços
+
+           III – Preço Máximo Estimado pela Administração
+
+       IV– Modelo de Declaração Unificada
+
+     V - Análise Econômico-Financeira
+
+       VI - Minuta do Contrato
+
+        VII – Modelo de Declaração de Visita/Renúncia
+
+        1.     OBJETO
+
+       2.1   O objeto da presente licitação é a escolha da proposta mais vantajosa para aquisição de equipamentos
+      de informática, para atender as demandas da Secretaria Municipal de Urbanismo da Prefeitura de
+      Saquarema-RJ nas condições estabelecidas pelo presente Edital e no Termo de Referência (Anexo I do Edital).
+
+       2.2   A licitação será dividida em itens, conforme tabela constante do Termo de Referência, facultando-se
+      ao licitante a participação em quantos itens forem de seu interesse.
+
+
+
+
+
+                                              381
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 382 RUBRICA _________
+
+
+
+       2.3   O critério de julgamento adotado será o menor preço do item, observadas as exigências contidas neste
+        Edital e seus Anexos quanto às especificações do objeto.
+
+
+       2.4 Havendo qualquer discordância na especificação entre o código do CATMAT/CATSER e a do Termo de
+       Referência, prevalecerá a do Termo de Referência.
+
+        2.    DAS DISPOSIÇÕES PRELIMINARES
+
+       3.1 A sessão pública do Pregão Eletrônico será realizada em sistema eletrônico, nas seguintes condições:
+
+      Data da sessão:30/09/2025
+
+       Horário: 10H
+
+     Tempo Máximo de Abertura da sessão: 10 (dez) minutos
+
+        Local: Portal de Compras do Governo Federal – https://www.gov.br/compras/
+
+      Código da UASG: 985909
+
+        Critério de Julgamento: menor preço por item
+
+      Regime de Execução: Empreitada por preço unitário
+
+       3.2 A sessão pública será conduzida pelo pregoeiro Flavio Fernandes Jose da Silva, auxiliado pela equipe de
+       apoio formada pelos membros Sérgio Magno Bravo Monteiro e Jaqueline Gouveia da Silva, nomeados através
+      da portaria N° 647 de 8 de abril de 2025.
+
+        3.    DA RETIRADA DO EDITAL:
+
+       4.1 As empresas interessadas em participar do presente certame deverão retirar o Edital exclusivamente
+      por meio eletrônico, através do site: http://licitacoes.saquarema.rj.gov.br.
+
+       4.2 As retiradas do Edital também poderão ser realizadas através do Portal de Compras do Governo Federal,
+       através do link https://www.gov.br/compras/pt-br.
+
+
+
+
+
+                                              382
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 383 RUBRICA _________
+
+
+
+        4.    DOS ESCLARECIMENTOS:
+
+       5.1 Os pedidos de esclarecimentos referentes ao Pregão Eletrônico deverão ser dirigidos ao pregoeiro em até
+      03 (três) dias úteis anteriores à data fixada para abertura da sessão pública, por meio eletrônico, através do
+       e-mail licitacao@saquarema.rj.gov.br
+
+       5.2 O pregoeiro responderá aos pedidos de esclarecimentos no prazo de até 3 (três) dias úteis, contado da
+       data de recebimento do pedido, limitado ao último dia útil anterior à data da abertura do certame e poderá
+        requisitar subsídios formais aos responsáveis pela elaboração do Edital e dos Anexos.
+
+       5.3 As respostas aos pedidos de esclarecimentos serão divulgadas pelo sistema e vincularão os participantes e
+      a administração.
+
+       5.4 Os  pedidos de  esclarecimentos também  terão  sua  divulgação na  internet,  através do  site:
+        http://licitacoes.saquarema.rj.gov.br.
+
+       5.4.1 Às licitantes interessadas, cabem acessar assiduamente o referido endereço eletrônico e sistema para
+      tomarem conhecimento das perguntas e respostas e manterem-se atualizadas sobre esclarecimentos
+       referentes a este Edital.
+
+        5.     REQUISITOS MÍNIMOS PARA PARTICIPAÇÃO:
+
+       6.1 DO CREDENCIAMENTO
+
+       6.1.1 O Credenciamento é o nível básico do registro cadastral no SICAF, que permite a participação dos
+       interessados na modalidade licitatória Pregão, em sua forma eletrônica.
+
+       6.1.2 O cadastro no SICAF deverá  ser  feito no  Portal de Compras do Governo  Federal, no  sítio
+       https://www.gov.br/compras/pt-br/ por meio de credencial e senha.
+
+       6.1.3 O credenciamento junto ao provedor do sistema implica a responsabilidade do licitante ou de seu
+       representante legal e a presunção de sua capacidade técnica para realização das transações inerentes a este
+       Pregão.
+
+       6.1.4 A licitante responsabiliza-se exclusiva e formalmente pelas transações efetuadas em seu nome, assume
+     como firmes e verdadeiras suas propostas e seus lances, inclusive os atos praticados diretamente ou por seu
+       representante, excluída a responsabilidade do provedor do sistema ou do órgão ou entidade promotora da
+        licitação por eventuais danos decorrentes de uso indevido das credenciais de acesso, ainda que por terceiros.
+
+
+
+
+
+                                              383
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 384 RUBRICA _________
+
+
+
+       6.1.5 É de responsabilidade do cadastrado conferir a exatidão dos seus dados cadastrais no SICAF e mantê-los
+       atualizados junto aos órgãos responsáveis pela informação, devendo proceder, imediatamente, à correção ou
+      à alteração dos registros tão logo identifique incorreção ou aqueles se tornem desatualizados.
+
+        6.1.5.1 A não observância do disposto no subitem anterior poderá ensejar desclassificação no momento da
+        habilitação.
+
+       6.2 Da participação no Pregão:
+
+       6.2.1 Poderão participar deste Pregão interessados cujo ramo de atividade seja compatível com o objeto desta
+        licitação, e que estejam com Credenciamento  regular no Sistema de Cadastramento Unificado de
+       Fornecedores – SICAF e no Sistema de Compras do Governo Federal (www.gov.br/compras).
+
+        6.2.1.1 Os interessados deverão atender às condições exigidas no cadastramento no Sicaf até o terceiro dia
+         útil anterior à data prevista para recebimento das propostas.
+
+       6.2.2 As licitantes deverão utilizar credencial e senha ou certificado digital para acesso ao Sistema.
+
+       6.2.4 Os itens 3, 4 e 5 deste Edital são de participação é exclusiva ao microempreendedor individual,
+      microempresas ou empresas de pequeno porte, nos termos do art. 48 da Lei Complementar nº 123, de 14 de
+      dezembro de 2006 e os itens 1 e 02 são de ampla concorrência para todos os portes de empresas.
+
+        6.2.4.1 A obtenção do benefício a que se refere o item anterior fica limitada às microempresas e às empresas
+      de pequeno porte que, no ano-calendário de realização da licitação, ainda não tenham celebrado contratos
+     com a Administração Pública cujos valores somados extrapolem a receita bruta máxima admitida para fins de
+      enquadramento como empresa de pequeno porte.
+
+       6.2.5 Será concedido tratamento favorecido para as microempresas e empresas de pequeno porte, para as
+       sociedades cooperativas mencionadas no artigo 16 da Lei nº 14.133, de 2021, para o agricultor familiar, o
+       produtor rural pessoa física e para o microempreendedor individual - MEI, nos limites previstos da Lei
+      Complementar nº 123, de 2006 e do Decreto n.º 8.538, de 2015.
+
+       6.3 Não poderão participar desta licitação:
+
+       6.3.1 Aquele que não atenda às condições deste Edital e seu(s) Anexo(s).
+
+       6.3.2 Autores do anteprojeto, do projeto básico ou do projeto executivo, pessoa física ou jurídica, quando a
+        licitação versar sobre serviços ou fornecimento de bens a ele relacionados.
+
+
+
+
+
+                                              384
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 385 RUBRICA _________
+
+
+
+       6.3.3 A Empresa, isoladamente ou em consórcio, responsável pela elaboração do projeto básico ou do projeto
+       executivo, ou empresa da qual o autor do projeto seja dirigente, gerente, controlador, acionista ou detentor
+      de mais de 5% (cinco por cento) do capital com direito a voto, responsável técnico ou subcontratado, quando
+      a licitação versar sobre serviços ou fornecimento de bens a ela necessários.
+
+       6.3.4 Pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitada de participar da licitação
+     em decorrência de sanção que lhe foi imposta.
+
+       6.3.5 Aquele que mantenha vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil
+     com dirigente do órgão ou entidade contratante ou com agente público que desempenhe função na licitação
+      ou atue na fiscalização ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente em linha
+        reta, colateral ou por afinidade, até o terceiro grau.
+
+       6.3.6 Empresas controladoras, controladas ou coligadas, nos termos da Lei nº 6.404, de 15 de dezembro de
+       1976, concorrendo entre si.
+
+       6.3.7 Pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do Edital, tenha sido condenada
+       judicialmente, com trânsito em julgado, por exploração de trabalho infantil, por submissão de trabalhadores
+      a condições análogas às de escravo ou por contratação de adolescentes nos casos vedados pela legislação
+        trabalhista.
+
+       6.3.8 Agente público do órgão ou entidade licitante.
+
+       6.3.9 Organizações da Sociedade Civil de Interesse Público - OSCIP, atuando nessa condição.
+
+       6.3.10 Não poderá participar, direta ou indiretamente, da licitação ou da execução do contrato agente público
+      do órgão ou entidade contratante, devendo ser observadas as situações que possam configurar conflito de
+       interesses no exercício ou após o exercício do cargo ou emprego, nos termos da legislação que disciplina a
+       matéria, conforme § 1º do art. 9º da Lei nº 14.133, de 2021.
+
+       6.4 O impedimento de que trata o item 6.3.4 será também aplicado ao licitante que atue em substituição a
+       outra pessoa, física ou jurídica, com o intuito de burlar a efetividade da sanção a ela aplicada, inclusive a sua
+       controladora, controlada ou coligada, desde que devidamente comprovado o ilícito ou a utilização fraudulenta
+      da personalidade jurídica do licitante.
+
+       6.5 A critério da Administração e exclusivamente a seu serviço, o autor dos projetos e a empresa a que se
+      referem os itens 6.3.2 e 6.3.3 poderão participar no apoio das atividades de planejamento da contratação, de
+      execução da licitação ou de gestão do contrato, desde que sob supervisão exclusiva de agentes públicos do
+      órgão ou entidade.
+
+
+
+
+
+                                              385
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 386 RUBRICA _________
+
+
+
+       6.6 Equiparam-se aos autores do projeto as empresas integrantes do mesmo grupo econômico.
+
+       6.7 O disposto nos itens 6.3.2 e 6.3.3 não impede a licitação ou a contratação de serviço que inclua como
+      encargo do contratado a elaboração do projeto básico e do projeto executivo, nas contratações integradas, e
+      do projeto executivo, nos demais regimes de execução.
+
+       6.8 Em licitações e contratações realizadas no âmbito de projetos e programas parcialmente financiados por
+       agência oficial de cooperação estrangeira ou por organismo financeiro internacional com recursos do
+       financiamento ou da contrapartida nacional, não poderá participar pessoa física ou jurídica que integre o rol
+      de pessoas sancionadas por essas entidades ou que seja declarada inidônea nos termos da Lei nº 14.133/2021.
+
+       6.9 A vedação de que trata o item 6.3.8 estende-se a terceiro que auxilie a condução da contratação na
+       qualidade de integrante de equipe de apoio, profissional especializado ou funcionário ou representante de
+      empresa que preste assessoria técnica.
+
+        6.    DA APRESENTAÇÃO DA PROPOSTA E DOS DOCUMENTOS DE HABILITAÇÃO:
+
+       7.1 Na presente licitação, a fase de habilitação sucederá as fases de apresentação de propostas e lances e de
+       julgamento.
+
+       7.2 Os licitantes encaminharão, exclusivamente por meio do sistema eletrônico, a proposta com o preço ou o
+       percentual de desconto, conforme o critério de julgamento adotado neste Edital, até a data e o horário
+       estabelecidos para abertura da sessão pública.
+
+       7.4 No cadastramento da proposta inicial, o licitante declarará, em campo próprio do sistema, que:
+
+       7.4.1 Está ciente e concorda com as condições contidas no Edital e seus Anexos, bem como de que a proposta
+       apresentada compreende a integralidade dos custos para atendimento dos direitos trabalhistas assegurados
+      na Constituição Federal, nas leis trabalhistas, nas normas infralegais, nas convenções coletivas de trabalho e
+      nos termos de ajustamento de conduta vigentes na data de sua entrega em definitivo e que cumpre
+      plenamente os requisitos de habilitação definidos no instrumento convocatório.
+
+       7.4.2 Não emprega menor de 18 anos em trabalho noturno, perigoso ou insalubre e não emprega menor de
+      16 anos, salvo menor, a partir de 14 anos, na condição de aprendiz, nos termos do artigo 7°, XXXIII, da
+       Constituição.
+
+       7.4.3 Não possui empregados executando trabalho degradante ou forçado, observando o disposto nos incisos
+            III e IV do art. 1º e no inciso III do art. 5º da Constituição Federal.
+
+
+
+
+
+                                              386
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 387 RUBRICA _________
+
+
+
+       7.4.4 Cumpre as exigências de reserva de cargos para pessoa com deficiência e para reabilitado da Previdência
+        Social, previstas em lei e em outras normas específicas.
+
+       7.5 O licitante organizado em cooperativa deverá declarar, ainda, em campo próprio do sistema eletrônico,
+      que cumpre os requisitos estabelecidos no artigo 16 da Lei nº 14.133, de 2021.
+
+       7.6 O fornecedor enquadrado como microempresa, empresa de pequeno porte ou sociedade cooperativa
+      deverá declarar, ainda, em campo próprio do sistema eletrônico, que cumpre os requisitos estabelecidos no
+        artigo 3° da Lei Complementar nº 123, de 2006, estando apto a usufruir do tratamento favorecido estabelecido
+     em seus arts. 42 a 49, observado o disposto nos §§ 1º ao 3º do art. 4º, da Lei n.º 14.133, de 2021.
+
+       7.6.1 No item exclusivo para participação de microempresas e empresas de pequeno porte, a assinalação do
+     campo “não” impedirá o prosseguimento no certame, para aquele item.
+
+       7.6.2 Nos itens em que a participação não for exclusiva para microempresas e empresas de pequeno porte, a
+       assinalação do campo “não” apenas produzirá o efeito de o licitante não ter direito ao tratamento favorecido
+       previsto na Lei Complementar nº 123, de 2006, mesmo que microempresa, empresa de pequeno porte ou
+       sociedade cooperativa.
+
+       7.7 A falsidade da declaração de que trata os itens 7.4 ou 7.6 sujeitará o licitante às sanções previstas na Lei
+      nº 14.133, de 2021, e neste Edital.
+
+       7.8 Os licitantes poderão retirar ou substituir a proposta, até a abertura da sessão pública.
+
+       7.9 Não haverá ordem de classificação na etapa de apresentação da proposta e dos documentos de habilitação
+       pelo licitante, o que ocorrerá somente após os procedimentos de abertura da sessão pública e da fase de envio
+      de lances.
+
+       7.10 Serão disponibilizados para acesso público os documentos que compõem a proposta dos licitantes
+      convocados para apresentação de propostas, após a fase de envio de lances.
+
+       7.11 Desde que disponibilizada a funcionalidade no sistema, o licitante poderá parametrizar o seu valor final
+      mínimo ou o seu percentual de desconto máximo quando do cadastramento da proposta e obedecerá às
+       seguintes regras:
+
+       7.11.1 A aplicação do intervalo mínimo de diferença de valores ou de percentuais entre os lances, que incidirá
+       tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta; e
+
+
+
+
+
+                                              387
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 388 RUBRICA _________
+
+
+
+       7.11.2 Os lances serão de envio automático pelo sistema, respeitado o valor final mínimo, caso estabelecido,
+      e o intervalo de que trata o subitem acima.
+
+       7.12 O valor final mínimo ou o percentual de desconto final máximo parametrizado no sistema poderá ser
+       alterado pelo fornecedor durante a fase de disputa, sendo vedado:
+
+       7.12.1 Valor superior a lance já registrado pelo fornecedor no sistema, quando adotado o critério de
+       julgamento por menor preço; e
+
+       7.12.2 Percentual de desconto inferior a lance já registrado pelo fornecedor no sistema, quando adotado o
+        critério de julgamento por maior desconto.
+
+       7.13 O valor final mínimo ou o percentual de desconto final máximo parametrizado na forma do item 7.11
+       possuirá caráter sigiloso para os demais fornecedores e para o órgão ou entidade promotora da licitação,
+      podendo ser disponibilizado estrita e permanentemente aos órgãos de controle externo e interno.
+
+       7.14 Caberá ao licitante interessado em participar da licitação acompanhar as operações no sistema eletrônico
+       durante o processo licitatório e se responsabilizar pelo ônus decorrente da perda de negócios diante da
+       inobservância de mensagens emitidas pela Administração ou de sua desconexão.
+
+       7.15 O licitante deverá comunicar imediatamente ao provedor do sistema qualquer acontecimento que possa
+      comprometer o sigilo ou a segurança, para imediato bloqueio de acesso.
+
+        7. DO PREENCHIMENTO DA PROPOSTA:
+
+       8.1 A licitante deverá enviar sua proposta mediante o preenchimento, no sistema eletrônico, dos seguintes
+      campos:
+
+        a) valor unitário e total do item.
+
+       b) Marca/modelo.
+
+        c) Fabricante.
+
+       8.2 Todas as especificações do objeto contidas na proposta vinculam a Contratada.
+
+       8.3 Nos valores propostos estarão  inclusos todos os custos operacionais, encargos  previdenciários,
+        trabalhistas, tributários, comerciais e quaisquer outros que incidam direta ou indiretamente na execução do
+       objeto.
+
+
+
+
+
+                                              388
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 389 RUBRICA _________
+
+
+
+       8.4 Os preços ofertados, tanto na proposta  inicial, quanto na etapa de lances, serão de exclusiva
+       responsabilidade do licitante, não lhe assistindo o direito de pleitear qualquer alteração, sob alegação de erro,
+      omissão ou qualquer outro pretexto.
+
+       8.5 O prazo de validade da proposta não será inferior a 60 (sessenta) dias, a contar da data de sua
+       apresentação.
+
+       8.6 Os licitantes devem respeitar os preços máximos estabelecidos (Anexo III deste Edital) nas normas de
+       regência de contratações públicas federais e municipais, quando participarem de licitações públicas.
+
+       8.7 Se o regime tributário da empresa implicar o recolhimento de tributos em percentuais variáveis, a cotação
+      adequada será a que corresponde à média dos efetivos recolhimentos da empresa nos últimos doze meses.
+
+       8.8 Independentemente do percentual de tributo inserido na planilha, no pagamento serão retidos na fonte
+       os percentuais estabelecidos na legislação vigente.
+
+       8.10 Na presente licitação, a Microempresa e a Empresa de Pequeno Porte poderão se beneficiar do regime
+      de tributação pelo Simples Nacional.
+
+       8.11 A apresentação das propostas implica obrigatoriedade do cumprimento das disposições nelas contidas,
+     em conformidade com o que dispõe o Termo de Referência, assumindo o proponente o compromisso de
+       executar o objeto licitado nos seus termos, bem como de fornecer os materiais, equipamentos, ferramentas e
+        utensílios necessários, em quantidades e qualidades adequadas à perfeita execução contratual, promovendo,
+      quando requerido, sua substituição.
+
+       8.11.1 Caso o critério de julgamento seja o de maior desconto, o preço já decorrente da aplicação do desconto
+       ofertado deverá respeitar os preços máximos previstos no item 20.3.
+
+       8.12 O descumprimento das regras supramencionadas pela Administração por parte dos contratados pode
+       ensejar a responsabilização pelo Tribunal de Contas da União e, após o devido processo legal, gerar as
+       seguintes consequências: assinatura de prazo para a adoção das medidas necessárias ao exato cumprimento
+      da lei, nos termos do art. 71, inciso IX, da Constituição; ou condenação dos agentes públicos responsáveis e da
+      empresa contratada ao pagamento dos prejuízos ao erário, caso verificada a ocorrência de superfaturamento
+      por sobrepreço na execução do contrato.
+
+            .
+
+
+
+
+
+                                              389
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 390 RUBRICA _________
+
+
+
+        8.    DA ABERTURA DA SESSÃO, CLASSIFICAÇÃO DAS PROPOSTAS E FORMULAÇÃO DE LANCES:
+
+       9.1 A abertura da presente licitação dar-se-á automaticamente em sessão pública, por meio de sistema
+        eletrônico, na data, horário e local indicados neste Edital.
+
+       9.2 Os licitantes poderão retirar ou substituir a proposta ou os documentos de habilitação, quando for o caso,
+       anteriormente inseridos no sistema, até a abertura da sessão pública.
+
+       9.3 O sistema disponibilizará campo próprio para troca de mensagens entre o Pregoeiro e os licitantes.
+
+       9.4 Iniciada a etapa competitiva, os licitantes deverão encaminhar lances exclusivamente por meio de sistema
+        eletrônico, sendo imediatamente informados do seu recebimento e do valor consignado no registro.
+
+       9.5 O lance deverá ser ofertado pelo valor unitário do item.
+
+       9.6 Os licitantes poderão oferecer lances sucessivos, observando o horário fixado para abertura da sessão e as
+       regras estabelecidas no Edital.
+
+       9.7 O licitante somente poderá oferecer lance de valor inferior ao último por ele ofertado e registrado pelo
+       sistema.
+
+       9.8 O intervalo mínimo de diferença de valores ou percentuais entre os lances, que incidirá tanto em relação
+      aos lances intermediários quanto em relação à proposta que cobrir a melhor oferta deverá ser de:
+
+      R$ 150,00 (cento e cinquenta reais) para os itens 01 e 04.
+      R$ 30,00 (trinta reais) para os itens 02 e 03.
+      R$ 15,00 (quinze reais) para o item 05.
+
+
+
+       9.9 O licitante poderá, uma única vez, excluir seu último lance ofertado, no intervalo de quinze segundos após
+      o registro no sistema, na hipótese de lance inconsistente ou inexequível.
+
+       9.10 O procedimento seguirá de acordo com o modo de disputa adotado.
+
+       9.11 Caso seja adotado para o envio de lances no pregão eletrônico o modo de disputa “aberto”, os licitantes
+       apresentarão lances públicos e sucessivos, com prorrogações.
+
+       9.11.1 A etapa de lances da sessão pública terá duração de dez minutos e, após isso, será prorrogada
+      automaticamente pelo sistema quando houver lance ofertado nos últimos dois minutos do período de duração
+      da sessão pública.
+
+
+
+
+
+                                              390
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 391 RUBRICA _________
+
+
+
+       9.11.2 A prorrogação automática da etapa de lances, de que trata o subitem anterior, será de dois minutos e
+       ocorrerá sucessivamente sempre que houver lances enviados nesse período de prorrogação, inclusive no caso
+      de lances intermediários.
+
+       9.11.3 Não havendo novos lances na forma estabelecida nos itens anteriores, a sessão pública encerrar-se-á
+      automaticamente, e o sistema ordenará e divulgará os lances conforme a ordem final de classificação.
+
+       9.11.4 Definida a melhor proposta, se a diferença em relação à proposta classificada em segundo lugar for de
+       pelo menos 5% (cinco por cento), o pregoeiro, auxiliado pela equipe de apoio, poderá admitir o reinício da
+       disputa aberta, para a definição das demais colocações.
+
+       9.11.5 Após o reinício previsto no item supra, os licitantes serão convocados para apresentar lances
+       intermediários.
+
+       9.12 Caso seja adotado para o envio de lances no pregão eletrônico o modo de disputa “aberto e fechado”, os
+        licitantes apresentarão lances públicos e sucessivos, com lance final e fechado.
+
+       9.12.1 A etapa de lances da sessão pública terá duração inicial de quinze minutos. Após esse prazo, o sistema
+      encaminhará aviso de fechamento iminente dos lances, após o que transcorrerá o período de até dez minutos,
+       aleatoriamente determinado, findo o qual será automaticamente encerrada a recepção de lances.
+
+       9.12.2 Encerrado o prazo previsto no subitem anterior, o sistema abrirá oportunidade para que o autor da
+       oferta de valor mais baixo e os das ofertas com preços até 10% (dez por cento) superiores àquela possam
+       ofertar um lance final e fechado em até cinco minutos, o qual será sigiloso até o encerramento deste prazo.
+
+       9.12.3 No procedimento de que trata o subitem supra, o licitante poderá optar por manter o seu último lance
+      da etapa aberta, ou por ofertar melhor lance.
+
+       9.12.4 Não havendo pelo menos três ofertas nas condições definidas neste item, poderão os autores dos
+      melhores lances subsequentes, na ordem de classificação, até o máximo de três, oferecer um lance final e
+      fechado em até cinco minutos, o qual será sigiloso até o encerramento deste prazo.
+
+       9.12.5 Após o término dos prazos estabelecidos nos itens anteriores, o sistema ordenará e divulgará os lances
+      segundo a ordem crescente de valores.
+
+       9.13 Caso seja adotado para o envio de lances no pregão eletrônico o modo de disputa “fechado e aberto”,
+      poderão participar da etapa aberta somente os licitantes que apresentarem a proposta de menor preço/ maior
+       percentual de desconto e os das propostas até 10% (dez por cento) superiores/inferiores àquela, em que os
+        licitantes apresentarão lances públicos e sucessivos, até o encerramento da sessão e eventuais prorrogações.
+
+
+
+
+
+                                              391
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 392 RUBRICA _________
+
+
+
+       9.13.1 Não havendo pelo menos 3 (três) propostas nas condições definidas no item 9.13, poderão os licitantes
+      que apresentaram as três melhores propostas, consideradas as empatadas, oferecer novos lances sucessivos.
+
+       9.13.2 A etapa de lances da sessão pública terá duração de dez minutos e, após isso, será prorrogada
+      automaticamente pelo sistema quando houver lance ofertado nos últimos dois minutos do período de duração
+      da sessão pública.
+
+       9.13.3 A prorrogação automática da etapa de lances, de que trata o subitem anterior, será de dois minutos e
+       ocorrerá sucessivamente sempre que houver lances enviados nesse período de prorrogação, inclusive no caso
+      de lances intermediários.
+
+       9.13.4 Não havendo novos lances na forma estabelecida nos itens anteriores, a sessão pública encerrar-se-á
+      automaticamente, e o sistema ordenará e divulgará os lances conforme a ordem final de classificação.
+
+       9.13.5 Definida a melhor proposta, se a diferença em relação à proposta classificada em segundo lugar for de
+       pelo menos 5% (cinco por cento), o pregoeiro, auxiliado pela equipe de apoio, poderá admitir o reinício da
+       disputa aberta, para a definição das demais colocações.
+
+       9.13.6 Após o reinício previsto no subitem supra, os licitantes serão convocados para apresentar lances
+       intermediários.
+
+       9.14 Após o término dos prazos estabelecidos nos subitens anteriores, o sistema ordenará e divulgará os lances
+      segundo a ordem crescente de valores.
+
+       9.15 Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for recebido e registrado
+     em primeiro lugar.
+
+       9.16 Durante o transcurso da sessão pública, os licitantes serão informados, em tempo real, do valor do menor
+       lance registrado, vedada a identificação do licitante.
+
+       9.17 No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do Pregão, o sistema
+       eletrônico poderá permanecer acessível aos licitantes para a recepção dos lances.
+
+       9.18 Quando da desconexão do sistema eletrônico para o pregoeiro persistir por tempo superior a dez
+       minutos, a sessão pública será suspensa e reiniciada somente após decorridas vinte e quatro horas da
+      comunicação do fato pelo Pregoeiro aos participantes, no sítio eletrônico utilizado para divulgação.
+
+       9.19 Caso o licitante não apresente lances, concorrerá com o valor de sua proposta.
+
+
+
+
+
+                                              392
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 393 RUBRICA _________
+
+
+
+       9.20 Em relação a itens não exclusivos para participação de microempresas e empresas de pequeno porte,
+     uma vez encerrada a etapa de lances, será efetivada a verificação automática, junto à Receita Federal, do porte
+      da entidade empresarial. O sistema identificará em coluna própria as microempresas e empresas de pequeno
+       porte participantes, procedendo à comparação com os valores da primeira colocada, se esta for empresa de
+      maior porte, assim como das demais classificadas, para o fim de aplicar-se o disposto nos arts. 44 e 45 da Lei
+      Complementar nº 123, de 2006, regulamentada pelo Decreto nº 8.538, de 2015.
+
+       9.20.1 Nessas condições, as propostas de microempresas e empresas de pequeno porte que se encontrarem
+      na faixa de até 5% (cinco por cento) acima da melhor proposta ou melhor lance serão consideradas empatadas
+     com a primeira colocada.
+
+       9.20.2 A melhor classificada nos termos do subitem anterior terá o direito de encaminhar uma última oferta
+       para desempate, obrigatoriamente em valor inferior ao da primeira colocada, no prazo de 5 (cinco) minutos
+       controlados pelo sistema, contados após a comunicação automática para tanto.
+
+       9.20.3 Caso a microempresa ou a empresa de pequeno porte melhor classificada desista ou não se manifeste
+      no prazo estabelecido, serão convocadas as demais licitantes microempresa e empresa de pequeno porte que
+       se encontrem naquele intervalo de 5% (cinco por cento), na ordem de classificação, para o exercício do mesmo
+        direito, no prazo estabelecido no subitem anterior.
+
+       9.20.4 No caso de equivalência dos valores apresentados pelas microempresas e empresas de pequeno porte
+      que se encontrem nos intervalos estabelecidos nos subitens anteriores, será realizado sorteio entre elas para
+      que se identifique aquela que primeiro poderá apresentar melhor oferta.
+
+       9.21 Só poderá haver empate entre propostas iguais (não seguidas de lances), ou entre lances finais da fase
+       fechada do modo de disputa aberto e fechado.
+
+       9.21.1 Havendo eventual empate entre propostas ou lances, o critério de desempate será aquele previsto no
+         art. 60 da Lei nº 14.133, de 2021, nesta ordem:
+
+       9.21.1.1 Disputa final, hipótese em que os licitantes empatados poderão apresentar nova proposta em ato
+       contínuo à classificação.
+
+       9.21.1.2 Avaliação do desempenho contratual prévio dos licitantes, para a qual deverão preferencialmente ser
+        utilizados registros cadastrais para efeito de atesto de cumprimento de obrigações previstos nesta Lei.
+
+       9.21.1.3 Desenvolvimento pelo licitante de ações de equidade entre homens e mulheres no ambiente de
+       trabalho, conforme regulamento.
+
+
+
+
+
+                                              393
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 394 RUBRICA _________
+
+
+
+       9.21.1.4 Desenvolvimento pelo licitante de programa de integridade, conforme orientações dos órgãos de
+       controle.
+
+       9.21.2 Persistindo o empate, será assegurada preferência, sucessivamente, aos bens e serviços produzidos ou
+       prestados por:
+
+       9.21.2.1 Empresas estabelecidas no território do Estado ou do Distrito Federal do órgão ou entidade da
+       Administração Pública estadual ou distrital licitante ou, no caso de licitação realizada por órgão ou entidade
+      de Município, no território do Estado em que este se localize.
+
+       9.21.2.2 Empresas brasileiras.
+
+       9.21.2.3 Empresas que invistam em pesquisa e no desenvolvimento de tecnologia no País.
+
+       9.21.2.4 Empresas que comprovem a prática de mitigação, nos termos da Lei nº 12.187, de 29 de dezembro
+      de 2009.
+
+       9.21.2.5 Quando todos os critérios estabelecidos na Lei nº 14.133/2021 e previstos no sistema já tiverem sido
+       aplicados e o empate permanecer, será utilizado o sorteio como critério de desempate adicional, a ser
+       realizado pelo sistema ComprasGov.
+
+       9.22 Encerrada a etapa de envio de lances da sessão pública, na hipótese da proposta do primeiro colocado
+      permanecer acima do preço máximo ou inferior ao desconto definido para a contratação, o pregoeiro poderá
+       negociar condições mais vantajosas, após definido o resultado do julgamento.
+
+       9.22.1 A negociação poderá ser feita com os demais licitantes, segundo a ordem de classificação inicialmente
+       estabelecida, quando o primeiro colocado, mesmo após a negociação, for desclassificado em razão de sua
+       proposta permanecer acima do preço máximo definido pela Administração.
+
+       9.22.2 A negociação será realizada por meio do sistema, podendo ser acompanhada pelos demais licitantes.
+
+       9.22.3 O resultado da negociação será divulgado a todos os licitantes e anexado aos autos do processo
+         licitatório.
+
+       9.22.4 O pregoeiro solicitará ao licitante mais bem classificado que, no prazo de 2 (duas) horas, envie a
+       proposta adequada ao último lance ofertado após a negociação realizada, acompanhada, se for o caso, dos
+      documentos complementares, quando necessários à confirmação daqueles exigidos neste Edital e  já
+       apresentados.
+
+
+
+
+
+                                              394
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 395 RUBRICA _________
+
+
+
+       9.22.5 É facultado ao pregoeiro prorrogar o prazo estabelecido, a partir de solicitação fundamentada feita no
+       chat pelo licitante, antes de findo o prazo.
+
+       9.23 Após a negociação do preço, o Pregoeiro iniciará a fase de aceitação e julgamento da proposta.
+
+        9.    DA FASE DE JULGAMENTO:
+
+       10.1 Encerrada a etapa de negociação, o pregoeiro verificará se o licitante provisoriamente classificado em
+       primeiro lugar atende às condições de participação no certame, conforme previsto no art. 14 da Lei nº
+       14.133/2021, legislação correlata e no item 6.3 do Edital, especialmente quanto à existência de sanção que
+      impeça a participação no certame ou a futura contratação, mediante a consulta aos seguintes cadastros:
+
+       10.1.1 SICAF.
+
+       10.1.2 Cadastro Nacional de Empresas Inidôneas e Suspensas - CEIS, mantido pela Controladoria-Geral da
+      União (https://www.portaltransparencia.gov.br/sancoes/ceis).
+
+       10.1.3 Cadastro Nacional de Empresas Punidas – CNEP, mantido pela Controladoria-Geral da União
+       (https://www.portaltransparencia.gov.br/sancoes/cnep).
+
+       10.1.4 Cadastro Nacional de Condenações Cíveis por Atos de Improbidade Administrativa, mantido pelo
+      Conselho Nacional de Justiça ( www.cnj.jus.br/improbidade_adm/consultar_requerido.php ).
+
+       10.1.5    Lista   de   Inidôneos   mantida   pelo   Tribunal   de   Contas   da   União   –   TCU
+       (https://contas.tcu.gov.br/ords/f?p=INABILITADO:CERTIDAO:0:).
+
+       10.1.6 Para a consulta de licitantes pessoa jurídica poderá haver a substituição das consultas dos subitens
+        10.1.2, 10.1.4 e 10.1.5 acima pela Consulta Consolidada de Pessoa Jurídica do TCU ( https://certidoes-
+       apf.apps.tcu.gov.br ).
+
+       10.2 A consulta aos cadastros será realizada em nome da empresa licitante e também de seu sócio majoritário,
+      por força da vedação de que trata o artigo 12 da Lei n° 8.429, de 1992.
+
+       10.3 Caso conste na Consulta de Situação do licitante a existência de Ocorrências Impeditivas Indiretas, o
+       Pregoeiro diligenciará para verificar se houve fraude por parte das empresas apontadas no Relatório de
+       Ocorrências Impeditivas Indiretas.
+
+       10.3.1 A tentativa de burla será verificada por meio dos vínculos societários, linhas de fornecimento similares,
+       dentre outros.
+
+       10.3.2 O licitante será convocado para manifestação previamente a uma eventual desclassificação.
+
+
+
+
+
+                                              395
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 396 RUBRICA _________
+
+
+
+       10.3.3 Constatada a existência de sanção, o licitante será reputado inabilitado, por falta de condição de
+       participação.
+
+       10.5 Caso o licitante provisoriamente classificado em primeiro lugar tenha se utilizado de algum tratamento
+       favorecido às ME/EPPs, o pregoeiro verificará se faz jus ao benefício, em conformidade com os itens 6.2.4.1 e
+       7.6 deste Edital.
+
+       10.6 Verificadas as condições de participação e de utilização do tratamento favorecido, o pregoeiro examinará
+      a proposta classificada em primeiro lugar quanto à adequação ao objeto e à compatibilidade do preço em
+       relação ao máximo estipulado para contratação neste Edital e em seus Anexos, observado o disposto no artigo
+      28 a 34 do Decreto Municipal nº 2.740, de 06 de fevereiro de 2024.
+
+
+
+       10.8 Será desclassificada a proposta vencedora que:
+
+       10.8.1 Contiver vícios insanáveis.
+
+       10.8.2 Não obedecer às especificações técnicas contidas no Termo de Referência.
+
+       10.8.3 Apresentar preços inexequíveis ou permanecerem acima do preço máximo definido para a contratação.
+
+       10.8.4 Não tiverem sua exequibilidade demonstrada, quando exigido pela Administração.
+
+       10.8.5 Apresentar desconformidade com quaisquer outras exigências deste Edital ou seus Anexos, desde que
+       insanável.
+
+       10.9 No caso de bens e serviços em geral, é indício de inexequibilidade das propostas valores inferiores a 50%
+       (cinquenta por cento) do valor orçado pela Administração.
+
+       10.9.1 A Inexequibilidade, na hipótese de que trata o caput, só será considerada após diligência do pregoeiro,
+      que comprove:
+
+       10.9.1.1 Que o custo do licitante ultrapassa o valor da proposta; e
+
+       10.9.1.2 Inexistirem custos de oportunidade capazes de justificar o vulto da oferta.
+
+       10.10 Em contratação de serviços de engenharia, além das disposições acima, a análise de exequibilidade e
+       sobrepreço considerará o seguinte:
+
+       10.10.1 Nos regimes de execução por tarefa, empreitada por preço global ou empreitada integral, semi-
+       integrada ou integrada, a caracterização do sobrepreço se dará pela superação do valor global estimado.
+
+       10.10.2 No regime de empreitada por preço unitário, a caracterização do sobrepreço se dará pela superação
+      do valor global estimado e pela superação de custo unitário orçado pela administração, Anexo III deste Edital.
+
+
+
+
+
+                                              396
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 397 RUBRICA _________
+
+
+
+       10.10.3 No caso de serviços de engenharia, serão consideradas inexequíveis as propostas cujos valores forem
+        inferiores a 75% (setenta e cinco por cento) do valor orçado pela Administração, independentemente do
+      regime de execução.
+
+       10.10.4 Será exigida garantia adicional do licitante vencedor cuja proposta for inferior a 85% (oitenta e cinco
+      por cento) do valor orçado pela Administração, equivalente à diferença entre este último e o valor da
+       proposta, sem prejuízo das demais garantias exigíveis de acordo com a Lei.
+
+       10.11 Se houver indícios de inexequibilidade da proposta de preço, ou em caso da necessidade de
+       esclarecimentos complementares, poderão ser efetuadas diligências, para que a empresa comprove a
+       exequibilidade da proposta.
+
+       10.12 Caso o custo global estimado do objeto licitado tenha sido decomposto em seus respectivos custos
+        unitários por meio de Planilha de Custos e Formação de Preços elaborada pela Administração, o licitante
+        classificado em primeiro lugar será convocado para apresentar Planilha por ele elaborada, com os respectivos
+       valores adequados ao valor final da sua proposta, sob pena de não aceitação da proposta.
+
+       10.12.1 Em se tratando de serviços de engenharia, o licitante vencedor será convocado a apresentar à
+       Administração, por meio eletrônico, as planilhas com indicação dos quantitativos e dos custos unitários,
+       seguindo o modelo elaborado pela Administração, bem como com detalhamento das Bonificações e Despesas
+        Indiretas (BDI) e dos Encargos Sociais (ES), com os respectivos valores adequados ao valor final da proposta
+       vencedora, admitida a utilização dos preços unitários, no caso de empreitada por preço global, empreitada
+        integral, contratação semi-integrada e contratação integrada, exclusivamente para eventuais adequações
+       indispensáveis no cronograma físico-financeiro e para balizar excepcional aditamento posterior do contrato.
+
+       10.13 Erros no preenchimento da planilha não constituem motivo para a desclassificação da proposta. A
+        planilha poderá́ ser ajustada pelo fornecedor, no prazo indicado pelo sistema, desde que não haja majoração
+      do preço e que se comprove que este é o bastante para arcar com todos os custos da contratação.
+
+       10.13.1 O ajuste de que trata este dispositivo se limita a sanar erros ou falhas que não alterem a substância
+      das propostas.
+
+       10.13.2 Considera-se erro no preenchimento da planilha passível de correção a indicação de recolhimento de
+      impostos e contribuições na forma do Simples Nacional, quando não cabível esse regime.
+
+       10.14 Para fins de análise da proposta quanto ao cumprimento das especificações do objeto, poderá ser
+       colhida a manifestação escrita do setor requisitante do serviço ou da área especializada no objeto.
+
+       10.15 Caso o Termo de Referência exija a apresentação de amostra, o licitante classificado em primeiro lugar
+      deverá apresentá-la, conforme disciplinado no Termo de Referência, sob pena de não aceitação da proposta.
+
+
+
+
+
+                                              397
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 398 RUBRICA _________
+
+
+
+       10.16 Por meio de mensagem no sistema, será divulgado o local e horário de realização do procedimento para
+      a avaliação das amostras, cuja presença será facultada a todos os interessados, incluindo os demais licitantes.
+
+       10.17 Os resultados das avaliações serão divulgados por meio de mensagem no sistema.
+
+       10.18 No caso de não haver entrega da amostra ou ocorrer atraso na entrega, sem justificativa aceita pelo
+       Pregoeiro, ou havendo entrega de amostra fora das especificações previstas neste Edital, a proposta do
+        licitante será recusada.
+
+       10.19 Se a(s) amostra(s) apresentada(s) pelo primeiro classificado não for(em) aceita(s), o Pregoeiro analisará
+      a aceitabilidade da proposta ou lance ofertado pelo segundo classificado. Seguir-se-á com a verificação da(s)
+       amostra(s) e, assim, sucessivamente, até a verificação de uma que atenda às especificações constantes no
+      Termo de Referência.
+
+       10.   DA FASE DE HABILITAÇÃO:
+
+       11.1 Habilitação jurídica:
+
+       11.1.1 No caso de empresário individual, inscrição no Registro Público de Empresas Mercantis, a cargo da
+       Junta Comercial da respectiva sede.
+
+       11.1.2 Em  se  tratando  de  Microempreendedor  Individual  –  MEI:  Certificado  da  Condição  de
+      Microempreendedor Individual - CCMEI, cuja aceitação ficará condicionada à verificação da autenticidade no
+         sítio www.portaldoempreendedor.gov.br.
+
+       11.1.3 No caso de sociedade empresária ou empresa individual de responsabilidade limitada - EIRELI: ato
+        constitutivo, estatuto ou contrato social em vigor, devidamente registrado na Junta Comercial da respectiva
+       sede, acompanhado de documento comprobatório de seus administradores.
+
+       11.1.4 Inscrição no Registro Público de Empresas Mercantis onde opera, com averbação no Registro onde
+      tem sede a matriz, no caso de ser o participante sucursal, filial ou agência.
+
+       11.1.5 No caso de sociedade simples: inscrição do ato constitutivo no Registro Civil das Pessoas Jurídicas do
+        local de sua sede, acompanhada de prova da indicação dos seus administradores.
+
+       11.1.6 Decreto de autorização, em se tratando de sociedade empresária estrangeira em funcionamento no
+        País.
+
+
+
+
+
+                                              398
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 399 RUBRICA _________
+
+
+
+       11.1.8 Os documentos acima deverão estar acompanhados de todas as alterações ou da consolidação
+       respectiva.
+
+       11.1.9 CPF e Cédula de Identidade do proprietário, diretores ou sócios, caso estes não constem relacionados
+      nos documentos acima.
+
+      11.2 Regularidade fiscal e trabalhista:
+
+
+       11.2.1 Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas ou no Cadastro de Pessoas Físicas,
+      conforme o caso.
+
+       11.2.2 Prova de regularidade fiscal perante a Fazenda Nacional, mediante apresentação de certidão expedida
+      conjuntamente pela Secretaria da Receita Federal do Brasil (RFB) e pela Procuradoria-Geral da Fazenda
+       Nacional (PGFN), referente a todos os créditos tributários federais e à Dívida Ativa da União (DAU) por elas
+       administrados, inclusive aqueles relativos à Seguridade Social, nos termos da Portaria Conjunta nº 1.751, de
+       02/10/2014, do Secretário da Receita Federal do Brasil e da Procuradora-Geral da Fazenda Nacional.
+
+       11.2.3 Prova de regularidade perante a Fazenda Estadual, do domicílio ou sede do licitante, ou outra
+       equivalente, na forma da Lei, mediante a apresentação da Certidão Negativa de Débitos relativos à
+       Regularidade Fiscal perante a Receita Estadual acompanhada da Certidão Negativa de Dívida Ativa, emitida
+       pelo órgão próprio da Procuradoria Geral do Estado.
+
+       11.2.4 Prova de regularidade com o Fundo de Garantia do Tempo de Serviço (FGTS).
+
+       11.2.5 Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante a apresentação
+      de certidão negativa ou positiva com efeito de negativa, nos termos do Título VII-A da Consolidação das Leis
+      do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943.
+
+       11.2.6 Prova de inscrição no cadastro de contribuintes municipal ou estadual, relativo ao domicílio ou sede
+      do licitante, pertinente ao seu ramo de atividade e compatível com o objeto contratual.
+
+       11.2.7 Prova de regularidade com a Fazenda Municipal do domicílio ou sede do licitante, relativa à atividade
+     em cujo exercício contrata ou concorre.
+
+       11.2.8 Caso o licitante seja considerado isento dos tributos municipais relacionados ao objeto licitatório,
+      deverá comprovar tal condição mediante a apresentação de declaração da Fazenda Municipal do seu
+       domicílio ou sede, ou outra equivalente, na forma da lei.
+
+       11.3 Qualificação Econômico-Financeira:
+
+
+
+
+
+                                              399
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 400 RUBRICA _________
+
+
+
+       11.3.1 Certidão negativa de Falência ou Concordata ou Insolvência, expedida pelo distribuidor da sede da
+      pessoa jurídica, emitidas até 90 (noventa) dias da data estabelecida no preâmbulo deste Edital, exceto quando
+       dela constar o prazo de validade.
+
+       11.3.1.1 No caso de as certidões apontarem a existência de algum fato ou processo relativo à solicitação de
+        falência ou concordata, a empresa deverá apresentar a certidão emitida pelo fórum competente, informando
+     em que fase se encontra o feito em juízo.
+
+       11.3.1.2 Não será causa de inabilitação do licitante a anotação de distribuição de processo de recuperação
+        judicial ou de pedido de homologação de recuperação extrajudicial, caso seja comprovado, no momento da
+       entrega da documentação exigida no presente item, que o plano de recuperação já foi aprovado ou
+      homologado pelo Juízo competente.
+
+       11.3.2 A licitante sediada em outra Comarca ou Estado deverá apresentar, juntamente com as certidões
+        exigidas, declaração passada pela autoridade judiciária de sua comarca, indicando quais os Cartórios ou
+       Ofícios de Registro que controlam a distribuição de falência ou concordatas, ou a Certidão dos Cartórios da
+      Comarca para fins de Licitação Pública, exceto se a empresa estiver sediada no Município de Saquarema.
+
+       11.3.3 Balanço Patrimonial e demonstrações contábeis dos 02 (dois) últimos exercícios sociais, já exigíveis e
+       apresentados na forma da lei, que comprovem a boa situação financeira da empresa, acompanhados dos
+      Termos de Abertura e Encerramento do Livro Diário, o qual deverá estar devidamente registrado na Junta
+       Comercial ou no Cartório de Registro de Pessoas Jurídicas da sede ou domicílio da empresa, ou ainda, pelo
+       Sistema Público de Escrituração Digital (SPED), vedada a sua substituição por balancetes ou balanços
+        provisórios, podendo ser atualizados por índices oficiais, quando encerrados há mais de 3 (três) meses da data
+      de apresentação da proposta.
+
+       11.3.3.1 Serão considerados aceitos, como na forma da lei, o balanço patrimonial e demonstrações contábeis
+       assim apresentados:
+
+           I.      Sociedades regidas pela Lei nº 6.404/76 (Sociedade Anônima):
+
+          - Publicados em Diário Oficial; ou
+
+          - Publicados em jornal de grande circulação; ou
+
+          - Por fotocópia registrada ou autenticada na Junta Comercial da sede ou domicílio do licitante.
+
+          - Por meio de registros do Sistema Público de Escrituração Digital (SPED).
+
+
+
+
+
+                                              400
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 401 RUBRICA _________
+
+
+
+           II.     Sociedades por cota de responsabilidade limitada (LTDA):
+
+          - Por fotocópia do Livro Diário, inclusive com os Termos de Abertura e de Encerramento, devidamente
+       autenticado na Junta Comercial da sede ou domicílio do licitante ou em outro órgão equivalente; ou
+
+          - Por fotocópia do Balanço e das Demonstrações Contábeis devidamente registrados ou autenticados na Junta
+       Comercial da sede ou domicílio do licitante.
+
+           III. Sociedade criada no exercício em curso:
+
+          - Fotocópia do Balanço de Abertura, devidamente registrado ou autenticado na Junta Comercial da sede ou
+       domicílio do licitante; ou
+
+          - Por meio de registros do Sistema Público de Escrituração Digital (SPED).
+
+        IV. Sociedades sujeitas ao regime estabelecido na Lei Complementar nº 123/06:
+
+          - Por fotocópia do Balanço e das Demonstrações Contábeis devidamente registradas ou autenticadas na Junta
+       Comercial da sede ou domicílio da licitante.
+
+       V. As empresas optantes ou submetidas ao Sistema Público de Escrituração Digital (SPED) apresentarão o
+       balanço patrimonial na forma da lei e das Instruções Normativas da Receita Federal do Brasil, que tratam de
+       Escrituração Contábil Digital (ECD), sendo que a autenticação do balanço patrimonial em formato digital será
+      comprovada por meio do recibo de entrega emitido pelo Sistema Público de Escrituração Digital (SPED),
+      quando do envio da Escrituração Contábil Digital (ECD), nos termos do §1º do art. 78-A do Decreto Federal nº
+       1.800/96, incluído pelo Decreto Federal nº 8.638/16, e art. 2º do Decreto Federal nº 9.555/18.
+
+       11.3.4 A Comprovação da boa situação financeira da empresa oriunda de localidade onde o SICAF não tenha
+       sido implantado, será baseada na obtenção dos índices de Liquidez Geral (ILG), Índice de Solvência Geral (ISG)
+      e Índice de Liquidez Corrente (ILC), devendo ser demonstrados pelos licitantes e assinados por seus contadores
+      devidamente registrado no CRC podendo ser utilizado o modelo (Anexo V - Análise Econômico-financeira),
+       resultante da aplicação das fórmulas:
+
+       Ativo Circulante + Realizável à Longo Prazo
+
+       ILG = ------------------------------------------------------
+
+       Passivo Circulante + Exigível à Longo Prazo
+
+       Ativo Total
+
+
+
+
+
+                                              401
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 402 RUBRICA _________
+
+
+
+
+       ISG = ------------------------------------------------------
+
+       Passivo Circulante + Exigível à Longo Prazo
+
+       Ativo Circulante
+
+        ILC = ------------------------------------------------------
+
+       Passivo Circulante
+
+
+
+
+      Fórmulas
+
+
+       ILG = (AC + RLP) / (PC + ELP)
+       ILG = ÍNDICE DE LIQUIDEZ GERAL
+     AC = Ativo Circulante
+      RLP = Realizável à Longo Prazo
+      PC = Passivo Circulante
+      ELP = Exigível à Longo Prazo
+
+
+       ISG = AT / (PC + ELP)
+       ISG = ÍNDICE DE SOLVÊNCIA GERAL
+      AT = Ativo Total
+      PC = Passivo Circulante
+      ELP = Exigível à Longo Prazo
+
+
+        ILC = AC / PC
+        ILC = ÍNDICE DE LIQUIDEZ CORRENTE
+     AC = Ativo Circulante
+      PC = Passivo Circulante
+
+
+       11.3.5 As empresas que apresentarem resultado igual ou menor que 1,00 (um) em qualquer um dos índices
+       referidos no item 11.3.4, deverá apresentar Prova de possuir capital social mínimo devidamente integralizado
+      ou Patrimônio Líquido igual ou superior a 10% (dez por cento) do valor total máximo estimado pela
+       administração, admitida a atualização para a data da apresentação da proposta através de índices oficiais. A
+      comprovação será obrigatoriamente feita pelo Ato Constitutivo, Estatuto ou Contrato Social em vigor e
+
+
+
+
+
+                                              402
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 403 RUBRICA _________
+
+
+
+      devidamente registrado, ou pelo Balanço Patrimonial e Demonstrações Contábeis dos 02 (dois) últimos
+        exercícios sociais, na forma da Lei.
+
+
+       11.4 QUALIFICAÇÃO TÉCNICA:
+
+
+       11.4.1 Atestado de capacidade técnica expedido por pessoa  jurídica de direito público ou privado,
+      comprovando que a proponente executou de forma satisfatória os contratos assumidos, cujo objeto seja igual
+      ou similar ao deste processo licitatório.
+
+
+       11.4.1.1 Os atestados de capacidade técnica podem ser apresentados em nome da matriz ou da filial da
+      empresa licitante.
+
+
+       11.4.2 O Termo de Referência (Anexo I) deste Edital, em seu item 11.1 a 11.3 contém as exigências necessárias
+       para demonstrar a capacidade do licitante de realizar o objeto da licitação, e que serão exigidos para fins de
+       qualificação técnica.
+       11.4.3 Na fase de habilitação deverá ser apresentado documento do fabricante escrito para este edital com
+      o partnumber e modelo do equipamento ofertado comprovando a garantia;
+      Comprovação de que o licitante fornece ou forneceu, sem restrições, serviço/produto similar ao objeto do
+       presente termo de referência será feita por meio de apresentação de, no mínimo, 01 (um) atestado de
+       capacidade técnica, fornecido por Órgão da Administração Pública ou Entidade Privada, devidamente
+       assinado, carimbado e em papel timbrado da empresa ou órgão tomador.
+
+
+
+       11.5 DECLARAÇÕES COMPLEMENTARES:
+
+
+       11.5.1 Modelo de Declaração Unificada – Anexo IV.
+
+
+       11.6 A documentação exigida para fins de habilitação jurídica, fiscal, social e trabalhista e econômico-
+       ﬁnanceira, poderá ser substituída pelo registro cadastral no SICAF.
+
+       11.7 Quando permitida a participação de empresas estrangeiras que não funcionem no País, as exigências de
+       habilitação serão atendidas mediante documentos equivalentes, inicialmente apresentados em tradução livre.
+
+       11.8 Na hipótese de o licitante vencedor ser empresa estrangeira que não funcione no País, para ﬁns de
+       assinatura do contrato ou da ata de registro de preços, os documentos exigidos para a habilitação serão
+       traduzidos por tradutor juramentado no País e apostilados nos termos do disposto no Decreto nº 8.660, de 29
+      de janeiro de 2016, ou de outro que venha a substituí-lo, ou consularizados pelos respectivos consulados ou
+       embaixadas.
+
+
+
+
+
+                                              403
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 404 RUBRICA _________
+
+
+
+       11.9 Quando permitida a participação de consórcio de empresas, a habilitação técnica, quando exigida, será
+        feita por meio do somatório dos quantitativos de cada consorciado e, para efeito de habilitação econômico-
+        financeira, quando exigida, será observado o somatório dos valores de cada consorciado.
+
+       11.9.1 Se o consórcio não for formado integralmente por microempresas ou empresas de pequeno porte e o
+      termo de referência exigir requisitos de habilitação econômico-financeira, haverá um acréscimo de 10% para
+      o consórcio em relação ao valor exigido para os licitantes individuais.
+
+       11.10 Os documentos exigidos para fins de habilitação poderão ser apresentados em original, por cópia ou por
+      ou perante agente da Administração, mediante apresentação de original ou de declaração de autenticidade
+      por advogado, sob sua responsabilidade pessoal.
+
+       11.11 Os documentos exigidos para fins de habilitação poderão ser substituídos por registro cadastral emitido
+      por órgão ou entidade pública, desde que o registro tenha sido feito em obediência ao disposto na Lei nº
+       14.133/2021.
+
+       11.12 Será verificado se o licitante apresentou declaração de que atende aos requisitos de habilitação, e o
+       declarante responderá pela veracidade das informações prestadas, na forma da lei (art. 63,  I, da Lei nº
+       14.133/2021).
+
+       11.13 Será verificado se o licitante apresentou no sistema, sob pena de inabilitação, a declaração de que
+      cumpre as exigências de reserva de cargos para pessoa com deficiência e para reabilitado da Previdência Social,
+       previstas em lei e em outras normas específicas.
+
+       11.14 Será verificado se o licitante apresentou no sistema, sob pena de desclassificação, declaração de que
+       suas propostas econômicas compreendem a integralidade dos custos para atendimento dos  direitos
+        trabalhistas assegurados na Constituição Federal, nas leis trabalhistas, nas normas infralegais, nas convenções
+        coletivas de trabalho e nos termos de ajustamento de conduta vigentes na data de entrega das propostas.
+
+       11.15 A habilitação será verificada por meio do Sicaf, nos documentos por ele abrangidos.
+
+       11.15.1 Somente haverá a necessidade de comprovação do preenchimento de  requisitos mediante
+       apresentação dos documentos originais não-digitais quando houver dúvida em relação à integridade do
+      documento digital ou quando a lei expressamente o exigir. (IN nº 3/2018, art. 4º, §1º, e art. 6º, §4º).
+
+       11.15.1.1 Nos casos de declarações e documentos escaneados cuja assinatura não possua chancela para
+        verificação em sítio eletrônico ou não atenda aos requisitos do Decreto Federal 10.543/2020, poderá o
+       pregoeiro convocar a  licitante para no prazo de 2(dois) dias úteis apresentar documento original para
+       autenticação por servidor da comissão de pregão eletrônico, sob pena de invalidação do documento.
+
+       11.16 É de responsabilidade do licitante conferir a exatidão dos seus dados cadastrais no Sicaf e mantê-los
+       atualizados junto aos órgãos responsáveis pela informação, devendo proceder, imediatamente, à correção ou
+      à alteração dos registros tão logo identifique incorreção ou aqueles se tornem desatualizados.
+
+
+
+
+
+                                              404
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 405 RUBRICA _________
+
+
+
+       11.16.1 A não observância do disposto no item anterior poderá ensejar desclassificação no momento da
+        habilitação.
+
+       11.17 A verificação pelo pregoeiro, em sítios eletrônicos oficiais de órgãos e entidades emissores de certidões
+        constitui meio legal de prova, para fins de habilitação.
+
+       11.17.1 Os documentos exigidos para habilitação que não estejam contemplados no Sicaf serão enviados por
+      meio do sistema, em formato digital, no prazo de 02 (duas) horas, prorrogável por igual período, contado da
+        solicitação do pregoeiro.
+
+       11.18 A verificação no Sicaf ou a exigência dos documentos nele não contidos somente será feita em relação
+      ao licitante vencedor.
+
+       11.18.1 Os documentos relativos à regularidade fiscal que constem do Termo de Referência somente serão
+        exigidos, em qualquer caso, em momento posterior ao julgamento das propostas, e apenas do licitante mais
+     bem classificado.
+
+       11.19 Após a entrega dos documentos para habilitação, não será permitida a substituição ou a apresentação
+      de novos documentos, salvo em sede de diligência, para (Lei 14.133/21, art. 64, e Decreto Municipal 2.740, de
+      06 de fevereiro de 2024, art. 38, §4º):
+
+       11.19.1 Complementação de informações acerca dos documentos já apresentados pelos licitantes e desde que
+       necessária para apurar fatos existentes à época da abertura do certame; e
+
+       11.19.2 Atualização de documentos cuja validade tenha expirado após a data de recebimento das propostas.
+
+       11.20 Na análise dos documentos de habilitação, o pregoeiro poderá sanar erros ou falhas, que não alterem a
+       substância dos documentos e sua validade jurídica, mediante decisão fundamentada, registrada em ata e
+        acessível a todos, atribuindo-lhes eﬁcácia para fins de habilitação e classificação.
+
+       11.20.1 As documentações relativas à comprovação de habilitação deverão ter suas datas de emissão
+       anteriores à data da apresentação da proposta, ou seja, não será permitida a apresentação de documento
+       posterior a formulação da proposta.
+
+       11.21 Na hipótese de o licitante não atender às exigências para habilitação, o pregoeiro examinará a proposta
+      subsequente e assim sucessivamente, na ordem de classificação, até a apuração de uma proposta que atenda
+      ao presente Edital, observado o prazo disposto no subitem 11.17.1.
+
+       11.22 Somente serão disponibilizados para acesso público os documentos de habilitação do licitante cuja
+       proposta atenda ao Edital de licitação, após concluídos os procedimentos de que trata o subitem anterior.
+
+       11.23 A comprovação de regularidade fiscal e trabalhista das microempresas e das empresas de pequeno porte
+      somente será exigida para efeito de contratação, e não como condição para participação na licitação (art. 4º
+      do Decreto nº 8.538/2015).
+
+
+
+
+
+                                              405
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 406 RUBRICA _________
+
+
+
+       11.25 Constatado o atendimento às exigências de habilitação fixadas no Edital, a licitante será declarada
+       vencedora.
+
+       11.   DO ENCAMINHAMENTO DA PROPOSTA VENCEDORA:
+
+       12.1 A proposta final do licitante declarado vencedor deverá ser encaminhada no prazo de 02 (duas) horas, a
+       contar da solicitação do Pregoeiro no sistema eletrônico e deverá:
+
+       12.1.1 A PROPOSTA DE PREÇOS poderá ser elaborada conforme Anexo II – modelo deste Edital, obedecidas as
+       disposições do Termo de Referência (Anexo I).
+
+       12.1.2 Na PROPOSTA DE PREÇOS deverão constar os seguintes elementos:
+
+        a)     Razão social, CNPJ (que deverá ser o mesmo para a PROPOSTA DE PREÇOS e Nota Fiscal), endereço
+       completo, número de telefone e e-mail.
+
+       b)      Especificações técnicas, marcas, modelo, e outros elementos exigidos no Termo de Referência (Anexo
+           I), de modo a identificar o serviço e/ou fornecimento ofertado e atender ao disposto no art. 31, da Lei nº.
+       8.078/90 – Código de Defesa do Consumidor.
+
+        c)      Preços unitário e total em moeda corrente do País, em algarismos, com 2 (duas) casas decimais após
+      a vírgula, para todos os itens que compõem a proposta.
+
+       d)     Data e assinatura do representante legal do licitante, com a identificação de seu nome abaixo da
+       assinatura.
+
+          f)     Nos preços ofertados já deverão estar inclusos os tributos, fretes, taxas, seguros, encargos sociais,
+        trabalhistas e as despesas decorrentes da execução do objeto.
+
+       h)     Conter a indicação do banco, número da conta e agência do licitante vencedor, para fins de
+      pagamento.
+
+       12.2 A proposta final deverá ser documentada nos autos e será levada em consideração no decorrer da
+      execução do contrato e aplicação de eventual sanção à Contratada, se for o caso.
+
+       12.3 Todas as especificações do objeto contidas na proposta vinculam a Contratada.
+
+       12.4 Os preços deverão ser expressos em moeda corrente nacional, o valor unitário em algarismos e o valor
+       global em algarismos e por extenso.
+
+
+
+
+
+                                              406
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 407 RUBRICA _________
+
+
+
+       12.4.1 Ocorrendo divergência entre os preços unitários e o preço global, prevalecerão os primeiros; no caso
+      de divergência entre os valores numéricos e os valores expressos por extenso, prevalecerão estes últimos.
+
+       12.5 A oferta deverá ser firme e precisa, limitada, rigorosamente, ao objeto deste Edital, sem conter
+        alternativas de preço ou de qualquer outra condição que induza o julgamento a mais de um resultado, sob
+      pena de desclassificação.
+
+       12.5.1 Serão desclassificadas ainda as propostas que:
+
+        a) Estiverem incompletas, isto é, não contiverem informações suficientemente claras de forma a permitir a
+       perfeita identificação quantitativa e qualitativa do proposto.
+
+       b) Contiverem qualquer limitação ou condição divergente do presente Edital.
+
+        c) Que estiverem em desacordo com as condições do presente documento.
+
+       d) Estiverem em descordo com as especificações dos itens constantes neste documento.
+
+          f) Sejam omissas, apresentem irregularidades, ou defeitos capazes de dificultar o julgamento.
+
+        g) Que contiver emendas, rasuras ou entrelinhas, que dificultem o seu perfeito entendimento ou que possam
+      comprometer a lisura do certame e quaisquer vícios que forem consideradas insanáveis pela comissão de
+       seleção.
+
+       h) A proposta não poderá impor condições ou conter opções.
+
+       12.6 A proposta deverá obedecer aos termos deste Edital e seus Anexos, não sendo considerada aquela que
+      não corresponda às especificações ali contidas ou que estabeleça vínculo à proposta de outro licitante.
+
+       12.7.  As propostas que contenham a descrição do objeto, o valor e os documentos complementares estarão
+       disponíveis na internet, após a homologação.
+
+       12.8 O pregoeiro não se responsabilizará por propostas que não sejam entregues nos prazos definidos neste
+        Edital.
+
+       12.9 Falhas meramente formais poderão, após a análise, serem sanadas pelo pregoeiro, desde que não
+       caracterizem tratamento diferenciado em relação aos demais participantes.
+
+
+
+
+
+                                              407
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 408 RUBRICA _________
+
+
+
+       12.   DOS RECURSOS:
+
+       13.1 Declarado o vencedor e decorrida a fase de regularização fiscal e trabalhista da licitante qualificada como
+      microempreendedor individual, microempresas ou empresas de pequeno porte, se for o caso, será concedido
+       prazo para que qualquer licitante manifeste intenção de recorrer, de forma motivada, isto é, indicando contra
+        qual(is) decisão(ões) pretende recorrer e por quais motivos, em campo próprio do sistema.
+
+       13.2 A interposição de recurso referente ao julgamento das propostas, à habilitação ou inabilitação de
+        licitantes, à anulação ou revogação da licitação, observará o disposto no art. 165 da Lei nº 14.133, de 2021.
+
+       13.3 O prazo recursal é de 3 (três) dias úteis, contados da data de intimação ou de lavratura da ata.
+
+       13.4 Quando o recurso apresentado impugnar o julgamento das propostas ou o ato de habilitação ou
+        inabilitação do licitante:
+
+       13.4.1 A intenção de recorrer deverá ser manifestada imediatamente, sob pena de preclusão.
+
+       13.4.2 O prazo para a manifestação da intenção de recorrer não será inferior a 10 (dez) minutos.
+
+       13.4.3 O prazo para apresentação das razões recursais será iniciado na data de intimação ou de lavratura da
+       ata de habilitação ou inabilitação.
+
+       13.5 Os recursos deverão ser encaminhados em campo próprio do sistema.
+
+       13.6 O recurso será dirigido à autoridade que tiver editado o ato ou proferido a decisão recorrida, a qual poderá
+       reconsiderar sua decisão no prazo de 3 (três) dias úteis, ou, nesse mesmo prazo, encaminhar recurso para a
+       autoridade superior, a qual deverá proferir sua decisão no prazo de 10 (dez) dias úteis, contado do
+      recebimento dos autos.
+
+       13.7 Os recursos interpostos fora do prazo não serão conhecidos.
+
+       13.8 O prazo para apresentação de contrarrazões ao recurso pelos demais licitantes será de 3 (três) dias úteis,
+      contados da data da intimação pessoal ou da divulgação da interposição do recurso, assegurada a vista
+       imediata dos elementos indispensáveis à defesa de seus interesses.
+
+       13.9 O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão recorrida até que
+      sobrevenha decisão final da autoridade competente.
+
+       13.10 O acolhimento do recurso invalida tão somente os atos insuscetíveis de aproveitamento.
+
+
+
+
+
+                                              408
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 409 RUBRICA _________
+
+
+
+       13.11 Os autos do processo permanecerão com vista franqueada aos interessados, no endereço constante
+       neste Edital.
+
+       13.   DA REABERTURA DA SESSÃO PÚBLICA:
+
+       14.1 A sessão pública poderá ser reaberta:
+
+       14.1.1 Nas hipóteses de provimento de recurso que leve à anulação de atos anteriores à realização da sessão
+       pública precedente ou em que seja anulada a própria sessão pública, situação em que serão repetidos os atos
+       anulados e os que dele dependam.
+
+       14.1.2 Quando houver erro na aceitação do preço melhor classificado ou quando o licitante declarado
+      vencedor não assinar o contrato, não retirar o instrumento equivalente ou não comprovar a regularização
+         fiscal e trabalhista, nos termos do art. 43, §1º da LC nº 123/2006, serão adotados os procedimentos
+      imediatamente posteriores ao encerramento da etapa de lances.
+
+       14.2 Todos os licitantes remanescentes deverão ser convocados para acompanhar a sessão reaberta.
+
+       14.2.1 A convocação se dará por meio do sistema eletrônico (“chat”) ou e-mail de acordo com a fase do
+      procedimento     licitatório,   podendo   também    ser    disponibilizada   no     sítio    eletrônico
+        http://licitacoes.saquarema.rj.gov.br.
+
+       14.2.2 A convocação  feita por e-mail dar-se-á de acordo com os dados contidos no SICAF, sendo
+       responsabilidade do licitante manter seus dados cadastrais atualizados.
+
+       14.   DA ADJUDICAÇÃO E HOMOLOGAÇÃO:
+
+       15.1 Encerradas as fases de julgamento e habilitação, e exauridos os recursos administrativos, o processo
+         licitatório será encaminhado à autoridade superior, que poderá adjudicar o objeto e homologar a licitação.
+
+       15.   DA GARANTIA:
+
+       16.1 DA GARANTIA DE EXECUÇÃO:
+
+       16.1.1 Não haverá exigência de garantia de execução para a presente contratação.
+
+       16.2 DA GARANTIA CONTRATUAL DOS BENS:
+
+       16.2.1 Será exigida garantia contratual dos bens fornecidos na presente contratação, complementar à legal,
+      conforme prazos mínimos e demais regras constantes do Termo de Referência.
+
+
+
+
+
+                                              409
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 410 RUBRICA _________
+
+
+
+       16.   DO TERMO DE CONTRATO:
+
+       17.1 Após a homologação da licitação, em sendo realizada a contratação, será firmado Termo de Contrato.
+
+       17.2 A adjudicatária terá o prazo de 05(cinco) dias úteis, contados a partir da data de sua convocação, para
+       assinar o Termo de Contrato, sob pena de decair do direito à contratação, sem prejuízo das sanções previstas
+       neste Edital.
+
+       17.3 O prazo previsto no subitem anterior poderá ser prorrogado, por igual período, por solicitação justificada
+      do adjudicatário e aceita pela Administração.
+
+       17.4 O prazo de vigência da contratação é o estabelecido no Termo de Referência.
+
+       17.5. Previamente à contratação a Administração realizará consulta ao SICAF para identificar possível
+      suspensão temporária de participação em licitação, no âmbito do órgão ou entidade, proibição de contratar
+     com o Poder Público, bem como ocorrências impeditivas indiretas, observado o disposto no art. 29, da
+       Instrução Normativa nº 3, de 26 de abril de 2018.
+
+       17.5.1 Nos casos em que houver necessidade de assinatura do instrumento de contrato, e o fornecedor não
+        estiver inscrito no SICAF, este deverá proceder ao seu cadastramento, sem ônus, antes da contratação.
+
+       17.5.2 Na hipótese de irregularidade do registro no SICAF, o contratado deverá regularizar a sua situação
+       perante o cadastro no prazo de até 05 (cinco) dias úteis, sob pena de aplicação das penalidades previstas no
+        Edital e Anexos.
+
+       17.6.  Na assinatura do contrato, será exigida a comprovação das condições de habilitação consignadas no
+        Edital, que deverão ser mantidas pelo licitante durante a vigência do contrato.
+
+       17.7.  Na hipótese de o vencedor da licitação não comprovar as condições de habilitação consignadas no
+        Edital ou se recusar a assinar o contrato, a Administração, sem prejuízo da aplicação das sanções das demais
+      cominações legais cabíveis a esse  licitante, poderá convocar outro  licitante, respeitada a ordem de
+        classificação, para, após a comprovação dos requisitos para habilitação, analisada a proposta e eventuais
+      documentos complementares e, feita a negociação, assinar o contrato.
+
+       17.   DO REAJUSTAMENTO EM SENTIDO GERAL:
+
+       18.1 As regras acerca da programação e reajustamento em sentido geral do valor contratual são as
+       estabelecidas no Termo de Referência, Anexo a este Edital.
+
+
+
+
+
+                                              410
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 411 RUBRICA _________
+
+
+
+       18.   DO RECEBIMENTO DO OBJETO E DA FISCALIZAÇÃO:
+
+       19.1 Os critérios de recebimento e aceitação do objeto e de fiscalização estão previstos no Termo de
+       Referência.
+
+       19.   DO VALOR E DOS RECURSOS ORÇAMENTÁRIOS:
+
+       20.1 A despesa com o objeto presente será assegurada por conta de recursos que estarão livres e não
+      comprometidos, conforme dotação orçamentária vigente para o exercício de 2025, pertinentes à Secretaria
+       Municipal de Urbanismo, segundo dados abaixo:
+
+
+             PT: 21.001.15.126.0024.1076
+           ND: 4.4.90.52.03.00
+             PT: 21.001.15.126.0024.1076
+           ND: 4.4.90.52.30.00
+
+       20.2 Declara-se, por oportuno, que as despesas com a efetivação do objeto em tela possuem adequação
+       orçamentária e financeira com a Lei Orçamentária Anual e compatibilidade com o Plano Plurianual e com a Lei
+      de Diretrizes Orçamentárias.
+
+       20.3 3 O valor estimado da contratação será de R$ 240.429,59 (Duzentos e quarenta mil quatrocentos e vinte
+      e nove reais e cinquenta e nove centavos), conforme Valor Máximo Estimado pela Administração (Anexo III).
+
+       20.   DAS OBRIGAÇÕES DA CONTRATANTE E DA CONTRATADA:
+
+       21.1 As obrigações da Contratante e da Contratada são as estabelecidas no Termo de Referência.
+
+       21.   DO PAGAMENTO:
+
+       22.1 As regras acerca do pagamento são as estabelecidas no Termo de Referência, Anexo a este Edital.
+
+       22.   DAS INFRAÇÕES ADMINISTRATIVAS E SANÇÕES:
+
+       23.1 Comete infração administrativa, nos termos da lei, o licitante que, com dolo ou culpa:
+
+       23.1.1  Deixar de entregar a documentação exigida para o certame ou não entregar qualquer documento que
+      tenha sido solicitado pelo (a) pregoeiro (a) durante o certame.
+
+       23.1.2 Salvo em decorrência de fato superveniente devidamente justificado, não mantiver a proposta em
+       especial quando:
+
+
+
+
+
+                                              411
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 412 RUBRICA _________
+
+
+
+       23.1.2.1 Não enviar a proposta adequada ao último lance ofertado ou após a negociação.
+
+       23.1.2.2 Recusar-se a enviar o detalhamento da proposta quando exigível.
+
+       23.1.2.3 Pedir para ser desclassificado quando encerrada a etapa competitiva.
+
+       23.1.2.4 Deixar de apresentar amostra.
+
+       23.1.2.5 Apresentar proposta ou amostra em desacordo com as especificações do Edital.
+
+       23.1.3 Não celebrar o contrato ou não entregar a documentação exigida para a contratação, quando
+      convocado dentro do prazo de validade de sua proposta.
+
+       23.1.3.1 Recusar-se, sem justificativa, a assinar o contrato ou a ata de registro de preço, ou a aceitar ou retirar
+      o instrumento equivalente no prazo estabelecido pela Administração.
+
+       23.1.4 Apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração falsa
+       durante a licitação.
+
+       23.1.5 Fraudar a licitação.
+
+       23.1.6 Comportar-se de modo inidôneo ou cometer fraude de qualquer natureza, em especial quando:
+
+       23.1.6.1 Agir em conluio ou em desconformidade com a lei.
+
+       23.1.6.2 Induzir deliberadamente a erro no julgamento.
+
+       23.1.6.3 Apresentar amostra falsificada ou deteriorada.
+
+       23.1.7 Praticar atos ilícitos com vistas a frustrar os objetivos da licitação.
+
+       23.1.8 Praticar ato lesivo previsto no art. 5º da Lei n.º 12.846, de 2013.
+
+       23.2 Com fulcro na Lei nº 14.133, de 2021, a Administração poderá, garantida a prévia defesa, aplicar aos
+        licitantes e/ou adjudicatários as seguintes sanções, sem prejuízo das responsabilidades civil e criminal:
+
+       23.2.1 Advertência.
+
+       23.2.2 Multa.
+
+       23.2.3 Impedimento de licitar e contratar.
+
+
+
+
+
+                                              412
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 413 RUBRICA _________
+
+
+
+       23.2.4 Declaração de inidoneidade para licitar ou contratar, enquanto perdurarem os motivos determinantes
+      da punição ou até que seja promovida sua reabilitação perante a própria autoridade que aplicou a penalidade.
+
+       23.3 Na aplicação das sanções serão considerados:
+
+       23.3.1 A natureza e a gravidade da infração cometida.
+
+       23.3.2 As peculiaridades do caso concreto.
+
+       23.3.3 As circunstâncias agravantes ou atenuantes.
+
+       23.3.4 Os danos que dela provierem para a Administração Pública.
+
+       23.3.5 A implantação ou o aperfeiçoamento de programa de integridade, conforme normas e orientações dos
+       órgãos de controle.
+
+       23.4 A multa será recolhida em percentual de 5% incidente sobre o valor do contrato licitado, recolhida no
+       prazo máximo de 10 (dez) dias úteis, a contar da comunicação oficial.
+
+       23.4.1 Para as infrações previstas nos itens 23.1.1, 23.1.2 e 23.1.3, a multa será de 5,0% do valor do contrato
+        licitado.
+
+       23.4.2 Para as infrações previstas nos itens 23.1.4, 23.1.5, 23.1.6, 23.1.7 e 23.1.8, a multa será de 15% do valor
+      do contrato licitado.
+
+       23.5 As sanções de advertência, impedimento de licitar e contratar e declaração de inidoneidade para licitar
+      ou contratar poderão ser aplicadas, cumulativamente ou não, à penalidade de multa.
+
+       23.6 Na aplicação da sanção de multa será facultada a defesa do interessado no prazo de 15 (quinze) dias úteis,
+      contado da data de sua intimação.
+
+       23.7 A sanção de impedimento de licitar e contratar será aplicada ao responsável em decorrência das infrações
+       administrativas relacionadas nos itens 23.1.1, 23.1.2 e 23.1.3, quando não se justificar a imposição de
+       penalidade mais grave, e impedirá o responsável de licitar e contratar no âmbito da Administração Pública
+       direta e indireta do ente federativo a qual pertencer o órgão ou entidade, pelo prazo máximo de 3 (três) anos.
+
+       23.8 Poderá ser aplicada ao responsável a sanção de declaração de inidoneidade para licitar ou contratar, em
+       decorrência da prática das infrações dispostas nos itens 23.1.4, 23.1.5, 23.1.6, 23.1.7 e 23.1.8, bem como pelas
+       infrações administrativas previstas nos itens 23.1.1, 23.1.2 e 23.1.3 que justifiquem a imposição de penalidade
+
+
+
+
+
+                                              413
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 414 RUBRICA _________
+
+
+
+      mais grave que a sanção de impedimento de licitar e contratar, cuja duração observará o prazo previsto no art.
+       156, §5º, da Lei n.º 14.133/2021.
+
+       23.9 A recusa injustificada do adjudicatário em assinar o contrato ou a ata de registro de preço, ou em aceitar
+      ou retirar o instrumento equivalente no prazo estabelecido pela Administração, descrita no item 23.1.3
+       caracterizará o descumprimento total da obrigação assumida e o sujeitará às penalidades e à imediata perda
+      da garantia de proposta em favor do órgão ou entidade promotora da licitação, nos termos do art. 44, §4º do
+       Decreto Municipal n.º 2.740, de 06 de fevereiro 2024.
+
+       23.10 A apuração de responsabilidade relacionadas às sanções de impedimento de licitar e contratar e de
+       declaração  de  inidoneidade  para  licitar ou  contratar demandará  a  instauração de  processo de
+       responsabilização a ser conduzido por comissão composta por 2 (dois) ou mais servidores estáveis, que avaliará
+       fatos e circunstâncias conhecidos e intimará o licitante ou o adjudicatário para, no prazo de 15 (quinze) dias
+        úteis, contado da data de sua intimação, apresentar defesa escrita e especificar as provas que pretenda
+       produzir.
+
+       23.11 Caberá recurso no prazo de 15 (quinze) dias úteis da aplicação das sanções de advertência, multa e
+      impedimento de licitar e contratar, contado da data da intimação, o qual será dirigido à autoridade que tiver
+       proferido a decisão recorrida, que, se não a reconsiderar no prazo de 5 (cinco) dias úteis, encaminhará o
+       recurso com sua motivação à autoridade superior, que deverá proferir sua decisão no prazo máximo de 20
+        (vinte) dias úteis, contado do recebimento dos autos.
+
+       23.12 Caberá a apresentação de pedido de reconsideração da aplicação da sanção de declaração de
+       inidoneidade para licitar ou contratar no prazo de 15 (quinze) dias úteis, contado da data da intimação, e
+       decidido no prazo máximo de 20 (vinte) dias úteis, contado do seu recebimento.
+
+       23.13 O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão recorrida até que
+      sobrevenha decisão final da autoridade competente.
+
+       23.14 A aplicação das sanções previstas neste Edital não exclui, em hipótese alguma, a obrigação de reparação
+        integral dos danos causados.
+
+       23.15 As sanções por atos praticados no decorrer da contratação estão previstas no Termo de Referência.
+
+       23.   DA IMPUGNAÇÃO AO EDITAL E DOS PEDIDOS DE ESCLARECIMENTOS:
+
+
+       24.1 Qualquer pessoa é parte legítima para impugnar este Edital por irregularidade na aplicação da Lei nº
+
+       14.133, de 2021, devendo protocolar o pedido até 3 (três) dias úteis antes da data da abertura do certame.
+
+
+
+
+
+                                              414
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 415 RUBRICA _________
+
+
+
+       24.2 A impugnação poderá ser realizada por forma eletrônica, pelo e-mail licitacao@saquarema.rj.gov.br, ou
+
+      por petição dirigida ou protocolada no endereço Rua Coronel Madureira, 77 – Centro – Saquarema/RJ – cep
+
+      28990-756 nos dias úteis das 09:30 às 16:30 horas.
+
+
+       24.3 Caberá ao Pregoeiro, auxiliado pelos responsáveis pela elaboração deste Edital e seus Anexos, decidir
+
+       sobre a impugnação no prazo de até 3 (três) dias úteis contados da data de recebimento da impugnação,
+
+       limitado ao último dia útil anterior à data da abertura do certame, podendo encaminha-la para a autoridade
+
+
+      competente ou procuradoria jurídica, com encaminhamento publicação de cópia da resposta no Portal de
+
+      Compras e Licitações ( http://licitacoes.saquarema.rj.gov.br ), para ciência de todos os interessados.
+
+
+       24.4 Acolhida a impugnação, será definida e publicada nova data para a realização do certame.
+
+
+       24.5 Os pedidos de esclarecimentos referentes a este processo licitatório deverão ser enviados ao Pregoeiro,
+
+       até 03 (três) dias úteis anteriores à data designada para abertura da sessão pública, exclusivamente por meio
+
+       eletrônico via internet, no endereço indicado no item 24.2.
+
+
+       24.6 A resposta à impugnação ou ao pedido de esclarecimento será divulgado em sítio eletrônico oficial no
+
+       prazo de até 3 (três) dias úteis, limitado ao último dia útil anterior à data da abertura do certame.
+
+
+       24.7 O Pregoeiro responderá aos pedidos de esclarecimentos no prazo de três dias úteis, contado da data de
+
+      recebimento do pedido, e poderá requisitar subsídios formais aos responsáveis pela elaboração do Edital e dos
+
+       Anexos.
+
+
+       24.8 As impugnações e pedidos de esclarecimentos não suspendem os prazos previstos no certame.
+
+
+       24.8.1 A concessão de efeito suspensivo à impugnação é medida excepcional e deverá ser motivada pelo
+
+       pregoeiro, nos autos do processo de licitação.
+
+
+       24.9   As respostas aos pedidos de esclarecimentos serão divulgadas pelo sistema e vincularão os
+
+       participantes e a Administração.
+
+
+
+
+
+                                              415
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 416 RUBRICA _________
+
+
+
+       24.   DAS DISPOSIÇÕES GERAIS:
+
+
+       25.1 Da sessão pública do Pregão divulgar-se-á Ata no sistema eletrônico.
+
+
+       25.2 Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a realização do certame
+
+      na data marcada, a sessão será automaticamente transferida para o primeiro dia útil subsequente, no mesmo
+
+       horário anteriormente estabelecido, desde que não haja comunicação em contrário, pelo Pregoeiro.
+
+
+       25.3 Todas as referências de tempo no Edital, no aviso e durante a sessão pública observarão o horário de
+
+        Brasília – DF.
+
+
+       25.4 No julgamento das propostas e da habilitação, o Pregoeiro poderá sanar erros ou falhas que não alterem
+      a substância das propostas, dos documentos e sua validade jurídica, mediante despacho fundamentado,
+       registrado em ata e acessível a todos, atribuindo-lhes validade e eficácia para fins de habilitação e classificação.
+
+       25.5 A homologação do resultado desta licitação não implicará direito à contratação.
+
+       25.6 As normas disciplinadoras da licitação serão sempre interpretadas em favor da ampliação da disputa entre
+       os interessados, desde que não comprometam o interesse da Administração, o princípio da isonomia, a
+        finalidade e a segurança da contratação.
+
+       25.7 Os licitantes assumem todos os custos de preparação e apresentação de suas propostas e a Administração
+      não será, em nenhum caso, responsável por esses custos, independentemente da condução ou do resultado
+      do processo licitatório.
+
+       25.8 Na contagem dos prazos estabelecidos neste Edital e seus Anexos, excluir-se-á o dia do início e incluir-se-
+      á o do vencimento. Só se iniciam e vencem os prazos em dias de expediente na Administração.
+
+       25.9 O desatendimento de exigências formais não essenciais não importará o afastamento do licitante, desde
+      que seja possível o aproveitamento do ato, observados os princípios da isonomia e do interesse público.
+
+
+
+
+
+                                              416
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Gestão, Inovação e Tecnologia
+Departamento de Licitações e Contratos
+
+
+
+                                                              PROCESSO Nº 18.455/2024
+
+                                                                                     FLS. 417 RUBRICA _________
+
+
+
+
+
+       25.10 O Edital está disponibilizado, na íntegra, no endereço eletrônico http://licitacoes.saquarema.rj.gov.br ,
+      e também poderão ser lidos e/ou obtidos no endereço Rua Coronel Madureira, 77 – Centro – Saquarema/RJ –
+      cep 28990-756, nos dias úteis, no horário das 09:30 horas às 16:30 horas, mesmo endereço e período no qual
+       os autos do processo administrativo permanecerão com vista franqueada aos interessados.
+
+                                                                   Saquarema, 10 de setembro de 2025
+
+
+
+
+                                       FELIPE DE OLIVEIRA ARAÚJO
+                                                  Autoridade Competente
+                                                  Secretária Municipal de Urbanismo
+                                                                Matrícula: 960603-1
+
+
+
+
+
+                                              417
+
+Estado do Rio de Janeiro
+ Prefeitura Municipal de Saquarema
+ Secretaria Municipal de Urbanismo
+
+                  TERMO DE REFERÊNCIA
+
+
+
+    1. IDENTIFICAÇÃO DO DEMANDANTE
+
+   Solicitação feita através da Secretaria Municipal de Urbanismo da Prefeitura de Saquarema-RJ,
+localizadas na Rua Frutuoso de Oliveira nº 70 – Saquarema - Centro, Prédio anexo à sede da
+Prefeitura Municipal de Saquarema – CNPJ. 32.147.670/0001-21.
+
+    2. DO OBJETO
+
+   O presente Termo de Referência – TR tem por objeto aquisição de equipamentos de
+informática, para atender as demandas da Secretaria Municipal de Urbanismo da Prefeitura
+de Saquarema-RJ, conforme especificações e quantidades estabelecidas no item 6 (seis) deste
+termo de Referência.
+
+  O objeto desta contratação adequa-se na categoria de bens comuns não contínuos, por
+possuírem padrões e características gerais e específicas usualmente encontradas no mercado, de
+forma que a contratação seja regida pela Lei Federal n.º 14.133/21 e suas alterações.
+
+   Todas as garantias legais oferecidas pela Contratada, sobretudo quanto às especificações,
+quantitativos e condições do objeto pretendido devem estar de acordo com este Termo de
+Referência.
+
+    3. DA JUSTIFICATIVA
+
+  A  Secretaria  de  Urbanismo  acaba  de  migrar  para uma  nova  estrutura,  ampliando
+significativamente o espaço físico e incorporando novos cargos. Essa expansão visa melhorar a
+eficiência e a qualidade dos serviços prestados à população. No entanto, para atender às novas
+demandas e garantir o pleno funcionamento, é imprescindível a aquisição de novos equipamentos
+de informática.
+
+         I.   Melhoria da produtividade: Equipamentos atualizados permitirão maior eficiência e
+          rapidez na execução das tarefas;
+        II.   Qualidade dos serviços: Novos equipamentos garantirão precisão e detalhamento nos
+          projetos urbanísticos;
+       III.   Atendimento ao crescimento: A expansão da equipe requer recursos adequados para
+         manter a qualidade dos serviços;
+    IV.   Compatibilidade com normas técnicas: Equipamentos modernos garantirão conformidade
+       com padrões técnicos e regulamentações;
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+  BENEFÍCIOS
+
+       I.   Satisfação do usuário: Melhoria na experiência do cidadão;
+      II.   Aumento da eficiência: Redução do tempo de processamento de projetos;
+     III.   Melhoria da qualidade: Projetos mais detalhados e precisos;
+   IV.   Custo-benefício: Economia a longo prazo com manutenção reduzida;
+
+ CONCLUSÃO
+
+  A contratação de novos equipamentos para a Secretaria de Urbanismo é fundamental para:
+
+       I.   Apoiar o crescimento da equipe;
+      II.   Melhorar a qualidade dos serviços;
+     III.   Garantir a eficiência operacional;
+   IV.   Atender às necessidades técnicas.
+
+
+  4. ESPECIFICAÇÕES TÉCNICAS DOS ITENS
+
+
+ITEM                      DESCRIÇÃO                       UNIDADE  CATMAT
+
+              KIT DE COMPUTADOR SEM MONITOR, COM TECLADO E MOUSE
+
+              1.  Memória RAM:
+
+                 a)  Mínimo de 64GB;
+                 b)  Pode ser em um único pente de 64GB ou dois pentes de 32GB cada;
+                  c)  Desenvolvido com tecnologia DDR4, ou superior.
+
+              2.  Processador:
+
+                 a)   Núcleos por processador superior a 8;
+                 b)   Compatíveis com arquitetura x86 e possuir suporte a execução de
+                      instruções de 32 ou 64 bits.
+
+              3.  Unidade de armazenamento:
+
+ 01             a)  Armazenamento SSD mínimo de 2TB, podendo ser divido em dois pentes    UNID.      606229
+                 de 1TB cada.
+
+              4.  Interface:
+
+                 a) O equipamento deverá possuir, de fábrica, no mínimo 05 (cinco) interfaces
+                USB, das quais pelo menos uma dessas portas deverá ser compatível com
+                 o padrão USB 3.0 ou superior;
+                 b)  Entrada para microfone e saída de áudio para headphones ou caixas
+                     acústicas na parte frontal do gabinete.
+
+              5.  Dispositivos de áudio:
+
+                 a)  Controladora de som integrada a placa mãe;
+                 b)  Compatível com o padrão “High Definition Audio”.
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+
+
+             6.  Fonte de alimentação:
+
+                 a)  Fonte de alimentação para corrente alternada com tensões de entrada de
+                  110/220 VAC, com ajuste automático, suficiente para suportar todos os
+                      dispositivos internas na configuração máxima admitida pelo equipamento;
+                 b)  Todos os cabos de alimentação necessários para o pleno funcionamento
+                 do equipamento devem ser fornecidos.
+
+             7.  Teclado:
+
+                 a)  Do tipo USB, com cabo de no mínimo 1,5m (um metro e cinquenta
+                    centímetros;
+                 b) O  equipamento  deverá  funcionar  corretamente  quando  o  Sistema
+                   Operacional estiver configurado para o Teclado Brasileiro ABNT II;
+                  c)  Possuir bloco numérico separado das demais teclas.
+
+             8.  Dispositivo Apontador (mouse):
+
+                 a)   Utilizar tecnologia óptica;
+                 b)  Do tipo USB, em formato ergonômico e de conformação ambidestra, com
+                   botões esquerdo, direito e central;
+                  c)  Deverá ser fornecido um mousepad compatível com o uso de dispositivo
+                   apontador ótico.
+
+             9.  Gabinete:
+
+                 a)  Gabinete tipo TORRE, na qual comporte todo o equipamento;
+                 b)  Possuir sistema de refrigeração em dimensões que garantam adequada
+                     refrigeração do processador e demais componentes internos ao gabinete;
+                  c)  Cor predominante preta ou cinza.
+
+            10. Sistema Operacional:
+
+                 a)  Os equipamentos deverão  ser  fornecidos com  licenças do Sistema
+                   Operacional Microsoft Windows 11 Professional 64 bits ou versão superior;
+                 b) O sistema operacional deverá ser fornecido no idioma português BR,
+                     instalado e em pleno funcionamento.
+
+            11. Monitor:
+
+                 a) Sem monitor;
+
+            12. Controladora de vídeo:
+
+                 a)  PLACA DE VIDEO RTX 4070 12GB ou equivalente;
+
+            13. Placa-mãe/BIOS:
+
+                 a)  Chipset deverá suportar velocidade do barramento de comunicação com o
+                   processador na velocidade nominal máxima suportada pelo processador
+                     ofertado, não utilizando a funcionalidade de overclock;
+                 b)  Chipset deverá suportar memória RAM do tipo DDR4 com frequência de
+                   3.200 MHz ou superior, capaz de operar com dois canais simultâneos
+                    (Dual-Channel).
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+
+
+            14. Requisitos complementares:
+
+                 a)  Os produtos a serem entregues deverão ser originais do fabricante, novos
+                 e em perfeito estado, acondicionado em embalagens que permitam sua
+                   proteção contra impactos, arranhões, umidade e demais agentes que
+                possam ocasionar danos;
+                 b)  Todos os dispositivos de hardwares fornecidos deverão ser compatíveis
+               com o sistema operacional requerido neste termo de referência;
+                  c)  Todos os equipamentos ofertados devem possuir graduações neutros na
+                    cor preta ou  cinza, afim de manter o mesmo padrão na cor preta
+                  predominante do gabinete;
+                 d) O equipamento e seus acessórios ofertados (marca e modelo) não podem
+                     estar em processo de descontinuidade e não poderão ser descontinuados
+                    até 60 (sessenta) dias após a data de abertura do certame.
+
+         MONITOR COMPUTADOR
+
+             1.  Tamanho tela:
+
+                 a)  23 a 30 POL;
+
+             2.  Tipo de tela:
+
+                 a)  LED;
+
+             3.  Formato tela:
+
+ 02             a)  Widescreen;                                                    UNID.      606908
+
+             4.  Qualidade de imagem:
+
+                 a)  4k;
+
+             5.  Ajuste:
+
+                 a)  Ajuste de rotação, altura e inclinação do display;
+
+             6.  Alimentação:
+
+                 a)   Bivolt;
+
+
+           KIT DE MICROCOMPUTADOR SEM MONITOR, COM TECLADO E MOUSE
+
+             1.  Memória RAM:
+
+                 a)  Mínimo de 8GB;
+                 b)  Desenvolvido com tecnologia DDR4, ou superior.
+
+ 03         2.  Processador:                                                       UNID.      482392
+
+                 a) Núcleos por processador mínimo de 8;
+                 b) Compatíveis com arquitetura x86 e possuir suporte a execução de instruções
+                de 32 ou 64 bits.
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+
+
+             3.  Unidade de armazenamento:
+
+             a)  Armazenamento SSD mínimo de 1TB, podendo ser divido em dois pentes de
+            500GB cada.
+
+             4.  Interface:
+
+             a) O equipamento deverá possuir, de fábrica, no mínimo 05 (cinco) interfaces USB,
+              das quais pelo menos uma dessas portas deverá ser compatível com o padrão
+           USB 3.0 ou superior;
+             b)  Entrada para microfone e saída de áudio para headphones ou caixas acústicas
+              na parte frontal do gabinete.
+
+             5.  Dispositivos de áudio:
+
+             a)  Controladora de som integrada a placa mãe;
+             b)  Compatível com o padrão “High Definition Audio”.
+
+             6.  Fonte de alimentação:
+
+             a)  Fonte de alimentação para corrente alternada com tensões de entrada de
+               110/220 VAC, com ajuste automático,  suficiente para suportar todos os
+                 dispositivos internas na configuração máxima admitida pelo equipamento;
+             b)  Todos os cabos de alimentação necessários para o pleno funcionamento do
+              equipamento devem ser fornecidos.
+
+             7.  Teclado:
+
+             a) Do tipo USB, com cabo de no mínimo 1,5m (um metro e cinquenta centímetros;
+             b) O equipamento deverá funcionar corretamente quando o Sistema Operacional
+                  estiver configurado para o Teclado Brasileiro ABNT II;
+             c)  Possuir bloco numérico separado das demais teclas.
+
+             8.  Dispositivo Apontador (mouse):
+
+             a)  Utilizar tecnologia óptica;
+             b) Do tipo USB, em formato ergonômico e de conformação ambidestra, com botões
+               esquerdo, direito e central;
+             c)  Deverá ser fornecido um mousepad compatível com o uso de dispositivo
+               apontador ótico.
+
+             9.  Gabinete:
+
+             a)  Gabinete tipo COMPACTO, na qual comporte todo o equipamento;
+             b)  Possuir sistema de refrigeração em dimensões que garantam adequada
+                 refrigeração do processador e demais componentes internos ao gabinete;
+             c)  Cor predominante preta ou cinza.
+
+            10. Sistema Operacional:
+
+             a) Os equipamentos deverão ser fornecidos com licenças do Sistema Operacional
+                 Microsoft Windows 11 Professional 64 bits ou versão superior;
+             b) O sistema operacional deverá ser fornecido no idioma português BR, instalado
+              e em pleno funcionamento.
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+
+
+            11. Monitor:
+
+             a) Sem monitor;
+
+            12. Controladora de vídeo:
+
+             a)   Placa de vídeo onboard (integrada a placa mãe);
+
+            13. Placa-mãe/BIOS:
+
+             a)  Chipset deverá suportar velocidade do barramento de comunicação com o
+               processador na velocidade nominal máxima suportada pelo processador
+                 ofertado, não utilizando a funcionalidade de overclock;
+             b)  Chipset deverá suportar memória RAM do tipo DDR4 com frequência de 3.200
+           MHz ou superior, capaz de operar com dois canais simultâneos (Dual-Channel).
+
+            14. Requisitos complementares:
+
+             a) Os produtos a serem entregues deverão ser originais do fabricante, novos e em
+                  perfeito estado, acondicionado em embalagens que permitam sua proteção
+                contra impactos, arranhões, umidade e demais agentes que possam ocasionar
+               danos;
+             b)  Todos os dispositivos de hardwares fornecidos deverão ser compatíveis com o
+               sistema operacional requerido neste termo de referência;
+             c)  Todos os equipamentos ofertados devem possuir graduações neutros na cor
+                 preta ou cinza, afim de manter o mesmo padrão na cor preta predominante do
+                gabinete;
+             d) O equipamento e seus acessórios ofertados (marca e modelo) não podem estar
+           em processo de descontinuidade e não poderão ser descontinuados até 60
+                (sessenta) dias após a data de abertura do certame.
+
+
+        NOTEBOOK
+
+             1.  Tela:
+
+                 a)  Superior a 14 pol;
+
+             2.  Interatividade da tela:
+
+                 a) Sem interatividade;
+
+             3.  Memória RAM:
+
+                 a)  Mínimo de 64GB;
+ 04                                                                            UNID.      613321
+             4.  Núcleos por processador:
+
+                 a)  Mínimo de 14;
+
+             5.  Armazenamento SSD:
+
+                 a)  Mínimo de 1TB;
+
+             6.  Bateria:
+
+                 a)  Mínimo de 6 células;
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+
+
+             7.  Alimentação:
+
+                 a)  Bivolt automática;
+
+             8.  Sistema operacional:
+
+                 a)  Windows.
+
+
+          FONTE ALIMENTAÇÃO ININTERRUPTA
+
+             1.  Tipo:
+
+                 a)  Nobreak;
+
+             2.  Tensão entrada:
+
+                 a)  Bivolt automático 115 - 127/220 V;
+
+             3.  Frequência:
+
+                 a)  60 +/-5% HZ;
+
+             4.  Bateria: 05                                                                            UNID.      457902
+
+                 a)  2 baterias internas;
+
+             5.  Tensão bateria:
+
+                 a)  24V;
+
+             6.  Capacidade nominal:
+
+                 a)  1.5 KVA;
+
+             7.  Características adicionais:
+
+                 a)  Tomadas 2p+t
+
+
+      4.1.  De acordo com memória de cálculo e conforme anexo I deste termo de referência.
+      4.2.  Os licitantes ficam cientes de que, para fins de processamento da licitação em
+          ambiente  eletrônico, foram adotados os  itens com os códigos CATMAT mais
+          semelhantes aos descritos no Termo de Referência. No entanto é cediço que não
+           existem códigos idênticos às especificações dos itens listados acima. Dessa forma,
+          foram relacionados os itens com códigos CATMAT similares, ressalvando-se que, em
+          caso de divergência entre as descrições dos objetos existentes no edital e as
+             utilizadas pelo sistema Compras.gov, devem prevalecer as descrições dos objetos
+           estabelecidos no Edital e seus anexos.
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+  5. DOTAÇÃO ORÇAMENTÁRIA
+
+      5.1.  A despesa com o objeto presente será assegurada por conta de recursos que estarão
+              livres e não comprometidos, conforme dotação orçamentária vigente para o exercício
+          de 2024, pertinentes à Secretaria Municipal de Urbanismo, segundo dados abaixo:
+
+      PT: 21.001.15.126.0024.1076                    PT: 21.001.15.126.0024.1076
+         ND: 4.4.90.52.03.00                         ND: 4.4.90.52.30.00
+
+      5.2.   Declara-se, por oportuno, que a despesa com a efetivação do objeto em tela possui
+          adequação orçamentária e financeira com a Lei Orçamentária Anual e compatibilidade
+        com o Plano Plurianual e com a Lei de Diretrizes orçamentárias.
+
+  6. VALOR ESTIMADO
+
+      6.1.  O valor total para a aquisição, como também valores unitários dos bens descritos neste
+           processo está em conformidade com o Estudo Técnico Preliminar acostado aos autos
+          e a partir da pesquisa de preços a ser oportunamente realizada pelo Departamento de
+         Compras desta Municipalidade.
+
+
+           DESCRIÇÃO         UNID.   CATMAT  QUANT  VALOR UNIT.  VALOR TOTAL
+
+         KIT DE COMPUTADOR SEM
+  01   MONITOR, COM TECLADO E   UNID.    606229     06    R$ 15.160,67   R$ 90.964,02
+             MOUSE
+
+  02    MONITOR COMPUTADOR    UNID.    606908     22    R$ 3.807,92   R$ 83.774,24
+
+        KIT DE MICROCOMPUTADOR
+  03     SEM MONITOR, COM      UNID.    482392     10    R$ 3.956,60   R$ 39.566,00
+          TECLADO E MOUSE
+
+  04        NOTEBOOK          UNID.    613321     01    R$ 16.177,33   R$ 16.177,33
+
+         FONTE ALIMENTAÇÃO
+  05                            UNID.    457902     06    R$ 1.658,00    R$ 9.940,00             ININTERRUPTA
+
+       TOTAL DE ITENS                                    R$ 240.429,59
+
+
+
+  7. FUNDAMENTAÇÃO E DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO DO TERMO
+   DE REFERÊNCIA
+
+   7.1. A Fundamentação da Contratação e de seus quantitativos: Descrição da necessidade da
+        contratação, considerado o problema a ser resolvido sob a perspectiva do interesse
+        público. (inciso I do § 1° do art. 18 da Lei 14.133/2021 e art. 9°, inciso I da IN 58/2022).
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+   7.2. A Secretaria Municipal de Urbanismo, por meio do Setor de Projetos, pretende com esta
+       contratação proporcionar aos seus colaboradores um ambiente de trabalho bem equipado,
+       capaz de atender às necessidades dos funcionários e possibilitar precisão e detalhamento
+       nos projetos urbanísticos, tendo em vista a mudança para uma nova estrutura, ampliando
+        significativamente o espaço físico e incorporando novos cargos.
+
+   7.3. O objeto da contratação está previsto no Plano de Contratações Anual, conforme consta
+       das informações básicas desse termo de referência.
+
+         7.3.1. REQUISITOS DA CONTRATAÇÃO
+
+             Visando manter os níveis desta contratação dentro dos padrões adequados,
+                verifica-se a necessidade de estabelecer, no mínimo, as seguintes exigências:
+
+
+            7.3.1.1.  REQUISITOS DE NEGÓCIO DA SOLUÇÃO
+
+           A solução a ser adotada deverá ser capaz de disponibilizar melhor conforto aos
+                funcionários como também  proporcionar qualidade e bem-estar  dentro da
+              organização para melhor desempenho das demandas da secretaria.
+
+
+            7.3.1.2.  REQUISITOS LEGAIS DA SOLUÇÃO
+           A solução adotada neste documento deve orientar-se e respeitar as seguintes
+               normatizações:
+
+
+                                      I. Lei Federal nº 14.133/2021, que  trata das normas gerais sobre
+                             licitações e contratos administrativos;
+                                     II. Lei Complementar nº 123/2006, que estabelece normas gerais relativas
+                     ao  tratamento  diferenciado e  favorecido a  ser  dispensado  às
+                      microempresas e empresas de pequeno porte atualizada;
+                                    III. Decreto  Federal  nº  8.538/2015, que  regulamenta o  tratamento
+                          favorecido, diferenciado e simplificado para microempresas, empresas
+                     de pequeno porte, agricultores familiares, produtores rurais pessoa
+                                física, microempreendedores individuais e sociedades cooperativas
+                      nas contratações públicas de bens, serviços e obras no âmbito da
+                         administração pública federal;
+                        IV. Instrução Normativa SEGES/ME nº 40/2020, que dispõe sobre a
+                        elaboração dos Estudos Técnicos Preliminares - ETP - para a aquisição
+                     de bens e a  contratação de  serviços e  obras, no  âmbito da
+                        Administração Pública federal direta, autárquica e fundacional, e sobre
+                     o Sistema ETP digital
+                      V. Instrução Normativa SLTI/MP nº 01/2010, que dispõe sobre os critérios
+                     de sustentabilidade ambiental na aquisição de bens, contratação de
+                          serviços ou obras;
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+            7.3.1.3.  REQUISITOS GERAIS DA SOLUÇÃO
+
+           Também são requisitos relevantes a serem exigidos das empresas, no mínimo,
+             os abaixo relacionados:
+
+                                      I. Aderência aos termos do instrumento convocatório da contratação e às
+                          legislações federal, estadual, municipal e normatizações relacionadas
+                          vigentes;
+                                     II. Compromisso com a redução do impacto ambiental negativo e com a
+                        proteção ao meio natural e antrópico;
+                                    III. Comprometimento com o uso de produtos certificados e que não
+                     contenham potencial agressivo e prejudicial às pessoas, a animais, ao
+                      meio ambiente e ao patrimônio;
+                        IV. Aderência às normas técnicas em geral, em especial as relacionadas
+                   com saúde operacional e segurança do trabalho;
+                      V. Compromisso com o bem-estar, progresso profissional e pessoal de
+                      seus colaboradores;
+                        VI. Combate ao trabalho infantil ilegal e ao trabalho escravo e análogo a
+                         escravo;
+                          VII. Adoção de requisitos que não limitem a competição e não deixe a
+                      Unidade Requisitante dependente da Contratada;
+                          VIII. Garantia da prevalência dos princípios de legalidade, impessoalidade,
+                         moralidade,   isonomia,   publicidade,   probidade   administrativa,
+                        julgamento objetivo e vinculação ao instrumento convocatório em todo
+                     o processo licitatório.
+
+            7.3.1.4.  REQUISITOS TEMPORAIS
+
+                7.3.1.4.1. O objeto deverá ser fornecido, no prazo máximo de 15 (quinze) dias
+                          corridos, a contar da efetiva ciência quanto à ordem para entrega do
+                 mesmo (emitida pelo Secretário da Pasta), somente será aceito se
+                       atender a todas as especificações técnicas estabelecidas no Termo de
+                        Referência.
+                7.3.1.4.2. O Contrato deverá ter validade de 12 (doze) meses a contar, da data da
+                         primeira ordem de entrega do objeto em tela.
+
+
+            7.3.1.5.  REQUISITOS AMBIENTAIS
+
+                7.3.1.5.1. A  Contratada  deverá   cumprir  as   orientações  da   Instrução
+                      Normativa/SLTI-MP,  referente  aos   critérios  de  Sustentabilidade
+                        Ambiental, em seus artigos 5º e 6º, no que couber.
+                7.3.1.5.2. Serão incluídas como obrigação da Contratada critérios e práticas de
+                         sustentabilidade a serem veiculados como especificação técnica do
+                          objeto, (Instrução Normativa nº 01 de 19 de janeiro de 2010);
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+                7.3.1.5.3. No caso de descarte e destinação ambientalmente adequada dos
+                           inservíveis, eventualmente utilizados e/ou substituídos na aquisição do
+                          objeto, a  contratada  deverá  proceder ao  descarte e  destinação
+                      ecologicamente correta.
+                7.3.1.5.4. A destinação final será responsabilidade da Contratada e deverá ser
+                         realizada de acordo com a Lei nº 12.305/2010 e o Decreto nº 7.404/2010.
+
+
+                7.3.1.5.5. A contratada deverá receber da Secretaria de Urbanismo os objetos
+                           inservíveis, para repasse aos respectivos fabricantes ou importadores, a
+                         fim de garantir a sua reutilização ou descarte sustentável, nos termos da
+                         Lei nº 12.305/2010;
+                7.3.1.5.6. Todos os custos referentes ao recebimento de inservíveis, tais como
+                          coleta, transporte, recebimento e manuseio, correrão por conta da
+                         contratada.
+                7.3.1.5.7. Caberá à Contratada apresentar todos os certificados de licença de
+                      funcionamento ou de autorização especial, emitido pelos órgãos ou
+                       entidades competentes, necessários para a execução do objeto, bem
+                  como atender a todas as demais legislações pertinentes.
+
+  8. DESCRIÇÃO DA SOLUÇÃO COMO UM TODO CONSIDERADO O CICLO DE VIDA DO
+   OBJETO E ESPECIFICAÇÃO DO PRODUTO
+
+      8.1.  A descrição da solução como um todo, inclusive das exigências relacionadas à
+          manutenção e à assistência técnica, quando for o caso. (inciso VII do § 1° do art. 18
+          da Lei 14.133/21 e art. 9°, inciso IV da IN 58/2022).
+      8.2.  Os equipamentos a serem adquiridos deverão ser entregues nos locais conforme este
+         Termo de referência, no dia e horário programados pela Secretaria de Urbanismo,
+          podendo ser alterado pela mesma, desde que comunicado à empresa contratada nos
+           prazos estipulados no Termo de Referência ou outro documento similar.
+      8.3.  Caso a empresa contratada não se apresente na data determinada para a entrega e
+          não apresente a devida justificativa será aplicada, conforme o caso, as sanções
+            previstas na Lei 14.133/2021 e suas correlatas, bem como as demais normas
+            cabíveis.
+      8.4.  Todas as despesas com o carregamento, transporte, descarregamento e entrega
+           correrão por conta da empresa contratada.
+      8.5.   Histórico de ajustes nas especificações: Não se verifica a necessidade de alterações
+          nas especificações dos materiais a serem registrados em relação às contratações
+            anteriores. O quadro com especificações detalhadas dos materiais constará no
+        mesmo que indicar os quantitativos e valores, no capítulo que trata de estimativas de
+             valor.
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+  9. FORMA E CRITÉRIO DE SELEÇÃO DO FORNECEDOR E FORMA DE FORNECIMENTO
+
+      9.1.  O fornecedor será selecionado por meio de contratação direta, na modalidade de
+       PREGÃO sob a forma ELETRÔNICA, com adoção de critério de julgamento pelo
+       MENOR PREÇO POR ITEM.
+      9.2.  Fundamentação: Justificativas para o parcelamento ou não da solução. (inciso VIII do
+          § 1° do art. 18 da Lei 14.133/21 e art. 9°, inciso VII da IN 58/2022).
+      9.3.  Não foram divididos em grupos para evitar a incompatibilidade dos itens 12 e 13.
+
+
+  10. EXIGÊNCIAS DE HABILITAÇÃO
+
+     10.1. Para fins de habilitação, deverá o licitante comprovar os requisitos a serem definidos
+          na elaboração do edital.
+     10.2. Os atestados de capacidade técnica podem ser apresentados em nome da matriz ou
+          da filial da empresa licitante.
+     10.3. Na fase de habilitação deverá ser apresentado documento do fabricante escrito para
+           este edital com o partnumber e modelo do equipamento ofertado comprovando a
+            garantia;
+     10.4. Comprovação de que o licitante fornece ou forneceu, sem restrições, serviço/produto
+             similar ao objeto do presente termo de referência será feita por meio de apresentação
+           de, no mínimo, 01 (um) atestado de capacidade técnica, fornecido por Órgão da
+           Administração Pública ou Entidade Privada, devidamente assinado, carimbado e em
+           papel timbrado da empresa ou órgão tomador.
+
+
+  11. DA APRESENTAÇÃO DA PROPOSTA
+
+     11.1. É obrigatória a comprovação técnica de todas as características exigidas para os
+          equipamentos aqui solicitados, independente da descrição da proposta do fornecedor,
+           através  de  documentos  que  sejam  de  domínio  público  cuja  origem  seja
+           exclusivamente do fabricante dos produtos, como catálogos, manuais, ficha de
+           especificação técnica, informações obtidas em sites oficiais do fabricante através da
+             internet, indicando as respectivas URL (Uniform Resource Locator), não sendo aceitas
+           declarações do fornecedor como comprovação das exigências.
+
+  12. CONDIÇÕES DE EXECUÇÃO
+
+     12.1. Deverão ser informados todos os itens que compõe o produto ofertado, incluindo
+            acessórios, software e garantia, com os respectivos modelos, códigos do fabricante
+           (partnumbers), descrição e quantidades;
+     12.2. No preço da aquisição dos bens, deverão estar embutidos, todos os custos referentes
+          ao deslocamento até o local de entrega, manutenção, seguros, taxas e impostos.
+     12.3. A empresa responsável pelo fornecimento dos bens em tela, será responsável por
+           todos os prejuízos que possa causar ao Município, decorrentes de negligências do
+          não atendimento das nossas solicitações no prazo estabelecido, neste caso em
+           multas a serem aplicadas conforme as legislações vigentes.
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+     12.4. Os bens a serem disponibilizado e especificado no item 4 (quatro) deste Termo de
+           Referência, deverão estar em perfeitas condições de utilização. No caso de mal
+          execução, quanto sua manipulação, a Contratada deverá providenciar imediata
+            substituição, sem qualquer custo adicional dentro do período de garantia do(s)
+            produto(s).
+     12.5. A penalidade pelo não atendimento da solicitação feita por esta Prefeitura com relação
+          a possíveis imperfeições dos bens contratados, no prazo de 24 (vinte e quatro) horas,
+            implicará em uma multa na forma estabelecida no contrato.
+     12.6. Os itens especificados neste termo, deverão ser fornecidos a esta Municipalidade de
+          forma integral e imediata no período de 15 (quinze) dias corridos, após a assinatura
+          da Ordem de entrega a ser oportunamente expedida pela Secretaria requisitante.
+     12.7. Prazo mínimo de 60 dias de validade para as propostas comerciais, compatível com
+          a duração do certame (Lei nº 14.133/2021, art. 90, § 3º; Orientação Normativa
+        SEGES/MPOG nº 02/2016, Anexo I, item 14).
+
+  13. CONDIÇÕES DE GARANTIA
+
+     13.1. A garantia dos produtos especificado neste Termo de Referência deverá ser de no
+          mínimo de 12 meses, a contar da data da emissão da nota fiscal dos produtos. Sendo
+           assim, durante o período especificado, a empresa é obrigado a reparar, corrigir,
+           remover, reconstruir ou substituir, às suas expensas, no total ou em parte, o objeto do
+            contrato em que se verificarem defeitos ou incorreções resultantes da execução ou de
+            materiais empregados.
+     13.2. Todos os custos com as eventuais substituições contra qualquer não conformidade
+          da funcionalidade dos produtos, ocorrerão por conta da Contratada, durante o período
+          de garantia.
+     13.3. Caso não tenha sido possível o reparo dentro do prazo estipulado no item anterior, o
+           fornecedor deverá providenciar a substituição do produto em até 07 (sete) dias úteis.
+     13.4. O prazo para as manutenções do produto não deverá exceder 07 (sete) dias úteis.
+     13.5. As condições de garantia dos produtos objeto deste Termo de Referência devem
+           observar, no que couber, as disposições da Lei Federal nº 8.078, de 11 de setembro
+         de 1990 (Código de Defesa do Consumidor).
+     13.6. Consideraremos como início do prazo de garantia a data da emissão da nota fiscal
+             relativa aos bens  entregues, desde que  aceito  pela  Secretaria  Municipal de
+          Urbanismo.
+     13.7. Caso algum dos produtos entregues apresente alguma contradição com o que foi
+             solicitado neste Termo de Referência ou algum defeito de fabricação, a empresa
+          deverá providenciar a troca/substituição do mesmo em até 48 (quarenta e oito) horas.
+
+  14. DA LIQUIDAÇÃO E DO PAGAMENTO
+
+     14.1. A empresa deverá apresentar após o fornecimento dos bens, mediante entrega na
+            Secretaria Municipal de Urbanismo a(s) nota(s) fiscal(is)/fatura(s), emitida(s) para fins
+          de  protocolização,  liquidação  e  pagamento,  acompanhada(s)  dos  seguintes
+          documentos:
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+            14.1.1. Certidão Negativa de Débitos com a União – CND, referente às contribuições
+                    previdenciárias e às de terceiros.
+            14.1.2. Autenticação da Certidão Negativa de Débitos com a União – CND.
+            14.1.3. Certificado de Regularidade de Situação do FGTS.
+            14.1.4. Certidão  Negativa  de  Débitos  Trabalhistas  (CNDT),  demonstrando  a
+                    inexistência de débitos perante a Justiça do Trabalho.
+
+
+     14.2. O pagamento será efetuado pela Secretaria em até 30 (trinta) dias corridos, contados
+          da  data  de  emissão  da  nota  fiscal/fatura  e  dos  respectivos  documentos
+           comprobatórios, citados acima, mediante ordem bancária, emitida através do Banco
+           indicado pelo fornecedor, creditada em conta corrente da empresa contratada.
+     14.3. Nenhum pagamento será efetuado à empresa, na pendência de qualquer uma das
+           situações especificadas acima.
+     14.4. Os documentos discriminados nos subitens 13.1.1. a 13.1.4. devem estar com
+           validade vigente, caso contrário, o pagamento ficará retido até a apresentação de
+          novos documentos, dentro do prazo de validade, não cabendo à Secretaria Municipal
+          de Urbanismo, nenhuma responsabilidade sobre o atraso no pagamento;
+     14.5.  Decorridos 30 (trinta) dias contados da data em que os pagamentos estiverem retidos,
+        sem que a empresa apresente a documentação hábil para liberação dos seus créditos,
+          o Contrato poderá ser rescindido unilateralmente pela Secretaria Municipal de
+          Urbanismo.
+
+  15. MODO / PRAZO / LOCAL DE ENTREGA
+
+     15.1. O objeto deverá ser fornecido, no prazo máximo de 15 (quinze) dias corridos, a contar
+          da efetiva ciência quanto à ordem para entrega do mesmo (emitida pelo Secretário da
+            Pasta), somente  será  aceito se  atender a  todas as  especificações  técnicas
+           estabelecidas no item 4 (quatro) do presente Termo de Referência.
+     15.2. Nesse prazo, a Contratada deverá enviar os bens contratados, conforme as condições
+            definidas neste Termo de Referência.
+     15.3. Devidamente justificado e antes de finalizado o prazo de entrega, o fornecedor do
+           produto poderá solicitar prorrogação da entrega, ficando a cargo da área demandante
+            aceitar a solicitação, desde que não haja prejuízo no abastecimento da rede.
+     15.4. Em caso de não observância do prazo para a entrega dos produtos, falta do(s)
+            produto(s), casos fortuitos ou de força maior, a Contratada deverá providenciar
+            alternativas de fornecimento dos produtos nas mesmas condições acordadas, no
+           prazo máximo de 48 (quarenta e oito) horas, após o recebimento da formalização de
+           descontinuidade dos itens emitida pela Contratante, sob pena de sofrer as sanções
+            previstas no contrato administrativo e na legislação legal.
+     15.5. O lugar de entrega dos bens será sempre determinado conforme solicitado pela
+            Secretaria de Urbanismo. A partir da assinatura do contrato e da expedição da ordem
+          de entrega será estipulada de acordo com a solicitação da secretaria detentora do
+            contrato.
+     15.6. A partir da assinatura do contrato e da expedição da ordem de entrega, a entrega dos
+          bens será de forma integral e imediata no período de 15 (quinze) dias corridos.
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+     15.7. A empresa deverá estar rigorosamente em acordo com as normas legais, com
+           produtos no prazo de validade e conforme especificações deste Termo. Caso contrário
+          a empresa ficará responsável pela troca do(s) produto(s) em um prazo máximo de 48
+           (quarenta e oito) horas.
+
+  16. RECEBIMENTO/ACEITAÇÃO DO BENS
+
+     16.1. O objeto contratado, terá o aceite provisório de entrega de forma que a fiscalização
+           responsável do contrato, analise minunciosamente a procedência de cada produto
+           entregue,  para  efeito de  posterior  verificação de sua  conformidade com as
+            especificações. A verificação da conformidade correrá no prazo de 3 (três) dias úteis,
+          contados a partir do recebimento provisório, após análise, caso os itens estejam em
+         ordem com o que foi solicitado neste Termo de Referência (item 4) o fiscal aceitará os
+        mesmos de forma  definitiva, caso contrário, o recebimento do(s) bem(ns) será
+            rejeitado e a empresa deverá se responsabilizar pelo não cumprimento do que foi
+           especificado neste Termo.
+     16.2. Caberá ao gestor do contrato e, nos seus afastamentos e seus impedimentos legais
+             realizar o recebimento definitivo do objeto do contrato, mediante termo detalhado que
+          comprove o atendimento das exigências contratuais;
+     16.3. O recebimento provisório ficará a cargo dos fiscais técnico, administrativo ou setorial
+          e o recebimento definitivo, do gestor do contrato ou da comissão designada pela
+           autoridade competente.
+     16.4. Todas as condições de recebimento Provisório/Definitivo ou não dos bens pretendidos
+           observarão o previsto na Lei Federal nº 14.133/21.
+     16.5. O recebimento definitivo dos bens em tela, não exclui a responsabilidade da empresa
+          quanto aos vícios ocultos, ou seja, só manifestados quando da sua normal utilização
+           pela Secretaria Municipal de Urbanismo, nos termos do Código de Defesa do
+          Consumidor (Lei nº 8.078/90).
+     16.6. Se houver erro na nota fiscal/fatura, ou qualquer outra circunstância que desaprove o
+           recebimento definitivo, o mesmo ficará pendente e o pagamento suspenso, não
+          podendo a empresa  deixar de  fornecer  o(s) bem(ns) em  tela, até sanar as
+            irregularidades.
+     16.7.  Durante o período em que o recebimento definitivo estiver pendente e o pagamento
+          suspenso por culpa da empresa, não  incidirá sobre a Secretaria Municipal de
+          Urbanismo qualquer ônus, inclusive financeiro.
+     16.8. Os itens serão entregues na nova sede da Secretaria de Urbanismo localizada à Rua
+           Frutuoso de Oliveira, nª 70 – Centro, Saquarema, de segunda à sexta-feira de 9h às
+           16:30 de forma  integral onde  já serão alocados em  local de uso  definitivo e
+          devidamente patrimoniados pelo setor responsável.
+     16.9. É dever da Administração zelar pela preservação dos bens adquiridos, adotando
+           condições adequadas de guarda e armazenamento que evitem sua deterioração.
+
+  17. OBRIGAÇÕES DA CONTRATANTE
+
+     17.1. Receber o objeto no prazo e condições estabelecidas no Termo de Referência.
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+     17.2.  Verificar minuciosamente, no prazo  fixado, a conformidade dos bens com as
+           especificações constantes no Termo de Referência e da proposta, para fins de
+           aceitação do objeto em tela.
+     17.3. Comunicar à Contratada, por escrito, sobre imperfeições, falhas ou irregularidades
+            verificadas no objeto fornecido, para que seja substituído, reparado ou corrigido.
+     17.4. Acompanhar e fiscalizar o cumprimento das obrigações da Contratada, através de
+           comissão/servidor especialmente designado.
+     17.5.  Efetuar o pagamento à Contratada no valor correspondente ao fornecimento do
+            objeto, no prazo e forma estabelecidos no Termo de Referência.
+     17.6.  Fornecer à Contratada a relação de servidores e unidades autorizadas a acompanhar
+          e fiscalizar a execução do contrato e atestar os relatórios de visita, quando necessário.
+     17.7. A Administração não responderá por quaisquer compromissos assumidos pela
+           Contratada com  terceiros,  ainda que  vinculados à  execução do  objeto do
+           fornecimento, bem como por qualquer dano causado a terceiros em decorrência de
+           ato da Contratada, de seus funcionários, prepostos ou subordinados.
+     17.8.  Exigir o cumprimento de todas as obrigações assumidas pela Contratada, de acordo
+        com as cláusulas contratuais e os termos de sua proposta.
+     17.9.  Verificar se os bens recebidos estão de acordo com as especificações constantes no
+           item 4 (quatro) deste Termo de Referência e demais condições estabelecidas.
+     17.10. Empenhar, para cumprimento do Contrato, os recursos orçamentários necessários ao
+          pagamento.
+     17.11. Efetuar a inspeção padrão do(s) bem(ns), quando forem entregues, com vista à
+            verificação de sua adequação às condições e especificações pactuadas neste Termo
+          de Referência.
+     17.12. Comunicar prontamente a Contratada, qualquer anormalidade no objeto do Contrato,
+          podendo recusar o recebimento, caso não esteja de acordo com as especificações e
+           condições estabelecidas neste Termo de Referência.
+     17.13. Notificar previamente o Contratada, quando da aplicação de penalidades.
+     17.14. Reservar à fiscalização o direito e a autoridade para resolver todo e qualquer caso
+             singular, omisso ou duvidoso não previsto no presente Termo de Referência e todo o
+          mais que se relacione com a futura execução contratual, desde que não acarrete ônus
+           para a Prefeitura Municipal de Saquarema ou modificação das obrigações.
+
+
+  18. OBRIGAÇÕES DA CONTRATADA
+
+
+     18.1.  Fornecer os produtos no local de entrega previsto (Rua Frutuoso de Oliveira nº 70 –
+         Saquarema – Centro), acompanhados do(s) correspondente(s) termo(s) de garantia
+          e assistência técnica.
+     18.2. Promover por sua conta, através de seguros, a cobertura dos riscos a que se julgar
+           exposta, em vista das responsabilidades que lhe cabem na execução do objeto do
+              edital.
+     18.3.  Credenciar  junto  ao ÓRGÃO CONTRATANTE  funcionário  que  atenderá  às
+            requisições efetuadas pelo gestor da contratação.
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+     18.4. A Contratada deve cumprir todas as obrigações constantes no Termo de Referência
+          honrando sua proposta e assumindo como exclusivamente seus, os riscos e as
+          despesas decorrentes da boa e perfeita condição dos bens entregues.
+     18.5.  Atender à entrega do(s) bem(ns) contratado(s), conforme especificações e prazos
+           estabelecidos no Termo de Referência e local contido na solicitação.
+     18.6. Comunicar à Contratante, no prazo máximo de 48 (quarenta oito) horas que antecede
+          a data de atendimento à solicitação, os motivos que impossibilitem o cumprimento do
+           prazo previsto, com a devida comprovação.
+     18.7.  Ressarcir a Administração Pública do equivalente a todos os danos decorrentes de
+           paralisação ou interrupção do fornecimento do objeto contratual, exceto quando isso
+            ocorrer por exigência da Contratante ou ainda por caso fortuito ou força maior,
+            circunstâncias devidamente comunicadas à contratante no prazo de 48 (quarenta e
+             oito horas), após a sua ocorrência.
+     18.8.  Responsabilizar-se por todos e quaisquer danos e/ou prejuízos que vier a causar à
+           Contratante ou a terceiros, tendo como agente a Contratada, na pessoa de prepostos
+          ou estranhos.
+     18.9.  Observar para que o transporte seja ele de que tipo for, obedeçam às normas
+          adequadas relativas às: embalagens, volumes, etc.
+     18.10. Observar rigorosamente todas as especificações técnicas, gerais, descritas no Termo
+          de Referência (item 4 (quatro)).
+     18.11. Responsabilizar-se por todas as providências, cautelas e obrigações estabelecidas na
+            legislação específica de acidente de trabalho, quando, em ocorrências da espécie,
+          forem vítimas seus funcionários ou prepostos durante o processo de entrega dos
+           bens, ainda que verificado o acidente em dependências da Contratante.
+     18.12. Responsabilizar-se por quaisquer multas ou despesas de qualquer natureza impostas
+          à Contratante em decorrência de descumprimento de qualquer cláusula ou condição
+           deste contrato, dispositivo legal ou regulamento, por sua parte.
+     18.13. Manter, durante toda a execução do contrato, em compatibilidade com as obrigações
+           assumidas, todas as condições de habilitação e qualificação exigidas na licitação.
+     18.14. Indicar preposto para representa-la durante a execução do contrato.
+     18.15. Criar ou informar um e-mail oficial para comunicação com a Contratante, afim de
+             registrar solicitações, prazo e possíveis imprevistos no atendimento.
+     18.16. Atender às solicitações da Contratante em até 24 (vinte e quatro) horas após
+             solicitação formal da mesma.
+     18.17. Fornecer os bens deste Termo de acordo com à solicitação da ordem de entrega,
+          atendendo as necessidades da Contratante, a qual servirá de subsídio para emissão
+          da nota fiscal.
+     18.18. Fornecer, sempre que solicitados, documentos que comprovem a manutenção das
+           condições de capacitação exigidas para a contratação.
+     18.19. A Contratada é obrigada a reparar, corrigir, remover, reconstruir ou substituir, às suas
+          expensas, no total ou em parte, o objeto do contrato em que se verificarem vícios,
+            defeitos ou incorreções resultantes da execução ou de materiais empregados.
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+     18.20. Ser o único, integral e exclusivo responsável, em qualquer caso, por todos os danos
+          e prejuízos de qualquer natureza que causar à Prefeitura Municipal de Saquarema ou
+          a terceiros, provenientes do fornecimento dos bens contratado, respondendo por si e
+           por  seus  sucessores, não  excluindo ou  reduzindo  essa  responsabilidade a
+            fiscalização ou acompanhamento do Poder Público contratante.
+     18.21. Fornecer os bens em tela rigorosamente no prazo pactuado, mediante requisição da
+         ordem início de entrega do(s) bem(ns), cumprindo com todas as demais obrigações
+           impostas pelo presente Termo de Referência e pela legislação aplicável.
+     18.22. Manter, durante a futura execução contratual, quando for o caso, as condições de
+            habilitação e qualificação exigidas em eventual edital em compatibilidade com as
+           obrigações assumidas.
+     18.23. Promover por sua conta a cobertura, através de seguros, dos riscos a que se julgar
+           exposta em vista das responsabilidades que lhe cabem na execução deste Termo de
+           Referência.
+     18.24. Prestar todo e qualquer esclarecimento ou informação solicitada pela fiscalização da
+            Prefeitura Municipal de Saquarema.
+     18.25. Comunicar, imediatamente, à fiscalização da Prefeitura Municipal de Saquarema
+           qualquer ocorrência anormal durante a execução contratual.
+     18.26. Atender às medidas técnicas e administrativas determinadas pela fiscalização da
+            Prefeitura Municipal de Saquarema.
+     18.27. Responder por quaisquer danos causados diretamente ao CONTRATANTE ou a
+             terceiros, decorrentes de sua culpa ou dolo na execução do contrato, não excluindo
+          ou reduzindo essa responsabilidade a fiscalização ou o acompanhamento pelo órgão
+            interessado, nos termos do art. 120 da Lei no 14.133/2021;
+
+  19. DA SUBCONTRATAÇÃO
+
+     19.1. Não será admitida a subcontratação do objeto em questão.
+
+
+  20. GESTÃO E FISCALIZAÇÃO DO CONTRATO
+
+     20.1. O Contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas
+          avençadas e as normas da Lei Federal nº 14.133/2021, e cada parte responderá pelas
+          consequências de sua inexecução total ou parcial.
+     20.2. A execução do Contrato deverá ser acompanhada e fiscalizada pelos fiscais do
+            Contrato, ou pelos respectivos substitutos, conforme estipulado no art. 117, da Lei
+           Federal nº 14.133/2021.
+     20.3. Os fiscais do Contrato acompanharão a execução do Contrato, para que sejam
+          cumpridas todas as condições estabelecidas no Contrato, de modo a assegurar os
+          melhores resultados para a Administração Pública. De acordo com o Decreto
+           Municipal 2.722 de 10 de janeiro de 2024, que regulamenta o art. 8º, § 3º da Lei
+           Federal 14.133 de 1º de abril de 2021, temos que, o art. 18 do referido Decreto efetua
+          as definições dos fiscais de Contrato para processos instruídos na nova Lei de
+            Licitações e Contratos as quais seguem:
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+         20.3.1. Gestão de Contrato: A coordenação das atividades relacionadas à fiscalização
+                técnica, administrativa e setorial e dos atos preparatórios à instrução processual
+             e ao encaminhamento da documentação pertinente ao setor de Contratos para a
+               formalização dos  procedimentos  relativos à  prorrogação, à  alteração, ao
+                  reequilíbrio, ao pagamento, à eventual aplicação de sanções e à extinção dos
+               Contratos, entre outros;
+         20.3.2. Fiscalização Técnica: O acompanhamento do Contrato com o objetivo de avaliar
+             a execução do objeto nos moldes contratados e  aferir se a quantidade, a
+               qualidade, o tempo e o modo da prestação ou da execução do objeto estão
+               compatíveis com os indicadores estabelecidos no edital, para fins de pagamento,
+              conforme o resultado pretendido pela administração, com o eventual auxílio da
+                fiscalização administrativa;
+         20.3.3. Fiscalização Administrativa: O acompanhamento dos aspectos administrativos
+                contratuais quanto às obrigações previdenciárias, fiscais e trabalhistas e quanto
+             ao controle do Contrato administrativo no que se refere a revisões, a reajustes, a
+              repactuações e a providências tempestivas nas hipóteses de inadimplemento;
+         20.3.4. Fiscalização Setorial: O acompanhamento da execução do Contrato nos aspectos
+               técnicos  ou   administrativos  quando  a  prestação  do   objeto   ocorrer
+              concomitantemente em setores distintos ou em unidades desconcentradas de um
+              órgão ou uma entidade.
+     20.4. Os fiscais do Contrato anotarão no histórico de gerenciamento do Contrato todas as
+           ocorrências relacionadas à execução do Contrato, com a descrição do que for
+           necessário para a regularização das faltas ou das falhas observadas.
+     20.5.  Identificada qualquer inexatidão ou irregularidade, os fiscais do Contrato emitirão
+            notificações para a correção da execução do Contrato, determinando prazo para as
+            referidas correções.
+     20.6. Os fiscais do Contrato informarão ao Gestor do contato, em tempo hábil, a situação
+          que demandar decisão ou adoção de medidas que ultrapassem sua competência,
+           para que adote as medidas necessárias e saneadoras.
+     20.7. No caso de ocorrências que possam inviabilizar a execução do Contrato nas datas
+           aprazadas, os fiscais do Contrato comunicarão o fato imediatamente ao Gestor do
+            Contrato.
+     20.8. Em caso de impedimento, ordem de paralisação ou suspensão do Contrato, o
+          cronograma  de  execução  será  prorrogado  automaticamente  pelo  tempo
+           correspondente, anotadas tais circunstâncias mediante simples apostila.
+     20.9. Após a assinatura do Contrato ou instrumento equivalente, a Contratante convocará
+          o representante da Contratada para reunião inicial, a fim de apresentar o plano de
+             fiscalização, que conterá informações acerca das obrigações  contratuais, dos
+         mecanismos de fiscalização, das estratégias para execução do objeto, do plano
+          complementar de execução da Contratada, quando houver, do método de aferição
+          dos resultados e das sanções aplicáveis, dentre outros (IN 5/2017, art. 44, 31º).
+     20.10. A Contratada deverá apresentar, para fins de fiscalização do faturamento mensal e
+          pagamento, a documentação  apta a comprovar a  regularidade  trabalhista e
+            previdenciária dos empregados disponibilizados para a execução dos serviços
+          apresentando minimamente registro de ponto, recibo de pagamento de salários
+            adicionais, horas extras, repouso semanal, remunerado e décimo terceiro salário,
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+            recibo de concessão e pagamento de férias e do respectivo adicional, recibo de
+           quitação de obrigações trabalhistas e previdenciárias dos empregados dispensados
+           até a data da extinção do Contrato, recibo de pagamento de vale-transporte e vale
+           alimentação na forma prevista em norma coletiva, e ainda quando solicitado:
+        20.10.1. Relação de Empregados alocados no Contrato (constando informação de
+             mudança de categoria, alteração reserva/efetivo, admissões, desligamentos,
+                   férias e eventuais substituições).
+        20.10.2. Folha de Pagamento Analítica, referente ao mês dos serviços faturados, na qual
+              constem todos os empregados que atuaram nos equipamentos públicos, mesmo
+              que transitoriamente, em substituição à mão de obra faltante, juntamente com o
+               comprovante de pagamento, em arquivo único.
+        20.10.3. No mês em que houver pagamento de alguma parcela referente ao 13º salário,
+              a Contratada deverá apresentar, na fatura do mês seguinte, também a folha de
+              pagamento  do  benefício  acompanhada  do  respectivo  comprovante  de
+              pagamento.
+        20.10.4. Guia de Recolhimento do FGTS e Informações à Previdência Social - GFIP (RE
+             + RET), referente ao mês dos serviços faturados, representada e acompanhada
+                pela seguinte documentação, em arquivo único.
+
+            20.10.4.1. Cópia do Protocolo de Envio de Arquivos, emitido pela Conectividade
+                       Social,  cujo Número  Referencial do  Arquivo (NRA) corresponda ao
+                   conteúdo do campo “Nº Arquivo” dos relatórios gerados no fechamento do
+                   movimento, com a finalidade de garantir que tais relatórios se refiram ao
+                     protocolo de envio.
+            20.10.4.2. Cópia da Relação dos Trabalhadores Constantes no Arquivo SEFIP – RE
+                 que  conste  todos os empregados que  prestaram  serviço,  inclusive
+                       substitutos.
+            20.10.4.3. Cópia da Relação de Tomadores/Obras – RET, do resumo da empresa e
+                 de eventuais tomadores em que constem trabalhadores que atuaram como
+                       substituto no mês de competência.
+            20.10.4.4. Cópia do Resumo das Informações à Previdência Social Constantes no
+                    Arquivo SEFIP – Tomador/Obra.
+            20.10.4.5. A Contratante, a qualquer tempo, poderá solicitar à empresa a comprovação
+                 da situação individualizada, por empregado, dos depósitos referentes ao
+               FGTS  e  dos  recolhimentos  das  contribuições  previdenciárias  dos
+                  empregados.
+
+     20.11. Protocolo de Envio de Arquivos, emitido pela Conectividade Social, cujo Número
+            Referencial do Arquivo (NRA) corresponda ao conteúdo do campo “Nº Arquivo” dos
+             relatórios gerados no fechamento do movimento, com a finalidade de garantir que tais
+             relatórios se refiram ao protocolo de envio.
+     20.12. Guia de Recolhimento do FGTS (GRF)  digital, com autenticação mecânica ou
+         acompanhada do comprovante de recolhimento bancário ou do comprovante emitido
+          quando o recolhimento for efetuado pela internet, Relatório Analítico da GRF; DARF -
+          Guia e comprovante de pagamento; Comprovante de declaração das contribuições a
+            recolher à Previdência Social (rubrica); DCTFWeb (extraído do eSocial) contendo, no
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+          mínimo: Relatório da declaração completa e Recibo de entrega da declaração (em
+          caso de DCTFweb  retificadora, dispensa-se o envio da declaração  original)  -
+           Apresentar todos os documentos deste item em arquivo único.
+        20.12.1. A vinculação da GRF com a GFIP encaminhada será verificada a partir da
+                verossimilhança do código de barras da Guia de Recolhimento do FGTS e
+               daquele contido nas páginas componentes do arquivo GFIP/SEFIP.
+        20.12.2. Quando houver  retificação ou  exclusão, encaminhar o Comprovante de
+                 Solicitação de Retificação/Exclusão.
+        20.12.3. Encaminhar a declaração PER/DECOMP em caso de compensação/restituição
+                pela DCTFWeb. Em caso de restar saldo a recolher, deve ser encaminhado
+               juntamente a Guia DARF e respectivo comprovante de pagamento.
+        20.12.4. Juntamente com a documentação de faturamento  referente aos  serviços
+                prestados no mês de janeiro de cada ano, a Contratada deverá apresentar a
+              Guia de Recolhimento do FGTS e Informação à Previdência Social (GFIP) da
+               competência  13  do  ano  anterior,  representada  e  acompanhada  pela
+              documentação descrita no inciso acima.
+        20.12.5. Documentos  relacionados ao  vale  alimentação  (relação de empregados
+                  beneficiários,  fatura,  comprovante  de  pagamento,  recibo  assinado  pelo
+                colaborador contendo data, valor total e valor diário) de todos os empregados
+              que  atuaram na  execução  contatual, mesmo que  transitoriamente, em
+                 substituição à mão de obra faltante, referente ao mês seguinte ao faturado na
+                nota fiscal em arquivo único.
+        20.12.6. A relação ou o documento deve estar organizado alfabeticamente e mencionar
+              a data em que foi efetivado o recebimento desses benefícios, o período a que
+               corresponde o uso e os valores percebidos.
+     20.13. Documentos  relacionados ao  vale  transporte, em  arquivo  único  (relação de
+          empregados contendo o valor da passagem, quantidade, opção de integração, data
+          de deposito no cartão, observações em caso de falta, perda do cartão, saldo; extrato
+          de benefícios, constando recarga e saldo  anterior; faturas e comprovantes de
+          pagamento), de todos os empregados que atuaram na execução contratual, mesmo
+          que transitoriamente, em substituição à mão de obra faltante, referente ao mês
+           seguinte ao faturado na nota fiscal.
+
+        20.13.1. A relação ou o documento deve estar organizado alfabeticamente e mencionar
+              a data em que foi efetivado o recebimento desses benefícios, o período a que
+               corresponde o uso e os valores percebidos.
+        20.13.2. Caso algum empregado opte por não receber o vale transporte, a Contratada
+               deverá apresentar, junto com a documentação no mesmo mês da não opção,
+                declaração específica devidamente datada e assinada pelo empregado, sendo
+              o valor passível de glosa na fatura correspondente, em arquivo único.
+
+     20.14. Declaração de não optante por vale transporte atualizada mês da competência.
+     20.15. Relatório SICAF atualizado (Declaração principal e Relatório de Ocorrências Ativas
+            Impeditivas de Licitar), quando exigido pela Contratante.
+     20.16. Folhas de frequência individuais dos empregados, relativas ao mês da prestação do
+            serviço.
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+     20.17. Relação de Prestadores em Férias de empregados, quando houver, com o envio
+         máximo de 30 (trinta) dias após início do gozo.
+        20.17.1.  Demonstrativo de férias dos funcionários (planilha contendo: nome e cargo do
+               colaborador, datas de início e fim do período de férias, quantidade de dias
+               usufruídos, valor líquido a receber e data do depósito).
+        20.17.2.  Aviso, recibo e comprovante de férias, em arquivo único.
+
+     20.18. Demonstrativo de licenças concedidas, indicando se houve ou não cobertura dos
+           postos de trabalho, referente ao mês da prestação dos serviços.
+     20.19. Relação de Prestadores Desligados: Documentos de Rescisão, quando houver, com
+          o envio máximo de 30 (trinta) dias após o afastamento.
+     20.20. Extratos individualizados de recolhimento de contribuições previdenciárias e de
+         FGTS, de qualquer empregado.
+     20.21. Qualquer outro documento relevante para o acompanhamento e a fiscalização da
+          execução do Contrato.
+     20.22. Caso a Contratada não honre com os encargos trabalhistas e previdenciários
+           concernentes a este Contrato, fica a Contratante autorizada a deduzir das faturas
+           devidas os valores referentes aos  salários e demais benefícios e  realizar os
+          pagamentos  diretamente  aos  empregados,  bem  como  das  contribuições
+            previdenciárias e do FGTS.
+
+
+  21. SANÇÕES APLICÁVEIS
+
+       Em conformidade com o disposto na Lei nº 14.133/2021, o não cumprimento total ou
+             parcial das obrigações assumidas pela contratada, especialmente no que se refere à
+           entrega dos computadores dentro do prazo estipulado, às especificações técnicas
+            exigidas ou à garantia e assistência técnica previstas, poderá acarretar a aplicação
+          das seguintes sanções administrativas, sem prejuízo das responsabilidades civil e
+           penal cabíveis:
+
+                      I.   Advertência, quando se tratar de infração de menor gravidade e que não tenha
+               causado prejuízo à Administração;
+                     II.   Multa, conforme previsão no contrato, podendo ser:
+
+                       a. Multa moratória, pelo atraso injustificado na entrega dos equipamentos,
+                        calculada sobre o valor total do contrato ou do item afetado;
+                       b. Multa compensatória, em caso de inexecução total ou parcial do objeto
+                         contratado;
+
+                    III.   Impedimento de licitar e contratar com a Administração Pública, pelo prazo de
+                  até 3 (três) anos, nos termos do art. 156 da Lei nº 14.133/2021, quando houver
+               a prática de infrações graves que comprometam a idoneidade da contratada;
+              IV.   Declaração de inidoneidade, conforme art. 156, § 4º da Lei nº 14.133/2021, nos
+                casos de infrações gravíssimas que demonstrem má-fé da contratada ou
+              causem prejuízos significativos à Administração.
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+            V.  A aplicação das sanções será precedida de regular processo administrativo,
+                assegurado o contraditório e a ampla defesa à contratada, conforme o disposto
+               nos arts. 156 a 159 da Lei nº 14.133/2021.
+
+  22. DO CONTRATO
+
+     22.1. O Contrato a ser firmado com o licitante vencedor, deverá ter o prazo de vigência de
+          12 (doze) meses a contar, da data da primeira ordem de entrega do objeto em tela,
+        sem previsão de prorrogação, pois os itens serão adquiridos todos de uma vez e
+           quitados na forma total.
+     22.2.  Garantia Contratual: Não haverá exigência de garantia contratual. Essa exigência
+          poderá implicar uma restrição à participação de empresas, que podem atender ao
+            objeto contratual, mas não necessariamente possuem capacidade financeira para
+          cumprimento da garantia.
+
+
+  23. EXTINÇÃO CONTRATUAL
+
+     23.1. De acordo com o previsto no art. 111 e 137 da lei 14.133/21.
+
+
+  24. GARANTIA CONTRATUAL
+
+         Nos termos dos incisos V, X e XV do art. 92 da Lei nº 14.133/2021, este Termo de
+           Referência estabelece que deverão ser anexadas aos autos do processo de contratação
+           todas as informações pertinentes à garantia contratual dos bens adquiridos, como forma
+         de mitigar riscos à Administração Pública Municipal e assegurar a adequada execução
+            contratual.
+
+          Para a presente contratação, que tem por objeto a aquisição de computadores para
+          atendimento às demandas da Secretaria Municipal de Urbanismo, deverão ser
+          apresentadas e registradas:
+
+     24.1. As condições detalhadas da garantia do(s) equipamento(s) fornecido(s), especificando:
+
+                               I. Prazo mínimo de garantia (preferencialmente de 12 meses ou superior);
+                              II. Abrangência da cobertura (partes, peças, mão de obra e assistência técnica);
+                             III. Localização e contatos de centros de atendimento técnico autorizados;
+                    IV. Tempo de resposta e solução para atendimento durante a vigência da garantia.
+
+     24.2. A indicação do  tipo de garantia contratual exigida pela Administração Municipal,
+          conforme previsto no art. 96 da Lei nº 14.133/2021, a ser prestada por meio de:
+
+                               I. Caução em dinheiro;
+                              II. Seguro-garantia;
+                             III. Fiança bancária.
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+       O valor da garantia contratual, se exigida, não ultrapassará o limite legal de 5% (cinco
+          por cento) do valor atualizado do contrato, podendo ser ampliado em até 10% nos casos
+         de contratos de grande vulto ou com alto risco de execução, mediante justificativa
+            técnica.
+
+     24.3.  Justificativa técnica e jurídica para eventual dispensa da exigência de garantia contratual,
+          nos termos do inciso XV do art. 92 da Lei nº 14.133/2021, devendo ser demonstrado que
+          a não exigência não comprometerá a segurança, a integridade do fornecimento ou o
+            interesse público.
+
+       O cumprimento dessas exigências é obrigatório e será verificado previamente à
+           assinatura do  contrato. O não  atendimento  implicará a  adoção  das medidas
+            administrativas cabíveis, nos termos da legislação vigente.
+
+
+
+                                                Saquarema, 09 de setembro de 2025.
+
+
+
+
+
+                               FELIPE DE OLIVEIRA ARAÚJO
+                            SECRETÁRIO MUNICIPAL DE URBANISMO
+                                              MAT.: 960603-1
+
+Estado do Rio de Janeiro
+Prefeitura Municipal de Saquarema
+Secretaria Municipal de Urbanismo
+
+                    ANEXO I
+
+                               (MEMÓRIA DE CÁLCULO)
+
+
+                      DESCRIÇÃO                   UNID.   CATMAT  QUANT
+
+                 KIT DE COMPUTADOR SEM MONITOR, COM
+       01                                              UNID.      606229      06                      TECLADO E MOUSE
+
+       02            MONITOR COMPUTADOR              UNID.      606908      22
+
+              KIT DE MICROCOMPUTADOR SEM MONITOR, COM
+       03                                              UNID.      482392      10                      TECLADO E MOUSE
+
+       04               NOTEBOOK                   UNID.      613321      01
+
+       05       FONTE ALIMENTAÇÃO ININTERRUPTA         UNID.      457902      06
+
+                 TOTAL DE ITENS
+

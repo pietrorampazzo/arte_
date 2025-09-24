@@ -1,150 +1,559 @@
-- Lote 5— 15 Monitores;
+TERMO DE REFERÊNCIA                                                                  1/14
+1. DO OBJETO                                                                                                                                                                                                         Página
+  O presente Termo de Referência tem por objeto a contratação de empresa(s)   -
+especializada(s) para fornecimento de equipamentos de TI para a unidade CFPR –
+Campanha, compreendendo a modalidade de aquisição.                                                                                                                                                                                                        64585
+          - Lote 1 – 8 Projetores Multimídia e 7 Telas de Projeção;
+          - Lote 2 – 12 Access Point (AP)s e 3 Firewalls;                                                                                                                                                                                                                                                Fluig:
+          - Lote 3 – 2 No-breaks (UPS) 3 KVA;                       -
+          - Lote 4 – 1 Equipamento de Videoconferência;
+          - Lote 5 – 15 Monitores;
 1.1. DETALHAMENTO DO OBJETO
-
 Aquisição de equipamentos, compra definitiva de equipamentos de infraestrutura de
-rede, projeção, áudio e vídeo, conforme especificado nos Lotes de | a 5, assim segue:
+rede, projeção, áudio e vídeo, conforme especificado nos Lotes de 1 a 5, assim segue:
 
-1.1.1 LOTE 1 — 8 (oito unidades) Projetor Multimídia e 7 (sete unidades) telas de projeção
 
-Item 1- Projetores salas de aula e laboratórios — 7 unidades
-e Equipamento novo, tecnologia LED;
-e —Resolução nativa mínima Full HD (1920x1080);
-e Brilho mínimo de 4 000 lÚúmens ANSI;
-e Relação de contraste mínima de 10000: 1;
-FDS8F7EZDCO7EAS8929E2697EOD7BD8493DO04E
-e Compatível com montagem fixa no teto (suporte incluso);
-e —Entradas: HDMI (mínimo 2), USB (1) e VGA;
-e Controleremoto, cabos HDMI e de energia, manual de usuário;
-e Fontede alimentação bivolt automática;
-* Compatível com acionamento elétrico da tela de projeção.
+1.1.1 LOTE 1 – 8 (oito unidades) Projetor Multimídia e 7 (sete unidades) telas de projeção
+Item 1- Projetores salas de aula e laboratórios – 7 unidades
+
+    •  Equipamento novo, tecnologia LED;
+
+    •  Resolução nativa mínima Full HD (1920×1080);
+
+    •   Brilho mínimo de 4 000 lúmens ANSI;
+
+    •  Relação de contraste mínima de 10000: 1;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           FD8F7E2DC07EA8929E2697E0D7BD8493D04EEC9A0
+    •  Compatível com montagem fixa no teto (suporte incluso);
+
+    •  Entradas: HDMI (mínimo 2), USB (1) e VGA;
+
+    •  Controle remoto, cabos HDMI e de energia, manual de usuário;
+
+    •  Fonte de alimentação bivolt automática;
+
+    •  Compatível com acionamento elétrico da tela de projeção.
 
 Item 2 - Projetor Multimídia para auditório - 1 unidade
-e —Equipamento novo, tecnologia Laser;
-e Brilho mínimo de 5.000 Lúmens ANSI;
-Serviço Nacional de : é
-Aprendizagem Rural Praça Saint Pastous, 125 | 3º andar
-e Contrastemínimo de 100.000:1;
-e Deslocamento de lente; o
-e Compatível com montagem fixa no teto, com o respectivo suporte incluso. ja
-* Deverá incluir controle remoto, todos os cabos necessários (energia, HDMI) e |
-manual de usuário.
 
-Item 3 - Telas de Projeção — 7 unidades &
-* Novas, fixada no teto, estrutura metálica ou PYC; a
-e Acionamento elétrico com controle remoto ou pelo acionamento do projetor; -
-e Tecido antimofo, antifóngico e antirreflexo, bordas pretas;
-e Largurae altura mínima de 2 m (-100" diagonal);
-e —Acessórios de fixação para diferentes tipos de forro;
-e Fontede alimentação bivolt automática.
+    •  Equipamento novo, tecnologia Laser;
 
-Item 4: Access Point (AP) para Alta Densidade (5 unidades) - Modelo de Referência:
-FoOrtiAP 831F
-FDS8F7EZDCO7EAS8929E2697EOD7BD8493DO04E
-e Padrão: Wi-Fi6 (802.110x).
-e Rádios: Operação Tri-Radio simultânea (1x 2.4 GHz, 2x 5 GHz) para otimização de
-perfrmance em ambientes com alta concentração de usuários.
-e Taoxade Dados Agregada: Mínimo de 8.35 Gbps.
-e  Antenas: Antenas internas omnidirecionais com ganho mínimo de 4 dBi.
-e Segurança: Suporte obrigatório aos padrões WPA3 e WPA?2.
-e Gerenciamento: Totalmente compatível com gerenciamento centralizado via
-FortiGate (FortiLink).
-e Alimentação: Power over Ethernet (PoE), compatível com os switches.
-Serviço Nacional de : é
-Aprendizagem Rural Praça Saint Pastous, 125 | 3º andar
-e Acessórios: Deverá incluir kit completo para montagem em teto/parede e
-marnuais. <
+    •   Brilho mínimo de 5.000 Lúmens ANSI;
 
-Item 5: Access Point (AP)s para Uso Geral (7 unidades) - Modelo de Referência: FortiAP &
-231F |
-xºr-l[j
-e Padrão: Wi-Fi6 (802.110x). |
-e Taoxade Dados Agregada: Mínimo de 1.77 Gbps. o
-e  Antenas: Antenas internas omnidirecionais com ganho mínimo de 4 dBi. -É:
-e Segurança: Suporte obrigatório aos padrões WPA3 e WPA?2. Llu
-e Gerenciamento: Totalmente compatível com gerenciamento centralizado via â
-FortiGate (FortiLink). O
-e — Alimentação: Power over Ethernet (PoE), compatível com os switches do Lote 7.
-e —Acessórios: Deverá incluir kit completo para montagem em teto/parede.
+    •  Contraste mínimo de 100.000:1;
+    •  Deslocamento de lente;                                                                                                           2/14
+
+    •  Compatível com montagem fixa no teto, com o respectivo suporte incluso.                                                                                                                                                                                                                                                Página
+    •  Deverá incluir controle remoto, todos os cabos necessários (energia, HDMI) e
+     manual de usuário.                             -
+
+    •  Fonte de alimentação bivolt automática.                                                                                                                                                                                                        64585
+Item 3 - Telas de Projeção – 7 unidades
+                                                                                                                                                                                                                                                Fluig:    •  Novas, fixada no teto, estrutura metálica ou PVC;
+                                        -
+    •  Acionamento elétrico com controle remoto ou pelo acionamento do projetor;
+
+    •  Tecido antimofo, antifúngico e antirreflexo, bordas pretas;
+
+    •  Largura e altura mínima de 2 m (~100″ diagonal);
+
+    •  Acessórios de fixação para diferentes tipos de forro;
+
+    •  Fonte de alimentação bivolt automática.
+
+1.1.2 LOTE 2 – 12 (doze unidades) Access Point (AP)s Wi-Fi, e 3(três unidades) Firewalls
+
+Este lote é composto por dois modelos de Access Point (AP)s para atender a diferentes
+demandas de densidade e cobertura na unidade, ambos gerenciáveis de forma
+centralizada pelo Firewall.
+
+Item 1: Access Point (AP) para Alta Densidade (5 unidades) - Modelo de Referência:
+FortiAP 831F    •  Padrão: Wi-Fi 6 (802.11ax).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           FD8F7E2DC07EA8929E2697E0D7BD8493D04EEC9A0
+
+    •  Rádios: Operação Tri-Radio simultânea (1x 2.4 GHz, 2x 5 GHz) para otimização de
+      performance em ambientes com alta concentração de usuários.
+
+    •  Taxa de Dados Agregada: Mínimo de 8.35 Gbps.
+
+    •  Antenas: Antenas internas omnidirecionais com ganho mínimo de 4 dBi.
+
+    •  Segurança: Suporte obrigatório aos padrões WPA3 e WPA2.
+
+    •  Gerenciamento: Totalmente compatível com gerenciamento centralizado via
+      FortiGate (FortiLink).
+
+    •  Alimentação: Power over Ethernet (PoE), compatível com os switches.
+
+    •   Acessórios: Deverá  incluir  kit completo para montagem em teto/parede e
+      manuais.                                                                                                                                                                3/14
+Item 2: Access Point (AP)s para Uso Geral (7 unidades) - Modelo de Referência: FortiAP
+231F                                                                                                                                                                                                                                                Página
+    •  Padrão: Wi-Fi 6 (802.11ax).                          -
+    •  Rádios: Operação Dual-Radio simultânea (2.4 GHz e 5 GHz).                                                          64585    •  Taxa de Dados Agregada: Mínimo de 1.77 Gbps.
+
+    •  Antenas: Antenas internas omnidirecionais com ganho mínimo de 4 dBi.                                                                                                                                                                                                                                                Fluig:
+    •  Segurança: Suporte obrigatório aos padrões WPA3 e WPA2.            -
+
+    •  Gerenciamento: Totalmente compatível com gerenciamento centralizado via
+      FortiGate (FortiLink).
+
+    •  Alimentação: Power over Ethernet (PoE), compatível com os switches do Lote 7.
+
+    •   Acessórios: Deverá incluir kit completo para montagem em teto/parede.
+
 Firewall
+
 Este lote é composto por dois modelos de firewall para garantir a segurança da rede
 em diferentes perímetros.
 
-Item 6: Firewall de Borda Principal (2 unidades) - Modelo de Referência: FortiGate 80F
-e Interfaces: Mínimo de 8 portas GE RJ45, 2 portas SFP, 2 portas GE RJ45 FortiLink.
-* Desempenho de Firewall (Threat Protection): Mínimo de 900 Mbps.
-* Desempenho de VPN |Psec: Mínimo de 6.5 Gbps.
-FDS8F7EZDCO7EAS8929E2697EOD7BD8493DO04E
-e Conexões(Concorrentes: Mínimo de 1.5 milhão.
-e Recursos Essenciais: Deverá incluir funcionalidades de firewall de próxima
-geração (NGFW), como inspeção profunda de pacotes (DPI), prevenção de
-intrusão (IPS), antivírus de gatewary, filircagem web e de aplicações.
-e Gerenciamento: Totalmente compatível com o ecossistema Fortinet para
-gerenciamento centralizado (FortiManager), já em funcionamento na rede atual
-e integração com os switches (FortiLink) da SEDE.
-e Licenciamento: Incluir licenciamento de segurança (UTP - Unified Threat
-Protection) durante toda a vigência do contrato.
+Item 3: Firewall de Borda Principal (2 unidades) - Modelo de Referência: FortiGate 80F
 
-Item 7: Firewall para Redes Secundárias ou Wi-Fi (1 unidade) - Modelo de Referência:
+    •   Interfaces: Mínimo de 8 portas GE RJ45, 2 portas SFP, 2 portas GE RJ45 FortiLink.
+
+    •  Desempenho de Firewall (Threat Protection): Mínimo de 900 Mbps.
+
+    •  Desempenho de VPN IPsec: Mínimo de 6.5 Gbps.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           FD8F7E2DC07EA8929E2697E0D7BD8493D04EEC9A0
+    •  Conexões Concorrentes: Mínimo de 1.5 milhão.
+
+    •  Recursos  Essenciais: Deverá  incluir funcionalidades de  firewall de próxima
+     geração (NGFW), como inspeção profunda de pacotes (DPI), prevenção de
+       intrusão (IPS), antivírus de gateway, filtragem web e de aplicações.
+
+    •  Gerenciamento: Totalmente compatível com o ecossistema  Fortinet para
+      gerenciamento centralizado (FortiManager), já em funcionamento na rede atual
+     e integração com os switches (FortiLink) da SEDE.
+
+    •  Licenciamento:  Incluir  licenciamento de segurança  (UTP   -  Unified  Threat
+       Protection) durante toda a vigência do contrato.
+
+Item 4: Firewall para Redes Secundárias ou Wi-Fi (1 unidade) - Modelo de Referência:
 FortiGate 40F
-* Interfaces: Mínimo de 4 portas GE RJ45 e 1 porta WAN GE RJ45.
-* Desempenho de Firewall (Threat Protection): Mínimo de 600 Mbps. -
-e Desempenho de VPN |Psec: Mínimo de 4.4 Gbps. -ª
-e Recursos Essenciais: Deverá incluir as mesmas funcionalidades de NGFW do º:
-modelo principal (Item 3), garantindo uma política de segurança consistente.
-* Gerenciamento: Igualmente compatível com o ecossistema Fortinet. É
-e lLlicenciamento: Incluir licenciamento de segurança (UTP) durante toda a S
-vigência do contrato. j
 
-ITEM 8: (duas unidades) No-break (UPS) 3kVA â
-e Onlne dupla conversão, DSP;
-e Fatorpotência2>0,9;
-e 220V configurável (160-275 V in);
-e Autonomia 230 min a 50% da carga;
-e Banco de baterias VRLA internas;
-e Display LCD e comunicação USB/SNMP;
-e Proteções (sobrecarga, subtensão, surtos etc.);
-e — Inclusos instalações, treinamento, cabos, manuais e testes de fábrica.
+    •   Interfaces: Mínimo de 4 portas GE RJ45 e 1 porta WAN GE RJ45.
+    •  Desempenho de Firewall (Threat Protection): Mínimo de 600 Mbps.                                    4/14
 
-ITEM 9: (uma unidade) Equipamento de Videoconferência
-e Câmera Full HD (1920x1080), autofoco, campo > 90º,
-e Microfone omnidirecional (2 5 m, cancelamento de ruído);
-e Alto-falante integrado para até 8 pessoas;
-e USB(A/C) plug-and-play, compatível com Windows.
-e Compatível com Zoom, Teams, Meet e Webex;
-e Instalação em mesa, monitor ou tripé (suportes inclusos);
-e Cabos, manuais e suporte para instalação remota/presencial.
+    •  Desempenho de VPN IPsec: Mínimo de 4.4 Gbps.                                                                                                                                                                                                                                                Página
+    •  Recursos Essenciais: Deverá incluir as mesmas funcionalidades de NGFW do
+     modelo principal (Item 3), garantindo uma política de segurança consistente.    -
 
-ITEM 10: Monitores
+    •  Gerenciamento: Igualmente compatível com o ecossistema Fortinet.                                                                                                                                                                                                        64585
+    •  Licenciamento:  Incluir licenciamento de segurança  (UTP) durante toda a
+      vigência do contrato.                                                                                                                                                                                                                                                Fluig:
+
+                                        -
+1.1.3 LOTE 3 – 2 (duas unidades) No-break (UPS) 3kVA
+
+    •  Online dupla conversão, DSP;
+
+    •  Fator potência ≥ 0,9;
+
+    •  220 V configurável (160–275 V in);
+
+    •  Autonomia ≥ 30 min a 50% da carga;
+
+    •  Banco de baterias VRLA internas;
+
+    •  Display LCD e comunicação USB/SNMP;
+
+    •  Proteções (sobrecarga, subtensão, surtos etc.);
+
+    •   Inclusos instalações, treinamento, cabos, manuais e testes de fábrica.
+
+2.4 LOTE 4 – 1 (uma unidade) Equipamento de Videoconferência                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           FD8F7E2DC07EA8929E2697E0D7BD8493D04EEC9A0
+    •   All-in-one ou conjunto integrado, bivolt;
+
+    •  Câmera Full HD (1920×1080), autofoco, campo ≥ 90°,
+
+    •  Microfone omnidirecional (≥ 5 m, cancelamento de ruído);
+
+    •   Alto-falante integrado para até 8 pessoas;
+
+    •  USB (A/C) plug-and-play, compatível com Windows.
+
+    •  Compatível com Zoom, Teams, Meet e Webex;
+
+    •  Instalação em mesa, monitor ou tripé (suportes inclusos);
+
+    •  Cabos, manuais e suporte para instalação remota/presencial.
+
+2.5 LOTE 5 – 15 (quinze unidades) Monitores
+                                                                                                                                                                5/14
 Considerando que o SENAR-RS possui um parque tecnológico padronizado com
-equipamentos da fabricante Dell Technologies e que pretende manter essa
-padronização, inclusive por razões de compatibilidade e conhecimento da equipe, o
-presente lote tem como objetivo a aquisição de monitores da referida marca, visando
+equipamentos da  fabricante  Dell  Technologies e que  pretende  manter  essa
+padronização, inclusive por razões de compatibilidade e conhecimento da equipe, o                                                                                                                                                                                                                                                Página
+presente lote tem como objetivo a aquisição de monitores da referida marca, visando   -
 reforçar e complementar os equipamentos Dell já existentes e em pleno funcionamento
-na atual estrutura.
-e Tipo LOD e iluminação em LED, com no mínimo 23.8 polegadas e resolução de
-1920x1080;
-* Deverá possuir tecnologia IPS;
-e —Possuir pelo menos 1 (uma) interface digital HDMI 1.4, 1 (uma) DisplayPort 1.2, 1
-(uma) interface VGA e portas USB traseiras e laterais sendo 2 (duas) versão 3.2,
-além de conector combo de áudio
-e Deverá possuir ângulo de visão horizontal de 178 graus e vertical de 178 graus;
-e ContrasteTÍpico (Normal) 1500:1;
-e Tempo de resposta em modo rápido de 6ms;
-e —Base regulável com ajuste de altura de 13 cm ou superior, ajuste de inclinação,
-ajuste de rotação e articulação (giro);
-e Deveráser enviado cabo de sinal correspondente para conexão entre a unidade
-de processamento e o monitor, bem como cabo de alimentação padrão
-NBR14136;
-* Deverá estar em conformidade com a norma Energy Star;
-* Deverá possuir certificação EPEAT na categoria Silver;
-e Todas as características técnicas deverão ser comprovadas mediante consulta
-no site ofícial do fabricante ou mediante catálogo técnico;
-* Deverá acompanhar 1 (um) cabo HDMI, 1 (um) cabo Display Port, 1 (um) cabo
-USB e 1 (um) Cabo de alimentação;
-e O fabricante do equipamento deverá ser membro da EICC, para garantia de
-conformidade com as questões ambientais, qualidade e segurança do bem-
-estar de seus funcionários e investimentos ambientais;
-e Osprodutos ofertados devem utilizar embalagem 100% reciclável.quipamento deverá dispor de garantia do fabricante de 3 anos do tipo on-site, S
-deverá ser apresentada comprovação com a proposta emitida pelo fabricante, &
-não sendo aceito direcionamento a terceiros. Web site do fabricante deverá s
-possibilitar a consulta do período de garantia do equipamento. &
+na atual estrutura.                                                                                                                                                                                                        64585
+    •  Tipo LCD e iluminação em LED, com no mínimo 23.8 polegadas e resolução de
+      1920x1080;                                                                                                                                                                                                                                                Fluig:
+    •  Deverá possuir tecnologia IPS;
+                                        -
+
+    •   Possuir pelo menos 1 (uma) interface digital HDMI 1.4, 1 (uma) DisplayPort 1.2, 1
+     (uma) interface VGA e portas USB traseiras e laterais sendo 2 (duas) versão 3.2,
+     além de conector combo de áudio
+
+    •  Deverá possuir ângulo de visão horizontal de 178 graus e vertical de 178 graus;
+
+    •  Contraste Típico (Normal) 1500:1;
+
+    •  Tempo de resposta em modo rápido de 6ms;
+
+    •  Base regulável com ajuste de altura de 13 cm ou superior, ajuste de inclinação,
+       ajuste de rotação e articulação (giro);
+
+    •  Deverá ser enviado cabo de sinal correspondente para conexão entre a unidade
+     de processamento e o monitor, bem como cabo de alimentação padrão
+      NBR14136;
+
+    •  Deverá estar em conformidade com a norma Energy Star;    •  Deverá possuir certificação EPEAT na categoria Silver;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        FD8F7E2DC07EA8929E2697E0D7BD8493D04EEC9A0
+
+    •  Todas as características técnicas deverão ser comprovadas mediante consulta
+     no site oficial do fabricante ou mediante catálogo técnico;
+
+    •  Deverá acompanhar 1 (um) cabo HDMI, 1 (um) cabo Display Port, 1 (um) cabo
+      USB e 1 (um) Cabo de alimentação;
+
+    • O fabricante do equipamento deverá ser membro da EICC, para garantia de
+      conformidade com as questões ambientais, qualidade e segurança do bem-
+       estar de seus funcionários e investimentos ambientais;
+
+    • O    fabricante   deverá    estar   relacionado   no     site   da   EICC,
+      http://www.eiccoalition.org/about/members;
+
+    • O equipamento deverá possuir certificação ENERGY STAR. Anexar comprovante
+     na proposta, obtido através do endereço https://www.energystar.gov;
+
+    •  Os produtos ofertados devem utilizar embalagem 100% reciclável.
+    •  Equipamento deverá dispor de garantia do fabricante de 3 anos do tipo on-site,          6/14
+      deverá ser apresentada comprovação com a proposta emitida pelo fabricante,
+     não sendo aceito direcionamento a terceiros. Web site do fabricante deverá        possibilitar a consulta do período de garantia do equipamento.                                                            Página
+
+                                        -
+2.  DA JUSTIFICATIVA DA CONTRATAÇÃO
+Para os ativos de infraestrutura de rede, que constituem o núcleo estratégico da             64585
+unidade e apresentam ciclo de vida prolongado, a aquisição definitiva se justifica pela
+necessidade de garantir controle total sobre os equipamentos, bem como assegurarsua integração ao patrimônio do SENAR-RS.                                                                                                                                Fluig:
+A compra dos demais itens, como projetores e telas, possibilita sua incorporação ao   -
+ativo institucional, assegurando, ainda, a cobertura da garantia padrão oferecida pelo
+fabricante.
+
+Projetores Multimídia e telas de projeção
+
+Projetores
+
+    •   Justificativa: Os projetores são essenciais para a metodologia de ensino em salas
+     de aula e auditórios, permitindo a exibição de conteúdo visual para todos os
+       participantes.
+
+         o  Tecnologia LED e 4.000 Lúmens ANSI: A tecnologia LED oferece maior vida
+                   útil e menor custo de manutenção (sem troca de lâmpadas), um benefício
+              direto no modelo de  aquisição. O  alto  brilho de  4.000 lúmens é
+           fundamental para garantir imagens nítidas e visíveis mesmo em ambientes
+         com  iluminação   natural,  sem  a  necessidade  de   escurecer
+           completamente a sala. Para o auditório as configurações são mais                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           FD8F7E2DC07EA8929E2697E0D7BD8493D04EEC9A0
+             robustas por conta do ambiente.
+
+         o  Resolução Full HD Nativa: A alta resolução é indispensável para a projeção
+          de textos pequenos, planilhas detalhadas, diagramas técnicos e vídeos
+        em alta qualidade, garantindo a legibilidade e a clareza da informação.
+
+         o  Múltiplas Entradas (HDMI, USB, VGA): Oferece flexibilidade para conectar
+              diversos  dispositivos, como notebooks dos  instrutores, pen  drives ou
+           equipamentos legados, facilitando o uso no dia a dia.
+
+Telas de Projeção
+
+    •   Justificativa: As telas de projeção complementam os projetores, fornecendo uma
+       superfície otimizada para a qualidade da imagem.
+
+         o  Acionamento Elétrico e Embutida no Teto: Proporciona um aspecto
+               profissional e organizado às salas de treinamento, evitando danos e                                                                                                                                                                7/14
+            desgaste de telas manuais. O acionamento por controle remoto agrega
+            praticidade ao instrutor.                                                                                                                                                                                                                                                Página
+         o  Tecido Antirreflexo com Bordas Pretas: Maximiza a qualidade da imagem   -
+             projetada, aumentando o contraste e evitando que a luz ambiente
+            atrapalhe a visualização, o que é crucial para a atenção dos alunos.                       64585
+         o  Largura de 2m (~100"): Garante que o conteúdo projetado seja grande o
+              suficiente para ser visto confortavelmente por todos os participantes,         mesmo aqueles sentados no fundo da sala.                                                                                              Fluig:
+
+                                        -
+Access Point (AP)s e Firewalls
+
+Access Point (AP)s
+
+    •   Justificativa: Os (AP)s são necessários para fornecer cobertura de rede sem fio de
+       alta qualidade e velocidade em toda a unidade, atendendo aos computadores,
+       dispositivos móveis de alunos e colaboradores.
+
+         o  Alimentação PoE (Power over  Ethernet):  Simplifica drasticamente a
+             instalação, pois os APs podem ser alimentados diretamente pelo cabo de
+           rede conectado aos switches, eliminando a necessidade de instalar uma
+          tomada elétrica próxima a cada ponto no teto.
+
+         o  Gerenciamento  Centralizado:  É um  requisito  fundamental para a
+           segurança e a manutenção da rede. Permite que o administrador de TI
+             configure, monitore e atualize todos os (AP)s a partir de um único ponto,
+            garantindo a aplicação de políticas de segurança de forma consistente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           FD8F7E2DC07EA8929E2697E0D7BD8493D04EEC9A0
+Firewall
+
+    •   Justificativa: Os firewalls são a primeira linha de defesa da rede, essenciais para
+      proteger os dados da instituição contra ameaças cibernéticas, como malwares,
+     ransomware e tentativas de invasão. A referência de modelos FortiGate é um
+       requisito estratégico para padronizar a infraestrutura com a solução já utilizada
+     na sede do SENAR-RS, garantindo interoperabilidade, gestão de TI otimizada e
+      aplicação de políticas de segurança coesas entre as unidades. A combinação
+     de dois modelos permite uma segmentação eficaz da rede, isolando a rede
+       administrativa da rede de alunos e visitantes, aumentando a segurança e a
+      performance.
+
+No-breaks (UPS) 3 kVA
+                                                                                                                                                                8/14    •   Justificativa: Os no-breaks são equipamentos de proteção essenciais para
+       garantir a continuidade da operação dos equipamentos de rede mesmo
+      durante quedas ou flutuações de energia.                                                                                                                                                                                                                                                Página
+         o  Online Dupla Conversão: Oferece o mais alto nível de proteção, isolando   -
+             os equipamentos de rede de qualquer distúrbio elétrico e fornecendo
+            energia limpa e estável. Isso é vital para a longevidade e o funcionamento                                                                                                                                                                                                        64585
+             correto de dispositivos sensíveis.
+
+         o  Autonomia de 30 Minutos: Garante tempo suficiente para que, em uma                                                                                                                                                                                                                                                Fluig:
+          queda de energia prolongada, os sistemas possam ser desligados de   -
+           forma segura e controlada, ou para que a energia de um gerador seja
+             estabelecida, evitando perda de dados e danos aos equipamentos.
+            Considerar neste caso o suporte de energia de cada Nobreak para 2
+             switches e 1 firewall.
+
+Equipamento de Videoconferência
+
+    •   Justificativa: O equipamento de videoconferência é fundamental para a
+     comunicação institucional, realização de reuniões com participantes remotos,
+      treinamentos a distância e suporte técnico, reduzindo custos e tempo com
+      deslocamentos.
+
+         o  All-in-One e Plug-and-Play: A simplicidade de uso é primordial. Um sistema
+            integrado que requer apenas a conexão USB ao computador permite que
+            qualquer colaborador inicie uma reunião rapidamente, sem necessidade
+          de conhecimento técnico avançado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           FD8F7E2DC07EA8929E2697E0D7BD8493D04EEC9A0         o  Câmera Full HD e Microfone com Cancelamento de Ruído: Garante uma
+             experiência de comunicação profissional. A alta qualidade de vídeo e
+            áudio é essencial para que a comunicação flua de forma clara, sem ruídos
+          de fundo ou imagens de baixa qualidade que possam prejudicar a
+          compreensão e a imagem da instituição.
+
+         o  Compatibilidade com Múltiplas Plataformas: Assegura que a unidade
+            possa  se  comunicar com  qualquer  outra  empresa  ou  pessoa,
+           independentemente da plataforma de videoconferência utilizada (Zoom,
+            Teams, Meet etc.), oferecendo total flexibilidade.
+
+Monitores
+
+    •   Justificativa: Os monitores são uma ferramenta essencial para aumentar a
+      produtividade e a eficiência em tarefas que exigem a visualização de múltiplas                                                                                                                                                                9/14
+      informações simultaneamente. Em um ambiente de trabalho e treinamento
+     moderno, a capacidade de expandir a área de trabalho digital é crucial para       otimizar o fluxo de atividades administrativas e de ensino, permitindo, por                Página
+      exemplo, que um usuário participe de uma videoconferência em uma tela   -
+     enquanto manipula documentos ou planilhas na outra.
+    •  Qualidade de Imagem e Conforto Visual: A especificação de uma tela de no             64585
+      mínimo 23.8 polegadas com resolução Full HD (1920x1080) e tecnologia IPS visa
+       garantir uma imagem nítida, com cores precisas e amplos ângulos de visão. Essa                                                                                                                                                                                                                                                Fluig:     combinação é fundamental para reduzir a fadiga visual durante longos períodos
+     de uso e assegurar a qualidade na exibição de qualquer conteúdo.        -
+
+    •  Ergonomia e Flexibilidade: A exigência de uma base com múltiplos ajustes (altura,
+       inclinação, rotação e articulação) é um requisito ergonômico primordial. Ela
+      permite que cada usuário posicione o monitor de maneira ideal para sua postura,
+      alinhando-o perfeitamente ao monitor principal e ao seu campo de visão, o que
+      previne dores e lesões, promovendo um ambiente de trabalho mais saudável.
+
+4.  DOS CRITÉRIOS DE SELEÇÃO / JULGAMENTO / ACEITAÇÃO
+    Critério de julgamento será a oferta de MENOR PREÇO, e o processamento e
+julgamento do certame se dará em 5 (cinco) LOTES, atendendo às condições exigidas
+neste Termo de Referência, sendo a primeira colocada a Licitante que finalizar a disputa
+com o MENOR PREÇO no LOTE.
+
+5. DOS CRITÉRIOS OU CONDIÇÕES DE ENTREGA OU DE EXECUÇÃO
+
+Todos os equipamentos deverão ser entregues na SEDE do SENAR, na Praça SaintPastous, 125 em Porto Alegre.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      FD8F7E2DC07EA8929E2697E0D7BD8493D04EEC9A0
+
+6.  DAS CONDIÇÕES GERAIS DE FORNECIMENTO
+
+6.1 Da Entrega e Instalação
+
+Todos os equipamentos deverão ser novos de primeiro uso, entregues em perfeitas
+condições de uso e pleno funcionamento. Todos os custos logísticos, de frete, seguro e
+mão de obra para esta etapa estão inclusos no valor.
+
+7. DA GARANTIA DOS EQUIPAMENTOS
+
+A CONTRATADA deverá fornecer garantia para todos os equipamentos constantes dos
+lotes abaixo, pelo prazo mínimo indicado para cada item, contado a partir da data de
+recebimento definitivo.
+
+A garantia deverá abranger a correção de quaisquer falhas, vícios ou defeitos de
+hardware e software (incluindo sistema operacional e aplicativos necessários ao                                                                                                                                                                                                        10/14
+funcionamento do equipamento) que impeçam ou comprometam seu desempenho,
+devendo a CONTRATADA providenciar o reparo ou a substituição do bem sem ônus
+adicional para o CONTRATANTE.                                                                                                                                                                                                                                                Página
+Lotes e prazos de garantia exigidos:                         -
+
+    •  Lote 1: 8 projetores multimídia com garantia mínima de 1 ano e 7 telas de                                                                                                                                                                                                        64585      projeção com garantia mínima de 1 ano;
+
+    •  Lote  2:  12 access  points  (AP)s com  garantia mínima de  3 anos e  3                                                                                                                                                                                                                                                Fluig:       firewalls/switches com garantia mínima de 3 anos;
+                                        -
+    •  Lote 3: 2 no-breaks (UPS) de 3 KVA com garantia mínima de 1 ano;
+
+    •  Lote 4: 1 equipamento de videoconferência com garantia mínima de 1 ano;
+
+    •  Lote 5: 15 monitores com garantia mínima de 3 anos.
+
+8. DO PRAZO E LOCAL DE ENTREGA
+
+8.1. O objeto deste contrato será entregue na SEDE do SENAR em até 30 dias da
+assinatura do contrato.
+
+8.2. Na hipótese de entrega com defeito que não possa ser sanado no local, a
+CONTRATADA se compromete a substituir o equipamento por outro de modelo igual ou
+superior em até 48 (quarenta e oito) horas úteis.
+
+8.3. Os canais de atendimento para suporte e solicitações em garantia estarão
+disponíveis durante o horário comercial, de segunda a sexta-feira, das 08:00 às 12:00 e
+das 13:00 às 17:00.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           FD8F7E2DC07EA8929E2697E0D7BD8493D04EEC9A0
+
+9.  DA FORMA E CONDIÇÕES DE PAGAMENTO
+
+9.1. Os pagamentos serão realizados 20 dias após o aceite do Gestor do contrato, da
+conformidade dos equipamentos entregues.
+
+9.2. Para o processamento do pagamento, a CONTRATADA deverá emitir a Nota Fiscal,
+endereçada ao Serviço Nacional de Aprendizagem Rural - Administração Regional do
+Rio Grande do Sul (SENAR-RS), CNPJ nº 04.303.406/0001-02.
+
+9.3. O pagamento fica condicionado ao cumprimento cumulativo das seguintes
+exigências:
+
+a) Apresentação da Nota Fiscal, que deverá descrever detalhadamente os serviços
+e/ou equipamentos fornecidos, ser emitida pelo mesmo CNPJ da CONTRATADA e estar                                                                                                                                                                                                        11/14
+acompanhada dos relatórios de execução pertinentes.
+
+b) Atesto de Conformidade: Aceite formal dos serviços pelo gestor do contrato,                                                                                                                                                                                                                                                Página
+confirmando que foram executados de acordo com as especificações e a qualidade   -
+exigidas.
+
+c) Regularidade Fiscal: Apresentação de todas as certidões de regularidade fiscal                                                                                                                                                                                                        64585
+(federal, estadual, municipal, FGTS e trabalhista) válidas na data da emissão da Nota
+Fiscal.                                                                                                                                                                                                                                                Fluig:
+9.4. Não haverá pagamento, ainda que parcial, por serviços considerados não   -
+conformes ou que não obtenham o atesto do gestor do contrato. O pagamento só será
+liberado após a devida correção das pendências pela CONTRATADA
+
+10.   DA FISCALIZAÇÃO / GESTÃO DO CONTRATO
+
+A Coordenação de Tecnologia da Informação do SENAR-RS será responsável pela
+gestão e fiscalização do contrato, competindo-lhe acompanhar a execução dos
+serviços e validar os relatórios de uso.
+
+
+11. DAS OBRIGAÇÕES DA CONTRATADA
+
+Compete à CONTRATADA, além das demais obrigações previstas neste instrumento:
+
+11.1. FORNECIMENTO: Fornecer e instalar equipamentos novos, sem uso prévio, de
+acordo com as especificações, marcas e modelos detalhados nos lotes descritos,
+assegurando seu perfeito estado e funcionamento.11.3. REGULARIDADE: Manter, durante todo o prazo de vigência contratual, a sua                                                                                                            FD8F7E2DC07EA8929E2697E0D7BD8493D04EEC9A0
+condição de regularidade jurídica, fiscal e trabalhista, apresentando os documentos
+comprobatórios sempre que requisitados pela CONTRATANTE.
+
+11.4.  DOCUMENTAÇÃO:  Entregar  toda  a  documentação  relacionada  aos
+equipamentos, como manuais de operação, relatórios técnicos de instalação e laudos
+de conformidade do fabricante, mediante solicitação.
+
+11.5. QUALIFICAÇÃO TÉCNICA: A CONTRATADA deverá comprovar sua qualificação
+técnica mediante a apresentação de atestados de capacidade técnica, emitidos por
+pessoa jurídica de  direito público ou privado, que comprovem a execução de
+fornecimento e/ou instalação de equipamentos de natureza e porte compatíveis com
+o objeto desta contratação.
+
+Os atestados deverão estar acompanhados das respectivas certidões ou documentos
+que confirme sua veracidade.                                                                                                                                                                                                        12/14
+12. DAS OBRIGAÇÕES DA CONTRATANTE                                                                                                                                         PáginaPara a  correta  execução do  presente  contrato,  constituem  obrigações da
+CONTRATANTE:                                  -
+
+12.1. PROVER AS CONDIÇÕES DE TRABALHO: Disponibilizar à CONTRATADA o livre acesso                                                                                                                                                                                                        64585
+às suas dependências, bem como toda a infraestrutura necessária para a execução
+dos serviços, incluindo, mas não se limitando a pontos de energia elétrica e de redelógica.                                                                                                                                                                                                                               Fluig:
+
+                                        -
+12.2. DESIGNAR UM GESTOR: Indicar, por escrito, o(s) empregado(s) que atuará(ão)
+como  gestor(es) do  contrato, com poderes para  fiscalizar,  solicitar,  atestar a
+conformidade dos serviços e interagir com a CONTRATADA.
+
+12.3. FISCALIZAR E COMUNICAR: Acompanhar a execução dos serviços e notificar a
+CONTRATADA formalmente sobre quaisquer falhas, vícios ou não conformidades, para
+que as devidas correções sejam providenciadas.
+
+12.4. ATESTAR OS SERVIÇOS: Emitir o termo de recebimento ou atesto de execução após
+a verificação da conformidade dos serviços prestados ou equipamentos entregues,
+condição indispensável para o processamento do pagamento.
+
+12.5. EFETUAR OS PAGAMENTOS: Cumprir com as suas obrigações financeiras, efetuando
+os pagamentos à CONTRATADA de acordo com os valores, prazos e condições
+pactuados neste instrumento.13. DISPOSIÇÕES GERAIS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       FD8F7E2DC07EA8929E2697E0D7BD8493D04EEC9A0
+
+13.1. A CONTRATADA é  inteiramente responsável pela execução de todas as
+obrigações, condições e especificações contidas neste Termo de Referência.
+
+13.2. A execução deste contrato não estabelece qualquer vínculo de natureza
+trabalhista entre os colaboradores da CONTRATADA e o SENAR-RS, sendo de exclusiva
+responsabilidade da CONTRATADA o cumprimento de todas as obrigações legais
+pertinentes.
+
+13.3. Situações não previstas (casos omissos) serão resolvidas com base no Contrato, no
+Edital e na legislação vigente.
+
+13.4. Em caso de dúvida ou conflito de informações entre os documentos contratuais,
+as disposições contidas neste Termo de Referência prevalecerão sobre as demais.
+
+                                                                                                                                                                                                                              13/14
+                                                     Porto Alegre, (RS) 03 de setembro de 2025                Página
+
+                                            -
+                                                                                                                                                                                                                              64585
+                                                                                                                                                                                                                                                                          Fluig:
+
+                                            -
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            FD8F7E2DC07EA8929E2697E0D7BD8493D04EEC9A0
+
+
+
+
+
+Assinado por:
+ALEXANDRE MOREIRA DE   FABIANA FLORES DA
+SOUZA                  SILVA
+
+          Manifesto de Assinaturas
+
+Este documento foi assinado pelos seguintes signatários nas datas indicadas:
+
+
+
+
+Assinado por: ALEXANDRE MOREIRA DE SOUZA
+CPF: 00844948756
+E-mail: alexandre.souza@senar-rs.com.br
+Data de assinatura: 03/09/2025 10:43
+
+Assinado por: Fabiana Flores da Silva
+CPF: 90079795072
+E-mail: fabiana@senar-rs.com.br
+Data de assinatura: 04/09/2025 13:16
+
+
+
+
+
+                                                                  Clique para validar o hash:
+
+                                                        FD8F7E2DC07EA8929E2697E0D7BD8493D04EEC9A0
+
+                                                       Ou acesse: fluig.senar-rs.com.br/documentos
+
+                                                                  Fluig: 64585  - Página 14/14
+

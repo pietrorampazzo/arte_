@@ -1,842 +1,2852 @@
-$ Compras.gov.br UASG 153036
+UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI
+                    Rodovia MGT 367 - Km 583, nº 5000, - Bairro Alto da Jacuba, Diamantina/MG, CEP 39100-000
+                                           Telefone: (38) 3532-1200 - http://www.ufvjm.edu.br
 
-UNIV.FED.DOS VALES DO JEQUITINHONHA E MUCURI
 
-Termo de Referência 18/2025
+               EDITAL PREGÃO ELETRÔNICO 90.019/2025
+
+    UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI
+
+                        UASG 153036
+
+           Processo nº 23086.134619/2025-86
+
+
+
+      PREGÃO 90.019/2025
+
+       OBJETO: Contratação é a aquisição de materiais diversos ( copa/cozinha, expediente, decoração)
+          para atender demanda dos cursos da UFVJM.
+
+       VALOR PREVISTO: R$ 50.407,73 (cinquenta mil quatrocentos e sete reais e setenta e três
+centavos)
+       DATA DA SESSÃO PÚBLICA: Dia 30/09/2025 às 09:00 h (horário de Brasília)
+       CRITÉRIO DE JULGAMENTO: Menor preço
+      MODO DE DISPUTA: Aberto
+       PREFERÊNCIA ME/EPP/EQUIPARADAS: SIM
+      MARGEM DE PREFERÊNCIA PARA ALGUM ITEM: SIM
+
+
+
+
+      SUMÁRIO
+           1.  DO OBJETO.
+
+            2.  DA PARTICIPAÇÃO NA LICITAÇÃO.
+
+            3.  DA APRESENTAÇÃO DA PROPOSTA E DOS DOCUMENTOS DE HABILITAÇÃO.
+
+            4.  DO PREENCHIMENTO DA PROPOSTA.
+
+            5.  DA ABERTURA DA SESSÃO, CLA SSIFICAÇÃO DAS PROPOSTAS E
+      FORMULAÇÃO DE LANCES.
+
+            6.  DA FASE DE JULGAMENTO.
+
+            7.  DA FASE DE HABILITAÇÃO.
+
+            8. DOS RECURSOS.
+
+            9. DAS INFRAÇÕES ADMINISTRATIVAS E SANÇÕES.
+
+           10. DA IMPUGNAÇÃO AO EDITAL E DO PEDIDO DE ESCLARECIMENTO.
+
+                    Edital Pregão 90.019/2025 (1882071)     SEI 23086.134619/2025-86 / pg. 1
+
+           11. DAS DISPOSIÇÕES GERAIS.
+
+
+       UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI
+                  PREGÃO ELETRÔNICO Nº 90.019/2025
+
+
+
+           Torna-se público, para conhecimento dos interessados, que a Universidade Federal dos Vales do
+Jequitinhonha e Mucuri, por meio do(a) Diretoria de Licitações e Contratos, sediado na Rodovia MGT 367 -
+Km 583, nº 5000,  - Bairro Alto da Jacuba, Diamantina/MG, CEP 39100-000 realizará  licitação, na
+modalidade PREGÃO, na forma ELETRÔNICA, nos termos da Lei nº 14.133, de 2021, e demais legislação
+aplicável, e ainda, de acordo com condições estabelecidas neste Edital.
+1.       DO OBJETO
+1.1.      O  objeto da  presente  licitação é a contratação  é  a aquisição de materiais diversos  (
+copa/cozinha, expediente, decoração) para atender demanda dos cursos da UFVJM, a serem executados com
+regime de dedicação exclusiva de mão de obra, conforme condições, quantidades e exigências estabelecidas
+neste Edital e seus anexos.
+1.2.      A licitação será dividida em itens, conforme tabela constante do Termo de Referência,
+facultando-se ao licitante a participação em quantos itens forem de seu interesse.
+2.       DA PARTICIPAÇÃO NA LICITAÇÃO
+2.1.         Poderão participar deste certame os interessados cujo ramo de atividade seja compatível com
+o objeto da licitação e que estiverem previamente credenciados no Sistema de Cadastramento Unificado de
+Fornecedores - SICAF e no Sistema de Compras do Governo Federal (www.gov.br/compras).
+2.2.        Os interessados deverão atender às condições exigidas no cadastramento no Sicaf até o
+terceiro dia útil anterior à data prevista para recebimento das propostas.
+2.3.      O licitante responsabiliza-se exclusiva e formalmente pelas transações efetuadas em seu
+nome, assume como firmes e verdadeiras suas propostas e seus lances, inclusive os atos praticados
+diretamente ou por seu representante, excluída a responsabilidade do provedor do sistema ou do órgão ou
+entidade promotora da licitação por eventuais danos decorrentes de uso indevido das credenciais de acesso,
+ainda que por terceiros.
+2.4.       É de responsabilidade do cadastrado conferir a exatidão dos seus dados cadastrais nos
+Sistemas relacionados no item  anterior e mantê-los atualizados junto aos órgãos responsáveis pela
+informação, devendo proceder, imediatamente, à correção ou à alteração dos registros tão logo identifique
+incorreção ou aqueles se tornem desatualizados.
+2.5.      A não observância do disposto no item anterior poderá ensejar desclassificação no momento
+da habilitação.
+2.6.      A participação é exclusiva a microempresas e empresas de pequeno porte, nos termos do art.
+48 da Lei Complementar nº 123, de 14 de dezembro de 2006.
+2.7.      A obtenção do benefício a que se refere o item anterior fica limitada às microempresas e às
+empresas de pequeno porte que, no ano-calendário de realização da licitação, ainda não tenham celebrado
+contratos com a Administração Pública cujos valores somados extrapolem a receita bruta máxima admitida
+para fins de enquadramento como empresa de pequeno porte.
+2.8.          Será concedido tratamento favorecido para as microempresas e empresas de pequeno porte,
+para as sociedades cooperativas mencionadas no artigo 16 da Lei nº 14.133, de 2021, para o agricultor
+familiar, o produtor rural pessoa física e para o microempreendedor individual - MEI, nos limites previstos
+da Lei Complementar nº 123, de 2006 e do Decreto n.º 8.538, de 2015.
+2.9.        Não poderão disputar esta licitação:
+2.9.1.        aquele que não atenda às condições deste Edital e seu(s) anexo(s);
+2.9.2.        sociedade que desempenhe atividade incompatível com o objeto da licitação; SUPRESSÃO
+
+                    Edital Pregão 90.019/2025 (1882071)     SEI 23086.134619/2025-86 / pg. 2
+
+2.9.3.      SUPRESSÃO
+2.9.4.        empresas estrangeiras que não tenham representação legal no Brasil com poderes expressos
+para receber citação e responder administrativa ou judicialmente
+2.9.5.         autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa física ou jurídica,
+quando a licitação versar sobre serviços ou fornecimento de bens a ele relacionados;
+2.9.6.        empresa, isoladamente ou em consórcio, responsável pela elaboração do projeto básico ou do
+projeto executivo, ou empresa da qual o autor do projeto seja dirigente, gerente, controlador, acionista ou
+detentor de mais de 5% (cinco por cento) do  capital com  direito a  voto, responsável técnico ou
+subcontratado, quando a licitação versar sobre serviços ou fornecimento de bens a ela necessários;
+2.9.7.        pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitada de participar
+da licitação em decorrência de sanção que lhe foi imposta;
+2.9.8.        aquele que mantenha  vínculo de  natureza  técnica,  comercial,  econômica,  financeira,
+trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente público que desempenhe
+função na licitação ou atue na fiscalização ou na gestão do contrato, ou que deles seja cônjuge, companheiro
+ou parente em linha reta, colateral ou por afinidade, até o terceiro grau;
+2.9.9.        empresas controladoras, controladas ou coligadas, nos termos da Lei nº 6.404, de 15 de
+dezembro de 1976, concorrendo entre si;
+2.9.10.       pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do edital, tenha sido
+condenada judicialmente, com trânsito em julgado, por exploração de trabalho infantil, por submissão de
+trabalhadores a condições análogas às de escravo ou por contratação de adolescentes nos casos vedados pela
+legislação trabalhista;
+2.9.11.       agente público do órgão ou entidade licitante;
+2.9.12.     SUPRESSÃO
+2.9.13.       Organizações da Sociedade Civil de Interesse Público - OSCIP, atuando nessa condição;
+2.10.       Não poderá participar, direta ou indiretamente, da licitação ou da execução do contrato
+agente público do órgão ou entidade  contratante, devendo  ser observadas as situações que possam
+configurar conflito de interesses no exercício ou após o exercício do cargo ou emprego, nos termos da
+legislação que disciplina a matéria, conforme § 1º do art. 9º da Lei nº 14.133, de 2021.
+2.11.     O impedimento de que trata o item 2.9.7 será também aplicado ao licitante que atue em
+substituição a outra pessoa, física ou jurídica, com o intuito de burlar a efetividade da sanção a ela aplicada,
+inclusive a sua controladora, controlada ou coligada, desde que devidamente comprovado o ilícito ou a
+utilização fraudulenta da personalidade jurídica do licitante.
+2.12.     A critério da Administração e exclusivamente a seu serviço, o autor dos projetos e a empresa
+a que se referem os itens 2.9.5 e 2.9.6 poderão participar no apoio das atividades de planejamento da
+contratação, de execução da licitação ou de gestão do contrato, desde que sob supervisão exclusiva de
+agentes públicos do órgão ou entidade.
+2.13.        Equiparam-se aos autores do projeto as empresas integrantes do mesmo grupo econômico.
+2.14.     O disposto nos itens 2.9.5 e 2.9.6 não impede a licitação ou a contratação de serviço que
+inclua como encargo do contratado a elaboração do projeto básico e do projeto executivo, nas contratações
+integradas, e do projeto executivo, nos demais regimes de execução.
+2.15.      Em licitações e contratações realizadas no âmbito de projetos e programas parcialmente
+financiados por agência oficial de cooperação estrangeira ou por organismo financeiro internacional com
+recursos do financiamento ou da contrapartida nacional, não poderá participar pessoa física ou jurídica que
+integre o rol de pessoas sancionadas por essas entidades ou que seja declarada inidônea nos termos da Lei nº
+14.133/2021.
+2.16.     A vedação de que  trata o item 2.10  estende-se a terceiro que auxilie a condução da
+contratação na qualidade de integrante de equipe de apoio, profissional especializado ou funcionário ou
+representante de empresa que preste assessoria técnica.
+3.       DO ORÇAMENTO ESTIMADO SIGILOSO
+
+
+                    Edital Pregão 90.019/2025 (1882071)     SEI 23086.134619/2025-86 / pg. 3
+
+3.1.      O orçamento estimado da presente contratação não será de caráter sigiloso.
+4.       DA APRESENTAÇÃO DA PROPOSTA E DOS DOCUMENTOS DE HABILITAÇÃO
+4.1.        Na presente licitação, a fase de habilitação sucederá as fases de apresentação de propostas e
+lances e de julgamento.
+4.2.        Os licitantes encaminharão, exclusivamente por meio do sistema eletrônico, a proposta com o
+preço ou o percentual de desconto, conforme o critério de julgamento adotado neste Edital, até a data e o
+horário estabelecidos para abertura da sessão pública.
+4.3.         Caso a fase de habilitação anteceda as fases de apresentação de propostas e lances, os
+licitantes encaminharão, na forma  e no prazo  estabelecidos no item  anterior, simultaneamente os
+documentos de habilitação e a proposta com o preço ou o percentual de desconto, observado o disposto nos
+itens 8.1.1 e 8.13.1 deste Edital.
+4.4.       No cadastramento da proposta inicial, o licitante declarará, em campo próprio do sistema,
+que:
+4.4.1.         está ciente e concorda com as condições contidas no edital e seus anexos, bem como de que a
+proposta apresentada compreende a integralidade dos custos para atendimento dos direitos trabalhistas
+assegurados na Constituição Federal, nas leis trabalhistas, nas normas infralegais, nas convenções coletivas
+de trabalho e nos termos de ajustamento de conduta vigentes na data de sua entrega em definitivo e que
+cumpre plenamente os requisitos de habilitação definidos no instrumento convocatório;
+4.4.2.        não emprega menor de 18 anos em trabalho noturno, perigoso ou insalubre e não emprega
+menor de 16 anos, salvo menor, a partir de 14 anos, na condição de aprendiz, nos termos do artigo 7°,
+XXXIII, da Constituição;
+4.4.3.        não possui empregados executando trabalho degradante ou forçado, observando o disposto
+nos incisos III e IV do art. 1º e no inciso III do art. 5º da Constituição Federal;
+4.4.4.       cumpre as exigências de reserva de cargos para pessoa com deficiência e para reabilitado da
+Previdência Social, previstas em lei e em outras normas específicas.
+4.5.      O licitante organizado em cooperativa deverá declarar, ainda, em campo próprio do sistema
+eletrônico, que cumpre os requisitos estabelecidos no artigo 16 da Lei nº 14.133, de 2021.
+4.6.      O licitante deverá declarar em campo próprio do sistema se o produto ou serviço ofertado é
+manufaturado nacional beneficiado por um dos critérios de margem de preferência indicados no Termo de
+Referência, quando for o caso, para usufruir do benefício.
+4.7.       No caso das empresas que foram beneficiadas pela Lei nº 12.546, de 2011, as propostas de
+preços deverão ser apresentadas com as alíquotas em vigor, nos termos da Lei nº 14.973, de 2024, aplicáveis
+para o ano de apresentação da proposta.
+4.7.1.     A pedido da empresa contratada, o preço do contrato poderá ser revisto, nos termos do art.
+134 c/c art. 136, I, da Lei nº 14.133, de 2021, após efetiva majoração das alíquotas, conforme regime de
+transição previsto no art. 9ºA e 9º-B da Lei nº 12.546, de 2011, com a redação dada pela Lei nº 14.973, de
+2024.
+4.8.      O fornecedor enquadrado como microempresa, empresa de pequeno porte ou sociedade
+cooperativa deverá declarar, ainda, em campo próprio do sistema eletrônico, que cumpre os requisitos
+estabelecidos no artigo 3° da Lei Complementar nº 123, de 2006, estando apto a usufruir do tratamento
+favorecido estabelecido em seus arts. 42 a 49, observado o disposto nos §§ 1º ao 3º do art. 4º, da Lei n.º
+14.133, de 2021.
+4.8.1.        nos itens exclusivos para participação de microempresas e empresas de pequeno porte, a
+assinalação do campo “não” impedirá o prosseguimento no certame, para aquele item;
+4.8.2.        nos itens em que a participação não for exclusiva para microempresas e empresas de pequeno
+porte, a assinalação do campo “não” apenas produzirá o efeito de o licitante não ter direito ao tratamento
+favorecido previsto na Lei Complementar nº 123, de 2006, mesmo que microempresa, empresa de pequeno
+porte ou sociedade cooperativa.
+4.9.        Não poderá se beneficiar do tratamento jurídico diferenciado estabelecido nos arts. 42 a 49 da
+Lei Complementar nº 123, de 2006, a pessoa jurídica:
+
+                    Edital Pregão 90.019/2025 (1882071)     SEI 23086.134619/2025-86 / pg. 4
+
+4.9.1.        de cujo capital participe outra pessoa jurídica;
+4.9.2.        que seja filial, sucursal, agência ou representação, no País, de pessoa jurídica com sede no
+exterior;
+4.9.3.        de cujo capital participe pessoa física que seja inscrita como empresário ou seja sócia de outra
+empresa que receba tratamento jurídico diferenciado nos termos da Lei Complementar nº 123, de 2006,
+desde que a receita bruta global ultrapasse o limite de que trata o inciso II do art. 3º da referida lei;
+4.9.4.         cujo titular ou sócio participe com mais de 10% (dez por cento) do capital de outra empresa
+não beneficiada pela Lei Complementar nº 123, de 2006, desde que a receita bruta global ultrapasse o limite
+de que trata o inciso II do art. 3º da referida lei;
+4.9.5.         cujo sócio ou titular seja administrador ou equiparado de outra pessoa jurídica com fins
+lucrativos, desde que a receita bruta global ultrapasse o limite de que trata o inciso II do art. 3º da referida
+lei;
+4.9.6.          constituída sob a forma de cooperativas, salvo as de consumo;
+4.9.7.        que participe do capital de outra pessoa jurídica;
+4.9.8.        que exerça atividade de banco comercial, de investimentos e de desenvolvimento, de caixa
+econômica, de sociedade de crédito, financiamento e investimento ou de crédito imobiliário, de corretora ou
+de distribuidora de títulos, valores mobiliários e câmbio, de empresa de arrendamento mercantil, de seguros
+privados e de capitalização ou de previdência complementar;
+4.9.9.         resultante ou remanescente de cisão ou qualquer outra forma de desmembramento de pessoa
+jurídica que tenha ocorrido em um dos 5 (cinco) anos-calendário anteriores;
+4.9.10.         constituída sob a forma de sociedade por ações.
+4.9.11.        cujos titulares ou sócios guardem, cumulativamente, com o contratante do serviço, relação de
+pessoalidade, subordinação e habitualidade.
+4.10.     A falsidade da declaração de que trata os itens 4.4 ou 4.7 sujeitará o licitante às sanções
+previstas na Lei nº 14.133, de 2021, e neste Edital.
+4.11.       Os licitantes poderão retirar ou substituir a proposta ou, na hipótese de a fase de habilitação
+anteceder as fases de apresentação de propostas e lances e de julgamento, os documentos de habilitação
+anteriormente inseridos no sistema, até a abertura da sessão pública.
+4.12.       Não haverá ordem de classificação na etapa de apresentação da proposta e dos documentos de
+habilitação pelo licitante, o que ocorrerá somente após os procedimentos de abertura da sessão pública e da
+fase de envio de lances.
+4.13.         Serão disponibilizados para acesso público os documentos que compõem a proposta dos
+licitantes convocados para apresentação de propostas, após a fase de envio de lances.
+4.14.        Desde que disponibilizada a funcionalidade no sistema, o licitante poderá parametrizar o seu
+valor final mínimo quando do cadastramento da proposta e obedecerá às seguintes regras:
+4.14.1.       a aplicação do intervalo mínimo de diferença de valores ou de percentuais entre os lances,
+que incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor
+oferta; e
+4.14.2.       os lances serão de envio automático pelo sistema, respeitado o valor final mínimo, caso
+estabelecido, e o intervalo de que trata o subitem acima.
+4.15.     O valor final mínimo parametrizado no sistema poderá ser alterado pelo fornecedor durante a
+fase de disputa, sendo vedado:
+4.15.1.        valor superior a lance já registrado pelo fornecedor no sistema, quando adotado o critério de
+julgamento por menor preço; e
+4.15.2.     SUPRESSÃO
+4.16.     O valor final mínimo parametrizado na forma do item 4.13 possuirá caráter sigiloso para os
+demais fornecedores e para o órgão ou entidade promotora da licitação, podendo ser disponibilizado estrita e
+permanentemente aos órgãos de controle externo e interno.
+
+                    Edital Pregão 90.019/2025 (1882071)     SEI 23086.134619/2025-86 / pg. 5
+
+4.17.        Caberá ao  licitante interessado em participar da licitação acompanhar as operações no
+sistema eletrônico durante o processo licitatório e se responsabilizar pelo ônus decorrente da perda de
+negócios diante da inobservância de mensagens emitidas pela Administração ou de sua desconexão.
+4.18.     O licitante deverá comunicar imediatamente ao provedor do sistema qualquer acontecimento
+que possa comprometer o sigilo ou a segurança, para imediato bloqueio de acesso.
+4.19.      Ao formularem seus lances, os licitantes deverão evitar que os valores unitário e total
+extrapolem o número e duas casas decimais após a vírgula (casa dos centavos).
+
+
+5.       DO PREENCHIMENTO DA PROPOSTA
+5.1.      O licitante deverá enviar sua proposta mediante o preenchimento, no sistema eletrônico, dos
+seguintes campos:
+5.1.1.         valor unitário e total do item;
+5.1.2.        Marca;
+5.1.3.         Fabricante;
+5.1.4.      SUPRESSÃO
+5.2.         Todas as especificações do objeto contidas na proposta vinculam o licitante.
+5.2.1.     O licitante NÃO poderá oferecer proposta em quantitativo inferior ao máximo previsto para
+contratação .
+5.3.        Nos  valores  propostos  estarão  inclusos  todos  os  custos  operacionais,  encargos
+previdenciários, trabalhistas, tributários, comerciais e quaisquer outros que incidam direta ou indiretamente
+na execução do objeto.
+5.4.        Os preços ofertados, tanto na proposta inicial, quanto na etapa de lances, serão de exclusiva
+responsabilidade do licitante, não lhe assistindo o direito de pleitear qualquer alteração, sob alegação de
+erro, omissão ou qualquer outro pretexto.
+5.5.         Se o regime tributário da empresa implicar o recolhimento de tributos em percentuais
+variáveis, a cotação adequada será a que corresponde à média dos efetivos recolhimentos da empresa nos
+últimos doze meses.
+5.5.1.      No regime de incidência não-cumulativa de PIS e COFINS, a cotação adequada será a que
+corresponde à média das alíquotas efetivamente recolhidas pela empresa, comprovada, a qualquer tempo,
+por documentos de Escrituração Fiscal Digital da Contribuição (EFD-Contribuições) para o PIS/PASEP e
+COFINS dos últimos 12 (doze) meses anteriores à apresentação da proposta, ou por outro meio hábil.
+5.6.          Independentemente do percentual de tributo inserido na planilha, no pagamento serão retidos
+na fonte os percentuais estabelecidos na legislação vigente.
+5.7.        Na presente licitação, a Microempresa e a Empresa de Pequeno Porte poderão se beneficiar
+do regime de tributação pelo Simples Nacional.
+5.8.       SUPRESSÃO
+5.9.      A apresentação das propostas implica obrigatoriedade do cumprimento das disposições nelas
+contidas, em conformidade com o que dispõe o Termo de Referência, assumindo o proponente o
+compromisso de executar o  objeto  licitado nos seus termos, bem como de  fornecer os  materiais,
+equipamentos, ferramentas e utensílios necessários, em quantidades e qualidades adequadas à perfeita
+execução contratual, promovendo, quando requerido, sua substituição.
+5.10.     O prazo de validade da proposta não será inferior a 60 (sessenta) dias, a contar da data de sua
+apresentação.
+5.11.       Os licitantes devem respeitar os preços máximos estabelecidos nas normas de regência de
+contratações públicas federais, quando participarem de licitações públicas;
+5.12.        Caso o critério de julgamento seja o de menor preço, os licitantes devem respeitar os preços
+máximos previstos no Termo de Referência.
+
+
+                    Edital Pregão 90.019/2025 (1882071)     SEI 23086.134619/2025-86 / pg. 6
+
+5.13.      SUPRESSÃO
+5.14.     O  descumprimento  das  regras  supramencionadas  pela  Administração  por  parte  dos
+contratados pode ensejar a responsabilização pelo Tribunal de Contas da União e, após o devido processo
+legal, gerar as seguintes consequências: assinatura de prazo para a adoção das medidas necessárias ao exato
+cumprimento da lei, nos termos do art. 71, inciso IX, da Constituição; ou condenação dos agentes públicos
+responsáveis e da empresa contratada ao pagamento dos prejuízos ao erário, caso verificada a ocorrência de
+superfaturamento por sobrepreço na execução do contrato.
+6.       DA  ABERTURA  DA  SESSÃO,  CLASSIFICAÇÃO  DAS  PROPOSTAS  E
+FORMULAÇÃO DE LANCES
+6.1.      A abertura da presente licitação dar-se-á automaticamente em sessão pública, por meio de
+sistema eletrônico, na data, horário e local indicados neste Edital.
+6.2.        Os licitantes poderão retirar ou substituir a proposta ou os documentos de habilitação, quando
+for o caso, anteriormente inseridos no sistema, até a abertura da sessão pública.
+6.3.      O sistema disponibilizará campo próprio para troca de mensagens entre o Pregoeiro e os
+licitantes.
+6.4.           Iniciada a etapa competitiva, os licitantes deverão encaminhar lances exclusivamente por
+meio de sistema eletrônico, sendo imediatamente informados do seu recebimento e do valor consignado no
+registro.
+6.5.      O lance deverá ser ofertado pelo valor unitário do item.
+6.6.        Os licitantes poderão oferecer lances sucessivos, observando o horário fixado para abertura da
+sessão e as regras estabelecidas no Edital.
+6.7.      O licitante somente poderá oferecer lance de valor inferior ao último por ele ofertado e
+registrado pelo sistema.
+6.8.      O intervalo mínimo de diferença de valores ou percentuais entre os lances, que incidirá tanto
+em relação aos lances intermediários quanto em relação à proposta que cobrir a melhor oferta deverá ser de
+1% (um por cento).
+6.9.      O licitante poderá, uma única vez, excluir seu último lance ofertado, no intervalo de quinze
+segundos após o registro no sistema, na hipótese de lance inconsistente ou inexequível.
+6.10.     O procedimento seguirá de acordo com o modo de disputa adotado.
+6.10.1.       Neste certame o modo de disputa adotado será o modo aberto.
+6.11.        Caso seja adotado para o envio de lances no pregão eletrônico o modo de disputa “aberto”, os
+licitantes apresentarão lances públicos e sucessivos, com prorrogações.
+6.11.1.    A etapa de lances da sessão pública terá duração de dez minutos e, após isso, será prorrogada
+automaticamente pelo sistema quando houver lance ofertado nos últimos dois minutos do período de
+duração da sessão pública.
+6.11.2.    A prorrogação automática da etapa de lances, de que trata o subitem anterior, será de dois
+minutos e ocorrerá sucessivamente sempre que houver lances enviados nesse período de prorrogação,
+inclusive no caso de lances intermediários.
+6.11.3.      Não havendo novos lances na forma estabelecida nos itens anteriores, a sessão pública
+encerrar-se-á automaticamente, e o sistema ordenará e divulgará os lances conforme a ordem final de
+classificação, sem prejuízo da aplicação da margem de preferência e do desempate ficto, conforme disposto
+neste edital, quando for o caso.
+6.11.4.       Definida a melhor proposta, se a diferença em relação à proposta classificada em segundo
+lugar for de pelo menos 5% (cinco por cento), o pregoeiro, auxiliado pela equipe de apoio, poderá admitir o
+reinício da disputa aberta, para a definição das demais colocações.
+6.11.5.      Após o reinício previsto no item supra, os licitantes serão convocados para apresentar lances
+intermediários.
+6.12.      SUPRESSÃO
+
+
+                    Edital Pregão 90.019/2025 (1882071)     SEI 23086.134619/2025-86 / pg. 7
+
+6.13.      SUPRESSÃO
+6.14.       Após o término dos prazos estabelecidos nos subitens anteriores, o sistema ordenará e
+divulgará os lances segundo a ordem crescente de valores.
+6.15.       Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for recebido
+e registrado em primeiro lugar.
+6.16.        Durante o transcurso da sessão pública, os licitantes serão informados, em tempo real, do
+valor do menor lance registrado, vedada a identificação do licitante.
+6.17.      No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do Pregão, o
+sistema eletrônico poderá permanecer acessível aos licitantes para a recepção dos lances.
+6.18.       Quando a desconexão do sistema eletrônico para o pregoeiro persistir por tempo superior a
+dez minutos, a sessão pública será suspensa e reiniciada somente após decorridas vinte e quatro horas da
+comunicação do fato pelo Pregoeiro aos participantes, no sítio eletrônico utilizado para divulgação.
+6.19.        Caso o licitante não apresente lances, concorrerá com o valor de sua proposta.
+6.20.      Ao final da fase de lances, será aplicado o benefício da margem de preferência, nos termos do
+art. 26 da Lei 14133/21.
+6.20.1.       Para produtos ou serviços abrangidos por margem de preferência normal ou adicional, caso a
+proposta de menor preço não tenha por objeto produto ou serviço contemplado pela referida margem, o
+sistema automaticamente indicará as propostas de produtos ou serviços que façam jus ao diferencial de
+preço, pela ordem de classificação, para fins de aceitação pelo Pregoeiro/Agente de Contratação/Comissão.
+6.20.2.       Nestas situações, a proposta beneficiada pela aplicação da margem de preferência normal ou
+adicional, conforme o caso, tornar-se-á a proposta classificada em primeiro lugar.
+6.21.      Em relação a itens não exclusivos para participação de microempresas e empresas de
+pequeno porte, uma vez encerrada a etapa de lances, será efetivada a verificação automática, junto à Receita
+Federal, do porte da entidade empresaria, caso a contratação não se enquadre nas vedações dos §§1º e 2º do
+art. 4º da Lei nº 14.133, de 2021. O sistema identificará em coluna própria as microempresas e empresas de
+pequeno porte participantes, procedendo à comparação com os valores da primeira colocada, se esta for
+empresa de maior porte, assim como das demais classificadas, para o fim de aplicar-se o disposto nos arts.
+44 e 45 da Lei Complementar nº 123, de 2006, regulamentada pelo Decreto nº 8.538, de 2015.
+6.21.1.      Quando houver propostas beneficiadas com as margens de preferência, apenas poderão se
+valer do critério de desempate previsto nos arts. 44 e 45 da Lei Complementar nº 123, de 2006, as propostas
+de microempresas e empresas de pequeno porte que também fizerem jus às margens de preferência (art. 5º,
+§9º, I, do Decreto n.º 8538, de 2025.
+6.21.2.    O parâmetro para o empate ficto, nesse caso, consistirá no preço ofertado pela fornecedora
+classificada em primeiro lugar em razão da aplicação da margem de preferência.
+6.21.3.       Nessas condições, as propostas de microempresas e empresas de pequeno porte que se
+encontrarem na faixa de até 10% (dez por cento), caso se trate de uma concorrência, ou de até 5% (cinco por
+cento), caso se trate de um pregão, serão consideradas empatadas com a primeira colocada.
+6.21.4.    A licitante melhor classificada nos termos do subitem anterior terá o direito de encaminhar
+uma última oferta para desempate, obrigatoriamente em valor inferior ao da primeira colocada, no prazo de
+5 (cinco) minutos controlados pelo sistema, contados após a comunicação automática para tanto.
+6.21.5.      Caso a microempresa ou a empresa de pequeno porte melhor classificada desista ou não se
+manifeste no prazo estabelecido, serão convocadas as demais licitantes microempresa e empresa de pequeno
+porte que se encontrem naquele intervalo de até 10% (dez por cento), caso se trate de uma concorrência, ou
+de até 5% (cinco por cento), caso se trate de um pregão, na ordem de classificação, para o exercício do
+mesmo direito, no prazo estabelecido no subitem anterior.
+6.21.6.     No caso de equivalência dos valores apresentados pelas microempresas e empresas de
+pequeno porte que se encontrem nos intervalos estabelecidos nos subitens anteriores, será realizado sorteio
+entre elas para que se identifique aquela que primeiro poderá apresentar melhor oferta.
+6.21.7.    A obtenção do benefício a que se refere o item anterior fica limitada às microempresas e às
+empresas de pequeno porte que, no ano-calendário de realização da licitação, ainda não tenham celebrado
+
+                    Edital Pregão 90.019/2025 (1882071)     SEI 23086.134619/2025-86 / pg. 8
+
+contratos com a Administração Pública cujos valores somados extrapolem a receita bruta máxima admitida
+para fins de enquadramento como empresa de pequeno porte.
+6.22.       Só poderá haver empate entre propostas iguais (não seguidas de lances), ou entre lances finais
+da fase fechada do modo de disputa aberto e fechado.
+6.23.        Havendo eventual empate entre propostas ou lances, o critério de desempate será aquele
+previsto no art. 60 da Lei nº 14.133, de 2021, nesta ordem:
+6.23.1.        disputa final, hipótese em que os licitantes empatados poderão apresentar nova proposta em
+ato contínuo à classificação;
+6.23.2.        avaliação  do  desempenho  contratual  prévio  dos   licitantes,  para  a  qual  deverão
+preferencialmente ser utilizados registros cadastrais para efeito de atesto de cumprimento de obrigações
+previstos nesta Lei;
+6.23.3.       desenvolvimento pelo licitante de ações de equidade entre homens e mulheres no ambiente de
+trabalho, conforme regulamento;
+6.23.4.       desenvolvimento pelo licitante de programa de integridade, conforme Decreto n° 12.304, de
+2024.
+6.24.          Persistindo o empate, será assegurada preferência, sucessivamente, aos bens e serviços
+produzidos ou prestados por:
+6.24.1.       empresas estabelecidas no território do Estado ou do Distrito Federal do órgão ou entidade da
+Administração Pública estadual ou distrital licitante ou, no caso de licitação realizada por órgão ou entidade
+de Município, no território do Estado em que este se localize;
+6.24.2.       empresas brasileiras;
+6.24.3.       empresas que invistam em pesquisa e no desenvolvimento de tecnologia no País;
+6.24.4.       empresas que comprovem a prática de mitigação, nos termos da Lei nº 12.187, de 29 de
+dezembro de 2009.
+6.25.         Esgotados todos os demais critérios de desempate previstos em lei, a escolha do licitante
+vencedor ocorrerá por sorteio, em ato público, para o qual todos os licitantes serão convocados, vedado
+qualquer outro processo.
+6.26.         Encerrada a etapa de envio de lances da sessão pública, na hipótese da proposta do primeiro
+colocado permanecer acima do preço máximo ou inferior ao desconto definido para a contratação, o
+pregoeiro poderá negociar condições mais vantajosas, após definido o resultado do julgamento.
+6.26.1.     SUPRESSÃO
+6.26.2.    A negociação poderá ser feita com os demais licitantes, segundo a ordem de classificação
+inicialmente estabelecida, quando o primeiro colocado, mesmo após a negociação, for desclassificado em
+razão de sua proposta permanecer acima do preço máximo definido pela Administração.
+6.26.3.    A negociação será realizada por meio do sistema, podendo ser acompanhada pelos demais
+licitantes.
+6.26.4.    O resultado da negociação será divulgado a todos os licitantes e anexado aos autos do
+processo licitatório.
+6.26.5.    O pregoeiro solicitará ao licitante mais bem classificado que, no prazo mínimo de 2 (duas)
+horas, envie a proposta adequada ao último lance ofertado após a negociação realizada, acompanhada, se for
+o caso, dos documentos complementares, quando necessários à confirmação daqueles exigidos neste Edital
+e já apresentados.
+6.26.6.     É facultado ao pregoeiro prorrogar o prazo estabelecido, a partir de solicitação fundamentada
+feita no chat pelo licitante, antes de findo o prazo.
+6.27.       Após a negociação do preço, o Pregoeiro iniciará a fase de aceitação e julgamento da
+proposta.
+6.28.     O não envio dos anexos no prazo estabelecido poderá ensejar na desclassificação das
+proposta pelo pregoeiro. Sendo caracterizado como infração administrativa conforme Art. 155 inciso IV da
+
+                    Edital Pregão 90.019/2025 (1882071)     SEI 23086.134619/2025-86 / pg. 9
+
+ Lei 14133/2021.
+
+
+ 7.       DA FASE DE JULGAMENTO
+ 7.1.          Encerrada a etapa de negociação, o pregoeiro verificará se o  licitante provisoriamente
+ classificado em primeiro lugar atende às condições de participação no certame, conforme previsto no art. 14
+ da Lei nº 14.133/2021, legislação correlata e no item 2.9 do edital, especialmente quanto à existência de
+ sanção que impeça a participação no certame ou a futura contratação, mediante a consulta aos seguintes
+ cadastros:
+ 7.1.1.       SICAF;
+ 7.1.2.        Cadastro Nacional de Empresas Inidôneas e Suspensas - CEIS, mantido pela Controladoria-
+ Geral da União (https://www.portaltransparencia.gov.br/sancoes/ceis); e
+ 7.1.3.        Cadastro Nacional de Empresas Punidas – CNEP, mantido pela Controladoria-Geral da
+ União (https://portaldatransparencia.gov.br/pagina-interna/603244-cnep).
+ 7.2.      A consulta aos cadastros será realizada em nome da empresa e no CNPJ licitante.
+ 7.2.1.     A consulta no CNEP quanto às sanções previstas na Lei nº 8.429, de1992, também ocorrerá
+ no nome e no CPF do sócio majoritário da empresa licitante, se houver, por força do art. 12 da citada lei.
+ 7.3.         Caso conste na Consulta de Situação do licitante a existência de Ocorrências Impeditivas
+ Indiretas, o Pregoeiro diligenciará para verificar se houve fraude por parte das empresas apontadas no
+ Relatório de Ocorrências Impeditivas Indiretas. (IN nº 3/2018, art. 29, caput).
+ 7.3.1.     A tentativa de burla será verificada por meio dos vínculos societários, linhas de fornecimento
+ similares, dentre outros. (IN nº 3/2018, art. 29, §1º).
+ 7.3.2.     O licitante será convocado para manifestação previamente a uma eventual desclassificação.
+ (IN nº 3/2018, art. 29, §2º).
+ 7.3.3.        Constatada a existência de sanção, o licitante será reputado inabilitado, por falta de condição
+ de participação.
+ 7.4.       SUPRESSÃO
+7.5.         Caso o licitante provisoriamente classificado em primeiro lugar tenha se utilizado de algum
+tratamento favorecido às ME/EPPs ou tenha se valido da aplicação da margem de preferência, o Pregoeiro
+verificará se o licitante faz jus ao benefício aplicado.
+ 7.5.1.       Caso o licitante não venha a comprovar o atendimento dos requisitos para fazer jus ao
+ benefício da margem de preferência, as propostas serão reclassificadas, para fins de nova aplicação da
+ margem de preferência.
+ 7.6.           Verificadas as condições de  participação e de  utilização do tratamento  favorecido, o
+ pregoeiro examinará a proposta  classificada em primeiro lugar quanto à adequação ao objeto e à
+ compatibilidade do preço em relação ao máximo estipulado para contratação neste Edital e em seus anexos,
+ observado o disposto no artigo 29 a 35 da IN SEGES nº 73, de 30 de setembro de 2022.
+ 7.7.       SUPRESSÃO
+ 7.8.       SUPRESSÃO
+ 7.9.          Será desclassificada a proposta vencedora que:
+ 7.9.1.         contiver vícios insanáveis;
+ 7.9.2.        não obedecer às especificações técnicas contidas no Termo de Referência;
+ 7.9.3.         apresentar preços inexequíveis ou permanecerem acima do preço máximo definido para a
+ contratação;
+ 7.9.4.        não tiverem sua exequibilidade demonstrada, quando exigido pela Administração;
+ 7.9.5.         apresentar desconformidade com quaisquer outras exigências deste Edital ou seus anexos,
+ desde que insanável.
+
+
+                     Edital Pregão 90.019/2025 (1882071)     SEI 23086.134619/2025-86 / pg. 10
+
+7.10.      No caso de bens e serviços em geral, é indício de inexequibilidade das propostas valores
+inferiores a 50% (cinquenta por cento) do valor orçado pela Administração.
+7.11.     A inexequibilidade, na hipótese de que trata o caput, só será considerada após diligência do
+pregoeiro, que comprove:
+7.11.1.       que o custo do licitante ultrapassa o valor da proposta; e
+7.11.2.        inexistirem custos de oportunidade capazes de justificar o vulto da oferta.
+7.12.      SUPRESSÃO
+7.13.        Se houver indícios de inexequibilidade da proposta de preço, ou em caso da necessidade de
+esclarecimentos complementares, poderão ser efetuadas diligências, para que a empresa comprove a
+exequibilidade da proposta.
+7.14.        Caso o custo global estimado do objeto licitado tenha sido decomposto em seus respectivos
+custos unitários por meio de Planilha de Custos e Formação de Preços elaborada pela Administração, o
+licitante classificado em primeiro lugar será convocado para apresentar Planilha por ele elaborada, com os
+respectivos valores adequados ao valor final da sua proposta, sob pena de não aceitação da proposta.
+7.14.1.     SUPRESSÃO
+7.15.         Erros no preenchimento da planilha não constituem motivo para a desclassificação da
+proposta. A planilha poderá́ ser ajustada pelo fornecedor, no prazo indicado pelo sistema, desde que não haja
+majoração do preço e que se comprove que este é o bastante para arcar com todos os custos da contratação;
+7.15.1.    O ajuste de que trata este dispositivo se limita a sanar erros ou falhas que não alterem a
+substância das propostas;
+7.15.2.       Considera-se  erro no preenchimento da  planilha  passível de correção a indicação de
+recolhimento de impostos e contribuições na forma do Simples Nacional, quando não cabível esse regime.
+7.16.         Para fins de análise da proposta quanto ao cumprimento das especificações do objeto, poderá
+ser colhida a manifestação escrita do setor requisitante do serviço ou da área especializada no objeto.
+7.17.      SUPRESSÃO
+7.18.      SUPRESSÃO
+7.19.      SUPRESSÃO
+7.20.      SUPRESSÃO
+7.21.      SUPRESSÃO
+7.22.      SUPRESSÃO
+7.23.      SUPRESSÃO
+7.24.      SUPRESSÃO
+7.25.     O  pregoeiro/agente de  contratação/comissão de  contratação  realizará a  verificação da
+observância da proposta  classificada provisoriamente em primeiro lugar quanto aos custos  unitários
+mínimos relevantes estabelecidos pela Administração, além dos demais aspectos ligados à conformidade da
+proposta ao objeto licitado e à compatibilidade do preço.
+7.26.     O pregoeiro/agente de contratação/comissão de contratação concederá o prazo de no mínimo
+duas horas para readequação da proposta quando esta não observar os custos unitários mínimos relevantes,
+sob pena de desclassificação, na forma da Instrução Normativa nº 73, de 30 de setembro de 2022.
+7.27.      SUPRESSÃO
+7.28.      SUPRESSÃO
+
+
+8.       DA FASE DE HABILITAÇÃO
+8.1.        Os documentos previstos no Termo de Referência, necessários e suficientes para demonstrar
+a capacidade do licitante de realizar o objeto da licitação, serão exigidos para fins de habilitação, nos termos
+dos arts. 62 a 70 da Lei nº 14.133, de 2021.
+
+                    Edital Pregão 90.019/2025 (1882071)     SEI 23086.134619/2025-86 / pg. 11
+
+8.1.1.     A documentação exigida para fins de habilitação jurídica,  fiscal, social e trabalhista e
+econômico-nanceira, poderá ser substituída pelo registro cadastral no SICAF.
+8.2.        Quando permitida a participação de empresas estrangeiras que não funcionem no País, as
+exigências de habilitação serão atendidas mediante documentos equivalentes, inicialmente apresentados em
+tradução livre.
+8.3.        Na hipótese de o licitante vencedor ser empresa estrangeira que não funcione no País, para
+ns de assinatura do contrato ou da ata de registro de preços, os documentos exigidos para a habilitação
+serão traduzidos por tradutor juramentado no País e apostilados nos termos do disposto no Decreto nº 8.660,
+de 29 de janeiro de 2016, ou de outro que venha a substituí-lo, ou consularizados pelos respectivos
+consulados ou embaixadas.
+8.4.        Quando permitida a participação de consórcio de empresas, a habilitação técnica, quando
+exigida, será feita por meio do somatório dos quantitativos de cada consorciado e, para efeito de habilitação
+econômico-financeira, quando exigida, será observado o somatório dos valores de cada consorciado.
+8.4.1.       Se o consórcio não for formado integralmente por microempresas ou empresas de pequeno
+porte e o termo de referência exigir requisitos de habilitação econômico-financeira, haverá um acréscimo
+de 10% ( dez por cento) para o consórcio em relação ao valor exigido para os licitantes individuais.
+8.5.        Os documentos exigidos para fins de habilitação poderão ser apresentados em original, por
+cópia ou em formato eletrônico.
+8.6.        Os documentos exigidos para  fins de habilitação poderão ser substituídos por registro
+cadastral emitido por órgão ou entidade pública, desde que o registro tenha sido feito em obediência ao
+disposto na Lei nº 14.133/2021.
+8.7.          Será  verificado  se o  licitante apresentou declaração de que atende aos  requisitos de
+habilitação, e o declarante responderá pela veracidade das informações prestadas, na forma da lei (art. 63, I,
+da Lei nº 14.133/2021).
+8.8.          Será verificado se o licitante apresentou no sistema, sob pena de inabilitação, a declaração de
+que cumpre as exigências de reserva de cargos para pessoa com deficiência e para reabilitado da Previdência
+Social, previstas em lei e em outras normas específicas.
+8.9.      O licitante deverá apresentar, sob pena de desclassificação, declaração de que suas propostas
+econômicas compreendem a integralidade dos custos para atendimento dos direitos trabalhistas assegurados
+na Constituição Federal, nas leis trabalhistas, nas normas infralegais, nas convenções coletivas de trabalho e
+nos termos de ajustamento de conduta vigentes na data de entrega das propostas.
+8.10.      SUPRESSÃO
+8.11.     A habilitação será verificada por meio do Sicaf, nos documentos por ele abrangidos.
+8.11.1.      Somente haverá a necessidade de comprovação do preenchimento de requisitos mediante
+apresentação dos documentos originais não-digitais quando houver dúvida em relação à integridade do
+documento digital ou quando a lei expressamente o exigir. (IN nº 3/2018, art. 4º, §1º, e art. 6º, §4º).
+8.12.      É de responsabilidade do licitante conferir a exatidão dos seus dados cadastrais no Sicaf e
+mantê-los atualizados junto aos órgãos responsáveis pela informação, devendo proceder, imediatamente, à
+correção ou à alteração dos registros tão logo identifique incorreção ou aqueles se tornem desatualizados.
+(IN nº 3/2018, art. 7º, caput).
+8.12.1.    A não observância do disposto no item anterior poderá ensejar desclassificação no momento
+da habilitação. (IN nº 3/2018, art. 7º, parágrafo único).
+8.13.     A verificação pelo pregoeiro, em sítios eletrônicos oficiais de órgãos e entidades emissores de
+certidões constitui meio legal de prova, para fins de habilitação.
+8.13.1.      Os documentos exigidos para habilitação que não estejam contemplados no Sicaf serão
+enviados por meio do sistema, em formato digital, no prazo de no mínimo duas horas, prorrogável por igual
+período, contado da solicitação do pregoeiro.
+8.13.2.     SUPRESSÃO
+8.14.     A verificação no Sicaf ou a exigência dos documentos nele não contidos somente será feita
+
+
+                    Edital Pregão 90.019/2025 (1882071)     SEI 23086.134619/2025-86 / pg. 12
+
+em relação ao licitante vencedor.
+8.14.1.      Os documentos relativos à regularidade fiscal que constem do Termo de Referência somente
+serão exigidos, em qualquer caso, em momento posterior ao julgamento das propostas, e apenas do licitante
+mais bem classificado.
+8.14.2.       Respeitada a exceção do subitem anterior, relativa à regularidade fiscal, quando a fase de
+habilitação anteceder as fases de apresentação de propostas e lances e de julgamento, a verificação ou
+exigência do presente subitem ocorrerá em relação a todos os licitantes.
+8.15.         Encerrado o prazo para envio da documentação de que trata o item 8.13.1, poderá ser
+admitida, mediante decisão fundamentada do Pregoeiro/Agente de Contratação, a apresentação de novos
+documentos de habilitação ou a complementação de informações acerca dos documentos já apresentados
+pelos licitantes, mínimo duas horas, para:
+8.15.1.       a aferição das condições de habilitação do licitante, desde que decorrentes de fatos existentes
+à época da abertura do certame;
+8.15.2.        atualização de documentos cuja validade tenha expirado após a data de recebimento das
+propostas;
+8.15.3.       suprimento da ausência de documento de cunho declaratório emitido unilateralmente pelo
+licitante;
+8.15.4.       suprimento da ausência de certidão e/ou documento de cunho declaratório expedido por
+órgão ou entidade cujos atos gozem de presunção de veracidade e fé pública.
+8.16.        Findo o prazo  assinalado sem o envio da nova documentação,  restará  preclusa  essa
+oportunidade conferida ao licitante, implicando sua inabilitação.
+8.17.       Na análise dos documentos de habilitação, a comissão de contratação poderá sanar erros ou
+falhas, que não  alterem  a  substância  dos documentos  e  sua  validade  jurídica,  mediante  decisão
+fundamentada, registrada em ata e acessível a todos, atribuindo-lhes ecácia para fins de habilitação e
+classificação.
+8.18.       Na hipótese de o licitante não atender às exigências para habilitação, o pregoeiro examinará a
+proposta subsequente e assim sucessivamente, na ordem de classificação, até a apuração de uma proposta
+que atenda ao presente edital, observado o prazo disposto no subitem 8.13.1.
+8.19.        Somente serão disponibilizados para acesso público os documentos de habilitação do licitante
+cuja proposta atenda ao edital de licitação, após concluídos os procedimentos de que trata o subitem
+anterior.
+8.20.     A comprovação de regularidade fiscal e trabalhista das microempresas e das empresas de
+pequeno porte somente será exigida para efeito de contratação, e não como condição para participação na
+licitação (art. 4º do Decreto nº 8.538/2015).
+8.21.      SUPRESSÃO
+8.22.        Caso seja identificado, por meio de consulta à situação do licitante, o registro de pendência
+no Cadastro Informativo de Créditos não Quitados do Setor Público Federal (CADIN), o Pregoeiro
+notificará a licitante por meio do chat do sistema ComprasGov, informando a ocorrência e concedendo o
+prazo de cinco dias úteis para a devida regularização.
+8.22.1.       Durante esse prazo, a licitante deverá apresentar comprovação da regularidade no CADIN,
+por meio de consulta atualizada no sistema ou mediante apresentação de certidão de regularidade emitida
+pela entidade credora responsável pelo registro.
+8.22.1.1.   O prazo de cinco dias úteis poderá ser prorrogado uma única vez, por igual período, desde
+que  haja solicitação fundamentada da licitante e a prorrogação seja expressamente autorizada pela
+Administração. A solicitação deverá ser encaminhada via e-mail, conforme orientação do Pregoeiro.
+8.22.2.        Transcorrido(s) o(s) prazo(s) estipulado(s), o Pregoeiro dará prosseguimento ao certame,
+promovendo a aceitação da proposta referente ao item da licitante que tiver comprovado a regularização, ou,
+caso contrário, recusando a proposta para o respectivo item e analisando a documentação da licitante
+classificada em ordem subsequente.
+
+
+                    Edital Pregão 90.019/2025 (1882071)     SEI 23086.134619/2025-86 / pg. 13
+
+9.       DO TERMO DE CONTRATO
+9.1.         Após a homologação e adjudicação, caso se conclua pela contratação, será firmado termo de
+contrato, ou outro instrumento equivalente.
+9.2.       O adjudicatário terá o prazo de 05  (cinco) dias úteis, contados a partir da data de sua
+convocação, para assinar o termo de contrato ou instrumento equivalente, sob pena de decair o direito à
+contratação, sem prejuízo das sanções previstas neste Edital.
+9.3.          Alternativamente à convocação para comparecer perante o órgão ou entidade para a
+assinatura do Termo de Contrato ou instrumento equivalente, a Administração poderá:
+                       a) encaminhá-lo para  assinatura, mediante correspondência postal com aviso de
+                    recebimento (AR), para que seja assinado e devolvido no prazo de 05 (cinco) dias
+                         úteis, a contar da data de seu recebimento;
+                     b) disponibilizar acesso a sistema de processo eletrônico para que seja assinado
+                     digitalmente em até 05 (cinco) dias úteis; ou
+                       c) outro meio eletrônico, assegurado o prazo de 05 (cinco) dias úteis para resposta
+                   após recebimento da notificação pela Administração.
+9.4.       O Aceite da Nota de Empenho ou do instrumento equivalente, emitida ao fornecedor
+adjudicado, implica o reconhecimento de que:
+9.4.1.          referida Nota está substituindo o contrato, aplicando-se à relação de negócios ali estabelecida
+as disposições da Lei nº 14.133, de 2021;
+9.4.2.         a contratada se vincula à sua proposta e às previsões contidas neste Edital;
+9.4.3.         a contratada reconhece que as hipóteses de rescisão são aquelas previstas nos artigos 137 e
+138 da Lei nº 14.133, de 2021 e reconhece os direitos da Administração previstos nos artigos 137 a 139 da
+mesma Lei.
+9.5.         Os prazos dos itens 9.2 e 9.3 poderão ser prorrogados, por igual período, por solicitação
+justificada do adjudicatário e aceita pela Administração.
+9.6.      O prazo de vigência da contratação é o estabelecido no Termo de Referência.
+9.7.        Na assinatura do contrato ou instrumento equivalente será exigido o Cadastro Informativo de
+Créditos não Quitados do Setor Público Federal – Cadin e a comprovação das condições de habilitação e
+contratação consignadas neste Edital, que deverão ser mantidas pelo fornecedor durante a vigência do
+contrato.
+9.7.1.     A existência de registro no Cadin constitui fator impeditivo para a contratação.
+10.       DOS RECURSOS
+10.1.     A interposição de recurso referente ao julgamento das propostas, à habilitação ou inabilitação
+de licitantes, à anulação ou revogação da licitação, observará o disposto no art. 165 da Lei nº 14.133, de
+2021.
+10.2.     O prazo recursal é de 3 (três) dias úteis, contados da data de intimação ou de lavratura da ata.
+10.3.       Quando o recurso apresentado impugnar o julgamento das propostas ou o ato de habilitação
+ou inabilitação do licitante:
+10.3.1.       a intenção de recorrer deverá ser manifestada imediatamente, sob pena de preclusão;
+10.3.2.      o prazo para a manifestação da intenção de recorrer não será inferior a 10 (dez) minutos.
+10.3.3.      o prazo para apresentação das razões recursais será iniciado na data de intimação ou de
+lavratura da ata de habilitação ou inabilitação;
+10.3.4.       na hipótese de adoção da inversão de fases prevista no § 1º do art. 17 da Lei nº 14.133, de
+2021, o prazo para apresentação das razões recursais será iniciado na data de intimação da ata de
+julgamento.
+10.4.       Os recursos deverão ser encaminhados em campo próprio do sistema.
+10.5.     O recurso será dirigido à autoridade que tiver editado o ato ou proferido a decisão recorrida, a
+
+                    Edital Pregão 90.019/2025 (1882071)     SEI 23086.134619/2025-86 / pg. 14
+
+qual poderá reconsiderar sua decisão no prazo de 3 (três) dias úteis, ou, nesse mesmo prazo, encaminhar
+recurso para a autoridade superior, a qual deverá proferir sua decisão no prazo de 10 (dez) dias úteis,
+contado do recebimento dos autos.
+10.6.       Os recursos interpostos fora do prazo não serão conhecidos.
+10.7.     O prazo para apresentação de contrarrazões ao recurso pelos demais licitantes será de 3 (três)
+dias úteis, contados da data da intimação pessoal ou da divulgação da interposição do recurso, assegurada a
+vista imediata dos elementos indispensáveis à defesa de seus interesses.
+10.8.     O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão recorrida
+até que sobrevenha decisão final da autoridade competente.
+10.9.     O acolhimento do recurso invalida tão somente os atos insuscetíveis de aproveitamento.
+10.10.      Os  autos do  processo permanecerão com  vista  franqueada  aos  interessados no  sítio
+e   l  e   t  r  ô  n   i  c  o https://sei.ufvjm.edu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?
+acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0 ,
+devendo ser informado o Nº SEI (protocolo Processo/Documento) "23086.134619/2025-86".
+11.       DAS INFRAÇÕES ADMINISTRATIVAS E SANÇÕES
+11.1.        Comete infração administrativa, nos termos da lei, o licitante que, com dolo ou culpa:
+11.1.1.        deixar de entregar a documentação exigida para o certame ou não entregar qualquer
+documento que tenha sido solicitado pelo/a pregoeiro/a durante o certame;
+11.1.2.       Salvo em decorrência de fato superveniente devidamente justificado, não mantiver a proposta
+em especial quando:
+11.1.2.1.     não enviar a proposta adequada ao último lance ofertado ou após a negociação;
+11.1.2.2.      recusar-se a enviar o detalhamento da proposta quando exigível;
+11.1.2.3.      pedir para ser desclassificado quando encerrada a etapa competitiva; ou
+11.1.2.4.    SUPRESSÃO
+11.1.2.5.      apresentar proposta ou amostra em desacordo com as especificações do edital;
+11.1.3.       não celebrar o contrato ou não entregar a documentação exigida para a contratação, quando
+convocado dentro do prazo de validade de sua proposta;
+11.1.4.        recusar-se, sem justificativa, a assinar o contrato ou a ata de registro de preço, ou a aceitar ou
+retirar o instrumento equivalente no prazo estabelecido pela Administração;
+11.1.5.        apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração
+falsa durante a licitação
+11.1.6.        fraudar a licitação
+11.1.7.       comportar-se de modo inidôneo ou cometer fraude de qualquer natureza, em especial quando:
+11.1.7.1.      agir em conluio ou em desconformidade com a lei;
+11.1.7.2.      induzir deliberadamente a erro no julgamento;
+11.1.7.3.      apresentar amostra falsificada ou deteriorada;
+11.1.8.        praticar atos ilícitos com vistas a frustrar os objetivos da licitação
+11.1.9.        praticar ato lesivo previsto no art. 5º da Lei n.º 12.846, de 2013.
+11.2.      Com  fulcro na Lei nº 14.133, de 2021, a Administração poderá, após regular processo
+administrativo, garantida a prévia defesa, aplicar aos licitantes e/ou adjudicatários as seguintes sanções, sem
+prejuízo das responsabilidades civil e criminal:
+11.2.1.        advertência;
+11.2.2.       multa;
+11.2.3.       impedimento de licitar e contratar e
+11.2.4.       declaração de inidoneidade para  licitar ou  contratar, enquanto perdurarem os motivos
+
+                    Edital Pregão 90.019/2025 (1882071)     SEI 23086.134619/2025-86 / pg. 15
+
+determinantes da punição ou até que seja promovida sua reabilitação perante a própria autoridade que
+aplicou a penalidade.
+11.3.       Na aplicação das sanções serão considerados:
+11.3.1.       a natureza e a gravidade da infração cometida.
+11.3.2.        as peculiaridades do caso concreto
+11.3.3.        as circunstâncias agravantes ou atenuantes
+11.3.4.       os danos que dela provierem para a Administração Pública
+11.3.5.       a implantação ou o aperfeiçoamento de programa de integridade, conforme normas e
+orientações dos órgãos de controle.
+11.4.     A multa será recolhida no prazo máximo de 15 (quinze) dias úteis, a contar da comunicação
+oficial.
+11.4.1.       Para as infrações previstas nos itens 11.1.1, 11.1.2 e 11.1.3, a multa será de 0,5% a 15% do
+valor do contrato licitado.
+11.4.2.       Para as infrações previstas nos itens 11.1.5, 11.1.6, 11.17, 11.1.8 e 11.1.9  a multa será de
+15% a 30% do valor do contrato licitado.
+        Os percentuais serão definidos ao caso concreto
+11.5.       As sanções de advertência, impedimento de licitar e contratar e declaração de inidoneidade
+para licitar ou contratar poderão ser aplicadas, cumulativamente ou não, à penalidade de multa.
+11.6.       Na aplicação da sanção de multa será facultada a defesa do interessado no prazo de 15
+(quinze) dias úteis, contado da data de sua intimação.
+11.7.     A sanção de impedimento de licitar e contratar será aplicada ao responsável em decorrência
+das infrações administrativas relacionadas nos itens 11.1.1, 11.1.2 e 11.1.3 e 14.1.4 quando não se justificar
+a imposição de penalidade mais grave, e impedirá o responsável de  licitar e contratar no âmbito da
+Administração Pública direta e indireta do ente federativo a qual pertencer o órgão ou entidade, pelo prazo
+máximo de 3 (três) anos.
+11.8.        Poderá ser aplicada ao responsável a sanção de declaração de inidoneidade para licitar ou
+contratar, em decorrência da prática das infrações dispostas nos itens 11.1.5, 11.1.6, 11.1.7, 11.1.8 e 11.1.9
+bem como pelas infrações administrativas previstas nos itens 11.1.1, 11.1.2, 11.1.3 e 14.1.4 que justifiquem
+a imposição de penalidade mais grave que a sanção de impedimento de licitar e contratar, cuja duração
+observará o prazo previsto no art. 156, §5º, da Lei n.º 14.133/2021.
+11.9.     A recusa injustificada do adjudicatário em assinar o contrato ou a ata de registro de preço, ou
+em aceitar ou retirar o instrumento equivalente no prazo estabelecido pela Administração, descrita no item
+11.1.3, caracterizará o descumprimento total da obrigação assumida e o sujeitará às penalidades e à imediata
+perda da garantia de proposta em favor do órgão ou entidade promotora da licitação, nos termos do art. 45,
+§4º da IN SEGES/ME n.º 73, de 2022.
+11.10.     A apuração de responsabilidade relacionadas às sanções de impedimento de licitar e contratar
+e de declaração de inidoneidade para  licitar ou  contratar demandará a instauração de processo de
+responsabilização a ser conduzido por comissão composta por 2 (dois) ou mais servidores estáveis, que
+avaliará fatos e circunstâncias conhecidos e intimará o licitante ou o adjudicatário para, no prazo de 15
+(quinze) dias úteis, contado da data de sua intimação, apresentar defesa escrita e especificar as provas que
+pretenda produzir.
+11.11.       Caberá recurso no prazo de 15 (quinze) dias úteis da aplicação das sanções de advertência,
+multa e impedimento de licitar e contratar, contado da data da intimação, o qual será dirigido à autoridade
+que tiver proferido a decisão recorrida, que, se não a reconsiderar no prazo de 5 (cinco) dias úteis,
+encaminhará o recurso com sua motivação à autoridade superior, que deverá proferir sua decisão no prazo
+máximo de 20 (vinte) dias úteis, contado do recebimento dos autos.
+11.12.       Caberá a apresentação de pedido de reconsideração da aplicação da sanção de declaração de
+inidoneidade para licitar ou contratar no prazo de 15 (quinze) dias úteis, contado da data da intimação, e
+decidido no prazo máximo de 20 (vinte) dias úteis, contado do seu recebimento.
+
+
+                    Edital Pregão 90.019/2025 (1882071)     SEI 23086.134619/2025-86 / pg. 16
+
+11.13.     O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão recorrida
+até que sobrevenha decisão final da autoridade competente.
+11.14.     A aplicação das sanções previstas neste edital não exclui, em hipótese alguma, a obrigação de
+reparação integral dos danos causados.
+11.15.        Para a garantia da ampla defesa e contraditório dos licitantes, as notificações serão enviadas
+eletronicamente para os endereços de e-mail informados na proposta comercial, bem como os cadastrados
+pela empresa no SICAF.
+11.15.1.     Os endereços de e-mail informados na proposta comercial e/ou cadastrados no Sicaf serão
+considerados de uso contínuo da empresa, não cabendo alegação de desconhecimento das comunicações a
+eles comprovadamente enviadas.
+12.      DA IMPUGNAÇÃO AO EDITAL E DO PEDIDO DE ESCLARECIMENTO
+12.1.        Qualquer pessoa é parte legítima para impugnar este Edital por irregularidade na aplicação da
+Lei nº 14.133, de 2021, devendo protocolar o pedido até 3 (três) dias úteis antes da data da abertura do
+certame.
+12.2.     A resposta à impugnação ou ao pedido de esclarecimento será divulgado em sítio eletrônico
+oficial no prazo de até 3 (três) dias úteis, limitado ao último dia útil anterior à data da abertura do certame.
+12.3.     A impugnação e o pedido de esclarecimento poderão ser realizados por forma eletrônica, para
+o e-mail pregao@ufvjm.edu.br.
+12.4.       As impugnações e pedidos de esclarecimentos não suspendem os prazos previstos no
+certame.
+12.5.     A concessão de efeito suspensivo à impugnação é medida excepcional e deverá ser motivada
+pelo agente de contratação, nos autos do processo de licitação.
+12.6.         Acolhida a impugnação, será definida e publicada nova data para a realização do certame.
+13.       DAS DISPOSIÇÕES GERAIS
+13.1.         Será divulgada ata da sessão pública no sistema eletrônico.
+13.2.       Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a realização
+do certame na data marcada, a sessão será automaticamente transferida para o primeiro dia útil subsequente,
+no mesmo horário anteriormente estabelecido, desde que não haja comunicação em  contrário, pelo
+Pregoeiro.
+13.3.        Todas as referências de tempo no Edital, no aviso e durante a sessão pública observarão o
+horário de Brasília - DF.
+13.4.     A homologação do resultado desta licitação não implicará direito à contratação.
+13.5.       As normas disciplinadoras da licitação serão sempre interpretadas em favor da ampliação da
+disputa entre os interessados, desde que não comprometam o interesse da Administração, o princípio da
+isonomia, a finalidade e a segurança da contratação.
+13.6.       Os licitantes assumem todos os custos de preparação e apresentação de suas propostas e a
+Administração não será, em nenhum caso, responsável por esses custos, independentemente da condução ou
+do resultado do processo licitatório.
+13.7.       Na contagem dos prazos estabelecidos neste Edital e seus Anexos, excluir-se-á o dia do início
+e incluir-se-á o do vencimento. Só se iniciam e vencem os prazos em dias de expediente na Administração.
+13.8.     O desatendimento de exigências formais não essenciais não importará o afastamento do
+licitante, desde que seja possível o aproveitamento do ato, observados os princípios da isonomia e do
+interesse público.
+13.9.      Em caso de divergência entre disposições deste Edital e de seus anexos ou demais peças que
+compõem o processo, prevalecerá as deste Edital.
+13.10.     Em  caso  de  divergência  entre  as  especificações  constantes  no  sistema  Compras
+Governamentais e as constantes no Edital, prevalecerão sempre as especificações do edital e seus anexos.
+13.11.      As especificações dos Anexos deste Edital em nenhum momento serão substituídas pelas
+
+                    Edital Pregão 90.019/2025 (1882071)     SEI 23086.134619/2025-86 / pg. 17
+
+ descrições resumidas, constantes no Aviso divulgado no sitio www.compras.gov.br
+ 13.12.     O Edital e seus anexos estão disponíveis, na íntegra, no Portal Nacional de Contratações
+ Públicas (PNCP)  e endereço  eletrônico  https://portal.ufvjm.edu.br/proad/licitacoes-e-contratos/pregoes-
+ eletronicos.
+ 13.13.        Integram este Edital, para todos os fins e efeitos, os seguintes anexos:
+ 13.13.1.    ANEXO I - Termo de Referência - Licitação
+ 13.13.2.      Apêndice do Anexo I – Estudo Técnico Preliminar - ETP
+ 13.13.3.    ANEXO II - Modelo de Proposta
+
+
+                                 Diamantina, 15 de setembro de 2025
+
+
+                                  Alessandra Cristina Pacheco Santos
+                                     Diretora de Licitações e Contratos
+                                   Portaria n.º 1855, de 18 de agosto de 2023.
+                              PROAD/UFVJM
+                               Assinatura da autoridade competente
+
+
+                        ________________________
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+
+Modelo de Edital - Lei nº 14.133, de 2021.
+
+Aprovado pela Secretaria de Gestão e Inovação.
+
+Identidade visual pela Secretaria de Gestão e Inovação
+ Atualização: SET/2025
+
+
+
+             Documento assinado eletronicamente por Alessandra Cristina Pacheco Santos, Diretor(a), em
+               17/09/2025, às 11:25, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº
+                8.539, de 8 de outubro de 2015.
+
+
+         A autenticidade deste documento pode ser conferida no site
+                https://sei.ufvjm.edu.br/sei/controlador_externo.php?
+              acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 1882071 e o
+              código CRC 9200EA27.
+
+
+
+
+                  ANEXO II EDITAL PREGÃO 90.019/2025
+
+                  MODELO DE PROPOSTA DE PREÇOS
+
+            PROPOSTA DE PREÇOS COM DESCRIÇÃO DOS MATERIAIS
+
+
+
+       A
+         DIVISÃO DE LICITAÇÕES
+        UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI  -
+ UFVJM
+          REF: PREGÃO ELETRÔNICO Nº 90.019/2025
+
+                     Edital Pregão 90.019/2025 (1882071)     SEI 23086.134619/2025-86 / pg. 18
+
+           Prezados Senhores,
+           Estamos cotando os materiais dos itens a seguir relacionados, com vista ao seu fornecimento a
+ essa Universidade, de acordo com o disposto na Lei no. 14.133, de 01º de abril de 2021.
+
+
+         IDENTIFICAÇÃO DA EMPRESA
+
+          Razão Social                      CNPJ
+
+           Endereço             UF                CEP
+
+            E-mail                            Telefone
+
+           Banco                  Agência               Conta
+
+            Validade da proposta
+
+             Especificações Complementares: (se necessário)
+
+         IDENTIFICAÇÃO DO RESPONSÁVEL PELA ASSINATURA DO CONTRATO
+
+         Nome                     Qualificação
+
+
+
+
+
+                            UNIDADE DE          VALOR   VALOR       ITEM CATMAT DESCRIÇÃO              QUANT.
+                            FORNECIMENTO        UNITÁRIO TOTAL
+
+
+
+
+
+   OUTRAS INFORMAÇÕES IMPORTANTES
+
+
+
+
+
+           Declaração: Os preços mantidos na proposta escrita e naqueles que porventura vierem a ser
+ ofertados através de lances verbais, estão incluídos todos os encargos trabalhistas, previdenciários, fiscais,
+ comerciais, de  transporte e  entrega da mercadoria e  outros de qualquer  natureza que  se fizerem
+ indispensáveis à perfeita compra do objeto da licitação.
+
+
+
+                     ______________________________________________
+
+                               Assinatura e carimbo do representante legal
+
+
+
+Referência: Processo nº 23086.134619/2025-86                                                                   SEI nº 1882071
+
+
+
+
+
+                     Edital Pregão 90.019/2025 (1882071)     SEI 23086.134619/2025-86 / pg. 19
+
+UASG 153036
+
+
+                      UNIV.FED.DOS VALES DO JEQUITINHONHA E MUCURI
+
+                Estudo Técnico Preliminar 50/2025
+
+
+
+1. Informações Básicas
+
+Número do processo: 23086.134619/2025-86
+
+
+
+2. Descrição da necessidade
+
+A UFVJM é constituída de 05 (cinco) Campi que estão localizados nas cidades de Diamantina, Janaúba, Unaí e Teófilo Otoni, possuindo Fazendas
+experimentais e uma quantidade significativa de laboratórios e salas de aulas. Nessa estrutura são ofertados 46 (quarenta e seis) cursos presenciais, 05
+(cinco) cursos na modalidade à distância, 24 programas de pós-graduação, stricto sensu, sendo 08 (oito) programas de doutorado, 15 (quinze) programas
+de mestrado acadêmico e 08 (oito) programas de mestrado profissional.
+
+Essa estrutura universitária contempla uma variedade de cursos, os quais demandam a aquisição de materiais diversos ( copa/cozinha, expediente,
+decoração). Tais materiais são indispensáveis para o pleno funcionamento das atividades acadêmicas, de extensão e administrativas da Universidade
+Federal dos Vales do Jequitinhonha e Mucuri (UFVJM). Cada item atende a demandas específicas e recorrentes dos cursos de graduação e pós-
+graduação, bem como dos setores administrativos da instituição. Portanto, a aquisição destes materiais atende a múltiplas frentes de atuação da UFVJM,
+fortalecendo a estrutura necessária para a realização de atividades de ensino, pesquisa, extensão e gestão institucional. São itens de uso cotidiano que,
+embora simples, têm impacto direto na qualidade dos serviços prestados, na organização dos espaços e na valorização da identidade visual da
+universidade.
+
+Cabe ressaltar que a falta desses materiais poderá causar prejuízos e comprometer o ensino, a pesquisa e as tarefas administrativas, que são atividades
+finalísticas da instituição. Atualmente, a UFVJM possui aproximadamente 120 laboratórios que subsidiam a continuidade e o desenvolvimento de
+projetos, pesquisas e aulas práticas. Tais solicitações se fundamentam pela necessidade da aquisição dos materiais diversos deste pregão, uma vez que
+não são itens de estoque do almoxarifado.
+
+A ausência ou escassez desses materiais compromete diretamente a qualidade das atividades administrativas e a formação dos discentes, o cumprimento
+dos conteúdos curriculares e o andamento de pesquisas técnicas que exigem precisão, regularidade e controle experimental. Além disso, parte dos
+materiais são necessários para o funcionamento contínuo de laboratórios multiusuários e centrais analíticos, que prestam serviços internos e externos,
+contribuindo para a inovação científica e tecnológica e para a solução de demandas sociais.
+
+Portanto, a aquisição planejada e regular dos materiais diversos são essenciais para assegurar a continuidade das atividades intitucionais e acadêmicas e
+a conformidade institucional com os objetivos de ensino, pesquisa e extensão, conforme previsto no Plano de Desenvolvimento Institucional (PDI), nos
+projetos pedagógicos dos cursos (PPCs) e nos cronogramas de execução dos projetos financiados por agências de fomento.
+
+
+
+3. Área requisitante
+
+
+                      Área Requisitante                                                   Responsável
+
+ Instituto de Ciência e Tecnologia                           ALBERT FREDERICO BARBOSA BITTENCOURT
+
+ENGENHARIA FLORESTAL                         ARMANDO PEREIRA COSTA JUNIOR,LUIZ CARLOS ARAUJO
+
+                                         AMANDA MELO SANT'ANNA ARAÚJO,CLAUDIA BRAGA
+ZOOTECNIA - UNAÍ
+                                                    PEREIRA BENTO,MARÍLIA CRISTINA SOLA
+
+ENGENHARIA MECÂNICA-ICT                       HUGO HENRIQUE AZEVEDO GONÇALVES
+
+                                                 DANIELA LUCIANA BRAGA SANTIAGO TEIXEIRA,CHARLLES
+PRÓ-REITORIA DE EXTENSÃO E CULTURA - PROEXC
+                                           DA SILVA VIEIRA
+
+ENGENHARIA MATERIAIS - JANAUBA                        FELIPE SILVA TORRES
+
+CIÊNCIAS BIOLÓGICAS                               THIAGO SANTOS
+
+FAZENDA UNAÍ                                    GIOVANE SEBASTIÃO DE SOUZA
+
+ENGENHARIA GEOLÓGICA - ICT                         WILLIAM RAMON SOARES DE OLIVEIRA
+
+                                             GERALDO APARECIDO RODRIGUES,GERALDO APARECIDO
+COMISSÃO PERMANENTE DE PROCESSOS SELETIVOS
+                                                 RODRIGUES
+
+                                               WELLINGTON JOSE DE AZEVEDO, ANTONIO CARLOS VIEIRA
+DEPARTAMENTO DE FARMÁCIA
+                                                   LOPES JÚNIOR,GUSTAVO HENRIQUE BAHIA DE OLIVEIRA
+
+DEPARTAMENTO DE NUTRIÇÃO                         ELIZNARA FERNANDES CORREIA
+
+                                                                                                                        1 de 7
+
+QUIMICA                                              JOSÉ JOAQUIM DE SÁ TELES
+
+MEDICIDA VETERINÁRIA - UNAÍ                        CLAUDIA BRAGA PEREIRA BENTO,MARÍLIA CRISTINA SOLA
+
+PRPPG — Pró-Reitoria de Pesquisa e Pós-Graduação               DILTON MARTINS PIMENTEL,PRISCILA BARBOSA DOS SANTOS
+
+BACHAREL EM CIENCIA E TECNOLOGIA - JANAUBA         BARBHARA MOTA MARINHO
+
+REITORIA                                        MARISA DE JESUS MACHADO FERREIRA
+
+FACULDADE DE MEDICINA DO MUCURI                   ROSALINA ALVES PRATES
+
+                                                     EMÍLIA TATIANE LOPES DA SILVA,MARIANA ALMEIDA
+ZOOTECNIA
+                                          DUMONT
+
+ Pró-Reitoria de Gestão de Pessoas                         ANNE CAROLINE MORAIS RODRIGUES
+
+FAZENDA EXPERIMENTAL DE COUTO                    GIOVANE SEBASTIÃO DE SOUZA
+
+FAZENDA EXPERIMENTAL JK                          GIOVANE SEBASTIÃO DE SOUZA
+
+
+
+4. Descrição dos Requisitos da Contratação
+
+A utilização do Catálogo Eletrônico de Padronização é de observância obrigatória pelos órgãos e entidades da Administração Pública federal direta, nos
+termos do art. 2º da Portaria Seges/ME nº 938, de 2 fevereiro de 2022, no entanto os itens objeto dessa contratação não estão contemplados no Catálogo
+Eletrônico de Padronização - Itens padronizados, que no momento possuem somente água mineral natural sem gás, café e açúcar.
+
+Nos termos do Decreto nº 10.947/2022, do art. 7º da Instrução Normativa SEGES/ME nº 81/2022 e da Portaria SEGES/ME nº 8.678/2021, o objeto da
+contratação está em conformidade com as diretrizes do Plano Diretor de Logística Sustentável da UFVJM- PLS: https://portal.ufvjm.edu.br/page/acesso-
+a-informacao/institucional/bases-juridicas/bases-juridicas-1/plano-de-logisticasustentavel-da-ufvjm-pls-2025-2028.
+
+Os bens referentes a esta contratação deverão ser entregues pelo fornecedor, de acordo com as especificações definidas em edital, sendo que o fornecedor
+deverá assumir a responsabilidade por todas as providências e obrigações estabelecidas na legislação específica sobre a qualidade e especificação dos
+materiais que serão entregues.
+
+Em consulta ao Guia Nacional de Contratações Sustentáveis. 5ª ed. Brasília: AGU, julho 2022, bem como em atendimento ao Instrumento de
+padronização dos procedimentos de contratação, Brasília: Advocacia - Geral da União : Ministério da Gestão e Inovação em Serviços Públicos, 2023
+segue abaixo os critérios que se aplicam ao itens presentes nesta contratação.
+
+Para os critérios de sustentabilidade devem ser considerados os produtos fornecidos em embalagens de materiais reutilizáveis, recicláveis ou
+biodegradáveis, sempre que possível, produzidos sem utilização de trabalho escravo ou infantil e com máquinas que reduzem a geração de resíduos
+industriais.
+
+Só será admitida a oferta do produto cujo fabricante esteja regularmente registrado no Cadastro Técnico Federal de Atividades Potencialmente
+Poluidoras ou Utilizadoras de Recursos Ambientais, instituído pelo artigo 17, inciso II, da Lei n° 6.938, de 1981.
+
+A contratada deverá apresentar o Certificado de Boas Práticas de Fabricação (CBPF) para os produtos abrangidos pela RDC nº 497, de 20 de maio de
+2021.
+
+Os bens deverão ser entregues, em remessa única, de acordo com a indicação da nota de empenho, nos seguintes endereços:
+
+Divisão de Almoxarifado/UFVJM, Campus JK - Rodovia MGT 367, KM 583, nº 5000 - Alto da Jacuba - CEP: 39100-000 - Diamantina/MG, no
+horário de 08:00 às 11:00 e de 13:00 às 16:30 horas em dias úteis;
+
+Divisão de Almoxarifado/UFVJM, Campus do Mucuri - Rua do Cruzeiro, nº 01 - Bairro Jardim São Paulo - CEP: 39803-371 - Teófilo Otoni/MG, no
+horário de 08:00 às 11:00 e de 13:00 às 16:30 horas em dias úteis.
+
+Divisão de Almoxarifado/UFVJM, Campus Unaí - Avenida Universitária, nº 1.000, Bairro Universitários - CEP 38610-000 - Unaí/MG, no horário de
+08:00 às 11:00 e de 13:00 às 16:30 horas em dias úteis.
+
+Divisão de Almoxarifado/UFVJM, Campus Janaúba - - Avenida Um, nº 4.050, Cidade Universitária - CEP 39447-790 - Janaúba /MG, no horário de
+08:00 às 11:00 e de 13:00 às 16:30 horas em dias úteis.
+
+Os bens serão recebidos provisoriamente pelo(a) responsável pelo acompanhamento e fiscalização do contrato, para feito de posterior verificação de sua
+conformidade com as especificações constantes no Termo de Referência, na proposta e pelo que segue:
+
+O fornecedor não poderá realizar a cobrança de frete;
+
+Os bens devem estar embalados de acordo com a nota fiscal/empenho, não enviando materiais/produtos de notas fiscais /empenhos diferentes numa
+mesma embalagem;
+
+Os bens não devem apresentar avarias ou adulterações; Os bens devem ser entregues em embalagens originais contendo a data e número do lote de
+fabricação e prazo de validade;
+
+Deverão ser observadas as condições específicas de armazenamento e de transporte dos bens adquiridos, objetivando a garantia da estabilidade destes
+materiais.
+
+                                                                                                                        2 de 7
+
+Os bens poderão ser rejeitados, no todo ou em parte, inclusive antes do recebimento provisório, quando em desacordo com as especificações constantes
+no Termo de Referência e na proposta, devendo ser substituídos no prazo de 10 (dez) dias úteis, a contar da notificação da contratada, às suas custas, sem
+prejuízo da aplicação das penalidades.
+
+O recebimento definitivo ocorrerá no prazo de até 10 (dez) dias úteis, a contar do recebimento da nota fiscal ou instrumento de cobrança equivalente pela
+Administração, após a verificação da qualidade e quantidade do material e consequente aceitação mediante termo detalhado.
+
+Na hipótese da verificação a que se refere o subitem anterior não ser procedida dentro do prazo fixado, reputar-se-á como realizada, consumando-se o
+recebimento definitivo no dia do esgotamento do prazo.
+
+O recebimento provisório ou definitivo do objeto não exclui a responsabilidade da contratada pelos prejuízos resultantes da incorreta execução o contrato.
+
+
+
+
+5. Levantamento de Mercado
+
+Os bens a serem adquiridos enquadram-se na classificação de bens comuns, nos termos do art. 20 da Lei 14.133/2021  e do Decreto nº. 10.818
+/2021, uma vez que possuem padrões de desempenho e qualidade objetivamente definidos, com base em especificações usuais de mercado, o que
+viabiliza a adoção de critérios objetivos para a seleção da proposta mais vantajosa.
+
+A análise comparativa das soluções disponíveis no mercado, teve como objetivo identificar as alternativas mais adequadas ao atendimento da demanda,
+considerando não apenas o aspecto econômico, mas também os critérios qualitativos, especialmente os benefícios proporcionados ao alcance dos
+objetivos institucionais da contratação.
+
+Nesse contexto, foi realizado levantamento de mercado, conforme demonstrado na Planilha Mapa de Preços (Anexo I), o qual contempla contratações
+similares efetuadas por outros órgãos e entidades da Administração Pública, além de pesquisas realizadas em sítios eletrônicos especializados. O
+propósito foi identificar metodologias e parâmetros que melhor atendam às necessidades administrativas, com foco na economicidade, eficácia,
+eficiência e padronização do objeto.
+
+Considerando a natureza do objeto desta contratação, qual seja, material de consumo, cuja especificação é padronizada, objetiva e de uso comum na
+Administração Pública, opta-se pela adoção do Pregão Eletrônico, na forma Tradicional, como a modalidade mais adequada e vantajosa para a
+aquisição, uma vez que foi possível definir previamente o quantitativo demandado pela Administração.
+
+Ressalta-se, por fim, que não há restrição significativa quanto à oferta de fornecedores para o item em questão, havendo ampla concorrência no mercado,
+o que favorece a obtenção de propostas mais vantajosas para a Administração.
+
+
+
+
+6. Descrição da solução como um todo
+
+As aquisições da instituição em atendimento ao dispositivo legal, são realizadas visando garantir a observância do princípio constitucional da isonomia, a
+seleção da proposta mais vantajosa para a administração e a promoção do desenvolvimento nacional sustentável e será processada e julgada em estrita
+conformidade com os princípios básicos da legalidade, da impessoalidade, da moralidade, da igualdade, da publicidade, da probidade administrativa, da
+vinculação ao instrumento convocatório, do julgamento objetivo e dos que lhes são correlatos.
+
+Portanto, a aquisição de materiais de consumo para utilização nas atividades da instituição deverá ser realizada respeitando estes preceitos.
+
+Devido às características da contratação e por se tratar de material de consumo, não há necessidade de manutenção e de assistência técnica.
+
+
+
+
+
+7. Estimativa das Quantidades a serem Contratadas
+
+A estimativa das quantidades dos materiais a serem contratados foi elaborada pelos requisitantes identificados no item 3 deste Estudo Técnico
+Preliminar, com base em critérios técnicos e no histórico de consumo da instituição. Para isso, foram consideradas as demandas recorrentes das
+atividades acadêmicas, científicas e laboratoriais, de forma a garantir o atendimento às necessidades reais dos cursos e projetos em desenvolvimento.
+
+A projeção levou em conta dados de consumo de exercícios anteriores, conforme demonstrado nos relatórios de empenhos e liquidações apresentados no
+Anexo II, além da previsão de uso para o ano vigente. Essa previsão foi construída a partir de informações fornecidas pelos responsáveis pelos cursos,
+laboratórios e setores técnicos, os quais acompanham rotineiramente a execução de aulas práticas, projetos de pesquisa, convênios em andamento e
+demais atividades que demandam insumos químicos específicos.
+
+                                                                                                                        3 de 7
+
+Esse levantamento criterioso visa assegurar uma contratação eficiente, compatível com o planejamento orçamentário da instituição e alinhada às suas
+demandas operacionais, contribuindo para o uso racional dos recursos públicos e para o cumprimento das metas institucionais.
+
+Adicionalmente, foram consideradas as informações constantes no Plano Anual de Contratações (PCA) e nos Documentos de Formalização da Demanda
+(DFDs) encaminhados pelas unidades requisitantes, os quais detalham as necessidades futuras com base em cronogramas de ensino, planos de atividades
+práticas e projetos de pesquisa em curso ou previstos.
+
+Foram ainda ponderados os seguintes fatores relevantes:
+
+     A ampliação de projetos de pesquisa já aprovados e em fase de execução;
+
+     O aumento na oferta de disciplinas práticas laboratoriais, conforme o planejamento acadêmico institucional;
+
+     O risco de desabastecimento ou interrupção de atividades essenciais, especialmente no caso de reagentes e compostos de uso contínuo ou com
+        prazos longos de aquisição, o que justifica a adoção de uma margem técnica de segurança na estimativa dos quantitativos.
+
+Dessa forma, a estimativa de quantidades foi construída de maneira criteriosa, técnica e colaborativa, visando assegurar o pleno funcionamento das
+atividades acadêmicas e científicas, com eficiência na aplicação dos recursos públicos e prevenção de riscos operacionais.
+
+
+
+
+
+8. Estimativa do Valor da Contratação
+
+Valor (R$): 51.757,66
+
+Como método para estimar os valores para a referida contratação, a Administração realizará pesquisa de preços obedecendo às disposições da
+INSTRUÇÃO NORMATIVA Nº 65, DE 5 DE AGOSTO DE 2021, que dispõe sobre o procedimento administrativo para a realização de pesquisa de
+preços para a aquisição de bens e contratação de serviços em geral, no âmbito da administração pública federal direta, autárquica e fundacional,
+conforme transcrito abaixo:
+
+                 Art. 1º. A pesquisa de preços para fins de determinação do preço estimado em processo licitatório para a aquisição de bens e
+                contratação de serviços em geral será realizada mediante a utilização dos seguintes parâmetros, empregados de forma combinada ou não:
+                    I - composição de custos unitários menores ou iguais à mediana do item correspondente nos sistemas oficiais de governo, como Painel
+              de Preços ou banco de preços em saúde, observado o índice de atualização de preços correspondente;
+                    II - contratações similares feitas pela Administração Pública, em execução ou concluídas no período de 1 (um) ano anterior à data da
+               pesquisa de preços, inclusive mediante sistema de registro de preços, observado o índice de atualização de preços correspondente;
+                    III - dados de pesquisa publicada em mídia especializada, de tabela de referência formalmente aprovada pelo Poder Executivo federal e
+              de sítios eletrônicos especializados ou de domínio amplo, desde que atualizados no momento da pesquisa e compreendidos no intervalo
+              de até 6 (seis) meses de antecedência da data de divulgação do edital, contendo a data e a hora de acesso;
+             IV - pesquisa direta com, no mínimo, 3 (três) fornecedores, mediante solicitação formal de cotação, por meio de ofício ou e-mail, desde
+              que seja apresentada justificativa da escolha desses fornecedores e que não tenham sido obtidos os orçamentos com mais de 6 (seis)
+              meses de antecedência da data de divulgação do edital; ou
+         V - pesquisa na base nacional de notas fiscais eletrônicas, desde que a data das notas fiscais esteja compreendida no período de até 1
+              (um) ano anterior à data de divulgação do edital, conforme disposto no Caderno de Logística, elaborado pela Secretaria de Gestão da
+                 Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia.
+             § 1º Deverão ser priorizados os parâmetros estabelecidos nos incisos I e II, devendo, em caso de impossibilidade, apresentar justificativa
+              nos autos.
+             § 2º Quando a pesquisa de preços for realizada com fornecedores, nos termos do inciso IV, deverá ser observado:
+                    I - prazo de resposta conferido ao fornecedor compatível com a complexidade do objeto a ser licitado;
+                    II - obtenção de propostas formais, contendo, no mínimo:
+                 a) descrição do objeto, valor unitário e total;
+                b) número do Cadastro de Pessoa Física - CPF ou do Cadastro Nacional de Pessoa Jurídica - CNPJ do proponente;
+                 c) endereços físico e eletrônico e telefone de contato;
+                d) data de emissão; e
+                 e) nome completo e identificação do responsável.
+                    III - informação aos fornecedores das características da contratação contidas no art. 4º, com vistas à melhor caracterização das condições
+               comerciais praticadas para o objeto a ser contratado; e
+             IV - registro, nos autos do processo da contratação correspondente, da relação de fornecedores que foram consultados e não enviaram
+                propostas como resposta à solicitação de que trata o inciso IV do caput.
+             § 3º Excepcionalmente, será admitido o preço estimado com base em orçamento fora do prazo estipulado no inciso II do caput, desde
+              que devidamente justificado nos autos pelo agente responsável e observado o índice de atualização de preços correspondente.
+
+Para todos os itens será realizada a pesquisa de preços inicialmente no Painel de Preços e Portal de Compras Governamentais, utilizando os demais
+parâmetros, quando não houver sucesso na pesquisa nos referidos sites.
+
+
+
+
+                                                                                                                        4 de 7
+
+Para definição da metodologia com objetivo de estimar o preço de referência será observado o disposto IN nº. 65, de 7 de julho de 2021. Para preço
+estimado com base única nos sistemas oficiais do governo será utilizado a mediana.
+
+O mapa de preços contendo os preços unitários dos itens e a estimativa do valor da contratação encontra-se anexo a este ETP.
+
+
+
+9. Justificativa para o Parcelamento ou não da Solução
+
+No processo licitatório, a adjudicação se dará por item, nos termos do art. 82, § 1º, da Lei nº 14.133/2021 e da Súmula/TCU 247, a saber:
+
+Art. 2º […]
+
+       § 1º. O critério de julgamento de menor preço por grupo de itens somente poderá ser adotado quando for demonstrada a inviabilidade de se
+       promover a adjudicação por item e for evidenciada a sua vantagem técnica e econômica, e o critério de aceitabilidade de preços unitários
+      máximos deverá ser indicado no edital.
+
+Súmula nº 247 TCU - É obrigatória a admissão da adjudicação por item e não por preço global, nos editais das licitações para a contratação de obras,
+serviços, compras e alienações, cujo objeto seja divisível, desde que não haja prejuízo para o conjunto ou complexo ou perda de economia de escala,
+tendo em vista o objetivo de propiciar a ampla participação de licitantes que, embora não dispondo de capacidade para a execução, fornecimento ou
+aquisição da totalidade do objeto, possam fazê-lo com relação a itens ou unidades autônomas, devendo as exigências de habilitação adequar-se a essa
+divisibilidade.
+
+Dessa forma, será realizada licitação para aquisição dos materiais, em conformidade com o § 1º do art. 82 da Lei nº 14.133/2021, de modo que a
+adjudicação se dará por itens, não havendo ofensa à Súmula nº 247 do TCU.
+
+
+
+10. Contratações Correlatas e/ou Interdependentes
+
+Não se aplica a esta contratação.
+
+
+
+11. Alinhamento entre a Contratação e o Planejamento
+
+No âmbito da UFVJM, o Plano de Desenvolvimento Institucional PDI 2024-2028, disponível no documento PDI 2024/2028, ao englobar elementos que
+influenciam a melhoria da qualidade do ensino, na uniformidade das tarefas administrativas e na otimização da gestão financeira, ele colabora para os
+objetivos de eficiência, eficácia, efetividade e transparência na gestão pública, estando a sua forma de apresentação disciplinada pelo Decreto nº 9.235,
+de 15 de dezembro de 2017, visando promover ações de valorização e melhoria do trabalho docente nos cursos de graduação, engendrando esforços para
+a diversificação e melhoria de recursos tecnológicos e infraestrutura para a atuação pedagógica docente, sendo uma necessidade institucional para
+alcançar metas e objetivos.
+
+Observando as diretrizes do Decreto nº 10947/22, que dispõe sobre o Plano Anual de Contratações de bens, serviços, obras e soluções de tecnologia da
+informação e comunicações no âmbito da Administração Pública federal direta, autárquica e fundacional e sobre o Sistema de Planejamento e
+Gerenciamento de Contratações, os itens e quantidades que se pretende adquirir foram previstos no PAC/2025, de acordo com os objetivos disposto no
+seu art. 5º, alínea I a V.
+
+O Plano Anual de Contratações 2025 está disponível para consulta no Portal da UFVJM em: https://pncp.gov.br/app/pca? pagina=1.
+
+Os números dos DFD's - Documento de Formalização de Demanda dos setores requisitantes são respectivamente:
+
+139/2024,147/2024,186/2024,203/2024,208/2024,231/2024,235/2024,237/2024,239/2024,240/2024,244/2024,245/2024,254/2024,269/2024,303/2024,
+317/2024,331/2024,354/2024,358/2024,361/2024,362/2024,375/2024,385/2024,368/2024,381/2024,396/2024,234/2024,258/2024,261/2024,265/2024,
+281/2024,286/2024,382/2024,367/2024,107/2024,108/2024,110/2024,112/2024,113/2024,51/2024.
+
+
+
+12. Benefícios a serem alcançados com a contratação
+
+A contratação de materiais diversos para a UFVJM visa assegurar o pleno funcionamento das atividades acadêmica, científicas e de extensão,
+promovendo  a  melhoria da  qualidade do  ensino,  especialmente  nas  disciplinas que exigem  práticas  laboratoriais. A  aquisição  desses
+materiais desempenha um papel essencial na manutenção e desenvolvimento das atividades rotineiras, além de fornecer suporte às aulas práticas e aos
+projetos de pesquisa. O principal benefício direto dessa aquisição é o aprimoramento das experiências acadêmicas, permitindo que os estudantes tenham
+contato com metodologias aplicadas e possam colocar em prática o conhecimento teórico adquirido em sala de aula.
+
+Essa vivência prática não só enriquece o processo de aprendizagem, mas também aumenta as chances de inserção dos estudantes no mercado de trabalho.
+Um dos objetivos centrais de uma instituição de ensino superior é criar condições que possibilitem aos estudantes a construção de uma base sólida de
+conhecimentos, além do desenvolvimento das competências cognitivas e práticas necessárias para enfrentar os desafios contemporâneos.
+
+
+                                                                                                                        5 de 7
+
+Dessa forma, a instituição contribui para a formação de profissionais capazes de impulsionar o desenvolvimento em nível municipal, regional e nacional.
+
+
+
+
+
+13. Providências a serem Adotadas
+
+Devido às características da contratação e com base no caput do Art. 95 II da Lei 14.133/2021 o instrumento a ser utilizado para formalização desta
+aquisição será a nota de empenho de despesa, por não resultar em obrigações futuras, inclusive assistência técnica.
+
+Não haverá exigência da garantia da contratação dos artigos 96 e seguintes da Lei nº 14.133, de 2021, pelas razões:
+
+Não há complexidade na presente licitação e a entrega do material será em conformidade com a demanda da Instituição, não comprometendo o
+cumprimento das obrigações;
+
+A onerosidade em torno da própria exigência de garantia, como regra, representa um valor que seria agregado às propostas dos licitantes, o que equivale
+dizer que os custos dessa exigência seriam repassados à própria Administração contratante. Portanto, essa exigência vai de encontro à economicidade da
+contratação.
+
+A exigência da garantia, por conta desses fatores, pode representar diminuição do universo de interessados e ao caráter competitivo do certame.
+
+Não se aplica capacitação dos servidores e adequação do ambiente.
+
+
+
+
+14. Possíveis Impactos Ambientais
+
+Não haverá impactos ambientais para os itens de consumo que se pretende adquirir. Os resíduos que poderão ser gerados serão acondicionados em
+recipiente e local adequados e posteriormente recolhidos pela empresa contratada pela UFVJM que faz o descarte correto destes resíduos sob a gestão da
+Assessoria de Meio Ambiente.
+
+Geralmente as coletas ocorrem quinzenalmente, e/ou programada, de acordo com a demanda.
+
+
+
+
+15. Declaração de Viabilidade
+
+Esta equipe de planejamento declara viável esta contratação.
+
+15.1. Justificativa da Viabilidade
+
+
+
+
+15.2. A presente contratação é viável, considerando que a contratação está prevista no Plano de Contratações Anual/2025, bem como o presente
+planejamento foi elaborado em consonância com a Instrução Normativa nº 58/2022/SEGES/ME e legislação que trata da matéria. Os custos previstos são
+compatíveis e caracterizam a economicidade, os riscos envolvidos são administráveis, devendo a área requisitante priorizar o fornecimento de todos os
+elementos aqui relacionados necessários à consecução dos benefícios pretendidos..
+
+15.3. Nos termos da Lei nº 12.527, de 18 de novembro de 2011, esta Equipe de Planejamento entende que as informações contidas no presente Estudo
+Técnico Preliminar deverão estar disponíveis para qualquer interessado, pois não se caracterizam como sigilosas.
+
+15.4. A Equipe de Planejamento declara que o presente Estudo Técnico Preliminar traz os conteúdos previstos no art. 9º da IN nº 58/2022.
+
+
+
+16. Responsáveis
+
+
+ Todas as assinaturas eletrônicas seguem o horário oficial de Brasília e fundamentam-se no §3º do Art. 4º do Decreto nº 10.543, de 13 de novembro de
+2020.
+
+
+                                                                                                                        6 de 7
+
+HILDA DA CONSOLACAO TRINDADE
+
+    ASSISTENTE EM ADMINISTRAÇÃO
+
+   Assinou eletronicamente em 14/08/2025 às 09:47:33.
+
+
+
+
+
+  JOAO VICTOR ALVES BARBOSA
+
+       TÉCNICO DE LABORATÓRIO
+
+   Assinou eletronicamente em 14/08/2025 às 09:51:19.
+
+
+
+
+
+   NELMA MARIA FERREIRA
+
+     ASSITENTE EM ADMINISTRAÇÃO
+
+   Assinou eletronicamente em 14/08/2025 às 13:00:43.
+
+
+
+
+
+                                                                                7 de 7
+
+UASG 153036
+
+
+                      UNIV.FED.DOS VALES DO JEQUITINHONHA E MUCURI
+
+                Termo de Referência 18/2025
+
+
 
 Informações Básicas
 
-Número do artefato UASG Editado por Atualizado em
 
-18/2025 153036-UNIV.FED.DOS VALES DO JEQUITINHONHA E MUCURI NELMA MARIA FERREIRA 10/09/2025 09:54 (v 0.7)
-Status
+Número do artefato UASG                                                       Editado por                Atualizado em
+
+ 18/2025          153036-UNIV.FED.DOS VALES DO JEQUITINHONHA E MUCURI NELMA MARIA FERREIRA 10/09/2025 09:54 (v 0.7)
+
+ Status
 
 ASSINADO
 
 Outras informações
 
-Categoria Número da Contratação Processo Administrativo
-II - compra, inclusive por encomenda/Bens de consumo 67/2025 23086.134619/2025-86
+
+ Categoria                                               Número da Contratação          Processo Administrativo
+
+ II - compra, inclusive por encomenda/Bens de consumo                    67/2025                         23086.134619/2025-86
+
 
 1. CONDIÇÕES GERAIS DA CONTRATAÇÃO
 
 1.1. Aquisição de materiais diversos para atender a demanda dos cursos da UFVJM, nos termos da tabela abaixo, conforme condições e exigências
 estabelecidas neste instrumento.
 
-VALOR DE REFERÊNCIA
 
-DESCRIÇÃO
+                                     VALOR DE REFERÊNCIA
 
-BOMBONA - MATERIAL: PLÁSTICO. CAPACIDADE: 50 LITROS.
+                                                                                                             Valor de     Valor total
+ ITEM CATMAT                  DESCRIÇÃO                    UNIDADE     QTD
+                                                                                                                  Referência    (Qt. xvl unit)
 
-ITE
+             BOMBONA - MATERIAL: PLÁSTICO. CAPACIDADE: 50 LITROS.
 
-Z
+               CARACTERÍSTICAS ADICIONAIS: COM ALÇAS E TAMPA
 
-UNIDADE QTD
+    1     465988  REMOVÍVEL COM LACRE DE PRESSÃO, PRODUZIDA COM       UNIDADE        6      R$ 189,05    R$ 1.134,30
 
-Valor de Valor total
-Referência || (Qt. xvl unit)
+              MATERIAL ATÓXICO QUE PERMITA O ARMAZENAMENTO DE
 
-R$ 189,05 R$ 1.134,30
-5 R$ 361,30 R$ 1.806,50
+              PRODUTOS ALIMENTÍCIOS.
 
-R$ 1.090,51 || R$1.090,51
+             BOMBONA - MATERIAL: PLÁSTICO RESISTENTE. COR: AZUL.
 
-R$ 497,51 R$ 497,51
-213,48
+               CARACTERISTICAS ADICIONAIS: COM TAMPA GRANDE
+    2     307499                                                  UNIDADE        5      R$ 361,30    R$ 1.806,50
+              REMOVÍVEL NA PARTE SUPERIOR. CAPACIDADE: 200 LITROS.
 
-4 R$ 133,50 R$ 534,00
-12 R$ 11,74 R$ 140,88
+               APLICAÇÃO: DESCARTE DE MATERIAL TÓXICO.
 
-R$ 74,01 R$ 370,05
+                CILINDRO GÁS. MATERIAL: ALUMÍNIO CAPACIDADE
 
-CARACTERÍSTICAS ADICIONAIS: COM ALÇAS E TAMPA
-465988 |REMOVÍVEL COM LACRE DE PRESSÃO, PRODUZIDA COM
-MATERIAL ATÓXICO QUE PERMITA O ARMAZENAMENTO DE
+              ARMAZENAGEM: 2 KG. TIPO GÁS: DIÓXIDO DE CARBONO.
+    3     352478                                                  UNIDADE        1      R$ 1.090,51   R$ 1.090,51
+               CARACTERÍSTICAS ADICIONAIS: VÁLVULA COM CONEXÃO
 
-1 UNIDADE
+               PADRÃO.
 
-PRODUTOS ALIMENTÍCIOS.
+              COMPRESSOR PARA REFRIGERAÇÃO HERMÉTICO ¼ HP – GAS
 
-BOMBONA - MATERIAL: PLÁSTICO RESISTENTE. COR: AZUL.
-CARACTERISTICAS ADICIONAIS: COM TAMPA GRANDE
-REMOVÍVEL NA PARTE SUPERIOR. CAPACIDADE: 200 LITROS.
-APLICAÇÃO: DESCARTE DE MATERIAL TÓXICO.
+    4     235059  REFRIGERANTE R134-A TENSÃ: 110V, COMPATÍVEIL COM      UNIDADE        1      R$ 497,51    R$ 497,51
 
-2 307499 UNIDADE
+              EQUIPAMENTOS DA MARCA ELECTROLUX.
 
-CILINDRO GÁS. MATERIAL: ALUMÍNIO CAPACIDADE
-ARMAZENAGEM: 2 KG. TIPO GÁS: DIÓXIDO DE CARBONO.
-CARACTERÍSTICAS ADICIONAIS: VÁLVULA COM CONEXÃO
-PADRÃO.
+             CORDA DE SEDA TRANÇADA COM 08 MM DE ESPESSURA EM
+    5     365370                                               ROLO 100m       6         213,48     R$ 1.280,88
+                100M DE COMPRIMENTO. APRESENTAÇÃO : ROLO 100 METROS
 
-3 352478 UNIDADE
+               CORDA. 6MM DE ESPESSURA. TRANÇADA. MATERIAL: SEDA.
 
-COMPRESSOR PARA REFRIGERAÇÃO HERMÉTICO % HP — GAS
-REFRIGERANTE R134-A TENSÃ: 110V, COMPATÍVEIL COM
-EQUIPAMENTOS DA MARCA ELECTROLUX.
+    6     263471  MÚLTIPLO USO. ROLO COM NO MÍNIMO 100 METROS DE      ROLO 100m       4      R$ 133,50    R$ 534,00
 
-CORDA DE SEDA TRANÇADA COM 08 MM DE ESPESSURA EM
-365370 " ROLO 100m
-100M DE COMPRIMENTO. APRESENTAÇÃO : ROLO 100 METROS
+               COMPRIMENTO.
 
-CORDA. 6MM DE ESPESSURA. TRANÇADA. MATERIAL: SEDA.
-MÚLTIPLO USO. ROLO COM NO MÍNIMO 100 METROS DE
-COMPRIMENTO.
+              ESCOVA DE AÇO MATERIAL: AÇO CARBONO. MATERIAL
 
-1
-4 1
+    7     482920  CABO: MADEIRA. QUANTIDADE FIOS AÇO: 4 FILEIRAS.        UNIDADE       12      R$ 11,74     R$ 140,88
 
-235059 UNIDADE
+               CARACTERÍSTICAS ADICIONAIS: BASE DE MADEIRA.
 
-R$ 1.280,88
+             ENCORDOAMENTO PARA CAVAQUINHO. CORDAS DE AÇO
 
-263471 ROLO 100m
+              PARA CAVAQUINHO; COMPATÍVEL COM A MARCA GIANNINI
 
-ESCOVA DE AÇO MATERIAL: AÇO CARBONO. MATERIAL
-482920 |[|CABO: MADEIRA. QUANTIDADE FIOS AÇO: 4 FILEIRAS.
-CARACTERÍSTICAS ADICIONAIS: BASE DE MADEIRA.
+    8     486096    - MODELO: J-93; - COMPOSIÇÃO EM AÇO ESTANHADO E LISO.     JOGO          5       R$ 74,01     R$ 370,05
 
-7 UNIDADE
+              TENSÃO MÉDIA. -ÚMERO DE CORDAS NA EMBALAGEM : 4
 
-ENCORDOAMENTO PARA CAVAQUINHO. CORDAS DE AÇO
-PARA CAVAQUINHO; COMPATÍVEL COM A MARCA GIANNINI
+               CORDAS.
 
-486096 JOGO
 
-()
 
-- MODELO: J-93; - COMPOSIÇÃO EM AÇO ESTANHADO E LISO.
-TENSÃO MÉDIA. -ÚMERO DE CORDAS NA EMBALAGEM :: 4
-CORDAS.
+                                                                                                                       1 de 17
 
-ESHEHRNENEINESA
-ENJE
-ol 1
-ENONINEIENENA
-mINIJARA
+           ENCORDOAMENTO PARA CONTRABAIXO 4 CORDAS .
 
-1 de 17
+            MATERIAL : AÇO; TENSÃO .045. COMPATÍVEL COM
+ 9     600740                                                    JOGO          5       R$ 64,76     R$ 323,80
+            CONTRABAIXO MARCA IBANEZ GSR390. NÚMERO DE
 
+           CORDAS NA EMBALAGEM : 4 CORDAS.
 
-10
+           ENCORDOAMENTO PARA GUITARRA IBANEZ GIO GRG270-
 
-11
+             APLICAÇÃO: GUITARRA. DIMENSÕES: 15.000 X 11.000 X 22.000
+10     445365                                                    JOGO          5       R$ 58,20     R$ 291,00
+             CM. MATERIAL: AÇO. TENSÃO: .009 - .042. NÚMERO DE
 
-12
+           CORDAS NA EMBALAGEM : 6 CORDAS.
 
-13
+           ENCORDOAMENTO PARA GUITARRA MICHAEL GM230 -
 
-s
-fez]
-D
-s
-f=)
-&
+            MATERIAL DO NÚCLEO: AÇO. MATERIAL DE ENROLAMENTO:
+11     445365                                                    JOGO          5       R$ 45,81     R$ 229,05
+           AÇO NIQUELADO. TENSÃO LEVE (0.010-0.046). NÚMERO DE
 
-14
+           CORDAS POR EMBALAGEM: 06 CORDAS.
 
-15
+           ENCORDOAMENTO PARA VIOLÃO DI GIORGIO Nº 18.
 
-16
+           ENCORDOAMENTO -TENSÃO: MÉDIA. MATERIAL DE
 
-17
+12     601638  MONOFILAMENTO: NYLON. MATERIAL QUE ENVOLVE O         JOGO          5       R$ 43,02     R$ 215,10
 
-18
+            NYLON: COBRE FOLHEADO OU PRATA. NÚMERO DE CORDAS
 
-19
+           NA EMBALAGEM: 6 CORDAS.
 
-20
+            FILAMENTO - TIPO: ABS PARA IMPRESSORA 3D. ESPESSURA:
+13     482408                                                 ROLO         3      R$ 132,95    R$ 398,85
+                  2,85 MM. COR: BRANCO. ROLO DE 1KG.
 
-21
+            FILAMENTO - TIPO: PLA PARA IMPRESSORA 3D. COR:
+14     482407                                                 ROLO         3      R$ 152,23    R$ 456,69
+            BRANCO. ESPESSURA: 2,85 MM. ROLO DE 1KG.
 
-22
+            FILAMENTO PLASTICO ABS DE 1,75MM, DE COR AZUL, PARA
 
-23
+            IMPRESSORA 3D – MATERIAL DE ALTA QUALIDADE,
 
-24
+15     440048  IMPRESSÃO 3D , EM ABS, COM DIAMETRO DE FILAMENTO DE   UNIDADE        3       R$ 98,84     R$ 296,52
 
-s
-s
-f=)
-n
-&D
-fe»)
+             1,75MM (+-0,10MM), COM TEMPERATURA DE IMPRESSÃO DE
 
-25
+               210 A 250ºC, COM 1KG POR CARRETEL.
 
-—
+            FILAMENTO PLASTICO ABS DE 1,75MM, DE COR BRANCO,
 
-600740
+            PARA IMPRESSORA 3D – MATERIAL DE ALTA QUALIDADE,
 
-445365
+16     482407  IMPRESSÃO 3D , EM ABS, COM DIAMETRO DE FILAMENTO DE   UNIDADE        3       R$ 99,22     R$ 297,66
 
-445365
+             1,75MM (+-0,10MM), COM TEMPERATURA DE IMPRESSÃO DE
 
-601638
+               210 A 250ºC, COM 1KG POR CARRETEL..
 
-482407
+            FILAMENTO PLASTICO ABS DE 1,75MM, DE COR PRETA, PARA
 
-440048
+            IMPRESSORA 3D – MATERIAL DE ALTA QUALIDADE,
 
-482407
+17     440048  IMPRESSÃO 3D , EM ABS, COM DIAMETRO DE FILAMENTO DE   UNIDADE        3       R$ 94,81     R$ 284,43
 
-440048
+             1,75MM (+-0,10MM), COM TEMPERATURA DE IMPRESSÃO DE
 
-241535
+               210 A 250ºC, COM 1KG POR CARRETEL.
 
-241535
+            LÂMINA BARBEAR - MATERIAL: AÇO INOXIDÁVEL.
 
-234350
+18     241535  COMPRIMENTO 43 MM, LARGURA 22 MM, TIPO USO            CAIXA        78       R$ 2,80     R$ 218,40
 
-447119
+            DESCARTÁVEL. CAIXA COM 03 UNIDADES
 
-612641
+            LÃMINA DE BARBEAR - MATERIAL: AÇO INOXIDÁVEL.
 
-233708
+            COMPRIMENTO: 43 MM. LARGURA: 22 MM. TIPO: USO
+                                                     EMBALAGEM
+19     241535  DESCARTÁVEL. APRESENTAÇÃO: EMBALAGEM COM 50                          6       R$ 35,79     R$ 214,74
+                                                            UNIDADE
+            LÂMINAS.VALOR REFERENTE A EMBALAGEM COM 50
 
-252642
+             LÂMINAS.
 
-sA
+            BANDEJA OVOS, MATERIAL:PAPELÃO, COMPRIMENTO:30 CM,
 
-ENCORDOAMENTO PARA CONTRABAIXO 4 CORDAS .
-MATERIAL : AÇO; TENSÃO .045. COMPATÍVEL COM
-CONTRABAIXO MARCA IBANEZ GSR390. NÚMERO DE
-CORDAS NA EMBALAGEM : 4 CORDAS.
+20     234350  LARGURA:30 CM, CAPACIDADE:30 UM. CAIXA COM 50         UNIDADE       20      R$ 50,67    R$ 1.013,40
 
-ENCORDOAMENTO PARA GUITARRA IBANEZ GIO GRG270-
-APLICAÇÃO: GUITARRA. DIMENSÕES: 15.000 X 11.000 X 22.000
+             UNIDADES. VALOR REFERENTE CAIXA DE 50 UNIDADES.
 
-CM. MATERIAL: AÇO. TENSÃO: .009 - .042. NÚMERO DE
-CORDAS NA EMBALAGEM : 6 CORDAS.
+            BANDEJA OVOS, MATERIAL POLITEREFTALATO DE ETILENO,
 
-ENCORDOAMENTO PARA GUITARRA MICHAEL GM230 -
-MATERIAL DO NÚCLEO: AÇO. MATERIAL DE ENROLAMENTO:
-AÇO NIQUELADO. TENSÃO LEVE (0.010-0.046). NÚMERO DE
-CORDAS POR EMBALAGEM: 06 CORDAS.
+21     447119  COMPRIMENTO 291, LARGURA 96, CAPACIDADE 30, ALTURA     FARDO        14      R$ 83,55    R$ 1.169,70
 
-ENCORDOAMENTO PARA VIOLÃO DI GIORGIO Nº 18.
+                  41. FARDO COM 100 UNIDADES.
 
-ENCORDOAMENTO -TENSÃO: MÉDIA. MATERIAL DE
-MONOFILAMENTO: NYLON. MATERIAL QUE ENVOLVE O
-NYLON: COBRE FOLHEADO OU PRATA. NÚMERO DE CORDAS
+           CORANTE ALIMENTO. APRESENTAÇÃO: LÍQUIDO. COR:
+22     440566                                                  UNIDADE       31       R$ 3,73     R$ 115,63
+             VARIADA.
 
-NA EMBALAGEM: 6 CORDAS.
+            COLHER DESCARTÁVEL. MATERIAL: PLÁSTICO. COR:
 
-FILAMENTO - TIPO: ABS PARA IMPRESSORA 3D. ESPESSURA:
-2,85 MM. COR: BRANCO. ROLO DE 1KG.
-FILAMENTO - TIPO: PLA PARA IMPRESSORA 3D. COR:
+23     612641  BRANCA. APLICAÇÃO : REFEIÇÃO. COMPRIMENTO: 13 CM.      PACOTE        9       R$ 5,54      R$ 49,86
 
-BRANCO. ESPESSURA: 2,85 MM. ROLO DE 1KG.
+            PACOTE COM 50 UNIDADES.
 
-FILAMENTO PLASTICO ABS DE 1,75MM, DE COR AZUL, PARA
-IMPRESSORA 3D - MATERIAL DE ALTA QUALIDADE,
-IMPRESSÃO 3D , EM ABS, COM DIAMETRO DE FILAMENTO DE
-1,75MM (+-0,10MM), COM TEMPERATURA DE IMPRESSÃO DE
-210 A 250ºC, COM 1KG POR CARRETEL.
+             PAPEL ALUMINIO - COMPRIMENTO: 7,50 M. LARGURA: 45 CM.
+24     233708                                                  UNIDADE       10       R$ 6,72      R$ 67,20
+            APRESENTAÇÃO: ROLO.
 
-FILAMENTO PLASTICO ABS DE 1,75MM, DE COR BRANCO,
-PARA IMPRESSORA 3D - MATERIAL DE ALTA QUALIDADE,
-IMPRESSÃO 3D , EM ABS, COM DIAMETRO DE FILAMENTO DE
-1,75MM (+-0,10MM), COM TEMPERATURA DE IMPRESSÃO DE
-210 A 250ºC, COM 1KG POR CARRETEL..
+             PAPEL ALUMÍNIO - MATERIAL: ALUMÍNIO. COMPRIMENTO:
+25     252642                                                  UNIDADE       32      R$ 52,31    R$ 1.673,92
+               100 M. LARGURA: 30 CM. APRESENTAÇÃO: ROLO.
 
-FILAMENTO PLASTICO ABS DE 1,75MM, DE COR PRETA, PARA
-IMPRESSORA 3D - MATERIAL DE ALTA QUALIDADE,
-IMPRESSÃO 3D , EM ABS, COM DIAMETRO DE FILAMENTO DE
-1,75MM (+-0,10MM), COM TEMPERATURA DE IMPRESSÃO DE
-210 A 250ºC, COM 1KG POR CARRETEL.
+             PAPEL ALUMÍNIO - MATERIAL: ALUMÍNIO. COMPRIMENTO: 65
 
-LÂMINA BARBEAR - MATERIAL: AÇO INOXIDÁVEL.
-COMPRIMENTO 43 MM, LARGURA 22 MM, TIPO USO
-DESCARTÁVEL. CAIXA COM 03 UNIDADES
 
-LÂMINA DE BARBEAR - MATERIAL: AÇO INOXIDÁVEL.
-COMPRIMENTO: 43 MM. LARGURA: 22 MM. TIPO: USO
-DESCARTÁVEL. APRESENTAÇÃO: EMBALAGEM COM 50
-LÂMINAS.VALOR REFERENTE A EMBALAGEM COM 50
-LÂMINAS.
 
-BANDEJA OVOS, MATERIAL:PAPELÃO, COMPRIMENTO:30 CM,
-LARGURA:30 CM, CAPACIDADE:30 UM. CAIXA COM 50
-UNIDADES. VALOR REFERENTE CAIXA DE 50 UNIDADES.
 
-BANDEJA OVOS, MATERIAL POLITEREFTALATO DE ETILENO,
-COMPRIMENTO 291, LARGURA 96, CAPACIDADE 30, ALTURA
-41. FARDO COM 100 UNIDADES.
+                                                                                                                    2 de 17
 
-CORANTE ALIMENTO. APRESENTAÇÃO: LÍQUIDO. COR:
-VARIADA.
+26     422384  M. LARGURA: 45 CM. APRESENTAÇÃO: ROLO.               UNIDADE       15      R$ 45,46     R$ 681,90
 
-COLHER DESCARTÁVEL. MATERIAL: PLÁSTICO. COR:
+             PAPEL ALUMÍNIO. MATERIAL: ALUMÍNIO. COMPRIMENTO:
+27     221390                                                 ROLO         4       R$ 4,92      R$ 19,68
+                7,50M. LARGURA: 30CM. APRESENTAÇÃO: ROLO 7,5 METROS
 
-BRANCA. APLICAÇÃO : REFEIÇÃO. COMPRIMENTO: 13 CM.
-PACOTE COM 50 UNIDADES.
+             PAPEL FILME, MATERIAL:PVC - CLORETO DE POLIVINILA,
 
-PAPEL ALUMINIO - COMPRIMENTO: 7,50 M. LARGURA: 45 CM.
-APRESENTAÇÃO: ROLO.
+28     437630  COMPRIMENTO:100 M, LARGURA:25 CM. APRESENTAÇÃO       ROLO         2       R$ 30,82     R$ 61,64
 
-PAPEL ALUMÍNIO - MATERIAL: ALUMÍNIO. COMPRIMENTO:
+           ROLO 100 METROS
 
-100 M. LARGURA: 30 CM. APRESENTAÇÃO: ROLO.
+             PAPEL FILME- MATERIAL: PVC (CLORETO DE POLIVINILA).
 
-PAPEL ALUMÍNIO - MATERIAL: ALUMÍNIO. COMPRIMENTO: 65
+29     220981  COMPRIMENTO: 300 M. LARGURA: 29 CM. APRESENTAÇÃO:      BOBINA        10      R$ 39,64     R$ 396,40
 
-JOGO
-JOGO
-JOGO
+             ROLO.
 
-JOGO
+             FILME PLÁSTICO - COMPOSIÇÃO: PVC/CLORETO DE
 
-ROLO
+              POLIVINILA. COR: TRANSPARENTE. DIMENSÕES
 
-ROLO
+            APROXIMADAS: LARGURA 28 CM X 30 M. TEMPERATURA DE
+30     421336                                                  UNIDADE       30       R$ 7,33     R$ 219,90
+             USO: -10ºC ATÉ + 70ºC. CARACTERÍSTICAS ADICIONAIS:
 
-UNIDADE
+             ESTICÁVEL, DESCARTÁVEL E ATÓXICO. APRESENTAÇÃO:
 
-UNIDADE
+           ROLO DE 30 METROS.
 
-UNIDADE
+             PAPEL MANTEIGA. MATERIAL CELULOSE VEGETAL.
 
-CAIXA
+31     445763  GRAMATURA 40G. COMPRIMENTO 7,5 M. LARGURA 29 CM.      UNIDADE       62       R$ 4,46     R$ 276,52
 
-ENJINNDESDENENEN
+            APLICAÇÃO CULINÁRIA EM GERAL.
 
-EMBALAGEM
+              PLÁSTICO. TIPO MATERIAL: PLÁSTICO IMPERMEÁVEL.
 
-UNIDADE
+             TRANSMITÂNCIA: TRANSPARENTE. COR: INCOLOR.
+32     267288                                                ROLO 50m       2      R$ 424,63    R$ 849,26
+            LARGURA: 140 CM. APLICAÇÃO: PROTEÇÃO SUPERFÍCIES E
 
-UNIDADE
+              OBJETOS. COMPRIMENTO: 50 M.
 
-FARDO
+            SACO DE RÁFIA VIRGEM COM CAPACIDADE PARA 50 KG -
+33     481559                                                  UNIDADE       396      R$ 2,30     R$ 910,80
+            UNIDADE
 
-UNIDADE
+            FOLHA ISOPOR. COMPRIMENTO: 100 CM. LARGURA: 50 CM.
+34     422780                                                  UNIDADE       10       R$ 9,91      R$ 99,10
+             ESPESSURA: 3 CM.
 
-PACOTE
+           FORMA PARA QUEIJO.FORMA PLÁSTICA REDONDA COM
 
-UNIDADE
+           FUNDO EM TELA, PARA QUEIJO MINAS FRESCAL DE 500G,
+35     237708                                                  UNIDADE       20      R$ 15,16     R$ 303,20
+            MEDIDAS INTERNAS DE 102MM DE DIÂMETRO X 119MM DE
 
-UNIDADE
+           ALTURA
 
-d
+             PENEIRA COZINHA. MATERIAL: AÇO INOXIDÁVEL.
 
--
-'
+36     464985  MATERIAL CABO: AÇO INOXIDÁVEL. DIÂMETRO: 27 CM.       UNIDADE        1       R$ 34,00     R$ 34,00
 
-5
+             CARACTERÍSTICAS ADICIONAIS: FORMATO CÔNICO.
 
-5
+            POTE DESCARTÁVEL – MATERIAL: POLIPROPILENO.
 
-5
+            FORMATO: REDONDO. CAPACIDADE: 200 ML.
 
-5
+             CARACTERÍSTICAS ADICIONAIS: MATERIAL ATÓXICO E
+                                                     EMBALAGEM
+37     300051  TRANSPARENTE, COM SOBRETAMPA E SELO DE ALUMÍNIO                       70      R$ 135,00    R$ 9.450,00
+                                                                               100und
+          COM POLIETILENO. APRESENTAÇÃO: EMBALAGEM
 
-3
+           CONTENDO 100 UNIDADES.VALOR REFERENTE RMBALAGEM
 
-3
+          COM 100 UNIDADES.
 
-3
+            POTE DE VIDRO - CAPACIDADE: 2 LITROS. COM TAMPA
+38     417015                                                  UNIDADE        8       R$ 31,42     R$ 251,36
+             PLÁSTICA ROSQUEÁVEL.
 
-78
+            PORTA-BANNER COM LONGARINAS TELESCÓPICAS - BASE
 
-20
+             RETRÁTIL PESO: 7,20KG ACABAMENTO: PRETO EPOXÍ
 
-14
+39     367110  ALTURA MÁXIMA: 2,80CM X 2,80 CM BENEFICIOS: POSSUI      UNIDADE       24      R$ 127,56    R$ 3.061,44
 
-3
+            LONGARINAS HORIZONTAIS TELESCÓPICA, PERMITINDO
 
-n
+            MAIOR OPÇÃO DE AJUSTE DO BANNER EXPOSTO.
 
-10
+            PORTA-CARTÃO - MATERIAL: RESINA POLICARBONATO.
 
-R$ 64,76
+40     440267  CAPACIDADE: 8 UNIDADES. CARACTERÍSTICAS ADICIONAIS:    UNIDADE        2       R$ 56,20     R$ 112,40
 
-R$ 58,20
+            PARA CARTÕES DE MEMÓRIA
 
-R$ 45,81
+            BASTÃO DE COLA QUENTE - ESPESSURA: GROSSA 40CM.
 
-R$ 43,02
+            COMPOSIÇÃO: RESINA DE EVA E RESINA TAQUIFICANTE.
+41     284808                                                  UNIDADE       22       R$ 3,12      R$ 68,64
+            PONTO DE AMOLECIMENTO: 91°C. APLICAÇÃO: PARA
 
-R$ 132,95
+             PISTOLA DE COLA QUENTE.
 
-R$ 152,23
+             PISTOLA - APLICAÇÃO: PARA COLA QUENTE. MATERIAL:
 
-R$ 98,84
-R$ 99,22
+              PLÁSTICO. VOLTAGEM: BI-VOLT (110 E 220 V). POTÊNCIA: 80W
+42     263754                                                  UNIDADE       40      R$ 37,58    R$ 1.503,20
+                               . TAMANHO BASTÃO: GROSSO (11,3 MM X 300 MM).
 
-R$ 94,81
-R$ 2,80
-R$ 35,79
+             CARACTERÍSTICAS ADICIONAIS: GATILHO ANATÔMICO.
 
-R$ 50,67
+           COLA ADESIVA INSTANTÂNEA - COMPOSIÇÃO: CETONA
 
-R$ 83,55
-R$3,73
-R$ 5,54
+              /XILENOL/RESINA VINÌLICA/POLIEURETANO E EPOXI. COR:
 
-R$ 6,72
+             INCOLOR. CARACTERISTICAS ADICIONAIS: COM BICO
 
-R$ 52,31
 
-R$ 323,80
-R$ 291,00
-R$ 229,05
 
-R$215,10
+                                                                                                                    3 de 17
 
-R$ 398,85
-R$ 456,69
+43     228919  DOSADOR. APLICAÇÃO: MATERIAL ACRÍLICO/LOUÇA/VIDRO  EMBALAGEM      2       R$ 34,99     R$ 69,98
 
-R$ 296,52
+            /COURO E PLÁSTICO. O MATERIAL DEVERA CONTER A             100g
 
-R$ 297,66
+          MARCA DO FABRICANTE. APRESENTAÇÃO: EMBALAGEM
 
-R$ 284,43
+           CONTENDO 100G. .
 
-R$ 218,40
+             COLA. COMPOSIÇÃO: SILICONE. APLICAÇÃO: PISTOLA
 
-R$ 214,74
+44     284808  QUENTE. CARACTERÍSTICAS ADICIONAIS: COM 11 MM DE      UNIDADE       23       R$ 3,95      R$ 90,85
 
-R$ 1.013,40
+            DIÂMETRO E 30 CM DE COMPRIMENTO. TIPO:BASTÃO.
 
-R$ 1.169,70
+            CAIXA EMBALAGEM, MATERIAL: POLIESTIRENO,
 
-R$ 115,63
+45     458866  COMPRIMENTO: 11 CM, ALTURA: 35 MM, COR: INCOLOR,       UNIDADE       50      R$ 20,33    R$ 1.016,50
 
-R$ 49,86
+             APLICAÇÃO: GERMINAÇÃO DE SEMENTES
 
-R$ 67,20
+             CAIXA, MATERIAL PLÁSTICO, COMPRIMENTO 205, LARGURA
 
-R$ 1.673,92
+46     311806   165, ALTURA 30, APLICAÇÃO ACONDICIONAR LÂMINAS        UNIDADE       60      R$ 17,92    R$ 1.075,20
 
-u
+             HISTOLÓGICAS
 
-2 de 17
+            CAIXA PLÁSTICA COM TAMPA ORGANIZADORA MULTI USO
+47     616939                                                  UNIDADE        2       R$ 44,01     R$ 88,02
+               20 LITROS, TRANSPARENTE.
 
+            CAIXA PLÁSTICA - TIPO: CAIXA ORGANIZADORA. MATERIAL:
 
-26
+             POLIPROPILENO, TRANSPARENTE, RESISTENTE. DIMENSÕES:
 
-27
+48     416057  ALTURA: 34 CM. LARGURA: 38 CM. COMPRIMENTO: 58 CM.      UNIDADE       20      R$ 64,31    R$ 1.286,20
 
-28
+            FORMATO: RETANGULAR. CARACTERÍSTICA ADICIONAL:
 
-29
+          COM TAMPA. CAPACIDADE: 50 LITROS.
 
-30
+            CAIXA PLÁSTICA - TIPO: ORGANIZADORA. DIMENSÕES : 400 X
 
-31
+49     314498  270 X 133MM. COR: BRANCA. CAPACIDADE: 8,60 LITROS.       UNIDADE        8       R$ 46,44     R$ 371,52
 
-32
+             ADICIONAL: COM TAMPA.
 
-33
+            TESOURA MULTI USO COM CABO PLASTICO REFORÇADO
 
-HESONBEIEIE
+             PRETO, EM FORMATO ANATOMICO, LAMINA EM AÇO INOX,
 
-34
+50     376266  TAMANHO APROXIMADO DE 21 CM, EM EMBALAGEM         UNIDADE        2       R$ 21,14     R$ 42,28
 
-35
+              INDIVIDUAL. O MATERIAL DEVERA CONTER A MARCA DO
 
-36
+             FABRICANTE.
 
-37
+             PINCEL ARTE PLÁSTICA, MATERIAL CERDAS: PÊLO
 
-38
+51     362445  SINTÉTICO, TAMANHO: 2, FORMATO: REDONDO, MATERIAL     UNIDADE       60       R$ 5,50     R$ 330,00
 
-39
+             CABO: ACRÍLICO TRANSPARENTE
 
-40
+             TINTA ARTÍSTICA, COMPOSIÇÃO:A BASE DE RESINA
 
-41
+              ACRÍLICA, TIPO ACABAMENTO:FOSCO, COR:MAGENTA,
+52     423277                                                   FRASCO       208      R$ 49,20    R$ 10.233,60
+             APLICAÇÃO:ARTESANATOS, ROUPAS/TECIDOS, ARRANJOS
 
-42
+            FLORES SECAS. FRASCO DE 250 ML
 
-— s e |ee s p s |)
+           TOALHA DE ROSTO 100% ALGODÃO, DE 0,40M X 0,80M, FIO
 
-422384
+53     609857  PENTEADO, PADRÃO DE QUALIDADE IGUAL OU SUPERIOR A    UNIDADE        6       R$ 23,21     R$ 139,26
 
-221390
+             KARSTEN, SANTISTA, TEKA, ARTEX. CORES CLARAS.
 
-437630
+             TECIDO - TIPO: MALHA TENSIONADA.COR : BRANCA.
 
-220981
+54     468422  COMPOSIÇÃO: 97% POLIÉSTER , 3% ELASTANO. COR:          METRO         5       R$ 47,54     R$ 237,70
 
-421336
+            BRANCO. LARGURA: 1,80 M.
 
-445763
+             TECIDO - TIPO: MALHA TENSIONADA.COR : VERMELHA.
 
-267288
+55     468422  COMPOSIÇÃO: 97% POLIÉSTER , 3% ELASTANO. COR:          METRO         5       R$ 47,54     R$ 237,70
 
-481559
+            VERMELHO. LARGURA: 1,80 M.
 
-iiil E
+             TECIDO - TIPO: MALHA TENSIONADA. COMPOSIÇÃO: 97%
 
-422780
+56     618900  POLIÉSTER , 3% ELASTANO. COR: AMARELO. LARGURA: 1,80     METRO         5       R$ 47,54     R$ 237,70
 
-237708
+             M.
 
-464985
+             TECIDO - TIPO: MALHA TENSIONADA. COMPOSIÇÃO: 97%
+57     616500                                               METRO         5       R$ 47,54     R$ 237,70
+             POLIÉSTER , 3% ELASTANO. COR: AZUL. LARGURA: 1,80 M.
 
-300051
+             TECIDO - TIPO: MALHA TENSIONADA. COMPOSIÇÃO: 97%
+58     618901                                               METRO         5       R$ 47,54     R$ 237,70
+             POLIÉSTER , 3% ELASTANO. COR: PRETO. LARGURA: 1,80 M.
 
-417015
+             TECIDO - TIPO: MALHA TENSIONADA. COMPOSIÇÃO: 97%
+59     614513                                               METRO         5       R$ 47,54     R$ 237,70
+             POLIÉSTER , 3% ELASTANO. COR: VERDE. LARGURA: 1,80 M.
 
-367110
+           VASO - MATERIAL: PLÁSTICO. CAPACIDADE: 50 L. COR:
 
-440267
+60     418678  PRETA. DIÂMETRO EXTERNO: 30 CM. ALTURA: 50 CM. TIPO:     UNIDADE       30      R$ 38,77    R$ 1.163,10
 
-284808
+          COM FURO. APLICAÇÃO: PARA PLANTAS.
 
-263754
+             VASO, MATERIAL:PLÁSTICO, CAPACIDADE:6 L, COR:PRETA,
 
-— i :1 :: p : 64l
+61     256398  DIÂMETRO EXTERNO:24 CM, ALTURA:20 CM, TIPO:COM FURO,   UNIDADE       100      R$ 6,05     R$ 605,00
 
-M. LARGURA: 45 CM. APRESENTAÇÃO: ROLO. l UNIDADE
+             CARACTERÍSTICAS ADICIONAIS:SEM PRATO
 
-PAPEL ALUMÍNIO. MATERIAL: ALUMÍNIO. COMPRIMENTO:
+                                                                   VALOR TOTAL   R$ 50.407,73
 
-ROLO
 
-ROLO
 
-7,50M. LARGURA: 30CM. APRESENTAÇÃO: ROLO 7,5 METROS
+                                                                                                                    4 de 17
 
-PAPEL FILME, MATERIAL:PVC - CLORETO DE POLIVINILA,
-COMPRIMENTO:100 M, LARGURA:25 CM. APRESENTAÇÃO
-ROLO 100 METROS
+1.2. Os bens objeto desta contratação são caracterizados como comuns, conforme justificativa constante do Estudo Técnico Preliminar.
 
-PAPEL FILME- MATERIAL: PVC (CLORETO DE POLIVINILA).
-COMPRIMENTO: 300 M. LARGURA: 29 CM. APRESENTAÇÃO:
-ROLO.
+1.3. O objeto desta contratação não se enquadra como sendo de bem de luxo, conforme Decreto nº 10.818, de 27 de setembro de 2021.
 
-BOBINA
+1.4. O prazo de vigência da contratação é de 180 (cento e oitenta) dias contados a partir da data do aceite da Nota de Empenho, na forma do artigo 105
+da Lei n° 14.133, de 2021.
 
-FILME PLÁSTICO - COMPOSIÇÃO: PVC/CLORETO DE
-POLIVINILA. COR: TRANSPARENTE. DIMENSÕES
-APROXIMADAS: LARGURA 28 CM X 30 M. TEMPERATURA DE
-USO: -10ºC ATÉ + 70ºC. CARACTERÍSTICAS ADICIONAIS:
-ESTICÁVEL, DESCARTÁVEL E ATÓXICO. APRESENTAÇÃO:
-ROLO DE 30 METROS.
+1.4.1. O prazo de vigência será automaticamente prorrogado, independentemente de termo aditivo, quando o objeto não for concluído no período
+originalmente firmado, ressalvadas as providências cabíveis no caso de culpa do contratado, previstas neste instrumento.
 
-UNIDADE
+1.5. Os valores previstos na tabela acima são os valores máximos aceitáveis na presente aquisição, constituindo-se assim como critério de aceitabilidade
+das propostas.
 
-PAPEL MANTEIGA. MATERIAL CELULOSE VEGETAL.
-GRAMATURA 40G. COMPRIMENTO 7,5 M. LARGURA 29 CM.
-APLICAÇÃO CULINÁRIA EM GERAL.
+1.6.  Havendo divergência entre as especificações constantes no sistema Compras Governamentais e as constantes neste Termo de Referência,
+prevalecerão sempre as especificações do Termo de Referência.
 
-UNIDADE
+1.7. O contrato ou outro instrumento hábil que o substitua oferece maior detalhamento das regras que serão aplicadas em relação à vigência da
+contratação.
 
-PLÁSTICO. TIPO MATERIAL: PLÁSTICO IMPERMEÁVEL.
-TRANSMITÂNCIA: TRANSPARENTE. COR: INCOLOR.
-LARGURA: 140 CM. APLICAÇÃO: PROTEÇÃO SUPERFÍCIES E
-OBJETOS. COMPRIMENTO: 50 M.
 
-SACO DE RÁFIA VIRGEM COM CAPACIDADE PARA 50 KG -
-UNIDADE
-UNIDADE
 
-FOLHA ISOPOR. COMPRIMENTO: 100 CM. LARGURA: 50 CM.
-ESPESSURA: 3 CM.
 
-ROLO 50m
+2. FUNDAMENTAÇÃO E DESCRIÇÃO DA NECESSIDADE
 
-UNIDADE
+2.1. A Fundamentação da Contratação e de seus quantitativos encontra-se pormenorizada em Tópico específico dos Estudos Técnicos Preliminares,
+apêndice deste Termo de Referência.
 
-FORMA PARA QUEIJO.FORMA PLÁSTICA REDONDA COM
-FUNDO EM TELA, PARA QUEIJO MINAS FRESCAL DE 500G,
-MEDIDAS INTERNAS DE 102MM DE DIÂMETRO X 119MM DE
-ALTURA
+2.2. O objeto da contratação está previsto no Plano de Contratações Anual 2025, conforme consta das informações básicas desse Termo de Referência.
 
-UNIDADE
 
-PENEIRA COZINHA. MATERIAL: AÇO INOXIDÁVEL.
-MATERIAL CABO: AÇO INOXIDÁVEL. DIÂMETRO: 27 CM.
-CARACTERÍSTICAS ADICIONAIS: FORMATO CÔNICO.
 
-UNIDADE
 
-POTE DESCARTÁVEL — MATERIAL: POLIPROPILENO.
-FORMATO: REDONDO. CAPACIDADE: 200 ML.
-CARACTERÍSTICAS ADICIONAIS: MATERIAL ATÓXICO E
-TRANSPARENTE, COM SOBRETAMPA E SELO DE ALUMÍNIO
-COM POLIETILENO. APRESENTAÇÃO: EMBALAGEM
-CONTENDO 100 UNIDADES.VALOR REFERENTE RMBALAGEM
-COM 100 UNIDADES.
 
-POTE DE VIDRO - CAPACIDADE: 2 LITROS. COM TAMPA
-k < UNIDADE
-PLASTICA ROSQUEAVEL.
+3. DESCRIÇÃO DA SOLUÇÃO COMO UM TODO
 
-PORTA-BANNER COM LONGARINAS TELESCÓPICAS - BASE
-RETRÁTIL PESO: 7,20KG ACABAMENTO: PRETO EPOXÍ
+3.1. A descrição da solução como um todo encontra-se pormenorizada em tópico específico dos Estudos Técnicos Preliminares, apêndice deste Termo de
+Referência.
 
-ALTURA MÁXIMA: 2,80CM X 2,80 CM BENEFICIOS: POSSUI
-LONGARINAS HORIZONTAIS TELESCÓPICA, PERMITINDO
+3.2. Os conteúdos do Estudo Técnico Preliminar são todos aqueles previstos no art. 9º, da IN SEGES nº 58/2022.
 
-100und
+3.3. A contratação não será realizada por meio do Sistema de Registro de Preços (SRP), tendo em vista que a demanda prevê entrega única e imediata
+dos itens, sem a necessidade de fornecimento parcelado ao longo do tempo. Ademais, foi possível identificar e consolidar previamente o quantitativo
+total a ser adquirido, com base nas solicitações dos cursos demandantes. Diante disso, não se configuram as hipóteses de utilização do SRP previstas no
+art. 3º do Decreto nº 11.462, de 31 de março de 2023, o que torna incabível sua adoção neste caso.
 
-UNIDADE
+3.4. O tratamento favorecido, diferenciado e simplificado previsto no Decreto nº 8.538 de 2015 não será afastado, por não incidir quaisquer das
+hipóteses previstas no art. 10 do referido Decreto.
 
-MAIOR OPÇÃO DE AJUSTE DO BANNER EXPOSTO.
+3.5. As especificações e informações técnicas são de responsabilidade do requisitante que pode ser identificado no item 3 do ETP.
 
-PORTA-CARTÃO - MATERIAL: RESINA POLICARBONATO.
-CAPACIDADE: 8 UNIDADES. CARACTERÍSTICAS ADICIONAIS:
-PARA CARTÕES DE MEMÓRIA
+3.5.1. As especificações foram analisadas pelo requisitante que as consideram essenciais à contratação, sem as quais não poderão ser atendidas as
+necessidades da Administração, assegurando que as informações não são excessivas, irrelevantes ou desnecessárias, não limitando ou frustrando a
+competição ou sua realização (art. 9º, I, alínea "a", da Lei nº 14.133/2021).
 
-UNIDADE
 
-BASTÃO DE COLA QUENTE - ESPESSURA: GROSSA 40CM.
-COMPOSIÇÃO: RESINA DE EVA E RESINA TAQUIFICANTE.
-PONTO DE AMOLECIMENTO: 91ºC. APLICAÇÃO: PARA
-PISTOLA DE COLA QUENTE.
 
-UNIDADE
 
-PISTOLA - APLICAÇÃO: PARA COLA QUENTE. MATERIAL:
-PLÁSTICO. VOLTAGEM: BI-VOLT (110 E 220 V). POTÊNCIA: 80W
-. TAMANHO BASTÃO: GROSSO (11,3 MM X 300 MM).
-CARACTERÍSTICAS ADICIONAIS: GATILHO ANATÔMICO.
 
-UNIDADE
+                                                                                                                       5 de 17
 
-COLA ADESIVA INSTANTÂNEA - COMPOSIÇÃO: CETONA
-/XILENOL/RESINA VINILICA/POLIEURETANO E EPOXI. COR:
-INCOLOR. CARACTERISTICAS ADICIONAIS: COM BICO
+4. REQUISITOS DA CONTRATAÇÃO
 
-SnnBa
+Sustentabilidade
 
-| 15 R$ 45,46
+4.1. Além dos critérios de sustentabilidade eventualmente inseridos na descrição do objeto, devem ser atendidos os seguintes requisitos, que se baseiam
+no Guia Nacional de Contratações Sustentáveis:
 
-l "
+4.1.1. Produtos fornecidos em embalagens de materiais reciclado, biodegradável, atóxico, sempre que possível, produzidos sem utilização de trabalho
+escravo ou infantil e com máquinas que reduzem a geração de resíduos industriais ou com menor uso de água e energia.
 
-. —
+4.1.2. Só será admitida a oferta do produto cujo fabricante esteja regularmente registrado no Cadastro Técnico Federal de Atividades Potencialmente
+Poluidoras ou Utilizadoras de Recursos Ambientais, instituído pelo artigo 17, inciso II, da Lei n° 6.938, de 1981.
 
-R$ 2,30
+4.1.3. Não haverá impactos ambientais para os itens de consumo que se pretende adquirir. Os resíduos que poderão ser gerados serão acondicionados em
+recipiente e local adequados e posteriormente recolhidos pela empresa contratada pela UFVJM que faz o descarte correto destes resíduos sob a gestão da
+Assessoria de Meio Ambiente. Geralmente as coletas ocorrem quinzenalmente, e/ou programada, de acordo com a demanda.
 
-I ”
+4.1.4. Nos termos do Decreto nº 10.947/2022, do art. 7º da Instrução Normativa SEGES/ME nº 81/2022 e da Portaria SEGES/ME nº 8.678/2021, o
+objeto da contratação está em conformidade com as diretrizes do Plano Diretor de Logística Sustentável (PLS): https://portal.ufvjm.edu.br/page/acesso-
+a-informacao/institucional/bases-juridicas/bases-juridicas-1/plano-de-logisticasustentavel-da-ufvjm-pls-2025-2028.
 
-l —
+Subcontratação
 
-' "
+4.2. Não será admitida a subcontratação do objeto contratual.
 
-'H
+Garantia da contratação
 
-R$ 681,90
+4.3. Não haverá exigência da garantia da contratação dos artigos 96 e seguintes da Lei nº 14.133, de 2021, pelas razões constantes do Estudo Técnico
+Preliminar.
 
-R$ 19,68
+Margem de Preferência:
 
-R$ 61,64
+4.4. O objeto da contratação enquadra-se na margem de preferência normal de 10%, prevista no Decreto nº 11.890, de 22 de janeiro de 2024, conforme
+disposto na Resolução nº 7, de 23 de dezembro de 2024 da Comissão Interministerial de Contratações Públicas para o Desenvolvimento Sustentável –
+CICS, por se tratar de bem manufaturado nacionaque atende a normas técnicas brasileiras.
 
-R$ 396,40
-R$ 219,90
+ 4.4.1. A margem de preferência se aplica para os itens 13 a 17, respectivamente
 
-R$ 276,52
 
-R$ 849,26
 
-R$ 910,80
 
-R$ 99,10
 
-R$ 303,20
+5. MODELO DE EXECUÇÃO DO OBJETO
 
-HMANSHO:
+Condições de Entrega
 
-R$ 34,00
+5.1. O prazo de entrega dos bens é de até 30 (trinta) dias corridos, a partir do envio da Nota de Empenho ao Licitante, via e-mail, em remessa única.
 
-R$ 9.450,00
+5.2. Caso não seja possível a entrega na data assinalada, a empresa deverá comunicar as razões respectivas com no minimo 24 (vinte e quatro) horas de
+antecedência para que qualquer pleito de prorrogação de prazo seja analisado, ressalvadas situações de caso fortuito e força maior.
 
-R$ 251,36
+5.3. Os bens deverão ser entregues nos seguintes endereços, de acordo com a indicação da nota de empenho, no horário de 08:00 às 11:00 e de 13:00 às
+16:30 horas, em dias úteis.
 
-R$ 3.061,44
 
-R$ 112,40
 
-R$ 68,64
 
-R$ 1.503,20
+                                                                                                                       6 de 17
 
-ddl : eG
+Divisão de Almoxarifado/UFVJM, Campus JK - Rodovia MGT 367, KM 583, nº 5000 - Alto da Jacuba - CEP: 39100-000 - Diamantina/MG, no
+horário de 08:00 às 11:00 e de 13:00 às 16:30 horas em dias úteis;
 
-3 de 17
+Divisão de Almoxarifado/UFVJM, Campus do Mucuri - Rua do Cruzeiro, nº 01 - Bairro Jardim São Paulo - CEP: 39803-371 - Teófilo Otoni/MG, no
+horário de 08:00 às 11:00 e de 13:00 às 16:30 horas em dias úteis.
 
+Divisão de Almoxarifado/UFVJM, Campus Unaí - Avenida Universitária, nº 1.000, Bairro Universitários - CEP 38610-000 - Unaí/MG, no horário de
+08:00 às 11:00 e de 13:00 às 16:30 horas em dias úteis.
 
-43
+Divisão de Almoxarifado/UFVJM, Campus Janaúba- - Avenida Um, nº 4.050, Cidade Universitária - CEP 39447-790 - Janaúba/MG, no horário de
+08:00 às 11:00 e de 13:00 às 16:30 horas em dias úteis.
 
-228919 ||IDOSADOR. APLICAÇÃO: MATERIAL ACRÍLICO/LOUÇA/VIDRO |EMBALAGEM
-/COURO E PLÁSTICO. O MATERIAL DEVERA CONTER A 100g
-MARCA DO FABRICANTE. APRESENTAÇÃO: EMBALAGEM
+Garantia, manutenção e assistência técnica
 
-CONTENDO 100G. .
+5.4. O prazo de garantia é aquele estabelecido na Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor).
 
-R$ 34,99 R$ 69,98
-23 R$3,95 R$ 90,85
-50 R$ 20,33 R$ 1.016,50
 
-R$ 17,92 R$ 1.075,20
 
-R$ 44,01
 
-COLA. COMPOSIÇÃO: SILICONE. APLICAÇÃO: PISTOLA
-QUENTE. CARACTERÍSTICAS ADICIONAIS: COM 11 MM DE
-DIÂMETRO E 30 CM DE COMPRIMENTO. TIPO:BASTÃO.
+6. MODELO DE GESTÃO DO CONTRATO
 
-44 284808 UNIDADE
+6.1. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as normas da Lei nº 14.133, de 2021, e cada parte
+responderá pelas consequências de sua inexecução total ou parcial.
 
-CAIXA EMBALAGEM, MATERIAL: POLIESTIRENO,
-COMPRIMENTO: 11 CM, ALTURA: 35 MM, COR: INCOLOR,
-APLICAÇÃO: GERMINAÇÃO DE SEMENTES
+6.2. Em caso de impedimento, ordem de paralisação ou suspensão da contratação o cronograma de execução será prorrogado automaticamente pelo
+tempo correspondente, anotadas tais circunstâncias mediante simples apostila.
 
-45 458866 NIDADE
+6.3. As comunicações entre o órgão ou entidade e a contratada devem ser realizadas por escrito sempre que o ato exigir tal formalidade, admitindo-se o
+uso de mensagem eletrônica para esse fim.
 
-CAIXA, MATERIAL PLÁSTICO, COMPRIMENTO 205, LARGURA
-165, ALTURA 30, APLICAÇÃO ACONDICIONAR LÂMINAS
-HISTOLÓGICAS
+6.4. O órgão ou entidade poderá convocar representante da empresa para adoção de providências que devam ser cumpridas de imediato.
 
-CAIXA PLÁSTICA COM TAMPA ORGANIZADORA MULTI USO
-20 LITROS, TRANSPARENTE.
+6.5. Devido às características da contratação e com base no art. 95, II, da Lei nº 14.133/2021, o instrumento a ser utilizado para formalização desta
+aquisição será a nota de empenho de despesa, por não resultar em obrigações futuras, inclusive assistência técnica.
 
-CAIXA PLÁSTICA - TIPO: CAIXA ORGANIZADORA. MATERIAL:
-POLIPROPILENO, TRANSPARENTE, RESISTENTE. DIMENSÕES:
-ALTURA: 34 CM. LARGURA: 38 CM. COMPRIMENTO: 58 CM.
-FORMATO: RETANGULAR. CARACTERÍSTICA ADICIONAL:
-COM TAMPA. CAPACIDADE: 50 LITROS.
+ Fiscalização
 
-46 311806 NIDADE
+6.6. A execução do contrato deverá ser acompanhada e fiscalizada pelo(s) fiscal(is) do contrato, ou pelos respectivos substitutos (Lei nº 14.133, de 2021,
+art. 117, caput).
 
-47 616939 NIDADE R$ 88,02
+Fiscalização Técnica
 
-e |-)
+6.7. O fiscal técnico do contrato acompanhará a execução da contratação, para que sejam cumpridas todas as condições estabelecidas, de modo a
+assegurar os melhores resultados para a Administração. (Decreto nº 11.246, de 2022, art. 22, VI).
 
-48 416057 UNIDADE
+6.8. O fiscal técnico do contrato anotará no histórico de gerenciamento da contratação todas as ocorrências relacionadas à sua execução, com a descrição
+do que for necessário para a regularização das faltas ou dos defeitos observados. (Lei nº 14.133, de 2021, art. 117, §1º, e Decreto nº 11.246, de 2022, art.
+22, II).
 
-R$ 64,31 R$ 1.286,20
+6.9. Identificada qualquer inexatidão ou irregularidade, o fiscal técnico do contrato emitirá notificações para a correção da execução da contratação,
+determinando prazo para a correção. (Decreto nº 11.246, de 2022, art. 22, III).
 
-R$ 46,44
+6.10. O fiscal técnico do contrato comunicará ao gestor do contrato, em tempo hábil, a situação que demandar decisão ou adoção de medidas que
+ultrapassem sua competência, para que adote as medidas necessárias e saneadoras, se for o caso. (Decreto nº 11.246, de 2022, art. 22, IV).
 
-R$ 21,14 R$ 42,28
+6.11. No caso de ocorrências que possam inviabilizar a execução da contratação nas datas aprazadas, o fiscal técnico do contrato comunicará o fato
+imediatamente ao gestor do contrato. (Decreto nº 11.246, de 2022, art. 22, V).
 
-R$ 5,50 R$ 330,00
+6.12. O fiscal técnico do contrato comunicará ao gestor do contrato, em tempo hábil, o término da contratação sob sua responsabilidade, com vistas à
+renovação tempestiva ou à prorrogação contratual (Decreto nº 11.246, de 2022, art. 22, VII).
 
-M R$ 10.233,60
-H R$ 139,26
+Gestor do Contrato
 
-R$ 47,54
-R$ 47,54
+6.13. Cabe ao gestor do contrato:
 
-CAIXA PLÁSTICA - TIPO: ORGANIZADORA. DIMENSÕES : 400 X
-270 X 133MM. COR: BRANCA. CAPACIDADE: 8,60 LITROS.
-ADICIONAL: COM TAMPA.
+    6.13.1. coordenar a atualização do processo de acompanhamento efiscalização do contrato contendo todos os registros formais da
+   execução no histórico de gerenciamento do contrato, a exemplo da ordem de serviço, do registro de ocorrências, das alterações e das
 
-49 314498 UNIDADE R$ 371,52
 
-TESOURA MULTI USO COM CABO PLASTICO REFORÇADO
-PRETO, EM FORMATO ANATOMICO, LAMINA EM AÇO INOX,
-TAMANHO APROXIMADO DE 21 CM, EM EMBALAGEM
-INDIVIDUAL. O MATERIAL DEVERA CONTER A MARCA DO
-FABRICANTE.
 
-50 376266 UNIDADE
 
-PINCEL ARTE PLÁSTICA, MATERIAL CERDAS: PÊLO
-SINTÉTICO, TAMANHO: 2, FORMATO: REDONDO, MATERIAL
-CABO: ACRÍLICO TRANSPARENTE
+                                                                                                                       7 de 17
 
-51 362445 UNIDADE
+   prorrogações contratuais, elaborando relatório com vistas à verificação da necessidade de adequações do contrato para fins de
+   atendimento da finalidade da administração.
 
-TINTA ARTÍSTICA, COMPOSIÇÃO:A BASE DE RESINA
-ACRÍLICA, TIPO ACABAMENTO:FOSCO, COR:MAGENTA,
-APLICAÇÃO: ARTESANATOS, ROUPAS/TECIDOS, ARRANJOS
-FLORES SECAS. FRASCO DE 250 ML
+    6.13.2. acompanhar os registros realizados pelos fiscais do contrato, de todas as ocorrências relacionadas à execução do contrato e as
+   medidas adotadas, informando, se for o caso, à autoridade superior àquelas que ultrapassarem a sua competência.
 
-52 423277 FRASCO
+    6.13.3.  acompanhar a manutenção das condições de habilitação da contratada, para fins de empenho de despesa e pagamento, e
+   anotará os problemas que obstem o fluxo normal da liquidação e do pagamento da despesa no relatório de riscos eventuais.
 
-TOALHA DE ROSTO 100% ALGODÃO, DE 0,40M X 0,80M, FIO
-PENTEADO, PADRÃO DE QUALIDADE IGUAL OU SUPERIOR À
-KARSTEN, SANTISTA, TEKA, ARTEX. CORES CLARAS.
+    6.13.4. emitir documento comprobatório da avaliação realizada pelos fiscais técnico, administrativo e setorial quanto ao cumprimento
+   de obrigações assumidas pelo Contratado, com menção ao seu desempenho na execução contratual, baseado nos indicadores
+   objetivamente definidos e aferidos, e a eventuais
 
-53 609857 UNIDADE
+    6.13.5. tomar providências para a formalização de processo administrativo de responsabilização para fins de aplicação de sanções, a
+    ser conduzido pela comissão de que trata o art. 158 da Lei nº 14.133, de 2021, ou pelo agente ou pelo setor com competência para tal,
+   conforme o caso.
 
-TECIDO - TIPO: MALHA TENSIONADA.COR : BRANCA.
-COMPOSIÇÃO: 97% POLIÉSTER , 3% ELASTANO. COR:
-BRANCO. LARGURA: 1,80 M.
+    6.13.6.  elaborar relatório final com informações sobre a consecução dos objetivos que tenham justificado a contratação e eventuais
+   condutas a serem adotadas para o aprimoramento das atividades da Administração.
 
-54 468422 METRO
+    6.13.7. enviar a documentação pertinente a Divisão Contábil para a formalização dos procedimentos de liquidação e pagamento, no
+   valor dimensionado pela fiscalização e gestão nos termos do contrato.
 
-TECIDO - TIPO: MALHA TENSIONADA.COR : VERMELHA.
-COMPOSIÇÃO: 97% POLIÉSTER , 3% ELASTANO. COR:
-VERMELHO. LARGURA: 1,80 M.
 
-55 468422 METRO
 
-TECIDO - TIPO: MALHA TENSIONADA. COMPOSIÇÃO: 97%
-POLIÉSTER , 3%6 ELASTANO. COR: AMARELO. LARGURA: 1,80
-M.
 
-2
-20
-2
-208
-5
-5
-5
 
-56 618900 METRO
+7. INFRAÇÕES E SANÇÕES ADMINISTRATIVAS
 
-TECIDO - TIPO: MALHA TENSIONADA. COMPOSIÇÃO: 97%
+7.1. Comete infração administrativa, nos termos da Lei nº 14.133, de 2021, o Contratado que:
 
-57 -
-POLIESTER , 396 ELASTANO. COR: AZUL. LARGURA: 1,80 M.
+a) der causa à inexecução parcial do contrato;
 
-616500 METRO R$ 237,70
+b) der causa à inexecução parcial do contrato que cause grave dano à Administração ou ao funcionamento dos serviços públicos ou ao interesse coletivo;
 
-TECIDO - TIPO: MALHA TENSIONADA. COMPOSIÇÃO: 97%
+c) der causa à inexecução total do contrato;
 
-58 -
-POLIESTER , 396 ELASTANO. COR: PRETO. LARGURA: 1,80 M.
+d) ensejar o retardamento da execução ou da entrega do objeto da contratação sem motivo justificado;
 
-618901 METRO
+e) apresentar documentação falsa ou prestar declaração falsa durante a execução do contrato;
 
-()
+f) praticar ato fraudulento na execução do contrato;
 
-R$ 237,70
+g) comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
 
-TECIDO - TIPO: MALHA TENSIONADA. COMPOSIÇÃO: 97%
-POLIÉSTER , 3%6 ELASTANO. COR: VERDE. LARGURA: 1,80 M.
+h) praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013.
 
-59 614513 METRO R$ 237,70
+7.2. Serão aplicadas ao Contratado que incorrer nas infrações acima descritas as seguintes sanções:
 
-ESSNBNNSNOINDENSES
+7.2.1. Advertência, quando o Contratado der causa à inexecução parcial do contrato, sempre que não se justificar a imposição de penalidade mais grave;
 
-R$ 47,54
+7.2.2. Impedimento de licitar e contratar, quando praticadas as condutas descritas nas alíneas “b”, “c” e “d” do subitem acima, sempre que não se
+justificar a imposição de penalidade mais grave;
 
-R$ 38,77 R$ 1.163,10
-R$6,05 R$ 605,00
+7.2.3. Declaração de inidoneidade para licitar e contratar, quando praticadas as condutas descritas nas alíneas “e”, “f”, “g” e “h” do subitem acima, bem
+como nas alíneas “b”, “c” e “d”, que justifiquem a imposição de penalidade mais grave.
 
-VASO - MATERIAL: PLÁSTICO. CAPACIDADE: 50 L. COR:
-PRETA. DIÂMETRO EXTERNO: 30 CM. ALTURA: 50 CM. TIPO:
-COM FURO. APLICAÇÃO: PARA PLANTAS.
+Multa
 
-418678 UNIDADE
+7.2.4.1   Moratória para as infrações descritas no item "d", de 0,5% (cinco décimos por cento) por dia de atraso injustificado sobre o valor da parcela
+inadimplida, até o limite de 15 (quinze) dias;
 
-VASO, MATERIAL:PLÁSTICO, CAPACIDADE:6 L, COR:PRETA,
-DIÂMETRO EXTERNO:24 CM, ALTURA:20 CM, TIPO:COM FURO,
-CARACTERÍSTICAS ADICIONAIS:SEM PRATO
+7.2.4.2.  Compensatória, para as infrações descritas acima alíneas “e” a “h” de 0,1 % (um décimo por cento)a 30% (dez por cento) do valor da
+contratação.
 
-5
-30
-61 256398 oo
 
-UNIDADE 1
 
-BOOHDNDOONDEIDRESONESO0NONOS
-iil e e s e Ji : o 1 :)
 
-a
-:HBIIIAHAANORNIIAAOR
 
-VALOR TOTAL R$ 50.407,73
+                                                                                                                       8 de 17
 
-4 de 17
+7.2.4.4. Compensatória, para a inexecução total do contrato prevista acima na alínea “c”, de 0,1% (um décimo por cento) a 30% (trinta por cento) do
+valor da contratação.
 
+7.2.4.5. Compensatória, para a infração descrita acima na alínea “b”, de 11% (onze por cento) a 30% (vinte por cento) do valor da contratação.
+
+7.3. A aplicação das sanções previstas neste Termo de Referência não exclui, em hipótese alguma, a obrigação de reparação integral do dano causado ao
+Contratante.
+
+7.4. Todas as sanções previstas neste Termo de Referência poderão ser aplicadas cumulativamente com a multa.
+
+7.5. Antes da aplicação da multa será facultada a defesa do interessado no prazo de 15 (quinze) dias úteis, contado da data de sua intimação.
+
+7.6. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor do pagamento eventualmente devido pelo Contratante ao Contratado, além
+da perda desse valor, a diferença será descontada da garantia prestada ou será cobrada judicialmente.
+
+7.7. A multa poderá ser recolhida administrativamente no prazo máximo de 30 (trinta) dias, a contar da data do recebimento da comunicação enviada
+pela autoridade competente.
+
+7.8. A aplicação das sanções realizar-se-á em processo administrativo que assegure o contraditório e a ampla defesa ao Contratado, observando-se o
+procedimento previsto no caput e parágrafos do art. 158 da Lei nº 14.133, de 2021, para as penalidades de impedimento de licitar e contratar e de
+declaração de inidoneidade para licitar ou contratar.
+
+7.8.1.  Para a garantia da ampla defesa e contraditório, as notificações serão enviadas eletronicamente para os endereços de e-mail informados na
+proposta comercial, bem como os cadastrados pela empresa no SICAF.
+
+7.8.2. Os endereços de e-mail informados na proposta comercial e/ou cadastrados no Sicaf serão considerados de uso contínuo da empresa, não cabendo
+alegação de desconhecimento das comunicações a eles comprovadamente enviadas.
+
+7.9. Na aplicação das sanções serão considerados:
+
+7.9.1. a natureza e a gravidade da infração cometida;
+
+7.9.2. as peculiaridades do caso concreto;
+
+7.9.3. as circunstâncias agravantes ou atenuantes;
+
+7.9.4. os danos que dela provierem para o Contratante;
+
+7.9.5. a implantação ou o aperfeiçoamento de programa de integridade, conforme normas e orientações dos órgãos de controle.
+
+7.10. Os atos previstos como infrações administrativas na Lei nº 14.133, de 2021, ou em outras leis de licitações e contratos da Administração Pública
+que também sejam tipificados como atos lesivos na Lei nº 12.846, de 2013, serão apurados e julgados conjuntamente, nos mesmos autos, observados o
+rito procedimental e autoridade competente definidos na referida Lei.
+
+7.11. A personalidade jurídica do Contratado poderá ser desconsiderada sempre que utilizada com abuso do direito para facilitar, encobrir ou dissimular
+a prática dos atos ilícitos previstos neste Termo de Referência ou para provocar confusão patrimonial, e, nesse caso, todos os efeitos das sanções
+aplicadas à pessoa jurídica serão estendidos aos seus administradores e sócios com poderes de administração, à pessoa jurídica sucessora ou à empresa
+do mesmo ramo com relação de coligação ou controle, de fato ou de direito, com o Contratado, observados, em todos os casos, o contraditório, a ampla
+defesa e a obrigatoriedade de análise jurídica prévia.
+
+7.12. O Contratante deverá, no prazo máximo de 15 (quinze) dias úteis, contado da data de aplicação da sanção, informar e manter atualizados os dados
+relativos às sanções por ela aplicadas, para fins de publicidade no Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS) e no Cadastro Nacional
+de Empresas Punidas (CNEP), instituídos no âmbito do Poder Executivo Federal.
+
+
+7.12.1. As penalidades serão obrigatóriamente registradas no SICAF.
+
+7.13. As sanções de impedimento de licitar e contratar e declaração de inidoneidade para licitar ou contratar são passíveis de reabilitação na forma do
+art. 163 da Lei nº 14.133, de 2021.
+
+7.14. Os débitos do Contratado para com a Administração Contratante, resultantes de multa administrativa e/ou indenizações, não inscritos em dívida
+ativa, poderão ser compensados, total ou parcialmente, com os créditos devidos pelo referido órgão decorrentes deste mesmo contrato ou de outros
+contratos administrativos que o Contratado possua com o mesmo órgão ora Contratante, na forma da Instrução Normativa SEGES/ME nº 26, de 13 de
+abril de 2022.
+
+
+
+
+
+                                                                                                                       9 de 17
+
+8. CRITÉRIOS DE MEDIÇÃO E DE PAGAMENTO
+
+Recebimento
+
+8.1. Os bens serão recebidos provisoriamente, de forma sumária, no ato da entrega, juntamente com a nota fiscal ou instrumento de cobrança equivalente,
+pelo(a) responsável pelo acompanhamento e fiscalização da nota de empenho, para efeito de posterior verificação de sua conformidade com as
+especificações constantes no Termo de Referência e na proposta e pelo que segue:
+
+81.1. O fornecedor não poderá realizar a cobrança de frete;
+
+8.1.2. A descarga e o manuseio dos equipamentos para entrega utiliza procedimentos manuais de total responsabilidade da parte do fornecedor, como por
+exemplo, a contratação de chapa ou ajudante, os riscos de todas as ordens pertinentes à atividade incluindo as trabalhistas, e ainda a prestação de socorro
+em caso de necessidade;
+
+8.1.3. Os bens não devem apresentar avarias ou adulterações;
+
+8.1.4. Os bens devem ser entregues em embalagens originais contendo a data e número do lote de fabricação e prazo de validade.
+
+8.1.5. Havendo algum fator que comprometa a qualidade do produto, como transporte inadequado ou mercadoria cuja embalagem se encontra avariada, a
+entrega do bem será recusada.
+
+8.2. Os bens poderão ser rejeitados, no todo ou em parte, inclusive antes do recebimento provisório, quando em desacordo com as especificações
+constantes no Termo de Referência e na proposta, devendo ser substituídos no prazo de 10 (dez) dias úteis , a contar da notificação da contratada, às suas
+custas, sem prejuízo da aplicação das penalidades.
+
+8.2.1. Caso o objeto seja REJEITADO, o termo de recebimento provisório perderá todos os efeitos.
+
+8.3. O recebimento definitivo ocorrerá no prazo de até 10 (dez) dias úteis , a contar do recebimento da nota fiscal ou instrumento de cobrança
+equivalente pela Administração, após a verificação da qualidade e quantidade do material e consequente aceitação mediante termo detalhado.
+
+8.3.1. Na hipótese de a verificação a que se refere o subitem anterior não ser procedida dentro do prazo fixado, reputar-se-á como realizada, consumando-
+se o recebimento definitivo no dia do esgotamento do prazo.
+
+8.4. Para as contratações decorrentes de despesas cujos valores não ultrapassem o limite de que trata o inciso II do art. 75 da Lei nº 14.133, de 2021, o
+prazo máximo para o recebimento definitivo será de até 05 (cinco) dias úteis .
+
+8.5. O prazo para recebimento definitivo poderá ser excepcionalmente prorrogado, de forma justificada, por igual período, quando houver necessidade de
+diligências para a aferição do atendimento das exigências contratuais.
+
+8.6. No caso de controvérsia sobre a execução do objeto, quanto à dimensão, qualidade e quantidade, deverá ser observado o teor do art. 143 da Lei nº
+14.133, de 2021, comunicando-se à empresa para emissão de Nota Fiscal no que pertine à parcela incontroversa da execução do objeto, para efeito de
+liquidação e pagamento.
+
+8.7. O prazo para a solução, pelo contratado, de inconsistências na execução do objeto ou de saneamento da nota fiscal ou de instrumento de cobrança
+equivalente, verificadas pela Administração durante a análise prévia à liquidação de despesa, não será computado para os fins do recebimento definitivo.
+
+8.8. O recebimento provisório ou definitivo não excluirá a responsabilidade civil pela solidez e pela segurança do serviço nem a responsabilidade ético-
+profissional pela perfeita execução do contrato.
+
+8.9. As atividades de montagem  , instalação e quaisquer outras necessárias para o funcionamento do bem correraõ por conta do contratado e são
+condição para o recebimernto do objeto.
+
+Liquidação
+
+8.10. Recebida a Nota Fiscal ou documento de cobrança equivalente, correrá o prazo de dez dias úteis para fins de liquidação, na forma desta seção,
+prorrogáveis por igual período, nos termos do art. 7º, §2º da Instrução Normativa SEGES/ME nº 77/2022.
+
+8.11. O prazo de que trata o item anterior será reduzido à metade, mantendo-se a possibilidade de prorrogação, no caso de contratações decorrentes de
+despesas cujos valores não ultrapassem o limite de que trata o inciso II do art. 75 da Lei nº 14.133, de 2021.
+
+8.12.  Para fins de liquidação, o setor competente deverá verificar se a nota fiscal ou instrumento de cobrança equivalente apresentado expressa os
+elementos necessários e essenciais do documento, tais como:
+
+8.12.1. o prazo de validade;
+
+8.12.2. a data da emissão;
+
+8.12.3. os dados do contrato e do órgão contratante;
+
+
+
+                                                                                                                      10 de 17
+
+8.12.4. o período respectivo de execução do contrato;
+
+8.12.5. o valor a pagar; e
+
+8.12.6. eventual destaque do valor de retenções tributárias cabíveis.
+
+8.13. Havendo erro na apresentação da nota fiscal ou instrumento de cobrança equivalente, ou circunstância que impeça a liquidação da despesa, esta
+ficará sobrestada até que o contratado providencie as medidas saneadoras, reiniciando-se o prazo após a comprovação da regularização da situação, sem
+ônus ao contratante.
+
+8.14. A nota fiscal ou instrumento de cobrança equivalente deverá ser obrigatoriamente acompanhado da comprovação da regularidade fiscal, constatada
+por meio de consulta on-line ao SICAF ou, na impossibilidade de acesso ao referido Sistema, mediante consulta aos sítios eletrônicos oficiais ou à
+documentação mencionada no art. 68 da Lei nº 14.133, de 2021.
+
+8.15. A Administração deverá realizar consulta ao SICAF para:
+
+8.15.1. verificar a manutenção das condições de habilitação exigidas no edital;
+
+8.15.2. identificar possível razão que impeça a participação em licitação, no âmbito do órgão ou entidade, que implique proibição de contratar com o
+Poder Público, bem como ocorrências impeditivas indiretas.
+
+8.16. Constatando-se, junto ao SICAF, a situação de irregularidade do contratado, será providenciada sua notificação, por escrito, para que, no prazo de
+5 (cinco) dias úteis, regularize sua situação ou, no mesmo prazo, apresente sua defesa. O prazo poderá ser prorrogado uma vez, por igual período, a
+critério do contratante.
+
+8.17. Não havendo regularização ou sendo a defesa considerada improcedente, o contratante deverá comunicar aos órgãos responsáveis pela fiscalização
+da regularidade fiscal quanto à inadimplência do contratado, bem como quanto à existência de pagamento a ser efetuado, para que sejam acionados os
+meios pertinentes e necessários para garantir o recebimento de seus créditos.
+
+8.18.  Persistindo a irregularidade, o contratante deverá adotar as medidas necessárias à rescisão contratual nos autos do processo administrativo
+correspondente, assegurada ao contratado a ampla defesa.
+
+8.19. Havendo a efetiva execução do objeto, os pagamentos serão realizados normalmente, até que se decida pela rescisão do contrato, caso o contratado
+não regularize sua situação junto ao SICAF.
+
+Prazo de pagamento
+
+8.20. O pagamento será efetuado no prazo de até 10 (dez) dias úteis contados da finalização da liquidação da despesa, conforme seção anterior, nos
+termos da Instrução Normativa SEGES/ME nº 77, de 2022.
+
+8.21. No caso de atraso pelo Contratante, os valores devidos ao contratado serão atualizados monetariamente entre o termo final do prazo de pagamento
+até a data de sua efetiva realização, mediante aplicação do Índice Nacional de Preços ao Consumidor Amplo- IPCA/IBGE de correção monetária.
+
+8.21.1. Para fins de previsão de reajuste contratual,  foi adotado o Índice Nacional de Preços ao Consumidor Amplo – IPCA, calculado pelo Instituto
+Brasileiro de Geografia e Estatística (IBGE), como índice de atualização monetária a ser utilizado, melhor correlacionado com a variação inflacionária
+dos custos e com o segmento dos insumos da contratação.
+
+Forma de pagamento
+
+8.22. O pagamento será realizado por meio de ordem bancária, para crédito em banco, agência e conta corrente indicados pelo contratado.
+
+8.23. Será considerada data do pagamento o dia em que constar como emitida a ordem bancária para pagamento.
+
+8.24. Quando do pagamento, será efetuada a retenção tributária prevista na legislação aplicável.
+
+8.25. Independentemente do percentual de tributo inserido na planilha, quando houver, serão retidos na fonte, quando da realização do pagamento, os
+percentuais estabelecidos na legislação vigente.
+
+8.26. O contratado regularmente optante pelo Simples Nacional, nos termos da Lei Complementar nº 123, de 2006, não sofrerá a retenção tributária
+quanto aos impostos e contribuições abrangidos por aquele regime. No entanto, o pagamento ficará condicionado à apresentação de comprovação, por
+meio de documento oficial, de que faz jus ao tratamento tributário favorecido previsto na referida Lei Complementar.
+
+Cessão de crédito
+
+8.27. É admitida a cessão fiduciária de direitos creditícios com instituição financeira, nos termos e de acordo com os procedimentos previstos na
+Instrução Normativa SEGES/ME nº 53, de 8 de Julho de 2020, conforme as regras deste presente tópico.
+
+
+
+
+
+                                                                                                                      11 de 17
+
+8.28. As cessões de crédito não abrangidas pela Instrução Normativa SEGES/ME nº 53, de 8 de julho de 2020 dependerão de prévia aprovação do
+contratante
+
+8.29. A eficácia da cessão de crédito, de qualquer natureza, em relação à Administração, está condicionada à celebração de termo aditivo ao contrato
+administrativo.
+
+8.30. Sem prejuízo do regular atendimento da obrigação contratual de cumprimento de todas as condições de habilitação por parte do contratado
+(cedente), a celebração do aditamento de cessão de crédito e a realização dos pagamentos respectivos também se condicionam à regularidade fiscal e
+trabalhista do cessionário, bem como à certificação de que o cessionário não se encontra impedido de licitar e contratar com o Poder Público, conforme a
+legislação em vigor, ou de receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, conforme o art. 12 da Lei nº 8.429, de 1992,
+tudo nos termos do Parecer JL-01, de 18 de maio de 2020.
+
+8.31. O crédito a ser pago à cessionária é exatamente aquele que seria destinado à cedente (contratado) pela execução do objeto contratual, restando
+absolutamente incólumes todas as defesas e exceções ao pagamento e todas as demais cláusulas exorbitantes ao direito comum aplicáveis no regime
+jurídico de direito público incidente sobre os contratos administrativos, incluindo a possibilidade de pagamento em conta vinculada ou de pagamento
+pela efetiva comprovação do fato gerador, quando for o caso, e o desconto de multas, glosas e prejuízos causados à Administração.
+
+8.32. A cessão de crédito não afetará a execução do objeto contratado, que continuará sob a integral responsabilidade do contratado.
+
+Reajuste
+
+8.33. Os preços inicialmente contratados são fixos e irreajustáveis no prazo de um ano contado das datas dos orçamentos estimados, em 05/09/2025,
+constantes da Planilha Mapa de Preços.
+
+8.34. Após o interregno de um ano, e independentemente de pedido do contratado, os preços iniciais serão reajustados, mediante a aplicação, pelo
+contratante, do Índice Nacional de Preços ao Consumidor Amplo-IPCA/IBGE, exclusivamente para as obrigações iniciadas e concluídas após a
+ocorrência da anualidade.
+
+8.34.1. Será adotado o Índice Nacional de Preços ao Consumidor Amplo-IPCA/IBGE, melhor correlacionado com a variação inflacionária dos custos e
+com o segmento dos insumos da contratação.
+
+8.35. Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será contado a partir dos efeitos financeiros do último reajuste.
+
+8.36. No caso de atraso ou não divulgação do índice de reajustamento, o contratante pagará ao contratado a importância calculada pela última variação
+conhecida, liquidando a diferença correspondente tão logo seja divulgado o índice definitivo.
+
+8.37. Nas aferições finais, o índice utilizado para reajuste será, obrigatoriamente, o definitivo.
+
+8.38.  Caso o índice estabelecido para reajustamento venha a ser extinto ou de qualquer forma não possa mais ser utilizado, será adotado, em
+substituição, o que vier a ser determinado pela legislação então em vigor.
+
+8.39.  Na ausência de previsão legal quanto ao índice substituto, as partes elegerão novo índice oficial, para reajustamento do preço do valor
+remanescente, por meio de termo aditivo.
+
+8.40. O reajuste será realizado por apostilamento.
+
+
+
+
+9. FORMA E CRITÉRIOS SELEÇÃO DO FORNECEDOR
+
+Forma de seleção e critério de julgamento da proposta
+
+9.1. O fornecedor será selecionado por meio da realização de procedimento de LICITAÇÃO, na modalidade PREGÃO, sob a forma ELETRÔNICA,
+com adoção do critério de julgamento pelo MENOR PREÇO.
+
+Forma de fornecimento
+
+9.2. O fornecimento do objeto será integral.
+
+Exigências de habilitação
+
+9.3. Para fins de habilitação, deverá o licitante comprovar os seguintes requisitos:
+
+Habilitação jurídica
+
+
+
+
+
+                                                                                                                      12 de 17
+
+9.4.  Pessoa física: cédula de identidade (RG) ou documento equivalente que, por força de lei, tenha validade para fins de identificação em todo o
+território nacional;
+
+9.5. Empresário individual: inscrição no Registro Público de Empresas Mercantis, a cargo da Junta Comercial da respectiva sede;
+
+9.6. Microempreendedor Individual - MEI: Certificado da Condição de Microempreendedor Individual - CCMEI, cuja aceitação ficará condicionada
+à verificação da autenticidade no sítio https://www.gov.br/empresas-e-negocios/pt-br/empreendedor;
+
+9.7.  Sociedade empresária, sociedade limitada unipessoal – SLU ou sociedade identificada como empresa individual de responsabilidade
+limitada - EIRELI : inscrição do ato constitutivo, estatuto ou contrato social no Registro Público de Empresas Mercantis, a cargo da Junta Comercial da
+respectiva sede, acompanhada de documento comprobatório de seus administradores;
+
+9.8. Sociedade empresária estrangeira: portaria de autorização de funcionamento no Brasil, publicada no Diário Oficial da União e arquivada na Junta
+Comercial da unidade federativa onde se localizar a filial, agência, sucursal ou estabelecimento, a qual será considerada como sua sede, conforme
+Instrução Normativa DREI/ME n.º 77, de 18 de março de 2020.
+
+9.9. Sociedade simples: inscrição do ato constitutivo no Registro Civil de Pessoas Jurídicas do local de sua sede, acompanhada de documento
+comprobatório de seus administradores;
+
+9.10.  Filial, sucursal ou agência de sociedade simples ou empresária: inscrição do ato constitutivo da filial, sucursal ou agência da sociedade simples
+ou empresária, respectivamente, no Registro Civil das Pessoas Jurídicas ou no Registro Público de Empresas Mercantis onde opera, com averbação no
+Registro onde tem sede a matriz.
+
+9.11. Sociedade cooperativa: ata de fundação e estatuto social, com a ata da assembleia que o aprovou, devidamente arquivado na Junta Comercial ou
+inscrito no Registro Civil das Pessoas Jurídicas da respectiva sede, além do registro de que trata o art. 107 da Lei nº 5.764, de 16 de dezembro 1971.
+
+9.12. Os documentos apresentados deverão estar acompanhados de todas as alterações ou da consolidação respectiva.
+
+Habilitação fiscal, social e trabalhista
+
+9.13. Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas ou no Cadastro de Pessoas Físicas, conforme o caso;
+
+9.14. Prova de regularidade fiscal perante a Fazenda Nacional, mediante apresentação de certidão expedida conjuntamente pela Secretaria da Receita
+Federal do Brasil (RFB) e pela Procuradoria-Geral da Fazenda Nacional (PGFN), referente a todos os créditos tributários federais e à Dívida Ativa da
+União (DAU) por elas administrados, inclusive aqueles relativos à Seguridade Social, nos termos da Portaria Conjunta nº 1.751, de 02 de outubro de
+2014, do Secretário da Receita Federal do Brasil e da Procuradora-Geral da Fazenda Nacional.
+
+9.15. Prova de regularidade com o Fundo de Garantia do Tempo de Serviço (FGTS);
+
+9.16. Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante a apresentação de certidão negativa ou positiva com efeito
+de negativa, nos termos do Título VII-A da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943;
+
+9.17.  Prova de inscrição no cadastro de contribuintes estadual relativo ao domicílio ou sede do fornecedor, pertinente ao seu ramo de atividade e
+compatível com o objeto contratual;
+
+9.18. Prova de regularidade com a Fazenda estadual do domicílio ou sede do fornecedor, relativa à atividade em cujo exercício contrata ou concorre;
+
+9.19. Caso o fornecedor seja considerado isento dos tributos estaduais relacionados ao objeto contratual, deverá comprovar tal condição mediante a
+apresentação de declaração da Fazenda respectiva do seu domicílio ou sede, ou outra equivalente, na forma da lei.
+
+9.20. O fornecedor enquadrado como microempreendedor individual que pretenda auferir os benefícios do tratamento diferenciado previstos na Lei
+Complementar nº 123, de 2006, estará dispensado da prova de inscrição nos cadastros de contribuintes estadual e municipal.
+
+Disposições gerais sobre habilitação
+
+9.21. Quando permitida a participação de empresas estrangeiras que não funcionem no País, as exigências de habilitação serão atendidas mediante
+documentos equivalentes, inicialmente apresentados em tradução livre.
+
+9.22. Na hipótese de o fornecedor ser empresa estrangeira que não funcione no País, para assinatura do contrato ou da ata de registro de preços ou do
+aceite do instrumento equivalente, os documentos exigidos para a habilitação serão traduzidos por tradutor juramentado no País e apostilados nos termos
+do disposto no Decreto nº 8.660, de 29 de janeiro de 2016, ou de outro que venha a substituí-lo, ou consularizados pelos respectivos consulados ou
+embaixadas.
+
+9.23. Não serão aceitos documentos de habilitação com indicação de CNPJ/CPF diferentes, salvo aqueles legalmente permitidos.
+
+9.24. Se o fornecedor for a matriz, todos os documentos deverão estar em nome da matriz, e se o fornecedor for a filial, todos os documentos deverão
+estar em nome da filial, exceto para atestados de capacidade técnica, e no caso daqueles documentos que, pela própria natureza, comprovadamente,
+forem emitidos somente em nome da matriz.
+
+
+
+                                                                                                                      13 de 17
+
+9.25. Serão aceitos registros de CNPJ de fornecedor matriz e filial com diferenças de números de documentos pertinentes ao CND e ao CRF/FGTS,
+quando for comprovada a centralização do recolhimento dessas contribuições.
+
+
+
+10. ESTIMATIVAS DO VALOR DA CONTRATAÇÃO
+
+10.1. O custo estimado total da contratação, que corresponde ao valor máximo aceitável, é de R$ 50.407,73 (cinquenta mil, quatrocentos e sete reais e
+setenta e três centavos), conforme custos unitários apostos no item 1.1. deste instrumento.
+
+10.2. Os preços referenciais desta contratação foram apurados a partir da realização de pesquisas de preços, com base na utilização dos parâmetros
+dispostos na IN SEGES/ME nº 65/2021.
+
+
+
+
+
+11. ADEQUAÇÃO ORÇAMENTÁRIA
+
+11.1. As despesas decorrentes da presente contratação correrão à conta de recursos específicos consignados no Orçamento Geral da União.
+
+11.2. A dotação relativa aos exercícios financeiros subsequentes será indicada após aprovação da Lei Orçamentária respectiva e liberação dos créditos
+correspondentes, mediante apostilamento.
+
+
+
+
+12. DISPOSIÇÕES FINAIS
+
+
+
+
+12.1. As informações contidas neste Termo de Referência não possuem caráter sigiloso, conforme estabelecido pela Lei nº 12.527, de 18 de novembro de
+2011 (Lei de Acesso à Informação), e pelo artigo 10 da Instrução Normativa n.º 81 de 2022.
+
+
+
+
+
+13. REGRAS DO INSTRUMENTO SUBSTITUTIVO
+
+                                        ANEXO I
+                                     Regras aplicáveis ao instrumento substitutivo ao contrato
+
+    ( Compra com entrega imediata e integral de bens adquiridos, sem previsão de obrigações futuras, inclusive quanto à assistência Técnica,
+                                  independentemente do valor - art. 95, inciso II, da Lei 14.133/2021)
+
+
+
+
+1. FORMALIZAÇÃO DA CONTRATAÇÃO
+
+1.1. O adjudicatário terá o prazo de 05 (cinco) dias úteis, contado a partir da data de sua convocação, para aceitar o instrumento equivalente ao contrato
+conforme o caso (Nota de Empenho), sob pena de decair do direito à contratação, sem prejuízo das sanções previstas.
+1.2. O prazo poderá ser prorrogado, por igual período, por solicitação justificada do adjudicatário e aceita pela Administração.
+1.3. O aceite do instrumento equivalente pelo adjudicatário implica no reconhecimento de que:
+1.3.1. a referida nota empenho substitui o termo de contrato, sendo-lhe aplicáveis as disposições da Lei nº 14.133/2021;
+1.3.2. o Contratado se vincula à sua proposta e às previsões contidas no Edital, no Termo de Referência e em seus anexos, conforme Termo de Ciência e
+Concordância (Anexo II).
+
+
+
+
+
+                                                                                                                      14 de 17
+
+2. VIGÊNCIA E PRORROGAÇÃO
+2.1. O prazo de vigência da contratação é aquele estabelecido no Termo de Referência, na forma do artigo 105 da Lei n° 14.133, de 2021.
+2.2. O prazo de vigência será automaticamente prorrogado, independentemente de termo aditivo, quando o objeto não for concluído no período firmado
+acima, ressalvadas as providências cabíveis no caso de culpa do Contratado, previstas neste instrumento.
+
+
+
+3. OBRIGAÇÕES DO CONTRATANTE
+3.1. São obrigações do Contratante:
+3.1.1. Exigir o cumprimento de todas as obrigações assumidas pelo Contratado, de acordo com oTermo de Referência e seus anexos;
+3.1.2. Receber o objeto no prazo e condições estabelecidas no Termo de Referência;
+3.1.3. Notificar o Contratado, por escrito, sobre vícios, defeitos incorreções, imperfeições, falhas ou irregularidades verificadas na execução do objeto
+contratual, fixando prazo para que seja substituído, reparado ou corrigido, total ou parcialmente, às suas expensas, certificando-se de que as soluções por
+ele propostas sejam as mais adequadas;
+3.1.4. Acompanhar e fiscalizar a execução contratual e o cumprimento das obrigações pelo Contratado;
+3.1.5. Efetuar o pagamento ao Contratado do valor correspondente ao fornecimento do objeto, no prazo, forma e condições estabelecidos no Termo de
+Referênciae neste Anexo;
+3.1.6. Aplicar ao Contratado as sanções previstas na lei e no Termo de Referência;
+3.1.7. Cientificar o órgão de representação judicial da Advocacia-Geral da União para adoção das medidas cabíveis quando do descumprimento de
+obrigações pelo Contratado;
+3.1.8. Explicitamente emitir decisão sobre todas as solicitações e reclamações relacionadas à execução contratual, ressalvados os requerimentos
+manifestamente impertinentes, meramente protelatórios ou de nenhum interesse para a boa execução do ajuste.
+3.1.8.1. A Administração terá o prazo de 60 (sessenta) dias, a contar da data do protocolo do requerimento para decidir, admitida a prorrogação
+motivada, por igual período.
+3.1.9. Responder eventuais pedidos de reestabelecimento do equilíbrio econômico-financeiro feitos pelo Contratado no prazo máximo de 60 (sessenta )
+dias.
+3.2. A Administração não responderá por quaisquer compromissos assumidos pelo Contratado com terceiros, ainda que vinculados à execução do objeto
+contratual, bem como por qualquer dano causado a terceiros em decorrência de ato do Contratado, de seus empregados, prepostos ou subordinados.
+
+
+
+4. OBRIGAÇÕES DO CONTRATADO
+4.1. O Contratado deve cumprir todas as obrigações constantes do Termo de Referência e deste Anexo, assumindo como exclusivamente seus os riscos e
+as despesas decorrentes da boa e perfeita execução do objeto, observando, ainda, as obrigações a seguir dispostas:
+4.1.1. Entregar o objeto acompanhado do manual do usuário, com uma versão em português;
+4.1.2. Responsabilizar-se pelos vícios e danos decorrentes do objeto, de acordo com o Código de Defesa do Consumidor;
+4.1.3. Comunicar ao Contratante, no prazo máximo de 24 (vinte e quatro) horas que antecede a data da entrega, os motivos que impossibilitem o
+cumprimento do prazo previsto, com a devida comprovação;
+4.1.4. Atender às determinações regulares emitidas pelo fiscal ou gestor contratuais ou autoridade superior e prestar todo esclarecimento ou informação
+por eles solicitados;
+4.1.5. Reparar, corrigir, remover, reconstruir ou substituir, às suas expensas, no total ou em parte, no prazo fixado pelo fiscal contratual, os bens nos
+quais se verificarem vícios, defeitos ou incorreções resultantes da execução ou dos materiais empregados;
+4.1.6. Responsabilizar-se pelos vícios e danos decorrentes da execução do objeto, bem como por todo e qualquer dano causado à Administração ou
+terceiros, não reduzindo essa responsabilidade a fiscalização ou o acompanhamento da execução contratual pelo Contratante, que ficará autorizado a
+descontar dos pagamentos devidos ou da garantia, caso exigida, o valor correspondente aos danos sofridos;
+4.1.7. Quando não for possível a verificação da regularidade no Sistema de Cadastro de Fornecedores – SICAF, o Contratado deverá entregar ao setor
+responsável pela fiscalização contratual, junto com a Nota Fiscal para fins de pagamento, os seguintes documentos:
+4.1.7.1. prova de regularidade relativa à Seguridade Social;
+4.1.7.2. certidão conjunta relativa aos tributos federais e à Dívida Ativa da União;
+4.1.7.3. certidões que comprovem a regularidade perante a Fazenda Estadual ou Distrital do domicílio ou sede do Contratado;
+4.1.7.4. Certidão de Regularidade do FGTS – CRF; e
+4.1.7.5. Certidão Negativa de Débitos Trabalhistas – CNDT;
+4.1.8. Responsabilizar-se pelo cumprimento de todas as obrigações trabalhistas, previdenciárias, fiscais, comerciais e as demais previstas em legislação
+específica, cuja inadimplência não transfere a responsabilidade ao Contratante e não poderá onerar o objeto da contratação;
+4.1.9. Comunicar ao Fiscal, no prazo de 24 (vinte e quatro) horas, qualquer ocorrência anormal ou acidente que se verifique no local da execução do
+objeto contratual;
+4.1.10. Paralisar, por determinação do Contratante, qualquer atividade que não esteja sendo executada de acordo com a boa técnica ou que ponha em
+risco a segurança de pessoas ou bens de terceiros;
+4.1.11. Manter durante toda a vigência da contratação, em compatibilidade com as obrigações assumidas, todas as condições exigidas para habilitação na
+licitação ou para qualificação na contratação direta;
+4.1.12. Cumprir, durante todo o período de execução contratual, a reserva de cargos prevista em lei para pessoa com deficiência, para reabilitado da
+Previdência Social ou para aprendiz, bem como as reservas de cargos previstas na legislação;
+4.1.13. Comprovar a reserva de cargos a que se refere a cláusula acima, no prazo fixado pela fiscalização contratual, com a indicação dos empregados
+que preencheram as referidas vagas;
+4.1.14. Guardar sigilo sobre todas as informações obtidas em decorrência da execução do objeto;
+4.1.15. Arcar com o ônus decorrente de eventual equívoco no dimensionamento dos quantitativos de sua proposta, inclusive quanto aos custos variáveis
+
+
+
+
+                                                                                                                      15 de 17
+
+decorrentes de fatores futuros e incertos, devendo complementá-los, caso o previsto inicialmente em sua proposta não seja satisfatório para o
+atendimento do objeto da contratação, exceto quando ocorrer algum dos eventos arrolados no art. 124, II, d, da Lei nº 14.133, de 2021;
+4.1.16. Cumprir, além dos postulados legais vigentes de âmbito federal, estadual ou municipal, as normas de segurança do Contratante;
+
+
+
+5. DA EXTINÇÃO CONTRATUAL
+5.1. A contratação será extinta quando cumpridas as obrigações de ambas as partes, ainda que isso ocorra antes do prazo estipulado para tanto.
+5.2. Se as obrigações não forem cumpridas no prazo estipulado, a vigência ficará prorrogada até a conclusão do objeto, caso em que deverá a
+Administração providenciar a readequação do cronograma fixado para a contratação.
+5.3. Quando a não conclusão do objeto referida no item anterior decorrer de culpa do Contratado.
+5.3.1. ficará ele constituído em mora, sendo-lhe aplicáveis as respectivas sanções administrativas; e
+5.3.2. poderá a Administração optar pela extinção contratual e, nesse caso, adotará as medidas admitidas em lei para a continuidade da execução
+contratual.
+
+
+
+6. DOS CASOS OMISSOS
+6.1. Os casos omissos serão decididos pelo Contratante, segundo as disposições contidas na Lei nº 14.133, de 2021, e demais normas federais aplicáveis
+e, subsidiariamente, segundo as disposições contidas na Lei nº 8.078, de 1990 – Código de Defesa do Consumidor – e normas e princípios gerais dos
+contratos.
+
+
+
+7. ALTERAÇÕES
+7.1. Eventuais alterações contratuais reger-se-ão pela disciplina dos arts. 124 e seguintes da Lei nº 14.133, de 2021.
+7.2. O Contratado é obrigado a aceitar, nas mesmas condições contratuais, os acréscimos ou supressões que se fizerem necessários, até o limite de 25%
+(vinte e cinco por cento) do valor inicial atualizado da contratação.
+7.3. As supressões resultantes de acordo celebrado entre as partes contratantes poderão exceder o limite de 25% (vinte e cinco por cento) do valor inicial
+atualizado do contrato.
+7.4. Registros que não caracterizam alterações contratuais podem ser realizados por simples apostila, dispensada a celebração de termo aditivo, na forma
+do art. 136 da Lei nº 14.133, de 2021.
+
+
+
+8. FORO
+8.1. Fica definido o Foro da Justiça Federal em Sete Lagoas/MG, Subseção Judiciária de Sete Lagoas, para dirimir os litígios que decorrerem da
+execução contratual que não puderem ser compostos pela conciliação, conforme art. 92, §1º, da Lei nº 14.133 /21. 6.44.
+
+
+
+Diamantina, 08 de setembro de 2025.
+____________________________________________________________________
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: ABR/2025
+
+
+
+
+
+                                        ANEXO II
+
+                            TERMO DE CIÊNCIA E CONCORDÂNCIA
+
+
+
+
+
+Por meio deste instrumento, ..................... (identificar o Contratado) declara que está ciente e concorda com as disposições e obrigações previstas no
+ Edital OU Aviso de Contratação Direta , no Termo de Referência e nos demais anexos a que se refere o Pregão/Concorrência/DispensaEletrônica
+ nº.........../20......., bem como que se responsabiliza, sob as penas da Lei, pela veracidade e legitimidade das informações e documentos apresentados
+durante o processo de contratação.
+
+
+
+
+Local - UF, ........ de ................... de 20.... .
+
+
+
+
+
+                                                                                                                      16 de 17
+
+__________________________________________
+
+(Nome e Cargo do Representante Legal )
+
+
+
+
+
+14. Responsáveis
+
+
+ Todas as assinaturas eletrônicas seguem o horário oficial de Brasília e fundamentam-se no §3º do Art. 4º do Decreto nº 10.543, de 13 de novembro de
+2020.
+
+
+
+
+
+                          NELMA MARIA FERREIRA
+
+                                       ASSISTENTE EM ADMINISTRAÇÃO
+
+                                               Assinou eletronicamente em 10/09/2025 às 09:54:47.
+
+
+
+
+
+                          JOAO VICTOR ALVES BARBOSA
+
+                                       TECNICO DE LABORATÓRIO
+
+                                               Assinou eletronicamente em 10/09/2025 às 07:48:25.
+
+
+
+
+
+                         ROSIANE DA SILVA RIBEIRO BECHLER
+
+                                                                 Professor Adjunto
+
+                                               Assinou eletronicamente em 09/09/2025 às 16:32:30.
+
+
+
+
+
+                                                                                                                      17 de 17
 

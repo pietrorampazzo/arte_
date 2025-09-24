@@ -1,101 +1,105 @@
 UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
 
-Centro de Filosofia e Ciências Humanas
-Decania do Centro de Filosofia e Ciências Humanas
-Superintendência Administrativa
+                          Centro de Filosofia e Ciências Humanas
+                         Decania do Centro de Filosofia e Ciências Humanas
+                           Superintendência Administrativa
+                         Seção de Compras
 
-u FRJ Seção de Compras
 
-TERMO DE REFERÊNCIA
+
+
+                    TERMO DE REFERÊNCIA
 Processo nº 23079.233854/2025-29
-1. DO OBJETO
+1.   DO OBJETO
 
-1.1. — Aquisição de equipamentos de áudio e vídeo, visando atender as demandas da Decania do CFCH e
+
+1.1.   Aquisição de equipamentos de áudio e vídeo, visando atender as demandas da Decania do CFCH e
 de suas Unidades, objetivando o pleno funcionamento das atividades administrativas e acadêmicas,
-
 conforme condições e exigências estabelecidas neste instrumento.
 
-Valor Unitário
-Descrição de Referência
-(Mediana)
-
-Projetor Multimídia, Voltagem:100/240 V,
-Frequência:50 A 60 Hz, Quantidade
-Entrada Rgb:1 S-Vídeo/1Rca Un,
-Quantidade Entradas Vídeo:01: Svideo E
-04 Pinos Rca Un, Tipo
-Zoom:Manual/Digital, Tipo:Portátil,
-
-1 | 446924 | Capacidade Projeção Cor:1.07 Bilhões De | UNIDADE 2 R$ 2.784,00
-Cores Px, Características
-Adicionais:Conexão Hdmi, Rgb E Usb, Wifi,
-Seen Mirror/Sharing, Luminosidade
-Mínima:3.600 Lm, Tipo Foco:Manual, Tipo
-Projeção:Frontal/Traseiro/Teto/Mesa.
-Obs.: Resolução Nativa 1920 X 1080.
-
-Valor Total de
-
-Referência
-
-R$ 5.568,00
 
 
 
-Sistema Circuito Fechado Tv,
-Componentes:Dvr 32 Canais, Tipo
-Sistema:Gravação Digital,
-Aplicação:Sistema De Segurança.
-Obs.: 1) cada kit contendo DVRs 32 canais
-e 32 câmeras, com as características:
-DVRs com resolução 1080p, tecnologia
-iMHDX, detecção de pessoas e veículos,
-compressão H.265+, criptografia de
-2 | 480124 áudio/vídeo, inteligência artificial para Conjunto 2 R$ 2.875,79 R$ 5.751,58
-análise de vídeo, tecnologia Multi HD,
-serviço em nuvem; e câmeras tipo bullet,
-modelo HDCVI - VHL, Full HD 1080p, IP66,
-com infravermelho mínimo de 20 metros,
-proteção anti-UV e contra surtos de
-tensão;
+                                                                                     Valor Unitário
+                                                                                                     Valor Total de
+Item CATMAT                   Descrição                      Unid     Qtde  de Referência
+                                                                                                    Referência
+                                                                                    (Mediana)
 
-2) tecnologia compatível com os
-equipamentos da marca INTELBRAS, que
-já compõem a infraestrutura existente.
+               Projetor Multimídia, Voltagem:100/240 V,
+               Freqüência:50 A 60 Hz, Quantidade
+                Entrada Rgb:1 S-Vídeo/1Rca Un,
+            Quantidade Entradas Vídeo:01: Svideo E
+                   04 Pinos Rca Un, Tipo
+                 Zoom:Manual/Digital, Tipo:Portátil,
+ 1   446924  Capacidade Projeção Cor:1.07 Bilhões De  UNIDADE    2    R$ 2.784,00   R$ 5.568,00
+                   Cores Px, Características
+            Adicionais:Conexão Hdmi, Rgb E Usb, Wifi,
+             Seen Mirror/Sharing, Luminosidade
+            Mínima:3.600 Lm, Tipo Foco:Manual, Tipo
+                Projeção:Frontal/Traseiro/Teto/Mesa.
+               Obs.: Resolução Nativa 1920 X 1080.
 
-VALOR TOTAL ESTIMADO DE REFERÊNCIA R$ 11.319,58
 
-1.2. O objeto desta contratação não se enquadra como sendo de bem de luxo, conforme Decreto nº
+
+
+
+            Termo de Referência - DE 76/2025 (5882455)     SEI 23079.233854/2025-29 / pg. 1
+
+                 Sistema Circuito Fechado Tv,
+              Componentes:Dvr 32 Canais, Tipo
+                   Sistema:Gravação Digital,
+                Aplicação:Sistema De Segurança.
+            Obs.: 1) cada kit contendo DVRs 32 canais
+             e 32 câmeras, com as características:
+          DVRs com resolução 1080p, tecnologia
+           iMHDX, detecção de pessoas e veículos,
+             compressão H.265+, criptografia de
+ 2   480124    áudio/vídeo, inteligência artificial para      Conjunto     2    R$ 2.875,79   R$ 5.751,58
+               análise de vídeo, tecnologia Multi HD,
+             serviço em nuvem; e câmeras tipo bullet,
+           modelo HDCVI - VHL, Full HD 1080p, IP66,
+         com infravermelho mínimo de 20 metros,
+               proteção anti-UV e contra surtos de
+                            tensão;
+                   2) tecnologia compatível com os
+           equipamentos da marca INTELBRAS, que
+                 já compõem a infraestrutura existente.
+
+        VALOR TOTAL ESTIMADO DE REFERÊNCIA               R$ 11.319,58
+
+
+1.2.   O objeto desta contratação não se enquadra como sendo de bem de luxo, conforme Decreto nº
 10.818, de 27 de setembro de 2021.
-
-1.3. — Os bens objeto desta contratação são caracterizados como comuns, conforme Justificativa constante
+1.3.   Os bens objeto desta contratação são caracterizados como comuns, conforme justificativa constante
 do Estudo Técnico Preliminar.
-
-1.4. Os códigos e descrições do "CATMAT", constantes do "SIASG", citados pelo "Comprasnet",
-podem eventualmente divergir da descrição dos itens licitados quanto às especificações e outras
+1.4.    Os códigos e descrições do "CATMAT", constantes do "SIASG", citados pelo "Comprasnet",
+podem eventualmente  divergir da  descrição dos  itens  licitados quanto  às  especificações e  outras
 características. Havendo divergências quanto ao código/descrição CATMAT, valem as especificações
 detalhadas neste Termo de Referência nos ITENS Nº 1 E 2.
-
-1.5. — O prazo de vigência da contratação é de 01 (um) ano contado da emissão da Nota de Empenho, na
+ 1.5.  O prazo de vigência da contratação é de 01 (um) ano contado da emissão da Nota de Empenho, na
 forma do artigo 105, da Lei nº 14.133, de 2021.
 
-2. DA JUSTIFICATIVA E DO OBJETIVO DA CONTRATAÇÃO
 
-2.1 A fundamentação da Contratação e de seus quantitativos encontra-se pormenorizada em tópico
+2.   DA JUSTIFICATIVA E DO OBJETIVO DA CONTRATAÇÃO
+2.1   A fundamentação da Contratação e de seus quantitativos encontra-se pormenorizada em tópico
 específico do Estudo Técnico Preliminar.
-
-2.2 O objeto da contratação está previsto no PAC (Plano Anual de Contratações) para o ano de 2025 e
-as informações foram retiradas do PGC (Planejamento e Gerenciamento das Contratações) cujo
+2.2   O objeto da contratação está previsto no PAC (Plano Anual de Contratações) para o ano de 2025 e
+as informações foram  retiradas do PGC  (Planejamento  e Gerenciamento  das  Contratações)  cujo
 preenchimento ocorreu ao longo do exercício anterior e atual.
 
-3. DA DESCRIÇÃO DA SOLUÇÃO
 
-3.1 A descrição da solução como um todo, encontra-se pormenorizada em Tópico específico do Estudo
+3.   DA DESCRIÇÃO DA SOLUÇÃO
+3.1  A descrição da solução como um todo, encontra-se pormenorizada em Tópico específico do Estudo
 Técnico Preliminar.
 
-4. REQUISITOS DA CONTRATAÇÃO
+
+4.    REQUISITOS DA CONTRATAÇÃO
+
 
 Sustentabilidade
-
-4.1. — Na presente contratação, serão exigidos os seguintes parâmetros de sustentabilidade, nos termos da
+4.1.   Na presente contratação, serão exigidos os seguintes parâmetros de sustentabilidade, nos termos da
 Instrução Normativa nº 1, de 19 de janeiro de 2010:
+
+           Termo de Referência - DE 76/2025 (5882455)     SEI 23079.233854/2025-29 / pg. 2
+

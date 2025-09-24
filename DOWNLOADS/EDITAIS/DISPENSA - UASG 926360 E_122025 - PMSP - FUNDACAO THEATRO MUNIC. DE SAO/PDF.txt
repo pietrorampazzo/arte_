@@ -1,152 +1,117 @@
-1. DO OBJETO
-
-FUNDAÇÃO
-
-THEATRO
-MUNICIPAL
-
 AVISO DE DISPENSA ELETRÔNICA Nº 12/2025
 
-ANEXO 1l - TERMO DE REFERÊNCIA
-
-1.1. Contratação de pessoa jurídica para fornecimento de materiais permanentes diversos para a Escola
-
-de Música de São Paulo (EMSP) da Fundação Theatro Municipal de São Paulo (FTMSP). Os objetos estão
-
-descritos no quadro a seguir e deverão ser fornecidos em conformidade com as especificações técnicas e
-
-condições estabelecidas neste Termo de Referência:
-
-ITEM
-
-OBJETO
-
-ESPECIFICAÇÃO
-
-QUANT.
-
-CATMAT
-
-ol
-
-Microfone com
-fio
-
-Microfone dinâmico com padrão polar cardioide, cápsula
-com resposta de frequência de 50 Hz a 15.000 Hz, com
-sensibilidade mínima de —52 dBV/Pa, impedância nominal
-de 600 ohms balanceada e resistência a níveis elevados de
-pressão sonora, sem distorção. Saída XLR de três pinos.
-Estrutura totalmente metálica, com grade de proteção
-reforçada. É admitida a presença de chave liga/desliga,
-desde que embutida ou resistente ao acionamento
-acidental. O produto deverá acompanhar cabo XLR-P10 de
-ao menos 4 metros e adaptador para pedestal. Não serão
-aceitos modelos com corpo em plástico, padrão polar
-diverso da cardioide ou conectores incompatíveis.
-Garantia mínima de 12 (doze) meses.
-
-o2
-
-368179
-
-o2
-
-Amplificador
-para guitarra
-
-Amplificador de áudio com potência de saída mínima de
-50W RMS. O alto-falante deverá ter diâmetro de 12
-polegadas.
-
-O amplificador deverá possuir, pelo menos, dois canais
-distintos, sendo um canal limpo (clean) e outro de distorção
-(drive), com controles de volume independentes,
-proporcionando versatilidade no uso educacional e
-artístico. O sistema de equalização deverá contar com, no
-mínimo, três bandas, correspondentes aos controles de
-graves, médios e agudos, permitindo ajustes precisos de
-timbre.
-
-É obrigatória a presença de entrada do tipo P10 compatível
-com guitarra elétrica, bem como de, pelo menos, uma saída
-para fones de ouvido ou saída de linha (Line Out),
-viabilizando ensaios silenciosos e a conexão com outros
-equipamentos de áudio, sendo possível conectar e
-transmitir através de Bluetooth e USB.
-
-É requisito também que o amplificador possua efeitos
-embutidos, devendo incluir, no mínimo, os efeitos de
-reverb digital, overdrive e distortion, integrados ao próprio
-
-ol
-
-472007
-
-Página 19|/36
+                            ANEXO II – TERMO DE REFERÊNCIA
 
 
 
-FUNDAÇÃO
-THEATRO
-MUNICIPAL
+       1. DO OBJETO
 
-AVISO DE DISPENSA ELETRÔNICA Nº 12/2025
+       1.1. Contratação de pessoa jurídica para fornecimento de materiais permanentes diversos para a Escola
 
-equipamento. A estrutura física deverá ser portátil e
-resistente, com alça de transporte incorporada, apropriada
-ao uso constante e à movimentação entre diferentes
-espaços.
-Peso aproximado de 13Kkg.
+     de Música de São Paulo (EMSP) da Fundação Theatro Municipal de São Paulo (FTMSP). Os objetos estão
 
-Garantia mínima de 12 (doze) meses.
+      descritos no quadro a seguir e deverão ser fornecidos em conformidade com as especificações técnicas e
 
-o3
+      condições estabelecidas neste Termo de Referência:
 
-Espelho de vidro com moldura em alumínio de
-aproximadamente 2,5cm, pintura eletrostática. Base em
-MDF 18mm e antiderrapante. O espelho de chão deverá
-apresentar estrutura metálica reforçada e acabamento
-resistente, garantindo durabilidade e estabilidade em uso
-constante. Sua altura mínima de 1,70 m e largura de 0,67 m.
-A estrutura metálica, preferencialmente em aço ou
-Espelho vertical | alumínio de alta resistência, deve apresentar pintura
-de chão eletrostática ou epóxi. A base terá sistema antiderrapante,
+ITEM     OBJETO                       ESPECIFICAÇÃO                     QUANT.     CATMAT
+                       Microfone dinâmico com padrão polar cardioide, cápsula
+                  com resposta de frequência de 50 Hz a 15.000 Hz, com
+                          sensibilidade mínima de –52 dBV/Pa, impedância nominal
+                     de 600 ohms balanceada e resistência a níveis elevados de
+                        pressão sonora, sem distorção. Saída XLR de três pinos.
+       Microfone com   Estrutura totalmente metálica, com grade de proteção
+ 01                                                                         02         368179
+                 fio         reforçada. É admitida a presença de chave liga/desliga,
+                      desde  que  embutida  ou  resistente  ao  acionamento
+                           acidental. O produto deverá acompanhar cabo XLR-P10 de
+                     ao menos 4 metros e adaptador para pedestal. Não serão
+                          aceitos modelos com corpo em plástico, padrão polar
+                         diverso da cardioide ou conectores incompatíveis.
+                            Garantia mínima de 12 (doze) meses.
+                         Amplificador de áudio com potência de saída mínima de
+                 50W RMS. O  alto-falante deverá  ter diâmetro de 12
+                        polegadas.
+                O amplificador deverá possuir, pelo menos, dois canais
+                            distintos, sendo um canal limpo (clean) e outro de distorção
+                             (drive),  com  controles  de  volume  independentes,
+                       proporcionando  versatilidade  no  uso  educacional  e
+                              artístico. O sistema de equalização deverá contar com, no
+                      mínimo, três bandas, correspondentes aos controles de
+         Amplificador    graves, médios e agudos, permitindo ajustes precisos de
+ 02                                                                         01         472007
+        para guitarra    timbre.
+                      É obrigatória a presença de entrada do tipo P10 compatível
+                  com guitarra elétrica, bem como de, pelo menos, uma saída
+                       para fones de ouvido ou  saída de  linha  (Line  Out),
+                          viabilizando ensaios silenciosos e a conexão com outros
+                      equipamentos  de  áudio,  sendo  possível  conectar  e
+                           transmitir através de Bluetooth e USB.
+                      É requisito também que o amplificador possua efeitos
+                       embutidos, devendo  incluir, no mínimo, os efeitos de
+                        reverb digital, overdrive e distortion, integrados ao próprio
 
-podendo ser confeccionada em borracha ou material
-similar, e possuir perfil de sustentação que garanta rigidez
-e nível de apoio uniforme, sem oscilações. O produto deve
-permitir fácil montagem, desmontagem e transporte.
-Espessura do espelho 4mm.
+                                                            P á g  i n a 19 | 36
 
-Peso mínimo 20 kg
+                                                 AVISO DE DISPENSA ELETRÔNICA Nº 12/2025
 
-Garantia mínima de 12 (doze) meses.
-
-1.2. Como forma e/ou parâmetro da qualidade exigida, para facilitar a compreensão das
-especificações técnicas do objeto, para os itens 1 e 2 serão indicados, MERAMENTE como referência,
-respectivamente, o modelo de Microfone Dinâmico Cardioide Vocal Shure SV100 e o modelo de
-amplificador Marshall Code 50, nos termos do Acórdão nº 808/2019 — TCU — Plenário, que analisou a
-questão da restrição à competitividade em licitações públicas, e do art. 41, inciso |, alínea “d” da Lei nº
-14.133/2021, que permite a indicação de marca como referência, desde que não haja limitação indevida
-à concorrência.
-
-1.3. Em havendo qualquer divergência entre as especificações contidas neste termo e as constantes
-no CATMAT do Sistema Compras.gov, prevalecerão, para todos os efeitos, as deste Termo de Referência.
-1.4. O quantitativo mínimo estabelecido neste Termo tem como objetivo garantir a economia de
-escala, considerando que abrange o total de itens de mesma natureza a serem adquiridos no presente
-exercício.
-
-1.5. O objeto desta contratação não se enquadra como sendo bem de luxo, conforme disposto no
-art. 22 do Decreto 62.100/2022.
-
-1.6. O prazo de vigência da contratação é de 70 (setenta) dias contados da assinatura da Ordem de
-
-Fornecimento pela CONTRATADA, na forma do artigo 105 da Lei nº 14.133/2021.
-
-Página 20|36
-
-o2 328429
+                     equipamento. A  estrutura  física deverá  ser  portátil e
+                          resistente, com alça de transporte incorporada, apropriada
+                    ao uso constante e à movimentação entre diferentes
+                       espaços.
+                     Peso aproximado de 13kg.
+                             Garantia mínima de 12 (doze) meses.
+                      Espelho  de  vidro  com  moldura em  alumínio  de
+                    aproximadamente 2,5cm, pintura eletrostática. Base em
+                MDF 18mm e antiderrapante. O espelho de chão deverá
+                       apresentar estrutura metálica reforçada e acabamento
+                          resistente, garantindo durabilidade e estabilidade em uso
+                        constante. Sua altura mínima de 1,70 m e largura de 0,67 m.
+                 A  estrutura  metálica,  preferencialmente em  aço ou
+      Espelho vertical  alumínio de  alta  resistência, deve  apresentar  pintura
+03                                                                         02         328429
+        de chão       eletrostática ou epóxi. A base terá sistema antiderrapante,
+                   podendo  ser confeccionada em borracha ou  material
+                           similar, e possuir perfil de sustentação que garanta rigidez
+                    e nível de apoio uniforme, sem oscilações. O produto deve
+                        permitir fácil montagem, desmontagem e transporte.
+                       Espessura do espelho 4mm.
+                         Peso mínimo 20 kg
+                            Garantia mínima de 12 (doze) meses.
 
 
+     1.2.   Como forma e/ou parâmetro da  qualidade  exigida, para  facilitar a compreensão das
+
+     especificações técnicas do objeto, para os itens 1 e 2 serão indicados, MERAMENTE como referência,
+
+     respectivamente, o modelo de Microfone Dinâmico Cardioide Vocal Shure SV100 e o modelo de
+
+     amplificador Marshall Code 50, nos termos do Acórdão nº 808/2019 – TCU – Plenário, que analisou a
+
+    questão da restrição à competitividade em licitações públicas, e do art. 41, inciso I, alínea “d” da Lei nº
+
+    14.133/2021, que permite a indicação de marca como referência, desde que não haja limitação indevida
+
+    à concorrência.
+
+     1.3.   Em havendo qualquer divergência entre as especificações contidas neste termo e as constantes
+
+    no CATMAT do Sistema Compras.gov, prevalecerão, para todos os efeitos, as deste Termo de Referência.
+
+     1.4.   O quantitativo mínimo estabelecido neste Termo tem como objetivo garantir a economia de
+
+     escala, considerando que abrange o total de itens de mesma natureza a serem adquiridos no presente
+
+     exercício.
+
+     1.5.   O objeto desta contratação não se enquadra como sendo bem de luxo, conforme disposto no
+
+      art. 22 do Decreto 62.100/2022.
+
+     1.6.   O prazo de vigência da contratação é de 70 (setenta) dias contados da assinatura da Ordem de
+
+    Fornecimento pela CONTRATADA, na forma do artigo 105 da Lei n° 14.133/2021.
+
+
+                                                           P á g  i n a 20 | 36
 

@@ -6,6 +6,8 @@ from io import StringIO
 
 import pandas as pd
 import fitz  # PyMuPDF
+import zipfile
+import rarfile
 from pdf2image import convert_from_path
 import pytesseract
 import google.generativeai as genai
@@ -30,6 +32,19 @@ SCRIPTS_DIR = PROJECT_ROOT / "scripts"
 POPLER_PATH = SCRIPTS_DIR / "Release-25.07.0-0" / "poppler-25.07.0" / "Library" / "bin"
 TESSERACT_CMD = SCRIPTS_DIR / "Tesseract-OCR" / "tesseract.exe"
 pytesseract.pytesseract.tesseract_cmd = str(TESSERACT_CMD)
+UNRAR_CMD = SCRIPTS_DIR / "unrar" / "UnRAR.exe"
+rarfile.UNRAR_TOOL = str(UNRAR_CMD)
+
+# --- Configuração da API Generativa com Fallback ---
+LLM_MODELS_FALLBACK = [
+
+    "gemini-2.0-flash-lite",
+    "gemini-2.0-flash",
+    "gemini-2.5-flash",
+    "gemini-2.5-flash-lite",
+    "gemini-2.5-pro",
+    "gemini-1.5-flash",  
+]
 
 # --- Configuração da API Generativa ---
 API_KEY = os.getenv("GOOGLE_API_KEY")
@@ -37,7 +52,9 @@ if not API_KEY:
     print("ERRO: A variável de ambiente GOOGLE_API_KEY não foi definida.")
 else:
     genai.configure(api_key=API_KEY)
-    MODEL = genai.GenerativeModel(model_name='gemini-2.5-pro')
+    # A inicialização do modelo será feita dentro da função de chamada
+    # para permitir o fallback entre diferentes modelos.
+    # MODEL = genai.GenerativeModel(model_name='gemini-1.5-pro')
 
 # --- Configurações de Filtro ---
 PALAVRAS_CHAVE = [
@@ -138,18 +155,40 @@ REGEX_EXCECAO = re.compile('|'.join(PALAVRAS_EXCECAO), re.IGNORECASE)
 # 2. FUNÇÕES DE EXTRAÇÃO E PROCESSAMENTO
 # =====================================================================================
 
-def extrair_texto_pdf_ocr(pdf_path):
-    """Extrai texto de um arquivo PDF usando OCR com Tesseract."""
+def extrair_texto_de_pdf(pdf_path: Path) -> str:
+    """
+    Tenta extrair texto diretamente do PDF. Se o resultado for insatisfatório
+    (indicando um PDF baseado em imagem), usa OCR (Tesseract) como fallback.
+    """
+    texto_completo = ""
+    print(f"    > Processando PDF: {pdf_path.name}")
+
+    # --- TENTATIVA 1: Extração de texto direto (rápido) ---
     try:
-        paginas = convert_from_path(pdf_path, dpi=300, poppler_path=POPLER_PATH)
-        texto_completo = ""
-        for i, pagina in enumerate(paginas):
-            print(f"    > Lendo página {i+1}/{len(paginas)} (OCR)...")
-            texto = pytesseract.image_to_string(pagina, lang="por")
-            texto_completo += texto + "\n\n"
-        return texto_completo
+        with fitz.open(pdf_path) as doc:
+            for page in doc:
+                texto_completo += page.get_text("text", sort=True) + "\n\n"
+        
+        # Verifica se o texto extraído é significativo (mais de 100 caracteres)
+        if len(texto_completo.strip()) > 100:
+            print("      - ✅ Texto extraído diretamente com sucesso.")
+            return texto_completo.strip()
+        else:
+            print("      - ⚠️ Texto direto insuficiente. Tentando OCR como fallback...")
     except Exception as e:
-        print(f"    > ERRO ao processar o PDF com OCR {pdf_path}: {e}")
+        print(f"      - ⚠️ Falha na extração direta: {e}. Tentando OCR.")
+
+    # --- TENTATIVA 2: Fallback para OCR (lento) ---
+    try:
+        texto_ocr = ""
+        images = convert_from_path(pdf_path, dpi=300, poppler_path=POPLER_PATH)
+        for i, img in enumerate(images):
+            print(f"      - Lendo página {i+1}/{len(images)} (OCR)...")
+            texto_ocr += pytesseract.image_to_string(img, lang='por') + "\n\n"
+        print("      - ✅ Texto extraído via OCR com sucesso.")
+        return texto_ocr.strip()
+    except Exception as e:
+        print(f"      - ❌ ERRO FATAL: Falha na extração direta e no OCR para o arquivo {pdf_path.name}: {e}")
         return ""
 
 def extrair_itens_pdf_texto(text):
@@ -241,19 +280,33 @@ def tratar_dataframe(df):
     # A conversão de volta para string foi removida para permitir cálculos em outros scripts.
     return df
 
-def chamar_llm(prompt):
-    """Envia um prompt para o modelo Gemini e retorna a resposta."""
+def gerar_conteudo_com_fallback(prompt: str, modelos: list[str]):
+    """
+    Tenta gerar conteúdo usando uma lista de modelos em ordem de preferência.
+    Se um modelo falhar por cota (ResourceExhausted), tenta o próximo.
+    """
     if "API_KEY" not in globals() or not API_KEY:
         print("    > ERRO: API Key do Google não configurada. Pulando chamada da LLM.")
         return None
-    try:
-        print("    > Comunicando com a IA...")
-        response = MODEL.generate_content(prompt)
-        print("    > IA respondeu.")
-        return response.text
-    except Exception as e:
-        print(f"    > ERRO na chamada da LLM: {e}")
-        return None
+
+    for nome_modelo in modelos:
+        try:
+            print(f"    > Comunicando com a IA (modelo: {nome_modelo})...")
+            model = genai.GenerativeModel(nome_modelo)
+            response = model.generate_content(prompt)
+
+            if not response.parts:
+                finish_reason = response.candidates[0].finish_reason.name if response.candidates else 'N/A'
+                print(f"    > ❌ A GERAÇÃO RETORNOU VAZIA. Motivo: {finish_reason}. Tentando próximo modelo.")
+                continue
+            print(f"    > ✅ IA respondeu com sucesso usando o modelo '{nome_modelo}'.")
+            return response.text
+        except Exception as e:
+            # Importar a exceção específica se quiser tratá-la separadamente
+            print(f"    > ⚠️ Erro com o modelo '{nome_modelo}': {e}. Tentando o próximo da lista.")
+            continue
+    print("    > ❌ FALHA TOTAL: Todos os modelos na lista de fallback falharam.")
+    return None
 
 def construir_prompt_referencia(df, texto_pdf):
     """Constrói o prompt para o modelo de linguagem ENRIQUECER itens."""
@@ -299,6 +352,67 @@ def construir_prompt_extracao_itens(texto_pdf):
     IMPORTANTE: Use '<--|-->' como separador. Não inclua nenhuma explicação ou formatação extra. Liste todos os itens que encontrar.
     """
 
+def descompactar_arquivos_compactados(pasta_path: Path):
+    """
+    Procura por arquivos .zip e .rar na pasta e os descompacta em um subdiretório 'unzipped'.
+    Retorna o caminho para a pasta com os arquivos descompactados, ou a pasta original se não houver zips.
+    """
+    arquivos_compactados = list(pasta_path.glob('*.zip')) + list(pasta_path.glob('*.rar'))
+    if not arquivos_compactados:
+        return pasta_path # Nenhuma ação necessária
+
+    pasta_unzipped = pasta_path / "unzipped"
+    pasta_unzipped.mkdir(exist_ok=True)
+    
+    print(f"    > Encontrado(s) {len(arquivos_compactados)} arquivo(s) compactado(s). Descompactando...")
+    for file_path in arquivos_compactados:
+        if file_path.suffix.lower() == '.zip':
+            try:
+                with zipfile.ZipFile(file_path, 'r') as zip_ref:
+                    zip_ref.extractall(pasta_unzipped)
+                print(f"      - ✅ '{file_path.name}' (ZIP) descompactado em '{pasta_unzipped.name}/'")
+            except Exception as e:
+                print(f"      - ❌ Falha ao descompactar '{file_path.name}': {e}")
+        elif file_path.suffix.lower() == '.rar':
+            try:
+                with rarfile.RarFile(file_path, 'r') as rar_ref:
+                    rar_ref.extractall(pasta_unzipped)
+                print(f"      - ✅ '{file_path.name}' (RAR) descompactado em '{pasta_unzipped.name}/'")
+            except rarfile.NeedFirstVolume:
+                 print(f"      - ⚠️ AVISO: '{file_path.name}' é parte de um arquivo multi-volume. Apenas o primeiro volume é processado.")
+            except Exception as e:
+                print(f"      - ❌ Falha ao descompactar '{file_path.name}': {e}. Verifique se o 'unrar' está instalado e no PATH.")
+    
+    return pasta_unzipped
+
+def extrair_contexto_relevante_de_pdf(pdf_path: Path, df_itens: pd.DataFrame, margem_paginas: int = 1) -> str:
+    """
+    Extrai texto de um PDF apenas das páginas que contêm referências aos itens de um DataFrame,
+    incluindo uma margem de páginas antes e depois.
+    """
+    if df_itens.empty or 'Nº' not in df_itens.columns:
+        return ""
+
+    paginas_relevantes = set()
+    termos_busca = [f"item {n}" for n in df_itens['Nº'].unique()]
+    
+    try:
+        with fitz.open(pdf_path) as doc:
+            for i, page in enumerate(doc):
+                texto_pagina = page.get_text("text").lower()
+                if any(termo in texto_pagina for termo in termos_busca):
+                    # Adiciona a página encontrada e as páginas na margem
+                    inicio = max(0, i - margem_paginas)
+                    fim = min(len(doc) - 1, i + margem_paginas)
+                    for num_pagina in range(inicio, fim + 1):
+                        paginas_relevantes.add(num_pagina)
+            
+            # Extrai o texto das páginas relevantes e ordenadas
+            contexto_final = "".join(doc[i].get_text("text", sort=True) for i in sorted(list(paginas_relevantes)))
+            return contexto_final
+    except Exception as e:
+        print(f"      - ⚠️ Erro ao extrair contexto relevante de '{pdf_path.name}': {e}")
+        return ""
 # =====================================================================================
 # 3. ORQUESTRADOR PRINCIPAL
 # =====================================================================================
@@ -329,24 +443,36 @@ def processar_pasta_edital(pasta_path):
         except Exception as e:
             print(f"  > AVISO: Falha ao ler arquivos existentes. {e}. O processamento será refeito.")
 
-    # --- ETAPA 1: EXTRAIR TEXTO DO PDF PRINCIPAL (OCR) ---
-    print(f"  [ETAPA 1/4] Extraindo texto do PDF principal...")
-    if not caminho_txt.exists():
-        pdf_principal = next((f for f in pasta_path.glob("*.pdf") if not f.name.lower().startswith("relacaoitens")), None)
-        if pdf_principal:
-            texto_extraido = extrair_texto_pdf_ocr(pdf_principal)
-            if texto_extraido:
-                caminho_txt.write_text(texto_extraido, encoding="utf-8")
-                print(f"    > Texto extraído salvo em: {caminho_txt.name}")
-            else:
-                print(f"    > AVISO: Não foi possível extrair texto do PDF principal.")
-        else:
-            print(f"    > AVISO: Nenhum PDF principal encontrado.")
-    else:
-        print(f"    > Arquivo PDF.txt já existe. Pulando OCR.")
+    # --- ETAPA 1: DESCOMPACTAR ARQUIVOS E PREPARAR AMBIENTE ---
+    print(f"  [ETAPA 1/5] Verificando e descompactando arquivos .zip...")
+    diretorio_de_trabalho = descompactar_arquivos_compactados(pasta_path)
 
-    # --- ETAPA 2: EXTRAIR ITENS DO 'RELACAOITENS.PDF' ---
-    print(f"  [ETAPA 2/4] Extraindo itens de 'RelacaoItens.pdf'...")
+    # --- ETAPA 2: EXTRAIR TEXTO DO PDF PRINCIPAL ---
+    print(f"  [ETAPA 2/5] Extraindo texto do PDF principal...")
+    if not caminho_txt.exists():
+        # Procura PDFs no diretório de trabalho (que pode ser a pasta original ou a 'unzipped')
+        pdfs_principais = [f for f in diretorio_de_trabalho.rglob("*.pdf") if not f.name.lower().startswith("relacaoitens")]
+        texto_completo_extraido = ""
+        
+        if pdfs_principais:
+            # Se houver RelacaoItens, extrai contexto relevante; senão, extrai tudo
+            df_temp_itens = pd.read_excel(caminho_xlsx_itens) if caminho_xlsx_itens.exists() else pd.DataFrame()
+            
+            for pdf in pdfs_principais:
+                if not df_temp_itens.empty:
+                    print(f"    > Extraindo CONTEXTO RELEVANTE de '{pdf.name}'...")
+                    texto_completo_extraido += extrair_contexto_relevante_de_pdf(pdf, df_temp_itens, margem_paginas=2) + "\n\n"
+                else:
+                    print(f"    > Extraindo texto COMPLETO de '{pdf.name}' (sem itens de referência)...")
+                    texto_completo_extraido += extrair_texto_de_pdf(pdf) + "\n\n"
+            
+            caminho_txt.write_text(texto_completo_extraido, encoding="utf-8")
+            print(f"    > Texto de contexto salvo em: {caminho_txt.name}")
+    else:
+        print(f"    > Arquivo de contexto PDF.txt já existe. Pulando extração.")
+
+    # --- ETAPA 3: EXTRAIR ITENS DO 'RELACAOITENS.PDF' ---
+    print(f"  [ETAPA 3/5] Extraindo itens de 'RelacaoItens.pdf'...")
     df_itens = pd.DataFrame()
     if caminho_xlsx_itens.exists():
         print(f"    > Arquivo de itens ({caminho_xlsx_itens.name}) já existe. Carregando...")
@@ -369,7 +495,7 @@ def processar_pasta_edital(pasta_path):
         else:
             print("    > AVISO: Nenhum 'RelacaoItens.pdf' encontrado.")
 
-    # --- ETAPA 3 & 4: PROCESSAMENTO COM IA (FALLBACK E ENRIQUECIMENTO) ---
+    # --- ETAPA 4 & 5: PROCESSAMENTO COM IA (FALLBACK E ENRIQUECIMENTO) ---
     texto_pdf_bruto = caminho_txt.read_text(encoding="utf-8") if caminho_txt.exists() else ""
     if not texto_pdf_bruto:
         print("  > AVISO: Sem texto do PDF principal, não é possível usar a IA. Finalizando esta pasta.")
@@ -381,9 +507,9 @@ def processar_pasta_edital(pasta_path):
 
     # CASO 1: Itens foram extraídos -> Apenas enriquecer com IA
     if not df_itens.empty:
-        print(f"  [ETAPA 3/4] Itens encontrados. Enriquecendo com IA...")
+        print(f"  [ETAPA 4/5] Itens encontrados. Enriquecendo com IA usando contexto otimizado...")
         prompt = construir_prompt_referencia(df_itens, texto_pdf_bruto)
-        resposta_llm = chamar_llm(prompt)
+        resposta_llm = gerar_conteudo_com_fallback(prompt, LLM_MODELS_FALLBACK)
         if resposta_llm:
             try:
                 df_referencia = pd.read_csv(StringIO(resposta_llm.replace("`", "")), sep="<--|-->", engine="python")
@@ -408,9 +534,9 @@ def processar_pasta_edital(pasta_path):
 
     # CASO 2: Nenhum item foi extraído -> Usar IA como FALLBACK para extrair do zero
     else:
-        print(f"  [ETAPA 3/4] Nenhum item encontrado. Usando IA como fallback para EXTRAIR do zero...")
+        print(f"  [ETAPA 4/5] Nenhum item encontrado. Usando IA como fallback para EXTRAIR do zero...")
         prompt = construir_prompt_extracao_itens(texto_pdf_bruto)
-        resposta_llm = chamar_llm(prompt)
+        resposta_llm = gerar_conteudo_com_fallback(prompt, LLM_MODELS_FALLBACK)
         if resposta_llm:
             try:
                 df_final = pd.read_csv(StringIO(resposta_llm.replace("`", "")), sep="<--|-->", engine="python")
@@ -427,7 +553,7 @@ def processar_pasta_edital(pasta_path):
             print("    > FALHA: IA não respondeu para extração.")
 
     # --- ETAPA FINAL: SALVAR RESULTADO ---
-    print(f"  [ETAPA 4/4] Finalizando e salvando...")
+    print(f"  [ETAPA 5/5] Finalizando e salvando...")
     if not df_final.empty:
         # Reordenar colunas para o padrão
         desired_order = ['Nº', 'DESCRICAO', 'REFERENCIA', 'QTDE', 'VALOR_UNIT', 'VALOR_TOTAL', 'UNID_FORN', 'LOCAL_ENTREGA', 'ARQUIVO']
@@ -513,6 +639,20 @@ def main():
 
         df_filtrado.to_excel(FINAL_MASTER_PATH, index=False)
         print(f"✅ Arquivo 'master.xlsx' criado com {len(df_filtrado)} itens relevantes.")
+
+        # --- Análise de Editais Ausentes no Master ---
+        print("\n--- Análise de Editais Ausentes no Master ---")
+        nomes_pastas_processadas = {p.name for p in pastas_de_editais}
+        editais_no_master = set(df_filtrado['ARQUIVO'].unique())
+        
+        editais_nao_incluidos = nomes_pastas_processadas - editais_no_master
+        
+        if editais_nao_incluidos:
+            print(f"🟡 {len(editais_nao_incluidos)} editais foram processados, mas não tiveram itens que passaram no filtro final:")
+            for edital in sorted(list(editais_nao_incluidos)):
+                print(f"  - {edital}")
+        else:
+            print("✅ Todos os editais processados tiveram pelo menos um item incluído no arquivo master.")
     else:
         print("🔴 Nenhum item final foi processado para gerar o 'master.xlsx'.")
 

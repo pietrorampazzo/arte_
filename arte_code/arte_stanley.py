@@ -414,12 +414,20 @@ def main():
     if os.path.exists(CAMINHO_HEAVY_EXISTENTE):
         logger.info(f"Loading existing processed data from {os.path.basename(CAMINHO_HEAVY_EXISTENTE)}")
         df_existing = pd.read_excel(CAMINHO_HEAVY_EXISTENTE)
-        existing_keys = set(zip(df_existing['ARQUIVO'].astype(str), df_existing['Nº'].astype(str)))
+        # Garantir consistência na chave de verificação, tratando 'Nº' como inteiro antes de string
+        df_existing['ARQUIVO_str'] = df_existing['ARQUIVO'].astype(str).str.strip()
+        df_existing['N_int_str'] = pd.to_numeric(df_existing['Nº'], errors='coerce').fillna(0).astype(int).astype(str)
+        existing_keys = set(zip(df_existing['ARQUIVO_str'], df_existing['N_int_str']))
     else:
         df_existing = pd.DataFrame()
         existing_keys = set()
 
-    df_edital_new = df_edital[~df_edital.apply(lambda row: (str(row['ARQUIVO']), str(row['Nº'])) in existing_keys, axis=1)].copy()
+    # Criar chaves consistentes para o DataFrame do edital também
+    df_edital['ARQUIVO_str'] = df_edital['ARQUIVO'].astype(str).str.strip()
+    df_edital['N_int_str'] = pd.to_numeric(df_edital['Nº'], errors='coerce').fillna(0).astype(int).astype(str)
+
+    # Filtrar itens novos usando as chaves normalizadas
+    df_edital_new = df_edital[~df_edital.apply(lambda row: (row['ARQUIVO_str'], row['N_int_str']) in existing_keys, axis=1)].copy()
 
     if df_edital_new.empty:
         logger.info("No new items to process. Output file is up to date.")
