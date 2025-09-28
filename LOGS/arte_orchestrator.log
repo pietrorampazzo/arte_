@@ -8260,3 +8260,1427 @@
 2025-09-23 11:16:16,631 - INFO - [MATCHING_PRODUTOS] - Cota excedida para o modelo 'gemini-2.5-flash'. Tentando o próximo da lista.
 2025-09-23 11:16:21,632 - INFO - [MATCHING_PRODUTOS] - Tentando chamada à API com o modelo: gemini-2.5-flash-lite...
 2025-09-23 11:16:22,202 - INFO - [MATCHING_PRODUTOS] - Sucesso com o modelo 'gemini-2.5-flash-lite'.
+2025-09-24 01:34:00,282 - INFO - [01:34:00] ORQUESTRADOR: Iniciando pipeline: download, matching
+2025-09-24 01:34:00,285 - INFO - [01:34:00] VERIFICAÇÃO: Verificando pré-requisitos...
+2025-09-24 01:34:00,285 - INFO - [01:34:00] VERIFICAÇÃO: ✅ Todos os pré-requisitos atendidos
+2025-09-24 01:34:00,285 - INFO - [01:34:00] PIPELINE: === ETAPA: DOWNLOAD DE EDITAIS ===
+2025-09-24 01:34:00,286 - INFO - [01:34:00] DOWNLOAD_EDITAIS: Iniciando execução...
+2025-09-24 01:34:01,739 - INFO - [DOWNLOAD_EDITAIS] ============================================================
+2025-09-24 01:34:01,740 - INFO - [DOWNLOAD_EDITAIS] 🤖 WAVECODE AUTOMATION - PIPELINE v2.0
+2025-09-24 01:34:01,741 - INFO - [DOWNLOAD_EDITAIS] ============================================================
+2025-09-24 01:34:01,742 - INFO - [DOWNLOAD_EDITAIS] [01:34:01] [1/8] Iniciando automação do navegador...
+2025-09-24 01:34:01,743 - INFO - [DOWNLOAD_EDITAIS] [01:34:01] Configurando Chrome WebDriver...
+2025-09-24 01:34:04,818 - INFO - [DOWNLOAD_EDITAIS] [01:34:04] Chrome WebDriver configurado com sucesso!
+2025-09-24 01:34:04,888 - INFO - [DOWNLOAD_EDITAIS] [01:34:04] Carregados 159 registros do livro razão.
+2025-09-24 01:34:04,891 - INFO - [DOWNLOAD_EDITAIS] [01:34:04] Acessando portal Wavecode...
+2025-09-24 01:34:08,188 - INFO - [DOWNLOAD_EDITAIS] [01:34:08] ✅ Login bem-sucedido
+2025-09-24 01:34:08,307 - INFO - [DOWNLOAD_EDITAIS] [01:34:08] 📸 Screenshot salvo: debug_login_success_20250924_013408.png
+2025-09-24 01:34:08,309 - INFO - [DOWNLOAD_EDITAIS] [01:34:08] Navegando para seção de editais...
+2025-09-24 01:34:16,765 - INFO - [DOWNLOAD_EDITAIS] [01:34:16] Iniciando rolagem para carregar editais...
+2025-09-24 01:34:16,767 - INFO - [DOWNLOAD_EDITAIS] [01:34:16] Rolando página para carregar todos os editais...
+2025-09-24 01:34:21,846 - INFO - [DOWNLOAD_EDITAIS] [01:34:21] ⏭️ Rolagem concluída!
+2025-09-24 01:34:26,904 - INFO - [DOWNLOAD_EDITAIS] [01:34:26] ⏭️ Página de editais carregada com 20 itens.
+2025-09-24 01:34:27,051 - INFO - [DOWNLOAD_EDITAIS] [01:34:27] 📸 Screenshot salvo: debug_editais_page_loaded_20250924_013426.png
+2025-09-24 01:34:27,052 - INFO - [DOWNLOAD_EDITAIS] [01:34:27] --- Iniciando ciclo para a Página 1 ---
+2025-09-24 01:34:27,053 - INFO - [DOWNLOAD_EDITAIS] [01:34:27] Processando página 1...
+2025-09-24 01:34:27,053 - INFO - [DOWNLOAD_EDITAIS] [01:34:27] Procurando botões de download…
+2025-09-24 01:34:27,087 - INFO - [DOWNLOAD_EDITAIS] [01:34:27] Encontrados 20 cabeçalhos de ação.
+2025-09-24 01:34:27,896 - INFO - [DOWNLOAD_EDITAIS] [01:34:27] Encontrados 20 botões de download (setas).
+2025-09-24 01:34:27,897 - INFO - [DOWNLOAD_EDITAIS] [01:34:27] Encontrados 20 botões de download para processar.
+2025-09-24 01:34:27,906 - INFO - [DOWNLOAD_EDITAIS] [01:34:27] 🔍 Extraindo informações para o item 1…
+2025-09-24 01:34:28,270 - INFO - [DOWNLOAD_EDITAIS] [01:34:28] 🔍 Informações extraído: UASG=926768, Edital=900042025, Comprador='GOVERNO DO ESTADO DO RIO GRANDE DO SUL / CAMARA MUNICIPAL DE VEREADORES DE BAGÉ', Disputa='02/10/2025 - 09:00'
+2025-09-24 01:34:28,271 - INFO - [DOWNLOAD_EDITAIS] [01:34:28] ⏭️  Pulando edital já processado: UASG 926768, Edital 900042025
+2025-09-24 01:34:28,271 - INFO - [DOWNLOAD_EDITAIS] [01:34:28] 🔍 Extraindo informações para o item 2…
+2025-09-24 01:34:28,431 - INFO - [DOWNLOAD_EDITAIS] [01:34:28] 🔍 Informações extraído: UASG=160380, Edital=900062025, Comprador='MINISTÉRIO DA DEFESA / Comando do Exército / Comando Militar do Sul / 6ªDivisão de Exército / 8ªBrigada de Infantaria Motorizada', Disputa='03/10/2025 - 10:00'
+2025-09-24 01:34:28,432 - INFO - [DOWNLOAD_EDITAIS] [01:34:28] ⏭️  Pulando edital já processado: UASG 160380, Edital 900062025
+2025-09-24 01:34:28,433 - INFO - [DOWNLOAD_EDITAIS] [01:34:28] 🔍 Extraindo informações para o item 3…
+2025-09-24 01:34:28,654 - INFO - [DOWNLOAD_EDITAIS] [01:34:28] 🔍 Informações extraído: UASG=380228, Edital=900242025, Comprador='GOVERNO DO ESTADO DE SÃO PAULO / ESP-SECRETARIA DE ADMINISTRACAO PENITENCIARIA / ESP-PENIT. JOAO A. PANUCCI DE MARABA PTA', Disputa='02/10/2025 - 09:00'
+2025-09-24 01:34:44,815 - INFO - [DOWNLOAD_EDITAIS] [01:34:44] ❌ Timeout aguardando download
+2025-09-24 01:34:45,815 - INFO - [DOWNLOAD_EDITAIS] [01:34:45] 🔍 Extraindo informações para o item 4…
+2025-09-24 01:34:45,986 - INFO - [DOWNLOAD_EDITAIS] [01:34:45] 🔍 Informações extraído: UASG=987493, Edital=901152025, Comprador='PREFEITURA MUNICIPAL DE CASCAVEL', Disputa='06/10/2025 - 09:00'
+2025-09-24 01:34:45,987 - INFO - [DOWNLOAD_EDITAIS] [01:34:45] ⏭️  Pulando edital já processado: UASG 987493, Edital 901152025
+2025-09-24 01:34:45,988 - INFO - [DOWNLOAD_EDITAIS] [01:34:45] 🔍 Extraindo informações para o item 5…
+2025-09-24 01:34:46,276 - INFO - [DOWNLOAD_EDITAIS] [01:34:46] 🔍 Informações extraído: UASG=929532, Edital=920152025, Comprador='CONSORCIO PUBLICO DE SAUDE DA MICROREGIAO DE CRATO', Disputa='08/10/2025 - 09:00'
+2025-09-24 01:35:02,543 - INFO - [DOWNLOAD_EDITAIS] [01:35:02] ✅ Arquivo baixado: U_929532_E_920152025_08-10-2025_09h00m.png
+2025-09-24 01:35:03,544 - INFO - [DOWNLOAD_EDITAIS] [01:35:03] 🔍 Extraindo informações para o item 6…
+2025-09-24 01:35:03,605 - INFO - [DOWNLOAD_EDITAIS] [01:35:03] ❌ Erro inesperado na extração de informações do edital: Message: stale element reference: stale element not found
+2025-09-24 01:35:03,607 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:03,608 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:03,609 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:03,609 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:03,610 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:03,610 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:03,611 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:03,612 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:03,612 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:03,613 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x186734]
+2025-09-24 01:35:03,614 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1867c8]
+2025-09-24 01:35:03,617 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c6f74]
+2025-09-24 01:35:03,618 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c7a8b]
+2025-09-24 01:35:03,619 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bccf1]
+2025-09-24 01:35:03,619 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9e44]
+2025-09-24 01:35:03,620 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bcbf4]
+2025-09-24 01:35:03,620 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9fb4]
+2025-09-24 01:35:03,621 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:03,621 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:03,622 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:03,624 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:03,625 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:03,626 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:03,626 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:03,627 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:03,627 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:03,628 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:03,628 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:03,628 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:03,629 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:03,630 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:03,631 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:03,632 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:03,633 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:03,633 - INFO - [DOWNLOAD_EDITAIS] [01:35:03] ❌ Erro durante download: Message: stale element reference: stale element not found
+2025-09-24 01:35:03,634 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:03,634 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:03,635 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:03,635 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:03,635 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:03,636 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:03,636 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:03,637 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:03,637 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184f08]
+2025-09-24 01:35:03,637 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:03,639 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1869cc]
+2025-09-24 01:35:03,640 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20c654]
+2025-09-24 01:35:03,640 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9dfc]
+2025-09-24 01:35:03,641 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:03,641 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:03,642 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:03,642 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:03,642 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:03,643 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:03,643 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:03,643 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:03,644 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:03,644 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:03,645 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:03,645 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:03,645 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:03,645 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:03,648 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:03,649 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:03,649 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:04,620 - INFO - [DOWNLOAD_EDITAIS] [01:35:04] 🔍 Extraindo informações para o item 7…
+2025-09-24 01:35:04,657 - INFO - [DOWNLOAD_EDITAIS] [01:35:04] ❌ Erro inesperado na extração de informações do edital: Message: stale element reference: stale element not found
+2025-09-24 01:35:04,658 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:04,658 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:04,658 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:04,659 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:04,659 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:04,659 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:04,660 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:04,660 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:04,660 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:04,661 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x186734]
+2025-09-24 01:35:04,661 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1867c8]
+2025-09-24 01:35:04,662 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c6f74]
+2025-09-24 01:35:04,662 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c7a8b]
+2025-09-24 01:35:04,663 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bccf1]
+2025-09-24 01:35:04,664 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9e44]
+2025-09-24 01:35:04,665 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bcbf4]
+2025-09-24 01:35:04,666 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9fb4]
+2025-09-24 01:35:04,666 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:04,667 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:04,667 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:04,667 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:04,668 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:04,668 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:04,668 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:04,668 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:04,669 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:04,669 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:04,669 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:04,669 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:04,669 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:04,670 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:04,670 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:04,670 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:04,670 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:04,671 - INFO - [DOWNLOAD_EDITAIS] [01:35:04] ❌ Erro durante download: Message: stale element reference: stale element not found
+2025-09-24 01:35:04,671 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:04,672 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:04,672 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:04,673 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:04,673 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:04,674 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:04,674 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:04,674 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:04,675 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184f08]
+2025-09-24 01:35:04,675 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:04,675 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1869cc]
+2025-09-24 01:35:04,676 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20c654]
+2025-09-24 01:35:04,676 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9dfc]
+2025-09-24 01:35:04,676 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:04,677 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:04,677 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:04,677 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:04,677 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:04,677 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:04,677 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:04,678 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:04,678 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:04,678 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:04,678 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:04,678 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:04,678 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:04,679 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:04,679 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:04,679 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:04,679 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:05,668 - INFO - [DOWNLOAD_EDITAIS] [01:35:05] 🔍 Extraindo informações para o item 8…
+2025-09-24 01:35:05,712 - INFO - [DOWNLOAD_EDITAIS] [01:35:05] ❌ Erro inesperado na extração de informações do edital: Message: stale element reference: stale element not found
+2025-09-24 01:35:05,713 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:05,714 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:05,715 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:05,716 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:05,716 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:05,717 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:05,718 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:05,719 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:05,719 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:05,720 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x186734]
+2025-09-24 01:35:05,721 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1867c8]
+2025-09-24 01:35:05,722 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c6f74]
+2025-09-24 01:35:05,723 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c7a8b]
+2025-09-24 01:35:05,724 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bccf1]
+2025-09-24 01:35:05,725 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9e44]
+2025-09-24 01:35:05,725 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bcbf4]
+2025-09-24 01:35:05,727 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9fb4]
+2025-09-24 01:35:05,727 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:05,728 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:05,729 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:05,730 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:05,731 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:05,732 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:05,733 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:05,734 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:05,734 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:05,735 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:05,736 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:05,736 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:05,736 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:05,737 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:05,737 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:05,738 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:05,739 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:05,740 - INFO - [DOWNLOAD_EDITAIS] [01:35:05] ❌ Erro durante download: Message: stale element reference: stale element not found
+2025-09-24 01:35:05,741 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:05,742 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:05,743 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:05,743 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:05,744 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:05,745 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:05,746 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:05,747 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:05,748 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184f08]
+2025-09-24 01:35:05,749 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:05,750 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1869cc]
+2025-09-24 01:35:05,751 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20c654]
+2025-09-24 01:35:05,751 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9dfc]
+2025-09-24 01:35:05,752 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:05,753 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:05,753 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:05,753 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:05,754 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:05,754 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:05,755 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:05,756 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:05,758 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:05,759 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:05,760 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:05,760 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:05,761 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:05,762 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:05,763 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:05,764 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:05,765 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:06,731 - INFO - [DOWNLOAD_EDITAIS] [01:35:06] 🔍 Extraindo informações para o item 9…
+2025-09-24 01:35:06,771 - INFO - [DOWNLOAD_EDITAIS] [01:35:06] ❌ Erro inesperado na extração de informações do edital: Message: stale element reference: stale element not found
+2025-09-24 01:35:06,772 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:06,773 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:06,774 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:06,775 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:06,776 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:06,776 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:06,777 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:06,778 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:06,778 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:06,778 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x186734]
+2025-09-24 01:35:06,779 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1867c8]
+2025-09-24 01:35:06,781 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c6f74]
+2025-09-24 01:35:06,782 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c7a8b]
+2025-09-24 01:35:06,783 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bccf1]
+2025-09-24 01:35:06,783 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9e44]
+2025-09-24 01:35:06,784 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bcbf4]
+2025-09-24 01:35:06,785 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9fb4]
+2025-09-24 01:35:06,785 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:06,786 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:06,786 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:06,787 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:06,787 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:06,788 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:06,789 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:06,790 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:06,791 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:06,791 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:06,792 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:06,792 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:06,793 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:06,793 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:06,794 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:06,794 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:06,795 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:06,795 - INFO - [DOWNLOAD_EDITAIS] [01:35:06] ❌ Erro durante download: Message: stale element reference: stale element not found
+2025-09-24 01:35:06,796 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:06,796 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:06,797 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:06,797 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:06,798 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:06,798 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:06,799 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:06,799 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:06,800 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184f08]
+2025-09-24 01:35:06,800 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:06,800 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1869cc]
+2025-09-24 01:35:06,801 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20c654]
+2025-09-24 01:35:06,801 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9dfc]
+2025-09-24 01:35:06,802 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:06,802 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:06,803 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:06,803 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:06,803 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:06,804 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:06,804 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:06,805 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:06,806 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:06,806 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:06,807 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:06,807 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:06,808 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:06,809 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:06,809 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:06,809 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:06,810 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:07,786 - INFO - [DOWNLOAD_EDITAIS] [01:35:07] 🔍 Extraindo informações para o item 10…
+2025-09-24 01:35:07,830 - INFO - [DOWNLOAD_EDITAIS] [01:35:07] ❌ Erro inesperado na extração de informações do edital: Message: stale element reference: stale element not found
+2025-09-24 01:35:07,832 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:07,833 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:07,834 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:07,835 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:07,835 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:07,836 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:07,837 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:07,838 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:07,839 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:07,840 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x186734]
+2025-09-24 01:35:07,841 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1867c8]
+2025-09-24 01:35:07,842 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c6f74]
+2025-09-24 01:35:07,843 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c7a8b]
+2025-09-24 01:35:07,844 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bccf1]
+2025-09-24 01:35:07,844 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9e44]
+2025-09-24 01:35:07,845 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bcbf4]
+2025-09-24 01:35:07,847 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9fb4]
+2025-09-24 01:35:07,848 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:07,849 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:07,850 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:07,851 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:07,852 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:07,852 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:07,853 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:07,854 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:07,855 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:07,856 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:07,857 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:07,858 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:07,858 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:07,859 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:07,860 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:07,860 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:07,861 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:07,862 - INFO - [DOWNLOAD_EDITAIS] [01:35:07] ❌ Erro durante download: Message: stale element reference: stale element not found
+2025-09-24 01:35:07,865 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:07,865 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:07,866 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:07,867 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:07,868 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:07,869 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:07,870 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:07,871 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:07,872 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184f08]
+2025-09-24 01:35:07,873 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:07,874 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1869cc]
+2025-09-24 01:35:07,875 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20c654]
+2025-09-24 01:35:07,876 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9dfc]
+2025-09-24 01:35:07,877 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:07,877 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:07,878 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:07,878 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:07,879 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:07,880 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:07,881 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:07,882 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:07,883 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:07,884 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:07,885 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:07,885 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:07,885 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:07,886 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:07,887 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:07,888 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:07,889 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:08,847 - INFO - [DOWNLOAD_EDITAIS] [01:35:08] 🔍 Extraindo informações para o item 11…
+2025-09-24 01:35:08,895 - INFO - [DOWNLOAD_EDITAIS] [01:35:08] ❌ Erro inesperado na extração de informações do edital: Message: stale element reference: stale element not found
+2025-09-24 01:35:08,896 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:08,897 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:08,898 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:08,899 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:08,900 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:08,900 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:08,901 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:08,902 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:08,903 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:08,904 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x186734]
+2025-09-24 01:35:08,905 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1867c8]
+2025-09-24 01:35:08,906 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c6f74]
+2025-09-24 01:35:08,907 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c7a8b]
+2025-09-24 01:35:08,908 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bccf1]
+2025-09-24 01:35:08,909 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9e44]
+2025-09-24 01:35:08,910 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bcbf4]
+2025-09-24 01:35:08,911 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9fb4]
+2025-09-24 01:35:08,912 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:08,913 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:08,914 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:08,916 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:08,917 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:08,918 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:08,919 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:08,920 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:08,921 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:08,923 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:08,924 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:08,925 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:08,925 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:08,926 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:08,927 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:08,929 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:08,930 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:08,930 - INFO - [DOWNLOAD_EDITAIS] [01:35:08] ❌ Erro durante download: Message: stale element reference: stale element not found
+2025-09-24 01:35:08,932 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:08,933 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:08,934 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:08,935 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:08,935 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:08,936 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:08,937 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:08,938 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:08,939 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184f08]
+2025-09-24 01:35:08,940 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:08,941 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1869cc]
+2025-09-24 01:35:08,942 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20c654]
+2025-09-24 01:35:08,942 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9dfc]
+2025-09-24 01:35:08,943 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:08,943 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:08,944 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:08,944 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:08,945 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:08,946 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:08,947 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:08,948 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:08,949 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:08,949 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:08,950 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:08,951 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:08,951 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:08,952 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:08,953 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:08,953 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:08,954 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:09,912 - INFO - [DOWNLOAD_EDITAIS] [01:35:09] 🔍 Extraindo informações para o item 12…
+2025-09-24 01:35:09,960 - INFO - [DOWNLOAD_EDITAIS] [01:35:09] ❌ Erro inesperado na extração de informações do edital: Message: stale element reference: stale element not found
+2025-09-24 01:35:09,962 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:09,965 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:09,967 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:09,967 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:09,968 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:09,969 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:09,970 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:09,972 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:09,974 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:09,975 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x186734]
+2025-09-24 01:35:09,976 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1867c8]
+2025-09-24 01:35:09,977 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c6f74]
+2025-09-24 01:35:09,978 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c7a8b]
+2025-09-24 01:35:09,979 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bccf1]
+2025-09-24 01:35:09,981 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9e44]
+2025-09-24 01:35:09,982 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bcbf4]
+2025-09-24 01:35:09,983 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9fb4]
+2025-09-24 01:35:09,984 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:09,985 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:09,985 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:09,986 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:09,988 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:09,990 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:09,992 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:09,993 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:09,994 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:09,996 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:10,000 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:10,002 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:10,005 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:10,007 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:10,009 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:10,010 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:10,016 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:10,017 - INFO - [DOWNLOAD_EDITAIS] [01:35:09] ❌ Erro durante download: Message: stale element reference: stale element not found
+2025-09-24 01:35:10,019 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:10,022 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:10,023 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:10,024 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:10,025 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:10,026 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:10,027 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:10,027 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:10,030 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184f08]
+2025-09-24 01:35:10,032 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:10,032 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1869cc]
+2025-09-24 01:35:10,033 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20c654]
+2025-09-24 01:35:10,033 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9dfc]
+2025-09-24 01:35:10,034 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:10,034 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:10,035 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:10,035 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:10,036 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:10,038 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:10,039 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:10,040 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:10,041 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:10,042 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:10,042 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:10,043 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:10,044 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:10,046 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:10,047 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:10,048 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:10,049 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:10,989 - INFO - [DOWNLOAD_EDITAIS] [01:35:10] 🔍 Extraindo informações para o item 13…
+2025-09-24 01:35:11,032 - INFO - [DOWNLOAD_EDITAIS] [01:35:11] ❌ Erro inesperado na extração de informações do edital: Message: stale element reference: stale element not found
+2025-09-24 01:35:11,033 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:11,033 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:11,034 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:11,035 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:11,035 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:11,036 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:11,037 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:11,038 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:11,039 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:11,040 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x186734]
+2025-09-24 01:35:11,041 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1867c8]
+2025-09-24 01:35:11,042 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c6f74]
+2025-09-24 01:35:11,042 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c7a8b]
+2025-09-24 01:35:11,043 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bccf1]
+2025-09-24 01:35:11,044 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9e44]
+2025-09-24 01:35:11,046 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bcbf4]
+2025-09-24 01:35:11,047 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9fb4]
+2025-09-24 01:35:11,049 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:11,050 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:11,050 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:11,051 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:11,053 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:11,054 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:11,056 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:11,056 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:11,057 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:11,058 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:11,059 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:11,059 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:11,060 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:11,061 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:11,062 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:11,063 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:11,063 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:11,064 - INFO - [DOWNLOAD_EDITAIS] [01:35:11] ❌ Erro durante download: Message: stale element reference: stale element not found
+2025-09-24 01:35:11,065 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:11,066 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:11,067 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:11,067 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:11,068 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:11,069 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:11,070 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:11,070 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:11,071 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184f08]
+2025-09-24 01:35:11,072 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:11,073 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1869cc]
+2025-09-24 01:35:11,074 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20c654]
+2025-09-24 01:35:11,075 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9dfc]
+2025-09-24 01:35:11,076 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:11,076 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:11,077 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:11,078 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:11,079 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:11,079 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:11,080 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:11,080 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:11,081 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:11,083 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:11,084 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:11,084 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:11,085 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:11,085 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:11,086 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:11,086 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:11,087 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:12,049 - INFO - [DOWNLOAD_EDITAIS] [01:35:12] 🔍 Extraindo informações para o item 14…
+2025-09-24 01:35:12,071 - INFO - [DOWNLOAD_EDITAIS] [01:35:12] ❌ Erro inesperado na extração de informações do edital: Message: stale element reference: stale element not found
+2025-09-24 01:35:12,072 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:12,072 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:12,072 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:12,073 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:12,073 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:12,074 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:12,074 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:12,074 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:12,075 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:12,075 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x186734]
+2025-09-24 01:35:12,076 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1867c8]
+2025-09-24 01:35:12,076 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c6f74]
+2025-09-24 01:35:12,076 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c7a8b]
+2025-09-24 01:35:12,077 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bccf1]
+2025-09-24 01:35:12,078 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9e44]
+2025-09-24 01:35:12,078 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bcbf4]
+2025-09-24 01:35:12,078 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9fb4]
+2025-09-24 01:35:12,079 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:12,079 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:12,080 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:12,080 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:12,081 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:12,081 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:12,081 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:12,082 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:12,082 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:12,082 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:12,082 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:12,083 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:12,083 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:12,083 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:12,083 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:12,084 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:12,084 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:12,084 - INFO - [DOWNLOAD_EDITAIS] [01:35:12] ❌ Erro durante download: Message: stale element reference: stale element not found
+2025-09-24 01:35:12,085 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:12,086 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:12,088 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:12,088 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:12,089 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:12,090 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:12,090 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:12,091 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:12,091 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184f08]
+2025-09-24 01:35:12,091 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:12,092 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1869cc]
+2025-09-24 01:35:12,092 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20c654]
+2025-09-24 01:35:12,092 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9dfc]
+2025-09-24 01:35:12,092 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:12,093 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:12,093 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:12,093 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:12,093 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:12,094 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:12,096 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:12,097 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:12,097 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:12,098 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:12,098 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:12,098 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:12,098 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:12,099 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:12,099 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:12,099 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:12,100 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:13,082 - INFO - [DOWNLOAD_EDITAIS] [01:35:13] 🔍 Extraindo informações para o item 15…
+2025-09-24 01:35:13,158 - INFO - [DOWNLOAD_EDITAIS] [01:35:13] ❌ Erro inesperado na extração de informações do edital: Message: stale element reference: stale element not found
+2025-09-24 01:35:13,159 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:13,159 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:13,159 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:13,160 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:13,160 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:13,161 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:13,162 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:13,163 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:13,163 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:13,163 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x186734]
+2025-09-24 01:35:13,164 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1867c8]
+2025-09-24 01:35:13,164 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c6f74]
+2025-09-24 01:35:13,164 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c7a8b]
+2025-09-24 01:35:13,165 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bccf1]
+2025-09-24 01:35:13,165 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9e44]
+2025-09-24 01:35:13,165 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bcbf4]
+2025-09-24 01:35:13,166 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9fb4]
+2025-09-24 01:35:13,166 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:13,166 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:13,166 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:13,167 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:13,167 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:13,167 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:13,167 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:13,168 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:13,168 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:13,168 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:13,171 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:13,171 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:13,172 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:13,173 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:13,173 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:13,174 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:13,174 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:13,174 - INFO - [DOWNLOAD_EDITAIS] [01:35:13] ❌ Erro durante download: Message: stale element reference: stale element not found
+2025-09-24 01:35:13,174 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:13,175 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:13,175 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:13,176 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:13,177 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:13,180 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:13,181 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:13,181 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:13,181 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184f08]
+2025-09-24 01:35:13,182 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:13,182 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1869cc]
+2025-09-24 01:35:13,183 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20c654]
+2025-09-24 01:35:13,183 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9dfc]
+2025-09-24 01:35:13,183 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:13,183 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:13,184 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:13,184 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:13,184 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:13,184 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:13,185 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:13,187 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:13,188 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:13,188 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:13,189 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:13,189 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:13,189 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:13,189 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:13,190 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:13,190 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:13,190 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:14,171 - INFO - [DOWNLOAD_EDITAIS] [01:35:14] 🔍 Extraindo informações para o item 16…
+2025-09-24 01:35:14,192 - INFO - [DOWNLOAD_EDITAIS] [01:35:14] ❌ Erro inesperado na extração de informações do edital: Message: stale element reference: stale element not found
+2025-09-24 01:35:14,192 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:14,193 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:14,193 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:14,195 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:14,196 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:14,196 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:14,197 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:14,197 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:14,197 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:14,198 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x186734]
+2025-09-24 01:35:14,198 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1867c8]
+2025-09-24 01:35:14,198 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c6f74]
+2025-09-24 01:35:14,199 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c7a8b]
+2025-09-24 01:35:14,199 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bccf1]
+2025-09-24 01:35:14,199 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9e44]
+2025-09-24 01:35:14,200 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bcbf4]
+2025-09-24 01:35:14,200 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9fb4]
+2025-09-24 01:35:14,200 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:14,201 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:14,201 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:14,202 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:14,204 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:14,205 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:14,207 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:14,207 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:14,208 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:14,208 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:14,208 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:14,209 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:14,209 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:14,209 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:14,211 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:14,212 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:14,214 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:14,215 - INFO - [DOWNLOAD_EDITAIS] [01:35:14] ❌ Erro durante download: Message: stale element reference: stale element not found
+2025-09-24 01:35:14,215 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:14,215 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:14,215 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:14,216 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:14,216 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:14,216 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:14,216 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:14,217 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:14,217 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184f08]
+2025-09-24 01:35:14,217 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:14,218 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1869cc]
+2025-09-24 01:35:14,218 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20c654]
+2025-09-24 01:35:14,218 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9dfc]
+2025-09-24 01:35:14,219 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:14,221 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:14,222 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:14,222 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:14,223 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:14,223 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:14,223 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:14,224 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:14,224 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:14,224 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:14,225 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:14,225 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:14,225 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:14,226 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:14,226 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:14,227 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:14,227 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:15,213 - INFO - [DOWNLOAD_EDITAIS] [01:35:15] 🔍 Extraindo informações para o item 17…
+2025-09-24 01:35:15,309 - INFO - [DOWNLOAD_EDITAIS] [01:35:15] ❌ Erro inesperado na extração de informações do edital: Message: stale element reference: stale element not found
+2025-09-24 01:35:15,311 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:15,312 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:15,314 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:15,316 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:15,316 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:15,317 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:15,317 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:15,317 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:15,318 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:15,319 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x186734]
+2025-09-24 01:35:15,321 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1867c8]
+2025-09-24 01:35:15,322 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c6f74]
+2025-09-24 01:35:15,323 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1c7a8b]
+2025-09-24 01:35:15,324 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bccf1]
+2025-09-24 01:35:15,324 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9e44]
+2025-09-24 01:35:15,324 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bcbf4]
+2025-09-24 01:35:15,325 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9fb4]
+2025-09-24 01:35:15,325 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:15,325 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:15,325 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:15,328 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:15,330 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:15,331 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:15,332 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:15,333 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:15,333 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:15,333 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:15,334 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:15,335 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:15,345 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:15,347 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:15,349 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:15,350 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:15,350 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:15,374 - INFO - [DOWNLOAD_EDITAIS] [01:35:15] ❌ Erro durante download: Message: stale element reference: stale element not found
+2025-09-24 01:35:15,375 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+2025-09-24 01:35:15,376 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:15,378 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:15,379 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:15,379 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:15,380 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18f961]
+2025-09-24 01:35:15,380 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x18ea30]
+2025-09-24 01:35:15,383 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184e1c]
+2025-09-24 01:35:15,383 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x184f08]
+2025-09-24 01:35:15,384 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x183321]
+2025-09-24 01:35:15,385 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1869cc]
+2025-09-24 01:35:15,387 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20c654]
+2025-09-24 01:35:15,388 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9dfc]
+2025-09-24 01:35:15,390 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20b606]
+2025-09-24 01:35:15,391 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:15,392 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:15,393 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:15,395 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:15,397 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:15,397 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:15,398 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:15,399 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:15,399 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:15,400 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:15,400 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:15,400 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:15,400 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:15,403 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:15,406 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:15,407 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:16,378 - INFO - [DOWNLOAD_EDITAIS] [01:35:16] 🔍 Extraindo informações para o item 18…
+2025-09-24 01:35:16,440 - INFO - [DOWNLOAD_EDITAIS] [01:35:16] ❌ Erro inesperado na extração de informações do edital: Message: no such window: target window already closed
+2025-09-24 01:35:16,442 - INFO - [DOWNLOAD_EDITAIS] from unknown error: web view not found
+2025-09-24 01:35:16,444 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128)
+2025-09-24 01:35:16,446 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:16,447 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:16,447 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:16,448 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:16,448 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x15c19d]
+2025-09-24 01:35:16,448 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1f059e]
+2025-09-24 01:35:16,449 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20aef9]
+2025-09-24 01:35:16,450 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:16,450 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:16,451 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:16,454 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:16,456 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:16,457 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:16,457 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:16,458 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:16,458 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:16,458 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:16,461 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:16,462 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:16,463 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:16,465 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:16,466 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:16,470 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:16,472 - INFO - [DOWNLOAD_EDITAIS] [01:35:16] ❌ Erro durante download: Message: no such window: target window already closed
+2025-09-24 01:35:16,473 - INFO - [DOWNLOAD_EDITAIS] from unknown error: web view not found
+2025-09-24 01:35:16,474 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128)
+2025-09-24 01:35:16,475 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:16,480 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:16,481 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:16,482 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:16,482 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x15c19d]
+2025-09-24 01:35:16,482 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1f059e]
+2025-09-24 01:35:16,483 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20aef9]
+2025-09-24 01:35:16,483 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:16,485 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:16,489 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:16,490 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:16,490 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:16,491 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:16,491 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:16,492 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:16,495 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:16,497 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:16,498 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:16,499 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:16,499 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:16,500 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:16,500 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:16,503 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:17,450 - INFO - [DOWNLOAD_EDITAIS] [01:35:17] 🔍 Extraindo informações para o item 19…
+2025-09-24 01:35:17,459 - INFO - [DOWNLOAD_EDITAIS] [01:35:17] ❌ Erro inesperado na extração de informações do edital: Message: no such window: target window already closed
+2025-09-24 01:35:17,461 - INFO - [DOWNLOAD_EDITAIS] from unknown error: web view not found
+2025-09-24 01:35:17,462 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128)
+2025-09-24 01:35:17,463 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:17,464 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:17,464 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:17,465 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:17,465 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x15c19d]
+2025-09-24 01:35:17,466 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1f059e]
+2025-09-24 01:35:17,466 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20aef9]
+2025-09-24 01:35:17,466 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:17,467 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:17,467 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:17,469 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:17,471 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:17,471 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:17,472 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:17,472 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:17,473 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:17,473 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:17,474 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:17,474 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:17,474 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:17,476 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:17,478 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:17,480 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:17,481 - INFO - [DOWNLOAD_EDITAIS] [01:35:17] ❌ Erro durante download: Message: no such window: target window already closed
+2025-09-24 01:35:17,481 - INFO - [DOWNLOAD_EDITAIS] from unknown error: web view not found
+2025-09-24 01:35:17,482 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128)
+2025-09-24 01:35:17,482 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:17,483 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:17,483 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:17,484 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:17,485 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x15c19d]
+2025-09-24 01:35:17,485 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1f059e]
+2025-09-24 01:35:17,486 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20aef9]
+2025-09-24 01:35:17,487 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:17,489 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:17,489 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:17,490 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:17,490 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:17,490 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:17,491 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:17,491 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:17,491 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:17,492 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:17,492 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:17,493 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:17,494 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:17,495 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:17,496 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:17,496 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:18,465 - INFO - [DOWNLOAD_EDITAIS] [01:35:18] 🔍 Extraindo informações para o item 20…
+2025-09-24 01:35:18,489 - INFO - [DOWNLOAD_EDITAIS] [01:35:18] ❌ Erro inesperado na extração de informações do edital: Message: no such window: target window already closed
+2025-09-24 01:35:18,490 - INFO - [DOWNLOAD_EDITAIS] from unknown error: web view not found
+2025-09-24 01:35:18,491 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128)
+2025-09-24 01:35:18,494 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:18,496 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:18,497 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:18,498 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:18,499 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x15c19d]
+2025-09-24 01:35:18,500 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1f059e]
+2025-09-24 01:35:18,504 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20aef9]
+2025-09-24 01:35:18,506 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:18,506 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:18,507 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:18,507 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:18,508 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:18,509 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:18,511 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:18,513 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:18,513 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:18,514 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:18,515 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:18,515 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:18,516 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:18,517 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:18,519 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:18,521 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:18,523 - INFO - [DOWNLOAD_EDITAIS] [01:35:18] ❌ Erro durante download: Message: no such window: target window already closed
+2025-09-24 01:35:18,524 - INFO - [DOWNLOAD_EDITAIS] from unknown error: web view not found
+2025-09-24 01:35:18,524 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128)
+2025-09-24 01:35:18,525 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:18,526 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:18,527 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:18,527 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:18,529 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x15c19d]
+2025-09-24 01:35:18,530 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1f059e]
+2025-09-24 01:35:18,530 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20aef9]
+2025-09-24 01:35:18,530 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:18,530 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:18,531 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:18,531 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:18,531 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:18,532 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:18,532 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:18,532 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:18,533 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:18,533 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:18,534 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:18,537 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:18,539 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:18,540 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:18,540 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:18,541 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:19,503 - INFO - [DOWNLOAD_EDITAIS] [01:35:19] ⏭️ Página 1: 1 novos editais baixados.
+2025-09-24 01:35:19,503 - INFO - [DOWNLOAD_EDITAIS] [01:35:19] --- Iniciando ciclo para a Página 2 ---
+2025-09-24 01:35:19,504 - INFO - [DOWNLOAD_EDITAIS] [01:35:19] Navegando para a página de número 2...
+2025-09-24 01:35:19,506 - INFO - [DOWNLOAD_EDITAIS] [01:35:19] ❌ Erro ao tentar navegar para a página 2: Message: no such window: target window already closed
+2025-09-24 01:35:19,506 - INFO - [DOWNLOAD_EDITAIS] from unknown error: web view not found
+2025-09-24 01:35:19,507 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128)
+2025-09-24 01:35:19,507 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:19,507 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:19,508 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:19,512 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:19,514 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x15c19d]
+2025-09-24 01:35:19,514 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1f059e]
+2025-09-24 01:35:19,515 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20aef9]
+2025-09-24 01:35:19,516 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:19,517 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:19,519 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:19,519 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:19,520 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:19,521 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:19,522 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:19,523 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:19,523 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:19,524 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:19,525 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:19,527 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:19,528 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:19,529 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:19,530 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:19,531 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:19,532 - INFO - [DOWNLOAD_EDITAIS] [01:35:19] ❌ Erro ao salvar screenshot: Message: no such window: target window already closed
+2025-09-24 01:35:19,532 - INFO - [DOWNLOAD_EDITAIS] from unknown error: web view not found
+2025-09-24 01:35:19,533 - INFO - [DOWNLOAD_EDITAIS] (Session info: chrome=140.0.7339.128)
+2025-09-24 01:35:19,536 - INFO - [DOWNLOAD_EDITAIS] Stacktrace:
+2025-09-24 01:35:19,537 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c333+65459]
+2025-09-24 01:35:19,537 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x35c374+65524]
+2025-09-24 01:35:19,538 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x17d973]
+2025-09-24 01:35:19,539 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x15c19d]
+2025-09-24 01:35:19,539 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1f059e]
+2025-09-24 01:35:19,539 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x20aef9]
+2025-09-24 01:35:19,540 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1e9bf6]
+2025-09-24 01:35:19,540 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bb38e]
+2025-09-24 01:35:19,540 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0x1bc274]
+2025-09-24 01:35:19,541 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5deda3+2697763]
+2025-09-24 01:35:19,545 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x5d9ec7+2677575]
+2025-09-24 01:35:19,545 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x384194+228884]
+2025-09-24 01:35:19,546 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3749f8+165496]
+2025-09-24 01:35:19,547 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x37b18d+192013]
+2025-09-24 01:35:19,547 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x3647d8+99416]
+2025-09-24 01:35:19,547 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x364972+99826]
+2025-09-24 01:35:19,548 - INFO - [DOWNLOAD_EDITAIS] GetHandleVerifier [0x0x34ebea+10346]
+2025-09-24 01:35:19,548 - INFO - [DOWNLOAD_EDITAIS] BaseThreadInitThunk [0x0x76885d49+25]
+2025-09-24 01:35:19,548 - INFO - [DOWNLOAD_EDITAIS] RtlInitializeExceptionChain [0x0x771ad6db+107]
+2025-09-24 01:35:19,549 - INFO - [DOWNLOAD_EDITAIS] RtlGetAppContainerNamedObjectPath [0x0x771ad661+561]
+2025-09-24 01:35:19,549 - INFO - [DOWNLOAD_EDITAIS] (No symbol) [0x0]
+2025-09-24 01:35:19,549 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:21,754 - INFO - [DOWNLOAD_EDITAIS] [01:35:21] Navegador fechado.
+2025-09-24 01:35:21,756 - INFO - [DOWNLOAD_EDITAIS] [01:35:21]
+2025-09-24 01:35:21,756 - INFO - [DOWNLOAD_EDITAIS] [2/8] Atualizando livro razão com 1 novos editais...
+2025-09-24 01:35:21,756 - INFO - [DOWNLOAD_EDITAIS] [01:35:21] Atualizando livro razão com 1 novos editais...
+2025-09-24 01:35:21,956 - INFO - [DOWNLOAD_EDITAIS] [01:35:21] ✅ Livro razão atualizado com sucesso em C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\livro_razao.xlsx
+2025-09-24 01:35:21,956 - INFO - [DOWNLOAD_EDITAIS] [01:35:21]
+2025-09-24 01:35:21,957 - INFO - [DOWNLOAD_EDITAIS] [3/8] Descompactando arquivos...
+2025-09-24 01:35:21,962 - INFO - [DOWNLOAD_EDITAIS] [01:35:21]
+2025-09-24 01:35:21,963 - INFO - [DOWNLOAD_EDITAIS] [4/8] Extraindo e processando PDFs...
+2025-09-24 01:35:21,975 - INFO - [DOWNLOAD_EDITAIS] [01:35:21] ✅ Copiado: ABA_U_120060_E_901092025.pdf
+2025-09-24 01:35:21,993 - INFO - [DOWNLOAD_EDITAIS] [01:35:21] ✅ Copiado: U_102158_E_900352025_02-10-2025_09h00m.pdf
+2025-09-24 01:35:22,000 - INFO - [DOWNLOAD_EDITAIS] [01:35:21] ✅ Copiado: U_153036_E_900192025.pdf
+2025-09-24 01:35:22,012 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_153176_E_900162025_25-09-2025_09h00m.pdf
+2025-09-24 01:35:22,023 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_154044_E_900302025_02-10-2025_11h00m.pdf
+2025-09-24 01:35:22,032 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_154840_E_900022025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:22,048 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_158125_E_905582025_02-10-2025_09h00m.pdf
+2025-09-24 01:35:22,064 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_158154_E_906112025_25-09-2025_09h00m.pdf
+2025-09-24 01:35:22,078 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_160110_E_900072025_30-09-2025_09h00m.pdf
+2025-09-24 01:35:22,088 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_160402_E_900102024.pdf
+2025-09-24 01:35:22,094 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_180224_E_900302025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:22,098 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_380195_E_900232025_25-09-2025_09h00m.pdf
+2025-09-24 01:35:22,103 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_450432_E_900292025_23-09-2025_10h00m.pdf
+2025-09-24 01:35:22,112 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_453714_E_900322025.pdf
+2025-09-24 01:35:22,116 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_462264_E_900062025_30-09-2025_10h00m.pdf
+2025-09-24 01:35:22,121 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_495130_E_900882025.pdf
+2025-09-24 01:35:22,126 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_925543_E_900342025_15-10-2025_14h00m.pdf
+2025-09-24 01:35:22,130 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_925814_E_900582025_25-09-2025_13h30m.pdf
+2025-09-24 01:35:22,135 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_925872_E_900132025_24-09-2025_08h00m.pdf
+2025-09-24 01:35:22,139 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_925989_E_900092025_30-09-2025_10h00m.pdf
+2025-09-24 01:35:22,143 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_926002_E_900292025_26-09-2025_10h00m.pdf
+2025-09-24 01:35:22,148 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_926092_E_900222025.pdf
+2025-09-24 01:35:22,152 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_926475_E_900072025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:22,156 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_926590_E_900012025_30-09-2025_09h00m.pdf
+2025-09-24 01:35:22,160 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_926724_E_900012025_02-10-2025_10h00m.pdf
+2025-09-24 01:35:22,164 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_926768_E_900042025_02-10-2025_09h00m.pdf
+2025-09-24 01:35:22,168 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_927928_E_900042025_30-09-2025_10h00m.pdf
+2025-09-24 01:35:22,172 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_928285_E_901112025_30-09-2025_08h40m.pdf
+2025-09-24 01:35:22,175 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_928529_E_900012025_30-09-2025_09h00m.pdf
+2025-09-24 01:35:22,179 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_929472_E_901112025_29-09-2025_10h30m.pdf
+2025-09-24 01:35:22,182 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_929615_E_900032025_01-10-2025_10h00m.pdf
+2025-09-24 01:35:22,187 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_930180_E_900732025_03-10-2025_09h00m.pdf
+2025-09-24 01:35:22,193 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_980431_E_900222025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:22,196 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_980489_E_900132025_30-09-2025_09h00m.pdf
+2025-09-24 01:35:22,201 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_983431_E_900252025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:22,206 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_984445_E_901092025.pdf
+2025-09-24 01:35:22,212 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_985015_E_900662025.pdf
+2025-09-24 01:35:22,219 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_985499_900972025.pdf
+2025-09-24 01:35:22,222 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_985909_E_900722025_30-09-2025_10h00m.pdf
+2025-09-24 01:35:22,226 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_986205_E_900602025_30-09-2025_08h30m.pdf
+2025-09-24 01:35:22,232 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_986291_E_992222025.pdf
+2025-09-24 01:35:22,239 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_986475_E_900542025_29-09-2025_09h30m.pdf
+2025-09-24 01:35:22,244 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_986563_E_900672025_08-10-2025_09h00m.pdf
+2025-09-24 01:35:22,249 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_987459_E_900512025.pdf
+2025-09-24 01:35:22,256 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_987493_E_901152025.pdf
+2025-09-24 01:35:22,263 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_987493_E_901152025_06-10-2025_09h00m.pdf
+2025-09-24 01:35:22,268 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_987805_E_900532025.pdf
+2025-09-24 01:35:22,273 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_988881_E_900542025.pdf
+2025-09-24 01:35:22,278 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_989571_E_900522025_01-10-2025_09h00m.pdf
+2025-09-24 01:35:22,281 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_989859_E_900262025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:22,287 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Copiado: U_989983_E_900572025.pdf
+2025-09-24 01:35:22,287 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] 🎉 51 PDFs movidos
+2025-09-24 01:35:22,288 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] Encontrados 51 arquivos PDF para processar:
+2025-09-24 01:35:22,288 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - ABA_U_120060_E_901092025.pdf
+2025-09-24 01:35:22,288 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_102158_E_900352025_02-10-2025_09h00m.pdf
+2025-09-24 01:35:22,289 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_153036_E_900192025.pdf
+2025-09-24 01:35:22,289 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_153176_E_900162025_25-09-2025_09h00m.pdf
+2025-09-24 01:35:22,289 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_154044_E_900302025_02-10-2025_11h00m.pdf
+2025-09-24 01:35:22,290 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_154840_E_900022025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:22,290 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_158125_E_905582025_02-10-2025_09h00m.pdf
+2025-09-24 01:35:22,290 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_158154_E_906112025_25-09-2025_09h00m.pdf
+2025-09-24 01:35:22,291 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_160110_E_900072025_30-09-2025_09h00m.pdf
+2025-09-24 01:35:22,292 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_160402_E_900102024.pdf
+2025-09-24 01:35:22,293 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_180224_E_900302025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:22,293 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_380195_E_900232025_25-09-2025_09h00m.pdf
+2025-09-24 01:35:22,294 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_450432_E_900292025_23-09-2025_10h00m.pdf
+2025-09-24 01:35:22,294 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_453714_E_900322025.pdf
+2025-09-24 01:35:22,295 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_462264_E_900062025_30-09-2025_10h00m.pdf
+2025-09-24 01:35:22,295 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_495130_E_900882025.pdf
+2025-09-24 01:35:22,296 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_925543_E_900342025_15-10-2025_14h00m.pdf
+2025-09-24 01:35:22,296 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_925814_E_900582025_25-09-2025_13h30m.pdf
+2025-09-24 01:35:22,296 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_925872_E_900132025_24-09-2025_08h00m.pdf
+2025-09-24 01:35:22,297 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_925989_E_900092025_30-09-2025_10h00m.pdf
+2025-09-24 01:35:22,297 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_926002_E_900292025_26-09-2025_10h00m.pdf
+2025-09-24 01:35:22,297 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_926092_E_900222025.pdf
+2025-09-24 01:35:22,297 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_926475_E_900072025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:22,298 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_926590_E_900012025_30-09-2025_09h00m.pdf
+2025-09-24 01:35:22,298 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_926724_E_900012025_02-10-2025_10h00m.pdf
+2025-09-24 01:35:22,298 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_926768_E_900042025_02-10-2025_09h00m.pdf
+2025-09-24 01:35:22,299 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_927928_E_900042025_30-09-2025_10h00m.pdf
+2025-09-24 01:35:22,300 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_928285_E_901112025_30-09-2025_08h40m.pdf
+2025-09-24 01:35:22,301 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_928529_E_900012025_30-09-2025_09h00m.pdf
+2025-09-24 01:35:22,302 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_929472_E_901112025_29-09-2025_10h30m.pdf
+2025-09-24 01:35:22,302 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_929615_E_900032025_01-10-2025_10h00m.pdf
+2025-09-24 01:35:22,303 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_930180_E_900732025_03-10-2025_09h00m.pdf
+2025-09-24 01:35:22,303 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_980431_E_900222025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:22,303 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_980489_E_900132025_30-09-2025_09h00m.pdf
+2025-09-24 01:35:22,304 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_983431_E_900252025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:22,304 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_984445_E_901092025.pdf
+2025-09-24 01:35:22,304 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_985015_E_900662025.pdf
+2025-09-24 01:35:22,305 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_985499_900972025.pdf
+2025-09-24 01:35:22,305 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_985909_E_900722025_30-09-2025_10h00m.pdf
+2025-09-24 01:35:22,305 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_986205_E_900602025_30-09-2025_08h30m.pdf
+2025-09-24 01:35:22,306 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_986291_E_992222025.pdf
+2025-09-24 01:35:22,306 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_986475_E_900542025_29-09-2025_09h30m.pdf
+2025-09-24 01:35:22,306 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_986563_E_900672025_08-10-2025_09h00m.pdf
+2025-09-24 01:35:22,306 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_987459_E_900512025.pdf
+2025-09-24 01:35:22,307 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_987493_E_901152025.pdf
+2025-09-24 01:35:22,307 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_987493_E_901152025_06-10-2025_09h00m.pdf
+2025-09-24 01:35:22,308 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_987805_E_900532025.pdf
+2025-09-24 01:35:22,308 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_988881_E_900542025.pdf
+2025-09-24 01:35:22,309 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_989571_E_900522025_01-10-2025_09h00m.pdf
+2025-09-24 01:35:22,310 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_989859_E_900262025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:22,310 - INFO - [DOWNLOAD_EDITAIS] [01:35:22]   - U_989983_E_900572025.pdf
+2025-09-24 01:35:22,311 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ------------------------------------------------------------
+2025-09-24 01:35:22,311 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\ABA_U_120060_E_901092025.pdf
+2025-09-24 01:35:22,406 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Processado: ABA_U_120060_E_901092025.pdf → ABA_U_120060_E_901092025.xlsx (4 itens)
+2025-09-24 01:35:22,407 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_102158_E_900352025_02-10-2025_09h00m.pdf
+2025-09-24 01:35:22,478 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Processado: U_102158_E_900352025_02-10-2025_09h00m.pdf → U_102158_E_900352025_02-10-2025_09h00m.xlsx (12 itens)
+2025-09-24 01:35:22,478 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_153036_E_900192025.pdf
+2025-09-24 01:35:22,626 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Processado: U_153036_E_900192025.pdf → U_153036_E_900192025.xlsx (61 itens)
+2025-09-24 01:35:22,627 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_153176_E_900162025_25-09-2025_09h00m.pdf
+2025-09-24 01:35:22,763 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Processado: U_153176_E_900162025_25-09-2025_09h00m.pdf → U_153176_E_900162025_25-09-2025_09h00m.xlsx (43 itens)
+2025-09-24 01:35:22,763 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_154044_E_900302025_02-10-2025_11h00m.pdf
+2025-09-24 01:35:22,868 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] ✅ Processado: U_154044_E_900302025_02-10-2025_11h00m.pdf → U_154044_E_900302025_02-10-2025_11h00m.xlsx (25 itens)
+2025-09-24 01:35:22,869 - INFO - [DOWNLOAD_EDITAIS] [01:35:22] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_154840_E_900022025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:23,059 - INFO - [DOWNLOAD_EDITAIS] [01:35:23] ✅ Processado: U_154840_E_900022025_29-09-2025_09h00m.pdf → U_154840_E_900022025_29-09-2025_09h00m.xlsx (72 itens)
+2025-09-24 01:35:23,060 - INFO - [DOWNLOAD_EDITAIS] [01:35:23] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_158125_E_905582025_02-10-2025_09h00m.pdf
+2025-09-24 01:35:23,206 - INFO - [DOWNLOAD_EDITAIS] [01:35:23] ✅ Processado: U_158125_E_905582025_02-10-2025_09h00m.pdf → U_158125_E_905582025_02-10-2025_09h00m.xlsx (76 itens)
+2025-09-24 01:35:23,211 - INFO - [DOWNLOAD_EDITAIS] [01:35:23] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_158154_E_906112025_25-09-2025_09h00m.pdf
+2025-09-24 01:35:23,313 - INFO - [DOWNLOAD_EDITAIS] [01:35:23] ✅ Processado: U_158154_E_906112025_25-09-2025_09h00m.pdf → U_158154_E_906112025_25-09-2025_09h00m.xlsx (42 itens)
+2025-09-24 01:35:23,314 - INFO - [DOWNLOAD_EDITAIS] [01:35:23] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_160110_E_900072025_30-09-2025_09h00m.pdf
+2025-09-24 01:35:23,412 - INFO - [DOWNLOAD_EDITAIS] [01:35:23] ✅ Processado: U_160110_E_900072025_30-09-2025_09h00m.pdf → U_160110_E_900072025_30-09-2025_09h00m.xlsx (41 itens)
+2025-09-24 01:35:23,412 - INFO - [DOWNLOAD_EDITAIS] [01:35:23] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_160402_E_900102024.pdf
+2025-09-24 01:35:23,703 - INFO - [DOWNLOAD_EDITAIS] [01:35:23] ✅ Processado: U_160402_E_900102024.pdf → U_160402_E_900102024.xlsx (100 itens)
+2025-09-24 01:35:23,704 - INFO - [DOWNLOAD_EDITAIS] [01:35:23] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_180224_E_900302025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:23,889 - INFO - [DOWNLOAD_EDITAIS] [01:35:23] ✅ Processado: U_180224_E_900302025_29-09-2025_09h00m.pdf → U_180224_E_900302025_29-09-2025_09h00m.xlsx (70 itens)
+2025-09-24 01:35:23,890 - INFO - [DOWNLOAD_EDITAIS] [01:35:23] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_380195_E_900232025_25-09-2025_09h00m.pdf
+2025-09-24 01:35:24,086 - INFO - [DOWNLOAD_EDITAIS] [01:35:24] ✅ Processado: U_380195_E_900232025_25-09-2025_09h00m.pdf → U_380195_E_900232025_25-09-2025_09h00m.xlsx (71 itens)
+2025-09-24 01:35:24,087 - INFO - [DOWNLOAD_EDITAIS] [01:35:24] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_450432_E_900292025_23-09-2025_10h00m.pdf
+2025-09-24 01:35:24,138 - INFO - [DOWNLOAD_EDITAIS] [01:35:24] ✅ Processado: U_450432_E_900292025_23-09-2025_10h00m.pdf → U_450432_E_900292025_23-09-2025_10h00m.xlsx (5 itens)
+2025-09-24 01:35:24,139 - INFO - [DOWNLOAD_EDITAIS] [01:35:24] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_453714_E_900322025.pdf
+2025-09-24 01:35:24,277 - INFO - [DOWNLOAD_EDITAIS] [01:35:24] ✅ Processado: U_453714_E_900322025.pdf → U_453714_E_900322025.xlsx (24 itens)
+2025-09-24 01:35:24,278 - INFO - [DOWNLOAD_EDITAIS] [01:35:24] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_462264_E_900062025_30-09-2025_10h00m.pdf
+2025-09-24 01:35:24,393 - INFO - [DOWNLOAD_EDITAIS] [01:35:24] ✅ Processado: U_462264_E_900062025_30-09-2025_10h00m.pdf → U_462264_E_900062025_30-09-2025_10h00m.xlsx (5 itens)
+2025-09-24 01:35:24,394 - INFO - [DOWNLOAD_EDITAIS] [01:35:24] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_495130_E_900882025.pdf
+2025-09-24 01:35:24,506 - INFO - [DOWNLOAD_EDITAIS] [01:35:24] ✅ Processado: U_495130_E_900882025.pdf → U_495130_E_900882025.xlsx (1 itens)
+2025-09-24 01:35:24,508 - INFO - [DOWNLOAD_EDITAIS] [01:35:24] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_925543_E_900342025_15-10-2025_14h00m.pdf
+2025-09-24 01:35:24,746 - INFO - [DOWNLOAD_EDITAIS] [01:35:24] ✅ Processado: U_925543_E_900342025_15-10-2025_14h00m.pdf → U_925543_E_900342025_15-10-2025_14h00m.xlsx (71 itens)
+2025-09-24 01:35:24,747 - INFO - [DOWNLOAD_EDITAIS] [01:35:24] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_925814_E_900582025_25-09-2025_13h30m.pdf
+2025-09-24 01:35:24,894 - INFO - [DOWNLOAD_EDITAIS] [01:35:24] ✅ Processado: U_925814_E_900582025_25-09-2025_13h30m.pdf → U_925814_E_900582025_25-09-2025_13h30m.xlsx (25 itens)
+2025-09-24 01:35:24,895 - INFO - [DOWNLOAD_EDITAIS] [01:35:24] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_925872_E_900132025_24-09-2025_08h00m.pdf
+2025-09-24 01:35:25,023 - INFO - [DOWNLOAD_EDITAIS] [01:35:25] ✅ Processado: U_925872_E_900132025_24-09-2025_08h00m.pdf → U_925872_E_900132025_24-09-2025_08h00m.xlsx (8 itens)
+2025-09-24 01:35:25,024 - INFO - [DOWNLOAD_EDITAIS] [01:35:25] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_925989_E_900092025_30-09-2025_10h00m.pdf
+2025-09-24 01:35:25,091 - INFO - [DOWNLOAD_EDITAIS] [01:35:25] ✅ Processado: U_925989_E_900092025_30-09-2025_10h00m.pdf → U_925989_E_900092025_30-09-2025_10h00m.xlsx (5 itens)
+2025-09-24 01:35:25,092 - INFO - [DOWNLOAD_EDITAIS] [01:35:25] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_926002_E_900292025_26-09-2025_10h00m.pdf
+2025-09-24 01:35:25,538 - INFO - [DOWNLOAD_EDITAIS] [01:35:25] ✅ Processado: U_926002_E_900292025_26-09-2025_10h00m.pdf → U_926002_E_900292025_26-09-2025_10h00m.xlsx (184 itens)
+2025-09-24 01:35:25,538 - INFO - [DOWNLOAD_EDITAIS] [01:35:25] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_926092_E_900222025.pdf
+2025-09-24 01:35:25,628 - INFO - [DOWNLOAD_EDITAIS] [01:35:25] ✅ Processado: U_926092_E_900222025.pdf → U_926092_E_900222025.xlsx (7 itens)
+2025-09-24 01:35:25,629 - INFO - [DOWNLOAD_EDITAIS] [01:35:25] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_926475_E_900072025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:25,722 - INFO - [DOWNLOAD_EDITAIS] [01:35:25] ✅ Processado: U_926475_E_900072025_29-09-2025_09h00m.pdf → U_926475_E_900072025_29-09-2025_09h00m.xlsx (2 itens)
+2025-09-24 01:35:25,723 - INFO - [DOWNLOAD_EDITAIS] [01:35:25] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_926590_E_900012025_30-09-2025_09h00m.pdf
+2025-09-24 01:35:25,826 - INFO - [DOWNLOAD_EDITAIS] [01:35:25] ✅ Processado: U_926590_E_900012025_30-09-2025_09h00m.pdf → U_926590_E_900012025_30-09-2025_09h00m.xlsx (4 itens)
+2025-09-24 01:35:25,827 - INFO - [DOWNLOAD_EDITAIS] [01:35:25] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_926724_E_900012025_02-10-2025_10h00m.pdf
+2025-09-24 01:35:25,944 - INFO - [DOWNLOAD_EDITAIS] [01:35:25] ✅ Processado: U_926724_E_900012025_02-10-2025_10h00m.pdf → U_926724_E_900012025_02-10-2025_10h00m.xlsx (10 itens)
+2025-09-24 01:35:25,945 - INFO - [DOWNLOAD_EDITAIS] [01:35:25] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_926768_E_900042025_02-10-2025_09h00m.pdf
+2025-09-24 01:35:26,097 - INFO - [DOWNLOAD_EDITAIS] [01:35:26] ✅ Processado: U_926768_E_900042025_02-10-2025_09h00m.pdf → U_926768_E_900042025_02-10-2025_09h00m.xlsx (40 itens)
+2025-09-24 01:35:26,098 - INFO - [DOWNLOAD_EDITAIS] [01:35:26] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_927928_E_900042025_30-09-2025_10h00m.pdf
+2025-09-24 01:35:26,188 - INFO - [DOWNLOAD_EDITAIS] [01:35:26] ✅ Processado: U_927928_E_900042025_30-09-2025_10h00m.pdf → U_927928_E_900042025_30-09-2025_10h00m.xlsx (10 itens)
+2025-09-24 01:35:26,188 - INFO - [DOWNLOAD_EDITAIS] [01:35:26] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_928285_E_901112025_30-09-2025_08h40m.pdf
+2025-09-24 01:35:26,255 - INFO - [DOWNLOAD_EDITAIS] [01:35:26] ✅ Processado: U_928285_E_901112025_30-09-2025_08h40m.pdf → U_928285_E_901112025_30-09-2025_08h40m.xlsx (1 itens)
+2025-09-24 01:35:26,255 - INFO - [DOWNLOAD_EDITAIS] [01:35:26] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_928529_E_900012025_30-09-2025_09h00m.pdf
+2025-09-24 01:35:26,397 - INFO - [DOWNLOAD_EDITAIS] [01:35:26] ✅ Processado: U_928529_E_900012025_30-09-2025_09h00m.pdf → U_928529_E_900012025_30-09-2025_09h00m.xlsx (47 itens)
+2025-09-24 01:35:26,399 - INFO - [DOWNLOAD_EDITAIS] [01:35:26] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_929472_E_901112025_29-09-2025_10h30m.pdf
+2025-09-24 01:35:26,461 - INFO - [DOWNLOAD_EDITAIS] [01:35:26] ✅ Processado: U_929472_E_901112025_29-09-2025_10h30m.pdf → U_929472_E_901112025_29-09-2025_10h30m.xlsx (17 itens)
+2025-09-24 01:35:26,462 - INFO - [DOWNLOAD_EDITAIS] [01:35:26] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_929615_E_900032025_01-10-2025_10h00m.pdf
+2025-09-24 01:35:26,527 - INFO - [DOWNLOAD_EDITAIS] [01:35:26] ✅ Processado: U_929615_E_900032025_01-10-2025_10h00m.pdf → U_929615_E_900032025_01-10-2025_10h00m.xlsx (9 itens)
+2025-09-24 01:35:26,528 - INFO - [DOWNLOAD_EDITAIS] [01:35:26] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_930180_E_900732025_03-10-2025_09h00m.pdf
+2025-09-24 01:35:26,579 - INFO - [DOWNLOAD_EDITAIS] [01:35:26] ✅ Processado: U_930180_E_900732025_03-10-2025_09h00m.pdf → U_930180_E_900732025_03-10-2025_09h00m.xlsx (21 itens)
+2025-09-24 01:35:26,579 - INFO - [DOWNLOAD_EDITAIS] [01:35:26] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_980431_E_900222025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:27,892 - INFO - [DOWNLOAD_EDITAIS] [01:35:27] ✅ Processado: U_980431_E_900222025_29-09-2025_09h00m.pdf → U_980431_E_900222025_29-09-2025_09h00m.xlsx (852 itens)
+2025-09-24 01:35:27,892 - INFO - [DOWNLOAD_EDITAIS] [01:35:27] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_980489_E_900132025_30-09-2025_09h00m.pdf
+2025-09-24 01:35:28,054 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] ✅ Processado: U_980489_E_900132025_30-09-2025_09h00m.pdf → U_980489_E_900132025_30-09-2025_09h00m.xlsx (112 itens)
+2025-09-24 01:35:28,054 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_983431_E_900252025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:28,131 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] ✅ Processado: U_983431_E_900252025_29-09-2025_09h00m.pdf → U_983431_E_900252025_29-09-2025_09h00m.xlsx (47 itens)
+2025-09-24 01:35:28,131 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_984445_E_901092025.pdf
+2025-09-24 01:35:28,171 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] ✅ Processado: U_984445_E_901092025.pdf → U_984445_E_901092025.xlsx (13 itens)
+2025-09-24 01:35:28,171 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_985015_E_900662025.pdf
+2025-09-24 01:35:28,247 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] ✅ Processado: U_985015_E_900662025.pdf → U_985015_E_900662025.xlsx (21 itens)
+2025-09-24 01:35:28,248 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_985499_900972025.pdf
+2025-09-24 01:35:28,320 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] ✅ Processado: U_985499_900972025.pdf → U_985499_900972025.xlsx (33 itens)
+2025-09-24 01:35:28,321 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_985909_E_900722025_30-09-2025_10h00m.pdf
+2025-09-24 01:35:28,368 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] ✅ Processado: U_985909_E_900722025_30-09-2025_10h00m.pdf → U_985909_E_900722025_30-09-2025_10h00m.xlsx (5 itens)
+2025-09-24 01:35:28,368 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_986205_E_900602025_30-09-2025_08h30m.pdf
+2025-09-24 01:35:28,403 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] ✅ Processado: U_986205_E_900602025_30-09-2025_08h30m.pdf → U_986205_E_900602025_30-09-2025_08h30m.xlsx (8 itens)
+2025-09-24 01:35:28,404 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_986291_E_992222025.pdf
+2025-09-24 01:35:28,446 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] ✅ Processado: U_986291_E_992222025.pdf → U_986291_E_992222025.xlsx (5 itens)
+2025-09-24 01:35:28,446 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_986475_E_900542025_29-09-2025_09h30m.pdf
+2025-09-24 01:35:28,528 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] ✅ Processado: U_986475_E_900542025_29-09-2025_09h30m.pdf → U_986475_E_900542025_29-09-2025_09h30m.xlsx (1 itens)
+2025-09-24 01:35:28,529 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_986563_E_900672025_08-10-2025_09h00m.pdf
+2025-09-24 01:35:28,688 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] ✅ Processado: U_986563_E_900672025_08-10-2025_09h00m.pdf → U_986563_E_900672025_08-10-2025_09h00m.xlsx (35 itens)
+2025-09-24 01:35:28,688 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_987459_E_900512025.pdf
+2025-09-24 01:35:28,816 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] ✅ Processado: U_987459_E_900512025.pdf → U_987459_E_900512025.xlsx (24 itens)
+2025-09-24 01:35:28,816 - INFO - [DOWNLOAD_EDITAIS] [01:35:28] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_987493_E_901152025.pdf
+2025-09-24 01:35:29,059 - INFO - [DOWNLOAD_EDITAIS] [01:35:29] ✅ Processado: U_987493_E_901152025.pdf → U_987493_E_901152025.xlsx (77 itens)
+2025-09-24 01:35:29,059 - INFO - [DOWNLOAD_EDITAIS] [01:35:29] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_987493_E_901152025_06-10-2025_09h00m.pdf
+2025-09-24 01:35:29,183 - INFO - [DOWNLOAD_EDITAIS] [01:35:29] ✅ Processado: U_987493_E_901152025_06-10-2025_09h00m.pdf → U_987493_E_901152025_06-10-2025_09h00m.xlsx (77 itens)
+2025-09-24 01:35:29,184 - INFO - [DOWNLOAD_EDITAIS] [01:35:29] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_987805_E_900532025.pdf
+2025-09-24 01:35:29,251 - INFO - [DOWNLOAD_EDITAIS] [01:35:29] ✅ Processado: U_987805_E_900532025.pdf → U_987805_E_900532025.xlsx (12 itens)
+2025-09-24 01:35:29,252 - INFO - [DOWNLOAD_EDITAIS] [01:35:29] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_988881_E_900542025.pdf
+2025-09-24 01:35:29,288 - INFO - [DOWNLOAD_EDITAIS] [01:35:29] ✅ Processado: U_988881_E_900542025.pdf → U_988881_E_900542025.xlsx (5 itens)
+2025-09-24 01:35:29,289 - INFO - [DOWNLOAD_EDITAIS] [01:35:29] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_989571_E_900522025_01-10-2025_09h00m.pdf
+2025-09-24 01:35:29,377 - INFO - [DOWNLOAD_EDITAIS] [01:35:29] ✅ Processado: U_989571_E_900522025_01-10-2025_09h00m.pdf → U_989571_E_900522025_01-10-2025_09h00m.xlsx (69 itens)
+2025-09-24 01:35:29,377 - INFO - [DOWNLOAD_EDITAIS] [01:35:29] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_989859_E_900262025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:29,829 - INFO - [DOWNLOAD_EDITAIS] [01:35:29] ✅ Processado: U_989859_E_900262025_29-09-2025_09h00m.pdf → U_989859_E_900262025_29-09-2025_09h00m.xlsx (196 itens)
+2025-09-24 01:35:29,830 - INFO - [DOWNLOAD_EDITAIS] [01:35:29] Processando: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_989983_E_900572025.pdf
+2025-09-24 01:35:30,007 - INFO - [DOWNLOAD_EDITAIS] [01:35:30] ✅ Processado: U_989983_E_900572025.pdf → U_989983_E_900572025.xlsx (42 itens)
+2025-09-24 01:35:30,007 - INFO - [DOWNLOAD_EDITAIS] [01:35:30]
+2025-09-24 01:35:30,008 - INFO - [DOWNLOAD_EDITAIS] Processamento concluído! Arquivos salvos em: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba
+2025-09-24 01:35:30,009 - INFO - [DOWNLOAD_EDITAIS] [01:35:30]
+2025-09-24 01:35:30,010 - INFO - [DOWNLOAD_EDITAIS] [5/8] Consolidando itens no summary.xlsx...
+2025-09-24 01:35:31,213 - INFO - [DOWNLOAD_EDITAIS] [01:35:31] ✅ Master Excel salvo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\summary.xlsx
+2025-09-24 01:35:31,214 - INFO - [DOWNLOAD_EDITAIS] [01:35:31] [6/8] Filtrando itens relevantes para o master.xlsx...
+2025-09-24 01:35:31,215 - INFO - [DOWNLOAD_EDITAIS] [01:35:31] Iniciando filtragem de itens para a planilha master...
+2025-09-24 01:35:31,386 - INFO - [DOWNLOAD_EDITAIS] [01:35:31] Planilha summary carregada: 2747 linhas.
+2025-09-24 01:35:31,627 - INFO - [DOWNLOAD_EDITAIS] [01:35:31] Itens filtrados: 243 de 2747 totais.
+2025-09-24 01:35:31,665 - INFO - [DOWNLOAD_EDITAIS] [01:35:31] Planilha master carregada: 335 linhas existentes.
+2025-09-24 01:35:31,769 - INFO - [DOWNLOAD_EDITAIS] [01:35:31] ✅ Master atualizada salva: 578 linhas totais. Novos itens adicionados: 243.
+2025-09-24 01:35:31,770 - INFO - [DOWNLOAD_EDITAIS] [01:35:31] [7/8] Limpando arquivos temporários...
+2025-09-24 01:35:31,770 - INFO - [DOWNLOAD_EDITAIS] Limpando a raiz do diretório: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS
+2025-09-24 01:35:31,771 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\ABA_U_120060_E_901092025.pdf
+2025-09-24 01:35:31,771 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_102158_E_900352025_02-10-2025_09h00m.pdf
+2025-09-24 01:35:31,772 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_153036_E_900192025.pdf
+2025-09-24 01:35:31,772 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_153176_E_900162025_25-09-2025_09h00m.pdf
+2025-09-24 01:35:31,773 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_154044_E_900302025_02-10-2025_11h00m.pdf
+2025-09-24 01:35:31,774 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_154840_E_900022025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:31,776 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_158125_E_905582025_02-10-2025_09h00m.pdf
+2025-09-24 01:35:31,776 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_158154_E_906112025_25-09-2025_09h00m.pdf
+2025-09-24 01:35:31,777 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_160110_E_900072025_30-09-2025_09h00m.pdf
+2025-09-24 01:35:31,778 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_160402_E_900102024.pdf
+2025-09-24 01:35:31,778 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_180224_E_900302025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:31,779 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_380195_E_900232025_25-09-2025_09h00m.pdf
+2025-09-24 01:35:31,779 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_450432_E_900292025_23-09-2025_10h00m.pdf
+2025-09-24 01:35:31,785 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_453714_E_900322025.pdf
+2025-09-24 01:35:31,786 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_462264_E_900062025_30-09-2025_10h00m.pdf
+2025-09-24 01:35:31,787 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_495130_E_900882025.pdf
+2025-09-24 01:35:31,788 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_925543_E_900342025_15-10-2025_14h00m.pdf
+2025-09-24 01:35:31,788 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_925814_E_900582025_25-09-2025_13h30m.pdf
+2025-09-24 01:35:31,792 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_925872_E_900132025_24-09-2025_08h00m.pdf
+2025-09-24 01:35:31,793 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_925989_E_900092025_30-09-2025_10h00m.pdf
+2025-09-24 01:35:31,793 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_926002_E_900292025_26-09-2025_10h00m.pdf
+2025-09-24 01:35:31,793 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_926092_E_900222025.pdf
+2025-09-24 01:35:31,794 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_926475_E_900072025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:31,794 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_926590_E_900012025_30-09-2025_09h00m.pdf
+2025-09-24 01:35:31,795 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_926724_E_900012025_02-10-2025_10h00m.pdf
+2025-09-24 01:35:31,796 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_926768_E_900042025_02-10-2025_09h00m.pdf
+2025-09-24 01:35:31,796 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_927928_E_900042025_30-09-2025_10h00m.pdf
+2025-09-24 01:35:31,797 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_928285_E_901112025_30-09-2025_08h40m.pdf
+2025-09-24 01:35:31,800 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_928529_E_900012025_30-09-2025_09h00m.pdf
+2025-09-24 01:35:31,802 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_929472_E_901112025_29-09-2025_10h30m.pdf
+2025-09-24 01:35:31,804 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_929615_E_900032025_01-10-2025_10h00m.pdf
+2025-09-24 01:35:31,804 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_930180_E_900732025_03-10-2025_09h00m.pdf
+2025-09-24 01:35:31,807 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_980431_E_900222025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:31,808 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_980489_E_900132025_30-09-2025_09h00m.pdf
+2025-09-24 01:35:31,809 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_983431_E_900252025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:31,810 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_984445_E_901092025.pdf
+2025-09-24 01:35:31,810 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_985015_E_900662025.pdf
+2025-09-24 01:35:31,810 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_985499_900972025.pdf
+2025-09-24 01:35:31,811 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_985909_E_900722025_30-09-2025_10h00m.pdf
+2025-09-24 01:35:31,812 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_986205_E_900602025_30-09-2025_08h30m.pdf
+2025-09-24 01:35:31,812 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_986291_E_992222025.pdf
+2025-09-24 01:35:31,813 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_986475_E_900542025_29-09-2025_09h30m.pdf
+2025-09-24 01:35:31,815 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_986563_E_900672025_08-10-2025_09h00m.pdf
+2025-09-24 01:35:31,816 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_987459_E_900512025.pdf
+2025-09-24 01:35:31,816 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_987493_E_901152025.pdf
+2025-09-24 01:35:31,816 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_987493_E_901152025_06-10-2025_09h00m.pdf
+2025-09-24 01:35:31,817 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_987805_E_900532025.pdf
+2025-09-24 01:35:31,818 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_988881_E_900542025.pdf
+2025-09-24 01:35:31,818 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_989571_E_900522025_01-10-2025_09h00m.pdf
+2025-09-24 01:35:31,818 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_989859_E_900262025_29-09-2025_09h00m.pdf
+2025-09-24 01:35:31,819 - INFO - [DOWNLOAD_EDITAIS] Deletado arquivo: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\U_989983_E_900572025.pdf
+2025-09-24 01:35:31,819 - INFO - [DOWNLOAD_EDITAIS] Diretório não encontrado: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\ORCAMENTOS
+2025-09-24 01:35:31,820 - INFO - [DOWNLOAD_EDITAIS] [01:35:31] Limpando o diretório do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba
+2025-09-24 01:35:31,821 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\ABA_U_120060_E_901092025.xlsx
+2025-09-24 01:35:31,824 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_102158_E_900352025_02-10-2025_09h00m.xlsx
+2025-09-24 01:35:31,825 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_153036_E_900192025.xlsx
+2025-09-24 01:35:31,826 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_153176_E_900162025_25-09-2025_09h00m.xlsx
+2025-09-24 01:35:31,827 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_154044_E_900302025_02-10-2025_11h00m.xlsx
+2025-09-24 01:35:31,827 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_154840_E_900022025_29-09-2025_09h00m.xlsx
+2025-09-24 01:35:31,828 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_158125_E_905582025_02-10-2025_09h00m.xlsx
+2025-09-24 01:35:31,828 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_158154_E_906112025_25-09-2025_09h00m.xlsx
+2025-09-24 01:35:31,829 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_160110_E_900072025_30-09-2025_09h00m.xlsx
+2025-09-24 01:35:31,832 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_160402_E_900102024.xlsx
+2025-09-24 01:35:31,833 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_180224_E_900302025_29-09-2025_09h00m.xlsx
+2025-09-24 01:35:31,833 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_380195_E_900232025_25-09-2025_09h00m.xlsx
+2025-09-24 01:35:31,833 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_450432_E_900292025_23-09-2025_10h00m.xlsx
+2025-09-24 01:35:31,834 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_453714_E_900322025.xlsx
+2025-09-24 01:35:31,834 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_462264_E_900062025_30-09-2025_10h00m.xlsx
+2025-09-24 01:35:31,836 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_495130_E_900882025.xlsx
+2025-09-24 01:35:31,837 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_925543_E_900342025_15-10-2025_14h00m.xlsx
+2025-09-24 01:35:31,838 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_925814_E_900582025_25-09-2025_13h30m.xlsx
+2025-09-24 01:35:31,839 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_925872_E_900132025_24-09-2025_08h00m.xlsx
+2025-09-24 01:35:31,840 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_925989_E_900092025_30-09-2025_10h00m.xlsx
+2025-09-24 01:35:31,841 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_926002_E_900292025_26-09-2025_10h00m.xlsx
+2025-09-24 01:35:31,842 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_926092_E_900222025.xlsx
+2025-09-24 01:35:31,844 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_926475_E_900072025_29-09-2025_09h00m.xlsx
+2025-09-24 01:35:31,845 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_926590_E_900012025_30-09-2025_09h00m.xlsx
+2025-09-24 01:35:31,846 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_926724_E_900012025_02-10-2025_10h00m.xlsx
+2025-09-24 01:35:31,847 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_926768_E_900042025_02-10-2025_09h00m.xlsx
+2025-09-24 01:35:31,848 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_927928_E_900042025_30-09-2025_10h00m.xlsx
+2025-09-24 01:35:31,849 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_928285_E_901112025_30-09-2025_08h40m.xlsx
+2025-09-24 01:35:31,850 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_928529_E_900012025_30-09-2025_09h00m.xlsx
+2025-09-24 01:35:31,851 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_929472_E_901112025_29-09-2025_10h30m.xlsx
+2025-09-24 01:35:31,852 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_929615_E_900032025_01-10-2025_10h00m.xlsx
+2025-09-24 01:35:31,852 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_930180_E_900732025_03-10-2025_09h00m.xlsx
+2025-09-24 01:35:31,853 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_980431_E_900222025_29-09-2025_09h00m.xlsx
+2025-09-24 01:35:31,853 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_980489_E_900132025_30-09-2025_09h00m.xlsx
+2025-09-24 01:35:31,854 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_983431_E_900252025_29-09-2025_09h00m.xlsx
+2025-09-24 01:35:31,854 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_984445_E_901092025.xlsx
+2025-09-24 01:35:31,857 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_985015_E_900662025.xlsx
+2025-09-24 01:35:31,858 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_985499_900972025.xlsx
+2025-09-24 01:35:31,858 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_985909_E_900722025_30-09-2025_10h00m.xlsx
+2025-09-24 01:35:31,859 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_986205_E_900602025_30-09-2025_08h30m.xlsx
+2025-09-24 01:35:31,859 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_986291_E_992222025.xlsx
+2025-09-24 01:35:31,860 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_986475_E_900542025_29-09-2025_09h30m.xlsx
+2025-09-24 01:35:31,861 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_986563_E_900672025_08-10-2025_09h00m.xlsx
+2025-09-24 01:35:31,862 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_987459_E_900512025.xlsx
+2025-09-24 01:35:31,862 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_987493_E_901152025.xlsx
+2025-09-24 01:35:31,865 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_987493_E_901152025_06-10-2025_09h00m.xlsx
+2025-09-24 01:35:31,866 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_987805_E_900532025.xlsx
+2025-09-24 01:35:31,867 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_988881_E_900542025.xlsx
+2025-09-24 01:35:31,868 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_989571_E_900522025_01-10-2025_09h00m.xlsx
+2025-09-24 01:35:31,868 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_989859_E_900262025_29-09-2025_09h00m.xlsx
+2025-09-24 01:35:31,869 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]   Deletado arquivo do pátio: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba\U_989983_E_900572025.xlsx
+2025-09-24 01:35:31,869 - INFO - [DOWNLOAD_EDITAIS] [01:35:31] [8/8] Create cards no Trello para novos editais com itens no master...
+2025-09-24 01:35:31,870 - INFO - [DOWNLOAD_EDITAIS] [01:35:31]
+2025-09-24 01:35:31,870 - INFO - [DOWNLOAD_EDITAIS] [7/7] Verificando itens no master.xlsx para criação de cards no Trello...
+2025-09-24 01:35:31,951 - INFO - [DOWNLOAD_EDITAIS] [01:35:31] Encontrados 63 editais únicos com itens relevantes no master.xlsx.
+2025-09-24 01:35:31,952 - INFO - [DOWNLOAD_EDITAIS] [01:35:31] 🎉 Processo de criação de cards concluído. 0 novos cards criados.
+2025-09-24 01:35:31,952 - INFO - [DOWNLOAD_EDITAIS] 
+2025-09-24 01:35:31,952 - INFO - [DOWNLOAD_EDITAIS] 🎉 PIPELINE CONCLUÍDO!
+2025-09-24 01:35:31,953 - INFO - [DOWNLOAD_EDITAIS] 📁 Arquivos de orçamento em: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\EDITAIS\aba
+2025-09-24 01:35:31,953 - INFO - [DOWNLOAD_EDITAIS] 📊 Master Final Filtrada: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\master.xlsx
+2025-09-24 01:35:31,953 - INFO - [DOWNLOAD_EDITAIS] 📖 Livro Razão atualizado: C:\Users\pietr\OneDrive\.vscode\arte_\DOWNLOADS\livro_razao.xlsx
+2025-09-24 01:35:32,261 - INFO - [01:35:32] DOWNLOAD_EDITAIS: ✅ Executado com sucesso
+2025-09-24 01:35:32,262 - INFO - [01:35:32] VERIFICAÇÃO: Verificando atualização de arquivos...
+2025-09-24 01:35:32,262 - INFO - [01:35:32] VERIFICAÇÃO: ✅ master.xlsx atualizado recentemente
+2025-09-24 01:35:32,262 - INFO - [01:35:32] PIPELINE: === ETAPA: MATCHING DE PRODUTOS ===
+2025-09-24 01:35:32,263 - INFO - [01:35:32] MATCHING_PRODUTOS: Iniciando execução...
+2025-09-24 01:35:36,230 - INFO - [MATCHING_PRODUTOS] 2025-09-24 01:35:36,228 - INFO - Starting the product matching process...
+2025-09-24 01:35:36,231 - INFO - [MATCHING_PRODUTOS] Starting the product matching process...
+2025-09-24 01:35:37,053 - INFO - [MATCHING_PRODUTOS] 2025-09-24 01:35:37,052 - INFO - Loaded 578 items from master.xlsx and 3468 products from categoria_GPT.xlsx
+2025-09-24 01:35:37,054 - INFO - [MATCHING_PRODUTOS] 👾 Edital loaded: 578 items from master.xlsx
+2025-09-24 01:35:37,054 - INFO - [MATCHING_PRODUTOS] 📯 Product base loaded: 3468 products from categoria_GPT.xlsx
+2025-09-24 01:35:37,057 - INFO - [MATCHING_PRODUTOS] 2025-09-24 01:35:37,055 - INFO - No existing output file found. Processing all items as new.
+2025-09-24 01:35:37,075 - INFO - [MATCHING_PRODUTOS] 2025-09-24 01:35:37,072 - INFO - Identified 578 new items to process.
+2025-09-24 01:35:37,076 - INFO - [MATCHING_PRODUTOS] - Found 578 new items to process.
+2025-09-24 01:35:37,077 - INFO - [MATCHING_PRODUTOS] 
+2025-09-24 01:35:37,077 - INFO - [MATCHING_PRODUTOS] 📈 Processing new item 1/578: nan...
+2025-09-24 01:35:37,077 - INFO - [MATCHING_PRODUTOS] 📈 Processing new item 1/578: Projetor Multimídia Projetor Multimídia Distância Mínima Tel...
+2025-09-24 01:35:37,078 - INFO - [MATCHING_PRODUTOS] - Asking AI for item classification (category and subcategory)...
+2025-09-24 01:35:37,079 - INFO - [MATCHING_PRODUTOS] - Tentando chamada à API com o modelo: gemini-2.5-flash...
+2025-09-24 01:35:37,477 - INFO - [MATCHING_PRODUTOS] - Cota excedida para o modelo 'gemini-2.5-flash'. Tentando o próximo da lista.
+2025-09-24 01:35:42,477 - INFO - [MATCHING_PRODUTOS] - Tentando chamada à API com o modelo: gemini-2.5-flash-lite...
+2025-09-24 01:35:42,689 - INFO - [MATCHING_PRODUTOS] - Cota excedida para o modelo 'gemini-2.5-flash-lite'. Tentando o próximo da lista.

@@ -1,0 +1,899 @@
+2025-09-25 00:21:24,875 - INFO - Iniciando processamento de editais
+2025-09-25 00:21:24,879 - INFO - Iniciando processamento do edital: aba
+2025-09-25 00:21:24,880 - INFO - [ETAPA 1/6] Garantindo que todos os arquivos estejam na pasta principal...
+2025-09-25 00:21:24,880 - INFO - [ETAPA 2/6] Verificando e descompactando arquivos recursivamente...
+2025-09-25 00:21:24,881 - INFO - [ETAPA 3/6] Extraindo texto de todos os PDFs para 'razao.txt' com contexto otimizado...
+2025-09-25 00:21:24,881 - INFO - [ETAPA 4/6] Extraindo itens de tabelas, planilhas ou 'RelacaoItens.pdf'...
+2025-09-25 00:21:24,887 - WARNING - Nenhum item foi encontrado para extração.
+2025-09-25 00:21:24,887 - INFO - [ETAPA 5/6] Processando com IA...
+2025-09-25 00:21:24,888 - WARNING - Sem texto do PDF principal para aba
+2025-09-25 00:21:24,888 - INFO - Edital 1/90 concluído.
+2025-09-25 00:21:24,888 - INFO - Iniciando processamento do edital: ABA_U_120060_E_901092025
+2025-09-25 00:21:24,888 - INFO - Resultado final já existe (ABA_U_120060_E_901092025_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,176 - INFO - Edital 2/90 concluído.
+2025-09-25 00:21:25,177 - INFO - Iniciando processamento do edital: CARONA - Escola da Defensoria Publica do Estado de SAO PAULO
+2025-09-25 00:21:25,178 - INFO - Resultado final já existe (CARONA - Escola da Defensoria Publica do Estado de SAO PAULO_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,184 - INFO - Edital 3/90 concluído.
+2025-09-25 00:21:25,185 - INFO - Iniciando processamento do edital: CARONA - Estadual de Educação Tecnológica Paula Souza – CEETEPS
+2025-09-25 00:21:25,185 - INFO - Resultado final já existe (CARONA - Estadual de Educação Tecnológica Paula Souza – CEETEPS_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,192 - INFO - Edital 4/90 concluído.
+2025-09-25 00:21:25,192 - INFO - Iniciando processamento do edital: DISEPENSA - UASG 158009 - INSTITUTO FEDERAL DO PARANÁ
+2025-09-25 00:21:25,193 - INFO - Resultado final já existe (DISEPENSA - UASG 158009 - INSTITUTO FEDERAL DO PARANÁ_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,200 - INFO - Edital 5/90 concluído.
+2025-09-25 00:21:25,200 - INFO - Iniciando processamento do edital: DISEPNSA - UASG 160254 - 1 BATALHAO DE INFANTARIA MOTORIZADO(ES)
+2025-09-25 00:21:25,201 - INFO - Resultado final já existe (DISEPNSA - UASG 160254 - 1 BATALHAO DE INFANTARIA MOTORIZADO(ES)_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,211 - INFO - Edital 6/90 concluído.
+2025-09-25 00:21:25,212 - INFO - Iniciando processamento do edital: DISPENSA - UASG 102326 E 1072025
+2025-09-25 00:21:25,212 - INFO - Resultado final já existe (DISPENSA - UASG 102326 E 1072025_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,220 - INFO - Edital 7/90 concluído.
+2025-09-25 00:21:25,221 - INFO - Iniciando processamento do edital: DISPENSA - UASG 160195 - COMANDO DO COMANDO MILITAR DO NORDESTE
+2025-09-25 00:21:25,221 - INFO - Resultado final já existe (DISPENSA - UASG 160195 - COMANDO DO COMANDO MILITAR DO NORDESTE_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,243 - INFO - Edital 8/90 concluído.
+2025-09-25 00:21:25,243 - INFO - Iniciando processamento do edital: DISPENSA - UASG 160283 E_1052025 PREFEITURA MILITAR DA ZONA SUL
+2025-09-25 00:21:25,244 - INFO - Resultado final já existe (DISPENSA - UASG 160283 E_1052025 PREFEITURA MILITAR DA ZONA SUL_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,254 - INFO - Edital 9/90 concluído.
+2025-09-25 00:21:25,254 - INFO - Iniciando processamento do edital: DISPENSA - UASG 160377 - 8 ESQUADRAO DE CAVALARIA MECANIZADO
+2025-09-25 00:21:25,255 - INFO - Resultado final já existe (DISPENSA - UASG 160377 - 8 ESQUADRAO DE CAVALARIA MECANIZADO_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,263 - INFO - Edital 10/90 concluído.
+2025-09-25 00:21:25,263 - INFO - Iniciando processamento do edital: DISPENSA - UASG 781000 - COMANDO DO 1.DISTRITO NAVAL
+2025-09-25 00:21:25,264 - INFO - Resultado final já existe (DISPENSA - UASG 781000 - COMANDO DO 1.DISTRITO NAVAL_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,275 - INFO - Edital 11/90 concluído.
+2025-09-25 00:21:25,275 - INFO - Iniciando processamento do edital: DISPENSA - UASG 925203 EDITAL 52025
+2025-09-25 00:21:25,275 - INFO - Resultado final já existe (DISPENSA - UASG 925203 EDITAL 52025_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,288 - INFO - Edital 12/90 concluído.
+2025-09-25 00:21:25,289 - INFO - Iniciando processamento do edital: DISPENSA - UASG 926360 E_122025 - PMSP - FUNDACAO THEATRO MUNIC. DE SAO
+2025-09-25 00:21:25,289 - INFO - Resultado final já existe (DISPENSA - UASG 926360 E_122025 - PMSP - FUNDACAO THEATRO MUNIC. DE SAO_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,299 - INFO - Edital 13/90 concluído.
+2025-09-25 00:21:25,300 - INFO - Iniciando processamento do edital: EQUIPAMENTOS DE TI - CFPR - CAMPANHA
+2025-09-25 00:21:25,301 - INFO - Resultado final já existe (EQUIPAMENTOS DE TI - CFPR - CAMPANHA_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,310 - INFO - Edital 14/90 concluído.
+2025-09-25 00:21:25,311 - INFO - Iniciando processamento do edital: U_10001_E_900642025
+2025-09-25 00:21:25,311 - INFO - Resultado final já existe (U_10001_E_900642025_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,336 - INFO - Edital 15/90 concluído.
+2025-09-25 00:21:25,336 - INFO - Iniciando processamento do edital: U_102158_E_900352025_02-10-2025_09h00m
+2025-09-25 00:21:25,337 - INFO - Resultado final já existe (U_102158_E_900352025_02-10-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,353 - INFO - Edital 16/90 concluído.
+2025-09-25 00:21:25,353 - INFO - Iniciando processamento do edital: U_120645_E_1042026
+2025-09-25 00:21:25,354 - INFO - Resultado final já existe (U_120645_E_1042026_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,365 - INFO - Edital 17/90 concluído.
+2025-09-25 00:21:25,366 - INFO - Iniciando processamento do edital: U_153036_E_900192025
+2025-09-25 00:21:25,366 - INFO - Resultado final já existe (U_153036_E_900192025_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,394 - INFO - Edital 18/90 concluído.
+2025-09-25 00:21:25,395 - INFO - Iniciando processamento do edital: U_153128_E_762025
+2025-09-25 00:21:25,396 - INFO - Resultado final já existe (U_153128_E_762025_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,402 - INFO - Edital 19/90 concluído.
+2025-09-25 00:21:25,403 - INFO - Iniciando processamento do edital: U_153176_E_900162025_25-09-2025_09h00m
+2025-09-25 00:21:25,404 - INFO - Resultado final já existe (U_153176_E_900162025_25-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,422 - INFO - Edital 20/90 concluído.
+2025-09-25 00:21:25,423 - INFO - Iniciando processamento do edital: U_154039_E_903012025
+2025-09-25 00:21:25,423 - INFO - Resultado final já existe (U_154039_E_903012025_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,451 - INFO - Edital 21/90 concluído.
+2025-09-25 00:21:25,452 - INFO - Iniciando processamento do edital: U_154044_E_900302025_02-10-2025_11h00m
+2025-09-25 00:21:25,452 - INFO - Resultado final já existe (U_154044_E_900302025_02-10-2025_11h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,471 - INFO - Edital 22/90 concluído.
+2025-09-25 00:21:25,471 - INFO - Iniciando processamento do edital: U_154840_E_900022025_29-09-2025_09h00m
+2025-09-25 00:21:25,472 - INFO - Resultado final já existe (U_154840_E_900022025_29-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,499 - INFO - Edital 23/90 concluído.
+2025-09-25 00:21:25,499 - INFO - Iniciando processamento do edital: U_156679_E_552025
+2025-09-25 00:21:25,500 - INFO - Resultado final já existe (U_156679_E_552025_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,508 - INFO - Edital 24/90 concluído.
+2025-09-25 00:21:25,508 - INFO - Iniciando processamento do edital: U_158009_E_3362025
+2025-09-25 00:21:25,508 - INFO - Resultado final já existe (U_158009_E_3362025_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,518 - INFO - Edital 25/90 concluído.
+2025-09-25 00:21:25,519 - INFO - Iniciando processamento do edital: U_158125_E_905582025_02-10-2025_09h00m
+2025-09-25 00:21:25,519 - INFO - Resultado final já existe (U_158125_E_905582025_02-10-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,549 - INFO - Edital 26/90 concluído.
+2025-09-25 00:21:25,550 - INFO - Iniciando processamento do edital: U_158154_E_906112025_25-09-2025_09h00m
+2025-09-25 00:21:25,550 - INFO - Resultado final já existe (U_158154_E_906112025_25-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,570 - INFO - Edital 27/90 concluído.
+2025-09-25 00:21:25,571 - INFO - Iniciando processamento do edital: U_158492_E_202025 - DISPENSA MG
+2025-09-25 00:21:25,571 - INFO - Resultado final já existe (U_158492_E_202025 - DISPENSA MG_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,585 - INFO - Edital 28/90 concluído.
+2025-09-25 00:21:25,585 - INFO - Iniciando processamento do edital: U_160192_E_900022025_06-10-2025_10h00m
+2025-09-25 00:21:25,586 - INFO - Resultado final já existe (U_160192_E_900022025_06-10-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,617 - INFO - Edital 29/90 concluído.
+2025-09-25 00:21:25,618 - INFO - Iniciando processamento do edital: U_160402_E_900102024
+2025-09-25 00:21:25,619 - INFO - Resultado final já existe (U_160402_E_900102024_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,683 - INFO - Edital 30/90 concluído.
+2025-09-25 00:21:25,684 - INFO - Iniciando processamento do edital: U_180205_E_900072025
+2025-09-25 00:21:25,685 - INFO - Resultado final já existe (U_180205_E_900072025_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,709 - INFO - Edital 31/90 concluído.
+2025-09-25 00:21:25,710 - INFO - Iniciando processamento do edital: U_180224_E_900302025_29-09-2025_09h00m
+2025-09-25 00:21:25,710 - INFO - Resultado final já existe (U_180224_E_900302025_29-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,750 - INFO - Edital 32/90 concluído.
+2025-09-25 00:21:25,750 - INFO - Iniciando processamento do edital: U_240129_E_552025
+2025-09-25 00:21:25,751 - INFO - Resultado final já existe (U_240129_E_552025_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,759 - INFO - Edital 33/90 concluído.
+2025-09-25 00:21:25,759 - INFO - Iniciando processamento do edital: U_380195_E_900232025_25-09-2025_09h00m
+2025-09-25 00:21:25,759 - INFO - Resultado final já existe (U_380195_E_900232025_25-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,788 - INFO - Edital 34/90 concluído.
+2025-09-25 00:21:25,788 - INFO - Iniciando processamento do edital: U_389321_E_52025-DISPENSA
+2025-09-25 00:21:25,789 - INFO - Resultado final já existe (U_389321_E_52025-DISPENSA_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,796 - INFO - Edital 35/90 concluído.
+2025-09-25 00:21:25,797 - INFO - Iniciando processamento do edital: U_450432_E_900292025_23-09-2025_10h00m
+2025-09-25 00:21:25,798 - INFO - Resultado final já existe (U_450432_E_900292025_23-09-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,809 - INFO - Edital 36/90 concluído.
+2025-09-25 00:21:25,810 - INFO - Iniciando processamento do edital: U_453714_E_900322025
+2025-09-25 00:21:25,811 - INFO - Resultado final já existe (U_453714_E_900322025_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,831 - INFO - Edital 37/90 concluído.
+2025-09-25 00:21:25,832 - INFO - Iniciando processamento do edital: U_462264_E_900062025_30-09-2025_10h00m
+2025-09-25 00:21:25,832 - INFO - Resultado final já existe (U_462264_E_900062025_30-09-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,847 - INFO - Edital 38/90 concluído.
+2025-09-25 00:21:25,848 - INFO - Iniciando processamento do edital: U_481101_E_900112025_06-10-2025_09h30m
+2025-09-25 00:21:25,849 - INFO - Resultado final já existe (U_481101_E_900112025_06-10-2025_09h30m_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,866 - INFO - Edital 39/90 concluído.
+2025-09-25 00:21:25,866 - INFO - Iniciando processamento do edital: U_495130_E_900882025
+2025-09-25 00:21:25,867 - INFO - Resultado final já existe (U_495130_E_900882025_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,882 - INFO - Edital 40/90 concluído.
+2025-09-25 00:21:25,883 - INFO - Iniciando processamento do edital: U_713000_E_102025
+2025-09-25 00:21:25,883 - INFO - Resultado final já existe (U_713000_E_102025_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,892 - INFO - Edital 41/90 concluído.
+2025-09-25 00:21:25,892 - INFO - Iniciando processamento do edital: U_740002_E_900012025
+2025-09-25 00:21:25,893 - INFO - Resultado final já existe (U_740002_E_900012025_master.xlsx). Pulando processamento.
+2025-09-25 00:21:25,913 - INFO - Edital 42/90 concluído.
+2025-09-25 00:21:25,913 - INFO - Iniciando processamento do edital: U_762300_E_962782024_07-10-2025_10h00m
+2025-09-25 00:21:25,914 - INFO - [ETAPA 1/6] Garantindo que todos os arquivos estejam na pasta principal...
+2025-09-25 00:21:25,915 - INFO - [ETAPA 2/6] Verificando e descompactando arquivos recursivamente...
+2025-09-25 00:21:25,916 - INFO - [ETAPA 3/6] Extraindo texto de todos os PDFs para 'razao.txt' com contexto otimizado...
+2025-09-25 00:21:25,916 - INFO - Arquivo de contexto 'razao.txt' já existe. Pulando extração.
+2025-09-25 00:21:25,916 - INFO - [ETAPA 4/6] Extraindo itens de tabelas, planilhas ou 'RelacaoItens.pdf'...
+2025-09-25 00:21:25,917 - INFO - Arquivo de itens (U_762300_E_962782024_07-10-2025_10h00m_itens.xlsx) já existe. Carregando...
+2025-09-25 00:21:25,929 - INFO - [ETAPA 5/6] Processando com IA...
+2025-09-25 00:24:11,306 - INFO - Iniciando processamento de editais
+2025-09-25 00:24:11,310 - INFO - Iniciando processamento do edital: aba
+2025-09-25 00:24:11,311 - INFO - [ETAPA 1/6] Garantindo que todos os arquivos estejam na pasta principal...
+2025-09-25 00:24:11,313 - INFO - [ETAPA 2/6] Verificando e descompactando arquivos recursivamente...
+2025-09-25 00:24:11,314 - INFO - [ETAPA 3/6] Extraindo texto de todos os PDFs para 'razao.txt' com contexto otimizado...
+2025-09-25 00:24:11,315 - INFO - [ETAPA 4/6] Extraindo itens de tabelas, planilhas ou 'RelacaoItens.pdf'...
+2025-09-25 00:24:11,318 - WARNING - Nenhum item foi encontrado para extração.
+2025-09-25 00:24:11,318 - INFO - [ETAPA 5/6] Processando com IA...
+2025-09-25 00:24:11,319 - WARNING - Sem texto do PDF principal para aba
+2025-09-25 00:24:11,320 - INFO - Edital 1/90 concluído.
+2025-09-25 00:24:11,321 - INFO - Iniciando processamento do edital: ABA_U_120060_E_901092025
+2025-09-25 00:24:11,322 - INFO - Resultado final já existe (ABA_U_120060_E_901092025_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,454 - INFO - Edital 2/90 concluído.
+2025-09-25 00:24:11,455 - INFO - Iniciando processamento do edital: CARONA - Escola da Defensoria Publica do Estado de SAO PAULO
+2025-09-25 00:24:11,456 - INFO - Resultado final já existe (CARONA - Escola da Defensoria Publica do Estado de SAO PAULO_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,463 - INFO - Edital 3/90 concluído.
+2025-09-25 00:24:11,464 - INFO - Iniciando processamento do edital: CARONA - Estadual de Educação Tecnológica Paula Souza – CEETEPS
+2025-09-25 00:24:11,465 - INFO - Resultado final já existe (CARONA - Estadual de Educação Tecnológica Paula Souza – CEETEPS_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,474 - INFO - Edital 4/90 concluído.
+2025-09-25 00:24:11,475 - INFO - Iniciando processamento do edital: DISEPENSA - UASG 158009 - INSTITUTO FEDERAL DO PARANÁ
+2025-09-25 00:24:11,476 - INFO - Resultado final já existe (DISEPENSA - UASG 158009 - INSTITUTO FEDERAL DO PARANÁ_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,488 - INFO - Edital 5/90 concluído.
+2025-09-25 00:24:11,490 - INFO - Iniciando processamento do edital: DISEPNSA - UASG 160254 - 1 BATALHAO DE INFANTARIA MOTORIZADO(ES)
+2025-09-25 00:24:11,491 - INFO - Resultado final já existe (DISEPNSA - UASG 160254 - 1 BATALHAO DE INFANTARIA MOTORIZADO(ES)_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,499 - INFO - Edital 6/90 concluído.
+2025-09-25 00:24:11,499 - INFO - Iniciando processamento do edital: DISPENSA - UASG 102326 E 1072025
+2025-09-25 00:24:11,500 - INFO - Resultado final já existe (DISPENSA - UASG 102326 E 1072025_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,508 - INFO - Edital 7/90 concluído.
+2025-09-25 00:24:11,509 - INFO - Iniciando processamento do edital: DISPENSA - UASG 160195 - COMANDO DO COMANDO MILITAR DO NORDESTE
+2025-09-25 00:24:11,509 - INFO - Resultado final já existe (DISPENSA - UASG 160195 - COMANDO DO COMANDO MILITAR DO NORDESTE_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,526 - INFO - Edital 8/90 concluído.
+2025-09-25 00:24:11,526 - INFO - Iniciando processamento do edital: DISPENSA - UASG 160283 E_1052025 PREFEITURA MILITAR DA ZONA SUL
+2025-09-25 00:24:11,527 - INFO - Resultado final já existe (DISPENSA - UASG 160283 E_1052025 PREFEITURA MILITAR DA ZONA SUL_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,534 - INFO - Edital 9/90 concluído.
+2025-09-25 00:24:11,535 - INFO - Iniciando processamento do edital: DISPENSA - UASG 160377 - 8 ESQUADRAO DE CAVALARIA MECANIZADO
+2025-09-25 00:24:11,535 - INFO - Resultado final já existe (DISPENSA - UASG 160377 - 8 ESQUADRAO DE CAVALARIA MECANIZADO_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,542 - INFO - Edital 10/90 concluído.
+2025-09-25 00:24:11,543 - INFO - Iniciando processamento do edital: DISPENSA - UASG 781000 - COMANDO DO 1.DISTRITO NAVAL
+2025-09-25 00:24:11,544 - INFO - Resultado final já existe (DISPENSA - UASG 781000 - COMANDO DO 1.DISTRITO NAVAL_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,551 - INFO - Edital 11/90 concluído.
+2025-09-25 00:24:11,552 - INFO - Iniciando processamento do edital: DISPENSA - UASG 925203 EDITAL 52025
+2025-09-25 00:24:11,553 - INFO - Resultado final já existe (DISPENSA - UASG 925203 EDITAL 52025_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,566 - INFO - Edital 12/90 concluído.
+2025-09-25 00:24:11,567 - INFO - Iniciando processamento do edital: DISPENSA - UASG 926360 E_122025 - PMSP - FUNDACAO THEATRO MUNIC. DE SAO
+2025-09-25 00:24:11,568 - INFO - Resultado final já existe (DISPENSA - UASG 926360 E_122025 - PMSP - FUNDACAO THEATRO MUNIC. DE SAO_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,580 - INFO - Edital 13/90 concluído.
+2025-09-25 00:24:11,581 - INFO - Iniciando processamento do edital: EQUIPAMENTOS DE TI - CFPR - CAMPANHA
+2025-09-25 00:24:11,582 - INFO - Resultado final já existe (EQUIPAMENTOS DE TI - CFPR - CAMPANHA_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,591 - INFO - Edital 14/90 concluído.
+2025-09-25 00:24:11,592 - INFO - Iniciando processamento do edital: U_10001_E_900642025
+2025-09-25 00:24:11,592 - INFO - Resultado final já existe (U_10001_E_900642025_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,614 - INFO - Edital 15/90 concluído.
+2025-09-25 00:24:11,615 - INFO - Iniciando processamento do edital: U_102158_E_900352025_02-10-2025_09h00m
+2025-09-25 00:24:11,615 - INFO - Resultado final já existe (U_102158_E_900352025_02-10-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,627 - INFO - Edital 16/90 concluído.
+2025-09-25 00:24:11,628 - INFO - Iniciando processamento do edital: U_120645_E_1042026
+2025-09-25 00:24:11,628 - INFO - Resultado final já existe (U_120645_E_1042026_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,635 - INFO - Edital 17/90 concluído.
+2025-09-25 00:24:11,636 - INFO - Iniciando processamento do edital: U_153036_E_900192025
+2025-09-25 00:24:11,636 - INFO - Resultado final já existe (U_153036_E_900192025_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,667 - INFO - Edital 18/90 concluído.
+2025-09-25 00:24:11,668 - INFO - Iniciando processamento do edital: U_153128_E_762025
+2025-09-25 00:24:11,668 - INFO - Resultado final já existe (U_153128_E_762025_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,675 - INFO - Edital 19/90 concluído.
+2025-09-25 00:24:11,676 - INFO - Iniciando processamento do edital: U_153176_E_900162025_25-09-2025_09h00m
+2025-09-25 00:24:11,676 - INFO - Resultado final já existe (U_153176_E_900162025_25-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,699 - INFO - Edital 20/90 concluído.
+2025-09-25 00:24:11,699 - INFO - Iniciando processamento do edital: U_154039_E_903012025
+2025-09-25 00:24:11,700 - INFO - Resultado final já existe (U_154039_E_903012025_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,725 - INFO - Edital 21/90 concluído.
+2025-09-25 00:24:11,725 - INFO - Iniciando processamento do edital: U_154044_E_900302025_02-10-2025_11h00m
+2025-09-25 00:24:11,726 - INFO - Resultado final já existe (U_154044_E_900302025_02-10-2025_11h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,741 - INFO - Edital 22/90 concluído.
+2025-09-25 00:24:11,742 - INFO - Iniciando processamento do edital: U_154840_E_900022025_29-09-2025_09h00m
+2025-09-25 00:24:11,742 - INFO - Resultado final já existe (U_154840_E_900022025_29-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,768 - INFO - Edital 23/90 concluído.
+2025-09-25 00:24:11,769 - INFO - Iniciando processamento do edital: U_156679_E_552025
+2025-09-25 00:24:11,769 - INFO - Resultado final já existe (U_156679_E_552025_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,777 - INFO - Edital 24/90 concluído.
+2025-09-25 00:24:11,778 - INFO - Iniciando processamento do edital: U_158009_E_3362025
+2025-09-25 00:24:11,779 - INFO - Resultado final já existe (U_158009_E_3362025_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,788 - INFO - Edital 25/90 concluído.
+2025-09-25 00:24:11,789 - INFO - Iniciando processamento do edital: U_158125_E_905582025_02-10-2025_09h00m
+2025-09-25 00:24:11,790 - INFO - Resultado final já existe (U_158125_E_905582025_02-10-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,814 - INFO - Edital 26/90 concluído.
+2025-09-25 00:24:11,815 - INFO - Iniciando processamento do edital: U_158154_E_906112025_25-09-2025_09h00m
+2025-09-25 00:24:11,815 - INFO - Resultado final já existe (U_158154_E_906112025_25-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,835 - INFO - Edital 27/90 concluído.
+2025-09-25 00:24:11,835 - INFO - Iniciando processamento do edital: U_158492_E_202025 - DISPENSA MG
+2025-09-25 00:24:11,836 - INFO - Resultado final já existe (U_158492_E_202025 - DISPENSA MG_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,847 - INFO - Edital 28/90 concluído.
+2025-09-25 00:24:11,848 - INFO - Iniciando processamento do edital: U_160192_E_900022025_06-10-2025_10h00m
+2025-09-25 00:24:11,848 - INFO - Resultado final já existe (U_160192_E_900022025_06-10-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,873 - INFO - Edital 29/90 concluído.
+2025-09-25 00:24:11,873 - INFO - Iniciando processamento do edital: U_160402_E_900102024
+2025-09-25 00:24:11,874 - INFO - Resultado final já existe (U_160402_E_900102024_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,916 - INFO - Edital 30/90 concluído.
+2025-09-25 00:24:11,916 - INFO - Iniciando processamento do edital: U_180205_E_900072025
+2025-09-25 00:24:11,917 - INFO - Resultado final já existe (U_180205_E_900072025_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,939 - INFO - Edital 31/90 concluído.
+2025-09-25 00:24:11,940 - INFO - Iniciando processamento do edital: U_180224_E_900302025_29-09-2025_09h00m
+2025-09-25 00:24:11,941 - INFO - Resultado final já existe (U_180224_E_900302025_29-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,974 - INFO - Edital 32/90 concluído.
+2025-09-25 00:24:11,975 - INFO - Iniciando processamento do edital: U_240129_E_552025
+2025-09-25 00:24:11,975 - INFO - Resultado final já existe (U_240129_E_552025_master.xlsx). Pulando processamento.
+2025-09-25 00:24:11,982 - INFO - Edital 33/90 concluído.
+2025-09-25 00:24:11,982 - INFO - Iniciando processamento do edital: U_380195_E_900232025_25-09-2025_09h00m
+2025-09-25 00:24:11,984 - INFO - Resultado final já existe (U_380195_E_900232025_25-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:24:12,009 - INFO - Edital 34/90 concluído.
+2025-09-25 00:24:12,009 - INFO - Iniciando processamento do edital: U_389321_E_52025-DISPENSA
+2025-09-25 00:24:12,010 - INFO - Resultado final já existe (U_389321_E_52025-DISPENSA_master.xlsx). Pulando processamento.
+2025-09-25 00:24:12,017 - INFO - Edital 35/90 concluído.
+2025-09-25 00:24:12,018 - INFO - Iniciando processamento do edital: U_450432_E_900292025_23-09-2025_10h00m
+2025-09-25 00:24:12,018 - INFO - Resultado final já existe (U_450432_E_900292025_23-09-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:24:12,032 - INFO - Edital 36/90 concluído.
+2025-09-25 00:24:12,033 - INFO - Iniciando processamento do edital: U_453714_E_900322025
+2025-09-25 00:24:12,034 - INFO - Resultado final já existe (U_453714_E_900322025_master.xlsx). Pulando processamento.
+2025-09-25 00:24:12,061 - INFO - Edital 37/90 concluído.
+2025-09-25 00:24:12,062 - INFO - Iniciando processamento do edital: U_462264_E_900062025_30-09-2025_10h00m
+2025-09-25 00:24:12,063 - INFO - Resultado final já existe (U_462264_E_900062025_30-09-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:24:12,074 - INFO - Edital 38/90 concluído.
+2025-09-25 00:24:12,074 - INFO - Iniciando processamento do edital: U_481101_E_900112025_06-10-2025_09h30m
+2025-09-25 00:24:12,075 - INFO - Resultado final já existe (U_481101_E_900112025_06-10-2025_09h30m_master.xlsx). Pulando processamento.
+2025-09-25 00:24:12,087 - INFO - Edital 39/90 concluído.
+2025-09-25 00:24:12,087 - INFO - Iniciando processamento do edital: U_495130_E_900882025
+2025-09-25 00:24:12,088 - INFO - Resultado final já existe (U_495130_E_900882025_master.xlsx). Pulando processamento.
+2025-09-25 00:24:12,101 - INFO - Edital 40/90 concluído.
+2025-09-25 00:24:12,102 - INFO - Iniciando processamento do edital: U_713000_E_102025
+2025-09-25 00:24:12,102 - INFO - Resultado final já existe (U_713000_E_102025_master.xlsx). Pulando processamento.
+2025-09-25 00:24:12,111 - INFO - Edital 41/90 concluído.
+2025-09-25 00:24:12,111 - INFO - Iniciando processamento do edital: U_740002_E_900012025
+2025-09-25 00:24:12,113 - INFO - Resultado final já existe (U_740002_E_900012025_master.xlsx). Pulando processamento.
+2025-09-25 00:24:12,134 - INFO - Edital 42/90 concluído.
+2025-09-25 00:24:12,135 - INFO - Iniciando processamento do edital: U_762300_E_962782024_07-10-2025_10h00m
+2025-09-25 00:24:12,136 - INFO - [ETAPA 1/6] Garantindo que todos os arquivos estejam na pasta principal...
+2025-09-25 00:24:12,139 - INFO - [ETAPA 2/6] Verificando e descompactando arquivos recursivamente...
+2025-09-25 00:24:12,140 - INFO - [ETAPA 3/6] Extraindo texto de todos os PDFs para 'razao.txt' com contexto otimizado...
+2025-09-25 00:24:12,141 - INFO - Arquivo de contexto 'razao.txt' já existe. Pulando extração.
+2025-09-25 00:24:12,142 - INFO - [ETAPA 4/6] Extraindo itens de tabelas, planilhas ou 'RelacaoItens.pdf'...
+2025-09-25 00:24:12,143 - INFO - Arquivo de itens (U_762300_E_962782024_07-10-2025_10h00m_itens.xlsx) já existe. Carregando...
+2025-09-25 00:24:12,156 - INFO - [ETAPA 5/6] Processando com IA...
+2025-09-25 00:24:27,724 - INFO - Itens enriquecidos pela IA.
+2025-09-25 00:24:27,724 - INFO - [ETAPA 6/6] Finalizando e salvando...
+2025-09-25 00:24:27,809 - INFO - SUCESSO! Planilha final salva como: U_762300_E_962782024_07-10-2025_10h00m_master.xlsx
+2025-09-25 00:24:27,809 - INFO - Edital 43/90 concluído.
+2025-09-25 00:24:27,810 - INFO - Iniciando processamento do edital: U_789311_E_842025
+2025-09-25 00:24:27,810 - INFO - [ETAPA 1/6] Garantindo que todos os arquivos estejam na pasta principal...
+2025-09-25 00:24:27,811 - INFO - [ETAPA 2/6] Verificando e descompactando arquivos recursivamente...
+2025-09-25 00:24:27,811 - INFO - [ETAPA 3/6] Extraindo texto de todos os PDFs para 'razao.txt' com contexto otimizado...
+2025-09-25 00:24:27,893 - INFO - Texto de contexto otimizado salvo em: razao.txt
+2025-09-25 00:24:27,893 - INFO - [ETAPA 4/6] Extraindo itens de tabelas, planilhas ou 'RelacaoItens.pdf'...
+2025-09-25 00:24:27,894 - INFO - Tentando extrair tabelas de AVISO+DE+CONTRATACAO+789311_84_2025.pdf com Camelot
+2025-09-25 00:24:28,066 - INFO - Camelot extraiu tabela com (27, 7) de AVISO+DE+CONTRATACAO+789311_84_2025.pdf
+2025-09-25 00:24:28,066 - INFO - Camelot extraiu tabela com (46, 8) de AVISO+DE+CONTRATACAO+789311_84_2025.pdf
+2025-09-25 00:24:28,067 - INFO - Camelot extraiu tabela com (20, 8) de AVISO+DE+CONTRATACAO+789311_84_2025.pdf
+2025-09-25 00:24:28,069 - WARNING - Nenhum item foi encontrado para extração.
+2025-09-25 00:24:28,069 - INFO - [ETAPA 5/6] Processando com IA...
+2025-09-25 00:24:28,070 - INFO - Nenhum item encontrado. Usando IA como fallback para EXTRAIR do zero...
+2025-09-25 00:24:29,041 - INFO - Itens extraídos do zero pela IA.
+2025-09-25 00:24:29,042 - INFO - [ETAPA 6/6] Finalizando e salvando...
+2025-09-25 00:27:38,355 - INFO - Iniciando processamento de editais
+2025-09-25 00:27:38,359 - INFO - Iniciando processamento do edital: aba
+2025-09-25 00:27:38,360 - INFO - [ETAPA 1/6] Garantindo que todos os arquivos estejam na pasta principal...
+2025-09-25 00:27:38,361 - INFO - [ETAPA 2/6] Verificando e descompactando arquivos recursivamente...
+2025-09-25 00:27:38,363 - INFO - [ETAPA 3/6] Extraindo texto de todos os PDFs para 'razao.txt' com contexto otimizado...
+2025-09-25 00:27:38,364 - INFO - [ETAPA 4/6] Extraindo itens de tabelas, planilhas ou 'RelacaoItens.pdf'...
+2025-09-25 00:27:38,377 - WARNING - Nenhum item foi encontrado para extração.
+2025-09-25 00:27:38,378 - INFO - [ETAPA 5/6] Processando com IA...
+2025-09-25 00:27:38,379 - WARNING - Sem texto do PDF principal para aba
+2025-09-25 00:27:38,380 - INFO - Edital 1/90 concluído.
+2025-09-25 00:27:38,380 - INFO - Iniciando processamento do edital: ABA_U_120060_E_901092025
+2025-09-25 00:27:38,381 - INFO - Resultado final já existe (ABA_U_120060_E_901092025_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,515 - INFO - Edital 2/90 concluído.
+2025-09-25 00:27:38,516 - INFO - Iniciando processamento do edital: CARONA - Escola da Defensoria Publica do Estado de SAO PAULO
+2025-09-25 00:27:38,516 - INFO - Resultado final já existe (CARONA - Escola da Defensoria Publica do Estado de SAO PAULO_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,522 - INFO - Edital 3/90 concluído.
+2025-09-25 00:27:38,523 - INFO - Iniciando processamento do edital: CARONA - Estadual de Educação Tecnológica Paula Souza – CEETEPS
+2025-09-25 00:27:38,525 - INFO - Resultado final já existe (CARONA - Estadual de Educação Tecnológica Paula Souza – CEETEPS_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,532 - INFO - Edital 4/90 concluído.
+2025-09-25 00:27:38,533 - INFO - Iniciando processamento do edital: DISEPENSA - UASG 158009 - INSTITUTO FEDERAL DO PARANÁ
+2025-09-25 00:27:38,535 - INFO - Resultado final já existe (DISEPENSA - UASG 158009 - INSTITUTO FEDERAL DO PARANÁ_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,546 - INFO - Edital 5/90 concluído.
+2025-09-25 00:27:38,547 - INFO - Iniciando processamento do edital: DISEPNSA - UASG 160254 - 1 BATALHAO DE INFANTARIA MOTORIZADO(ES)
+2025-09-25 00:27:38,549 - INFO - Resultado final já existe (DISEPNSA - UASG 160254 - 1 BATALHAO DE INFANTARIA MOTORIZADO(ES)_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,555 - INFO - Edital 6/90 concluído.
+2025-09-25 00:27:38,556 - INFO - Iniciando processamento do edital: DISPENSA - UASG 102326 E 1072025
+2025-09-25 00:27:38,558 - INFO - Resultado final já existe (DISPENSA - UASG 102326 E 1072025_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,567 - INFO - Edital 7/90 concluído.
+2025-09-25 00:27:38,568 - INFO - Iniciando processamento do edital: DISPENSA - UASG 160195 - COMANDO DO COMANDO MILITAR DO NORDESTE
+2025-09-25 00:27:38,570 - INFO - Resultado final já existe (DISPENSA - UASG 160195 - COMANDO DO COMANDO MILITAR DO NORDESTE_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,582 - INFO - Edital 8/90 concluído.
+2025-09-25 00:27:38,583 - INFO - Iniciando processamento do edital: DISPENSA - UASG 160283 E_1052025 PREFEITURA MILITAR DA ZONA SUL
+2025-09-25 00:27:38,584 - INFO - Resultado final já existe (DISPENSA - UASG 160283 E_1052025 PREFEITURA MILITAR DA ZONA SUL_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,590 - INFO - Edital 9/90 concluído.
+2025-09-25 00:27:38,590 - INFO - Iniciando processamento do edital: DISPENSA - UASG 160377 - 8 ESQUADRAO DE CAVALARIA MECANIZADO
+2025-09-25 00:27:38,591 - INFO - Resultado final já existe (DISPENSA - UASG 160377 - 8 ESQUADRAO DE CAVALARIA MECANIZADO_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,613 - INFO - Edital 10/90 concluído.
+2025-09-25 00:27:38,614 - INFO - Iniciando processamento do edital: DISPENSA - UASG 781000 - COMANDO DO 1.DISTRITO NAVAL
+2025-09-25 00:27:38,615 - INFO - Resultado final já existe (DISPENSA - UASG 781000 - COMANDO DO 1.DISTRITO NAVAL_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,635 - INFO - Edital 11/90 concluído.
+2025-09-25 00:27:38,636 - INFO - Iniciando processamento do edital: DISPENSA - UASG 925203 EDITAL 52025
+2025-09-25 00:27:38,637 - INFO - Resultado final já existe (DISPENSA - UASG 925203 EDITAL 52025_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,655 - INFO - Edital 12/90 concluído.
+2025-09-25 00:27:38,656 - INFO - Iniciando processamento do edital: DISPENSA - UASG 926360 E_122025 - PMSP - FUNDACAO THEATRO MUNIC. DE SAO
+2025-09-25 00:27:38,656 - INFO - Resultado final já existe (DISPENSA - UASG 926360 E_122025 - PMSP - FUNDACAO THEATRO MUNIC. DE SAO_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,683 - INFO - Edital 13/90 concluído.
+2025-09-25 00:27:38,684 - INFO - Iniciando processamento do edital: EQUIPAMENTOS DE TI - CFPR - CAMPANHA
+2025-09-25 00:27:38,685 - INFO - Resultado final já existe (EQUIPAMENTOS DE TI - CFPR - CAMPANHA_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,692 - INFO - Edital 14/90 concluído.
+2025-09-25 00:27:38,692 - INFO - Iniciando processamento do edital: U_10001_E_900642025
+2025-09-25 00:27:38,693 - INFO - Resultado final já existe (U_10001_E_900642025_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,722 - INFO - Edital 15/90 concluído.
+2025-09-25 00:27:38,723 - INFO - Iniciando processamento do edital: U_102158_E_900352025_02-10-2025_09h00m
+2025-09-25 00:27:38,723 - INFO - Resultado final já existe (U_102158_E_900352025_02-10-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,737 - INFO - Edital 16/90 concluído.
+2025-09-25 00:27:38,737 - INFO - Iniciando processamento do edital: U_120645_E_1042026
+2025-09-25 00:27:38,737 - INFO - Resultado final já existe (U_120645_E_1042026_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,745 - INFO - Edital 17/90 concluído.
+2025-09-25 00:27:38,745 - INFO - Iniciando processamento do edital: U_153036_E_900192025
+2025-09-25 00:27:38,745 - INFO - Resultado final já existe (U_153036_E_900192025_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,770 - INFO - Edital 18/90 concluído.
+2025-09-25 00:27:38,770 - INFO - Iniciando processamento do edital: U_153128_E_762025
+2025-09-25 00:27:38,771 - INFO - Resultado final já existe (U_153128_E_762025_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,776 - INFO - Edital 19/90 concluído.
+2025-09-25 00:27:38,776 - INFO - Iniciando processamento do edital: U_153176_E_900162025_25-09-2025_09h00m
+2025-09-25 00:27:38,777 - INFO - Resultado final já existe (U_153176_E_900162025_25-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,798 - INFO - Edital 20/90 concluído.
+2025-09-25 00:27:38,799 - INFO - Iniciando processamento do edital: U_154039_E_903012025
+2025-09-25 00:27:38,800 - INFO - Resultado final já existe (U_154039_E_903012025_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,824 - INFO - Edital 21/90 concluído.
+2025-09-25 00:27:38,824 - INFO - Iniciando processamento do edital: U_154044_E_900302025_02-10-2025_11h00m
+2025-09-25 00:27:38,825 - INFO - Resultado final já existe (U_154044_E_900302025_02-10-2025_11h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,845 - INFO - Edital 22/90 concluído.
+2025-09-25 00:27:38,846 - INFO - Iniciando processamento do edital: U_154840_E_900022025_29-09-2025_09h00m
+2025-09-25 00:27:38,846 - INFO - Resultado final já existe (U_154840_E_900022025_29-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,875 - INFO - Edital 23/90 concluído.
+2025-09-25 00:27:38,876 - INFO - Iniciando processamento do edital: U_156679_E_552025
+2025-09-25 00:27:38,877 - INFO - Resultado final já existe (U_156679_E_552025_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,884 - INFO - Edital 24/90 concluído.
+2025-09-25 00:27:38,884 - INFO - Iniciando processamento do edital: U_158009_E_3362025
+2025-09-25 00:27:38,885 - INFO - Resultado final já existe (U_158009_E_3362025_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,892 - INFO - Edital 25/90 concluído.
+2025-09-25 00:27:38,893 - INFO - Iniciando processamento do edital: U_158125_E_905582025_02-10-2025_09h00m
+2025-09-25 00:27:38,894 - INFO - Resultado final já existe (U_158125_E_905582025_02-10-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,928 - INFO - Edital 26/90 concluído.
+2025-09-25 00:27:38,928 - INFO - Iniciando processamento do edital: U_158154_E_906112025_25-09-2025_09h00m
+2025-09-25 00:27:38,929 - INFO - Resultado final já existe (U_158154_E_906112025_25-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,953 - INFO - Edital 27/90 concluído.
+2025-09-25 00:27:38,954 - INFO - Iniciando processamento do edital: U_158492_E_202025 - DISPENSA MG
+2025-09-25 00:27:38,955 - INFO - Resultado final já existe (U_158492_E_202025 - DISPENSA MG_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,967 - INFO - Edital 28/90 concluído.
+2025-09-25 00:27:38,967 - INFO - Iniciando processamento do edital: U_160192_E_900022025_06-10-2025_10h00m
+2025-09-25 00:27:38,968 - INFO - Resultado final já existe (U_160192_E_900022025_06-10-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:27:38,995 - INFO - Edital 29/90 concluído.
+2025-09-25 00:27:38,995 - INFO - Iniciando processamento do edital: U_160402_E_900102024
+2025-09-25 00:27:38,996 - INFO - Resultado final já existe (U_160402_E_900102024_master.xlsx). Pulando processamento.
+2025-09-25 00:27:39,029 - INFO - Edital 30/90 concluído.
+2025-09-25 00:27:39,030 - INFO - Iniciando processamento do edital: U_180205_E_900072025
+2025-09-25 00:27:39,030 - INFO - Resultado final já existe (U_180205_E_900072025_master.xlsx). Pulando processamento.
+2025-09-25 00:27:39,045 - INFO - Edital 31/90 concluído.
+2025-09-25 00:27:39,046 - INFO - Iniciando processamento do edital: U_180224_E_900302025_29-09-2025_09h00m
+2025-09-25 00:27:39,047 - INFO - Resultado final já existe (U_180224_E_900302025_29-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:27:39,067 - INFO - Edital 32/90 concluído.
+2025-09-25 00:27:39,068 - INFO - Iniciando processamento do edital: U_240129_E_552025
+2025-09-25 00:27:39,069 - INFO - Resultado final já existe (U_240129_E_552025_master.xlsx). Pulando processamento.
+2025-09-25 00:27:39,077 - INFO - Edital 33/90 concluído.
+2025-09-25 00:27:39,078 - INFO - Iniciando processamento do edital: U_380195_E_900232025_25-09-2025_09h00m
+2025-09-25 00:27:39,078 - INFO - Resultado final já existe (U_380195_E_900232025_25-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:27:39,099 - INFO - Edital 34/90 concluído.
+2025-09-25 00:27:39,100 - INFO - Iniciando processamento do edital: U_389321_E_52025-DISPENSA
+2025-09-25 00:27:39,101 - INFO - Resultado final já existe (U_389321_E_52025-DISPENSA_master.xlsx). Pulando processamento.
+2025-09-25 00:27:39,107 - INFO - Edital 35/90 concluído.
+2025-09-25 00:27:39,108 - INFO - Iniciando processamento do edital: U_450432_E_900292025_23-09-2025_10h00m
+2025-09-25 00:27:39,109 - INFO - Resultado final já existe (U_450432_E_900292025_23-09-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:27:39,124 - INFO - Edital 36/90 concluído.
+2025-09-25 00:27:39,125 - INFO - Iniciando processamento do edital: U_453714_E_900322025
+2025-09-25 00:27:39,125 - INFO - Resultado final já existe (U_453714_E_900322025_master.xlsx). Pulando processamento.
+2025-09-25 00:27:39,143 - INFO - Edital 37/90 concluído.
+2025-09-25 00:27:39,144 - INFO - Iniciando processamento do edital: U_462264_E_900062025_30-09-2025_10h00m
+2025-09-25 00:27:39,144 - INFO - Resultado final já existe (U_462264_E_900062025_30-09-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:27:39,156 - INFO - Edital 38/90 concluído.
+2025-09-25 00:27:39,156 - INFO - Iniciando processamento do edital: U_481101_E_900112025_06-10-2025_09h30m
+2025-09-25 00:27:39,157 - INFO - Resultado final já existe (U_481101_E_900112025_06-10-2025_09h30m_master.xlsx). Pulando processamento.
+2025-09-25 00:27:39,170 - INFO - Edital 39/90 concluído.
+2025-09-25 00:27:39,171 - INFO - Iniciando processamento do edital: U_495130_E_900882025
+2025-09-25 00:27:39,171 - INFO - Resultado final já existe (U_495130_E_900882025_master.xlsx). Pulando processamento.
+2025-09-25 00:27:39,186 - INFO - Edital 40/90 concluído.
+2025-09-25 00:27:39,186 - INFO - Iniciando processamento do edital: U_713000_E_102025
+2025-09-25 00:27:39,187 - INFO - Resultado final já existe (U_713000_E_102025_master.xlsx). Pulando processamento.
+2025-09-25 00:27:39,193 - INFO - Edital 41/90 concluído.
+2025-09-25 00:27:39,193 - INFO - Iniciando processamento do edital: U_740002_E_900012025
+2025-09-25 00:27:39,194 - INFO - Resultado final já existe (U_740002_E_900012025_master.xlsx). Pulando processamento.
+2025-09-25 00:27:39,209 - INFO - Edital 42/90 concluído.
+2025-09-25 00:27:39,209 - INFO - Iniciando processamento do edital: U_762300_E_962782024_07-10-2025_10h00m
+2025-09-25 00:27:39,210 - INFO - Resultado final já existe (U_762300_E_962782024_07-10-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:27:39,234 - INFO - Edital 43/90 concluído.
+2025-09-25 00:27:39,235 - INFO - Iniciando processamento do edital: U_789311_E_842025
+2025-09-25 00:27:39,236 - INFO - [ETAPA 1/6] Garantindo que todos os arquivos estejam na pasta principal...
+2025-09-25 00:27:39,237 - INFO - [ETAPA 2/6] Verificando e descompactando arquivos recursivamente...
+2025-09-25 00:27:39,238 - INFO - [ETAPA 3/6] Extraindo texto de todos os PDFs para 'razao.txt' com contexto otimizado...
+2025-09-25 00:27:39,239 - INFO - Arquivo de contexto 'razao.txt' já existe. Pulando extração.
+2025-09-25 00:27:39,239 - INFO - [ETAPA 4/6] Extraindo itens de tabelas, planilhas ou 'RelacaoItens.pdf'...
+2025-09-25 00:27:39,240 - INFO - Tentando extrair tabelas de AVISO+DE+CONTRATACAO+789311_84_2025.pdf com Camelot
+2025-09-25 00:27:39,424 - INFO - Camelot extraiu tabela com (27, 7) de AVISO+DE+CONTRATACAO+789311_84_2025.pdf
+2025-09-25 00:27:39,424 - INFO - Camelot extraiu tabela com (46, 8) de AVISO+DE+CONTRATACAO+789311_84_2025.pdf
+2025-09-25 00:27:39,425 - INFO - Camelot extraiu tabela com (20, 8) de AVISO+DE+CONTRATACAO+789311_84_2025.pdf
+2025-09-25 00:27:39,427 - WARNING - Nenhum item foi encontrado para extração.
+2025-09-25 00:27:39,427 - INFO - [ETAPA 5/6] Processando com IA...
+2025-09-25 00:27:39,428 - INFO - Nenhum item encontrado. Usando IA como fallback para EXTRAIR do zero...
+2025-09-25 00:27:41,071 - INFO - Itens extraídos do zero pela IA.
+2025-09-25 00:27:41,072 - INFO - [ETAPA 6/6] Finalizando e salvando...
+2025-09-25 00:29:09,760 - INFO - Iniciando processamento de editais
+2025-09-25 00:29:09,763 - INFO - Iniciando processamento do edital: aba
+2025-09-25 00:29:09,763 - INFO - [ETAPA 1/6] Garantindo que todos os arquivos estejam na pasta principal...
+2025-09-25 00:29:09,764 - INFO - [ETAPA 2/6] Verificando e descompactando arquivos recursivamente...
+2025-09-25 00:29:09,765 - INFO - [ETAPA 3/6] Extraindo texto de todos os PDFs para 'razao.txt' com contexto otimizado...
+2025-09-25 00:29:09,766 - INFO - [ETAPA 4/6] Extraindo itens de tabelas, planilhas ou 'RelacaoItens.pdf'...
+2025-09-25 00:29:09,768 - WARNING - Nenhum item foi encontrado para extração.
+2025-09-25 00:29:09,768 - INFO - [ETAPA 5/6] Processando com IA...
+2025-09-25 00:29:09,769 - WARNING - Sem texto do PDF principal para aba
+2025-09-25 00:29:09,769 - INFO - Edital 1/90 concluído.
+2025-09-25 00:29:09,769 - INFO - Iniciando processamento do edital: ABA_U_120060_E_901092025
+2025-09-25 00:29:09,770 - INFO - Resultado final já existe (ABA_U_120060_E_901092025_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,009 - INFO - Edital 2/90 concluído.
+2025-09-25 00:29:10,010 - INFO - Iniciando processamento do edital: CARONA - Escola da Defensoria Publica do Estado de SAO PAULO
+2025-09-25 00:29:10,010 - INFO - Resultado final já existe (CARONA - Escola da Defensoria Publica do Estado de SAO PAULO_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,023 - INFO - Edital 3/90 concluído.
+2025-09-25 00:29:10,023 - INFO - Iniciando processamento do edital: CARONA - Estadual de Educação Tecnológica Paula Souza – CEETEPS
+2025-09-25 00:29:10,025 - INFO - Resultado final já existe (CARONA - Estadual de Educação Tecnológica Paula Souza – CEETEPS_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,038 - INFO - Edital 4/90 concluído.
+2025-09-25 00:29:10,039 - INFO - Iniciando processamento do edital: DISEPENSA - UASG 158009 - INSTITUTO FEDERAL DO PARANÁ
+2025-09-25 00:29:10,041 - INFO - Resultado final já existe (DISEPENSA - UASG 158009 - INSTITUTO FEDERAL DO PARANÁ_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,056 - INFO - Edital 5/90 concluído.
+2025-09-25 00:29:10,057 - INFO - Iniciando processamento do edital: DISEPNSA - UASG 160254 - 1 BATALHAO DE INFANTARIA MOTORIZADO(ES)
+2025-09-25 00:29:10,058 - INFO - Resultado final já existe (DISEPNSA - UASG 160254 - 1 BATALHAO DE INFANTARIA MOTORIZADO(ES)_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,071 - INFO - Edital 6/90 concluído.
+2025-09-25 00:29:10,071 - INFO - Iniciando processamento do edital: DISPENSA - UASG 102326 E 1072025
+2025-09-25 00:29:10,072 - INFO - Resultado final já existe (DISPENSA - UASG 102326 E 1072025_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,080 - INFO - Edital 7/90 concluído.
+2025-09-25 00:29:10,080 - INFO - Iniciando processamento do edital: DISPENSA - UASG 160195 - COMANDO DO COMANDO MILITAR DO NORDESTE
+2025-09-25 00:29:10,080 - INFO - Resultado final já existe (DISPENSA - UASG 160195 - COMANDO DO COMANDO MILITAR DO NORDESTE_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,096 - INFO - Edital 8/90 concluído.
+2025-09-25 00:29:10,096 - INFO - Iniciando processamento do edital: DISPENSA - UASG 160283 E_1052025 PREFEITURA MILITAR DA ZONA SUL
+2025-09-25 00:29:10,097 - INFO - Resultado final já existe (DISPENSA - UASG 160283 E_1052025 PREFEITURA MILITAR DA ZONA SUL_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,105 - INFO - Edital 9/90 concluído.
+2025-09-25 00:29:10,106 - INFO - Iniciando processamento do edital: DISPENSA - UASG 160377 - 8 ESQUADRAO DE CAVALARIA MECANIZADO
+2025-09-25 00:29:10,107 - INFO - Resultado final já existe (DISPENSA - UASG 160377 - 8 ESQUADRAO DE CAVALARIA MECANIZADO_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,116 - INFO - Edital 10/90 concluído.
+2025-09-25 00:29:10,117 - INFO - Iniciando processamento do edital: DISPENSA - UASG 781000 - COMANDO DO 1.DISTRITO NAVAL
+2025-09-25 00:29:10,118 - INFO - Resultado final já existe (DISPENSA - UASG 781000 - COMANDO DO 1.DISTRITO NAVAL_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,126 - INFO - Edital 11/90 concluído.
+2025-09-25 00:29:10,127 - INFO - Iniciando processamento do edital: DISPENSA - UASG 925203 EDITAL 52025
+2025-09-25 00:29:10,128 - INFO - Resultado final já existe (DISPENSA - UASG 925203 EDITAL 52025_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,135 - INFO - Edital 12/90 concluído.
+2025-09-25 00:29:10,136 - INFO - Iniciando processamento do edital: DISPENSA - UASG 926360 E_122025 - PMSP - FUNDACAO THEATRO MUNIC. DE SAO
+2025-09-25 00:29:10,137 - INFO - Resultado final já existe (DISPENSA - UASG 926360 E_122025 - PMSP - FUNDACAO THEATRO MUNIC. DE SAO_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,149 - INFO - Edital 13/90 concluído.
+2025-09-25 00:29:10,150 - INFO - Iniciando processamento do edital: EQUIPAMENTOS DE TI - CFPR - CAMPANHA
+2025-09-25 00:29:10,150 - INFO - Resultado final já existe (EQUIPAMENTOS DE TI - CFPR - CAMPANHA_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,157 - INFO - Edital 14/90 concluído.
+2025-09-25 00:29:10,157 - INFO - Iniciando processamento do edital: U_10001_E_900642025
+2025-09-25 00:29:10,158 - INFO - Resultado final já existe (U_10001_E_900642025_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,173 - INFO - Edital 15/90 concluído.
+2025-09-25 00:29:10,174 - INFO - Iniciando processamento do edital: U_102158_E_900352025_02-10-2025_09h00m
+2025-09-25 00:29:10,175 - INFO - Resultado final já existe (U_102158_E_900352025_02-10-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,188 - INFO - Edital 16/90 concluído.
+2025-09-25 00:29:10,188 - INFO - Iniciando processamento do edital: U_120645_E_1042026
+2025-09-25 00:29:10,188 - INFO - Resultado final já existe (U_120645_E_1042026_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,197 - INFO - Edital 17/90 concluído.
+2025-09-25 00:29:10,197 - INFO - Iniciando processamento do edital: U_153036_E_900192025
+2025-09-25 00:29:10,198 - INFO - Resultado final já existe (U_153036_E_900192025_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,221 - INFO - Edital 18/90 concluído.
+2025-09-25 00:29:10,221 - INFO - Iniciando processamento do edital: U_153128_E_762025
+2025-09-25 00:29:10,222 - INFO - Resultado final já existe (U_153128_E_762025_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,227 - INFO - Edital 19/90 concluído.
+2025-09-25 00:29:10,227 - INFO - Iniciando processamento do edital: U_153176_E_900162025_25-09-2025_09h00m
+2025-09-25 00:29:10,228 - INFO - Resultado final já existe (U_153176_E_900162025_25-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,245 - INFO - Edital 20/90 concluído.
+2025-09-25 00:29:10,246 - INFO - Iniciando processamento do edital: U_154039_E_903012025
+2025-09-25 00:29:10,246 - INFO - Resultado final já existe (U_154039_E_903012025_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,270 - INFO - Edital 21/90 concluído.
+2025-09-25 00:29:10,271 - INFO - Iniciando processamento do edital: U_154044_E_900302025_02-10-2025_11h00m
+2025-09-25 00:29:10,271 - INFO - Resultado final já existe (U_154044_E_900302025_02-10-2025_11h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,284 - INFO - Edital 22/90 concluído.
+2025-09-25 00:29:10,284 - INFO - Iniciando processamento do edital: U_154840_E_900022025_29-09-2025_09h00m
+2025-09-25 00:29:10,285 - INFO - Resultado final já existe (U_154840_E_900022025_29-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,305 - INFO - Edital 23/90 concluído.
+2025-09-25 00:29:10,305 - INFO - Iniciando processamento do edital: U_156679_E_552025
+2025-09-25 00:29:10,306 - INFO - Resultado final já existe (U_156679_E_552025_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,313 - INFO - Edital 24/90 concluído.
+2025-09-25 00:29:10,313 - INFO - Iniciando processamento do edital: U_158009_E_3362025
+2025-09-25 00:29:10,313 - INFO - Resultado final já existe (U_158009_E_3362025_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,321 - INFO - Edital 25/90 concluído.
+2025-09-25 00:29:10,322 - INFO - Iniciando processamento do edital: U_158125_E_905582025_02-10-2025_09h00m
+2025-09-25 00:29:10,322 - INFO - Resultado final já existe (U_158125_E_905582025_02-10-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,350 - INFO - Edital 26/90 concluído.
+2025-09-25 00:29:10,350 - INFO - Iniciando processamento do edital: U_158154_E_906112025_25-09-2025_09h00m
+2025-09-25 00:29:10,351 - INFO - Resultado final já existe (U_158154_E_906112025_25-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,375 - INFO - Edital 27/90 concluído.
+2025-09-25 00:29:10,375 - INFO - Iniciando processamento do edital: U_158492_E_202025 - DISPENSA MG
+2025-09-25 00:29:10,376 - INFO - Resultado final já existe (U_158492_E_202025 - DISPENSA MG_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,387 - INFO - Edital 28/90 concluído.
+2025-09-25 00:29:10,387 - INFO - Iniciando processamento do edital: U_160192_E_900022025_06-10-2025_10h00m
+2025-09-25 00:29:10,387 - INFO - Resultado final já existe (U_160192_E_900022025_06-10-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,412 - INFO - Edital 29/90 concluído.
+2025-09-25 00:29:10,412 - INFO - Iniciando processamento do edital: U_160402_E_900102024
+2025-09-25 00:29:10,413 - INFO - Resultado final já existe (U_160402_E_900102024_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,452 - INFO - Edital 30/90 concluído.
+2025-09-25 00:29:10,453 - INFO - Iniciando processamento do edital: U_180205_E_900072025
+2025-09-25 00:29:10,453 - INFO - Resultado final já existe (U_180205_E_900072025_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,469 - INFO - Edital 31/90 concluído.
+2025-09-25 00:29:10,470 - INFO - Iniciando processamento do edital: U_180224_E_900302025_29-09-2025_09h00m
+2025-09-25 00:29:10,470 - INFO - Resultado final já existe (U_180224_E_900302025_29-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,494 - INFO - Edital 32/90 concluído.
+2025-09-25 00:29:10,494 - INFO - Iniciando processamento do edital: U_240129_E_552025
+2025-09-25 00:29:10,494 - INFO - Resultado final já existe (U_240129_E_552025_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,501 - INFO - Edital 33/90 concluído.
+2025-09-25 00:29:10,501 - INFO - Iniciando processamento do edital: U_380195_E_900232025_25-09-2025_09h00m
+2025-09-25 00:29:10,502 - INFO - Resultado final já existe (U_380195_E_900232025_25-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,528 - INFO - Edital 34/90 concluído.
+2025-09-25 00:29:10,528 - INFO - Iniciando processamento do edital: U_389321_E_52025-DISPENSA
+2025-09-25 00:29:10,529 - INFO - Resultado final já existe (U_389321_E_52025-DISPENSA_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,536 - INFO - Edital 35/90 concluído.
+2025-09-25 00:29:10,536 - INFO - Iniciando processamento do edital: U_450432_E_900292025_23-09-2025_10h00m
+2025-09-25 00:29:10,537 - INFO - Resultado final já existe (U_450432_E_900292025_23-09-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,549 - INFO - Edital 36/90 concluído.
+2025-09-25 00:29:10,549 - INFO - Iniciando processamento do edital: U_453714_E_900322025
+2025-09-25 00:29:10,550 - INFO - Resultado final já existe (U_453714_E_900322025_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,570 - INFO - Edital 37/90 concluído.
+2025-09-25 00:29:10,570 - INFO - Iniciando processamento do edital: U_462264_E_900062025_30-09-2025_10h00m
+2025-09-25 00:29:10,570 - INFO - Resultado final já existe (U_462264_E_900062025_30-09-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,581 - INFO - Edital 38/90 concluído.
+2025-09-25 00:29:10,581 - INFO - Iniciando processamento do edital: U_481101_E_900112025_06-10-2025_09h30m
+2025-09-25 00:29:10,582 - INFO - Resultado final já existe (U_481101_E_900112025_06-10-2025_09h30m_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,595 - INFO - Edital 39/90 concluído.
+2025-09-25 00:29:10,595 - INFO - Iniciando processamento do edital: U_495130_E_900882025
+2025-09-25 00:29:10,596 - INFO - Resultado final já existe (U_495130_E_900882025_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,607 - INFO - Edital 40/90 concluído.
+2025-09-25 00:29:10,607 - INFO - Iniciando processamento do edital: U_713000_E_102025
+2025-09-25 00:29:10,608 - INFO - Resultado final já existe (U_713000_E_102025_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,616 - INFO - Edital 41/90 concluído.
+2025-09-25 00:29:10,617 - INFO - Iniciando processamento do edital: U_740002_E_900012025
+2025-09-25 00:29:10,618 - INFO - Resultado final já existe (U_740002_E_900012025_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,637 - INFO - Edital 42/90 concluído.
+2025-09-25 00:29:10,637 - INFO - Iniciando processamento do edital: U_762300_E_962782024_07-10-2025_10h00m
+2025-09-25 00:29:10,637 - INFO - Resultado final já existe (U_762300_E_962782024_07-10-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:29:10,678 - INFO - Edital 43/90 concluído.
+2025-09-25 00:29:10,678 - INFO - Iniciando processamento do edital: U_789311_E_842025
+2025-09-25 00:29:10,679 - INFO - [ETAPA 1/6] Garantindo que todos os arquivos estejam na pasta principal...
+2025-09-25 00:29:10,679 - INFO - [ETAPA 2/6] Verificando e descompactando arquivos recursivamente...
+2025-09-25 00:29:10,680 - INFO - [ETAPA 3/6] Extraindo texto de todos os PDFs para 'razao.txt' com contexto otimizado...
+2025-09-25 00:29:10,681 - INFO - Arquivo de contexto 'razao.txt' já existe. Pulando extração.
+2025-09-25 00:29:10,681 - INFO - [ETAPA 4/6] Extraindo itens de tabelas, planilhas ou 'RelacaoItens.pdf'...
+2025-09-25 00:29:10,683 - INFO - Tentando extrair tabelas de AVISO+DE+CONTRATACAO+789311_84_2025.pdf com Camelot
+2025-09-25 00:29:10,871 - INFO - Camelot extraiu tabela com (27, 7) de AVISO+DE+CONTRATACAO+789311_84_2025.pdf
+2025-09-25 00:29:10,871 - INFO - Camelot extraiu tabela com (46, 8) de AVISO+DE+CONTRATACAO+789311_84_2025.pdf
+2025-09-25 00:29:10,872 - INFO - Camelot extraiu tabela com (20, 8) de AVISO+DE+CONTRATACAO+789311_84_2025.pdf
+2025-09-25 00:29:10,873 - WARNING - Nenhum item foi encontrado para extração.
+2025-09-25 00:29:10,874 - INFO - [ETAPA 5/6] Processando com IA...
+2025-09-25 00:29:10,875 - INFO - Nenhum item encontrado. Usando IA como fallback para EXTRAIR do zero...
+2025-09-25 00:29:12,415 - INFO - Itens extraídos do zero pela IA.
+2025-09-25 00:29:12,416 - INFO - [ETAPA 6/6] Finalizando e salvando...
+2025-09-25 00:29:12,416 - ERROR - FALHA: Nenhum item foi extraído ou gerado. Criando placeholder.
+2025-09-25 00:29:12,514 - INFO - Edital 44/90 concluído.
+2025-09-25 00:29:12,515 - INFO - Iniciando processamento do edital: U_925010_E_900162025
+2025-09-25 00:29:12,516 - INFO - [ETAPA 1/6] Garantindo que todos os arquivos estejam na pasta principal...
+2025-09-25 00:31:47,129 - INFO - Iniciando processamento de editais
+2025-09-25 00:31:47,132 - INFO - Iniciando processamento do edital: aba
+2025-09-25 00:31:47,133 - INFO - [ETAPA 1/6] Garantindo que todos os arquivos estejam na pasta principal...
+2025-09-25 00:31:47,134 - INFO - [ETAPA 2/6] Verificando e descompactando arquivos recursivamente...
+2025-09-25 00:31:47,134 - INFO - [ETAPA 3/6] Extraindo texto de todos os PDFs para 'razao.txt' com contexto otimizado...
+2025-09-25 00:31:47,135 - INFO - [ETAPA 4/6] Extraindo itens de tabelas, planilhas ou 'RelacaoItens.pdf'...
+2025-09-25 00:31:47,137 - WARNING - Nenhum item foi encontrado para extração.
+2025-09-25 00:31:47,138 - INFO - [ETAPA 5/6] Processando com IA...
+2025-09-25 00:31:47,138 - WARNING - Sem texto do PDF principal para aba
+2025-09-25 00:31:47,139 - INFO - Edital 1/90 concluído.
+2025-09-25 00:31:47,139 - INFO - Iniciando processamento do edital: ABA_U_120060_E_901092025
+2025-09-25 00:31:47,140 - INFO - Resultado final já existe (ABA_U_120060_E_901092025_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,258 - INFO - Edital 2/90 concluído.
+2025-09-25 00:31:47,259 - INFO - Iniciando processamento do edital: CARONA - Escola da Defensoria Publica do Estado de SAO PAULO
+2025-09-25 00:31:47,259 - INFO - Resultado final já existe (CARONA - Escola da Defensoria Publica do Estado de SAO PAULO_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,265 - INFO - Edital 3/90 concluído.
+2025-09-25 00:31:47,266 - INFO - Iniciando processamento do edital: CARONA - Estadual de Educação Tecnológica Paula Souza – CEETEPS
+2025-09-25 00:31:47,267 - INFO - Resultado final já existe (CARONA - Estadual de Educação Tecnológica Paula Souza – CEETEPS_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,277 - INFO - Edital 4/90 concluído.
+2025-09-25 00:31:47,277 - INFO - Iniciando processamento do edital: DISEPENSA - UASG 158009 - INSTITUTO FEDERAL DO PARANÁ
+2025-09-25 00:31:47,278 - INFO - Resultado final já existe (DISEPENSA - UASG 158009 - INSTITUTO FEDERAL DO PARANÁ_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,284 - INFO - Edital 5/90 concluído.
+2025-09-25 00:31:47,285 - INFO - Iniciando processamento do edital: DISEPNSA - UASG 160254 - 1 BATALHAO DE INFANTARIA MOTORIZADO(ES)
+2025-09-25 00:31:47,286 - INFO - Resultado final já existe (DISEPNSA - UASG 160254 - 1 BATALHAO DE INFANTARIA MOTORIZADO(ES)_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,293 - INFO - Edital 6/90 concluído.
+2025-09-25 00:31:47,294 - INFO - Iniciando processamento do edital: DISPENSA - UASG 102326 E 1072025
+2025-09-25 00:31:47,294 - INFO - Resultado final já existe (DISPENSA - UASG 102326 E 1072025_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,301 - INFO - Edital 7/90 concluído.
+2025-09-25 00:31:47,301 - INFO - Iniciando processamento do edital: DISPENSA - UASG 160195 - COMANDO DO COMANDO MILITAR DO NORDESTE
+2025-09-25 00:31:47,302 - INFO - Resultado final já existe (DISPENSA - UASG 160195 - COMANDO DO COMANDO MILITAR DO NORDESTE_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,316 - INFO - Edital 8/90 concluído.
+2025-09-25 00:31:47,316 - INFO - Iniciando processamento do edital: DISPENSA - UASG 160283 E_1052025 PREFEITURA MILITAR DA ZONA SUL
+2025-09-25 00:31:47,317 - INFO - Resultado final já existe (DISPENSA - UASG 160283 E_1052025 PREFEITURA MILITAR DA ZONA SUL_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,325 - INFO - Edital 9/90 concluído.
+2025-09-25 00:31:47,325 - INFO - Iniciando processamento do edital: DISPENSA - UASG 160377 - 8 ESQUADRAO DE CAVALARIA MECANIZADO
+2025-09-25 00:31:47,325 - INFO - Resultado final já existe (DISPENSA - UASG 160377 - 8 ESQUADRAO DE CAVALARIA MECANIZADO_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,332 - INFO - Edital 10/90 concluído.
+2025-09-25 00:31:47,333 - INFO - Iniciando processamento do edital: DISPENSA - UASG 781000 - COMANDO DO 1.DISTRITO NAVAL
+2025-09-25 00:31:47,333 - INFO - Resultado final já existe (DISPENSA - UASG 781000 - COMANDO DO 1.DISTRITO NAVAL_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,339 - INFO - Edital 11/90 concluído.
+2025-09-25 00:31:47,339 - INFO - Iniciando processamento do edital: DISPENSA - UASG 925203 EDITAL 52025
+2025-09-25 00:31:47,340 - INFO - Resultado final já existe (DISPENSA - UASG 925203 EDITAL 52025_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,347 - INFO - Edital 12/90 concluído.
+2025-09-25 00:31:47,348 - INFO - Iniciando processamento do edital: DISPENSA - UASG 926360 E_122025 - PMSP - FUNDACAO THEATRO MUNIC. DE SAO
+2025-09-25 00:31:47,348 - INFO - Resultado final já existe (DISPENSA - UASG 926360 E_122025 - PMSP - FUNDACAO THEATRO MUNIC. DE SAO_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,357 - INFO - Edital 13/90 concluído.
+2025-09-25 00:31:47,357 - INFO - Iniciando processamento do edital: EQUIPAMENTOS DE TI - CFPR - CAMPANHA
+2025-09-25 00:31:47,357 - INFO - Resultado final já existe (EQUIPAMENTOS DE TI - CFPR - CAMPANHA_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,365 - INFO - Edital 14/90 concluído.
+2025-09-25 00:31:47,366 - INFO - Iniciando processamento do edital: U_10001_E_900642025
+2025-09-25 00:31:47,366 - INFO - Resultado final já existe (U_10001_E_900642025_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,380 - INFO - Edital 15/90 concluído.
+2025-09-25 00:31:47,381 - INFO - Iniciando processamento do edital: U_102158_E_900352025_02-10-2025_09h00m
+2025-09-25 00:31:47,382 - INFO - Resultado final já existe (U_102158_E_900352025_02-10-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,393 - INFO - Edital 16/90 concluído.
+2025-09-25 00:31:47,394 - INFO - Iniciando processamento do edital: U_120645_E_1042026
+2025-09-25 00:31:47,395 - INFO - Resultado final já existe (U_120645_E_1042026_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,402 - INFO - Edital 17/90 concluído.
+2025-09-25 00:31:47,402 - INFO - Iniciando processamento do edital: U_153036_E_900192025
+2025-09-25 00:31:47,403 - INFO - Resultado final já existe (U_153036_E_900192025_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,425 - INFO - Edital 18/90 concluído.
+2025-09-25 00:31:47,426 - INFO - Iniciando processamento do edital: U_153128_E_762025
+2025-09-25 00:31:47,426 - INFO - Resultado final já existe (U_153128_E_762025_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,432 - INFO - Edital 19/90 concluído.
+2025-09-25 00:31:47,432 - INFO - Iniciando processamento do edital: U_153176_E_900162025_25-09-2025_09h00m
+2025-09-25 00:31:47,433 - INFO - Resultado final já existe (U_153176_E_900162025_25-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,449 - INFO - Edital 20/90 concluído.
+2025-09-25 00:31:47,449 - INFO - Iniciando processamento do edital: U_154039_E_903012025
+2025-09-25 00:31:47,450 - INFO - Resultado final já existe (U_154039_E_903012025_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,468 - INFO - Edital 21/90 concluído.
+2025-09-25 00:31:47,469 - INFO - Iniciando processamento do edital: U_154044_E_900302025_02-10-2025_11h00m
+2025-09-25 00:31:47,469 - INFO - Resultado final já existe (U_154044_E_900302025_02-10-2025_11h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,484 - INFO - Edital 22/90 concluído.
+2025-09-25 00:31:47,484 - INFO - Iniciando processamento do edital: U_154840_E_900022025_29-09-2025_09h00m
+2025-09-25 00:31:47,485 - INFO - Resultado final já existe (U_154840_E_900022025_29-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,506 - INFO - Edital 23/90 concluído.
+2025-09-25 00:31:47,506 - INFO - Iniciando processamento do edital: U_156679_E_552025
+2025-09-25 00:31:47,507 - INFO - Resultado final já existe (U_156679_E_552025_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,512 - INFO - Edital 24/90 concluído.
+2025-09-25 00:31:47,513 - INFO - Iniciando processamento do edital: U_158009_E_3362025
+2025-09-25 00:31:47,513 - INFO - Resultado final já existe (U_158009_E_3362025_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,519 - INFO - Edital 25/90 concluído.
+2025-09-25 00:31:47,520 - INFO - Iniciando processamento do edital: U_158125_E_905582025_02-10-2025_09h00m
+2025-09-25 00:31:47,521 - INFO - Resultado final já existe (U_158125_E_905582025_02-10-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,543 - INFO - Edital 26/90 concluído.
+2025-09-25 00:31:47,543 - INFO - Iniciando processamento do edital: U_158154_E_906112025_25-09-2025_09h00m
+2025-09-25 00:31:47,544 - INFO - Resultado final já existe (U_158154_E_906112025_25-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,561 - INFO - Edital 27/90 concluído.
+2025-09-25 00:31:47,562 - INFO - Iniciando processamento do edital: U_158492_E_202025 - DISPENSA MG
+2025-09-25 00:31:47,563 - INFO - Resultado final já existe (U_158492_E_202025 - DISPENSA MG_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,572 - INFO - Edital 28/90 concluído.
+2025-09-25 00:31:47,573 - INFO - Iniciando processamento do edital: U_160192_E_900022025_06-10-2025_10h00m
+2025-09-25 00:31:47,573 - INFO - Resultado final já existe (U_160192_E_900022025_06-10-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,593 - INFO - Edital 29/90 concluído.
+2025-09-25 00:31:47,593 - INFO - Iniciando processamento do edital: U_160402_E_900102024
+2025-09-25 00:31:47,594 - INFO - Resultado final já existe (U_160402_E_900102024_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,630 - INFO - Edital 30/90 concluído.
+2025-09-25 00:31:47,631 - INFO - Iniciando processamento do edital: U_180205_E_900072025
+2025-09-25 00:31:47,631 - INFO - Resultado final já existe (U_180205_E_900072025_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,645 - INFO - Edital 31/90 concluído.
+2025-09-25 00:31:47,645 - INFO - Iniciando processamento do edital: U_180224_E_900302025_29-09-2025_09h00m
+2025-09-25 00:31:47,646 - INFO - Resultado final já existe (U_180224_E_900302025_29-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,665 - INFO - Edital 32/90 concluído.
+2025-09-25 00:31:47,666 - INFO - Iniciando processamento do edital: U_240129_E_552025
+2025-09-25 00:31:47,666 - INFO - Resultado final já existe (U_240129_E_552025_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,672 - INFO - Edital 33/90 concluído.
+2025-09-25 00:31:47,672 - INFO - Iniciando processamento do edital: U_380195_E_900232025_25-09-2025_09h00m
+2025-09-25 00:31:47,673 - INFO - Resultado final já existe (U_380195_E_900232025_25-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,691 - INFO - Edital 34/90 concluído.
+2025-09-25 00:31:47,691 - INFO - Iniciando processamento do edital: U_389321_E_52025-DISPENSA
+2025-09-25 00:31:47,692 - INFO - Resultado final já existe (U_389321_E_52025-DISPENSA_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,698 - INFO - Edital 35/90 concluído.
+2025-09-25 00:31:47,699 - INFO - Iniciando processamento do edital: U_450432_E_900292025_23-09-2025_10h00m
+2025-09-25 00:31:47,699 - INFO - Resultado final já existe (U_450432_E_900292025_23-09-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,709 - INFO - Edital 36/90 concluído.
+2025-09-25 00:31:47,709 - INFO - Iniciando processamento do edital: U_453714_E_900322025
+2025-09-25 00:31:47,710 - INFO - Resultado final já existe (U_453714_E_900322025_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,727 - INFO - Edital 37/90 concluído.
+2025-09-25 00:31:47,727 - INFO - Iniciando processamento do edital: U_462264_E_900062025_30-09-2025_10h00m
+2025-09-25 00:31:47,728 - INFO - Resultado final já existe (U_462264_E_900062025_30-09-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,740 - INFO - Edital 38/90 concluído.
+2025-09-25 00:31:47,740 - INFO - Iniciando processamento do edital: U_481101_E_900112025_06-10-2025_09h30m
+2025-09-25 00:31:47,740 - INFO - Resultado final já existe (U_481101_E_900112025_06-10-2025_09h30m_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,752 - INFO - Edital 39/90 concluído.
+2025-09-25 00:31:47,753 - INFO - Iniciando processamento do edital: U_495130_E_900882025
+2025-09-25 00:31:47,754 - INFO - Resultado final já existe (U_495130_E_900882025_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,764 - INFO - Edital 40/90 concluído.
+2025-09-25 00:31:47,765 - INFO - Iniciando processamento do edital: U_713000_E_102025
+2025-09-25 00:31:47,765 - INFO - Resultado final já existe (U_713000_E_102025_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,772 - INFO - Edital 41/90 concluído.
+2025-09-25 00:31:47,772 - INFO - Iniciando processamento do edital: U_740002_E_900012025
+2025-09-25 00:31:47,773 - INFO - Resultado final já existe (U_740002_E_900012025_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,787 - INFO - Edital 42/90 concluído.
+2025-09-25 00:31:47,788 - INFO - Iniciando processamento do edital: U_762300_E_962782024_07-10-2025_10h00m
+2025-09-25 00:31:47,788 - INFO - Resultado final já existe (U_762300_E_962782024_07-10-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,811 - INFO - Edital 43/90 concluído.
+2025-09-25 00:31:47,812 - INFO - Iniciando processamento do edital: U_789311_E_842025
+2025-09-25 00:31:47,813 - INFO - Resultado final já existe (U_789311_E_842025_master.xlsx). Pulando processamento.
+2025-09-25 00:31:47,819 - INFO - Edital 44/90 concluído.
+2025-09-25 00:31:47,819 - INFO - Iniciando processamento do edital: U_925010_E_900162025
+2025-09-25 00:31:47,820 - INFO - [ETAPA 1/6] Garantindo que todos os arquivos estejam na pasta principal...
+2025-09-25 00:33:25,859 - INFO - Iniciando processamento de editais
+2025-09-25 00:33:25,862 - INFO - Iniciando processamento do edital: aba
+2025-09-25 00:33:25,863 - INFO - [ETAPA 1/6] Garantindo que todos os arquivos estejam na pasta principal...
+2025-09-25 00:33:25,864 - INFO - [ETAPA 2/6] Verificando e descompactando arquivos recursivamente...
+2025-09-25 00:33:25,866 - INFO - [ETAPA 3/6] Extraindo texto de todos os PDFs para 'razao.txt' com contexto otimizado...
+2025-09-25 00:33:25,867 - INFO - [ETAPA 4/6] Extraindo itens de tabelas, planilhas ou 'RelacaoItens.pdf'...
+2025-09-25 00:33:25,869 - WARNING - Nenhum item foi encontrado para extração.
+2025-09-25 00:33:25,870 - INFO - [ETAPA 5/6] Processando com IA...
+2025-09-25 00:33:25,871 - WARNING - Sem texto do PDF principal para aba
+2025-09-25 00:33:25,871 - INFO - Edital 1/90 concluído.
+2025-09-25 00:33:25,872 - INFO - Iniciando processamento do edital: ABA_U_120060_E_901092025
+2025-09-25 00:33:25,873 - INFO - Resultado final já existe (ABA_U_120060_E_901092025_master.xlsx). Pulando processamento.
+2025-09-25 00:33:25,987 - INFO - Edital 2/90 concluído.
+2025-09-25 00:33:25,988 - INFO - Iniciando processamento do edital: CARONA - Escola da Defensoria Publica do Estado de SAO PAULO
+2025-09-25 00:33:25,988 - INFO - Resultado final já existe (CARONA - Escola da Defensoria Publica do Estado de SAO PAULO_master.xlsx). Pulando processamento.
+2025-09-25 00:33:25,995 - INFO - Edital 3/90 concluído.
+2025-09-25 00:33:25,995 - INFO - Iniciando processamento do edital: CARONA - Estadual de Educação Tecnológica Paula Souza – CEETEPS
+2025-09-25 00:33:25,996 - INFO - Resultado final já existe (CARONA - Estadual de Educação Tecnológica Paula Souza – CEETEPS_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,002 - INFO - Edital 4/90 concluído.
+2025-09-25 00:33:26,003 - INFO - Iniciando processamento do edital: DISEPENSA - UASG 158009 - INSTITUTO FEDERAL DO PARANÁ
+2025-09-25 00:33:26,003 - INFO - Resultado final já existe (DISEPENSA - UASG 158009 - INSTITUTO FEDERAL DO PARANÁ_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,012 - INFO - Edital 5/90 concluído.
+2025-09-25 00:33:26,013 - INFO - Iniciando processamento do edital: DISEPNSA - UASG 160254 - 1 BATALHAO DE INFANTARIA MOTORIZADO(ES)
+2025-09-25 00:33:26,014 - INFO - Resultado final já existe (DISEPNSA - UASG 160254 - 1 BATALHAO DE INFANTARIA MOTORIZADO(ES)_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,022 - INFO - Edital 6/90 concluído.
+2025-09-25 00:33:26,023 - INFO - Iniciando processamento do edital: DISPENSA - UASG 102326 E 1072025
+2025-09-25 00:33:26,024 - INFO - Resultado final já existe (DISPENSA - UASG 102326 E 1072025_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,031 - INFO - Edital 7/90 concluído.
+2025-09-25 00:33:26,032 - INFO - Iniciando processamento do edital: DISPENSA - UASG 160195 - COMANDO DO COMANDO MILITAR DO NORDESTE
+2025-09-25 00:33:26,033 - INFO - Resultado final já existe (DISPENSA - UASG 160195 - COMANDO DO COMANDO MILITAR DO NORDESTE_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,045 - INFO - Edital 8/90 concluído.
+2025-09-25 00:33:26,046 - INFO - Iniciando processamento do edital: DISPENSA - UASG 160283 E_1052025 PREFEITURA MILITAR DA ZONA SUL
+2025-09-25 00:33:26,047 - INFO - Resultado final já existe (DISPENSA - UASG 160283 E_1052025 PREFEITURA MILITAR DA ZONA SUL_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,053 - INFO - Edital 9/90 concluído.
+2025-09-25 00:33:26,054 - INFO - Iniciando processamento do edital: DISPENSA - UASG 160377 - 8 ESQUADRAO DE CAVALARIA MECANIZADO
+2025-09-25 00:33:26,054 - INFO - Resultado final já existe (DISPENSA - UASG 160377 - 8 ESQUADRAO DE CAVALARIA MECANIZADO_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,062 - INFO - Edital 10/90 concluído.
+2025-09-25 00:33:26,063 - INFO - Iniciando processamento do edital: DISPENSA - UASG 781000 - COMANDO DO 1.DISTRITO NAVAL
+2025-09-25 00:33:26,063 - INFO - Resultado final já existe (DISPENSA - UASG 781000 - COMANDO DO 1.DISTRITO NAVAL_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,069 - INFO - Edital 11/90 concluído.
+2025-09-25 00:33:26,070 - INFO - Iniciando processamento do edital: DISPENSA - UASG 925203 EDITAL 52025
+2025-09-25 00:33:26,071 - INFO - Resultado final já existe (DISPENSA - UASG 925203 EDITAL 52025_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,079 - INFO - Edital 12/90 concluído.
+2025-09-25 00:33:26,079 - INFO - Iniciando processamento do edital: DISPENSA - UASG 926360 E_122025 - PMSP - FUNDACAO THEATRO MUNIC. DE SAO
+2025-09-25 00:33:26,080 - INFO - Resultado final já existe (DISPENSA - UASG 926360 E_122025 - PMSP - FUNDACAO THEATRO MUNIC. DE SAO_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,085 - INFO - Edital 13/90 concluído.
+2025-09-25 00:33:26,086 - INFO - Iniciando processamento do edital: EQUIPAMENTOS DE TI - CFPR - CAMPANHA
+2025-09-25 00:33:26,086 - INFO - Resultado final já existe (EQUIPAMENTOS DE TI - CFPR - CAMPANHA_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,092 - INFO - Edital 14/90 concluído.
+2025-09-25 00:33:26,092 - INFO - Iniciando processamento do edital: U_10001_E_900642025
+2025-09-25 00:33:26,093 - INFO - Resultado final já existe (U_10001_E_900642025_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,107 - INFO - Edital 15/90 concluído.
+2025-09-25 00:33:26,108 - INFO - Iniciando processamento do edital: U_102158_E_900352025_02-10-2025_09h00m
+2025-09-25 00:33:26,108 - INFO - Resultado final já existe (U_102158_E_900352025_02-10-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,122 - INFO - Edital 16/90 concluído.
+2025-09-25 00:33:26,123 - INFO - Iniciando processamento do edital: U_120645_E_1042026
+2025-09-25 00:33:26,123 - INFO - Resultado final já existe (U_120645_E_1042026_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,132 - INFO - Edital 17/90 concluído.
+2025-09-25 00:33:26,133 - INFO - Iniciando processamento do edital: U_153036_E_900192025
+2025-09-25 00:33:26,133 - INFO - Resultado final já existe (U_153036_E_900192025_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,157 - INFO - Edital 18/90 concluído.
+2025-09-25 00:33:26,157 - INFO - Iniciando processamento do edital: U_153128_E_762025
+2025-09-25 00:33:26,158 - INFO - Resultado final já existe (U_153128_E_762025_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,164 - INFO - Edital 19/90 concluído.
+2025-09-25 00:33:26,164 - INFO - Iniciando processamento do edital: U_153176_E_900162025_25-09-2025_09h00m
+2025-09-25 00:33:26,165 - INFO - Resultado final já existe (U_153176_E_900162025_25-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,182 - INFO - Edital 20/90 concluído.
+2025-09-25 00:33:26,182 - INFO - Iniciando processamento do edital: U_154039_E_903012025
+2025-09-25 00:33:26,183 - INFO - Resultado final já existe (U_154039_E_903012025_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,202 - INFO - Edital 21/90 concluído.
+2025-09-25 00:33:26,202 - INFO - Iniciando processamento do edital: U_154044_E_900302025_02-10-2025_11h00m
+2025-09-25 00:33:26,203 - INFO - Resultado final já existe (U_154044_E_900302025_02-10-2025_11h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,219 - INFO - Edital 22/90 concluído.
+2025-09-25 00:33:26,219 - INFO - Iniciando processamento do edital: U_154840_E_900022025_29-09-2025_09h00m
+2025-09-25 00:33:26,220 - INFO - Resultado final já existe (U_154840_E_900022025_29-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,240 - INFO - Edital 23/90 concluído.
+2025-09-25 00:33:26,240 - INFO - Iniciando processamento do edital: U_156679_E_552025
+2025-09-25 00:33:26,241 - INFO - Resultado final já existe (U_156679_E_552025_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,248 - INFO - Edital 24/90 concluído.
+2025-09-25 00:33:26,249 - INFO - Iniciando processamento do edital: U_158009_E_3362025
+2025-09-25 00:33:26,249 - INFO - Resultado final já existe (U_158009_E_3362025_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,256 - INFO - Edital 25/90 concluído.
+2025-09-25 00:33:26,256 - INFO - Iniciando processamento do edital: U_158125_E_905582025_02-10-2025_09h00m
+2025-09-25 00:33:26,257 - INFO - Resultado final já existe (U_158125_E_905582025_02-10-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,280 - INFO - Edital 26/90 concluído.
+2025-09-25 00:33:26,281 - INFO - Iniciando processamento do edital: U_158154_E_906112025_25-09-2025_09h00m
+2025-09-25 00:33:26,281 - INFO - Resultado final já existe (U_158154_E_906112025_25-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,295 - INFO - Edital 27/90 concluído.
+2025-09-25 00:33:26,296 - INFO - Iniciando processamento do edital: U_158492_E_202025 - DISPENSA MG
+2025-09-25 00:33:26,296 - INFO - Resultado final já existe (U_158492_E_202025 - DISPENSA MG_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,304 - INFO - Edital 28/90 concluído.
+2025-09-25 00:33:26,305 - INFO - Iniciando processamento do edital: U_160192_E_900022025_06-10-2025_10h00m
+2025-09-25 00:33:26,305 - INFO - Resultado final já existe (U_160192_E_900022025_06-10-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,325 - INFO - Edital 29/90 concluído.
+2025-09-25 00:33:26,326 - INFO - Iniciando processamento do edital: U_160402_E_900102024
+2025-09-25 00:33:26,326 - INFO - Resultado final já existe (U_160402_E_900102024_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,360 - INFO - Edital 30/90 concluído.
+2025-09-25 00:33:26,361 - INFO - Iniciando processamento do edital: U_180205_E_900072025
+2025-09-25 00:33:26,362 - INFO - Resultado final já existe (U_180205_E_900072025_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,377 - INFO - Edital 31/90 concluído.
+2025-09-25 00:33:26,378 - INFO - Iniciando processamento do edital: U_180224_E_900302025_29-09-2025_09h00m
+2025-09-25 00:33:26,378 - INFO - Resultado final já existe (U_180224_E_900302025_29-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,397 - INFO - Edital 32/90 concluído.
+2025-09-25 00:33:26,398 - INFO - Iniciando processamento do edital: U_240129_E_552025
+2025-09-25 00:33:26,399 - INFO - Resultado final já existe (U_240129_E_552025_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,405 - INFO - Edital 33/90 concluído.
+2025-09-25 00:33:26,406 - INFO - Iniciando processamento do edital: U_380195_E_900232025_25-09-2025_09h00m
+2025-09-25 00:33:26,406 - INFO - Resultado final já existe (U_380195_E_900232025_25-09-2025_09h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,426 - INFO - Edital 34/90 concluído.
+2025-09-25 00:33:26,427 - INFO - Iniciando processamento do edital: U_389321_E_52025-DISPENSA
+2025-09-25 00:33:26,427 - INFO - Resultado final já existe (U_389321_E_52025-DISPENSA_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,434 - INFO - Edital 35/90 concluído.
+2025-09-25 00:33:26,434 - INFO - Iniciando processamento do edital: U_450432_E_900292025_23-09-2025_10h00m
+2025-09-25 00:33:26,435 - INFO - Resultado final já existe (U_450432_E_900292025_23-09-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,446 - INFO - Edital 36/90 concluído.
+2025-09-25 00:33:26,447 - INFO - Iniciando processamento do edital: U_453714_E_900322025
+2025-09-25 00:33:26,447 - INFO - Resultado final já existe (U_453714_E_900322025_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,464 - INFO - Edital 37/90 concluído.
+2025-09-25 00:33:26,464 - INFO - Iniciando processamento do edital: U_462264_E_900062025_30-09-2025_10h00m
+2025-09-25 00:33:26,464 - INFO - Resultado final já existe (U_462264_E_900062025_30-09-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,476 - INFO - Edital 38/90 concluído.
+2025-09-25 00:33:26,477 - INFO - Iniciando processamento do edital: U_481101_E_900112025_06-10-2025_09h30m
+2025-09-25 00:33:26,477 - INFO - Resultado final já existe (U_481101_E_900112025_06-10-2025_09h30m_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,489 - INFO - Edital 39/90 concluído.
+2025-09-25 00:33:26,489 - INFO - Iniciando processamento do edital: U_495130_E_900882025
+2025-09-25 00:33:26,490 - INFO - Resultado final já existe (U_495130_E_900882025_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,501 - INFO - Edital 40/90 concluído.
+2025-09-25 00:33:26,501 - INFO - Iniciando processamento do edital: U_713000_E_102025
+2025-09-25 00:33:26,502 - INFO - Resultado final já existe (U_713000_E_102025_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,509 - INFO - Edital 41/90 concluído.
+2025-09-25 00:33:26,509 - INFO - Iniciando processamento do edital: U_740002_E_900012025
+2025-09-25 00:33:26,510 - INFO - Resultado final já existe (U_740002_E_900012025_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,525 - INFO - Edital 42/90 concluído.
+2025-09-25 00:33:26,526 - INFO - Iniciando processamento do edital: U_762300_E_962782024_07-10-2025_10h00m
+2025-09-25 00:33:26,526 - INFO - Resultado final já existe (U_762300_E_962782024_07-10-2025_10h00m_master.xlsx). Pulando processamento.
+2025-09-25 00:33:26,548 - INFO - Edital 43/90 concluído.
+2025-09-25 00:33:26,549 - INFO - Iniciando processamento do edital: U_789311_E_842025
+2025-09-25 00:33:26,549 - INFO - [ETAPA 1/6] Garantindo que todos os arquivos estejam na pasta principal...
+2025-09-25 00:33:26,551 - INFO - [ETAPA 2/6] Verificando e descompactando arquivos recursivamente...
+2025-09-25 00:33:26,552 - INFO - [ETAPA 3/6] Extraindo texto de todos os PDFs para 'razao.txt' com contexto otimizado...
+2025-09-25 00:33:26,552 - INFO - Arquivo de contexto 'razao.txt' já existe. Pulando extração.
+2025-09-25 00:33:26,553 - INFO - [ETAPA 4/6] Extraindo itens de tabelas, planilhas ou 'RelacaoItens.pdf'...
+2025-09-25 00:33:26,553 - INFO - Tentando extrair tabelas de AVISO+DE+CONTRATACAO+789311_84_2025.pdf com Camelot
+2025-09-25 00:33:26,729 - INFO - Camelot extraiu tabela com (27, 7) de AVISO+DE+CONTRATACAO+789311_84_2025.pdf
+2025-09-25 00:33:26,730 - INFO - Camelot extraiu tabela com (46, 8) de AVISO+DE+CONTRATACAO+789311_84_2025.pdf
+2025-09-25 00:33:26,730 - INFO - Camelot extraiu tabela com (20, 8) de AVISO+DE+CONTRATACAO+789311_84_2025.pdf
+2025-09-25 00:33:26,733 - WARNING - Nenhum item foi encontrado para extração.
+2025-09-25 00:33:26,734 - INFO - [ETAPA 5/6] Processando com IA...
+2025-09-25 00:33:26,734 - INFO - Nenhum item encontrado. Usando IA como fallback para EXTRAIR do zero...
+2025-09-25 00:33:27,853 - INFO - Itens extraídos do zero pela IA.
+2025-09-25 00:33:27,854 - INFO - [ETAPA 6/6] Finalizando e salvando...

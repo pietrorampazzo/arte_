@@ -3084,3 +3084,7 @@
 2025-09-23 11:16:16,165 - INFO - Loading existing processed data from master_heavy.xlsx
 2025-09-23 11:16:16,251 - INFO - Found 343 already processed items.
 2025-09-23 11:16:16,255 - INFO - Identified 255 new items to process.
+2025-09-24 01:35:36,228 - INFO - Starting the product matching process...
+2025-09-24 01:35:37,052 - INFO - Loaded 578 items from master.xlsx and 3468 products from categoria_GPT.xlsx
+2025-09-24 01:35:37,055 - INFO - No existing output file found. Processing all items as new.
+2025-09-24 01:35:37,072 - INFO - Identified 578 new items to process.
