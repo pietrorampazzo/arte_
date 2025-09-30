@@ -25,8 +25,8 @@ except locale.Error:
 # Caminhos dos arquivos
 BASE_DIR = r"C:\Users\pietr\OneDrive\.vscode\arte_"
 CAMINHO_PLANILHA = os.path.join(BASE_DIR, "DOWNLOADS", "master_heavy.xlsx")
-CAMINHO_TEMPLATE_MASTER = os.path.join(BASE_DIR,"DOWNLOADS", "ORCAMENTOS_GERADOS", "TEMPLATES", "TEMPLATE_MASTER_ORCAMENTO.docx")
-CAMINHO_SAIDA_DIR = os.path.join(BASE_DIR, "DOWNLOADS" ,"ORCAMENTOS_GERADOS")
+CAMINHO_TEMPLATE_MASTER = os.path.join(BASE_DIR,"DOWNLOADS", "PROPOSTAS_GERADAS", "TEMPLATES", "TEMPLATE_MASTER_ORCAMENTO.docx")
+CAMINHO_SAIDA_DIR = os.path.join(BASE_DIR, "DOWNLOADS" ,"PROPOSTAS_GERADAS")
 
 # Configuração de logging
 logging.basicConfig(

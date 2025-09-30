@@ -1,0 +1,2880 @@
+UASG 180223
+
+
+                              ESP-COM.POLIC.AREA METROP-9
+
+                             Edital 40/2025
+
+
+
+ Informações Básicas
+
+
+  Número do artefato UASG                                  Editado por                                      Atualizado em
+
+  40/2025          180223-ESP-COM.POLIC.AREA METROP-9 HUDSON CUBA DO NASCIMENTO SANTOS REIS 23/09/2025 17:23 (v 0.4)
+
+  Status
+
+ ASSINADO
+
+ Outras informações
+
+
+  Categoria                                               Número da Contratação          Processo Administrativo
+
+   II - compra, inclusive por encomenda/Bens de consumo                                                    057.00395163/2025-5
+
+
+ Capa
+PREGÃO ELETRÔNICO
+
+ 90031/2025
+
+ CONTRATANTE (UASG)
+
+ 180223
+
+
+ OBJETO
+
+  Aquisição de materiais permanentes para o CPAM9 e subordinadas
+
+
+
+ VALOR TOTAL DA CONTRATAÇÃO
+
+ R$ 101.160,64 (cento e um mil cento e sessenta reais e sessenta e quatro centavos).
+
+
+
+ DATA DA SESSÃO PÚBLICA
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Edital para Pregão Eletrônico - Atualização: maio/2023                                                                                    1 de 19
+Aprovado pela Secretaria de Gestão e Inovação
+
+ Dia 07/10/2025 às 09h00 (horário de Brasília)
+
+
+ Critério de Julgamento:
+
+ Maior desconto/ menor preço por item
+
+ Modo de disputa:
+
+ Aberto
+
+
+ PREFERÊNCIA ME/EPP/EQUIPARADAS
+
+ SIM
+
+
+
+
+
+ Sumário
+
+ Sumário
+
+
+ 1.  DO OBJETO.. 3
+
+ 2.  DO REGISTRO DE PREÇOS 3
+
+ 3.  DA PARTICIPAÇÃO NA LICITAÇÃO.. 4
+
+ 4.  DA APRESENTAÇÃO DA PROPOSTA E DOS DOCUMENTOS DE HABILITAÇÃO.. 6
+
+ 5.  DO PREENCHIMENTO DA PROPOSTA. 7
+
+ 6.  DA ABERTURA DA SESSÃO, CLASSIFICAÇÃO DAS PROPOSTAS E FORMULAÇÃO DE LANCES. 9
+
+ 7.  DA FASE DE JULGAMENTO.. 13
+
+ 8.  DA FASE DE HABILITAÇÃO.. 17
+
+ 9.  DA ATA DE REGISTRO DE PREÇOS. 19
+
+ 10. DA FORMAÇÃO DO CADASTRO DE RESERVA. 20
+
+ 11. DOS RECURSOS. 21
+
+ 12. DAS INFRAÇÕES ADMINISTRATIVAS E SANÇÕES. 21
+
+ 13. DA IMPUGNAÇÃO AO EDITAL E DO PEDIDO DE ESCLARECIMENTO.. 25
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Edital para Pregão Eletrônico - Atualização: maio/2023                                                                                    2 de 19
+Aprovado pela Secretaria de Gestão e Inovação
+
+ 14. DAS DISPOSIÇÕES GERAIS. 25
+
+
+
+
+ 1. Do objeto
+
+
+
+
+
+                         POLÍCIA MILITAR DO ESTADO DE SÃO PAULO
+
+              COMANDO DE POLICIAMENTO DE ÁREA METROPOLITANA NOVE
+
+                                   UASG 180223
+
+
+                         PREGÃO ELETRÔNICO Nº 223/90031/2025
+
+                              Processo Administrativo n° 057.00395163/2025-5
+
+
+
+ Torna-se público que o Comando de Área Metropolitana Nove, por meio do Senhor Tenente Coronel PM Wagner
+ Roberto Sanchez Lima, sediado na Av. Sapopemba nº 12.370, Jd. Adutora, São Paulo, SP, realizará licitação, na
+ modalidade PREGÃO, na forma ELETRÔNICA, nos termos da Lei nº 14.133, de 1º de abril de 2021, do Decreto estadual
+ nº 67.608, de 27 de março de 2023, da Instrução Normativa SEGES/ME nº 73, de 30 de setembro de 2022, e demais
+ normas da legislação aplicável e, ainda, de acordo com as condições estabelecidas neste Edital e em seus Anexos,
+ observando-se as subdivisões subsequentes na forma de itens que compõem este instrumento.
+
+ 1. DO OBJETO
+
+ 1.1. O objeto da presente licitação é a aquisição de materiais permanentes eletro eletrônicos destinados ao CPAM/9 e
+ subordinadas, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.
+
+ A licitação será realizada pela totalidade dos materiais, conforme tabela constante no Termo de Referência, devendo
+ o licitante oferecer proposta para a totalidade de cada item.
+
+
+
+
+ 2. Do registro de preços
+
+ 2.1. Nesta licitação não será utilizado o Sistema de Registro de Preços.
+
+
+
+ 3. Da participação na licitação
+
+ 3.1.Poderão participar deste Pregão os interessados que estiverem previamente credenciados no Sistema de
+ Cadastramento Unificado de Fornecedores - SICAF e no Sistema de Compras do Governo Federal (www.gov.br
+ /compras).
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Edital para Pregão Eletrônico - Atualização: maio/2023                                                                                    3 de 19
+Aprovado pela Secretaria de Gestão e Inovação
+
+ 3.1.1. Os interessados deverão atender às condições exigidas no cadastramento no Sicaf até o terceiro dia útil
+ anterior à data prevista para recebimento das propostas.
+
+ 3.2. O licitante responsabiliza-se exclusiva e formalmente pelas transações efetuadas em seu nome, assume como
+ firmes e verdadeiras suas propostas e seus lances,  inclusive os atos praticados diretamente ou por seu
+ representante, excluída a responsabilidade do provedor do sistema ou do órgão ou entidade promotora da licitação
+ por eventuais danos decorrentes de uso indevido das credenciais de acesso, ainda que por terceiros.
+
+ 3.3. É de responsabilidade do cadastrado conferir a exatidão dos seus dados cadastrais nos Sistemas relacionados
+ no item anterior e mantê-los atualizados junto aos órgãos responsáveis pela informação, devendo proceder,
+ imediatamente, à correção ou à alteração dos registros tão logo identifique incorreção ou aqueles se tornem
+ desatualizados.
+
+ 3.4. A não observância do disposto no item anterior poderá ensejar desclassificação no momento da habilitação.
+
+ 3.5. Será concedido tratamento favorecido para as microempresas e empresas de pequeno porte, nos limites
+ previstos da Lei Complementar nº 123, de 2006 e do Decreto n.º 8.538, de 2015.
+
+ 3.6. Não poderão disputar esta licitação:
+
+ 3.6.1 aquele que não atenda às condições deste Edital e seu(s) anexo(s);
+
+ 3.6.2. autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa física ou jurídica, quando a licitação
+ versar sobre serviços ou fornecimento de bens a ele relacionados;
+
+ 3.6.3. empresa, isoladamente ou em consórcio, responsável pela elaboração do projeto básico ou do projeto
+ executivo, ou empresa da qual o autor do projeto seja dirigente, gerente, controlador, acionista ou detentor de mais de
+ 5% (cinco por cento) do capital com direito a voto, responsável técnico ou subcontratado, quando a licitação versar
+ sobre serviços ou fornecimento de bens a ela necessários;
+
+ 3.6.4. pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitada de participar da licitação em
+ decorrência de sanção que lhe foi imposta;
+
+ 3.6.5. aquele que mantenha vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com
+ dirigente do órgão ou entidade contratante ou com agente público que desempenhe função na licitação ou atue na
+ fiscalização ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente em linha reta, colateral ou
+ por afinidade, até o terceiro grau;
+
+ 3.6.6. empresas controladoras, controladas ou coligadas, nos termos da Lei nº 6.404, de 15 de dezembro de 1976,
+ concorrendo entre si;
+
+ 3.6.7. pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do edital, tenha sido condenada
+ judicialmente, com trânsito em julgado, por exploração de trabalho  infantil, por submissão de trabalhadores a
+ condições análogas às de escravo ou por contratação de adolescentes nos casos vedados pela legislação trabalhista;
+
+ 3.6.8. agente público do órgão ou entidade licitante;
+
+ 3.6.9. Organizações da Sociedade Civil de Interesse Público - OSCIP, atuando nessa condição;
+
+ 3.6.10. Não poderá participar, direta ou indiretamente, da licitação ou da execução do contrato agente público do
+ órgão ou entidade contratante, devendo ser observadas as situações que possam configurar conflito de interesses no
+ exercício ou após o exercício do cargo ou emprego, nos termos da legislação que disciplina a matéria, conforme § 1º
+ do art. 9º da Lei nº 14.133, de 2021.
+
+ 3.7. O impedimento de que trata o item 3.7.4 será também aplicado ao licitante que atue em substituição a outra
+ pessoa, física ou jurídica, com o intuito de burlar a efetividade da sanção a ela aplicada, inclusive a sua controladora,
+ controlada ou coligada, desde que devidamente comprovado o ilícito ou a utilização fraudulenta da personalidade
+ jurídica do licitante.
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Edital para Pregão Eletrônico - Atualização: maio/2023                                                                                    4 de 19
+Aprovado pela Secretaria de Gestão e Inovação
+
+ 3.8. A critério da Administração e exclusivamente a seu serviço, o autor dos projetos e a empresa a que se referem os
+ itens 3.7.2 e 3.7.3 poderão participar no apoio das atividades de planejamento da contratação, de execução da
+ licitação ou de gestão do contrato, desde que sob supervisão exclusiva de agentes públicos do órgão ou entidade.
+
+ 3.9. Equiparam-se aos autores do projeto as empresas integrantes do mesmo grupo econômico.
+
+ 3.10. O disposto nos itens 3.7.2 e 3.7.3 não impede a licitação ou a contratação de serviço que inclua como encargo
+ do contratado a elaboração do projeto básico e do projeto executivo, nas contratações integradas, e do projeto
+ executivo, nos demais regimes de execução.
+
+ 3.11. Em licitações e contratações realizadas no âmbito de projetos e programas parcialmente financiados por
+ agência oficial de cooperação estrangeira ou por organismo financeiro internacional com recursos do financiamento
+ ou da contrapartida nacional, não poderá participar pessoa física ou jurídica que integre o rol de pessoas sancionadas
+ por essas entidades ou que seja declarada inidônea nos termos da Lei nº 14.133/2021.
+
+ 3.12. A vedação de que trata o item 3.7.8 estende-se a terceiro que auxilie a condução da contratação na qualidade
+ de integrante de equipe de apoio, profissional especializado ou funcionário ou representante de empresa que preste
+ assessoria técnica.
+
+
+
+ 4. Da apresentação da proposta e dos documentos de habilitação
+
+ 4.1. Os licitantes encaminharão, exclusivamente por meio do sistema eletrônico, a proposta com o preço ou o
+ percentual de desconto, conforme o critério de julgamento adotado neste Edital, até a data e o horário estabelecidos
+ para abertura da sessão pública.
+
+ 4.2. Caso a fase de habilitação anteceda as fases de apresentação de propostas e lances, os  licitantes
+ encaminharão, na forma e no prazo estabelecidos no item anterior, simultaneamente os documentos de habilitação e
+ a proposta com o preço ou o percentual de desconto, observado o disposto nos itens 8.1.1 e 8.13.1 deste Edital.
+
+ 4.3. No cadastramento da proposta inicial, o licitante declarará, em campo próprio do sistema, que:
+
+ 4.3.1. está ciente e concorda com as condições contidas no edital e seus anexos, bem como de que a proposta
+ apresentada compreende a integralidade dos custos para atendimento dos direitos trabalhistas assegurados na
+ Constituição Federal, nas leis trabalhistas, nas normas infralegais, nas convenções coletivas de trabalho e nos termos
+ de ajustamento de conduta vigentes na data de sua entrega em definitivo e que cumpre plenamente os requisitos de
+ habilitação definidos no instrumento convocatório;
+
+ 4.3.2. não emprega menor de 18 anos em trabalho noturno, perigoso ou insalubre e não emprega menor de 16 anos,
+ salvo menor, a partir de 14 anos, na condição de aprendiz, nos termos do artigo 7°, XXXIII, da Constituição;
+
+ 4.3.4. não possui empregados executando trabalho degradante ou forçado, observando o disposto nos incisos III e IV
+ do art. 1º e no inciso III do art. 5º da Constituição Federal;
+
+ 4.4. O licitante organizado em cooperativa deverá declarar, ainda, em campo próprio do sistema eletrônico, que
+ cumpre os requisitos estabelecidos no artigo 16 da Lei nº 14.133, de 2021.
+
+ 4.5. A falsidade da declaração de que trata os itens 4.4 ou 4.6 sujeitará o licitante às sanções previstas na Lei nº
+ 14.133, de 2021, e neste Edital.
+
+ 4.6. Os licitantes poderão retirar ou substituir a proposta ou, na hipótese de a fase de habilitação anteceder as fases
+ de apresentação de propostas e lances e de julgamento, os documentos de habilitação anteriormente inseridos no
+ sistema, até a abertura da sessão pública.
+
+ 4.7. Não haverá ordem de classificação na etapa de apresentação da proposta e dos documentos de habilitação pelo
+  licitante, o que ocorrerá somente após os procedimentos de abertura da sessão pública e da fase de envio de lances.
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Edital para Pregão Eletrônico - Atualização: maio/2023                                                                                    5 de 19
+Aprovado pela Secretaria de Gestão e Inovação
+
+ 4.8. Serão disponibilizados para acesso público os documentos que compõem a proposta dos licitantes convocados
+ para apresentação de propostas, após a fase de envio de lances.
+
+ 4.9. Desde que disponibilizada a funcionalidade no sistema, o licitante poderá parametrizar o seu valor final mínimo
+ ou o seu percentual de desconto máximo quando do cadastramento da proposta e obedecerá às seguintes regras:
+
+ 4.9.1. a aplicação do intervalo mínimo de diferença de valores ou de percentuais entre os lances, que incidirá tanto
+ em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta; e
+
+ 4.9.2. os lances serão de envio automático pelo sistema, respeitado o valor final mínimo, caso estabelecido, e o
+ intervalo de que trata o subitem acima.
+
+ 4.10.1. valor superior a lance já registrado pelo fornecedor no sistema, quando adotado o critério de julgamento por
+ menor preço; e
+
+ 4.10.2. O valor final mínimo ou o percentual de desconto final máximo parametrizado na forma do item 4.11 possuirá
+ caráter sigiloso para os demais fornecedores e para o órgão ou entidade promotora da licitação, podendo ser
+ disponibilizado estrita e permanentemente aos órgãos de controle externo e interno.
+
+ 4.11. Caberá ao licitante interessado em participar da licitação acompanhar as operações no sistema eletrônico
+ durante o processo licitatório e se responsabilizar pelo ônus decorrente da perda de negócios diante da inobservância
+ de mensagens emitidas pela Administração ou de sua desconexão.
+
+ 4.12. O licitante deverá comunicar imediatamente ao provedor do sistema qualquer acontecimento que possa
+ comprometer o sigilo ou a segurança, para imediato bloqueio de acesso.
+
+
+
+ 5. Do preenchimento da proposta
+
+ 5.1. O licitante deverá enviar sua proposta mediante o preenchimento, no sistema eletrônico, dos seguintes campos:
+
+ 5.1.1. Valor total mensal dos itens no agrupamento;
+
+ 5.2. Todas as especificações do objeto contidas na proposta vinculam o licitante.
+
+ 5.2.1. O licitante NÃO poderá oferecer proposta em quantitativo inferior ao máximo previsto para contratação
+
+ 5.3. Nos valores propostos estarão inclusos todos os custos operacionais, encargos previdenciários, trabalhistas,
+ tributários, comerciais e quaisquer outros que incidam direta ou indiretamente na execução do objeto.
+
+ 5.4. Os preços ofertados, tanto na proposta inicial, quanto na etapa de lances, serão de exclusiva responsabilidade do
+  licitante, não lhe assistindo o direito de pleitear qualquer alteração, sob alegação de erro, omissão ou qualquer outro
+ pretexto.
+
+ 5.5. Se o regime tributário da empresa implicar o recolhimento de tributos em percentuais variáveis, a cotação
+ adequada será a que corresponde à média dos efetivos recolhimentos da empresa nos últimos doze meses.
+
+ 5.6. Independentemente do percentual de tributo inserido na planilha, no pagamento serão retidos na fonte os
+ percentuais estabelecidos na legislação vigente.
+
+ 5.7. Na presente licitação, a Microempresa e a Empresa de Pequeno Porte poderão se beneficiar do regime de
+ tributação pelo Simples Nacional
+
+ 5.8. A apresentação das propostas implica obrigatoriedade do cumprimento das disposições nelas contidas, em
+ conformidade com o que dispõe o Termo de Referência, assumindo o proponente o compromisso de executar o
+ objeto licitado nos seus termos, bem como de fornecer os materiais, equipamentos, ferramentas e utensílios
+ necessários, em quantidades e qualidades adequadas à  perfeita execução  contratual, promovendo, quando
+ requerido, sua substituição.
+
+ 5.8.1. O prazo de validade da proposta não será inferior a 60 (sessenta) dias , a contar da data de sua apresentação.
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Edital para Pregão Eletrônico - Atualização: maio/2023                                                                                    6 de 19
+Aprovado pela Secretaria de Gestão e Inovação
+
+ 5.8.2. Os licitantes devem respeitar os preços máximos estabelecidos nas normas de regência de contratações
+ públicas federais, quando participarem de licitações públicas;
+
+ 5.8.3. Caso o critério de julgamento seja o de maior desconto, o preço já decorrente da aplicação do desconto
+ ofertado deverá respeitar os preços máximos previstos no item 4.9.
+
+ 5.9. O descumprimento das regras supramencionadas pela Administração por parte dos contratados pode ensejar a
+ responsabilização pelo Tribunal de Contas da União  e, após o devido processo  legal, gerar as seguintes
+ consequências: assinatura de prazo para a adoção das medidas necessárias ao exato cumprimento da lei, nos
+ termos do art. 71, inciso IX, da Constituição; ou condenação dos agentes públicos responsáveis e da empresa
+ contratada ao pagamento dos prejuízos ao erário, caso verificada a ocorrência de superfaturamento por sobre preço
+ na execução do contrato.
+
+
+
+
+ 6. Da abertura da sessão, classificação das propostas e formulação de lances
+
+ 6.1. A abertura da presente licitação dar-se-á automaticamente em sessão pública, por meio de sistema eletrônico, na
+ data, horário e local indicados neste Edital.
+
+ 6.2. Os licitantes poderão retirar ou substituir a proposta ou os documentos de habilitação, quando for o caso,
+ anteriormente inseridos no sistema, até a abertura da sessão pública.
+
+ 6.3. O sistema disponibilizará campo próprio para troca de mensagens entre o Pregoeiro e os licitantes.
+
+ 6.4. Iniciada a etapa competitiva, os licitantes deverão encaminhar lances exclusivamente por meio de sistema
+ eletrônico, sendo imediatamente informados do seu recebimento e do valor consignado no registro.
+
+ 6.5. O lance deverá ser ofertado pelo valor unitário do item.
+
+ 6.6. Os licitantes poderão oferecer lances sucessivos, observando o horário fixado para abertura da sessão e as
+ regras estabelecidas no Edital.
+
+ 6.7. O licitante somente poderá oferecer lance de valor inferior ou percentual de desconto superior ao último por ele
+ ofertado e registrado pelo sistema.
+
+ 6.8. O intervalo mínimo de diferença de valores ou percentuais entre os lances, que incidirá tanto em relação aos
+ lances intermediários quanto em relação à proposta que cobrir a melhor oferta deverá ser de:
+
+ Obs: O valor de redução será de 1% da totalidade de cada item
+
+ 6.9. O licitante poderá, uma única vez, excluir seu último lance ofertado, no intervalo de quinze segundos após o
+ registro no sistema, na hipótese de lance inconsistente ou inexequível.
+
+ 6.10. O procedimento seguirá de acordo com o modo de disputa adotado.
+
+ 6.11. Caso seja adotado para o envio de lances no pregão eletrônico o modo de disputa “aberto”, os licitantes
+ apresentarão lances públicos e sucessivos, com prorrogações.
+
+ 6.11.1. A etapa de lances da sessão pública terá duração de dez minutos e, após isso, será prorrogada
+ automaticamente pelo sistema quando houver lance ofertado nos últimos dois minutos do período de duração da
+ sessão pública.
+
+ 6.11.2. A prorrogação automática da etapa de lances, de que trata o subitem anterior, será de dois minutos e ocorrerá
+ sucessivamente sempre que houver lances enviados nesse período de prorrogação, inclusive no caso de lances
+ intermediários.
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Edital para Pregão Eletrônico - Atualização: maio/2023                                                                                    7 de 19
+Aprovado pela Secretaria de Gestão e Inovação
+
+ 6.11.3.Não havendo novos lances na forma estabelecida nos itens anteriores, a sessão pública encerrar-se-á
+ automaticamente, e o sistema ordenará e divulgará os lances conforme a ordem final de classificação.
+
+ 6.11.4. Definida a melhor proposta, se a diferença em relação à proposta classificada em segundo lugar for de pelo
+ menos 5% (cinco por cento), o pregoeiro, auxiliado pela equipe de apoio, poderá admitir o reinício da disputa aberta,
+ para a definição das demais colocações.
+
+ 6.11.5. Após o reinício previsto no item supra, os licitantes serão convocados para apresentar lances intermediários.
+
+ 6.11.6 A etapa de lances da sessão pública terá duração inicial de quinze minutos. Após esse prazo, o sistema
+ encaminhará aviso de fechamento iminente dos lances, após o que transcorrerá o período de até dez minutos,
+ aleatoriamente determinado, findo o qual será automaticamente encerrada a recepção de lances.
+
+ 6.11.7. Encerrado o prazo previsto no subitem anterior, o sistema abrirá oportunidade para que o autor da oferta de
+ valor mais baixo e os das ofertas com preços até 10% (dez por cento) superiores àquela possam ofertar um lance
+  final e fechado em até cinco minutos, o qual será sigiloso até o encerramento deste prazo.
+
+ 6.11.8. No procedimento de que trata o subitem supra, o licitante poderá optar por manter o seu último lance da etapa
+ aberta, ou por ofertar melhor lance.
+
+ 6.11.9. Não havendo pelo menos três ofertas nas condições definidas neste item, poderão os autores dos melhores
+ lances subsequentes, na ordem de classificação, até o máximo de três, oferecer um lance final e fechado em até
+ cinco minutos, o qual será sigiloso até o encerramento deste prazo.
+
+ 6.11.10. Após o término dos prazos estabelecidos nos itens anteriores, o sistema ordenará e divulgará os lances
+ segundo a ordem crescente de valores.
+
+ 6.11.11. Não havendo pelo menos 3 (três) propostas nas condições definidas no item 6.13, poderão os licitantes que
+ apresentaram as três melhores propostas, consideradas as empatadas, oferecer novos lances sucessivos.
+
+ 6.11.12. A etapa de lances da sessão pública terá duração de dez minutos e, após isso, será prorrogada
+ automaticamente pelo sistema quando houver lance ofertado nos últimos dois minutos do período de duração da
+ sessão pública.
+
+ 6.11.13. A prorrogação automática da etapa de lances, de que trata o subitem anterior, será de dois minutos e
+ ocorrerá sucessivamente sempre que houver lances enviados nesse período de prorrogação, inclusive no caso de
+ lances intermediários.
+
+ 6.11.14. Não havendo novos lances na forma estabelecida nos itens anteriores, a sessão pública encerrar-se-á
+ automaticamente, e o sistema ordenará e divulgará os lances conforme a ordem final de classificação.
+
+ 6.11.15. Definida a melhor proposta, se a diferença em relação à proposta classificada em segundo lugar for de pelo
+ menos 5% (cinco por cento), o pregoeiro, auxiliado pela equipe de apoio, poderá admitir o reinício da disputa aberta,
+ para a definição das demais colocações.
+
+ 6.11.16. Após o  reinício previsto no subitem supra, os  licitantes serão convocados para apresentar lances
+ intermediários.
+
+ 6.12. Após o término dos prazos estabelecidos nos subitens anteriores, o sistema ordenará e divulgará os lances
+ segundo a ordem crescente de valores.
+
+ 6.13. Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for recebido e registrado em
+ primeiro lugar.
+
+ 6.14. Durante o transcurso da sessão pública, os licitantes serão informados, em tempo real, do valor do menor lance
+ registrado, vedada a identificação do licitante.
+
+ 6.15. No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do Pregão, o sistema eletrônico
+ poderá permanecer acessível aos licitantes para a recepção dos lances.
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Edital para Pregão Eletrônico - Atualização: maio/2023                                                                                    8 de 19
+Aprovado pela Secretaria de Gestão e Inovação
+
+ 6.16. Quando a desconexão do sistema eletrônico para o pregoeiro persistir por tempo superior a dez minutos, a
+ sessão pública será suspensa e reiniciada somente após decorridas vinte e quatro horas da comunicação do fato pelo
+ Pregoeiro aos participantes, no sítio eletrônico utilizado para divulgação.
+
+ 6.17. Caso o licitante não apresente lances, concorrerá com o valor de sua proposta.
+
+ 6.18. Em relação a itens não exclusivos para participação de microempresas e empresas de pequeno porte, uma vez
+ encerrada a etapa de lances, será efetivada a verificação automática, junto à Receita Federal, do porte da entidade
+ empresarial. O sistema identificará em coluna própria as microempresas e empresas de pequeno porte participantes,
+ procedendo à comparação com os valores da primeira colocada, se esta for empresa de maior porte, assim como das
+ demais classificadas, para o fim de aplicar-se o disposto nos arts. 44 e 45 da Lei Complementar nº 123, de 2006,
+ regulamentada pelo Decreto nº 8.538, de 2015.
+
+ 6.18.1. Nessas condições, as propostas de microempresas e empresas de pequeno porte que se encontrarem na
+ faixa de até 5% (cinco por cento) acima da melhor proposta ou melhor lance serão consideradas empatadas com a
+ primeira colocada.
+
+ 6.18.2. A melhor classificada nos termos do subitem anterior terá o direito de encaminhar uma última oferta para
+ desempate, obrigatoriamente em valor inferior ao da primeira colocada, no prazo de 5 (cinco) minutos controlados
+ pelo sistema, contados após a comunicação automática para tanto.
+
+ 6.18.3. Caso a microempresa ou a empresa de pequeno porte melhor classificada desista ou não se manifeste no
+ prazo estabelecido, serão convocadas as demais licitantes microempresa e empresa de pequeno porte que se
+ encontrem naquele intervalo de 5% (cinco por cento), na ordem de classificação, para o exercício do mesmo direito,
+ no prazo estabelecido no subitem anterior.
+
+ 6.18.4. No caso de equivalência dos valores apresentados pelas microempresas e empresas de pequeno porte que
+ se encontrem nos intervalos estabelecidos nos subitens anteriores, será realizado sorteio entre elas para que se
+ identifique aquela que primeiro poderá apresentar melhor oferta.
+
+ 6.19. Só poderá haver empate entre propostas iguais (não seguidas de lances), ou entre lances finais da fase fechada
+ do modo de disputa aberto e fechado.
+
+ 6.19.1. Havendo eventual empate entre propostas ou lances, o critério de desempate será aquele previsto no art. 60
+ da Lei nº 14.133, de 2021, nesta ordem:
+
+ 6.19.1.1. disputa final, hipótese em que os licitantes empatados poderão apresentar nova proposta em ato contínuo à
+ classificação;
+
+ 6.19.1.2. avaliação do desempenho contratual prévio dos licitantes, para a qual deverão preferencialmente ser
+ utilizados registros cadastrais para efeito de atesto de cumprimento de obrigações previstos nesta Lei;
+
+ 6.19.1.3. desenvolvimento pelo licitante de ações de equidade entre homens e mulheres no ambiente de trabalho,
+ conforme regulamento;
+
+ 6.21.1.4. desenvolvimento pelo licitante de programa de integridade, conforme orientações dos órgãos de controle.
+
+ 6.19.2. Persistindo o empate, será assegurada preferência, sucessivamente, aos bens e serviços produzidos ou
+ prestados por:
+
+ 6.19.2.1. empresas estabelecidas no  território do Estado ou do  Distrito Federal do órgão ou entidade da
+ Administração Pública estadual ou distrital licitante ou, no caso de licitação realizada por órgão ou entidade de
+ Município, no território do Estado em que este se localize;
+
+ 6.19.2.2. empresas brasileiras;
+
+ 6.19.2.3. empresas que invistam em pesquisa e no desenvolvimento de tecnologia no País;
+
+ 6.19.2.4. empresas que comprovem a prática de mitigação, nos termos da Lei nº 12.187, de 29 de dezembro de 2009.
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Edital para Pregão Eletrônico - Atualização: maio/2023                                                                                    9 de 19
+Aprovado pela Secretaria de Gestão e Inovação
+
+ 6.20. Encerrada a etapa de envio de lances da sessão pública, na hipótese da proposta do primeiro colocado
+ permanecer acima do preço máximo ou inferior ao desconto definido para a contratação, o pregoeiro poderá negociar
+ condições mais vantajosas, após definido o resultado do julgamento.
+
+ 6.20.1. Tratando-se de licitação em grupo, a contratação posterior de item específico do grupo exigirá prévia pesquisa
+ de mercado e demonstração de sua vantagem para o órgão ou a entidade e serão observados os seguintes preços
+ unitários máximos como critério de aceitabilidade:
+
+ 6.20.2. A negociação poderá ser feita com os demais licitantes, segundo a ordem de classificação inicialmente
+ estabelecida, quando o primeiro colocado, mesmo após a negociação, for desclassificado em razão de sua proposta
+ permanecer acima do preço máximo definido pela Administração.
+
+ 6.20.3. A negociação será realizada por meio do sistema, podendo ser acompanhada pelos demais licitantes.
+
+ 6.20.4. O resultado da negociação será divulgado a todos os licitantes e anexado aos autos do processo licitatório.
+
+ 6.20.5. O pregoeiro solicitará ao licitante mais bem classificado que, no prazo de 2 (duas) horas, envie a proposta
+ adequada ao último lance ofertado após a negociação realizada, acompanhada, se for o caso, dos documentos
+ complementares, quando necessários à confirmação daqueles exigidos neste Edital e já apresentados.
+
+ 6.20.6. É facultado ao pregoeiro prorrogar o prazo estabelecido, a partir de solicitação fundamentada feita no chat
+ pelo licitante, antes de findo o prazo.
+
+ 6.21. Após a negociação do preço, o Pregoeiro iniciará a fase de aceitação e julgamento da proposta.
+
+
+
+ 7. Da fase de julgamento
+
+ 7.1. Encerrada a etapa de negociação, o pregoeiro verificará se o licitante provisoriamente classificado em primeiro
+ lugar atende às condições de participação no certame, conforme previsto no art. 14 da Lei nº 14.133/2021, legislação
+ correlata e no item 3.7 do edital, especialmente quanto à existência de sanção que impeça a participação no certame
+ ou a futura contratação, mediante a consulta aos seguintes cadastros:
+
+ 7.1.1. SICAF;
+
+ 7.1.2. Cadastro Nacional de Empresas Inidôneas e Suspensas - CEIS, mantido pela Controladoria-Geral da União
+ (https://www.portaltransparencia.gov.br/sancoes/ceis); e
+
+ 7.1.3. Cadastro Nacional de Empresas Punidas – CNEP, mantido pela Controladoria-Geral da União (https://www.
+ portaltransparencia.gov.br/sancoes/cnep).
+
+ 7.2. A consulta aos cadastros será realizada em nome da empresa licitante e também de seu sócio majoritário, por
+ força da vedação de que trata o artigo 12 da Lei n° 8.429, de 1992.
+
+ 7.3. Caso conste na Consulta de Situação do licitante a existência de Ocorrências Impeditivas Indiretas, o Pregoeiro
+ diligenciará para verificar se houve fraude por parte das empresas apontadas no Relatório de Ocorrências Impeditivas
+ Indiretas. (IN nº 3/2018, art. 29, caput )
+
+ 7.3.1. A tentativa de burla será verificada por meio dos vínculos societários, linhas de fornecimento similares, dentre
+ outros. (IN nº 3/2018, art. 29, §1º).
+
+ 7.3.2. O licitante será convocado para manifestação previamente a uma eventual desclassificação. (IN nº 3/2018, art.
+ 29, §2º).
+
+ 7.3.3. Constatada a existência de sanção, o licitante será reputado inabilitado, por falta de condição de participação.
+
+ 7.4. Na hipótese de inversão das fases de habilitação e julgamento, caso atendidas as condições de participação,
+ será iniciado o procedimento de habilitação.
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Edital para Pregão Eletrônico - Atualização: maio/2023                                                                                   10 de 19
+Aprovado pela Secretaria de Gestão e Inovação
+
+ 7.5. Caso o licitante provisoriamente classificado em primeiro lugar tenha se utilizado de algum tratamento favorecido
+ às ME/EPPs, o pregoeiro verificará se faz jus ao benefício, em conformidade com os itens 3.5.1 e 4.6 deste edital.
+
+ 7.6. Verificadas as condições de participação e de utilização do tratamento favorecido, o pregoeiro examinará a
+ proposta classificada em primeiro lugar quanto à adequação ao objeto e à compatibilidade do preço em relação ao
+ máximo estipulado para contratação neste Edital e em seus anexos, observado o disposto no artigo 29 a 35 da IN
+ SEGES nº 73, de 30 de setembro de 2022.
+
+ 7.7. Será desclassificada a proposta vencedora que:
+
+ 7.7.1.contiver vícios insanáveis;
+
+ 7.7.2. não obedecer às especificações técnicas contidas no Termo de Referência;
+
+ 7.7.3. apresentar preços inexequíveis ou permanecerem acima do preço máximo definido para a contratação;
+
+ 7.7.4. não tiverem sua exequibilidade demonstrada, quando exigido pela Administração;
+
+ 7.7.5. apresentar desconformidade com quaisquer outras exigências deste Edital ou seus anexos, desde que
+ insanável.
+
+ 7.8. No caso de bens e serviços em geral, é indício de inexequibilidade das propostas valores inferiores a 50%
+ (cinquenta por cento) do valor orçado pela Administração.
+
+ 7.8.1. A inexequibilidade, na hipótese de que trata o caput , só será considerada após diligência do pregoeiro, que
+ comprove:
+
+ 7.8.1.1. que o custo do licitante ultrapassa o valor da proposta; e
+
+ 7.8.1.2. inexistirem custos de oportunidade capazes de justificar o vulto da oferta.
+
+ 7.9. Em contratação de serviços de engenharia, além das disposições acima, a análise de exequibilidade e sobre
+ preço considerará o seguinte:
+
+        7.9.1 Nos regimes de execução por tarefa, empreitada por preço global ou empreitada integral, semi-integrada
+      ou integrada, a caracterização do sobre preço se dará pela superação do valor global estimado;
+
+        7.9.2. Será exigida garantia adicional do licitante vencedor cuja proposta for inferior a 85% (oitenta e cinco por
+       cento) do valor orçado pela Administração, equivalente à diferença entre este último e o valor da proposta, sem
+        prejuízo das demais garantias exigíveis de acordo com a Lei.
+
+ 7.10. Se houver indícios de inexequibilidade da proposta de preço, ou em caso da necessidade de esclarecimentos
+ complementares, poderão ser efetuadas diligências, para que a empresa comprove a exequibilidade da proposta.
+
+ 7.11. Caso o custo global estimado do objeto licitado tenha sido decomposto em seus respectivos custos unitários por
+ meio de Planilha de Custos e Formação de Preços elaborada pela Administração, o licitante classificado em primeiro
+ lugar será convocado para apresentar Planilha por ele elaborada, com os respectivos valores adequados ao valor
+  final da sua proposta, sob pena de não aceitação da proposta.
+
+        7.11.1. Em se tratando de serviços de engenharia, o licitante vencedor será convocado a apresentar à
+       Administração, por meio eletrônico, as planilhas com indicação dos quantitativos e dos custos unitários,
+       seguindo o modelo elaborado pela Administração, bem como com detalhamento das Bonificações e Despesas
+        Indiretas (BDI) e dos Encargos Sociais (ES), com os respectivos valores adequados ao valor final da proposta
+       vencedora, admitida a utilização dos preços unitários, no caso de empreitada por preço global, empreitada
+         integral, contratação semi-integrada e contratação integrada, exclusivamente para eventuais adequações
+       indispensáveis no cronograma físico-financeiro e para balizar excepcional aditamento posterior do contrato.
+
+ 7.12. Erros no preenchimento da planilha não constituem motivo para a desclassificação da proposta. A planilha
+ poderá ser ajustada pelo fornecedor, no prazo indicado pelo sistema, desde que não haja majoração do preço e que
+ se comprove que este é o bastante para arcar com todos os custos da contratação;
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Edital para Pregão Eletrônico - Atualização: maio/2023                                                                                   11 de 19
+Aprovado pela Secretaria de Gestão e Inovação
+
+        7.12.1. O ajuste de que trata este dispositivo se limita a sanar erros ou falhas que não alterem a substância das
+       propostas;
+
+        7.12.2. Considera-se erro no preenchimento da planilha passível de correção a indicação de recolhimento de
+       impostos e contribuições na forma do Simples Nacional, quando não cabível esse regime.
+
+ 7.13. Para fins de análise da proposta quanto ao cumprimento das especificações do objeto, poderá ser colhida a
+ manifestação escrita do setor requisitante do serviço ou da área especializada no objeto.
+
+ 7.14. Caso o Termo de Referência exija a apresentação de amostra , o licitante classificado em primeiro lugar deverá
+ apresentá-la, conforme disciplinado no Termo de Referência, sob pena de não aceitação da proposta.
+
+ 7.15. Por meio de mensagem no sistema, será divulgado o local e horário de realização do procedimento para a
+ avaliação das amostras, cuja presença será facultada a todos os interessados, incluindo os demais licitantes.
+
+ 7.16. Os resultados das avaliações serão divulgados por meio de mensagem no sistema.
+
+ 7.17. No caso de não haver entrega da amostra ou ocorrer atraso na entrega, sem justificativa aceita pelo Pregoeiro,
+ ou havendo entrega de amostra fora das especificações previstas neste Edital, a proposta do licitante será recusada.
+
+ 7.18. Se a(s) amostra(s) apresentada(s) pelo primeiro classificado não for(em) aceita(s), o Pregoeiro analisará a
+ aceitabilidade da proposta ou lance ofertado pelo segundo classificado. Seguir-se-á com a verificação da(s) amostra
+ (s) e, assim, sucessivamente, até a verificação de uma que atenda às especificações constantes no Termo de
+ Referência.
+
+
+
+
+ 8. Da fase da habilitação
+
+ 8.1. Os documentos previstos no Termo de Referência, necessários e suficientes para demonstrar a capacidade do
+  licitante de realizar o objeto da licitação, serão exigidos para fins de habilitação, nos termos dos arts. 62 a 70 da Lei nº
+ 14.133, de 2021.
+
+ 8.1.1. A documentação exigida para fins de habilitação jurídica, fiscal, social e trabalhista e econômico-?nanceira,
+ poderá ser substituída pelo registro cadastral no SICAF.
+
+ 8.2. Quando permitida a participação de empresas estrangeiras que não funcionem no País, as exigências de
+ habilitação serão atendidas mediante documentos equivalentes, inicialmente apresentados em tradução livre.
+
+ 8.3. Na hipótese de o licitante vencedor ser empresa estrangeira que não funcione no País, para ?ns de assinatura do
+ contrato ou da ata de registro de preços, os documentos exigidos para a habilitação serão traduzidos por tradutor
+ juramentado no País e apostilados nos termos do disposto no Decreto nº 8.660, de 29 de janeiro de 2016, ou de outro
+ que venha a substituí-lo, ou consularizados pelos respectivos consulados ou embaixadas.
+
+ 8.4. Quando permitida a participação de consórcio de empresas, a habilitação técnica, quando exigida, será feita por
+ meio do somatório dos quantitativos de cada consorciado e, para efeito de habilitação econômico-financeira, quando
+ exigida, será observado o somatório dos valores de cada consorciado.
+
+ 8.4.1. Se o consórcio não for formado integralmente por microempresas ou empresas de pequeno porte e o termo de
+ referência exigir requisitos de habilitação econômico-financeira, haverá um acréscimo de INSERIR UM PERCENTUAL
+ 10% A 30 %, SALVO SE HOUVER JUSTIFICATIVA NOS AUTOS PARA SUPRIMIR ESSE ACRÉSCIMO para o
+ consórcio em relação ao valor exigido para os licitantes individuais.
+
+ 8.5. Os documentos exigidos para fins de habilitação poderão ser apresentados em original, por cópia ou por
+ INDICAR QUALQUER OUTRO MEIO EXPRESSAMENTE ADMITIDO PELA ADMINISTRAÇÃO. Os documentos
+ exigidos para fins de habilitação poderão ser apresentados em original, por cópia ou em formato digital, via sistema.
+
+ 8.6. Os documentos exigidos para fins de habilitação poderão ser substituídos por registro cadastral emitido por órgão
+ ou entidade pública, desde que o registro tenha sido feito em obediência ao disposto na Lei nº 14.133/2021.
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Edital para Pregão Eletrônico - Atualização: maio/2023                                                                                   12 de 19
+Aprovado pela Secretaria de Gestão e Inovação
+
+ 8.7. Será verificado se o licitante apresentou declaração de que atende aos requisitos de habilitação, e o declarante
+ responderá pela veracidade das informações prestadas, na forma da lei (art. 63, I, da Lei nº 14.133/2021).
+
+ 8.8. Será verificado se o licitante apresentou no sistema, sob pena de inabilitação, a declaração de que cumpre as
+ exigências de reserva de cargos para pessoa com deficiência e para reabilitado da Previdência Social, previstas em
+  lei e em outras normas específicas.
+
+ 8.9. O licitante deverá apresentar, sob pena de desclassificação, declaração de que suas propostas econômicas
+ compreendem a integralidade dos custos para atendimento dos direitos trabalhistas assegurados na Constituição
+ Federal, nas leis trabalhistas, nas normas infralegais, nas convenções coletivas de trabalho e nos termos de
+ ajustamento de conduta vigentes na data de entrega das propostas.
+
+ 8.10. Considerando que na presente contratação a avaliação prévia do local de execução é imprescindível para o
+ conhecimento pleno das condições e peculiaridades do objeto a ser contratado, o licitante deve atestar, sob pena de
+ inabilitação, que conhece o local e as condições de realização do serviço, assegurado a ele o direito de realização de
+ vistoria prévia.
+
+        8.10.1. O licitante que optar por realizar vistoria prévia terá disponibilizado pela Administração data e horário
+        exclusivos, a ser agendado pelo e-mail, cpam9p4@policiamitar.sp.gov.br, ou pelo telefone (11) 2012 4163
+      ramal 1165, a vistoria devera ser realizada no seguinte endereço:
+
+       Av. Sapopemba, nº 12.370, Jardim Adutora, São Paulo, SP Cep 03989 000, Quartel da Policia Militar, de
+     modo que seu agendamento não coincida com o agendamento de outros licitantes, essa visita só se faz
+       necessário se o objeto for serviço, na aquisição de materiais não a necessidade da visita a
+      princípio.
+
+        8.10.2. Caso o licitante opte por não realizar vistoria, poderá substituir a declaração exigida no presente item
+       por declaração formal assinada pelo seu responsável técnico acerca do conhecimento pleno das condições e
+       peculiaridades da contratação.
+
+ 8.11. A habilitação será verificada por meio do Sicaf, nos documentos por ele abrangidos.
+
+        8.11.1. Somente haverá a necessidade de comprovação do preenchimento de  requisitos mediante
+       apresentação dos documentos originais não-digitais quando houver dúvida em relação à integridade do
+      documento digital ou quando a lei expressamente o exigir. (IN nº 3/2018, art. 4º, §1º, e art. 6º, §4º).
+
+ 8.12. É de responsabilidade do licitante conferir a exatidão dos seus dados cadastrais no Sicaf e mantê-los
+ atualizados junto aos órgãos responsáveis pela informação, devendo proceder, imediatamente, à correção ou à
+ alteração dos registros tão logo identifique incorreção ou aqueles se tornem desatualizados. (IN nº 3/2018, art. 7º,
+ caput ).
+
+        8.12.1. A não observância do disposto no item anterior poderá ensejar desclassificação no momento da
+        habilitação. (IN nº 3/2018, art. 7º, parágrafo único).
+
+ 8.13. A verificação pelo pregoeiro, em sítios eletrônicos oficiais de órgãos e entidades emissores de certidões
+ constitui meio legal de prova, para fins de habilitação.
+
+        8.13.1. Os documentos exigidos para habilitação que não estejam contemplados no Sicaf serão enviados por
+      meio do sistema, em formato digital, no prazo de 2 (duas) horas, prorrogável por igual período, contado da
+        solicitação do pregoeiro.
+
+        8.13.2. Na hipótese de a fase de habilitação anteceder a fase de apresentação de propostas e lances, os
+         licitantes encaminharão, por meio do sistema, simultaneamente os documentos de habilitação e a proposta
+     com o preço ou o percentual de desconto, observado o disposto no § 1º do art. 36 e no § 1º do art. 39 da
+        Instrução Normativa SEGES nº 73, de 30 de setembro de 2022 .
+
+ 8.14. A verificação no Sicaf ou a exigência dos documentos nele não contidos somente será feita em relação ao
+  licitante vencedor.
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Edital para Pregão Eletrônico - Atualização: maio/2023                                                                                   13 de 19
+Aprovado pela Secretaria de Gestão e Inovação
+
+        8.14.1. Os documentos relativos à regularidade fiscal que constem do Termo de Referência somente serão
+        exigidos, em qualquer caso, em momento posterior ao julgamento das propostas, e apenas do licitante mais
+     bem classificado.
+
+        8.14.2. Respeitada a exceção do subitem anterior, relativa à regularidade fiscal, quando a fase de habilitação
+       anteceder as fases de apresentação de propostas e lances e de julgamento, a verificação ou exigência do
+       presente subitem ocorrerá em relação a todos os licitantes.
+
+              8.14.3. complementação de informações acerca dos documentos já apresentados pelos licitantes
+ e      desde que necessária para apurar fatos existentes à época da abertura do certame; e
+
+        8.14.4. atualização de documentos cuja validade tenha expirado após a data de recebimento das propostas;
+
+ 8.15. Na análise dos documentos de habilitação, a comissão de contratação poderá sanar erros ou falhas, que não
+ alterem a substância dos documentos e sua validade jurídica, mediante decisão fundamentada, registrada em ata e
+ acessível a todos, atribuindo-lhes eficácia para fins de habilitação e classificação.
+
+ 8.16. Na hipótese de o licitante não atender às exigências para habilitação, o pregoeiro examinará a proposta
+ subsequente e assim sucessivamente, na ordem de classificação, até a apuração de uma proposta que atenda ao
+ presente edital, observado o prazo disposto no subitem 8.13.1.
+
+ 8.17. Somente serão disponibilizados para acesso público os documentos de habilitação do licitante cuja proposta
+ atenda ao edital de licitação, após concluídos os procedimentos de que trata o subitem anterior.
+
+ 8.18. A comprovação de regularidade fiscal e trabalhista das microempresas e das empresas de pequeno porte
+ somente será exigida para efeito de contratação, e não como condição para participação na licitação (art. 4º do
+ Decreto nº 8.538/2015).
+
+ 8.19. Quando a fase de habilitação anteceder a de julgamento e já tiver sido encerrada, não caberá exclusão de
+ licitante por motivo relacionado à habilitação, salvo em razão de fatos supervenientes ou só conhecidos após o
+ julgamento.
+
+ 8.20. O licitante "vencedor" na habilitação, NÃO poderá constar no sistema CADIN, ao qual será pesquisado pelo
+ pregoeiro nesta fase, será motivo de desclassificação imediata.
+
+ 8.21. Nesta fase ainda o licitante "vencedor" da licitação enviara juntamente com a proposta assinada, a conta
+ jurídica do Banco do BRASIL referente ao Decreto Estadual nº 62.867 de 03 de outubro de 2017, que versa
+ sobre a obrigatoriedade de conta nesta instituição no Estado de São Paulo.
+
+
+
+ 9. Da ata de registro de preços
+
+ 9.1. Nesta licitação não será utilizado o Sistema de Registro de Preços.
+
+
+
+ 10. Da formação do cadastro de reserva
+
+ 10.1. Nesta licitação não será utilizada a formação de cadastro reserva.
+
+
+
+ 11. Dos recursos
+
+ 11.1. A interposição de recurso referente ao julgamento das propostas, à habilitação ou inabilitação de licitantes, à
+ anulação ou revogação da licitação, observará o disposto no art. 165 da Lei nº 14.133, de 2021.
+
+ 11.2. O prazo recursal é de 3 (três) dias úteis, contados da data de intimação ou de lavratura da ata.
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Edital para Pregão Eletrônico - Atualização: maio/2023                                                                                   14 de 19
+Aprovado pela Secretaria de Gestão e Inovação
+
+ 11.3. Quando o recurso apresentado impugnar o julgamento das propostas ou o ato de habilitação ou inabilitação do
+  licitante:
+
+        11.3.1. a intenção de recorrer deverá ser manifestada imediatamente, sob pena de preclusão;
+
+        11.3.2. o prazo para a manifestação da intenção de recorrer não será inferior a 10 (dez) minutos.
+
+        11.3.3. o prazo para apresentação das razões recursais será iniciado na data de intimação ou de lavratura da
+       ata de habilitação ou inabilitação;
+
+        11.3.4. na hipótese de adoção da inversão de fases prevista no § 1º do art. 17 da Lei nº 14.133, de 2021, o
+       prazo para apresentação das razões recursais será iniciado na data de intimação da ata de julgamento.
+
+ 11.4. Os recursos deverão ser encaminhados em campo próprio do sistema.
+
+ 11.5. O recurso será dirigido à autoridade que tiver editado o ato ou proferido a decisão recorrida, a qual poderá
+ reconsiderar sua decisão no prazo de 3 (três) dias úteis, ou, nesse mesmo prazo, encaminhar recurso para a
+ autoridade superior, a qual deverá proferir sua decisão no prazo de 10 (dez) dias úteis, contado do recebimento dos
+ autos.
+
+ 11.6. Os recursos interpostos fora do prazo não serão conhecidos.
+
+ 11.7. O prazo para apresentação de contrarrazões ao recurso pelos demais licitantes será de 3 (três) dias úteis,
+ contados da data da intimação pessoal ou da divulgação da interposição do recurso, assegurada a vista imediata dos
+ elementos indispensáveis à defesa de seus interesses.
+
+ 11.8. O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão recorrida até que
+ sobrevenha decisão final da autoridade competente.
+
+ 11.9. O acolhimento do recurso invalida tão somente os atos insuscetíveis de aproveitamento.
+
+ 11.10. Os autos do processo permanecerão com vista franqueada aos interessados no sítio eletrônico www.compras.
+ gov.br .
+
+
+
+
+
+ 12. Das infrações administrativas e sanções
+
+ 12.1. Comete infração administrativa, nos termos da lei, o licitante que, com dolo ou culpa:
+
+ 12.1.1.deixar de entregar a documentação exigida para o certame ou não entregar qualquer documento que tenha
+ sido solicitado pelo/a pregoeiro/a durante o certame;
+
+ 12.1.2. Salvo em decorrência de fato superveniente devidamente justificado, não mantiver a proposta em especial
+ quando:
+
+ 12.1.2.1. não enviar a proposta adequada ao último lance ofertado ou após a negociação;
+
+ 12.1.2.2. recusar-se a enviar o detalhamento da proposta quando exigível;
+
+ 12.1.2.3. pedir para ser desclassificado quando encerrada a etapa competitiva; ou
+
+ 12.1.2.4. deixar de apresentar amostra;
+
+ 12.1.2.5. apresentar proposta ou amostra em desacordo com as especificações do edital;
+
+ 12.1.3. não celebrar o contrato ou não entregar a documentação exigida para a contratação, quando convocado
+ dentro do prazo de validade de sua proposta;
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Edital para Pregão Eletrônico - Atualização: maio/2023                                                                                   15 de 19
+Aprovado pela Secretaria de Gestão e Inovação
+
+ 12.1.3.1. recusar-se, sem justificativa, a assinar o contrato ou a ata de registro de preço, ou a aceitar ou retirar o
+ instrumento equivalente no prazo estabelecido pela Administração;
+
+ 12.1.4. apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração falsa durante a
+ licitação
+
+ 12.1.5. fraudar a licitação
+
+ 12.1.6. comportar-se de modo inidôneo ou cometer fraude de qualquer natureza, em especial quando:
+
+ 12.1.6.1. agir em conluio ou em desconformidade com a lei;
+
+ 12.1.6.2. induzir deliberadamente a erro no julgamento;
+
+ 12.1.6.3. apresentar amostra falsificada ou deteriorada;
+
+ 12.1.7. praticar atos ilícitos com vistas a frustrar os objetivos da licitação
+
+ 12.1.8. praticar ato lesivo previsto no art. 5º da Lei n.º 12.846, de 2013.
+
+ 12.2. Com fulcro na Lei nº 14.133, de 2021, a Administração poderá, garantida a prévia defesa, aplicar aos licitantes e
+ /ou adjudicatários as seguintes sanções, sem prejuízo das responsabilidades civil e criminal:
+
+ 12.2.1.advertência;
+
+ 12.2.2. multa;
+
+ 12.2.3. impedimento de licitar e contratar e
+
+ 12.2.4. declaração de inidoneidade para licitar ou contratar, enquanto perdurarem os motivos determinantes da
+ punição ou até que seja promovida sua reabilitação perante a própria autoridade que aplicou a penalidade.
+
+ 12.3. Na aplicação das sanções serão considerados:
+
+ 12.3.1. a natureza e a gravidade da infração cometida.
+
+ 12.3.2. as peculiaridades do caso concreto
+
+ 12.3.3. as circunstâncias agravantes ou atenuantes
+
+ 12.3.4. os danos que dela provierem para a Administração Pública
+
+ 12.3.5. a implantação ou o aperfeiçoamento de programa de integridade, conforme normas e orientações dos órgãos
+ de controle.
+
+ 12.4. A multa será recolhida em percentual de 0,5% a 30% incidente sobre o valor do contrato licitado, recolhida no
+ prazo máximo de 5 (cinco) dias úteis, a contar da comunicação oficial.
+
+ 12.4.1. Para as infrações previstas nos itens 12.1.1, 12.1.2 e 12.1.3, a multa será de 0,5% (cinco décimos por cento) a
+ 15% (quinze por cento) do valor do contrato licitado.
+
+ 12.4.2. Para as infrações previstas nos itens 12.1.4, 12.1.5, 12.1.6, 12.1.7 e 12.1.8, a multa será de 15% (quinze por
+ cento) a 30% (trinta por cento) do valor do contrato licitado.
+
+ 12.5. As sanções de advertência, impedimento de licitar e contratar e declaração de inidoneidade para licitar ou
+ contratar poderão ser aplicadas, cumulativamente ou não, à penalidade de multa.
+
+ 12.6. Na aplicação da sanção de multa será facultada a defesa do interessado no prazo de 15 (quinze) dias úteis,
+ contado da data de sua intimação.
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Edital para Pregão Eletrônico - Atualização: maio/2023                                                                                   16 de 19
+Aprovado pela Secretaria de Gestão e Inovação
+
+ 12.7. A sanção de impedimento de licitar e contratar será aplicada ao responsável em decorrência das infrações
+ administrativas relacionadas nos itens 12.1.1, 12.1.2 e 12.1.3, quando não se justificar a imposição de penalidade
+ mais grave, e impedirá o responsável de licitar e contratar no âmbito da Administração Pública direta e indireta do
+ ente federativo a qual pertencer o órgão ou entidade, pelo prazo máximo de 3 (três) anos.
+
+ 12.8. Poderá ser aplicada ao responsável a sanção de declaração de inidoneidade para licitar ou contratar, em
+ decorrência da prática das infrações dispostas nos itens 12.1.4, 12.1.5, 12.1.6, 12.1.7 e 12.1.8, bem como pelas
+ infrações administrativas previstas nos itens 12.1.1, 12.1.2 e 12.1.3 que justifiquem a imposição de penalidade mais
+ grave que a sanção de impedimento de licitar e contratar, cuja duração observará o prazo previsto no art. 156, §5º, da
+ Lei n.º 14.133/2021.
+
+ 12.9. A recusa injustificada do adjudicatário em assinar o contrato ou a ata de registro de preço, ou em aceitar ou
+  retirar o instrumento equivalente no prazo estabelecido pela Administração, descrita no item 12.1.3, caracterizará o
+ descumprimento total da obrigação assumida e o sujeitará às penalidades e à imediata perda da garantia de proposta
+ em favor do órgão ou entidade promotora da licitação, nos termos do art. 45, §4º da IN SEGES/ME n.º 73, de 2022.
+
+ 12.10. A apuração de responsabilidade relacionadas às sanções de impedimento de licitar e contratar e de declaração
+ de inidoneidade para licitar ou contratar demandará a instauração de processo de responsabilização a ser conduzido
+ por comissão composta por 2 (dois) ou mais servidores estáveis, que avaliará fatos e circunstâncias conhecidos e
+ intimará o licitante ou o adjudicatário para, no prazo de 15 (quinze) dias úteis, contado da data de sua intimação,
+ apresentar defesa escrita e especificar as provas que pretenda produzir.
+
+ 12.11. Caberá recurso no prazo de 15 (quinze) dias úteis da aplicação das sanções de advertência, multa e
+ impedimento de licitar e contratar, contado da data da intimação, o qual será dirigido à autoridade que tiver proferido a
+ decisão recorrida, que, se não a reconsiderar no prazo de 5 (cinco) dias úteis, encaminhará o recurso com sua
+ motivação à autoridade superior, que deverá proferir sua decisão no prazo máximo de 20 (vinte) dias úteis, contado
+ do recebimento dos autos.
+
+ 12.12. Caberá a apresentação de pedido de reconsideração da aplicação da sanção de declaração de inidoneidade
+ para licitar ou contratar no prazo de 15 (quinze) dias úteis, contado da data da intimação, e decidido no prazo máximo
+ de 20 (vinte) dias úteis, contado do seu recebimento.
+
+ 12.13. O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão recorrida até que
+ sobrevenha decisão final da autoridade competente.
+
+ 12.14. A aplicação das sanções previstas neste edital não exclui, em hipótese alguma, a obrigação de reparação
+ integral dos danos causados.
+
+
+
+ 13. Da impugnação do edital e do pedido de esclarecimento
+
+ 13.1. Qualquer pessoa é parte legítima para impugnar este Edital por irregularidade na aplicação da Lei nº 14.133, de
+ 2021, devendo protocolar o pedido até 3 (três) dias úteis antes da data da abertura do certame.
+
+ 13.2. A resposta à impugnação ou ao pedido de esclarecimento será divulgado em sítio eletrônico oficial no prazo de
+ até 3 (três) dias úteis, limitado ao último dia útil anterior à data da abertura do certame.
+
+ 13.3. A impugnação e o pedido de esclarecimento poderão ser realizados por forma eletrônica, www.compras.gov.
+ br e pelo seguinte e-mail cpam9uge@policiamilitar.sp.gov.br.
+
+ 13.4. As impugnações e pedidos de esclarecimentos não suspendem os prazos previstos no certame.
+
+ 13.4.1. A concessão de efeito suspensivo à impugnação é medida excepcional e deverá ser motivada pelo agente de
+ contratação, nos autos do processo de licitação.
+
+ 13.5. Acolhida a impugnação, será definida e publicada nova data para a realização do certame.
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Edital para Pregão Eletrônico - Atualização: maio/2023                                                                                   17 de 19
+Aprovado pela Secretaria de Gestão e Inovação
+
+ 14. Das disposições gerais
+
+ 14.1. Será divulgada ata da sessão pública no sistema eletrônico.
+
+ 14.2. Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a realização do certame na data
+ marcada, a sessão será automaticamente transferida para o primeiro dia  útil subsequente, no mesmo horário
+ anteriormente estabelecido, desde que não haja comunicação em contrário, pelo Pregoeiro.
+
+ 14.3. Todas as referências de tempo no Edital, no aviso e durante a sessão pública observarão o horário de Brasília -
+ DF.
+
+ 14.4. A homologação do resultado desta licitação não implicará direito à contratação.
+
+ 14.5. As normas disciplinadoras da licitação serão sempre interpretadas em favor da ampliação da disputa entre os
+ interessados, desde que não comprometam o interesse da Administração, o princípio da isonomia, a finalidade e a
+ segurança da contratação.
+
+ 14.6. Os licitantes assumem todos os custos de preparação e apresentação de suas propostas e a Administração não
+ será, em nenhum caso, responsável por esses custos, independentemente da condução ou do resultado do processo
+  licitatório.
+
+ 14.7. Na contagem dos prazos estabelecidos neste Edital e seus Anexos, excluir-se-á o dia do início e incluir-se-á o
+ do vencimento. Só se iniciam e vencem os prazos em dias de expediente na Administração.
+
+ 14.8. O desatendimento de exigências formais não essenciais não importará o afastamento do licitante, desde que
+ seja possível o aproveitamento do ato, observados os princípios da isonomia e do interesse público.
+
+ 14.9. Em caso de divergência entre disposições deste Edital e de seus anexos ou demais peças que compõem o
+ processo, prevalecerá as deste Edital.
+
+ 14.10. O Edital e seus anexos estão disponíveis, na íntegra, no Portal Nacional de Contratações Públicas (PNCP) e
+ endereço eletrônico www.compras.gov.br.
+
+ 14.11. Integram este Edital, para todos os fins e efeitos, os seguintes anexos:
+
+        14.11.1. ANEXO I - Termo de Referência;
+
+              14.11.1.1. Matriz de Gerenciamento de Risco;
+
+              14.11.1.2. Estudo Técnico Preliminar.
+
+
+
+
+
+                           São Paulo, 23 de setembro de 2025.
+
+
+
+
+
+                        WAGNER ROBERTO SANCHEZ LIMA
+
+                               TEN CEL PM - DIRIGENTE
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Edital para Pregão Eletrônico - Atualização: maio/2023                                                                                   18 de 19
+Aprovado pela Secretaria de Gestão e Inovação
+
+ 15. Responsáveis
+
+
+  Todas as assinaturas eletrônicas seguem o horário oficial de Brasília e fundamentam-se no §3º do Art. 4º do Decreto nº 10.543, de 13 de novembro de
+  2020.
+
+
+
+
+
+                       WAGNER ROBERTO SANCHEZ LIMA
+
+                                                            Autoridade competente
+
+                                                Assinou eletronicamente em 23/09/2025 às 17:23:47.
+
+
+
+
+
+                     HUDSON CUBA DO NASCIMENTO SANTOS REIS
+
+                                                                    Pregoeiro
+
+                                                Assinou eletronicamente em 23/09/2025 às 17:23:07.
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Edital para Pregão Eletrônico - Atualização: maio/2023                                                                                   19 de 19
+Aprovado pela Secretaria de Gestão e Inovação
+
+UASG 180223                                                      Termo de Referência 40/2025
+
+
+                    Lista de Anexos
+
+
+ Atenção: Apenas arquivos nos formatos ".pdf", ".txt", ".jpg", ".jpeg", ".gif" e ".png" enumerados abaixo são anexados
+ diretamente a este documento.
+
+       Anexo I - Televisores e microondas _ SEI - Processo 057.00395163_2025-52.pdf (1.4 MB)
+
+UASG 180223
+
+                              ESP-COM.POLIC.AREA METROP-9
+
+                Termo de Referência 65/2025
+
+
+ Informações Básicas
+
+  Número do artefato   UASG                                           Editado por                     Atualizado em
+  65/2025             180223-ESP-COM.POLIC.AREA METROP-9       TIAGO AGUETONI SILVA       23/09/2025 11:30 (v 0.4)
+  Status
+ ASSINADO
+
+ Outras informações
+
+  Categoria                                               Número da Contratação          Processo Administrativo
+   II - compra, inclusive por encomenda/Bens permanentes                                                   057.00395163/2025-52
+
+ 1. Definição do objeto
+
+  1.1. Segue abaixo a descrição do serviço:
+
+                                                                                                  Valor   Item   Bec    Compras     Serviço                  Descrição            Un med   Qtd
+                                                                                                          Unitário
+                                                 Forno; Domestico, de Mesa;
+                                            Microondas; Em Aco Inox, Na Cor
+                                                    Prata, Porta: Vidro, Puxador e Painel;
+                                                        Eletrico; Medindo No Minimo
+                                      (330x530x420)mm (axlxp); Capacidade
+                                      32 Litros; 10 Niveis de Potencia; Display                R$
+    1   5762464  218417   Micro-ondas                                      Unidade   18
+                                                   Digital, Relogio, Luz Interna, Teclas Pre-                   839,00
+                                           programadas; Prato Giratorio; Voltagem
+                                      110 V, Potencia Minima de 1500w; Com
+                                              Garantia Minima de 12 Meses Apos a
+                                              Entrega; Em Conformidade Com Todas
+                                      As Normas Exigidas Vigentes;
+                                              Televisao; a Cores; Tela Qled, Categoria
+                                                 Crystal Uhd; de 50 Polegadas; Com
+                                          Resolucao de 3.840 x 2.160p, Uhd, 4k;
+                                           Diagonal Visual Aprox. 127 Cm; Com
+                                     Comando de Voz Em Portugues do
+                                                  Brasil e Ingles (eua), Wi-fi Integrado,
+                                        Smart Tv, Wifi; Espelhamento de Audio,
+                                         Google Assistant e Alexa Integrados,
+                                            Acesso Remoto, Desligamento
+                                            Automatico; Conexoes de Entrada:3
+                                               Entradas Hdmi, 2 Entradas Usb, 1
+                                               Entrada de Composto, Bluetooth;
+                              Televisão 50    Conexoes de Saida: 1 Saida de Audio                  R$
+    2   6125654  443965                                                    Unidade    9                               polegadas    Digital; Com Recepcao para Tv Digital;                    2.659,05
+                                             Sistema de Cores Mega Contraste,
+                                         Dinamica de Alto Alcance, Pqi 2100,
+                                                 Potencializador de Contraste, Hlg;
+                                            Controle Remoto Padrao do Fabricante;
+                                          Voltagem Ac 100-240v 50/60hz;
+                                   Consumo Aproximado Maximo 145 W;
+                                        Medindo Aproximadamente Com
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Serviços sem dedicação — Atualização: maio/2023                                                                                       1 de 14
+Aprovado pela Secretaria de Gestão e Inovação
+
+                                             Suporte 1120 x 685 x 230mm e Sem
+                                            Suporte 1120x 650 x 26 Mm; Pesando
+                                No Maximo 17 Kg Com Embalagem;
+                               Com Garantia Minima de 12 Meses;
+                                             Manual Em Portugues;
+                                      Fogao Industrial; Modelo de Piso, Sobre
+                                              Pes; Com Estrutura Em Aco Inox Aisi
+                                           304; Alimentacaoa Gas Natural (gn);
+                                            Pressao de Utilizacao 2,1kpa/ 210
+                                  Mmca; Com 04 Queimadores;
+                                       02Queimadores Simples Tipo Cachimbo
+                                           e 02 Queimadores Duplos Tipo Coroa
+                           Em Pintura TermoResistente; Ferro
+                                          Fundido; Valvula Reguladora de
+                                              Pressao; 04 Grelhas Em Ferro Fundido,
+                                        Removíveis e Com Acabamento Em
+                                              Pintura Termo Resistente; Medindo (400
+                                      x 400) Mm; ChapaSuperior (tampo) Com
+                                           Espessura Mínima de 1/16" Em Aço
+                                          Inox Aisi 304; Bandejas ColetorasEm
+                                  Aço Inox Chapa 20 Com Puxador; Grade
+                                                  Inferior para Panelas Em Perfil "u" Em
+                                  Aço InoxChapa 20; Tubo de
+                                         Alimentacao Em Alumínio Sem Costura,
+                         Fogão        Terminal de Acoplamento Em                      R$
+    3   5397383  445116                                                   Unidade   1
+                                  industrial     TuboMetalico Flexivel; Torneira Dos                      2.141,33
+                                       Queimadores 3/8"x3/8" Reforçadas Em
+                                          Latao Cromado; FornoCom Dimensões
+                                      Mínimas de (540x310x660)mm e
+                                      Queimador Dotado de Dispositivo
+                                           Supervisorde Chama; Paredes, Piso
+                                          Externo e Teto Em Inox Chapa 18,
+                                           Paredes Internas e Piso RemovívelEm
+                                          Inox Aisi 430; Porta Em Chapa de Aço
+                                          Inox e Puxador Em Baquelite; Sensor
+                                         deTemperatura Fixado Próximo Ao
+                                      Queimador P/ Acionamento Da Válvula
+                                        de Segurança;Acompanham 02 Bandejas
+                                            Corrediças Executadas Em Gradeado de
+                                  Aço Inox, IsolamentoTérmico; Base
+                             Com 04 Pés Em Perfil "l" Com Sapatas
+                                           Reguláveis Constituídas de Base
+                                            Metálicae Ponteira Maciça; Com
+                                            Garantia Minima de 12 Meses a Partir
+                                 Da Data de Entrega;
+                                           Analisador de Composicao Corporal;
+                                            Analise Segmentada de Impedancia
+                                                Bioeletrica de 8pontos; Mensuracao de
+                                        Peso e Detalhamento Da Composicao
+                                             Corporal, Com Capacidade de 250kg;
+                                             Display: Lcd 800x480 Mm Color./
+                                             Sensivel Ao Toque. Dimens. Aprox.
+                           Aparelho de                                             R$
+    4   5718147  305065               460x680x1020 Cm. Peso Aprox. 2o Kg;  Unidade   1
+                            bioimpedância                                                          6.499,00
+                                            Frequencia: 5khz, 50khz e 250khz e Com
+                                    Memoria para Armazenamento de 100
+                                        Mil Exames; Capacidade de Geracao de
+                                              Relatorio Impresso de Dados;
+                                            Impressora; Bivolt; Garantia 12 Meses.
+                                                 Instalacao, Treinamento e Assistencia
+                                               Tecnica.;
+                                     Camera Fotografica Profissional; Camera
+                                             Fotografica Digital Dslr Mirrorless;
+                                           Processador DigicX, Resolucao de 24.2
+                                             Megapixel,sensibilidade Iso Foto 100-
+                                          32000, Video 100-12800; Sensor22.3 x
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Serviços sem dedicação — Atualização: maio/2023                                                                                       2 de 14
+Aprovado pela Secretaria de Gestão e Inovação
+
+                                   14,9mm (aps-c); Capacidade de
+                                        Gravacao Em Video de 4k 30p | Full Hd
+                                          120p, Tempode Gravacao de Ate 1 Hora;
+                                           Saida Hdmi, Cartao de Memoria Padrao
+                         Câmera      Sd | Sdhc | Sdxc(compativel Com Uhs-i);              R$
+    5   6508685  628815                                                   Unidade   1                                fotografica    Sistema de Foco Automatico Dual Pixel                    7.599,00
+                                 Cmos Af Ii,ate 651 Posicoes deAf; Visor
+                                              Eletronico Oled Com Aproximadamente
+                                           2.360.000 Pontos; Tela Lcd Articulada
+                                        de 3,0"| 1.620.000 Pontos - Articulada;
+                                       Conexoes Sem Fio Por Wi-fi de 2.4 Ghz
+                                           e Bluetooth; Formatosde Arquivo Jpeg,
+                                               Heif, Raw (cr3, 14 Bit Raw), Mp4;
+                                         Microfone Estereo Com Entrada
+                                          paraMicrofone Externo; Com Lente Rf-s
+                                     18-45mm;
+                                         Scanner de Impressao Digital; para
+                                          Captura e Leitura de Impressao Digital,
+                                               Leitor Biometrico; Sistema Optico,
+                                         Resolucao 500 Dpi, Rejeição a Imagens
+                                               Latentes, Tempo Máximo de Verificação
+                                                 (1:1) Até 2 Seg; Interface Usb 2.0,
+                                     Medindo Aproximadamente 16 x 16 Mm                               Leitor                                                 R$
+    6   4793455  630012                     (lxc), 8-bit Escala de Cinza (256 Níveis   Unidade   1
+                             biométrico                                                          689,00
+                                        de Cinza); Compativel Com Windows
+                                                (xp, 7, 8, 10 ) Linux, Área de Captura e
+                                              Leitura Através do Prisma de Vidro;
+                             Com Software para Tratamento (sdk do
+                                                Leitor) Compativel Com o Equipamento;
+                                            Garantia de 12 Meses;
+
+                                   Mesa Auxiliar para Escritorio; Tampo
+                           Em Mdf; Revestido Em Laminado
+                                         Melaminico; Na CorCarvalho Prata;
+                                      Acabamento Das Bordas Em Pvc Na
+                                Mesma Cor do Tampo;
+                                           FormatoRetangular; Medindo (1400 x
+                                    700)mm; Espessura Minima de 40 Mm;
+                                 Na Altura de 750mm;Estrutura Em Mdf;
+                                      Formada Por Paineis Laterais
+                                                  Estruturais; Chapas Com Espessura                  R$
+    7   4332490  453995  Mesa                                            Unidade   4
+                                    Minima de15mm; Com Eletrocalhas para                  621,34
+                                       Passagem de Fiacao (eletr./telef./log.);
+                             Com SapatasNiveladoras de Aco;
+                                               Estrutura Com Revestimento Em
+                                      Laminado Melaminico; Com
+                                         GaveteiroAcoplado de 3 Gavetas; Com
+                                              Painel Frontal Na Cor do Tampo;
+                                            Garantia Minima de 12 Meses;Fabricada
+                                        de Acordo Com As Normas Nbr/abnt
+                                             Vigentes;
+                                           Suporte para Televisor; de Parede, para
+                                      Tvs Lcd, Led, Plasma, Smart e 3d; De23
+                                        Ate 66Polegadas; Furacao Vesa:
+                                         200x200, 200x300, 200x400, 300x200,
+                                         300x300, 300x400,400x200, 400x300,
+                                    400x400mm; Em Aco Carbono; Com
+                                              Pintura Eletrostatica e
+                                            TratamentoAnticorrosivo; Na Cor Preta;                             Suporte para                                             R$
+    8   6274277  472939            Com Capacidade de Peso Ate 60 Kg;     Unidade   20                                 tv                                                                  179,00
+                                       Dimensoes MaximasComprimento Das
+                                            Barras de Fixacao Na Parede: 400mm e
+                                      456 Mm Da Barra de Encaixe Da Tv;
+                                          Fixacao 4 Pontos; Fornecido Com Trava
+                                        de Seguranca, Kit de Parafusos, Manual
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Serviços sem dedicação — Atualização: maio/2023                                                                                       3 de 14
+Aprovado pela Secretaria de Gestão e Inovação
+
+                                        de Instalacao,Garantia Minina de 12
+                                        Meses;
+                                              Televisao; a Cores; Com Conversor
+                                             Integrado Isdb-tb; Tela 4k Uhd; de 55
+                                            Polegadas; Com Resolucao de 4k, 3840 x
+                                      2160 Pixels; 139,7 Cm Diagonal; Smart
+                                  Tv Com Assistente de Voz,
+                                        Espelhamento de Tela (celular e Pc),
+                                          Hdr, Wifi e Bluetooth; 3 Entradas Hdmi,
+                                      1 Entrada Usb, 1Entrada de Rf, 1entrada
+                                             Ethernet (lan); Saida de Audio Digital
+                                                  (otica Ou Hdmi Arc); ComRecepcao
+                             Televisão 55                                             R$
+    9   5960878  611855                 para Canais Digitais; Sistema de Cores    Unidade   16                             polegadas                                                              2.099,00
+                                              Ntsc, Pal-m, Isdb-tb; Controle Remoto
+                                 ComComando de Voz; Voltagem Bivolt
+                                          (127/220 V); Medindo
+                                      Aproximadamente (123 x 75 x 22)Cm,
+                             Com Base; Pesando No Maximo
+                                      Aproximadamente 17kg; Com Garantia
+                                    Minima de 12Meses; Manual Em Em
+                                             Portugues; Fornecido Com Controle
+                                       Remoto, Baterias para ControleRemoto e
+                                    Cabo de Forca;
+                                           Controlador de Video Wall; Monitores:
+                                        Min. de 2x2; Resolucao de Entrada: Min.
+                                      1920 x 1080p,3840 x 2160p; Resolucao
+                                        de Saida: Min. 1920 x 1080p, 4k;
+                                      Conexao de Entrada Min.: 01 Dvi e01
+                                     Hdmi; Conexao de Saida Min.: 04 Hdmi,
+                                      01 Audio de 3,5mm (p2); Plug de                   R$   10  5814006  621131  Video wall                                        Unidade   4
+                                             Entrada: Min. 16Bits; Plug de Saida:                       1.709,90
+                                        Min. 24 Bits; Voltagem: Bivolt;
+                                            Compatibilidade: Monitores, Bloco
+                                          deVideo, Tv Lcd/plasma/led Ou
+                                                Projetores; Dimensoes Aprox. 25 x 2,5 x
+                                            10,5 Cm (lxaxp); PrazoMin. de Garantia
+                                        de 06 Meses;
+
+  1.2. O objeto desta contratação é caracterizado especializado conforme justificativa constante do Estudo Técnico Preliminar.
+
+  1.3. O objeto desta contratação não se enquadra como sendo de bem de luxo, conforme Decreto nº 10.818, de 27 de setembro de 2021.
+  1.4. Havendo divergência entre codificação e descrição do item que é objeto desta contratação e qualquer outro meio de consulta ou peça
+ preliminar da aquisição, devese levar em consideração o contido neste termo de referência.
+
+
+ 2. Fundamentação da contratação
+
+ 2. Fundamento da Contratação
+
+ 2.1. A presente contratação tem como objetivo a aquisição de equipamentos essenciais para o aprimoramento das
+ atividades operacionais e administrativas das unidades mencionadas, visando à melhoria da eficiência, segurança e
+ qualidade dos serviços prestados à comunidade.
+
+ 2.2. Micro-ondas para CPA/M-9 e subordinadas
+ 2.2.1. A aquisição de micro-ondas se justifica pela necessidade de oferecer condições adequadas para a
+ alimentação dos policiais em serviço, garantindo conforto e bem-estar durante suas jornadas, o que impacta
+ positivamente na disposição e no desempenho das atividades operacionais.
+
+ 2.3. Televisores para sala de operação.
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Serviços sem dedicação — Atualização: maio/2023                                                                                       4 de 14
+Aprovado pela Secretaria de Gestão e Inovação
+
+ 2.3.1. 5 (cinco) para cada OPM, quais sejam CPA, 19º, 28º e 38ºBPM/M, totalizando 20 (vinte) televisores.
+
+ 2.3.2. A instalação dos televisores possibilitará a exibição de informações em tempo real, imagens, relatórios e
+ outros dados essenciais para a tomada de decisão rápida e precisa. Atuará como um painel visual para o
+ acompanhamento das operações, facilitando a comunicação e a coordenação da equipe.
+
+ 2.4. Televisores para seções do CPAM-9.
+
+ 2.4.1. Sala de projetos, Guarda do quartel, Seção de logística, Telemática e Gabinete de treinamento (GT),
+ totalizando 5 (cinco) televisores.
+
+ 2.4.2. A instalação de televisores tem por finalidade o apoio à comunicação externa, treinamento, disseminação de
+ informações relevantes aos policiais, além de servir como recurso para monitoramento de eventos e segurança.
+
+ 2.5. Fogão industrial para a 2ª Cia do 28º BPMM.
+ 2.5.1. A necessidade de um fogão industrial decorre da demanda por preparo de refeições em grande quantidade
+ para os policiais em serviço, garantindo alimentação adequada e condições apropriadas de higiene e segurança
+ alimentar na unidade.
+
+ 2.6. Balança de bioimpedância para a Policlínica do CPAM-9.
+ 2.6.1. A balança de bioimpedância é fundamental para a avaliação  física dos  policiais, permitindo o
+ monitoramento da composição corporal, estado nutricional e condições de saúde, auxiliando na prevenção de
+ doenças e promoção do bem-estar.
+
+ 2.7. Câmera fotográfica e leitor biométrico.
+ 2.7.1 Para emissão de novas identidades funcionais, estes equipamentos são essenciais para a atualização e
+ emissão, garantindo agilidade e precisão no processo de cadastro e autenticação dos servidores e a integridade
+ documental da corporação.
+
+ 2.8. Mesa para sala de operação.
+ 2.8.1. A mesa é um móvel fundamental para a organização do ambiente de trabalho, garantindo ergonomia,
+ funcionalidade e melhor disposição dos equipamentos utilizados pelos operadores. A mesa adequada contribui
+ para a eficiência e conforto da equipe, impactando diretamente na produtividade e qualidade do serviço prestado.
+
+ 2.9. Suporte para televisores.
+ 2.9.1. O suporte adequado assegura a fixação segura e estratégica da TV, permitindo ajuste de ângulo e
+ posicionamento que maximizam a visibilidade e o aproveitamento do espaço físico da sala. Isso previne acidentes
+ e prolonga a vida útil do equipamento.
+
+ 2.10. Vídeo Wall:
+ 2.10.1. O vídeo wall consiste em um conjunto de monitores integrados que permitem a exibição simultânea de
+ múltiplas fontes de informação, proporcionando visão ampla e detalhada das operações. Este recurso tecnológico é
+ indispensável para ambientes de monitoramento avançado, aumentando a capacidade de análise e resposta da
+ equipe operacional.
+
+ 3. A contratação destes itens de permanência para a CPA/M-9 e subordinadas, deve ser justificada pela
+ necessidade de melhorar a infraestrutura da organização, otimizar o bem-estar dos servidores e atender às
+ demandas operacionais dos setores. A contratação deve seguir os princípios legais da Administração Pública,
+ especialmente a eficiência, legalidade, e transparência, e garantir que o processo licitatório seja realizado de forma
+ justa e objetiva.
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Serviços sem dedicação — Atualização: maio/2023                                                                                       5 de 14
+Aprovado pela Secretaria de Gestão e Inovação
+
+ 3. Descrição da solução
+
+ 3.1. A descrição da solução como um todo se encontra pormenorizada em tópico específico do Estudo
+ Técnico Preliminar, apêndice deste Termo de Referência.
+
+
+
+ 4. Requisitos da contratação
+
+ 4.1. Sustentabilidade:
+ 4.1.1. A empresa Contratada devera ofertar preferencialmente serviço que atenda os seguintes critérios de
+ sustentabilidade ambiental do artigo 5º da Instrução Normativa n.° 01/2010/SLTI/MPOG:
+
+  I - que os bens sejam constituídos, no todo ou em parte, por material reciclado, atóxico, biodegradável, conforme
+ ABNT NBR - 15448-1 e 15448-2:
+
+ II - que sejam observados os requisitos ambientais para a obtenção de certificação do Instituto Nacional de
+ Metrologia, Normalização e Qualidade Industrial - INMETRO como produtos sustentáveis ou de menor impacto
+ ambiental em relação aos seus similares;
+
+ III - que os bens devam ser, preferencialmente, acondicionados em embalagem individual adequada, com o menor
+ volume possível, que utilize materiais recicláveis, de forma a garantir a máxima proteção durante o transporte e o
+ armazenamento; e
+
+ IV - que os bens não contenham substâncias perigosas em concentração acima da recomendada na diretiva RoHS
+ (Restriction of Certain Hazardous Substances), tais como mercúrio (Hg), chumbo (Pb), cromo hexavalente (Cr
+ (VI), cádmio (Cd), bifenilpolibromados (PBB5), éteres difenil-polibromados (PBDEs).
+ 4.2. Da exigência de amostra:
+ 4.2.1. Não haverá exigência de amostra.
+ 4.3. Da exigência de carta de solidariedade.
+ 4.3.1. Não haverá exigência de carta de solidariedade.
+ 4.4. Subcontratação.
+ 4.4.1. Não é admitida a subcontratação do objeto contratual.
+ 4.5. Garantia da contratação.
+
+ 4.5.1. Não haverá exigência da garantia da contratação dos artigos 96 e seguintes da
+ Lei nº 14.133, de 2021, pelas razões constantes do Estudo Técnico Preliminar.
+
+
+
+ 5. Modelo de execução do objeto
+
+ 5.1. Condições de Entrega
+ 5.1.1. O prazo de entrega do serviço contratado neste Termo de Referência é de 30 (trinta) dias, contados do
+ recebimento da nota de empenho, podendo ser em remessa única ou parcelada, de acordo com o valor da nota de
+ empenho.
+ 5.1.2. Caso não seja possível a entrega na data assinalada, a empresa deverá comunicar as razões respectivas com
+ pelo menos 15 (quinze) dias de antecedência para que qualquer pleito de prorrogação de prazo seja analisado,
+ ressalvadas situações de caso fortuito e força maior.
+ 5.1.3. Cabe esclarecer na cotação não esta incluído a retirada e entrega dos aparelhos, sendo esta logística por
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Serviços sem dedicação — Atualização: maio/2023                                                                                       6 de 14
+Aprovado pela Secretaria de Gestão e Inovação
+
+ parte da contratante;
+ 5.2. Garantia manutenção e assistência técnica
+ 5.2.1. O prazo de garantia é aquele estabelecido na Lei nº 8.078, de 11 de setembro
+ de 1990 (Código de Defesa do Consumidor).
+ 5.2.2. O prazo de garantia contratual do serviço, complementar à garantia legal, é de, no mínimo, 12 (doze) meses,
+ ou pelo prazo fornecido pelo prestador do serviço;
+ 5.2.3. A garantia será prestada com vistas a manter os equipamentos fornecidos em perfeitas condições de uso,
+ sem qualquer ônus ou custo adicional para o Contratante.
+ 5.2.4. A garantia abrange a realização da manutenção corretiva dos bens pelo próprio Contratado, ou, se for o
+ caso, por meio de assistência técnica autorizada, de acordo com as normas técnicas específicas.
+ 5.2.5. Entende-se por manutenção corretiva aquela destinada a corrigir os defeitos apresentados pelos bens,
+ compreendendo a substituição de peças, a realização de ajustes, reparos e correções necessárias.
+ 5.2.6. As peças que apresentarem vício ou defeito no período de vigência da garantia deverão ser substituídas por
+ outras novas, de primeiro uso, e originais, que apresentem padrões de qualidade e desempenho iguais ou
+ superiores aos das peças utilizadas na fabricação do equipamento.
+ 5.2.7. Uma vez notificado, o Contratado realizará a reparação ou substituição dos bens que apresentarem vício ou
+ defeito no prazo de até 30 (dias) dias úteis, contados a
+ partir da data de retirada do equipamento das dependências da Administração pelo Contratado ou pela assistência
+ técnica autorizada.
+ 5.2.8. O prazo indicado no subitem anterior, durante seu transcurso, poderá ser prorrogado uma única vez, por
+ igual período, mediante solicitação escrita e justificada do Contratado, aceita pelo Contratante.
+ 5.2.9. Na hipótese do subitem acima, o Contratado deverá  disponibilizar equipamento  equivalente, de
+ especificação igual ou superior ao anteriormente fornecido, para utilização em caráter provisório pelo Contratante,
+ de modo a garantir a continuidade dos trabalhos administrativos durante a execução dos reparos.
+ 5.2.10. Decorrido o prazo para reparos e substituições sem o atendimento da solicitação do Contratante ou a
+ apresentação de justificativas pelo Contratado, fica o Contratante autorizado a contratar empresa diversa para
+ executar os reparos, ajustes ou a substituição do bem ou de seus componentes, bem como a exigir do Contratado o
+ reembolso pelos custos respectivos, sem que tal fato acarrete a perda da garantia dos equipamentos.
+ 5.2.11. O custo referente ao transporte dos equipamentos cobertos pela garantia será de responsabilidade do
+ Contratado.
+ 5.2.12. A garantia legal ou contratual do objeto tem prazo de vigência próprio e desvinculado daquele fixado no
+ contrato, permitindo eventual aplicação de penalidades em caso de descumprimento de alguma de suas condições,
+ mesmo depois de expirada a vigência contratual.
+
+
+ 6. Modelo de gestão do contrato
+
+ 6.1. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as normas da
+ Lei nº 14.133, de 2021, e cada parte responderá pelas consequências de sua inexecução total ou parcial.
+
+ 6.2. Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de execução será
+ prorrogado automaticamente pelo tempo correspondente, anotadas tais circunstâncias mediante simples apostila.
+
+ 6.3. As comunicações entre o órgão ou entidade e a contratada devem ser realizadas por escrito sempre que o ato
+ exigir tal formalidade, admitindo-se o uso de mensagem eletrônica para esse fim.
+
+ 6.4. O órgão ou entidade poderá convocar representante da contratada para adoção de providências que devam ser
+ cumpridas de imediato.
+
+ 6.5. Após a assinatura do contrato ou instrumento equivalente, o órgão ou entidade poderá convocar o
+ representante da empresa contratada para reunião inicial para apresentação do plano de fiscalização, que conterá
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Serviços sem dedicação — Atualização: maio/2023                                                                                       7 de 14
+Aprovado pela Secretaria de Gestão e Inovação
+
+ informações acerca das obrigações contratuais, dos mecanismos de fiscalização, das estratégias para execução do
+ objeto, do plano complementar de execução da contratada, quando houver, do método de aferição dos resultados e
+ das sanções aplicáveis, dentre outros.
+
+ Fiscalização
+
+ 6.6. A execução do contrato deverá ser acompanhada e fiscalizada pelo(s) fiscal(is) do contrato, ou pelos
+ respectivos substitutos ( Lei nº 14.133, de 2021, art. 117, caput ).
+
+ Fiscalização Técnica
+
+ 6.7. O fiscal técnico do contrato acompanhará a execução do contrato, para que sejam cumpridas todas as
+ condições estabelecidas no contrato, de modo a assegurar
+ os melhores resultados para a Administração. (Decreto nº 11.246, de 2022, art. 22, VI);
+ 6.8. O fiscal técnico do contrato anotará no histórico de gerenciamento do contrato todas as ocorrências
+ relacionadas à execução do contrato, com a descrição do que for necessário para a regularização das faltas ou dos
+ defeitos observados. (Lei nº 14.133, de 2021, art. 117, §1º, e Decreto nº 11.246, de 2022, art. 22, II);
+ 6.9. Identificada qualquer inexatidão ou irregularidade, o fiscal técnico do contrato emitirá notificações para a
+ correção da execução do contrato, determinando prazo para a correção. (Decreto nº 11.246, de 2022, art. 22, III);
+ 6.10 O fiscal técnico do contrato informará ao gestor do contato, em tempo hábil, a situação que demandar decisão
+ ou adoção de medidas que ultrapassem sua competência, para que adote as medidas necessárias e saneadoras, se
+ for o caso. (Decreto nº 11.246, de 2022, art. 22, IV).
+ 6.11. No caso de ocorrências que possam inviabilizar a execução do contrato nas datas aprazadas, o fiscal técnico
+ do contrato comunicará o fato imediatamente ao gestor do contrato. (Decreto nº 11.246, de 2022, art. 22, V).
+ 6.12. O fiscal técnico do contrato comunicará ao gestor do contrato, em tempo hábil, o término do contrato sob sua
+ responsabilidade, com vistas à renovação tempestiva ou à prorrogação contratual (Decreto nº 11.246, de 2022, art.
+ 22, VII).
+
+ Fiscalização Administrativa
+
+ 6.13. O fiscal administrativo do contrato verificará a manutenção das condições de habilitação da contratada,
+ acompanhará o empenho, o pagamento, as garantias, as glosas e a formalização de apostilamento e termos
+ aditivos, solicitando quaisquer documentos comprobatórios pertinentes, caso necessário (Art. 23, I e II, do Decreto
+ nº 11.246, de 2022).
+ 6.14. Caso ocorram descumprimentos das obrigações contratuais, o fiscal administrativo do contrato atuará
+ tempestivamente na solução do problema, reportando ao gestor do contrato para que tome as providências
+ cabíveis, quando ultrapassar a sua competência; (Decreto nº 11.246, de 2022, art. 23, IV).
+
+ Gestor do Contrato
+
+ 6.15. O gestor do contrato coordenará a atualização do processo de acompanhamento e fiscalização do contrato
+ contendo todos os registros formais da execução no histórico de gerenciamento do contrato, a exemplo da ordem
+ de serviço, do registro de ocorrências, das alterações e das prorrogações contratuais, elaborando relatório com
+ vistas à verificação da necessidade de adequações do contrato para fins de atendimento da finalidade da
+ administração. (Decreto nº 11.246, de 2022, art. 21,IV).
+ 6.16. O gestor do contrato acompanhará os registros realizados pelos fiscais do contrato, de todas as ocorrências
+ relacionadas à execução do contrato e as medidas adotadas, informando, se for o caso, à autoridade superior
+ àquelas que ultrapassarem a sua competência. (Decreto nº 11.246, de 2022, art. 21, II).
+ 6.17. O gestor do contrato acompanhará a manutenção das condições de habilitação da contratada, para fins de
+ empenho de despesa e pagamento, e anotará os problemas que obstem o fluxo normal da liquidação e do
+ pagamento da despesa no relatório de riscos eventuais. (Decreto nº 11.246, de 2022, art. 21, III).
+ 6.18. O gestor do contrato emitirá documento comprobatório da avaliação realizada pelos fiscais técnico,
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Serviços sem dedicação — Atualização: maio/2023                                                                                       8 de 14
+Aprovado pela Secretaria de Gestão e Inovação
+
+ administrativo e setorial quanto ao cumprimento de obrigações assumidas pelo contratado, com menção ao seu
+ desempenho na execução contratual, baseado nos indicadores objetivamente definidos e aferidos, e a eventuais
+ penalidades aplicadas, devendo constar do cadastro de atesto de cumprimento de obrigações. (Decreto nº 11.246,
+ de 2022, art. 21, VIII).
+ 6.19. O  gestor do  contrato tomará  providências  para  a  formalização de  processo  administrativo de
+ responsabilização para fins de aplicação de sanções, a ser conduzido pela comissão de que trata o art. 158 da Lei
+ nº 14.133, de 2021, ou pelo agente, ou pelo setor com competência para tal, conforme o caso. (Decreto nº 11.246,
+ de 2022, art. 21, X).
+ 6.20. O gestor do contrato deverá elaborar relatório final com informações sobre a consecução dos objetivos que
+ tenham justificado a contratação e eventuais condutas a serem adotadas para o aprimoramento das atividades da
+ Administração. (Decreto nº 11.246, de 2022, art. 21, VI).
+ 6.21. O gestor do contrato deverá enviar a documentação pertinente ao setor de contratos para a formalização dos
+ procedimentos de liquidação e pagamento, no valor dimensionado pela fiscalização e gestão nos termos do
+ contrato.
+
+ Ferramentas de Controle.
+
+  Id Ferramenta               Controles
+    Ordem de Serviço ou    Documento que elenca os detalhes de fornecimento dos
+  1  Fornecimento de Bens     serviços ou bens, bem como o prazo de solicitação de
+    (OSFB)                  fornecimento, para que seja acompanhado os prazos de entrega.
+                                Lista os requisitos obrigatórios definidos no TERMO DE
+  2  Lista de Verificação    REFERÊNCIA para auxiliar o recebimento correto dos itens
+                               definidos no objeto
+
+
+
+ 7. Critérios de medição e pagamento
+
+ 7.1. Recebimento.
+ 7.1.1. Os bens serão recebidos provisoriamente, de forma sumária, no ato da entrega, juntamente com a nota fiscal
+ ou instrumento de cobrança equivalente, pelo(a) responsável pelo acompanhamento e fiscalização do contrato,
+ para efeito de posterior verificação de sua conformidade com as especificações constantes no Termo de Referência
+ e na proposta.
+ 7.1.2. Os bens poderão ser rejeitados, no todo ou em parte, inclusive antes do recebimento provisório, quando em
+ desacordo com as especificações constantes no Termo de Referência e na proposta, devendo ser substituídos no
+ prazo de 15 (quinze) dias, a contar da notificação da contratada, às suas custas, sem prejuízo da aplicação das
+ penalidades.
+ 7.1.3. O recebimento definitivo ocorrerá no prazo de 10 (dez) dias úteis, a contar do recebimento da nota fiscal ou
+ instrumento de cobrança equivalente pela Administração,
+ após a verificação da qualidade e quantidade do material e consequente aceitação mediante termo detalhado.
+ 7.1.4. Para as contratações decorrentes de despesas cujos valores não ultrapassem o limite de que trata o inciso II
+ do art. 75 da Lei nº 14.133, de 2021, o prazo máximo para o recebimento definitivo será de até 05 (cinco) dias
+ úteis.
+ 7.1.5. O prazo para recebimento definitivo poderá ser excepcionalmente prorrogado, de
+ forma justificada, por igual período, quando houver necessidade de diligências para a aferição do atendimento das
+ exigências contratuais.
+ 7.1.6. No caso de controvérsia sobre a execução do objeto, quanto à dimensão, qualidade e quantidade, deverá ser
+ observado o teor do art. 143 da Lei nº 14.133, de 2021, comunicando-se à empresa para emissão de Nota Fiscal no
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Serviços sem dedicação — Atualização: maio/2023                                                                                       9 de 14
+Aprovado pela Secretaria de Gestão e Inovação
+
+ que pertine à parcela incontroversa da execução do objeto, para efeito de liquidação e pagamento.
+ 7.1.7. O prazo para a solução, pelo contratado, de inconsistências na execução do objeto ou de saneamento da nota
+ fiscal, ou de instrumento de cobrança equivalente, verificadas pela Administração durante a análise prévia à
+ liquidação de despesa, não será computado para os fins do recebimento definitivo.
+
+ 7.1.8. O recebimento provisório ou definitivo não excluirá a responsabilidade civil pela solidez e pela segurança
+ do serviço nem a responsabilidade ético-profissional pela perfeita execução do contrato.
+
+ 7.2. Liquidação.
+ 7.2.1. Recebida a Nota Fiscal ou documento de cobrança equivalente, correrá o prazo de dez dias úteis para fins de
+ liquidação, na forma desta seção, prorrogáveis por igual período, nos termos do art. 7º, §2º da Instrução Normativa
+ SEGES/ME nº 77/2022.
+ 7.2.2. O prazo de que trata o item anterior será reduzido à metade, mantendo-se a possibilidade de prorrogação, no
+ caso de contratações decorrentes de despesas cujos
+ valores não ultrapassem o limite de que trata o inciso II do art. 75 da Lei nº 14.133, de
+ 2021.
+ 7.2.3. Para fins de liquidação, o setor competente deverá verificar se a nota fiscal ou instrumento de cobrança
+ equivalente apresentado expressa os elementos necessários
+ e essenciais do documento, tais como:
+  I- o prazo de validade;
+  II- a data da emissão;
+  III- os dados do contrato e do órgão contratante;
+ IV- o período respectivo de execução do contrato;
+ V- o valor a pagar; e
+ VI- eventual destaque do valor de retenções tributárias cabíveis.
+ 7.2.4. Havendo erro na apresentação da nota fiscal ou instrumento de cobrança
+ equivalente, ou circunstância que impeça a liquidação da despesa, esta ficará
+ sobrestada até que o contratado providencie as medidas saneadoras, reiniciando-se o
+ prazo após a comprovação da regularização da situação, sem ônus ao contratante;
+ 7.2.5. A nota fiscal ou instrumento de cobrança equivalente deverá ser
+ obrigatoriamente acompanhado da comprovação da regularidade fiscal, constatada por
+ meio de consulta ao SICAF ou, na impossibilidade de on-line acesso ao referido
+ Sistema, mediante consulta aos sítios eletrônicos oficiais ou à documentação
+ mencionada no art. 68 da Lei nº 14.133, de 2021.
+ 7.2.6. A Administração deverá realizar consulta ao SICAF para:
+  I- verificar a manutenção das condições de habilitação exigidas no edital;
+  II- identificar possível razão que impeça a participação em licitação, no âmbito do órgão
+ ou entidade, que implique proibição de contratar com o Poder Público, bem como
+ ocorrências impeditivas indiretas.
+
+ 7.2.7. Constatando-se, junto ao SICAF, a situação de irregularidade do contratado,
+ será providenciada sua notificação, por escrito, para que, no prazo de 5 (cinco) dias
+ úteis, regularize sua situação ou, no mesmo prazo, apresente sua defesa. O prazo
+ poderá ser prorrogado uma vez, por igual período, a critério do contratante.
+ 7.2.8. Não havendo regularização ou sendo a defesa considerada improcedente, o
+ contratante deverá comunicar aos órgãos responsáveis pela fiscalização da
+ regularidade fiscal quanto à inadimplência do contratado, bem como quanto à
+ existência de pagamento a ser efetuado, para que sejam acionados os meios
+ pertinentes e necessários para garantir o recebimento de seus créditos.
+ 7.2.9. Persistindo a irregularidade, o contratante deverá adotar as medidas necessárias
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Serviços sem dedicação — Atualização: maio/2023                                                                                      10 de 14
+Aprovado pela Secretaria de Gestão e Inovação
+
+ à rescisão contratual nos autos do processo administrativo correspondente,
+ assegurada ao contratado a ampla defesa.
+ 7.2.10. Havendo a efetiva execução do objeto, os pagamentos serão realizados
+ normalmente, até que se decida pela rescisão do contrato, caso o contratado não
+ regularize sua situação junto ao SICAF.
+ 7.3. Prazo de pagamento.
+ 7.3.1. O pagamento será efetuado no prazo de até 10 (dez) dias úteis, contados da
+ finalização da liquidação da despesa, conforme seção anterior, nos termos
+ da Instrução Normativa SEGES/ME nº 77, de 2022.
+ 7.3.2. No caso de atraso pelo Contratante, os valores devidos ao contratado serão
+ atualizados monetariamente entre o termo final do prazo de pagamento até a data de
+ sua efetiva realização, mediante aplicação do Índice Nacional de Preços ao
+ Consumidor Amplo Especial (IPCA-E) de correção monetária.
+ 7.4. Forma de pagamento.
+ 7.4.1. O pagamento será realizado por meio de ordem bancária, para crédito em
+ banco, agência e conta corrente indicados pelo contratado.
+ 7.4.2. Será considerada data do pagamento o dia em que constar como emitida a
+ ordem bancária para pagamento.
+ 7.4.3. Quando do pagamento, será efetuada a retenção tributária prevista na legislação
+ aplicável.
+ 7.4.4. Independentemente do percentual de tributo inserido na planilha, quando houver,
+ serão retidos na fonte, quando da realização do pagamento, os percentuais
+ estabelecidos na legislação vigente.
+ 7.4.5. O contratado regularmente optante pelo Simples Nacional, nos termos da Lei
+ Complementar nº 123, de 2006, não sofrerá a retenção tributária quanto aos impostos
+ e contribuições abrangidos por aquele regime. No entanto, o pagamento ficará
+ condicionado à apresentação de comprovação, por meio de documento oficial, de que
+ faz jus ao tratamento tributário favorecido previsto na referida Lei Complementar.
+ 7.5. Antecipação de pagamento.
+ 7.5.1. Não será realizada a antecipação de pagamento.
+ 7.6. Cessão de crédito.
+ 7.6.1. É admitida a cessão fiduciária de direitos creditícios com instituição financeira,
+ nos termos e de acordo com os procedimentos previstos na Instrução Normativa
+ SEGES/ME nº 53, de 8 de julho de 2020, conforme as regras deste presente tópico.
+ 7.6.2. As cessões de crédito não fiduciárias dependerão de prévia aprovação do
+ contratante.
+ 7.6.3. A eficácia da cessão de crédito, de qualquer natureza, em relação à
+ Administração, está condicionada à celebração de termo aditivo ao contrato
+ administrativo.
+ 7.6.4. Sem prejuízo do regular atendimento da obrigação contratual de cumprimento de
+ todas as condições de habilitação por parte do contratado (cedente), a celebração do
+ aditamento de cessão de crédito e a realização dos pagamentos respectivos também
+ se condicionam à regularidade fiscal e trabalhista do cessionário, bem como à
+ certificação de que o cessionário não se encontra impedido de licitar e contratar com o
+ Poder Público, conforme a legislação em vigor, ou de receber benefícios, ou incentivos
+ fiscais, ou creditícios, direta ou indiretamente, conforme o art. 12 da Lei nº 8.429, de
+ 1992, tudo nos termos do Parecer JL-01, de 18 de maio de 2020.
+ 7.6.5. O crédito a ser pago à cessionária é exatamente aquele que seria destinado à
+ cedente (contratado) pela execução do objeto contratual, restando absolutamente
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Serviços sem dedicação — Atualização: maio/2023                                                                                      11 de 14
+Aprovado pela Secretaria de Gestão e Inovação
+
+ incólumes todas as defesas e exceções ao pagamento e todas as demais cláusulas
+ exorbitantes ao direito comum aplicáveis no regime jurídico de direito público incidente
+ sobre os contratos administrativos, incluindo a possibilidade de pagamento em conta
+ vinculada ou de pagamento pela efetiva comprovação do fato gerador, quando for o
+ caso, e o desconto de multas, glosas e prejuízos causados à Administração.
+ (INSTRUÇÃO NORMATIVA Nº 53, DE 8 DE JULHO DE 2020 e Anexos)
+ 7.6.6. A cessão de crédito não afetará a execução do objeto contratado, que continuará
+ sob a integral responsabilidade do contratado.
+
+
+ 8. Critérios de seleção do fornecedor
+
+ 8.1. Forma de seleção e critério de julgamento da proposta.
+ 8.1.1. O fornecedor será selecionado por meio da realização de procedimento de
+ LICITAÇÃO, na modalidade PREGÃO, sob a forma ELETRÔNICA, com adoção do
+ critério de julgamento pelo MENOR PREÇO POR ITEM.
+ 8.2. Forma de fornecimento.
+ 8.2.1. O fornecimento do serviço será integral.
+ 8.3. Exigências de habilitação.
+ 8.3.1. Para fins de habilitação, deverá o licitante comprovar os seguintes requisitos:
+ 8.4. Habilitação jurídica.
+ cédula de identidade (RG) ou documento equivalente 8.4.1. Pessoa física: que, por
+ força de lei, tenha validade para fins de identificação em todo o território nacional;
+ 8.4.2. Empresário individual: inscrição no Registro Público de Empresas Mercantis, a
+ cargo da Junta Comercial da respectiva sede;
+ 8.4.3. Microempreendedor Individual - MEI: Certificado da Condição de
+ Microempreendedor Individual - CCMEI, cuja aceitação ficará condicionada à
+ verificação da autenticidade no sítio https://www.gov.br/empresas-e-negocios/pt-br
+ /empreendedor;
+ 8.4.4. Sociedade empresária, sociedade limitada unipessoal – SLU ou sociedade
+ identificada como empresa individual de responsabilidade limitada - EIRELI:
+ inscrição do ato constitutivo, estatuto ou contrato social no Registro Público de
+ Empresas Mercantis, a cargo da Junta Comercial da respectiva sede, acompanhada de
+ documento comprobatório de seus administradores;
+ 8.4.5. Sociedade empresária estrangeira: portaria de autorização de funcionamento
+ no Brasil, publicada no Diário Oficial da União e arquivada na Junta Comercial da
+ unidade federativa onde se localizar a filial, agência, sucursal ou estabelecimento, a
+ qual será considerada como sua sede, conforme Instrução Normativa DREI/ME n.º 77,
+ de 18 de março de 2020.
+ 8.4.6. Sociedade simples: inscrição do ato constitutivo no Registro Civil de Pessoas
+ Jurídicas do local de sua sede, acompanhada de documento comprobatório de seus
+ administradores;
+
+ 8.4.7. Filial, sucursal ou agência de sociedade simples, ou empresária: inscrição
+ do ato constitutivo da filial, sucursal ou agência da sociedade simples, ou empresária,
+ respectivamente, no Registro Civil das Pessoas Jurídicas ou no Registro Público de
+ Empresas Mercantis onde opera, com averbação no Registro onde tem sede a matriz
+ 8.4.8. Sociedade cooperativa: ata de fundação e estatuto social, com a ata da
+ assembleia que o aprovou, devidamente arquivado na Junta Comercial ou inscrito no
+ Registro Civil das Pessoas Jurídicas da respectiva sede, além do registro de que trata
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Serviços sem dedicação — Atualização: maio/2023                                                                                      12 de 14
+Aprovado pela Secretaria de Gestão e Inovação
+
+ o art. 107 da Lei nº 5.764, de 16 de dezembro de 1971.
+ 8.4.9. Agricultor familiar: Declaração de Aptidão ao Pronaf – DAP ou DAP-P válida,
+ ou, ainda, outros documentos definidos pela Secretaria Especial de Agricultura Familiar
+ e do Desenvolvimento Agrário, nos termos do art. 4º, §2º do Decreto nº 10.880, de 2 de
+ dezembro de 2021.
+ 8.4.10. Produtor Rural: matrícula no Cadastro Específico do INSS – CEI, que
+ comprove a qualificação como produtor rural pessoa física, nos termos da Instrução
+ Normativa RFB n. 971, de 13 de novembro de 2009 (arts. 17 a 19 e 165).
+ 8.4.11. Os documentos apresentados deverão estar acompanhados de todas as
+ alterações ou da consolidação respectiva.
+ 8.5. Habilitação fiscal, social e trabalhista.
+ 8.5.1. Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas ou no Cadastro
+ de Pessoas Físicas, conforme o caso;
+ 8.5.2. Prova de regularidade fiscal perante a Fazenda Nacional, mediante
+ apresentação de certidão expedida conjuntamente pela Secretaria da Receita Federal
+ do Brasil (RFB) e pela Procuradoria-Geral da Fazenda Nacional (PGFN), referente a
+ todos os créditos tributários federais e à Dívida Ativa da União (DAU) por elas
+ administrados, inclusive aqueles relativos à Seguridade Social, nos termos da Portaria
+ Conjunta nº 1.751, de 02 de outubro de 2014, do Secretário da Receita Federal do
+ Brasil e da Procuradora-Geral da Fazenda Nacional.
+ 8.5.3. Prova de regularidade com o Fundo de Garantia do Tempo de Serviço (FGTS);
+ 8.5.4. Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho,
+ mediante a apresentação de certidão negativa ou positiva, com efeito de negativa, nos
+ termos do Título VII-A da Consolidação das Leis do Trabalho, aprovada pelo Decreto-
+ Lei nº 5.452, de 1º de maio de 1943;
+ 8.5.4. Prova de inscrição no cadastro de contribuintes estadual, distrital ou municipal
+ relativo ao domicílio, ou sede do fornecedor, pertinente ao seu ramo de atividade e
+ compatível com o objeto contratual;
+
+ 8.5.5. Prova de regularidade com a Fazenda estadual, distrital ou municipal do
+ domicílio, ou sede do fornecedor, relativa à atividade em cujo exercício contrata ou
+ concorre;
+ 8.5.6. Caso o fornecedor seja considerado isento dos tributos estadual, distrital ou
+ municipal relacionados ao objeto contratual, deverá comprovar tal condição mediante a
+ apresentação de declaração da Fazenda respectiva do seu domicílio ou sede, ou outra
+ equivalente, na forma da lei.
+ 8.5.7. O fornecedor enquadrado como microempreendedor individual que pretenda
+ auferir os benefícios do tratamento diferenciado previstos na Lei Complementar n. 123,
+ de 2006, estará dispensado da prova de inscrição nos cadastros de contribuintes
+ estadual e municipal.
+ 8.6. Qualificação Econômico-Financeira
+ 8.6.1. Certidão negativa de insolvência civil expedida pelo distribuidor do domicílio ou
+ sede do licitante, caso se trate de pessoa física, desde que admitida a sua participação
+ na licitação (art. 5º, inciso II, alínea “c”, da Instrução Normativa Seges/ME nº 116, de
+ 2021), ou de sociedade simples;
+ 8.6.2. Certidão negativa de falência expedida pelo distribuidor da sede do fornecedor
+  - Lei nº 14.133, de 2021, art. 69, caput, inciso II);
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Serviços sem dedicação — Atualização: maio/2023                                                                                      13 de 14
+Aprovado pela Secretaria de Gestão e Inovação
+
+ 9. Estimativas do Valor da Contratação
+
+ Valor (R$): 102.450,74
+
+ 9.1. O custo estimado da contratação possui caráter sigiloso e será tornado público apenas e
+ imediatamente após o julgamento das propostas.
+
+
+ 10. Adequação orçamentária
+
+ 10. Adequação orçamentária
+ 10.1. As despesas decorrentes da presente contratação correrão à conta de recursos específicos consignados no
+ Orçamento Geral da União.
+ 10.1.1. A contratação será atendida pela seguinte dotação:
+  I) Gestão/Unidade:
+  II) Fonte:
+  III) Programa de Trabalho:
+ IV) Elementos de Despesa:
+ V) PI:
+ 10.2. A dotação  relativa aos exercícios  financeiros subsequentes  será indicada após aprovação da Lei
+ Orçamentária respectiva e liberação dos créditos correspondentes, mediante apostilamento.
+
+
+
+
+ 11. Responsáveis
+
+  Todas as assinaturas eletrônicas seguem o horário oficial de Brasília e fundamentam-se no §3º do Art. 4º do Decreto nº 10.543, de 13 de novembro de
+  2020.
+
+
+
+
+                              TIAGO AGUETONI SILVA
+                                                            Equipe de apoio
+
+                                                Assinou eletronicamente em 23/09/2025 às 11:30:49.
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Serviços sem dedicação — Atualização: maio/2023                                                                                      14 de 14
+Aprovado pela Secretaria de Gestão e Inovação
+
+                                                                                UASG 180223
+
+                                 ESP-COM.POLIC.AREA METROP-9
+
+               Matriz de Gerenciamento de Riscos 61/2025
+
+
+1. Informações Básicas
+
+Número da Matriz de Alocação de Riscos                                Responsável pela Edição                          Data de Criação
+ 61/2025                                             TIAGO AGUETONI SILVA                       11/08/2025 09:43
+ Objeto da Matriz de Riscos
+ Televisores, microondas, fogão industrial, aparelho de bioimpedância, câmera fotografica, leitor biométrico, mesa, suporte tv e video wall
+
+
+2. Histórico de Revisões
+
+
+Nenhuma Revisão encontrada.
+
+3. Riscos Identificados
+
+Número   Risco                Causa do Risco                              Fase                 Alocado para       Nível do Risco (I x P)   Nº Item
+          Entrega  de  produtos Fornecedor não observar as especificações dosR-01                                                                       Gestão de Contrato      Contratada               Baixo            1        em desconformidade     itens licitados
+              Impactos
+  1            Repetidas recusas do material, atraso no recebimento definitivo; Reclamação dos usuários
+             Ações Preventivas
+  P-01         Realizar uma criteriosa validação do produto                                            Responsável: TIAGO AGUETONI SILVA
+             Ações de Contingência
+  C-01         Solicita a substituição do item que foi entregue de forma errada.                            Responsável: JOAO BATISTA FERREIRA
+
+Número   Risco                Causa do Risco                              Fase                   Alocado para      Nível do Risco (I x P)  Nº Item
+            Falta de  fornecedores
+         do produto para o alvoR-02                               Indisponibilidade do produto licitado.           Seleção do Fornecedor    Administração           Baixo           1          da aquisição (licitação
+            deserta).
+              Impactos
+  1            Realização de um novo processo.
+             Ações Preventivas
+  P-01        Preço de acordo com a realidade de mercado do bem, levando em conta o frete e garantia.      Responsável: TIAGO AGUETONI SILVA
+             Ações de Contingência
+  C-01        Diante da impossibilidade de repetição do processo licitatório, solicitar a contratação direta     Responsável: JOAO BATISTA FERREIRA
+
+Número   Risco                Causa do Risco                              Fase            Alocado para           Nível do Risco (I x P)    Nº Item
+          Aquisição de material Descrição deficitária do item no processo deR-03                                                                         Planejamento     Administração                Baixo          de má qualidade         licitação
+              Impactos
+  1            Inadequação da solução apresentada por falta de melhor análise.
+             Ações Preventivas
+  P-01        Clareza na descrição do bem quanto as suas especificidades.                               Responsável: TIAGO AGUETONI SILVA
+  P-02         Reavaliar o processo de trabalho de conferência e validação dos materiais recebidos.          Responsável: TIAGO AGUETONI SILVA
+             Ações de Contingência
+  C-01       Reexame dos documentos preparatórios da contratação.                                   Responsável: JOAO BATISTA FERREIRA
+
+4. Acompanhamento das Ações de Tratamento de Riscos
+
+
+Nenhum acompanhamento incluído.
+
+5. Responsáveis / Assinantes
+
+Equipe de Planejamento
+
+
+
+
+
+                                                                                                                     1 de 2
+
+   TIAGO AGUETONI SILVA
+             Equipe de apoio
+
+Assinou eletronicamente em 23/09/2025 às 11:26:50.
+
+
+
+
+
+                                                                          2 de 2
+
+                                                                                UASG 180223
+
+                             ESP-COM.POLIC.AREA METROP-9
+
+                Estudo Técnico Preliminar 79/2025
+
+
+1. Informações Básicas
+
+Número do processo: 057.00395163/2025-52
+
+
+2. Descrição da necessidade
+
+Aquisição dos equipamentos de Televisores, Microondas, Leitor Biométrico, Câmera Fotográfica, Balança de
+Bioimpedância, Fogão Industrial e equipamentos para sala de operação.
+
+1. Televisores CPA/M-9 e subordinadas.
+
+A aquisição de televisores destina-se às áreas administrativas, espaços de convivência e sala de operações. Têm
+como finalidade:
+
+1.1. Apoiar atividades de capacitação, treinamento e instrução continuada do efetivo, permitindo a exibição de
+vídeos institucionais, aulas, atualizações táticas e operacionais;
+
+1.2. Proporcionar momentos de descompressão nas áreas de descanso, contribuindo para a saúde mental dos
+policiais, especialmente durante plantões prolongados.
+
+1.3. Para exibição de imagens e dados operacionais em tempo real na sala de operações.
+
+2. Micro-ondas CPA/M-9 e subordinadas
+
+A aquisição de micro-ondas visa atender às necessidades básicas de alimentação dos policiais durante os turnos de
+serviço, especialmente em unidades com efetivo fixo ou plantões ininterruptos. A presença desses equipamentos
+nas dependências das unidades:
+
+2.1. Assegura condições mínimas de conforto para que os policiais possam aquecer suas refeições de forma rápida
+e segura;
+
+2.2. Reduz a necessidade de deslocamento externo para alimentação, otimizando o tempo de serviço e aumentando
+a segurança do efetivo;
+
+2.3. Contribui para o bem-estar e valorização dos profissionais, promovendo melhores condições de trabalho no
+ambiente policial.
+
+3. Leitor biométrico e câmera fotografica CPA/M-9
+
+3.1. A aquisição do leitor bioétrico e câmera fotografica visa atender a demanda de emissão de identidades
+funcionais deste grande comando.
+
+4. Balança de bioimpedância policlínica (UIS)
+
+4.1. A aquisição da presente contratação visa suprir a necessidade da Policlínica do CPA/M9 quanto à aquisição
+de uma balança de bioimpedância de uso clínico e profissional.
+
+
+
+                                                                                                                        1 de 7
+
+4.2. O equipamento é fundamental para a avaliação precisa da composição corporal dos pacientes, auxiliando nas
+condutas nutricionais, fisioterapêuticas e médicas, especialmente no monitoramento de doenças crônicas como
+obesidade, diabetes e hipertensão.
+
+5. Fogão industrial 2ª Cia do 28ºBPM/M
+
+5.1. Aquisição de fogão industrial para atender à cozinha da 2ª Cia do 28º Batalhão de Polícia Militar
+Metropolitano, visando garantir eficiência, durabilidade e segurança no preparo de alimentos.
+
+5.2. Se faz necessária para substituir o equipamento atual, que apresenta sinais de desgaste, comprometendo a
+qualidade do serviço de alimentação e a segurança dos policiais. O novo equipamento deverá atender às
+necessidades de preparo de alimentos em grande quantidade.
+
+6. Mesa para Sala de Monitoramento:
+6.1. Necessária para acomodar equipamentos, monitores e materiais dos operadores, proporcionando organização
+e conforto durante o trabalho. Deve ser resistente, com tamanho adequado ao espaço disponível e design
+ergonômico.
+
+7. Suporte para Televisão:
+
+7.1. Compatível com o tamanho e peso da TV adquirida, permitindo fixação segura na parede e ajuste de
+inclinação e rotação para melhor visualização.
+
+8. Video Wall Control:
+8.1. Sistema para gerenciamento e controle de múltiplas telas, possibilitando a visualização simultânea de diversas
+fontes de vídeo, com interface intuitiva e compatibilidade com os equipamentos existentes.
+
+9. A presente solicitação é, portanto, fundamentada na busca por maior eficiência operacional, melhoria das
+condições de trabalho e valorização dos profissionais de segurança pública atuantes no CPA/M-9 e suas unidades
+subordinadas.
+
+
+
+
+
+3. Área requisitante
+
+                      Área Requisitante                                                   Responsável
+CPA/M-9                                                                  1º Ten PM Fuli
+
+
+4. Descrição dos Requisitos da Contratação
+
+4.1. Tendo em vista a menor complexidade do objeto e eventualmente o menor vulto, entende a
+administração que o estudo técnico preliminar possa prescindir desta informação, guardando a
+proporcionalidade entre o custo do controle e o risco envolvido, conforme o § 1° do Artigo 5° do
+decreto n.º 68.017, DE 11 DE OUTUBRO DE 2023.
+
+
+
+
+                                                                                                                        2 de 7
+
+5. Levantamento de Mercado
+
+5.1. Tendo em vista a menor complexidade do objeto e eventualmente o menor vulto, entende a
+administração que o estudo técnico preliminar possa prescindir desta informação, guardando a
+proporcionalidade entre o custo do controle e o risco envolvido, conforme o § 1° do Artigo 5° do
+decreto n.º 68.017, DE 11 DE OUTUBRO DE 2023.
+
+
+6. Descrição da solução como um todo
+
+6.1. Tendo em vista a menor complexidade do objeto e eventualmente o menor vulto, entende a
+administração que o estudo técnico preliminar possa prescindir desta informação, guardando a
+proporcionalidade entre o custo do controle e o risco envolvido, conforme o § 1° do Artigo 5° do
+decreto n.º 68.017, DE 11 DE OUTUBRO DE 2023.
+
+
+
+
+7. Estimativa das Quantidades a serem Contratadas
+
+7.1. Com base no levantamento realizado nas seções, foi constatada a necessidade dos equipamentos descritos na
+tabela abaixo:
+
+
+                                                                         UNID.
+ Item MATERIAL DESCRIÇÃO                                         QTD
+                                                    MED
+                         Forno; Domestico, de Mesa; Microondas; Em Aco Inox, Na Cor Prata, Porta: Vidro, Puxador e Painel;
+                             Eletrico; Medindo No Minimo (330x530x420)mm (axlxp); Capacidade 32 Litros; 10 Niveis de Potencia;
+   1   Microondas       Display Digital, Relogio, Luz Interna, Teclas Pre-programadas; Prato Giratorio; Voltagem 110 V,        Unidade  18
+                          Potencia Minima de 1500w; Com Garantia Minima de 12 Meses Apos a Entrega; Em Conformidade Com
+                       Todas As Normas Exigidas Vigentes;
+                           Televisao; a Cores; Tela Qled, Categoria Crystal Uhd; de 50 Polegadas; Com Resolucao de 3.840 x 2.160
+                              p, Uhd, 4k; Diagonal Visual Aprox. 127 Cm; Com Comando de Voz Em Portugues do Brasil e Ingles
+                             (eua), Wi-fi Integrado, Smart Tv, Wifi; Espelhamento de Audio, Google Assistant e Alexa Integrados,
+                       Acesso Remoto, Desligamento Automatico; Conexoes de Entrada:3 Entradas Hdmi, 2 Entradas Usb, 1
+                         Entrada de Composto, Bluetooth; Conexoes de Saida: 1 Saida de Audio Digital; Com Recepcao para Tv
+   2    Televisor 50 pol                                                                                            Unidade  9
+                             Digital; Sistema de Cores Mega Contraste, Dinamica de Alto Alcance, Pqi 2100, Potencializador de
+                           Contraste, Hlg; Controle Remoto Padrao do Fabricante; Voltagem Ac 100-240v 50/60hz; Consumo
+                      Aproximado Maximo 145 W; Medindo Aproximadamente Com Suporte 1120 x 685 x 230mm e Sem
+                         Suporte 1120x 650 x 26 Mm; Pesando No Maximo 17 Kg Com Embalagem; Com Garantia Minima de
+                      12 Meses; Manual Em Portugues;
+                      Fogao Industrial; Modelo de Piso, Sobre Pes; Com Estrutura Em Aco Inox Aisi 304; Alimentacaoa Gas
+                          Natural (gn); Pressao de Utilizacao 2,1kpa/ 210 Mmca; Com 04 Queimadores; 02Queimadores Simples
+                        Tipo Cachimbo e 02 Queimadores Duplos Tipo Coroa Em Pintura TermoResistente; Ferro Fundido;
+                         Valvula Reguladora de Pressao; 04 Grelhas Em Ferro Fundido,Removíveis e Com Acabamento Em
+                           Pintura Termo Resistente; Medindo (400 x 400) Mm; ChapaSuperior (tampo) Com Espessura Mínima de
+                          1/16" Em Aço Inox Aisi 304; Bandejas ColetorasEm Aço Inox Chapa 20 Com Puxador; Grade Inferior
+                          para Panelas Em Perfil "u" Em Aço InoxChapa 20; Tubo de Alimentacao Em Alumínio Sem Costura,
+                        Terminal de Acoplamento Em TuboMetalico Flexivel; Torneira Dos Queimadores 3/8"x3/8" Reforçadas   Unidade  1   3   Fogão industrial
+                Em Latao Cromado; FornoCom Dimensões Mínimas de (540x310x660)mm e Queimador Dotado de
+                           Dispositivo Supervisorde Chama; Paredes, Piso Externo e Teto Em Inox Chapa 18, Paredes Internas e
+                          Piso RemovívelEm Inox Aisi 430; Porta Em Chapa de Aço Inox e Puxador Em Baquelite; Sensor
+
+
+                                                                                                                        3 de 7
+
+                        deTemperatura Fixado Próximo Ao Queimador P/ Acionamento Da Válvula de Segurança;Acompanham
+                      02 Bandejas Corrediças Executadas Em Gradeado de Aço Inox, IsolamentoTérmico; Base Com 04 Pés
+                Em Perfil "l" Com Sapatas Reguláveis Constituídas de Base Metálicae Ponteira Maciça; Com Garantia
+                     Minima de 12 Meses a Partir Da Data de Entrega;
+                         Analisador de Composicao Corporal; Analise Segmentada de Impedancia Bioeletrica de 8pontos;
+                       Mensuracao de Peso e Detalhamento Da Composicao Corporal, Com Capacidade de 250kg; Display: Lcd
+       Aparelho de      800x480 Mm Color./ Sensivel Ao Toque. Dimens. Aprox. 460x680x1020 Cm. Peso Aprox. 2o Kg;
+   4                                                                                                            Unidade  1
+        bioimpedância    Frequencia: 5khz, 50khz e 250khz e Com Memoria para Armazenamento de 100 Mil Exames;
+                        Capacidade de Geracao de Relatorio Impresso de Dados; Impressora; Bivolt; Garantia 12 Meses.
+                             Instalacao, Treinamento e Assistencia Tecnica.;
+                      Camera Fotografica Profissional; Camera Fotografica Digital Dslr Mirrorless; Processador DigicX,
+                        Resolucao de 24.2 Megapixel,sensibilidade Iso Foto 100-32000, Video 100-12800; Sensor22.3 x 14,9mm
+                             (aps-c); Capacidade de Gravacao Em Video de 4k 30p | Full Hd 120p, Tempode Gravacao de Ate 1 Hora;
+       Câmera          Saida Hdmi, Cartao de Memoria Padrao Sd | Sdhc | Sdxc(compativel Com Uhs-i); Sistema de Foco   5                                                                                                            Unidade  1
+         fotografica       Automatico Dual Pixel Cmos Af Ii,ate 651 Posicoes deAf; Visor Eletronico Oled Com Aproximadamente
+                         2.360.000 Pontos; Tela Lcd Articulada de 3,0"| 1.620.000 Pontos - Articulada; Conexoes Sem Fio Por Wi-
+                                     fi de 2.4 Ghz e Bluetooth; Formatosde Arquivo Jpeg, Heif, Raw (cr3, 14 Bit Raw), Mp4; Microfone
+                          Estereo Com Entrada paraMicrofone Externo; Com Lente Rf-s 18-45mm;
+                        Scanner de Impressao Digital; para Captura e Leitura de Impressao Digital, Leitor Biometrico; Sistema
+                          Optico, Resolucao 500 Dpi, Rejeição a Imagens Latentes, Tempo Máximo de Verificação (1:1) Até 2
+                         Seg; Interface Usb 2.0, Medindo Aproximadamente 16 x 16 Mm (lxc), 8-bit Escala de Cinza (256 Níveis
+ 6      Leitor biométrico  de Cinza); Compativel Com Windows (xp, 7, 8, 10 ) Linux, Área de Captura e Leitura Através do Prisma  Unidade  1
+                        de Vidro; Com Software para Tratamento (sdk do Leitor) Compativel Com o Equipamento; Garantia de
+                      12 Meses;
+
+                     Mesa Auxiliar para Escritorio; Tampo Em Mdf; Revestido Em Laminado Melaminico; Na CorCarvalho
+                             Prata; Acabamento Das Bordas Em Pvc Na Mesma Cor do Tampo; FormatoRetangular; Medindo (1400 x
+                     700)mm; Espessura Minima de 40 Mm; Na Altura de 750mm;Estrutura Em Mdf; Formada Por Paineis
+ 7     Mesa              Laterais Estruturais; Chapas Com Espessura Minima de15mm; Com Eletrocalhas para Passagem de       Unidade  4
+                         Fiacao (eletr./telef./log.); Com SapatasNiveladoras de Aco; Estrutura Com Revestimento Em Laminado
+                        Melaminico; Com GaveteiroAcoplado de 3 Gavetas; Com Painel Frontal Na Cor do Tampo; Garantia
+                     Minima de 12 Meses;Fabricada de Acordo Com As Normas Nbr/abnt Vigentes;
+                         Suporte para Televisor; de Parede, para Tvs Lcd, Led, Plasma, Smart e 3d; De23 Ate 66Polegadas;
+                        Furacao Vesa: 200x200, 200x300, 200x400, 300x200,300x300, 300x400,400x200, 400x300,
+                     400x400mm; Em Aco Carbono; Com Pintura Eletrostatica e TratamentoAnticorrosivo; Na Cor Preta;
+ 8      Suporte para tv                                                                                             Unidade  20
+                 Com Capacidade de Peso Ate 60 Kg; Dimensoes MaximasComprimento Das Barras de Fixacao Na
+                          Parede: 400mm e 456 Mm Da Barra de Encaixe Da Tv;Fixacao 4 Pontos; Fornecido Com Trava de
+                         Seguranca, Kit de Parafusos, Manual de Instalacao,Garantia Minina de 12 Meses;
+                           Televisao; a Cores; Com Conversor Integrado Isdb-tb; Tela 4k Uhd; de 55 Polegadas; Com Resolucao de
+                           4k, 3840 x 2160 Pixels; 139,7 Cm Diagonal; Smart Tv Com Assistente de Voz,Espelhamento de Tela
+                             (celular e Pc), Hdr, Wifi e Bluetooth; 3 Entradas Hdmi, 1 Entrada Usb, 1Entrada de Rf, 1entrada Ethernet
+                               (lan); Saida de Audio Digital (otica Ou Hdmi Arc); ComRecepcao para Canais Digitais; Sistema de Cores 9      Televisor 55 pol                                                                                            Unidade  16
+                           Ntsc, Pal-m, Isdb-tb; Controle Remoto ComComando de Voz; Voltagem Bivolt (127/220 V); Medindo
+                       Aproximadamente (123 x 75 x 22)Cm, Com Base; Pesando No Maximo Aproximadamente 17kg; Com
+                          Garantia Minima de 12Meses; Manual Em Em Portugues; Fornecido Com Controle Remoto, Baterias
+                          para ControleRemoto e Cabo de Forca;
+                         Controlador de Video Wall; Monitores: Min. de 2x2; Resolucao de Entrada: Min. 1920 x 1080p,3840 x
+                        2160p; Resolucao de Saida: Min. 1920 x 1080p, 4k; Conexao de Entrada Min.: 01 Dvi e01 Hdmi;
+ 10    Video wall       Conexao de Saida Min.: 04 Hdmi, 01 Audio de 3,5mm (p2); Plug de Entrada: Min. 16Bits; Plug de Saida:  Unidade  4
+                       Min. 24 Bits; Voltagem: Bivolt; Compatibilidade: Monitores, Bloco deVideo, Tv Lcd/plasma/led Ou
+                            Projetores; Dimensoes Aprox. 25 x 2,5 x 10,5 Cm (lxaxp); PrazoMin. de Garantia de 06 Meses;
+
+1.2. Os bens objeto desta contratação são caracterizados como permanentes, conforme justificativa constante do
+Estudo Técnico Preliminar.
+
+
+
+
+
+                                                                                                                        4 de 7
+
+8. Estimativa do Valor da Contratação
+
+Valor (R$): 102.450,74
+
+8.1. Foi realizada a pesquisa em mídias especializadas e verificou-se um preço estimado total de R$ 102.450,74
+para a aquisição de todos os itens que constam na planilha anterior.
+
+8.1.1. Vale ressaltar que o valor acima informado é meramente estimativo, sendo o valor referencial obtido em
+uma futura pesquisa de preço.
+
+
+9. Justificativa para o Parcelamento ou não da Solução
+
+9.1. A contratação será em parcela única.
+
+
+
+10. Contratações Correlatas e/ou Interdependentes
+
+10.1. Tendo em vista a menor complexidade do objeto e eventualmente o menor vulto, entende a
+administração que o estudo técnico preliminar possa prescindir desta informação, guardando a
+proporcionalidade entre o custo do controle e o risco
+envolvido, conforme o § 1° do Artigo 5° do decreto n.º 68.017, DE 11 DE OUTUBRO
+DE 2023.
+
+
+11. Alinhamento entre a Contratação e o Planejamento
+
+11.1. Tendo em vista a menor complexidade do objeto e eventualmente o menor vulto, entende a
+administração que o estudo técnico preliminar possa prescindir desta informação, guardando a
+proporcionalidade entre o custo do controle e o risco envolvido, conforme o § 1° do Artigo 5° do
+decreto n.º 68.017, DE 11 DE OUTUBRO DE 2023.
+
+
+
+12. Benefícios a serem alcançados com a contratação
+
+Justificativa para Aquisição de Equipamentos para o Comando de Policiamento de Área Metropolitana
+
+Nove (CPAM9) e subordinadas.
+
+1. Introdução
+
+Visando aprimorar as condições operacionais, administrativas e de bem-estar dos policiais do CPAM9 e
+subordinadas, bem como fortalecer a eficiência das ações de segurança pública, faz-se necessária a aquisição dos
+seguintes equipamentos: televisores, micro-ondas, fogão industrial, balança de bioimpedância, câmera fotográfica,
+leitor de biometria e equipamentos para sala de operação.
+
+
+
+
+
+                                                                                                                        5 de 7
+
+2. Objetivos
+
+2.1. Melhorar a comunicação e o treinamento interno, garantir suporte alimentar e conforto durante os plantões,
+monitorar a saúde e o condicionamento físico dos policiais.
+
+3. Justificativa dos Equipamentos
+
+3.1. Televisores
+
+      Utilizados para a divulgação de informações operacionais, treinamentos, monitoramento em tempo real e
+     comunicação interna, os televisores aumentam a eficiência na troca de informações.
+
+3.2. Micro-ondas e Fogão Industrial
+
+     Garantem a alimentação adequada e o conforto dos policiais durante os plantões, assegurando que a equipe
+     mantenha o desempenho físico e mental necessário para o cumprimento das funções.
+
+3.3. Balança de Bioimpedância
+
+      Permite o acompanhamento da composição corporal dos policiais, essencial para a promoção da saúde,
+     prevenção de doenças ocupacionais e manutenção do condicionamento físico exigido pela função policial.
+
+3.4. Câmera Fotográfica
+
+     Fundamental para a modernização e elaboração da identidade funciaonal.
+
+3.5. Leitor de Biometria
+
+      Proporciona controle seguro e eficiência para a elaboração da identidade funcional.
+
+3.6. Mesa
+
+   A aquisição de mesas adequadas proporciona um ambiente de trabalho mais organizado, com espaço
+      suficiente para equipamentos e materiais, além de garantir conforto e ergonomia para os operadores,
+      reduzindo a fadiga e aumentando a produtividade.
+
+3.7. Suporte para Televisão
+
+   O suporte para televisão ajustável permite a melhor disposição dos monitores, garantindo ângulos ideais de
+      visualização para todos os operadores, facilitando o acompanhamento dos dados e imagens em tempo real.
+
+3.8. Video wall Control
+
+    Com o video wall control, é possível centralizar e gerenciar múltiplas fontes de informação em uma única
+       interface, facilitando a tomada de decisões rápidas e assertivas, melhorando a capacidade de resposta da
+      equipe.
+
+4. Considerações Finais
+
+A aquisição dos equipamentos mencionados é estratégica para o CPAM9, pois fortalece a estrutura de trabalho, a
+saúde dos policiais e a eficiência operacional, contribuindo diretamente para a melhoria da segurança pública na
+área metropolitana.
+
+
+
+
+
+                                                                                                                        6 de 7
+
+13. Providências a serem Adotadas
+
+13.1. Tendo em vista a menor complexidade do objeto e eventualmente o menor vulto, entende a
+administração que o estudo técnico preliminar possa prescindir desta informação, guardando a
+proporcionalidade entre o custo do controle e o risco envolvido, conforme o § 1° do Artigo 5° do
+decreto n.º 68.017, DE 11 DE OUTUBRO DE 2023.
+
+
+
+14. Possíveis Impactos Ambientais
+
+14.1. Tendo em vista a menor complexidade do objeto e eventualmente o menor vulto, entende a
+administração que o estudo técnico preliminar possa prescindir desta informação, guardando a
+proporcionalidade entre o custo do controle e o risco envolvido, conforme o § 1° do Artigo 5° do
+decreto n.º 68.017, DE 11 DE OUTUBRO DE 2023.
+
+
+
+15. Declaração de Viabilidade
+
+Esta equipe de planejamento declara viável esta contratação.
+
+15.1. Justificativa da Viabilidade
+
+Esta equipe de planejamento declara viável a contratação dos itens.
+
+
+16. Responsáveis
+
+ Todas as assinaturas eletrônicas seguem o horário oficial de Brasília e fundamentam-se no §3º do Art. 4º do Decreto nº 10.543, de 13 de novembro de
+2020.
+
+
+
+
+                             TIAGO AGUETONI SILVA
+                                                          Equipe de apoio
+
+                                               Assinou eletronicamente em 23/09/2025 às 11:24:22.
+
+
+
+
+
+                                                                                                                        7 de 7
+
+05/08/25, 12:40                                                                                                         Siafnet
+
+
+
+                                             Consulta Itens (ContabilizaSP x Compras.gov.br)
+
+                        ContabilizaSP                             Compras.gov.br
+
+                                   Serviço     Material                                                Serviço     Material
+
+                                        Item                                                    Código do Item
+
+                                                   5762464 - FORNO,DOMEST.MICROONDAS,INOX,32LS,10 NIV             218417
+
+                                    Descrição do item                                                  Descrição do item
+                TIPO I: DOMÉSTICO, DE MESA;TIPO II: MICROONDAS;MATERIA                Material: Aço inoxidável;Capacidade: 32;Potência: 900;Tensão:
+                                                     PRIMA: EM ACO INOX, NA COR PRATA, PORTA: VIDRO, PUXADOR             110;Características Adicionais: Relógio;Comprimento: 43;Largura:
+                  E PAINEL;MODELO: ELÉTRICO;DIMENSOES: MEDINDO NO                                         54,70;Altura: 32,70;
+            MINIMO (330X530X420)MM (AXLXP);CAPACIDADE: CAPACIDADE
+                  32 LITROS;ACESSÓRIOS_I: ;ACESSÓRIO II: 10 NIVEIS DE
+                POTENCIA;CONSTRUÇÃO: DISPLAY DIGITAL, RELOGIO,LUZ
+                              Unidade Fornecimento                                         Unidade Fornecimento
+
+                                                                                                00001 - UNIDADE - ATIVO                                                 Unidade
+
+                                                Copiar descrição do item          Consulte no Compras.gov.br         Copiar descrição do item
+
+
+
+
+
+https://contabilizafront.fazenda.sp.gov.br/compras/consulta-itens                                                                                                                                                      1/1
+
+25/02/25, 11:58                                                                            Rede Siafnet
+
+
+
+                                                                 Consulta Itens (ContabilizaSP x Compras.gov.br)
+
+                               ContabilizaSP                                           Compras.gov.br
+
+                                              Serviço     Material                                                                      Serviço     Material
+
+                                                 Item                                                                       Código do Item
+
+               6125654 - TELEVISAO, QLED, CATEGORIA CRYSTAL UHD, 50 POL., SMART TV, WIFI -            443965
+
+                                              Descrição do item                                                                        Descrição do item
+               NÚCLEOS: A NÚCLEOS;MODELO INTEGRADO: ;TIPO DE TELA/MONITOR: TELA QLED,              Tamanho Tela: 50;Tensão: Bivolt;Características Adicionais: Smart Tv, Full Hd, Entradas
+                      CATEGORIA CRYSTAL UHD;TAMANHO DA TELA/MONITOR: DE 50                     Hdmi/Usb, Conversor Di;Tipo Tela: Led;Acessórios: Controle Remoto;
+              POLEGADAS;RESOLUCAÇÃO: COM RESOLUÇÃO DE 3.840 X 2.160P, UHD, 4K;TUBO DE
+               IMAGEM: ;DIAGONAL VISUAL: DIAGONAL VISUAL APROX. 127 CM;FUNCOES: COM
+            COMANDO DE VOZ EM PORTUGUES DO BRASIL E INGLES (EUA), WI-FI INTEGRADO,
+             SMART TV, WIFI;FUNCOES I: ESPELHAMENTO DE AUDIO, GOOGLE ASSISTANT E ALEXA
+                                       Unidade Fornecimento                                                            Unidade Fornecimento
+
+                                      00001 - UNIDADE - ATIVO                                                        Unidade                  
+
+                                                                    Copiar descrição do item            Consultar no Compras.gov.br                            Copiar descrição do item
+
+
+
+
+
+https://contabilizafront.fazenda.sp.gov.br/compras/consulta-itens                                                                                                                                                      1/1
+
+10/09/25, 10:59                                                                                                         Siafnet
+
+
+
+                                             Consulta Itens (ContabilizaSP x Compras.gov.br)
+
+                        ContabilizaSP                             Compras.gov.br
+
+                                   Serviço     Material                                                Serviço     Material
+
+                                        Item                                                    Código do Item
+
+                                                   5397383 - FOGAO INDUSTRIAL PISO SOBRE PES,GAS NATURA            445116
+
+                                    Descrição do item                                                  Descrição do item
+             MODELO: MODELO DE PISO, SOBRE PES;TIPO DE APOIO: PARA              Material: Aço desativada;Funcionamento: Gás;Tipo Acendimento:
+                                                   USO SOBRE ;ESTRUTURA: COM ESTRUTURA EM ACO INOX AISI              Manual;Tipo Uso: Cozinhar E Assar Alimentos;Características
+                    304;REVESTIMENTO: REVESTIDO EM ;ALIMENTACAO:                       Adicionais: Grelhas Em Ferro Fundido 40 Cm X 40 Cm, 04
+              ALIMENTACAO A GAS NATURAL (GN);TENSAO ALIMENTACAO:                          Queimad;Quantidade Bocas: 4;
+               PRESSAO DE UTILIZAÇÃO 2,1KPA/ 210 MMCA;QUANTIDADE
+             QUEIMADORES: COM 04 QUEIMADORES;TIPO DE QUEIMADOR:
+                              Unidade Fornecimento                                         Unidade Fornecimento
+
+                                                                                                00001 - UNIDADE - ATIVO                                                 Unidade
+
+                                                Copiar descrição do item          Consulte no Compras.gov.br         Copiar descrição do item
+
+
+
+
+
+https://contabilizafront.fazenda.sp.gov.br/compras/consulta-itens                                                                                                                                                      1/1
+
+05/09/25, 17:22                                                                                                         Siafnet
+
+
+
+                                             Consulta Itens (ContabilizaSP x Compras.gov.br)
+
+                        ContabilizaSP                             Compras.gov.br
+
+                                   Serviço     Material                                                Serviço     Material
+
+                                        Item                                                    Código do Item
+
+                                                   5718147 - ANALISADOR DE COMPOSICAO CORPORAL SEGM             305065
+
+                                    Descrição do item                                                  Descrição do item
+                 TIPO: ANALISE SEGMENTADA DE IMPEDANCIA BIOELÉTRICA DE                  Método: Bioimpedância;Função: Massa Celular
+                                                           8PONTOS;FINALIDADE: MENSURAÇÃO DE PESO E                      Corporal,Extracelular,Magra,Gorda;Funções Básicas: Massa
+                DETALHAMENTO DA COMPOSIÇÃO CORPORAL, COM                  Corporal,Tx Metabólica Basal,Água Corp,Total;Adicionais: Água
+             CAPACIDADE DE 250KG;CONFIGURAÇÃO: DISPLAY: LCD 800X480                 Intracelular,Extracelular,Relação Ecm/Bcm;Características
+           MM COLOR./ SENSIVEL AO TOQUE. DIMENS. APROX.                     Adicionais: Retância +Ou-0,2%,Amplitude 0-300 Omhs,Res.
+                 460X680X1020 CM. PESOS APROX. 2O KG;PARAMETROS:                    0,1ohm;Resistência: Precisão + Ou - 1%;Amplitude: 200-
+                              Unidade Fornecimento                                         Unidade Fornecimento
+
+                                                                                                00001 - UNIDADE - ATIVO                                                 Unidade
+
+                                                Copiar descrição do item          Consulte no Compras.gov.br         Copiar descrição do item
+
+
+
+
+
+https://contabilizafront.fazenda.sp.gov.br/compras/consulta-itens                                                                                                                                                      1/1
+
+05/09/25, 16:14                                                                                                         Siafnet
+
+
+
+                                             Consulta Itens (ContabilizaSP x Compras.gov.br)
+
+                        ContabilizaSP                             Compras.gov.br
+
+                                   Serviço     Material                                                Serviço     Material
+
+                                        Item                                                    Código do Item
+
+                                                   6508685 - CAMERA FOTOGR. PROFISS.DIGITAL DSLR MIRROR            628815
+
+                                    Descrição do item                                                  Descrição do item
+                TIPO: CÂMERA FOTOGRÁFICA DIGITAL DSLR MIRRORLESS;EFEITO:           Tipo Foco: Autofoco;Tipo Visor: Lcd Sensível Ao Toque;Formato
+                                                          PROCESSADOR DIGIC X, RESOLUÇÃO DE 24.2                       Gravação Imagem: Mpeg-4;Tipo Modo Gravação: Uhd
+                MEGAPIXEL,SENSIBILIDADE ISO FOTO 100-32000, VIDEO 100-              4k;Resolução Máxima: 26 Megapixels;Tipo Memória: Sd, Sdhc,
+                  12800;CARACTERÍSTICA I: SENSOR 22.3 X 14,9MM (APS-                 Sdxc;Resolução Mínima: 24 Megapixels;Alimentação Câmera:
+                C);CARACTERÍSTICAS II: CAPACIDADE DE GRAVAÇÃO EMVÍDEO                Bateria;Sensor Imagem: Cmos Aps-C;Acessórios: Microfone
+               DE 4K 30P | FULL HD 120P, TEMPO DE GRAVAÇÃO DE ATE 1             Shotgun, Tripé, Bateria, Alça, Estojo;Monitor: Tela Lcd Sensível Ao
+                              Unidade Fornecimento                                         Unidade Fornecimento
+
+                                                                                                00001 - UNIDADE - ATIVO                                                 Unidade
+
+                                                Copiar descrição do item          Consulte no Compras.gov.br         Copiar descrição do item
+
+
+
+
+
+https://contabilizafront.fazenda.sp.gov.br/compras/consulta-itens                                                                                                                                                      1/1
+
+10/09/25, 10:29                                                                                                         Siafnet
+
+
+
+                                             Consulta Itens (ContabilizaSP x Compras.gov.br)
+
+                        ContabilizaSP                             Compras.gov.br
+
+                                   Serviço     Material                                                Serviço     Material
+
+                                        Item                                                    Código do Item
+
+                                                   4793455 - SCANNER DE IMPRESSAO DIGITAL - ATIVO                   630012
+
+                                    Descrição do item                                                  Descrição do item
+               FINALIDADE: PARA CAPTURA E LEITURA DE IMPRESSÃO DIGITAL,                      Tipo: Móvel;Componentes: Sensor Ótico, Leitor
+                                                        LEITOR BIOMETRICO;SITEMA DE LEITURA: SISTEMA ÓPTICO,               Biométrico;Capacidade: A Partir De 500 Digitais;Alimentação: 12
+             RESOLUÇÃO 500 DPI, REJEIÇÃO DE IMAGENS LATENTES, TEMPO           Vdc/30 W(Automático) E 110/220;Aplicação: Identificação Pessoas
+            MáXIMO DE VERIFICAÇÃO (1:1) ATÉ 2 SEG;INTERFACE: INTERFACE            Através De Impressão Digital;Características Adicionais: Conector
+              USB 2.0, MEDINDO APROXIMADAMENTE 16 X 16 MM (LXC), 8-              Para Carga Veicular;Compatibilidade: Android;Padrão Interface:
+                    BIT ESCALA DE CINZA (256 NíVEIS DE CINZA);SOFTWARES                                      Usb/Bluetooth;
+                              Unidade Fornecimento                                         Unidade Fornecimento
+
+                                                                                                00001 - UNIDADE - ATIVO                                                 Unidade
+
+                                                Copiar descrição do item          Consulte no Compras.gov.br         Copiar descrição do item
+
+
+
+
+
+https://contabilizafront.fazenda.sp.gov.br/compras/consulta-itens                                                                                                                                                      1/1
+
+22/09/25, 11:08                                                                                                         Siafnet
+
+
+
+                                             Consulta Itens (ContabilizaSP x Compras.gov.br)
+
+                        ContabilizaSP                             Compras.gov.br
+
+                                   Serviço     Material                                                Serviço     Material
+
+                                        Item                                                    Código do Item
+
+                                                   4332490 - MESA AUXILIAR PARA ESCRITORIO,CARVALHO PRA            453995
+
+                                    Descrição do item                                                  Descrição do item
+                MATERIA-PRIMA TAMPO: TAMPO EM MDF;REVESTIMENTO:                Material Estrutura: Tubo Aço;Acabamento Estrutura: Pintura Em
+                                                        REVESTIDO EM LAMINADO MELAMINICO;COR: NA COR                 Epóxi;Material Tampo: Madeira Aglomerada;Revestimento Tampo:
+             CARVALHO PRATA;ACABAMENTO: ACABAMENTO DAS BORDAS              Laminado Melamínico;Tipo Base Teclado: Deslizante;Cor:
+              EMPVC NA MESMA COR DO TAMPO;FORMATO: FORMATO                Ovo;Largura: 1,40;Profundidade: 0,60;Altura: 0,75;Características
+                     RETANGULAR;DIMENSÃO: MEDINDO (1400 X                             Adicionais: 03 Gaveta Em Aço; Trilhos E Puxadores De
+                700)MM;ESPESSURA: ESPESSURA MINIMA DE 40 mm; COM                               Embutir;Espessura Tampo: 30;
+                              Unidade Fornecimento                                         Unidade Fornecimento
+
+                                                                                                00001 - UNIDADE - ATIVO                                                   Conjunto
+
+                                                Copiar descrição do item           Consultar no Compras.gov.br        Copiar descrição do item
+
+
+
+
+
+https://contabilizafront.fazenda.sp.gov.br/compras/consulta-itens                                                                                                                                                      1/1
+
+19/09/25, 15:01                                                                                                         Siafnet
+
+
+
+                                             Consulta Itens (ContabilizaSP x Compras.gov.br)
+
+                        ContabilizaSP                             Compras.gov.br
+
+                                   Serviço     Material                                                Serviço     Material
+
+                                        Item                                                    Código do Item
+
+                                                   6274277 - SUPORTE PARA TELEVISOR, PAREDE , DE 23 A 66 P             472939
+
+                                    Descrição do item                                                  Descrição do item
+            TAMANHO DA TV: DE PAREDE, PARA TVS LCD, LED, PLASMA,                  Material: Aço;Tipo: Parede Articulado;Tamanho: Para Tv Até
+                                                    SMART E 3D; DE23 ATE 66 POLEGADAS;SUPORTE CONJUGADO:                  65";Acabamento Superficial: Pintura Eletrostática;
+            FURACAO VESA: 200X200, 200X300, 200X400, 300X200,300X300,
+                   300X400, 400X200, 400X300, 400X400MM;MATERIAL DO
+              SUPORTE: EM ACO CARBONO;ACABAMENTO DO SUPORTE: COM
+             PINTURA ELETROSTATICA E TRATAMENTO ANTICORROSIVO;COR:
+                              Unidade Fornecimento                                         Unidade Fornecimento
+
+                                                                                                00001 - UNIDADE - ATIVO                                                 Unidade
+
+                                                Copiar descrição do item           Consultar no Compras.gov.br        Copiar descrição do item
+
+
+
+
+
+https://contabilizafront.fazenda.sp.gov.br/compras/consulta-itens                                                                                                                                                      1/1
+
+19/09/25, 10:41                                                                                                         Siafnet
+
+
+
+                                             Consulta Itens (ContabilizaSP x Compras.gov.br)
+
+                        ContabilizaSP                             Compras.gov.br
+
+                                   Serviço     Material                                                Serviço     Material
+
+                                        Item                                                    Código do Item
+
+                                                   5960878 - TELEVISAO, 55 POLEGADAS, CORES, 4K - ATIVO               611855
+
+                                    Descrição do item                                                  Descrição do item
+                 CORES: A CORES;MODELO INTEGRADO: COM CONVERSOR              Tamanho Tela: 55;Tensão: 110/220;Cor: Preta;Características
+                                                       INTEGRADO ISDB-TB;TIPO DE TELA/MONITOR: TELA 4K                  Adicionais: Smart Tv, 4K, Wifi. Entradas Hdmi/Usb, Conversor;Tipo
+                   UHD;TAMANHO DA TELA/MONITOR: DE 55                                  Tela: Led Touch Screen;Acessórios: Controle Remoto;
+             POLEGADAS;RESOLUCAO: COM RESOLUCAO DE 4K, 3840 X 2160
+                  PIXELS;TUBO DE IMAGEM: ;DIAGONAL VISUAL: 139,7 CM
+               DIAGONAL;FUNCOES: SMART TV COM ASSISTENTE DE VOZ,
+                              Unidade Fornecimento                                         Unidade Fornecimento
+
+                                                                                                00001 - UNIDADE - ATIVO                                                 Unidade
+
+                                                Copiar descrição do item           Consultar no Compras.gov.br        Copiar descrição do item
+
+
+
+
+
+https://contabilizafront.fazenda.sp.gov.br/compras/consulta-itens                                                                                                                                                      1/1
+
+19/09/25, 14:59                                                                                                         Siafnet
+
+
+
+                                             Consulta Itens (ContabilizaSP x Compras.gov.br)
+
+                        ContabilizaSP                             Compras.gov.br
+
+                                   Serviço     Material                                                Serviço     Material
+
+                                        Item                                                    Código do Item
+
+                                                   5814006 - CONTROLADOR DE VIDEO WALL, MIN. DE 2X2, RE             621131
+
+                                    Descrição do item                                                  Descrição do item
+                 MONITORES: MONITORES: MIN. DE 2X2;RESOLUCAO DE                  Tipo: Video Wall Controlador 2x2;Resolução De Entrada: Mínima.
+                                                     ENTRADA: RESOLUCAO DE ENTRADA: MIN. 1920 X 1080P, 3840           1920 X 1080p, 3840 X 2160p;Resolução De Saída: Míníma 1920 X
+               X2160P;RESOLUÇÃO DE SAIDA: RESOLUÇÃO DE SAIDA: MIN.            180p,;Conexão De Entrada: Mínimo.: 01 Dvi E 01 Hdmi;Conexão De
+                 1920 X 1080P, 4K;CONEXÃO DE ENTRADA: CONEXÃO DE                               Saída: Mínimo: 04 Hdmi;Tensão: Bivolt;
+                ENTRADA MIN.: 01 DVI E 01 HDMI;CONEXÃO DE SAIDA:
+              CONEXÃO DE SAIDA MIN.: 04 HDMI, 01 ÁUDIO DE 3,5MM
+                              Unidade Fornecimento                                         Unidade Fornecimento
+
+                                                                                                00001 - UNIDADE - ATIVO                                                 Unidade
+
+                                                Copiar descrição do item           Consultar no Compras.gov.br        Copiar descrição do item
+
+
+
+
+
+https://contabilizafront.fazenda.sp.gov.br/compras/consulta-itens                                                                                                                                                      1/1
+

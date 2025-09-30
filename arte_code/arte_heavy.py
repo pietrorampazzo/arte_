@@ -149,8 +149,8 @@ def get_best_match_from_ai(item_edital, df_candidates, attempt_description: str)
 2.  Compare-o com cada produto na `<base_fornecedores_filtrada>`.
 3.  **Seleção Primária**: Encontre o produto da base que seja >=95% compatível. Dentre os compatíveis, escolha o de **menor 'Valor'**.
 4.  **Seleção Secundária**: Se nenhum for >=95% compatível, identifique o produto tecnicamente mais próximo.
-5.  **Análise Estruturada**: Para o produto escolhido (seja `best_match` ou `closest_match`), forneça uma análise de compatibilidade detalhada no formato JSON especificado.
-6.  **Falhas Críticas**: Se uma especificação chave e obrigatória do edital (ex: sensor térmico, potência mínima, marca específica) não for atendida, adicione a flag `FALHA CRÍTICA:` no início do ponto negativo correspondente.
+5.  **Análise Estruturada**: Para o produto escolhido (seja `best_match` ou `closest_match`), forneça uma análise de compatibilidade detalhada no formato JSON especificado abaixo, incluindo: "É compativel x de y especificações" logo no inicio. 
+6.  **Falhas Críticas**: Se uma especificação chave e obrigatória do edital (ex: sensor térmico, potência mínima, marca específica) não for atendida, adicione a flag `FALHA CRÍTICA:` no início do ponto negativo correspondente. 
 7.  Responda **apenas** com um objeto JSON.
 </objetivo>
 <formato_saida>
@@ -327,7 +327,7 @@ def process_single_item_pipeline(item_edital, df_base, price_filter_percentage, 
         # Fallback: usar ML em todos os produtos filtrados por preço
         df_ml_candidates = get_top_n_ml_matches(item_edital, df_price_candidates, MAIN_CATEGORY_ML_CANDIDATES)
         ai_result = get_best_match_from_ai(item_edital, df_ml_candidates, "Fallback ML on all price-filtered")
-        time.sleep(20)
+        time.sleep(5)
         best_match_data = ai_result.get("best_match")
         closest_match_data = ai_result.get("closest_match")
         if best_match_data:
@@ -350,7 +350,7 @@ def process_single_item_pipeline(item_edital, df_base, price_filter_percentage, 
     if not df_filtered_sub.empty:
         print(f"  - 📦 Found {len(df_filtered_sub)} candidates matching SUBCATEGORY '{subcategory}'.")
         ai_result = get_best_match_from_ai(item_edital, df_filtered_sub, "Subcategory Filter")
-        time.sleep(20)
+        time.sleep(5)
         best_match_data = ai_result.get("best_match")
         closest_match_data = ai_result.get("closest_match")
         if best_match_data:
@@ -368,7 +368,7 @@ def process_single_item_pipeline(item_edital, df_base, price_filter_percentage, 
     if not df_filtered_sub.empty:
         df_ml_sub_candidates = get_top_n_ml_matches(item_edital, df_filtered_sub, SUBCATEGORY_ML_CANDIDATES)
         ai_result = get_best_match_from_ai(item_edital, df_ml_sub_candidates, f"ML Top {SUBCATEGORY_ML_CANDIDATES} in Subcategory")
-        time.sleep(20)
+        time.sleep(5)
         best_match_data = ai_result.get("best_match")
         closest_match_data = ai_result.get("closest_match")
         if best_match_data:
@@ -386,7 +386,7 @@ def process_single_item_pipeline(item_edital, df_base, price_filter_percentage, 
         print(f"  - 📦 Found {len(df_filtered_main)} candidates matching MAIN CATEGORY '{main_category}'.")
         df_ml_main_candidates = get_top_n_ml_matches(item_edital, df_filtered_main, MAIN_CATEGORY_ML_CANDIDATES)
         ai_result = get_best_match_from_ai(item_edital, df_ml_main_candidates, f"ML Top {MAIN_CATEGORY_ML_CANDIDATES} in Main Category")
-        time.sleep(20)
+        time.sleep(5)
         best_match_data = ai_result.get("best_match")
         closest_match_data = ai_result.get("closest_match")
         if best_match_data:
@@ -465,7 +465,7 @@ def main():
             str(item_edital.get('REFERENCIA', 'N/A')),
             CATEGORIZATION_KEYWORDS
         )
-        time.sleep(10)
+        time.sleep(5)
 
         # --- ETAPA PADRÃO ---
         print("\n===== TENTATIVA 1: Filtro de Preço Padrão (60%) =====")

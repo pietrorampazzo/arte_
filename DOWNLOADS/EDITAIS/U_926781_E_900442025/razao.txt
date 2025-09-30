@@ -1,0 +1,1754 @@
+Brasília-DF, 23 de setembro de 2025.
+
+                                               EDITAL
+
+                                 SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL
+                                                          Administração Regional do Distrito Federal
+
+                     Pregão Eletrônico nº 90044/2025                                  Abertura às 10:00 h em 08/10/2025 no sítio www.gov.br/compras/pt-br
+
+                                 Edital também disponível no sítio eletrônico https://transparencia.senac.br/#/home ou https://www.df.senac.br/licitacao/
+                                                                            Objeto
+   Registro de preços para a eventual aquisição de equipamentos de infraestrutura, iluminação, estúdio, fotografia, vídeo, áudio e informática, para atender às necessidades do Senac AR/DF.
+                                                              Valor Total Estimado
+                  R$ 3.498.865,40 (três milhões, quatrocentos e noventa e oito mil, oitocentos e sessenta e cinco reais e quarenta centavos).
+                              Registro de Preços                                                                     Vistoria
+
+                            SIM                                              NÃO
+                          Instrumento Contratual                                            Forma de Adjudicação
+                     PEDIDO DE COMPRA                                        GRUPO / ITEM
+                       Amostra/Prova de Conceito                                      Modo de Disputa (Pregão)
+                       NÃO                                            ABERTO E FECHADO
+                                                              Regulamento
+O Senac-DF, entidade privada e não vinculada à Administração Pública direta ou indireta, conduzirá o procedimento licitatório simplificado de acordo com seu Regulamento de Licitações e
+Contratos, aprovado pela Resolução Senac nº 1.270/2024. Disponível em: https://www.dn.senac.br/wp-content/uploads/2018/02/resolucoes-sesc-1593-e-senac-1270-que-alteram-
+e-consolidam-as-modificacoes-no-rlc.pdf
+
+As convocações, avisos, esclarecimentos, recursos e atos correlatos de decisão serão publicados no sistema eletrônico.
+
+                                          UASG: 926781 – contato: licitacao@df.senac.br
+
+
+                        1. DISPOSIÇÕES INICIAIS
+                     1.1 Integram este Edital os seguintes Anexos:
+                           a) Anexo I – Termo de Referência;
+                         b) Anexo II – Minuta da Ata de Registro de Preços.
+                     1.2 O Edital e seus anexos encontram-se disponíveis para conhecimento e obtenção pelos interessados, no site https://www.df.senac.br/licitacao/,
+      no site https://transparencia.senac.br/#/home ou no portal de compras do Governo Federal, www.gov.br/compras/pt-br.
+                     1.3 Todos os horários estabelecidos neste Edital, avisos e durante a Sessão Pública, obedecerão, para todos os efeitos, o horário oficial de Brasília
+      – DF.
+                     1.4 Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a realização do certame na data marcada, a sessão será
+       automaticamente transferida para o primeiro dia útil subsequente, no mesmo horário e endereço eletrônico, salvo comunicação do Pregoeiro ou aviso no sistema.
+
+
+                        2. DAS CONDIÇÕES PARA PARTICIPAÇÃO
+                     2.1 Poderão participar desta licitação os interessados que satisfaçam as condições e as exigências do presente Edital e seus Anexos, inclusive
+       quanto à regularidade da documentação, e que estejam devidamente cadastradas junto ao Órgão Provedor do Sistema, e que:
+                           a) atendam as condições deste Edital e seus Anexos;
+                         b) não sejam entidades estrangeiras ou sociedade que não funcionem no país;
+                           c) não estejam sob decretação de falência, dissolução ou liquidação; e
+                         d) não estejam suspensas de licitar ou contratar com o Senac.
+                     2.2 Como requisito para a participação neste Pregão, a licitante deverá manifestar, em campo próprio do Sistema Eletrônico, que:
+                           a) cumpre plenamente os requisitos de habilitação e que sua proposta está em conformidade com as exigências deste Edital e seus Anexos; e
+                         b) não emprega menores de 18 (dezoito) anos em trabalho noturno, perigoso ou insalubre, nem menores de 16 (dezesseis) anos em qualquer
+           trabalho, salvo na condição de aprendiz, a partir dos 14 (quatorze) anos, nos termos da Constituição da República Federativa do Brasil, Art.7º, Inciso XXXIII.
+
+
+                        3. DO CREDENCIAMENTO
+                     3.1  Poderão  participar  deste  Pregão  os  interessados  que  estiverem  previamente  credenciados  no  sistema  Compras.gov.br,  no  site
+       https://www.gov.br/compras/pt-br.
+                     3.2 O credenciamento junto ao provedor do Sistema implica a responsabilidade legal da licitante e de seu representante legal e a presunção de sua
+       capacidade técnica para realização das transações inerentes a este Pregão Eletrônico.
+                     3.3 O uso das chaves de identidade e senha de acesso da licitante é de sua responsabilidade exclusiva, incluindo qualquer transação efetuada
+       diretamente ou por seu representante, não cabendo ao provedor do Sistema ou ao Senac-DF, responsabilidade por eventuais danos decorrentes de uso indevido da
+       senha, ainda que por terceiros.
+                     3.4 A perda da senha ou a quebra de sigilo deverão ser comunicadas imediatamente ao provedor do sistema para imediato bloqueio do acesso.
+                     3.5 O Senac-DF não é unidade cadastradora do Sistema Eletrônico. Os licitantes interessados em participar da licitação deverão verificar no site do
+       Compras.gov.br as unidades cadastradoras do sistema para a apresentação da documentação pertinente.
+
+
+                        4. DO ENVIO DA PROPOSTA DE PREÇOS
+                     4.1 A licitante deverá encaminhar Proposta Financeira, exclusivamente por meio do sistema eletrônico até a data e horário marcados para abertura
+
+               Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 1
+
+da sessão, quando então encerrar-se-á automaticamente a fase de recebimento de propostas.
+               4.1.1 Até o horário marcado para abertura da sessão, as licitantes poderão retirar ou substituir as propostas apresentadas.
+              4.2 A apresentação da proposta implica aceitação integral e irretratável das condições do Edital, obrigando a licitante ao cumprimento das
+obrigações assumidas.
+              4.3 A licitante será responsável por todas as transações que forem efetuadas em seu nome no sistema eletrônico, assumindo como firmes e
+verdadeiras suas propostas e lances, inclusive os atos praticados diretamente ou por seu representante, não cabendo ao provedor do sistema ou ao Senac-DF
+responsabilidade por eventuais danos decorrentes de uso indevido da senha, ainda que por terceiros.
+              4.4 Todos os custos decorrentes da elaboração e apresentação das propostas financeiras serão de responsabilidade exclusiva da licitante, não
+cabendo qualquer responsabilidade ao Senac-DF, inclusive, pelas transações que forem efetuadas em seu nome no sistema eletrônico ou de eventual desconexão.
+              4.5 A apresentação da Proposta implicará em plena aceitação, por parte da licitante, de todas as condições estabelecidas neste Edital e em seus
+Anexos.
+              4.6 A elaboração da Proposta é de inteira responsabilidade da licitante, não lhe cabendo a desistência, sob pena de aplicação das sanções previstas
+neste Edital e seus Anexos.
+              4.7 Serão desclassificadas as propostas que não atenderem às exigências do presente Edital e seus Anexos, que forem omissas ou apresentem
+irregularidades insanáveis.
+              4.8 É facultado ao pregoeiro realizar diligências para sanar falhas formais da proposta a exemplo de: erros numéricos, erros de cálculo, divergência
+entre preços unitários, subtotais e final.
+              4.9 Quaisquer inserções que visem modificar, extinguir ou criar direitos, sem previsão neste Edital, serão tidas como inexistentes, aproveitando-se
+na proposta o que não for conflitante com as disposições aqui contidas.
+
+
+                5. DA ABERTURA DA SESSÃO PÚBLICA
+              5.1 A abertura da presente licitação dar-se-á em sessão pública, por meio de sistema eletrônico, no site www.gov.br/compras/pt-br, na data, horário
+e local indicados neste Edital, por comando do Pregoeiro.
+              5.2 Durante a sessão pública, a comunicação entre o Pregoeiro e as licitantes ocorrerá exclusivamente mediante troca de mensagens, em campo
+próprio do sistema eletrônico.
+              5.3 Caberá a licitante acompanhar as operações no sistema eletrônico durante o processo licitatório, ficando responsável pelo ônus decorrente da
+perda de negócios diante da inobservância de qualquer mensagem emitida pelo sistema ou de sua desconexão.
+
+
+                6. DA CLASSIFICAÇÃO DAS PROPOSTAS
+              6.1 O Pregoeiro verificará as propostas apresentadas, desclassificando, com autorização da Comissão Permanente de Licitações, aquelas que não
+estejam em conformidade com os requisitos estabelecidos neste Edital.
+              6.2 A desclassificação será sempre fundamentada e registrada no sistema, com acompanhamento em tempo real por todos os participantes.
+              6.3 O Sistema ordenará, automaticamente, as propostas classificadas pelo Pregoeiro, sendo que somente estas participarão da fase de lances, dando
+início à fase competitiva.
+
+
+                7. DA FORMULAÇÃO DE LANCES
+              7.1 Iniciada a etapa competitiva, as licitantes com as propostas aceitas poderão encaminhar lances exclusivamente por meio do sistema eletrônico,
+sendo imediatamente informados do recebimento e do valor do lance.
+              7.2 As licitantes poderão, durante o horário fixado para o recebimento de lances, oferecer lances sucessivos, com valores inferiores ao último por
+eles ofertados e registrados no sistema, observados o horário fixado para abertura da sessão e regras estabelecidas neste Edital.
+              7.3 Os lances apresentados e levados em consideração, para efeito de julgamento, serão de exclusiva responsabilidade da licitante, não lhe cabendo
+o direito de pleitear qualquer alteração.
+              7.4 Não serão aceitos 2 (dois) ou mais lances de mesmo valor, prevalecendo aquele que for recebido e registrado primeiro.
+              7.5 Durante o transcurso da sessão pública deste Pregão, as licitantes serão informadas, em tempo real, do valor do menor lance registrado que
+tenha sido apresentado pelas demais licitantes, vedada à identificação do detentor do lance.
+              7.6 No caso de desconexão com o Pregoeiro no decorrer da sessão de lances do pregão, o sistema eletrônico poderá permanecer acessível às
+licitantes para a oferta dos lances.
+              7.7 O pregoeiro, quando possível, dará continuidade a sua atuação no certame, sem prejuízo dos atos realizados.
+              7.8 Quando a desconexão persistir por tempo superior a 10 (dez) minutos, a sessão de lances do pregão será suspensa e terá reinício somente após
+comunicação expressa do Pregoeiro aos participantes, no endereço eletrônico utilizado para divulgação.
+              7.9 Caso a licitante não apresente lances, concorrerá com o valor de sua proposta e, na hipótese de desistência de apresentar outros lances, valerá o
+último lance por ele ofertado, para efeito de ordenação das propostas.
+              7.10 Será adotado para o envio de lances no pregão eletrônico o modo de disputa aberto e fechado, em que os licitantes apresentarão lances
+públicos e sucessivos, com lance final e fechado.
+              7.11 A etapa de envio de lances terá duração de quinze minutos. Encerrado o prazo, o sistema encaminhará o aviso de fechamento iminente dos
+lances e, transcorrido o período de até dez minutos, aleatoriamente determinado, a recepção de lances será automaticamente encerrada.
+              7.12 Após a etapa de que trata subitem anterior, o sistema abrirá a oportunidade para que o autor da oferta de valor mais baixo ou de maior
+percentual de desconto e os autores das ofertas subsequentes com valores ou percentuais até dez por cento superiores ou inferiores àquela, conforme o critério
+adotado, possam ofertar um lance final e fechado em até cinco minutos, que será sigiloso até o encerramento deste prazo.
+              7.13 No procedimento de que trata o subitem anterior, o licitante poderá optar por manter o seu último lance da etapa aberta, ou por ofertar melhor
+lance.
+              7.14 Na ausência de, no mínimo, três ofertas nas condições de que trata o subitem anterior, os autores dos melhores lances subsequentes, na ordem
+de classificação, até o máximo de três, poderão oferecer um lance final e fechado em até cinco minutos, que será sigiloso até o encerramento do prazo.
+              7.15 Encerrados os prazos estabelecidos, o sistema ordenará e divulgará os lances.
+
+
+                8. DO JULGAMENTO DAS PROPOSTAS DE PREÇOS
+              8.1 O julgamento da proposta será pelo menor preço por grupo/item.
+              8.2 Encerrada a etapa de lances o Pregoeiro examinará a proposta classificada em 1º (primeiro) lugar quanto ao preço, bem como quanto ao
+cumprimento das especificações do objeto e demais critérios previstos neste edital.
+
+
+                9. DA NEGOCIAÇÃO
+              9.1 Após o encerramento da etapa de lances, o Pregoeiro poderá solicitar contraproposta diretamente ao licitante que tenha apresentado o lance
+
+         Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 2
+
+acima do estimado, para que seja obtida melhor proposta, observando o critério de julgamento e o valor estimado para a contratação, não se admitindo negociar
+condições diferentes daquelas previstas no Edital.
+              9.2 A negociação será realizada por meio do sistema, podendo ser acompanhada pelas demais licitantes.
+              9.3 A negociação poderá ser realizada em qualquer fase posterior.
+
+
+              10. DA ACEITABILIDADE DA PROPOSTA VENCEDORA
+              10.1 O Pregoeiro convocará a licitante classificada provisoriamente em 1º (primeiro) lugar para enviar os documentos exigidos para habilitação e a
+Proposta Financeira adequada ao último lance, por meio da funcionalidade "Enviar Anexo" do sistema eletrônico, na extensão PDF, no prazo estabelecido de 2
+(duas) horas, sob pena de não aceitação da proposta.
+                  10.1.1 Caso a licitante convocada enfrente dificuldade em atender a convocação, deverá informar, dentro do prazo previsto no item anterior,
+   quando lhe poderá ser concedido um prazo adicional, a critério do pregoeiro.
+                  10.1.2 Excepcionalmente, o pregoeiro poderá disponibilizar o e-mail institucional licitacao@df.senac.br caso a licitante tenha dificuldades
+    justificadas em anexá-los ao sistema ou este não comporte o tamanho dos arquivos.
+                  10.1.3 As demais licitantes participantes da sessão poderão solicitar ao pregoeiro vistas dos arquivos enviados nos termos do subitem anterior
+   pelo chat ou e-mail institucional licitacao@df.senac.br.
+                  10.1.4 A convocação para apresentação da documentação de habilitação pelo pregoeiro é única, devendo as licitantes apresentarem todos os
+   documentos previstos no Edital, independente dos itens/lotes.
+                  10.1.5 Caso a licitante seja inabilitada após a convocação única, não haverá outra oportunidade para apresentação, em respeito aos princípios
+   da isonomia e vinculação ao instrumento convocatório.
+              10.2 A Proposta Financeira final a ser encaminhada deverá conter as seguintes informações:
+                  10.2.1 Prazo de validade, não inferior a 60 (sessenta) dias, a contar da data de sua apresentação;
+                  10.2.2 Preço unitário e total de cada item, de acordo com as quantidades e os lances ofertados, em algarismos e por extenso (total), expresso
+  em moeda corrente nacional (R$);
+                  10.2.3 Apenas 02 (duas) casas decimais após a vírgula nos preços ofertados, inclusive no sistema;
+                  10.2.4 Declaração expressa de estarem inclusos nos preços propostos todos os custos operacionais, equipamentos, EPIs, transportes, encargos
+    previdenciários, trabalhistas, tributários, comerciais, taxas, fretes, impostos e quaisquer outras despesas que incidam direta ou indiretamente ao objeto deste
+    Edital. Na falta de tal declaração, serão consideradas inclusas nos preços todas e quaisquer despesas vinculadas ao objeto desta licitação;
+                  10.2.5 O número desta licitação, razão social da licitante, número de CNPJ, telefone, e-mail, se houver, e o respectivo endereço com CEP,
+   dados bancários para fins de pagamento com a indicação do nome e número do banco, agência e conta corrente de titularidade da licitante, vinculada ao CNPJ
+   constante da Proposta;
+                  10.2.6 Descrição detalhada de todas as características dos produtos ofertados, de acordo com as especificações contidas nos Anexos deste
+    Edital;
+              10.3 Todos os documentos emitidos em língua estrangeira deverão ser entregues acompanhados da tradução para a língua portuguesa, efetuada por
+tradutor juramentado e também devidamente consularizados e registrados no Cartório de Títulos e Documentos.
+                  10.3.1 Documentos de procedência  estrangeira, mas emitidos em língua portuguesa, também deverão  ser apresentados devidamente
+   consularizados ou registrados no Cartório de Títulos e Documentos.
+              10.4 Em se tratando de filial, os documentos de habilitação jurídica e regularidade fiscal deverão estar em nome da filial, exceto aqueles que, pela
+própria natureza, são emitidos somente em nome da matriz.
+              10.5 Dentre os documentos passíveis de solicitação pelo Pregoeiro, destacam-se os que contenham as características do equipamento ofertado, tais
+como catálogos, folhetos, manuais ou prospectos, encaminhados por meio eletrônico, ou, se for o caso, por outro meio e prazo indicados pelo Pregoeiro, sem
+prejuízo do seu posterior envio pelo sistema eletrônico, sob pena de não aceitação da proposta.
+              10.6 A licitante que abandonar o certame, deixando de responder às solicitações e/ou diligências do pregoeiro no chat ou deixar de encaminhar a
+documentação exigida, será desclassificada e sujeitar-se-á às sanções previstas neste Edital.
+              10.7 Os documentos remetidos por meio da opção “Enviar Anexo” do sistema eletrônico poderão ser solicitados em original ou por cópia
+autenticada a qualquer momento, em prazo a ser estabelecido pelo Pregoeiro.
+                  10.7.1 Os originais ou cópias autenticadas, caso sejam solicitados, deverão ser encaminhados a Comissão Permanente de Licitação, na sede do
+   Senac-DF, localizada no Centro Administrativo José Roberto Tadros ST SGAN QD 712/912 Conjunto E S/N, Asa Norte, Brasília-DF - CEP 70.790-125.
+                  10.7.2 Os documentos emitidos por cartório on-line poderão ser apresentados, desde que acompanhados de seus respectivos certificados
+    digitais, para conferência do Pregoeiro.
+              10.8 O prazo estabelecido pelo Pregoeiro poderá ser prorrogado por solicitação escrita e justificada da licitante, formulada antes de findo o prazo
+estabelecido, e formalmente aceita pelo Pregoeiro.
+              10.9 O Pregoeiro poderá solicitar parecer da área técnica ou de servidor que detenha conhecimento técnico do objeto, para orientar sua decisão.
+             10.10 Será desclassificada a proposta ou o lance vencedor com valor superior ao preço estimado ou que apresentar preço manifestamente
+inexequível.
+                 10.10.1 Considerar-se-á inexequível a proposta que não venha a ter demonstrada sua viabilidade por meio de documentação que comprove que
+   os custos envolvidos na contratação são coerentes com os de mercado.
+                 10.10.2 Se houver indícios de inexequibilidade da proposta de preço, ou em caso da necessidade de esclarecimentos complementares, poderá
+    ser efetuada diligência, podendo ser adotados, dentre outros, os seguintes procedimentos:
+                         a) Questionamentos junto à proponente para a apresentação de justificativas e comprovações em relação aos custos com indícios de
+          inexequibilidade;
+                        b) Verificação de Acordos, Convenções ou Dissídios Coletivos de Trabalho;
+                         c) Levantamento de informações junto ao Ministério do Trabalho;
+                        d) Consultas a entidades ou conselhos de classe, sindicatos ou similares;
+                         e) Pesquisas em órgãos públicos ou empresas privadas;
+                              f) Verificação de outros contratos que o proponente mantenha com a Administração Pública ou com a iniciativa privada;
+                        g) Pesquisa de preço com fornecedores dos insumos/prestadores de serviços;
+                        h) Verificação de notas fiscais dos produtos adquiridos/serviços prestados pelo proponente;
+                                i) Consultas às Fazendas Federal, Distrital, Estadual ou Municipal; e
+                                j) Análise de soluções técnicas escolhidas e/ou condições excepcionalmente favoráveis que o proponente disponha para a prestação dos
+          serviços.
+             10.11 Não se admitirá proposta que apresente valores simbólicos, irrisórios ou de valor zero, desde que incompatíveis com os preços de mercado,
+exceto quando se referirem a materiais e instalações de propriedade da própria licitante, para os quais ela renuncie expressamente a parcela ou à totalidade da
+remuneração.
+
+         Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 3
+
+             10.12 Se a proposta ou lance vencedor for desclassificado, o Pregoeiro, com autorização da Comissão, examinará a proposta ou lance subsequente,
+e, assim sucessivamente, na ordem de classificação.
+             10.13 O Pregoeiro poderá encaminhar, por meio do sistema eletrônico, contraproposta à licitante que apresentou o lance mais vantajoso, com o fim
+de negociar a obtenção de melhor preço.
+             10.14 Também nas hipóteses em que o Pregoeiro não aceitar a proposta motivadamente e passar à subsequente, poderá negociar com a licitante
+para que seja obtido preço melhor.
+             10.15 A negociação será realizada por meio do sistema, podendo ser acompanhada pelas demais licitantes.
+             10.16 Havendo necessidade, o Pregoeiro suspenderá a sessão, informando no “chat” a nova data e horário para sua continuidade.
+             10.17 Constatado o atendimento das exigências fixadas no Edital e declarada a licitante vencedora, o Pregoeiro consignará esta decisão em ata,
+que será disponibilizada pelo sistema eletrônico, encaminhando-se o processo à autoridade competente para adjudicação e homologação.
+             10.18 Caso nenhum licitante apresente recurso, o pregoeiro adjudicará o objeto via sistema, cabendo à autoridade competente a homologação.
+
+
+              11. DA DOCUMENTAÇÃO DE HABILITAÇÃO
+              11.1 Como condição prévia ao exame da documentação de habilitação do licitante detentor da proposta classificada em primeiro lugar, o Pregoeiro
+verificará o eventual descumprimento das condições de participação, especialmente quanto à existência de sanção que impeça a participação no certame ou a
+futura contratação, em complemento à consulta ao Sistema de Cadastro de Fornecedor - SICAF via sistema.
+              11.2 Para habilitação nesta licitação, a licitante deverá apresentar a seguinte documentação:
+
+
+              11.2.1 HABILITAÇÃO JURÍDICA
+                  11.2.1.1 Apresentação da cédula de identidade ou documento equivalente;
+                         a) Prova de registro, no órgão competente, no caso de empresário individual;
+                        b) Ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado no órgão competente; e
+                         c) Ato de nomeação ou de eleição dos administradores, devidamente registrado no órgão competente, na hipótese de terem sido
+        nomeados ou eleitos em separado.
+
+
+              11.2.2 QUALIFICAÇÃO TÉCNICA
+                   a) Apresentar um ou mais Atestados de Capacidade Técnica, em nome da LICITANTE, em papel timbrado do atestante, comprovando ter
+   fornecido materiais ou prestado serviços para órgão ou entidade da administração pública direta ou indireta de qualquer esfera ou empresa privada e o
+   desempenho de atividade pertinente e compatível em características, quantidades e prazos com o objeto desta licitação.
+                  b) Para análise da compatibilidade de quantitativos, será exigida a comprovação da entrega ou prestação de serviços de pelo menos 10% da
+   quantidade exigida para o item/grupo;
+                   c) Também deverá constar nos atestados o nome do responsável pela declaração;
+                  d) Será permitido o somatório de Atestados;
+                   e) Não serão aceitos atestados de capacidade técnica e demais documentos comprobatórios emitidos por empresas participantes do mesmo
+   grupo econômico da LICITANTE e/ou do FABRICANTE.
+
+
+              11.2.3 QUALIFICAÇÃO ECONÔMICO-FINANCEIRA
+                   a) Certidão Negativa de Falência expedida pelo distribuidor da sede da pessoa jurídica, ou de execução patrimonial. A certidão que não possuir
+   prazo de validade não poderá ter sua emissão superior a 90 (noventa) dias da data de apresentação dos documentos de habilitação.
+
+
+              11.2.4 REGULARIDADE FISCAL E TRABALHISTA
+                   a) Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas (CNPJ);
+                  b) Prova de regularidade fiscal perante a Fazenda Nacional, a Procuradoria – Geral da Fazenda Nacional e o Sistema de Seguridade Social
+   (INSS), emitida pela Secretaria da Receita Federal, referente aos tributos e contribuições federais e a Dívida Ativa da União (Certidão Conjunta Negativa de
+   Débitos ou Certidão Conjunta Positiva com efeitos negativos), na forma da Lei e com prazo de validade em vigor, da sede ou domicílio da licitante, ou da
+     filial quando esta for a Licitante;
+                   c) Certidão Negativa de Tributos Estaduais ou Certidão Positiva com Efeitos de Negativa, expedida pela Fazenda Estadual para participação
+  em Licitações, da sede ou domicílio da licitante, ou da filial quando esta for a Licitante, ou ainda, Certidão de não contribuinte;
+                  d) Certidão Negativa de Tributos Municipais ou Certidão Positiva com Efeitos de Negativa, expedida pela Fazenda Municipal, da sede ou
+   domicílio da licitante, ou da filial quando esta for à Licitante, ou ainda, Certidão de não contribuinte;
+                   e) Certificado de Regularidade ao Fundo de Garantia por Tempo de Serviço - FGTS, da sede da Licitante;
+              11.3 A documentação acima deverá ser apresentada na forma da lei vigente.
+              11.4 O Pregoeiro poderá consultar os documentos disponíveis no SICAF, para verificação das condições de habilitação das licitantes.
+              11.5 No caso de documentos extraídos da internet, será facultado ao Pregoeiro realizar pesquisa para efeito de confirmação da veracidade ou
+validade desses.
+              11.6 A prova a que se refere às alíneas “a” e “b” do subitem que trata da regularidade fiscal poderá ser feita por meio de outros documentos que os
+contenham.
+                  11.6.1 A verificação em sítios eletrônicos oficiais de órgãos e entidades emissores de certidões constitui meio legal de prova, para fins de
+    habilitação.
+                  11.6.2 As diligências mencionadas previstas no subitem anterior ficarão prejudicadas caso o acesso via internet esteja indisponível, por
+   qualquer que seja a razão, ou caso as informações contidas nos sites oficiais não sejam suficientes para atestar a regularidade da licitante, fato que ensejará a
+    inabilitação da empresa.
+              11.7 Não serão aceitos protocolos de entrega ou solicitação de documentos em substituição aos documentos requeridos neste Edital.
+              11.8 É facultado ao pregoeiro realizar diligências para sanar falhas que não alterem a substância dos documentos e sua validade jurídica na
+documentação de habilitação, com decisão fundamentada e registrada em ata, atribuindo-lhes eficácia para fins de habilitação.
+                  11.8.1 É permitida a inclusão de documentos complementares ou atualizados, desde que não alterem a substância das propostas, dos
+   documentos e sua validade jurídica e seja comprobatório de condição atendida pelo licitante quando apresentada sua proposta, que não foi juntado com os
+   demais documentos por equívoco ou falha, o qual deverá ser solicitado e avaliado pelo pregoeiro.
+              11.9 A falsidade de informações ou documentos apresentados sujeitará a licitante às penalidades legais e à imediata exclusão do certame, sem
+prejuízo de outras responsabilidades civis e penais.
+
+
+         Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 4
+
+              12. DAS AMOSTRAS OU PROVA DE CONCEITO
+              12.1 Não será exigida a apresentação de amostras.
+
+
+              13. DA IMPUGNAÇÃO E DOS ESCLARECIMENTOS
+              13.1 Até 03 (três) dias úteis antes da data fixada para a abertura do certame, qualquer licitante interessado poderá solicitar esclarecimentos,
+providências ou impugnar o Edital do Pregão.
+              13.2 Os pedidos de esclarecimentos e/ou impugnações deverão ser dirigidos ao Pregoeiro e encaminhados, na forma eletrônica, para o e-mail
+licitacao@df.senac.br, ou na impossibilidade, protocolados na Comissão Permanente de Licitação neste Senac-DF, no horário de 10h às 16h, de segunda a sexta-
+feira, em dias úteis.
+              13.3 Os pedidos de esclarecimentos e/ou impugnações deverão ser enviados em papel timbrado da licitante e devidamente assinados, obedecendo
+ao horário estabelecido no subitem anterior.
+              13.4 Os pedidos de impugnação interpostos por Pessoa Jurídica deverão ser apresentados com o instrumento de procuração ou contrato social,
+demonstrando que o signatário das peças detém poderes para representar a licitante.
+              13.5 Caberá à CPL decidir sobre a petição no prazo de 02 (dois) dias úteis, com auxílio do demandante e do jurídico, contados a partir do dia do
+seu recebimento, estendendo esse prazo conforme a complexidade.
+              13.6 O Senac-DF não se responsabiliza por e-mails que, por qualquer motivo, não forem recebidos em virtude de problemas no servidor ou
+navegador do emissor.
+              13.7 As impugnações e pedidos de esclarecimentos não suspendem os prazos previstos no certame.
+              13.8 Acolhida a petição contra o Edital ou havendo necessidade de prazo maior para julgamento da questão, nova data será designada pelo
+Pregoeiro para a realização do certame, informando às licitantes por meio do sistema.
+              13.9 Os avisos, informações e convocações referentes ao processo licitatório (esclarecimento/impugnação, laudos técnicos, resultados e atas),
+serão divulgadas no sistema ou no site https://transparencia.senac.br/#/home, ficando as empresas interessadas em participar, obrigadas a acessá-los.
+
+
+              14. DOS RECURSOS
+              14.1 Declarado o vencedor, qualquer licitante poderá, durante a sessão pública, de forma imediata e motivada, em campo próprio do sistema,
+manifestar sua intenção de recorrer, respeitando-se o prazo estabelecido pelo Pregoeiro, não sendo inferior a 10 (dez) minutos do aviso do sistema.
+                  14.1.1 O Pregoeiro examinará a intenção de recurso, aceitando-a ou, motivadamente, rejeitando-a em campo próprio do Sistema.
+                  14.1.2 A licitante que tiver sua intenção de recurso aceita deverá apresentar as razões de recurso no prazo de 3 (três) dias úteis, ficando as
+   demais licitantes, desde logo, intimadas para, querendo, apresentarem contrarrazões em igual prazo, que começará a contar do término do prazo do recorrente,
+   sendo lhes assegurada vista imediata aos elementos indispensáveis à defesa de seus interesses.
+              14.2 A falta de manifestação imediata e motivada da licitante quanto à intenção de recorrer importará na decadência do direito, podendo o
+Pregoeiro adjudicar o objeto ou encaminhar o processo para adjudicação e homologação pela autoridade competente.
+              14.3 Somente caberá recurso da decisão que declarar a licitante vencedora.
+              14.4 Os recursos terão efeito suspensivo.
+              14.5 Desde que comprovada a indisponibilidade do sistema, os recursos poderão ser encaminhados via e-mail, exclusivamente durante o prazo
+previsto no edital.
+              14.6 O acolhimento do recurso invalidará apenas os atos insuscetíveis de aproveitamento.
+              14.7 Decididos os recursos e constatada a regularidade dos atos praticados, a autoridade competente adjudicará o objeto e homologará o
+procedimento licitatório.
+              14.8 Não serão conhecidos os recursos interpostos após os respectivos prazos.
+              14.9 Os autos do processo são digitais e poderão ser disponibilizados para acesso mediante solicitação da interessada via e-mail, com indicação das
+peças.
+             14.10 Caso a licitante classificada em primeiro lugar seja desclassificada, será procedida a chamada das licitantes remanescentes, desde que
+autorizado pela Comissão Permanente de Licitação, na ordem de classificação, para que a próxima classificada que preencha as condições de habilitação seja
+declarada vencedora, nas condições de sua Proposta Financeira.
+             14.11 O Pregoeiro, mediante autorização da Comissão Permanente de Licitação – CPL, poderá acolher recurso que implique o retorno do processo
+à fase anterior, sempre que entender que tal medida é necessária para garantir a ampla defesa, o contraditório e a seleção da proposta mais vantajosa para o
+Senac-DF.
+             14.12 A decisão que acolher o recurso e determinar o retorno à fase anterior deverá ser devidamente fundamentada e registrada no sistema, com
+ciência às licitantes interessadas, devendo a nova tramitação obedecer aos prazos e procedimentos previstos neste Edital.
+             14.13 Somente nos casos de denegação do recurso ou de matérias que extrapolem a competência do Pregoeiro, o recurso será encaminhado à
+autoridade superior para decisão final, nos termos do Regulamento de Licitações e Contratos do Senac-DF.
+
+
+              15. DA ATA DE REGISTRO DE PREÇOS
+              15.1 Homologado o resultado da licitação, a Ata de Registro de Preço será assinada nos termos da minuta anexa, que firmará o compromisso para
+eventual contratação com o fornecedor primeiro classificado de cada item e, se for o caso, com os 2º e 3º classificados que aceitarem fornecer pelo preço do
+vencedor, obedecida a ordem de classificação do Pregão.
+                  15.1.1 A Ata deverá ser assinada pela licitante vencedora no prazo de até 05 (cinco) dias úteis.
+              15.2 Durante o prazo de validade da Ata de Registro de Preços, o Senac-DF não estará obrigado a adquirir os objetos registrados, exclusivamente,
+pelo Sistema de Registro de Preços, podendo fazê-lo por meio de outra licitação quando julgar conveniente, sem que caiba recurso ou indenização de qualquer
+espécie ao fornecedor, sendo, entretanto, assegurado ao beneficiário do registro, a preferência de fornecimento em igualdade de condições.
+              15.3 O não comparecimento da adjudicatária para assinatura da Ata de Registro de Preços, implicará em multa e perda do direito ao registro de
+preços, além das demais sanções cabíveis.
+              15.4 O prazo de vigência da Ata de Registro de Preço será de 12 (doze) meses, a contar da data de sua assinatura, podendo ser prorrogada até o
+limite de 36 (trinta e seis) meses, desde que pesquisa de mercado demonstre que o preço registrado atualizado se mantém vantajoso a cada prorrogação.
+                  15.4.1 A prorrogação da Ata restabelece os termos e condições iniciais da Ata, inclusive quantitativos.
+              15.5 A ata de registro de preços poderá ser acrescida em até 50% de seus quantitativos inicialmente registrados, mediante acordo entre as partes,
+justificativa e termo aditivo.
+              15.6 Os preços da licitante vencedora não serão registrados se esta não cumprir com as condições legais de documentação exigida, ou por motivo
+de força maior que inviabilize o fornecimento dos materiais.
+              15.7 É facultado à Administração do Senac-DF convocar as outras licitantes remanescentes classificadas para procederem ao registro de preços, no
+prazo e nas mesmas condições financeiras constantes da proposta vencedora.
+              15.8 O Senac-DF poderá desclassificar o licitante vencedor, por despacho fundamentado, sem direito a indenização ou ressarcimento e sem
+
+         Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 5
+
+prejuízo de outras sanções cabíveis, se tiver informação fundada de qualquer fato ou circunstância, anterior ou posterior ao julgamento da licitação, que desabone
+a qualificação técnica, habilitação jurídica, qualificação econômico-financeira ou regularidade daquela licitante, ou caso conste algum impedimento de licitar.
+
+
+              16. DA CONTRATAÇÃO
+              16.1 Homologado o resultado da licitação, o Senac-DF poderá convocar o licitante vencedor para assinatura do instrumento contratual ou
+recebimento do instrumento equivalente.
+              16.2 É facultado ao Senac-DF, no caso de desistência da licitante vencedora após a homologação/adjudicação do processo licitatório, no prazo e
+condições estabelecidas, convocar a licitante remanescente classificada, obedecida a ordem de classificação, para o objeto deste Edital, no prazo e nas mesmas
+condições financeiras constantes da proposta anteriormente declarada vencedora ou revogar a licitação independentemente da aplicação de qualquer sanção.
+              16.3 O Senac-DF poderá, até a assinatura do Contrato ou recebimento do instrumento equivalente, desclassificar a licitante vencedora, por
+despacho fundamentado, sem direito à indenização ou ressarcimento e sem prejuízo de outras sanções cabíveis, se tiver informação fundada de qualquer fato ou
+circunstância, anterior ou posterior ao julgamento da licitação, que desabone a qualificação técnica, habilitação jurídica, qualificação econômico-financeira ou
+regularidade fiscal daquela licitante.
+              16.4 Para efeito de interpretações de divergências entre os documentos contratuais, fica estabelecida a competência da fiscalização do Senac-DF.
+              16.5 A empresa contratada será responsável pela entrega dos materiais ou prestação dos serviços e deverá cumprir as determinações referentes às
+Leis Trabalhistas e à Previdência Social, não respondendo o Senac-DF perante fornecedores ou terceiros, nem assumindo quaisquer responsabilidades por multas,
+salários ou indenizações a terceiros decorrentes do objeto desta licitação.
+
+
+              17. DA SUBCONTRATAÇÃO
+              17.1 Não será permitida subcontratação do objeto.
+
+
+              18. DAS SANÇÕES
+              18.1 As sanções são as previstas no Termo de Referência, anexo ao Edital.
+
+
+              19. DO PAGAMENTO
+              19.1 A licitante vencedora apresentará Nota Fiscal de acordo com a entrega dos materiais ou prestação dos serviços, considerando a natureza de
+cada objeto e a legislação pertinente, para liquidação e pagamento da despesa pelo Senac-DF, por intermédio de boleto ou ordem bancária na conta corrente da
+CONTRATADA ou mediante apresentação de fatura (nota fiscal com código de barras), no prazo de até 30 (trinta) dias contados do recebimento definitivo do
+objeto.
+              19.2 Nenhum pagamento será efetuado enquanto perdurar a liquidação de qualquer obrigação que lhe for imposta, em virtude de penalidade ou
+inadimplência. Sendo esse atraso decorrente do inadimplemento de obrigações acarretará perda do direito ao pleito de reajustamento de preços.
+              19.3 Somente será efetuado o pagamento dos materiais e serviços solicitados no Pedido de Compra, de acordo com as necessidades do Senac-DF.
+Fica expressamente estabelecido que os preços incluam todos os custos diretos e indiretos para o fornecimento dos materiais ou prestação dos serviços de acordo
+com as condições previstas neste Edital e nos demais documentos da licitação.
+
+
+              20. PROTEÇÃO DE DADOS
+              20.1 A licitante vencedora, por si e por seus colaboradores, obriga-se a atuar na contratação em conformidade com a legislação vigente sobre
+Proteção de Dados Pessoais (Lei Geral de Proteção de Dados Pessoais – LGPD – Lei 13.709/2018), entre outras normas nacionais e internacionais relativas à
+privacidade e proteção de dados pessoais.
+              20.2 As informações abarcadas legislação incluem todos os dados detidos, usados ou transmitidos pelo ou em nome do Senac-DF, em qualquer
+suporte. Isso inclui dados pessoais registrados em papel e dados digitais armazenados em qualquer tipo de mídia, obrigando-se a licitante vencedora a:
+                   a) Tratar os dados pessoais a que tiver acesso em conformidade com estas cláusulas, e que, na eventualidade de não mais poder cumprir estas
+   obrigações, por qualquer razão, concorda em informar de modo formal este fato imediatamente ao Senac-DF, que terá o direito de rescindir a contratação sem
+   qualquer ônus, multa ou encargo.
+                  b) Manter e utilizar medidas de segurança administrativas, técnicas e físicas apropriadas e suficientes para proteger a confidencialidade e
+    integridade de todos os dados pessoais mantidos ou consultados/transmitidos eletronicamente, para garantir a proteção desses dados contra acesso não
+    autorizado, destruição, uso, modificação, divulgação ou perda acidental ou indevida.
+                   c) Acessar os dados dentro de seu escopo e na medida abrangida por sua permissão de acesso (autorização) e que os dados pessoais não podem
+    ser lidos, copiados, modificados ou removidos.
+                  d) Garantir, por  si própria ou quaisquer de seus empregados, prepostos, sócios, diretores, representantes ou terceiros contratados, a
+   confidencialidade dos dados processados, assegurando que todos os seus colaboradores prepostos, sócios, diretores, representantes ou terceiros contratados
+   que lidem com os dados pessoais sob responsabilidade do Senac-DF assinaram Acordo de Confidencialidade com a licitante vencedora, bem como a manter
+   quaisquer Dados Pessoais estritamente confidenciais e de não os utilizar para outros fins, com exceção do objeto desta licitação. Ainda treinará e orientará a
+   sua equipe sobre as disposições legais aplicáveis em relação à proteção de dados.
+              20.3 Exceto na regular prestação dos serviços contratados, os dados pessoais poderão ser revelados a terceiros, quer direta ou indiretamente, seja
+mediante a distribuição de cópias, resumos, compilações, análise, estudos ou outros meios que contenham ou de outra forma reflitam referidas informações.
+              20.4 Caso a licitante vencedora seja obrigada por determinação legal a fornecer dados pessoais a uma autoridade pública, deverá informar ao
+Senac-DF.
+              20.5 A licitante vencedora deverá notificar o Senac-DF em até 24 (vinte e quatro) horas a respeito de:
+                   a) Qualquer não cumprimento, ainda que suspeito, das disposições legais relativas à proteção de Dados Pessoais pela licitante vencedora, seus
+   funcionários ou terceiros autorizados;
+                  b) Qualquer outra violação de segurança no âmbito das atividades e responsabilidades da licitante vencedora.
+              20.6 A licitante vencedora será integralmente responsável pelo pagamento de perdas e danos de ordem moral e material, bem como pelo
+ressarcimento do pagamento de qualquer multa ou penalidade imposta ao Senac-DF e/ou a terceiros resultantes diretamente do descumprimento de qualquer das
+cláusulas previstas neste item quanto à proteção e uso dos dados pessoais.
+              20.7 As partes declaram-se cientes dos direitos, obrigações e penalidades aplicáveis constantes da LGPD, e obrigam-se a adotar todas as medidas
+razoáveis para garantir, por si, bem como seu pessoal, colaboradores, empregados e subcontratados que utilizem os Dados Protegidos na extensão autorizada na
+referida LGPD.
+              20.8 O Senac-DF deve dar ciência aos seus clientes sobre a LGPD e garantir que possui todos os consentimentos e avisos necessários para permitir
+a transferência legal de dados pessoais de seus clientes para que a licitante vencedora cumpra o disposto neste Edital e anexos.
+
+
+              21. COMPLIANCE E ANTICORRUPÇÃO
+              21.1 As partes se comprometem a cumprir as práticas de Compliance e cumprir as leis Anticorrupção aplicáveis, incluindo, mas não se limitando,
+à Lei nº 12.846/2013 (Lei Anticorrupção) e à Lei nº 9.613/1998 (Lei de Lavagem de Dinheiro), cujo compromisso deve abranger seus sócios, administradores e
+
+         Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 6
+
+      colaboradores, bem como exigir o seu cumprimento pelos terceiros por elas contratados, visando prevenir e combater a corrupção, promovendo a ética,
+       transparência e a integridade em todas as operações realizadas.
+                    21.2 As partes deverão manter até o final da vigência do contrato ou instrumento equivalente conduta ética e máximo profissionalismo na
+      execução do objeto do presente edital.
+
+
+                     22. DAS DISPOSIÇÕES GERAIS
+                    22.1 O Senac-DF reserva-se ao direito de cancelar a presente licitação na forma do Art. 62 da Resolução Senac nº 1.270/2024, sem que caiba aos
+       licitantes qualquer direito, inclusive de reparação a eventuais perdas e danos ou de lucros cessantes.
+                    22.2 Durante a vigência, a fornecedora/prestadora deverá manter todas as condições que a incluíram no certame.
+                    22.3 Eventuais omissões do presente Edital serão resolvidas pelo Pregoeiro/CPL, com base nas normas específicas, vigentes e aplicáveis.
+                    22.4 As decisões referentes a este Pregão serão divulgadas no sistema, sendo de inteira responsabilidade da licitante o acompanhamento da
+      divulgação de cada fase.
+                    22.5 O Pregoeiro, até a data da apresentação das propostas, poderá proceder a alterações concernentes a esta licitação, dando publicidade aos atos
+       alterados, sendo facultado, se for o caso, o adiamento da data da abertura da licitação.
+                    22.6 Será facultado ao Pregoeiro, em qualquer fase da Licitação, a promoção de diligência destinada a esclarecer ou completar a instrução do
+      processo.
+                    22.7 Sob nenhum pretexto serão recebidas propostas em desacordo com o Edital e que não forem entregues conforme as normas de apresentação e
+      prazos ali determinados.
+                    22.8 Na contagem dos prazos estabelecidos, excluir-se-á o dia do início e incluir-se-á o do vencimento, e considerar-se-ão os dias consecutivos,
+      salvo quando expressamente previsto que serão contabilizados os dias úteis.
+                    22.9 A circunscrição judiciária de Brasília-DF é o foro competente para dirimir quaisquer dúvidas referentes à licitação e a procedimentos dela
+       resultantes, renunciando as partes a qualquer outro, por mais privilegiado que seja.
+                   22.10 A participação nesta licitação implica em conhecimento e aceitação integral do instrumento convocatório (edital e anexos) e seus
+      regulamentos.
+                    22.11 A apresentação de proposta vincula a licitante, que se responsabilizará pelo fornecimento dos materiais e prestação de serviços nas
+      condições estabelecidas pelo instrumento convocatório.
+                   22.12 É facultado ao Pregoeiro suspender a sessão sempre que necessário, com aviso aos licitantes.
+                   22.13 Em caso de divergência entre as especificações do objeto (descrição, unidade de medida etc.) previstas no instrumento convocatório e as do
+       sistema, prevalecerão as do instrumento convocatório.
+                   22.14 Os instrumentos contratuais e correlatos serão assinados no Sistema Eletrônico de Informações – SEI, do Senac-DF.
+                    22.14.1 As licitantes vencedoras poderão ser convocadas para cadastro no sistema, por seus representantes legais.
+                       22.14.2 A ausência de cadastro ou assinatura no prazo de convocação poderá acarretar no cancelamento da contratação e nas sanções previstas
+        no instrumento convocatório.
+                   22.15 A licitação poderá ser republicada automaticamente pela CPL, nos seguintes casos:
+                          a) Itens ou grupos desertos ou fracassados, visando à obtenção de propostas válidas;
+                        b) Alterações no Edital ou em seus Anexos, desde que não impliquem mudança na descrição do objeto licitado nem superem o valor estimado
+         da licitação, respeitados os prazos mínimos e a publicidade exigida no regulamento do Senac.
+
+
+
+                          COORDENAÇÃO DE LICITAÇÕES E CONTRATOS DO SENAC-DF
+
+
+  ___________________________________________________________________________________________________________________________________________
+
+
+                               ANEXO I - TERMO DE REFERÊNCIA
+
+
+                       1. ESPECIFICAÇÕES DO OBJETO
+
+                                                                                         VALOR ESTIMADO
+ITEM                              ESPECIFICAÇÃO                                UND.      QTD.
+                                                                                                UNITÁRIO       TOTAL
+
+                                        GRUPO 1 - ILUMINAÇÃO DE ESTÚDIO
+
+  1                        Kit de Iluminação RGBW 36 Leds com Controle DMX para Estúdio                   KIT          1        R$ 1.645,00       R$ 1.645,00
+
+  2                            Rebatedor/Difusor Fotográfico 5 em 1 Dobrável e Portátil                      KIT          6         R$ 146,27        R$ 877,62
+
+  3                    Softbox Octogonal com Encaixe Padrão Bowens e Colmeia (Grid) (90 cm)                KIT          9         R$ 594,80        R$ 5.353,20
+
+  4                    Softbox Octogonal com Encaixe Padrão Bowens e Colmeia (Grid) 120 cm                KIT          9         R$ 517,38        R$ 4.656,42
+
+  5                      Globo Difusor Lantern para Iluminação Fotográfica ou de Vídeo                  UND.         2         R$ 689,97        R$ 1.379,94
+
+  6                                   Painel articulado Butterfly Difusor 3x3 Metros                        UND.         1        R$ 5.326,53       R$ 5.326,53
+
+  7                   Tripé Profissional de Iluminação Tipo C-Stand com Haste Extensora (Girafa)             UND.         8        R$ 1.162,47       R$ 9.299,76
+
+  8                      Tripé Leve para Iluminação de Estúdio – Altura Ajustável até 2 metros                UND.         9         R$ 294,99        R$ 2.654,91
+
+  9                                    Tripé de Iluminação Altura 2 metros leve                         UND.         13         R$ 53,77         R$ 699,01
+
+  10               KIT SNOOT LENTE FRESNEL (ACESSÓRIO DE PROJEÇÃO DE LUZ)              UND.         6        R$ 1.049,00       R$ 6.294,00
+
+  11     BASTÃO DE LUZ DE PREENCHIMENTO RGB FOTOGRÁFICO (ILUMINAÇÃO PORTÁTIL)      UND.         10        R$ 308,20        R$ 3.082,00
+
+  12              Iluminador de Luz Contínua LED Tipo Tocha para Estúdio – Potência 100 W – Bicolor          UND.         12        R$ 1.983,60       R$ 23.803,20
+
+  13                                Luz LED COB RGBWW de 150W                           UND.         2        R$ 3.142,66       R$ 6.285,32
+
+  14                  Refletor Fresnel de Luz LED Contínua 300 W – Bicolor – Intensidade Ajustável             UND.         6        R$ 6.951,77       R$ 41.710,62
+
+                                     VALOR TOTAL DO GRUPO 1                                                R$ 113.067,53
+
+                                            GRUPO 2 - VÍDEO E FOTO
+
+  15            Câmera Digital Compacta para Foto e Vídeo 4K – Voltada para Criadores de Conteúdo          UND.         3        R$ 5.199,16       R$ 15.597,48
+
+                                Canon EOS R6 Mark II Mirrorless Camera
+  16                                                                              UND.         9        R$ 14.872,02      R$ 133.848,18
+                      Câmera Mirrorless Canon Full Frame (Vídeo 10 bits, 25MP, Dual Slot)
+
+              Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 7
+
+17                                  Lente fixa - Canon RF 16mm f/2.8 STM                          UND.         2        R$ 2.065,78       R$ 4.131,56
+
+18                              Lente fixa - Canon RF 24mm f/1.8 Macro IS STM                      UND.         2        R$ 3.869,10       R$ 7.738,20
+
+19                              Lente fixa - Canon RF 35mm f/1.8 Macro IS STM                      UND.         2        R$ 3.732,00       R$ 7.464,00
+
+20                                   Lente fixa Canon RF 50mm f/1.8 STM                          UND.         3        R$ 1.599,82       R$ 4.799,46
+
+21                               Lente fixa - Canon RF 85mm f/2 Macro IS STM                       UND.         2        R$ 4.419,16       R$ 8.838,32
+
+22                            Lente fixa - Canon RF 100mm f/2.8L Macro IS USM                     UND.         2        R$ 8.399,26       R$ 16.798,52
+
+23                              Lente zoom - Canon RF 24-105mm f/4L IS USM                       UND.         5        R$ 10.038,35      R$ 50.191,75
+
+24                             Lente Zoom - Canon RF - 16-35mm f/2.8 L IS USM                      UND.         1        R$ 16.788,25      R$ 16.788,25
+
+25                             Canon RF 70-200mm f/2.8 L IS USM Lens                         UND.         2        R$ 20.082,80      R$ 40.165,60
+
+26              Cartão de Memória SDXC 128 GB – UHS-II – Alta Velocidade de Leitura e Gravação           UND.         22        R$ 385,03        R$ 8.470,66
+
+27          Braço Articulado Ajustável (Magic Arm) com Super Braçadeira para Montagem de Acessórios        UND.         5         R$ 184,04        R$ 920,20
+
+28                         Flash Speedlite Profissional para Câmeras DSLR ou Mirrorless                  UND.         8        R$ 3.381,03       R$ 27.048,24
+
+29                                  Fotômetro Digital para Medição de Luz                          UND.         1        R$ 2.115,00       R$ 2.115,00
+
+30                      KIT DE FILTROS ND (NEUTRA DENSIDADE) 67mm                      KIT          3         R$ 66,85         R$ 200,55
+
+31                      KIT DE FILTROS ND (NEUTRA DENSIDADE) 77mm                      KIT          3         R$ 550,00        R$ 1.650,00
+
+32                         Filtro de densidade neutra 2 em 1 ND Variável + CPL - Encaixe 82mm                UND.         1         R$ 622,50        R$ 622,50
+
+33           Kit de Filtros ND Variável + CPL (Filtro de Densidade Neutra e Polarizador Circular) – 67mm         KIT          4         R$ 569,50        R$ 2.278,00
+
+34           Kit de Filtros ND Variável + CPL (Filtro de Densidade Neutra e Polarizador Circular) – 77mm         KIT          4         R$ 874,00        R$ 3.496,00
+
+35                    FILTRO POLARIZADOR CPL MULTI COATING 67mm                   UND.         2         R$ 70,84         R$ 141,68
+
+36                    FILTRO POLARIZADOR CPL MULTI COATING 77mm                   UND.         2         R$ 78,22         R$ 156,44
+
+37          ANEL ADAPTADOR DE FILTRO DE LENTE DE CÂMERA FULL KITS 8 EM 1             KIT          3         R$ 89,24         R$ 267,72
+
+38                      Kit de Filtros de Lente Macro – Ampliação X1, X2, X4 e X10 – 77 mm                  KIT          1         R$ 150,08        R$ 150,08
+
+39                      Kit de Filtros de Lente Macro – Ampliação X1, X2, X4 e X10 – 67 mm                  KIT          1         R$ 150,28        R$ 150,28
+
+40                       Monitor Externo 7” Full HD para Câmeras de Vídeo e Fotografia                 UND.         5        R$ 9.564,55       R$ 47.822,75
+
+41                CABO MICRO HDMI PARA HDMI COMUM 25 OU 35CM                  UND.         5         R$ 130,66        R$ 653,30
+
+42                                       Baterias Recarregáveis Tipo NP-F980                          UND.         24        R$ 218,04        R$ 5.232,96
+
+43                         Carregador Duplo (ou Múltiplo) para Baterias Tipo NP-F980                   UND.         11        R$ 387,32        R$ 4.260,52
+
+44                      Baterias Recarregáveis Tipo LP-E6NH para Câmeras DSLR e Mirrorless               UND.         10        R$ 851,00        R$ 8.510,00
+
+45                     Gimbal Estabilizador de Câmera 3 Eixos com Assistência de Foco                 UND.         5        R$ 10.116,78      R$ 50.583,90
+
+46                     Teleprompter Profissional para Câmera DSLR, Mirrorless ou Cinema                UND.         1        R$ 3.588,88       R$ 3.588,88
+
+47                   Tripé Universal para Câmera Fotográfica e Smartphone – Portátil e Ajustável             UND.         10         R$ 92,31         R$ 923,10
+
+48                          Tripé profissional robusto para câmeras de video e fotografia                     KIT          5        R$ 2.069,10       R$ 10.345,50
+
+49                           Tripé Leve de Fibra de Carbono com Cabeça Esférica 360º                      KIT          4        R$ 1.446,95       R$ 5.787,80
+
+50         Mini Estúdio Fotográfico Portátil com Iluminação LED e Fundos Intercambiáveis – 60 x 60 cm        UND.         3         R$ 519,00        R$ 1.557,00
+
+              Conjunto Rádio-Flash com Controle TTL e Suporte a Alta Velocidade de Sincronização –
+51                                                                              UND.         5         R$ 179,10        R$ 895,50
+                                 Compatível com Múltiplas Marcas de Câmeras
+
+52                    SUPORTE PARA FUNDO INFINITO 3,10MX3,00M                     UND.         2         R$ 527,62        R$ 1.055,24
+
+53         Mesa de Corte e Transmissão Ao Vivo com Gravação Multicanal – Mínimo 4 Entradas HDMI        UND.         13        R$ 4.129,89       R$ 53.688,57
+
+        Adaptador HDMI 4K Macho Tipo D (Micro HDMI) para Fêmea Tipo A (HDMI Padrão) – Ultra Fino –
+54                                                                              UND.         5         R$ 162,32        R$ 811,60
+                                               60 Hz
+
+             Kit Completo de Câmeras PTZ Fixas com Controle Integrado de Vídeo e Áudio – Zoom Óptico
+55                                                                                      KIT         26       R$ 21.447,50      R$ 557.635,00
+                                         Mínimo 20x
+
+        Kit de Transmissão Sem Fio de Vídeo HDMI/SDI em Pares (Transmissor e Receptor) – Alcance até 400 m
+56                                                                                      KIT         15        R$ 3.820,67       R$ 57.310,05
+                                          – Display Integrado
+
+57            Receptor Extra de Vídeo Sem Fio HDMI/SDI 4K – Compatível com Sistema Selecionado         UND.         2        R$ 3.374,00       R$ 6.748,00
+
+                                       Câmera de Filmagem
+58                                                                              UND.         1        R$ 15.607,32      R$ 15.607,32
+                                        Marca: Sony Modelo: ZV-E1
+
+                                                  Baterias recarregáveis
+59                                                                              UND.         4         R$ 699,67        R$ 2.798,68
+                                      Marca: Sony Modelo: NP-FZ100
+
+60                                           Carregador de baterias                               UND.         1         R$ 895,00        R$ 895,00
+
+61             Lente Zoom 24-70mm f/2.8 para câmeras Full Frame com montagem tipo E (E-Mount)          UND.         1        R$ 11.545,93      R$ 11.545,93
+
+         Lente Grande Angular fixa de abertura wide (range 9mm ou 10mm, ou 11mm ou 14mm) f/1.8 ou f/2.8
+62                                                                              UND.         1        R$ 4.299,00       R$ 4.299,00
+                              para câmeras Full Frame com montagem tipo E (E-Mount)
+
+                                    VALOR TOTAL DO GRUPO 2                                                R$ 1.206.584,27
+
+                                         GRUPO 3 - ÁUDIO PARA VÍDEO
+
+           Suporte Articulado de Mesa para Microfone – Perfil Baixo – Ajustável para Podcast, Streaming e
+63                                                                              UND.         10        R$ 300,15        R$ 3.001,50
+                                                     Estúdio
+
+          Sistema de Microfone de Lapela Sem Fio com 2 Transmissores, 1 Receptor para Câmera e Gravação
+64                                                                                      KIT         11        R$ 1.590,00       R$ 17.490,00
+                                                          Interna
+
+65                         Vara de Microfone Boom em Fibra de Carbono, Ajustável                    UND.         1         R$ 899,00        R$ 899,00
+
+               Microfone direcional vm40 KIT COM 2 MICROFONES E TRANSMISSOR 2.4g com
+66                                                                                      KIT          4        R$ 4.268,96       R$ 17.075,84
+                                    Gravação flutuante de 48 kHz/32 bits
+
+67                   Kit de Blimp com Suspensão e Cabo XLR para Microfone Shotgun Direcional               KIT          1        R$ 1.266,33       R$ 1.266,33
+
+                                    VALOR TOTAL DO GRUPO 3                                                 R$ 39.732,67
+
+                                           GRUPO 4 - ÁUDIO GERAL
+
+68                Controladora DJ Standalone Profissional com 4 Canais e Placa de Áudio Integrada            UND.         1        R$ 6.560,00       R$ 6.560,00
+
+69           Interface de Áudio/Mesa de Som USB-C 4 Canais com Pads de Disparo e Recursos para Podcast       UND.         29        R$ 2.849,00       R$ 82.621,00
+
+70                       CDJ / Multileitor Profissional para Performance DJ                      UND.         2        R$ 28.490,00      R$ 56.980,00
+
+             Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 8
+
+ 71                           Controladora DJ Profissional com Placa de Áudio Integrada                   UND.         1        R$ 3.149,99       R$ 3.149,99
+
+ 72                        Microfone de Mão Sem Fio para Uso em Auditórios e Eventos                  UND.         45        R$ 3.395,99      R$ 152.819,55
+
+ 73                  MICROFONE SHURE SM7B (MICROFONE DINÂMICO)                   UND.         12        R$ 3.098,31       R$ 37.179,72
+
+ 74                  Microfone Dinâmico Cardioide com Fio para Voz e Aplicações e gravação              UND.         6        R$ 1.154,63       R$ 6.927,78
+
+ 75                 Cabo de Extensão XLR Macho-Fêmea para Áudio Profissional – 5 metros               UND.         15         R$ 78,51        R$ 1.177,65
+
+           Gravador Digital de Áudio Portátil 32 Bits Float com Microfones Estéreo Integrados e 4 entradas
+ 76                                                                              UND.         3        R$ 1.599,00       R$ 4.797,00
+                                       XLR/TRS
+
+ 77           Gravador Digital de Áudio com Funções de Transcrição e Resumo via Inteligência Artificial         UND.         1        R$ 1.278,00       R$ 1.278,00
+
+ 78            Controlador MIDI com 49 Teclas e Recursos para Produção Musical e Performance ao Vivo         UND.         27        R$ 2.509,05       R$ 67.744,35
+
+ 79              Monitor de Áudio Ativo Profissional de 8” para Produção Musical e Edição de Áudio           UND.         6        R$ 3.599,00       R$ 21.594,00
+
+ 80               Fone de Ouvido Fechado Over-Ear Profissional para Monitoramento e Mixagem            UND.         45        R$ 3.142,99      R$ 141.434,55
+
+ 81                      Caixa de Som Ativa Profissional 400W para Auditórios e Eventos                 UND.         12        R$ 7.199,10       R$ 86.389,20
+
+ 82                                   Pedestal de Mesa para Microfone de Podcast                        UND.         48        R$ 198,81        R$ 9.542,88
+
+ 83                      RACK DE ÁUDIO 12U COM RODÍZIOS                         UND.         2        R$ 2.844,13       R$ 5.688,26
+
+ 84         Interface de Áudio/Mesa de Som USB-C de 6 Canais com Pads de Disparo e Recursos para Podcast      UND.         4        R$ 1.601,66       R$ 6.406,64
+
+ 85                     Mesa de Som Digital 20 Canais com Conectividade Integrada                   UND.         9        R$ 10.228,10      R$ 92.052,90
+
+ 86      PEDESTAL SUPORTE TRIPÉ/ UNIVERSAL PARA CAIXA DE SOM COM TRAVA EM AÇO        KIT         11        R$ 169,00        R$ 1.859,00
+
+ 87                        Monitor de Áudio Ativo 66W RMS com Conexões Múltiplas                   UND.         9        R$ 1.557,44       R$ 14.016,96
+
+ 88                                           Microfone de teto                                 UND.         4        R$ 2.344,07       R$ 9.376,28
+
+ 89                       Sistema de microfone Headset sem fio com transmissor e receptor                 UND.         34        R$ 4.769,60      R$ 162.166,40
+
+                                    VALOR TOTAL DO GRUPO 4                                                R$ 971.762,11
+
+                                            GRUPO 5 - INFORMÁTICA
+
+ 90                              Cabo USB-C para USB-C DE DADOS                          UND.         10        R$ 454,00        R$ 4.540,00
+
+ 91                       Cabo USB-C para USB-A (Alta Velocidade) DE DADOS                    UND.         10         R$ 31,79         R$ 317,90
+
+ 92                       Cabo USB-A para USB-B (Alta Velocidade) DE DADOS                    UND.         10         R$ 30,93         R$ 309,30
+
+ 93                    Cabo USB-C para Micro USB-B (Alta Velocidade) DE DADOS                  UND.         10         R$ 31,58         R$ 315,80
+
+        Cabo HDMI 2.0 de Alta Velocidade 4K com Revestimento em Nylon Trançado para monitor portátil de
+ 94                                                                              UND.         25         R$ 78,16        R$ 1.954,00
+                                   câmera entre 10 e 15cm de comprimento
+
+ 95               Hub USB-C 8 em 1 com HDMI 4K, Leitor de Cartões e Entrega de Energia              UND.         36        R$ 336,94       R$ 12.129,84
+
+ 96                 Cartão de Memória MicroSDXC 128GB de Alta Velocidade com Adaptador SD            UND.         10        R$ 136,54        R$ 1.365,40
+
+ 97                                Leitor de cartões SD, MICRO SD e CF - USB Tipo C                     UND.         38        R$ 187,80        R$ 7.136,40
+
+ 98                           Smartphone Marca: Samsung Modelo: Galaxy S25+                      UND.         2        R$ 6.445,13       R$ 12.890,26
+
+                                    VALOR TOTAL DO GRUPO 5                                                 R$ 40.958,90
+
+                                          GRUPO 6 - IMAC E MACBOOK
+
+       IMAC Apple CPU de 10 núcleos GPU de 10 núcleos Memória unificada de 16 GB Armazenamento de
+ 99                                                                              UND.         35       R$ 22.799,00      R$ 797.965,00
+                                         1TB
+
+100       Macbook Pro - CPU de 12 núcleos GPU de 16 núcleos Memória unificada de 24 GB SSD de 1TB       UND.         2        R$ 15.676,55      R$ 31.353,10
+
+                                    VALOR TOTAL DO GRUPO 6                                                R$ 829.318,10
+
+                                       GRUPO 7 - ILUMINAÇÃO AUDIOVISUAL
+
+101                       SOMBRINHA DIFUSORA DOURADA                         UND.         3         R$ 42,71         R$ 128,13
+
+102                        SOMBRINHA DIFUSORA PRATA                           UND.         3         R$ 57,22         R$ 171,66
+
+103                 SOMBRINHA DIFUSORA TRANSLUCIDA (BRANCA)                   UND.         3         R$ 47,99         R$ 143,97
+
+104                      Gobos de Fotografia – Padrões Decorativos e Geométricos                    UND.         6         R$ 145,94        R$ 875,64
+
+                                    VALOR TOTAL DO GRUPO 7                                                 R$ 1.319,40
+
+                                              GRUPO 8 – CABOS
+
+105                              CABO RCA                                   UND.         10         R$ 66,76         R$ 667,60
+
+106                CABO DE FORÇA COM PLUGUES NBR 14136 (BRASIL)                   UND.         12         R$ 34,99         R$ 419,88
+
+                       CABO USB-A PARA CONTROLADORA
+107                                                                              UND.         4         R$ 215,62        R$ 862,48
+                CABO USB-B (CONTROLADORA) X USB-A (COMPUTADOR).
+
+108                       Cabo SDI Profissional 30m para Transmissão de Vídeo                     UND.         20        R$ 622,28       R$ 12.445,60
+
+109                          Cabo HDMI Profissional 20m (Alta Velocidade)                       UND.         20        R$ 125,46        R$ 2.509,20
+
+110                          Cabo HDMI Profissional 5m (Alta Velocidade)                       UND.         20         R$ 45,99         R$ 919,80
+
+111                          Cabo HDMI Profissional 3m (Alta Velocidade)                       UND.         10         R$ 27,58         R$ 275,80
+
+112                         Cabo DisplayPort Profissional (Macho para Macho)                      UND.         10         R$ 28,05         R$ 280,50
+
+113                       Cabo SDI Profissional 10m para Transmissão de Vídeo                     UND.         20        R$ 179,45        R$ 3.589,00
+
+114                                    SPLITTER 1X2                                  UND.         12         R$ 67,72         R$ 812,64
+
+115                                    SPLITTER 1X4                                  UND.         8         R$ 65,24         R$ 521,92
+
+                                    VALOR TOTAL DO GRUPO 8                                                 R$ 23.304,42
+
+                                           GRUPO 9 – VÍDEO E FOTO
+
+116                        KIT DE LIMPEZA PARA CÂMERA E LENTES                      UND.         10         R$ 53,97         R$ 539,70
+
+117                KIT DE LIMPEZA PARA SENSORES COM 4 SWABS E SOLUÇÃO                 KIT         15        R$ 228,75        R$ 3.431,25
+
+118                           Plate de Engate Rápido Universal Longo para Cabeças de Tripé                  UND.         3         R$ 77,84         R$ 233,52
+
+119                                  Claquete de Cinema Profissional 30x24cm                         UND.         1         R$ 172,30        R$ 172,30
+
+120                                3 Tabelas V2 em Compensado Naval                           UND.         4         R$ 180,33        R$ 721,32
+
+121                                  3 Tabelas 10x30x50 com Verniz                            UND.         4         R$ 79,63         R$ 318,52
+
+122                    Kit com 4 Fitas Gaffer Tape de Tecido 12mm x 5m – Cores Fluorescentes               UND.         5         R$ 66,23         R$ 331,15
+
+             Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 9
+
+123                        Kit 8 Grampos De Pressão Multiuso 4 Pol Reforçado Marceneiro                    KIT          4         R$ 50,99         R$ 203,96
+
+
+124            Sacos de areia (Sandbag) para Contrapeso variados para estúdio audiovisual e fotográfico           KIT          3         R$ 202,10        R$ 606,30
+
+125                                  Armario Desumidificador 100 litros                           UND.         3        R$ 2.824,93       R$ 8.474,79
+
+126                                 Armario Desumidificador – 40 litros                           UND.         3        R$ 1.599,00       R$ 4.797,00
+
+                                    VALOR TOTAL DO GRUPO 9                                                 R$ 19.829,81
+
+                                              GRUPO 10 - ÁUDIO
+
+127                   POP FILTER (REDUÇÃO DE RUÍDO DE MICROFONE)                   UND.         8         R$ 59,00         R$ 472,00
+
+128                     Cabo de Áudio RCA Macho para RCA Macho (Par Estéreo)                   UND.         8         R$ 26,63         R$ 213,04
+
+129                 Cabo de Áudio 2 RCA Macho para 2 P10 (6,35 mm) Macho – 2 Metros               UND.         26         R$ 33,90         R$ 881,40
+
+130                  Cabo de Áudio P10 Mono (TS) Macho para XLR Fêmea – 5 Metros                 UND.         8         R$ 29,19         R$ 233,52
+
+131                Cabo de Áudio P2 Estéreo (3,5 mm) Macho para 2 RCA Macho – 2 Metros              UND.         26         R$ 13,98         R$ 363,48
+
+132                       ADAPTADOR P10 + P2 DE METAL                          UND.         10         R$ 9,93          R$ 99,30
+
+133                            CABO P10 (TS) 2m                                UND.         6         R$ 95,00         R$ 570,00
+
+134                            CABO P10 (TS) 8m                                UND.         6         R$ 127,41        R$ 764,46
+
+135                             CABO XLR 2M                                 UND.         15         R$ 53,46         R$ 801,90
+
+136                             CABO XLR 5M                                 UND.         15         R$ 41,81         R$ 627,15
+
+137                             CABO XLR 10M                                 UND.         8         R$ 55,14         R$ 441,12
+
+138                    CONJUNTO DE CABOS TNP MIDI PARA USB                         KIT          5         R$ 61,78         R$ 308,90
+
+                                    VALOR TOTAL DO GRUPO 10                                                 R$ 5.776,27
+
+                                           GRUPO 11 - INFORMÁTICA
+
+139                             CABO USB-3.0                                  UND.         16         R$ 28,23         R$ 451,68
+
+140              Cartão de Memória SDXC 32GB de Alta Velocidade para Gravação de Vídeo 4K/8K           UND.         12         R$ 76,46         R$ 917,52
+
+141               Régua de Alimentação Horizontal para Rack (PDU – Power Distribution Unit)             UND.         19        R$ 149,99        R$ 2.849,81
+
+142                          Nobreak 1500VA Bivolt Automático com 8 Tomadas                     UND.         5        R$ 2.455,53       R$ 12.277,65
+
+                                    VALOR TOTAL DO GRUPO 11                                                R$ 16.496,66
+
+                                           GRUPO 12 - FERRAMENTAS
+
+143                             JOGO DE ESTILETES                                   KIT         10         R$ 18,00         R$ 180,00
+
+144                        KIT 5 TESOURAS MULTIUSO DE PRECISÃO                         KIT         10         R$ 59,76         R$ 597,60
+
+145   LUVAS DE PROTEÇÃO CONTRA CALOR EM ALGODÃO COM REVESTIMENTO DE SILICONE    CX          1         R$ 89,74         R$ 89,74
+
+         GRAMPEADOR ALICATE SEM ESFORÇO MINI PORTÁTIL LEVE + 1000 GRAMPOS
+146                              GALVANIZADO                                 UND.         10         R$ 26,50         R$ 265,00
+                                        (FIXAÇÃO)
+
+                                    VALOR TOTAL DO GRUPO 12                                                 R$ 1.132,34
+
+                                             GRUPO 13 - ELÉTRICA
+
+147                                   Cabos de energia PP 2x2,5mm                             UND.         3         R$ 298,47        R$ 895,41
+
+148                                    Tomadas 2P+T (20A)                                UND.         10         R$ 14,79         R$ 147,90
+
+149                                        Plugues macho 2P+T (20A)                              UND.         10         R$ 4,53          R$ 45,30
+
+150                                         Adaptadores P10 / XLR                               UND.         10         R$ 18,50         R$ 185,00
+
+151                        Extensão Elétrica com Múltiplas Tomadas e Proteção de 20m                   UND.         9         R$ 303,99        R$ 2.735,91
+
+152                                           Alicate de corte e desencape                              UND.         2         R$ 20,12         R$ 40,24
+
+153                                            Multímetro digital                                 UND.         2         R$ 29,96         R$ 59,92
+
+154                              Chave de teste de voltagem (busca-pólo)                          UND.         2         R$ 10,84         R$ 21,68
+
+155                                          Detector de tensão 12-380V                              UND.         2         R$ 185,44        R$ 370,88
+
+                                    VALOR TOTAL DO GRUPO 13                                                 R$ 4.502,24
+
+                                         GRUPO 14 - DRONE E ACESSÓRIOS
+
+156                           DJI Mini 4 Pro Fly More Combo Plus com DJI RC 2                      UND.         4        R$ 11.390,25      R$ 45.561,00
+
+157                     Protector De Hélice Mini 4 Pro 360-Especificações Hélices DJI (DJI1048)              UND.         4         R$ 445,13        R$ 1.780,52
+
+158                                   Alça de pescoço para DJI RC/RC 2                           UND.         4         R$ 63,27         R$ 253,08
+
+159                                           Pista de Poso Drone Landing Pad                            UND.         4         R$ 117,09        R$ 468,36
+
+160                          Kits Fly More Plus Dji Mini 3 Pro E 4 Pro 47 Minutos Original                    KIT          4        R$ 2.907,75       R$ 11.631,00
+
+        Drone DJI Avata 2 Fly More Combo (3 baterias originais DJI) + 1x DJI Goggles 3 + 1x DJI Motion 3 + e
+161                                                                              UND.         1        R$ 10.746,86      R$ 10.746,86
+                                 todos acessórios correspondentes do Kit BR - DJI049
+162                            Maleta Para Drone Dji Avata 2 Com Alça De Ombro                      UND.         1         R$ 386,20        R$ 386,20
+
+                                    VALOR TOTAL DO GRUPO 14                                                R$ 70.827,02
+
+                                                        ITENS ISOLADOS
+
+163                            Caixa Plástica Organizadora Transparente 50 Litros                      UND.         40         R$ 50,06        R$ 2.002,40
+
+164                            Caixa Plástica Organizadora Transparente 20 Litros                      UND.         50         R$ 34,40        R$ 1.720,00
+
+165                             Impressora fotográfica imagePROGRAF PRO-300 A                     UND.         1        R$ 3.475,00       R$ 3.475,00
+
+166                   Case Rígido Anti-Impacto com Rodas e Vedação IP65 para Uso Geral                UND.         5        R$ 1.077,52       R$ 5.387,60
+
+            Estojo Acolchoado com Divisórias e Tampa para Case Rígido (compatível com dimensões internas
+167                                                                              UND.         6         R$ 481,45        R$ 2.888,70
+                                           de 508 x 282 x 195 mm
+
+            Mochila de fotografia e video Ergonômica de Alta Capacidade (45 a 60 Litros) para Transporte
+168                                                                              UND.         9        R$ 3.695,33       R$ 33.257,97
+                                    Seguro e Organizado de Equipamentos
+
+179             FUNDO INFINITO VERDE - CROMAKEY (CRIAÇÃO DE FUNDO)               UND.         2         R$ 247,08        R$ 494,16
+
+170                  FUNDO INFINITO PRETO (CRIAÇÃO DE FUNDO)                     UND.         2         R$ 398,85        R$ 797,70
+
+
+            Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 10
+
+171                 FUNDO INFINITO BRANCO (CRIAÇÃO DE FUNDO)                    UND.         2         R$ 451,51        R$ 903,02
+
+172                                Impressora 3D de Mesa com Tecnologia FDM                        UND.         1        R$ 5.304,71       R$ 5.304,71
+
+173        SERVIDOR Servidor Nas Synology Diskstation Ds1821+ Com 32tb (8 Hds Synology 4tb)         UND.         4        R$ 24.505,60      R$ 98.022,40
+
+                                 VALOR TOTAL DOS ITENS (163 a 173)                                             R$ 154.253,66
+
+                                                                                 VALOR GLOBAL   R$ 3.498.865,40
+
+
+                   1.1 JUSTIFICATIVA PARA A INDICAÇÃO DE MARCAS
+                        1.1.1 A presente indicação de marcas tem por objetivo garantir a compatibilidade técnica, o desempenho esperado e a durabilidade dos
+        equipamentos e acessórios a serem adquiridos para a produção de material audiovisual institucional pelo Senac-DF. A escolha fundamenta-se em critérios
+         técnicos objetivos e visa atender de forma eficiente e segura às necessidades operacionais da instituição, alinhando-se aos princípios da eficiência,
+        economicidade e continuidade dos serviços.
+                        1.1.2 Nos termos do art. 21, §1º, da PORTARIA "N" SENAC AR/DF 226/2024, é permitida a indicação - desde que devidamente justificada -
+        de marca ou modelo específico quando houver necessidade de padronização, ou ainda nos casos quando a determinação da marca ou modelo comercializados
+        por mais de um fornecedor forem os únicos e/ou os mais adequados para atender às necessidades do contratante, considerando os requisitos técnicos.
+                        1.1.3 As marcas mencionadas neste Termo de Referência foram selecionadas com base em critérios como:
+                               a) Desempenho comprovado em uso prévio na instituição;
+                             b) Compatibilidade com equipamentos já existentes, evitando a necessidade de substituição de sistemas inteiros ou aquisição de
+              adaptadores específicos que poderiam onerar o processo;
+                               c) Suporte técnico nacional e garantia, assegurando agilidade em eventuais manutenções ou trocas;
+                             d) Reconhecimento do mercado como padrão de qualidade no segmento audiovisual, sendo amplamente adotada por outras instituições
+               públicas e privadas de ensino.
+                        1.1.4 A adoção de marcas específicas, portanto, não tem por objetivo restringir a competitividade do certame, mas assegurar que o objeto
+         contratado atenda plenamente às necessidades institucionais, garantindo a eficiência do investimento e a qualidade dos produtos adquiridos, afinal, não
+       possuem fornecedor exclusivo, sendo amplamente comercializadas no mercado nacional.
+
+
+                   1.2 ITEM 16 e ITENS de 17 a 25 Acessórios - Aquisição de Câmera Canon EOS R6 Mark II apresenta-se como uma câmera mirrorless de alta
+     performance, reconhecida por sua excelência técnica. Equiparada com um sensor full frame de 25 megapixels, proporciona imagens com alta resolução, detalhes
+     precisos e desempenho otimizado em condições de baixa luminosidade. Sua capacidade de gravação de vídeo em 10 bits oferece uma ampla gama de cores e
+     gradações tonais, atendendo às demandas de profissionais de vídeo. A presença de dual slot de armazenamento garante maior segurança e flexibilidade na gestão
+     de arquivos.
+                        1.2.1 No que diz respeito à assistência técnica, a Canon possui uma rede de suporte técnico autorizada e centros de serviço credenciados,
+        garantindo manutenção e reparos com profissionais qualificados e peças originais, o que assegura a durabilidade e o funcionamento adequado do
+        equipamento ao longo do tempo.
+                        1.2.2 Quanto ao custo-benefício, a Canon EOS R6 Mark II oferece uma combinação equilibrada de recursos avançados e preço competitivo
+        dentro do segmento de câmeras profissionais mirrorless, sendo uma opção viável para fotógrafos e videomakers que buscam alta qualidade de imagem,
+         suporte técnico confiável e um investimento que justifica suas funcionalidades e desempenho, atendendo bem as demandas de operacionalização dos
+        equipamentos necessários para a execução dos cursos do eixo de produção cultural e design do Senac -DF.
+                        1.2.3 Os acessórios, como lentes e bateriais, precisam ser da mesma marca da câmera, como a Canon, para garantir compatibilidade total e
+       desempenho ideal. Cada fabricante desenvolve suas lentes e acessórios pensando na compatibilidade com seus sistemas específicos, incluindo o encaixe, o
+        sistema de foco, a comunicação eletrônica e o controle de funções. Quando usa-se lentes da mesma marca, como Canon, a câmera consegue aproveitar ao
+       máximo recursos avançados, como o foco automático, estabilização de imagem e ajustes de exposição, que dependem dessa comunicação precisa entre o
+        corpo e a lente. Além disso, usar acessórios compatíveis evita problemas de encaixe, mau funcionamento ou até danos ao equipamento. Assim, a combinação
+        de lentes e câmera da mesma marca garante uma experiência mais confiável, eficiente e de alta qualidade, além de preservar a durabilidade do seu
+         investimento.
+
+
+                   1.3 ITEM 58- Aquisição de Câmera Sony e Acessórios - A indicação da câmera Sony ZV-E1 e de suas lentes específicas fundamenta-se em
+      critérios técnicos e operacionais que visam garantir a excelência na captação de imagem em produções audiovisuais institucionais do Senac-DF. O modelo
+     proposto atende de forma precisa aos requisitos de qualidade, compatibilidade e usabilidade exigidos pelas atividades desenvolvidas pela equipe de Comunicação
+     e Marketing da instituição.
+                        1.3.1 A Sony ZV-E1 é equipada com sensor Full-frame Exmor R CMOS retroiluminado de 12,1MP, oferecendo desempenho superior em
+        ambientes de baixa luminosidade e ampla faixa dinâmica, recursos essenciais para gravações em eventos institucionais variados, que nem sempre contam com
+        iluminação controlada. O modelo dispõe ainda de estabilização de imagem no corpo (IBIS) de 5 eixos, com o modo Dynamic Active, que melhora
+        consideravelmente a fluidez de vídeos captados em movimento, dispensando o uso constante de estabilizadores externos.
+                         1.3.2. O processador BIONZ XR aliado ao chip de IA dedicado permite recursos avançados de foco automático com reconhecimento de olhos,
+         rostos e múltiplos objetos (inclusive humanos, animais, veículos e insetos), o que garante precisão no rastreamento em tempo real, aumentando a eficiência
+        das gravações com equipe reduzida. Além disso, a câmera grava em 4K até 120 fps (via atualização de firmware), com oversampling de 6K, profundidade de
+        cor de 10-bit 4:2:2 e suporte aos perfis de cor profissionais como S-Log3, S-Cinetone e HLG, adequando-se perfeitamente aos fluxos de trabalho
+         profissionais e às exigências de pós-produção.
+                        1.3.3 Além disso, a câmera utiliza baterias do modelo NP-FZ100, amplamente adotadas no mercado audiovisual profissional por sua alta
+        capacidade e autonomia. A padronização nesse modelo de bateria permitirá, futuramente, a integração com outros equipamentos da marca, otimizando o uso e
+        a reposição de energia durante gravações prolongadas. Sua aquisição simultânea à câmera garante melhor planejamento logístico e continuidade nas
+        operações em campo.
+                        1.3.4 As lentes Sony com montagem E (E-mount) recomendadas (como 20mm f/1.8, 24-70mm f/2.8 ou 35mm f/1.4) apresentam qualidade
+         óptica reconhecida e compatibilidade nativa com o sistema da ZV-E1, assegurando foco silencioso e rápido, sem perda de performance — essenciais para
+        gravações com áudio direto. Estas lentes são amplamente utilizadas em ambientes institucionais, com desempenho comprovado em situações que exigem
+         versatilidade, nitidez e confiabilidade.
+                        1.3.5 A adoção da marca Sony, portanto, está justificada com base nos seguintes pontos:
+                               a) Compatibilidade com o parque tecnológico atual da instituição;
+                             b) Desempenho já validado em uso anterior pela equipe de produção institucional;
+                               c) Alta eficiência operacional, com recursos que reduzem retrabalho e tempo de edição;
+                             d) Garantia nacional, ampla rede de assistência técnica autorizada e disponibilidade no mercado brasileiro;
+                               e) Reconhecimento da marca como referência global no segmento audiovisual profissional.
+                        1.3.6 Por fim, ressalta-se que a Sony ZV-E1 e suas lentes são produtos amplamente comercializados no território nacional por diferentes
+         fornecedores, não configurando exclusividade de distribuição. A escolha do modelo visa assegurar a qualidade do investimento público e o atendimento pleno
+        das demandas institucionais, conforme previsto no art. 21, §1º, da PORTARIA "N" SENAC AR/DF 226/2024.
+
+
+            Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 11
+
+                1.4. ITEM 98 - A Aquisição de Smartphone Samsung Galaxy S25+ 512GB para a Comunicação e Marketing do Senac-DF
+                  1.4.1 A Comunicação e Marketing do Senac-DF atua em diversas frentes estratégicas de divulgação institucional, produção de conteúdo,
+   cobertura de eventos e ações de comunicação integrada, que demandam o uso intensivo de recursos tecnológicos de alta performance. Considerando o cenário
+    atual de alta competitividade e dinamismo na produção de conteúdo audiovisual e digital, torna-se essencial a utilização de equipamentos compatíveis com os
+   padrões de qualidade exigidos pelo mercado e pelos veículos de comunicação.
+                  1.4.2 Justificativa Técnica da Escolha do Equipamento: O Samsung Galaxy S25+ 512GB apresenta um conjunto de características técnicas que
+   o qualificam como uma ferramenta altamente eficiente para atender as necessidades da área, destacando-se:
+                         a) Desempenho de processamento avançado: Equipado com o processador Exynos 2500 (ou Snapdragon equivalente, conforme a versão
+           brasileira), o S25+ assegura velocidade de processamento elevada, possibilitando a edição de imagens e vídeos em alta resolução diretamente no
+          dispositivo, agilizando o fluxo de trabalho em campo e reduzindo a dependência de equipamentos adicionais.
+                        b) Capacidade de armazenamento ampliada (512GB): A elevada capacidade de armazenamento permite o arquivamento de grandes
+        volumes de fotos e vídeos em alta qualidade, facilitando o acesso rápido aos materiais durante coberturas de eventos, gravações e postagens em tempo
+           real, sem a necessidade de transferências constantes para servidores externos.
+                         c) Qualidade de câmeras profissionais: Com sistema de câmeras múltiplas de última geração, o S25+ proporciona captação de imagens e
+         vídeos em qualidade superior (4K e 8K), com alta fidelidade de cores e excelente desempenho em ambientes de baixa luminosidade. Esse recurso reduz
+         a necessidade de equipamentos fotográficos dedicados em diversas situações de cobertura institucional.
+                        d) Conectividade avançada: O suporte a redes 5G e Wi-Fi 6E assegura velocidades de upload e download otimizadas, fator crucial para
+         transmissões ao vivo, postagens instantâneas em redes sociais, envio de materiais para a imprensa e integração com plataformas de comunicação em
+       nuvem utilizadas pela instituição.
+                         e) Segurança e gestão corporativa: O S25+ possui recursos robustos de segurança (Samsung Knox), garantindo a proteção dos dados
+           institucionais, bem como facilidade de gerenciamento remoto dos dispositivos, atendendo as diretrizes de segurança da informação do Senac-DF.
+                              f) Autonomia de bateria e eficiência energética: A bateria de longa duração e a eficiência energética do modelo asseguram maior tempo
+        de operação durante as coberturas externas e eventos de longa duração, sem a necessidade de recargas constantes.
+                        g) Compatibilidade com o ecossistema de trabalho atual: O equipamento integra-se perfeitamente com aplicativos de edição, plataformas
+        de gestão de mídias sociais, softwares de comunicação corporativa e demais ferramentas já utilizadas pela equipe, otimizando o desempenho
+         operacional e colaborativo.
+                  1.4.3 Benefícios Institucionais: A aquisição do Samsung Galaxy S25+ 512GB contribuirá diretamente para:
+                         a) Aumentar a qualidade e agilidade na produção de conteúdos institucionais;
+                        b) Melhorar o tempo de resposta na cobertura e divulgação de eventos;
+                         c) Elevar o padrão visual das mídias sociais e campanhas digitais do Senac-DF;
+                        d) Reduzir custos com equipamentos adicionais em coberturas externas;
+                         e) Garantir maior segurança na gestão e armazenamento dos dados institucionais.
+                  1.4.4 Considerações Finais:
+                         1.4.4.1 Diante das demandas atuais e do escopo de atuação da Comunicação e Marketing, a aquisição do Samsung Galaxy S25+ 512GB
+         configura-se como um investimento estratégico, proporcionando ganhos significativos em produtividade, qualidade de entrega, segurança e otimização
+         dos recursos já disponíveis.
+
+
+                1.5. ITEM 99 – A aquisição do iMac Apple representa um avanço significativo na infraestrutura tecnológica dos cursos dos Eixos Tecnológicos
+de Produção Cultural e Design  e Tecnologia da Informação, ao oferecer uma solução que  alia desempenho, confiabilidade e experiência de uso
+incomparáveis.
+                  1.5.1 Este equipamento proporciona um ambiente de trabalho ideal para atividades que exigem precisão visual, criatividade e fluidez
+    operacional, como edição de vídeo, design gráfico, ilustração digital e produção de conteúdo multimídia. Sua integração nativa com o ecossistema Apple e a
+   qualidade da tela Retina 4.5K garantem uma experiência imersiva e profissional, que estimula a excelência nos projetos desenvolvidos por estudantes e
+   docentes.
+                  1.5.2 Diferencial de mercado: o iMac não possui concorrentes diretos que ofereçam o mesmo nível de integração entre hardware e software,
+    estabilidade de sistema, fidelidade de imagem e durabilidade. Enquanto outras marcas dependem de configurações fragmentadas e sistemas operacionais
+    genéricos, o iMac entrega uma solução completa, otimizada e pronta para uso profissional, com suporte contínuo e ecossistema consolidado. Nenhum outro
+   equipamento no mercado oferece essa combinação com o mesmo grau de eficiência e confiabilidade.
+
+
+                1.6. ITEM 100 – O MacBook Pro é uma ferramenta indispensável para ampliar a mobilidade e a autonomia dos profissionais e estudantes
+envolvidos em projetos educacionais dinâmicos. Sua portabilidade, aliada a um desempenho de altíssimo nível, permite a realização de atividades complexas em
+qualquer ambiente, como oficinas externas, eventos culturais, gravações em campo, simulações e desenvolvimento de software.
+                  1.6.1 Além de sua performance excepcional, o MacBook Pro oferece uma experiência de uso fluida, silenciosa e altamente produtiva, mesmo
+  em tarefas que exigem grande capacidade de processamento gráfico e computacional. Ele favorece a criatividade, a inovação e a colaboração, sendo ideal
+   para contextos educacionais que valorizam a interdisciplinaridade e a experimentação tecnológica.
+                  1.6.2 Diferencial de mercado: o MacBook Pro com chip Apple M4 Pro não possui concorrentes equivalentes em termos de desempenho,
+   autonomia, qualidade de tela, integração de sistema e confiabilidade. Nenhum outro notebook no mercado combina mobilidade com potência de forma tão
+    eficiente. A arquitetura unificada da Apple, aliada ao seu ecossistema de software profissional, torna este equipamento único e insubstituível para as
+   demandas educacionais contemporâneas.
+
+
+                1.7. ITEM 156 - A aquisição do DJI Mini 4 Pro Fly More Combo Plus com DJI RC 2, mesmo sendo classificado como um drone compacto,
+oferece especificações de alto desempenho que o colocam na categoria de equipamentos semiprofissionais, com recursos encontrados em drones maiores e mais
+caros.
+                  1.7.1 Do ponto de vista técnico, o Mini 4 Pro conta com sensor CMOS de 1 polegada, gravação em 4K a 60 fps com modo HDR, perfil de cor
+   D-Log M, modo noturno otimizado e sistema de detecção de obstáculos omnidirecional, tornando-se extremamente poderoso na produção de imagens
+    profissionais e seguro para voos em ambientes urbanos e naturais. A versão Fly More Combo Plus estende a autonomia com baterias de maior duração (até 45
+   minutos por voo), oferece estojo de transporte e carregador múltiplo, maximizando a produtividade no campo.
+                  1.7.2 O controle remoto DJI RC 2 com tela embutida elimina a necessidade de smartphone, oferece maior praticidade no uso em ambientes
+   educacionais e em situações externas, e é estável em longas distâncias (até 20 km em áreas abertas).
+                  1.7.3 No que se refere à marca, a DJI é líder no setor de drones civis e profissionais, com mais de 70% de participação de mercado. Seguindo
+   protocolos de segurança e um ecossistema de software e assistência de fácil operação e confiabilidade, conta com recursos como Retorno Inteligente ao Ponto
+   de Origem (Return to Home), sistema anticolisão, geofencing, modos automáticos de voo e integração com aplicativos de edição e transmissão, que são
+   padronizados e inexistem com o mesmo nível de confiabilidade em marcas concorrentes.
+                  1.7.4 No cenário atual, não há alternativas no mercado brasileiro ou internacional que ofereçam o mesmo equilíbrio entre portabilidade,
+    durabilidade, autonomia, precisão de imagem e segurança de voo que o DJI Mini 4 Pro. Trata-se, portanto, da única opção viável tecnicamente e confiável.
+   Além de tudo isso, não está entre os drones de maior custo, mas entrega qualidade e recursos semelhantes aos drones profissionais de porte mais pesado,
+   representando melhor custo-benefício para fins educacionais.
+
+        Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 12
+
+                1.8. ITEM 161 - A aquisição do DJI Avata 2 Fly More Combo, embora classificado como um drone compacto da categoria FPV (First Person
+View), oferece especificações de alto desempenho que o colocam na categoria de equipamentos semiprofissionais, com recursos encontrados em drones maiores,
+mais caros e mais complexos de operar.
+                  1.8.1 Do ponto de vista técnico, o Avata 2 conta com sensor CMOS de 1/1.3", gravação em 4K até 100 fps, suporte ao perfil de cor D-Log M
+   de 10 bits, campo de visão ultrawide de 155°, estabilização eletrônica RockSteady 3.0+ e HorizonSteady, além de modo noturno otimizado, tornando-se
+   extremamente eficaz para capturas dinâmicas e cinematográficas em alta velocidade. Seu design de proteção de hélices integrado, juntamente com sensores
+    inferiores e traseiros, permite voos seguros em espaços fechados e urbanos, com maior resistência a impactos e manobras arriscadas. A versão Fly More
+  Combo oferece três baterias, estojo de transporte, carregador múltiplo e os novos óculos DJI Goggles 3, que proporcionam imersão total e controle preciso,
+   maximizando a produtividade e a segurança nos voos.
+                  1.8.2 O controle por DJI RC Motion 3 permite operação intuitiva e altamente responsiva, mesmo para usuários iniciantes em drones FPV,
+   eliminando a curva de aprendizado tradicional desse tipo de equipamento. A transmissão de vídeo com tecnologia OcuSync 4.0 (O4) oferece imagens estáveis
+   e de baixa latência com alcance de até 13 km, garantindo confiabilidade em ambientes amplos ou desafiadores.
+                  1.8.3 No que se refere à marca, a DJI é líder absoluta no setor de drones civis e profissionais, com mais de 70% de participação de mercado
+    global. Seus produtos seguem protocolos avançados de segurança, contam com um ecossistema de software robusto, suporte técnico confiável e um padrão de
+    durabilidade, qualidade de construção e usabilidade que não encontra equivalentes à altura em marcas concorrentes. Recursos como modo "Turtle" para
+   autorreversão após tombamento, retorno automático ao ponto de origem (Smart RTH), voo com estabilização avançada, integração com aplicativos de edição,
+    telemetria e transmissão em tempo real são padrão nos equipamentos DJI e parte da sua superioridade tecnológica.
+                  1.8.4 No cenário atual, não há alternativas no mercado brasileiro ou internacional que ofereçam o mesmo equilíbrio entre resistência,
+    portabilidade, qualidade de imagem, segurança operacional e imersão visual que o DJI Avata 2. Trata-se, portanto, da única opção viável tecnicamente e
+    confiável para uso educacional e profissional em áreas como cinema, produção de conteúdo dinâmico, treinamento em FPV e experiências audiovisuais
+    imersivas. Além disso, não está entre os drones de maior custo da marca, mas entrega um conjunto de funcionalidades compatível com modelos profissionais
+   de porte mais elevado, representando excelente custo-benefício.
+
+
+                1.9. ITEM 165 - Aquisição de impressora fine art profissional Impressora Canon image PROGRAF PRO-300 para uso educacional no curso de
+Fotografia.
+                  1.9.1 Justificativa Técnica e Pedagógica: A aquisição de uma impressora fine art profissional se faz necessária para atender às demandas do
+   curso de Fotografia do SENAC, com foco na formação técnica e artística dos alunos. A impressora será utilizada em aulas práticas voltadas ao ensino de:
+                         a) Técnicas de impressão fotográfica de alta qualidade;
+                        b) Diferenças entre tipos de papéis fotográficos (algodão, baryta, RC, etc.);
+                         c) Tipos de tintas pigmentadas e corantes e seus impactos na durabilidade e fidelidade da imagem;
+                        d) Fluxo de trabalho profissional de impressão (soft proofing, gerenciamento de cores, perfis ICC);
+                              f) Preparação de portfólios impressos e exposições fotográficas.
+
+
+                  1.9.2 A prática de impressão é parte essencial da formação de fotógrafos profissionais, permitindo o domínio completo do processo criativo e
+    técnico da imagem, do clique à materialização final.
+                  1.9.3 Critérios Técnicos para o Equipamento:
+                         a) Impressora com tecnologia de impressão a jato de tinta com tintas pigmentadas;
+                        b) Compatibilidade com papéis fine art de gramatura elevada (mínimo 300g/m²);
+                         c) Resolução mínima de 2400 x 1200 dpi;
+                        d) Capacidade de impressão em formatos A3+ ou superiores;
+                         e) Compatibilidade com perfis ICC personalizados;
+                              f) Conectividade com sistemas operacionais utilizados nos laboratórios do SENAC;
+                        g) Reconhecimento no mercado fotográfico profissional (marcas como Epson, Canon ou similares).
+                  1.9.4 Comparação Técnica com Modelos Concorrentes:
+                         a) Qualidade de Impressão Superior para Fine Art. A Canon PRO-300 oferece melhor precisão de cores e maior riqueza de detalhes em
+         impressões fotográficas, especialmente em papéis fine art. Isso é essencial para o ensino de técnicas avançadas de impressão, onde a fidelidade da
+       imagem e a profundidade tonal são fundamentais.
+                        b) Tintas Pigmentadas LUCIA PRO. A Canon é a única empresa que utiliza um sistema de 10 tintas pigmentadas LUCIA PRO, que
+         proporciona maior durabilidade da impressão (resistência à luz e ao tempo), além de excelente desempenho em papéis de algodão e baryta — os mais
+          utilizados em impressão fine art profissional.
+                         c) Compatibilidade com Papéis Profissionais. A PRO-300 é compatível com uma ampla gama de papéis fotográficos profissionais,
+         incluindo papéis texturizados e de alta gramatura (até 380g/m²), o que é essencial para a prática educativa com diferentes suportes.
+                        d) Precisão no Alinhamento de Papel
+         Possui um sistema de correção automática de alimentação de papel, que evita desalinhamentos — um diferencial importante para garantir a qualidade
+      em impressões de portfólio e exposições.
+                         e) Custo-benefício Educacional. Embora a Epson ofereça modelos com tanques de tinta de maior rendimento, como a ET-8550, esses
+        modelos não utilizam tintas pigmentadas de alta qualidade voltadas para fine art, o que compromete a durabilidade e fidelidade da impressão. Já a
+        Epson P700, embora comparável em qualidade, apresenta relatos de problemas com alimentação de papel e construção mais frágil.
+                              f) Robustez e Confiabilidade. A Canon PRO-300 é reconhecida por sua construção robusta e confiável, ideal para uso contínuo em
+         ambiente educacional, com menor risco de falhas mecânicas ou desgaste precoce.
+               1.9.5 Impacto Esperado:
+                   a) A aquisição proporcionará uma experiência educacional mais completa, alinhada às práticas do mercado profissional, além de fomentar a
+   produção autoral e a valorização da fotografia impressa como forma de expressão artística e técnica.
+
+
+               1.10. ITEM 173 - A aquisição do Servidor NAS Synology DiskStation DS1821+ com 32TB (8 HDs Synology de 4TB) é essencial para atender
+às demandas de armazenamento, segurança e gestão de dados dos cursos pertencentes aos Eixos Tecnológicos de Produção Cultural e Design e Tecnologia da
+Informação.
+                 10.10.1 Do ponto de vista técnico, o equipamento oferece uma solução robusta e escalável de armazenamento em rede (NAS), com 8 baias
+   SATA, capacidade de expansão de até 160TB, suporte a hot swap, 4 portas LAN e 4 portas USB 3.0, permitindo integração com múltiplos dispositivos e
+   estações de trabalho. Sua arquitetura compacta e eficiente possibilita o gerenciamento centralizado de arquivos, backups automatizados e suporte a ambientes
+   de virtualização, sendo ideal para instituições de ensino que trabalham com grandes volumes de dados multimídia e projetos colaborativos.
+                   1.10.2. No contexto dos cursos de Produção Cultural e Design, o servidor será utilizado para armazenar e compartilhar com segurança arquivos
+   de vídeo, áudio, imagens em alta resolução, projetos gráficos e materiais de edição, garantindo acesso rápido e simultâneo por professores e estudantes. A
+   capacidade de operar como estação de vigilância também permite o uso em projetos de audiovisual e monitoramento de ambientes de produção.
+
+        Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 13
+
+                  1.10.3 Já para os cursos de Tecnologia da Informação, o equipamento será fundamental para atividades práticas de administração de sistemas,
+    redes, segurança da informação, virtualização e desenvolvimento de soluções em nuvem. O Synology DS1821+ oferece suporte a múltiplos serviços de rede,
+   gerenciamento de permissões, logs de acesso e integração com sistemas operacionais diversos, proporcionando um ambiente realista e seguro para o
+   aprendizado técnico.
+                  1.10.4 Além disso, o sistema operacional Synology DSM (DiskStation Manager) oferece uma interface intuitiva e recursos avançados de
+   gerenciamento, como backup centralizado, sincronização entre dispositivos, compartilhamento seguro de arquivos, controle de versões e recuperação de
+   dados, promovendo a autonomia dos usuários e a eficiência na gestão de conteúdos educacionais.
+                  1.10.5 Portanto, trata-se de uma solução de infraestrutura tecnológica indispensável para garantir a continuidade, segurança e qualidade das
+    atividades pedagógicas e técnicas nos cursos mencionados, com excelente relação custo-benefício e alta durabilidade.
+
+
+                2. LOCAL DE ENTREGA
+
+                            SENAC-DF SEDE - CENTRO ADMINISTRATIVO JOSÉ ROBERTO TADROS
+
+                                             SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL –
+                      RAZÃO SOCIAL
+                                             ADMINISTRAÇÃO REGIONAL DO DF – SENAC-DF
+
+                             CNPJ                                   03.296.968/0001-03
+
+                             INSC. ESTADUAL                             07.401.119/001-27
+
+                                            SETOR DE GRANDES ÁREAS NORTE, QUADRA 712/912,
+                        ENDEREÇO
+                                               CONJUNTO E, BRASÍLIA-DF CEP 70.790-125
+
+                         DIAS E HORÁRIOS
+                                            SEGUNDA A SEXTA – HORÁRIO COMERCIAL
+                        DE ENTREGA
+
+
+                3. PRAZOS DE ENTREGA E RECEBIMENTO
+                3.1. O prazo de entrega dos bens é de 15 (quinze) dias úteis, podendo ser prorrogado por igual período, contados do recebimento do Pedido, nos
+endereços previstos no item anterior.
+                3.2. Os bens serão recebidos provisoriamente no prazo de dias 03 (três) dias úteis, pelo(a) responsável pelo acompanhamento e fiscalização do
+contrato, para efeito de posterior verificação de sua conformidade com as especificações constantes neste Termo de Referência e na proposta.
+                3.3. Os bens poderão ser rejeitados, no todo ou em parte, quando em desacordo com as especificações constantes neste Termo de Referência e na
+proposta, devendo ser substituídos no prazo estabelecido, a contar da notificação da contratada, às suas custas, sem prejuízo da aplicação das penalidades.
+                3.4. Os bens serão recebidos definitivamente no prazo de 03 (três) dias úteis, contados do recebimento provisório, após a verificação da qualidade
+e quantidade do material e consequente aceitação mediante termo circunstanciado.
+                3.5. O recebimento provisório ou definitivo do objeto não exclui a responsabilidade da contratada pelos prejuízos resultantes da incorreta entrega
+ou prestação da avença.
+
+
+                4. GARANTIA E ASSISTÊNCIA TÉCNICA DO OBJETO
+                4.1. Os bens de uso permanente fornecidos deverão possuir garantia mínima de 12 (doze) meses, contados a partir do primeiro dia útil subsequente
+ao recebimento definitivo, sem prejuízo das garantias legais previstas na legislação aplicável, especialmente o Código de Defesa do Consumidor (Lei nº
+8.078/1990).
+                4.1.1. Nos casos de itens cuja natureza não comporte a aplicação da garantia mínima de 12 (doze) meses, poderá ser admitido prazo inferior, desde
+que previamente indicado no edital ou na proposta vencedora, respeitado, no mínimo, o prazo legal ou o ofertado pelo fabricante.
+                4.2. Os bens de uso comum e utensílios terão garantia mínima de 90 (noventa) dias ou superior.
+                4.2. Caso o fabricante ou fornecedor ofereça garantia superior à mínima exigida, prevalecerá o prazo mais vantajoso para a CONTRATANTE,
+sendo vedada qualquer limitação contratual que implique redução ou restrição do direito à garantia.
+                4.3. Durante o período de garantia, a CONTRATADA obriga-se a:
+                    I. Prestar, sem ônus adicionais, toda a assistência técnica necessária para o pleno funcionamento dos bens entregues, compreendendo o reparo ou
+substituição integral de peças, componentes ou do próprio equipamento, sempre que se constatar vícios, defeitos de fabricação ou mau funcionamento, exceto nos
+casos de uso indevido pela CONTRATANTE;
+                   II. Realizar os atendimentos no prazo máximo de 02 (dois) dias úteis após comunicação formal da CONTRATANTE, iniciando as providências de
+reparo ou substituição de forma imediata;
+                   III. Substituir por item novo e de mesmo padrão técnico e funcional qualquer bem que, após tentativa de reparo, permaneça em condição
+inadequada de uso;
+              IV. Arcar com todos os custos decorrentes da garantia, incluindo transporte, mão de obra, peças e demais encargos;
+            V. Utilizar peças novas, originais e compatíveis, com desempenho igual ou superior ao do bem original.
+                4.4. O não cumprimento das obrigações previstas nesta cláusula sujeitará a CONTRATADA às penalidades contratuais cabíveis, podendo a
+CONTRATANTE realizar os reparos por terceiros e cobrar os custos da CONTRATADA.
+                4.5. O prazo de garantia contratual possui vigência própria e independente da vigência contratual ou do instrumento substituto, sendo contada a
+partir do recebimento definitivo.
+                4.6. A CONTRATANTE poderá exigir, a qualquer tempo, a comprovação das condições de garantia ofertadas, inclusive termos do fabricante e
+registros de atendimento
+
+
+                5. GESTÃO E FISCALIZAÇÃO
+                5.1. Os gestores e os fiscais promoverão todas as ações necessárias ao seu fiel cumprimento, anotando em registro o que for relevante sobre o
+objeto celebrado.
+                5.2. Qualquer exigência da gestão e/ou fiscalização contratual, inerente ao objeto do instrumento, deverão ser prontamente atendidas.
+                5.3. A gestão e fiscalização para acompanhamento da execução do Contrato será desempenhada a qualquer tempo, tendo o cumprimento de seu
+objeto atestado previamente pelo gestor ou fiscal diante de qualquer desembolso do Senac-DF.
+                5.4. A gestão e fiscalização será exercida no interesse das partes e não exclui nem reduz a responsabilidade da contratada, inclusive perante
+terceiros, por qualquer irregularidade e, na sua ocorrência, não implica corresponsabilidade das partes ou de seus agentes e prepostos.
+
+
+                6. OBRIGAÇÕES DA CONTRATADA
+                6.1. São obrigações da CONTRATADA, além das previstas nos demais anexos:
+                         I. Efetuar a entrega dos bens em perfeitas condições, rigorosamente conforme as especificações técnicas constantes deste Termo de Referência,
+   no prazo e local indicados, acompanhados da nota fiscal com a devida identificação de marca, modelo, fabricante, procedência e prazo de garantia;
+
+        Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 14
+
+                        II. Responder integralmente pelos vícios, defeitos ou falhas nos bens entregues, promovendo sua substituição ou correção, às suas expensas,
+   sempre que verificada desconformidade com as exigências técnicas ou defeito de fabricação, ainda que oculto;
+                        III. Cumprir os prazos estabelecidos neste Termo de Referência, comunicando por escrito, com antecedência mínima de 24 (vinte e quatro)
+    horas, qualquer fato superveniente que possa comprometer o cumprimento da entrega;
+                   IV. Manter, durante toda a execução contratual, as condições de habilitação e qualificação exigidas, devendo comunicar imediatamente à
+  CONTRATANTE a superveniência de qualquer fato que as comprometa;
+                  V. Responder pelos danos causados direta ou indiretamente à CONTRATANTE ou a terceiros, por culpa ou dolo, em decorrência da execução
+    contratual;
+                 VI. Respeitar as normas de segurança, controle de acesso e circulação nas dependências da CONTRATANTE, sempre que necessário ao
+   cumprimento das obrigações contratuais;
+                  VII. Garantir o cumprimento das condições de garantia dos bens fornecidos, nos prazos previstos na legislação ou nos termos ofertados,
+    inclusive com substituição de peças ou do bem defeituoso, sem qualquer ônus à CONTRATANTE.
+
+
+                7. OBRIGAÇÕES DA CONTRATANTE
+                7.1. São obrigações do CONTRATANTE, além das previstas nos demais anexos:
+                         I. Receber os bens nas condições e prazos estabelecidos neste Termo de Referência, promovendo a conferência de suas especificações para fins
+   de recebimento provisório e definitivo;
+                        II. Informar à CONTRATADA, de forma clara e tempestiva, qualquer desconformidade verificada na entrega, solicitando a substituição ou
+    regularização dos bens no prazo definido;
+                        III. Designar os responsáveis pela fiscalização e gestão do contrato, incumbidos de acompanhar o recebimento e atestar o cumprimento das
+   obrigações;
+                 IV. Fornecer as informações e os esclarecimentos necessários à execução da entrega dos bens, sempre que solicitado pela CONTRATADA;
+                  V. Efetuar os pagamentos devidos no prazo e condições estabelecidos neste Termo de Referência, condicionados ao recebimento definitivo e à
+   apresentação da documentação fiscal correspondente;
+                 VI. Abster-se de praticar qualquer ato que implique ingerência na organização interna da CONTRATADA, inclusive quanto à escolha de
+   pessoal ou métodos de logística empregados para cumprimento do objeto.
+
+
+                8. SUSTENTABILIDADE AMBIENTAL
+                8.1. A contratada deverá atender os critérios de sustentabilidade e observar as regras ambientais para atividades potencialmente poluidoras
+previstas na legislação pertinente.
+                8.2. A contratada se compromete a destinar todos os resíduos de forma ambientalmente correta, sempre priorizando materiais que sejam menos
+agressivos ao meio ambiente e possibilitem reutilização futura, bem como deverá dar ênfase nos princípios da redução, reutilização e reciclagem, bem como
+buscar atender às seguintes diretrizes:
+                    8.2.1. Estímulo à adoção de padrões sustentáveis de produção e utilização;
+                    8.2.2. Adoção, desenvolvimento e aprimoramento de tecnologias limpas como forma de minimizar impactos ambientais;
+                    8.2.3. Incentivo à indústria da reciclagem, tendo em vista fomentar o uso de matérias-primas e insumos derivados de materiais recicláveis e
+    reciclados;
+                    8.2.4. Menor impacto sobre recursos naturais como flora, fauna, ar, solo e água;
+                    8.2.5. Preferência para materiais, tecnologias e matérias-primas de origem local;
+                    8.2.6. Maior eficiência na utilização de recursos naturais como água e energia;
+                    8.2.7. Maior geração de emprego e renda, preferencialmente com mão de obra local;
+                    8.2.8. Redução de desigualdades sociais, ações de equidade de gênero, raça e etnia, inclusão social e diversidade;
+                    8.2.9. Boas práticas de governança, ambiental, social e trabalhista;
+                   8.2.10. Maior vida útil e menor custo de manutenção do bem; e
+                   8.2.11. Fomentar a busca pela origem sustentável dos recursos naturais utilizados nos bens e serviços contratados.
+
+
+                9. DO PAGAMENTO
+                9.1. O pagamento será efetuado no prazo de até 30 (trinta) dias do recebimento definitivo do objeto e apresentação da documentação exigida,
+conforme especificações do objeto licitado e aceite do responsável pelo recebimento.
+                9.2. Fica expressamente estabelecido que no valor acima estão incluídas todas as despesas ordinárias diretas e indiretas decorrentes da execução do
+objeto, inclusive tributos e/ou impostos, encargos sociais, trabalhistas, previdenciários, fiscais e comerciais incidentes, taxa de administração, frete, seguro e
+outros necessários ao cumprimento integral do objeto da contratação.
+
+
+              10. SANÇÕES
+               10.1. Comete infração o licitante/contratado que cometer as seguintes condutas, além das demais previstas neste documento ou no contrato:
+                     a. Recusa injustificada em assinar o contrato ou receber o instrumento equivalente, quando convocado dentro do prazo de validade da proposta
+   ou da ata de registro de preços;
+                    b. Não assinar a ata de registro de preços, quando cabível;
+                     c. Apresentar documentação falsa;
+                    d. Deixar de entregar os documentos exigidos;
+                     e. Ensejar o retardamento da execução ou entrega do objeto;
+                         f. Deixar de entregar a amostra ou de realizar a prova de conceito no prazo estabelecido, quando exigido;
+                    g. Não mantiver a proposta;
+                    h. Praticar atos ilícitos com vistas a frustrar os objetivos da licitação;
+                            i. Fraudar a licitação ou praticar ato fraudulento na execução do contrato;
+                            j. Comportar-se de modo inidôneo ou cometer fraude de qualquer natureza.
+                   10.1.1. As hipóteses previstas nas alíneas c, h, i e j ensejarão impedimento do direito de licitar e terão abrangência nacional, aplicado pelo
+   Departamento Nacional do Senac, por prazo mínimo de 4 (quatro) e máximo de 6 (seis) anos.
+               10.2. No caso das condutas acima, quando operada a inexecução total ou parcial, ou qualquer outra inadimplência prevista, a contratada estará
+sujeita, sem prejuízo da responsabilidade civil e criminal, às seguintes sanções:
+
+        Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 15
+
+                                 I. Advertência;
+                               II. Multa:
+                                   a. Até 5% (cinco por cento) do valor orçado, na hipótese das condutas descritas nas alíneas c, d, f, g, h ou i do subitem anterior;
+                                b. 10% (dez por cento), sobre o valor da compra/serviço, e cancelamento do Contrato ou da Ata de Registro de Preços, quando
+               decorridos 05 (cinco) dias de inadimplemento e caracterizada a recusa ou impossibilidade da CONTRATADA em entregar o objeto ou prestar os
+                serviços;
+                                   c. 5% (cinco por cento), sobre o valor da compra/serviço, quando a contratada recusar assinar o instrumento de contrato, ata de registro
+             de preços ou recebimento do instrumento equivalente;
+                                d. Moratória de 0,3% (zero vírgula três por cento) do valor estimado do objeto ao dia, limitado a quinze dias corridos, em caso de atraso
+             na entrega. Após o décimo quinto dia de atraso injustificado e a critério da Administração do Senac-DF, poderá ocorrer a não-aceitação do objeto, de
+             forma a configurar, nessa hipótese, inexecução total da obrigação assumida, sem prejuízo da rescisão unilateral da avença;
+                                   e. 5% (cinco por cento), sobre o valor contratado, em caso de atraso na entrega do objeto por período superior ao previsto na alínea
+                 anterior, ou de inexecução parcial da obrigação assumida, somado à moratória;
+                                          f. Compensatória de 5% (cinco por cento) sobre o valor contratado, em caso de inexecução total da obrigação assumida;
+                                g. No caso de inexecução parcial, a multa compensatória, no mesmo percentual da alínea acima, será aplicada de forma proporcional à
+              obrigação inadimplida;
+                               III. Suspensão do direito de participar de licitações com o Senac pelo prazo por até 05 (cinco) anos;
+                         IV. Perda do direito à contratação e perda da caução em dinheiro ou execução das demais garantias de propostas oferecidas, sem prejuízo de
+         outras penalidades previstas, no caso da conduta prevista no art. 39 do Regulamento de Licitações e Contratos do Senac, aprovado pela Resolução Senac nº
+        1.270/2024.
+                    10.3. As sanções previstas nos incisos I, III e IV do subitem anterior poderão ser aplicadas em conjunto com as de multa, descontando-a dos
+     pagamentos a serem efetuados.
+                    10.4. O valor da multa poderá ser realizado por pagamento espontâneo, descontado de eventuais pagamentos devidos pelo Senac-DF, deduzidos da
+      garantia prestada ou mediante cobrança judicial.
+                    18.5. Caso o valor da multa não seja suficiente para cobrir os prejuízos causados pela conduta, será possível a cobrança do valor remanescente
+     judicialmente, conforme artigo 419 do Código Civil.
+                    18.6. O inadimplemento total ou parcial das obrigações contratuais assumidas, dará ao Senac-DF o direito de rescindir unilateralmente o contrato
+    ou documento equivalente, sem prejuízo de outras penalidades, inclusive a suspensão do direito de licitar ou contratar com o Senac por prazo não superior a 3
+      (três) anos.
+                    10.7. A penalidade de suspensão do direito de licitar ou contratar se aplica à todas administrações regionais e nacional do Senac.
+                    10.8. A aplicação de qualquer das penalidades previstas realizar-se-á em processo que garanta o contraditório e a ampla defesa.
+                        10.8.1. A autoridade competente, na aplicação das sanções, levará em consideração a gravidade da conduta do infrator, o caráter educativo da
+         sanção, bem como o dano causado ao Senac-DF, observado o princípio da proporcionalidade.
+                    10.9. É vedada a participação de empresas suspensas de licitar com o Senac ou declaradas inidôneas pelo Tribunal de Contas da União.
+
+
+                ____________________________________________________________________________________________________________________________
+
+
+                        ANEXO II - MINUTA DA ATA DE REGISTRO DE PREÇOS
+
+
+
+            GERENCIADOR: SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL – ADMINISTRAÇÃO REGIONAL DO DF, SENAC
+    AR/DF, CNPJ nº 03.296.968/0001-03, com sede no Centro Administrativo José Roberto Tadros, ST SGAN QD 712/912, Conjunto E, S/N, Asa Norte,
+     Brasília/DF, CEP 70.790-125, telefone (61) 3771-9878, representado pelo ....
+
+
+            FORNECEDOR: ................., com sede na  ........, inscrita no CPF/CNPJ nº............, telefone, e-mail, neste ato representada pelo Sr. (a)  .........,
+   XXXXX.
+
+
+                 Valor total:
+
+
+               As partes acima identificadas firmam a presente Ata de Registro de Preços, cujo objeto, condições, exigências e demais disposições obedecem
+     integralmente ao estabelecido no Edital e anexos do Pregão Eletrônico nº 90044/2025, regendo-se pelas seguintes cláusulas e condições:
+
+
+                      1. OBJETO
+                    1.1 - Registro de preço para a eventual aquisição de xxxxxx.
+
+                                                                                                 PREÇO (R$)
+ITEM                               ESPECIFICAÇÃO                           MARCA     QUANT.
+                                                                                                                       UNIT.     TOTAL
+
+
+
+
+
+                      2. DA VIGÊNCIA
+                   2.1 O prazo de vigência da Ata de Registro de Preço será de 12 (doze) meses, contados a partir da data da última assinatura eletrônica/digital,
+     podendo ser prorrogada até o limite máximo de 36 (trinta e seis) meses, desde que pesquisa de mercado demonstre que o preço registrado atualizado se mantém
+     vantajoso a cada prorrogação.
+                    2.2 A prorrogação da Ata restabelece os termos e condições iniciais da Ata, inclusive quantitativos.
+                    2.3 Durante o prazo de validade desta Ata de Registro de Preços, o Senac AR/DF não estará obrigado a adquirir os materiais exclusivamente pelo
+     Sistema de Registro de Preços, podendo fazê-lo por meio de outra licitação quando julgar conveniente, sem que caiba recurso ou indenização de qualquer espécie
+     ao fornecedor, sendo, entretanto, assegurada ao beneficiário do registro, a preferência de fornecimento em igualdade de condições.
+
+            Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 16
+
+             2.4 A partir da assinatura da Ata de Registro de Preços, o fornecedor assume o compromisso de atender durante o prazo de sua vigência, os
+pedidos realizados e se obriga a cumprir, na íntegra, todas as condições estabelecidas, ficando sujeito, inclusive, às penalidades legalmente cabíveis pelo
+descumprimento de quaisquer de suas cláusulas.
+              2.5 A vigência da Ata não se confunde com a vigência dos contratos que dela decorram, os quais serão firmados conforme a demanda e nos limites
+da vigência desta Ata.
+              2.6 A contratação decorrente desta Ata poderá ser formalizada via contrato ou instrumento substituto (pedido, ordem etc.).
+             2.7 O contrato ou instrumento equivalente decorrente da ata de registro de preços terá sua vigência estabelecida em conformidade com as
+disposições nela contidas.
+
+
+                3. DO REAJUSTE E REEQUILÍBRIO ECONÔMICO-FINANCEIRO
+              3.1 Os valores contratados poderão ser reajustados pelo índice INPC ou, em caso de sua extinção, por índice que o substitua, após o interregno
+mínimo de um ano da data-limite para apresentação das propostas.
+             3.2 O preço registrado poderá ser revisto em face de eventual redução daqueles praticados no mercado, ou de fato que eleve o custo dos bens
+registrados.
+            3.3 Quando o preço inicialmente registrado, por motivo superveniente, tornar-se superior ao preço praticado no mercado, o Senac AR/DF
+convocará o fornecedor visando à negociação para redução de preços e sua adequação ao praticado pelo mercado.
+              3.4 Frustrada a negociação, o fornecedor será liberado do compromisso assumido, podendo nesta hipótese o Senac AR/DF convocar os demais
+fornecedores, visando igual oportunidade de negociação.
+              3.5 Quando o preço de mercado se tornar superior ao preço registrado e o fornecedor, mediante requerimento devidamente comprovado, não puder
+cumprir o compromisso, o Senac AR/DF poderá:
+                    I. Liberar o fornecedor do compromisso assumido, sem aplicação de penalidade, confirmando a veracidade dos motivos e comprovantes
+apresentados, se a comunicação ocorrer antes do pedido de fornecimento;
+                   II. Convocar os demais fornecedores visando igual oportunidade de negociação. Não havendo êxito nas negociações, o Senac AR/DF procederá à
+revogação da Ata de Registro de Preços, adotando as medidas cabíveis para obtenção da contratação mais vantajosa.
+             3.6 O reequilíbrio econômico-financeiro poderá ser requerido quando ocorrer fato superveniente, imprevisível ou previsível de consequências
+incalculáveis, que altere substancialmente as condições originalmente pactuadas, desde que comprovado o impacto efetivo nos custos vinculados ao objeto
+registrado.
+               3.6.1 O pedido deverá ser formalizado com a devida justificativa e documentação comprobatória, cabendo ao Senac-DF analisar o pleito, podendo
+requisitar diligências ou complementação das informações antes da decisão.
+
+
+                4. CONDIÇÕES DE RECEBIMENTO
+              4.1 Os materiais deverão ser entregues na totalidade do pedido, rigorosamente dentro das condições previstas no instrumento convocatório, com a
+marca registrada nesta Ata de Registro de Preços e na proposta.
+             4.2 As entregas dar-se-ão nos locais, horários e prazos especificados no instrumento convocatório, mediante a apresentação da respectiva Nota
+Fiscal e do Pedido de Compra.
+             4.3 Caso o Senac AR/DF constate a existência de quaisquer irregularidades no que tange às especificações dos produtos, poderá recusar sua
+aceitação quando da respectiva entrega e efetuar sua devolução ao fornecedor para que este os substitua sem quaisquer ônus.
+
+
+                5. CONDIÇÕES DE PAGAMENTO
+              5.1 O pagamento será efetuado no prazo previsto no Edital.
+              5.2 O pagamento será efetuado por intermédio de boleto ou ordem bancária, na conta corrente do FORNECEDOR, após o recebimento definitivo
+dos materiais.
+
+
+                6. OBRIGAÇÕES DO GERENCIADOR
+              6.1 Além das previstas no instrumento convocatório, são obrigações do Senac AR/DF:
+               6.1.1 Disponibilizar funcionário (s) ou comissão responsável pelo recebimento dos materiais no local de entrega.
+              6.1.2 Encaminhar o pedido de fornecimento por meio de documento próprio onde constará os materiais e a quantidade a ser fornecida pelo
+fornecedor.
+               6.1.3 Receber o objeto no prazo e condições estabelecidas no Edital e seus anexos;
+               6.1.4 Conferir todos os produtos no ato do recebimento;
+             6.1.5 Comunicar ao Fornecedor, por escrito, sobre imperfeições, falhas ou irregularidades verificadas no objeto fornecido, para que seja
+substituído, reparado ou corrigido;
+               6.1.6 Permitir acesso de funcionários do fornecedor aos locais de entrega dos produtos;
+               6.1.7 Acompanhar e fiscalizar o cumprimento das obrigações do Fornecedor, através de comissão/empregado especialmente designado;
+              6.1.8 Efetuar o pagamento ao Fornecedor no valor correspondente ao fornecimento do objeto, no prazo e forma estabelecidos no Edital e seus
+anexos; e
+              6.1.9 O Gerenciador não será, em nenhuma hipótese, responsável solidário por quaisquer obrigações da contratada perante terceiros, inclusive de
+natureza trabalhista, previdenciária, tributária ou ambiental.
+              6.2 O Senac AR/DF não responderá por quaisquer compromissos assumidos pelo Fornecedor com terceiros, ainda que vinculados à execução da
+presente Ata de Registro de Preços, bem como por qualquer dano causado a terceiros em decorrência de ato do Fornecedor, de seus empregados, prepostos ou
+subordinados.
+
+
+                7. OBRIGAÇÕES DO FORNECEDOR
+              7.1 Além das obrigações previstas no instrumento convocatório, são obrigações do Fornecedor:
+               7.1.1 Entregar em sua totalidade a quantidade dos produtos solicitados no Pedido de Compra, de acordo com a necessidade do Senac AR/DF, bem
+como a Nota Fiscal, na data e horários indicados na solicitação.
+               7.1.2 Responsabilizar-se pelos prejuízos financeiros decorrentes da não entrega dos produtos solicitados.
+              7.1.3 Manter os preços dos produtos durante a vigência da presente Ata, conforme proposta de preços apresentada, parte integrante do processo
+licitatório.
+               7.1.4 Os impostos, taxas e fretes e outras despesas oriundas do fornecimento, correrão por conta do fornecedor.
+               7.1.5 Efetuar a entrega do objeto em perfeitas condições, conforme especificações, prazo e local constantes no Edital e seus anexos, acompanhado
+
+        Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 17
+
+da respectiva nota fiscal, na qual constarão as indicações referentes a marca, fabricante, modelo, procedência e prazo de garantia ou validade;
+               7.1.6 Responsabilizar-se pelos vícios e danos decorrentes do objeto, devendo substituir, reparar ou corrigir, às suas expensas, o objeto com avarias
+ou defeitos;
+               7.1.7 Comunicar ao Senac AR/DF, no prazo mínimo de 24 (vinte e quatro) horas que antecede a data da entrega, os motivos que impossibilitem o
+cumprimento do prazo previsto, com a devida comprovação;
+               7.1.8 O não cumprimento do prazo de entrega que gerar prejuízos ao Senac AR/DF poderá acarretar responsabilidade do Fornecedor;
+               7.1.9 Responsabilizar-se pela quantidade de materiais a ser fornecido ao Senac AR/DF;
+              7.1.10 Manter, durante toda a execução da Ata de Registro de Preços, em compatibilidade com as obrigações assumidas, todas as condições de
+habilitação e qualificação exigidas na licitação;
+              7.1.11 Indicar preposto para representá-la durante a vigência da Ata de Registro de Preço;
+             7.1.12 Contribuir para a promoção do desenvolvimento nacional sustentável no cumprimento de diretrizes e critérios de sustentabilidade
+ambiental, de acordo com o art. 225 da Constituição Federal/88.
+              7.1.13 A responsabilidade pela entrega do objeto inclui o atendimento integral à legislação fiscal, ambiental, trabalhista e de proteção de dados,
+bem como às normas sanitárias e técnicas aplicáveis ao objeto.
+
+
+                8. DOS CASOS OMISSOS
+              8.1 Os casos omissos serão decididos pelo GERENCIADOR, segundo as disposições contidas no Regulamento do Senac e nos princípios gerais de
+licitações e contratos.
+
+
+                9. SANÇÕES
+              9.1 As sanções são as previstas no Termo de Referência.
+
+
+              10. ADESÃO À ATA DE REGISTRO DE PREÇOS
+              10.1 A ata de registro de preços poderá ser objeto de adesão por outro departamento do Senac ou por outros serviços sociais autônomos, desde que
+vigente e mediante prévia consulta ao Senac AR/DF, para que este indique os possíveis fornecedores e respectivos preços a serem praticados, obedecidas a ordem
+de classificação.
+             10.2 Caberá ao fornecedor beneficiário da Ata de Registro de Preços, observadas as condições nela estabelecidas, optar pela aceitação ou não do
+fornecimento, independentemente dos quantitativos registrados na Ata, desde que este fornecimento não prejudique as obrigações assumidas com o Senac-
+AR/DF.
+            10.3As contratações de cada entidade aderente não poderão exceder, individualmente, a 100% (cem por cento) dos quantitativos dos itens
+registrados.
+
+
+              11. DAS ALTERAÇÕES E ACRÉSCIMOS
+              11.1 Eventuais alterações reger-se-ão pela Resolução Senac n° 1.270/2024.
+              11.2 A ata de registro de preços poderá ser acrescida em até 50% de seus quantitativos inicialmente registrados, mediante acordo entre as partes,
+justificativa e termo aditivo.
+              11.3 Registros que não caracterizam alteração da Ata podem ser realizados por simples apostila, dispensada a celebração de termo aditivo.
+
+
+              12. SIGILO E CONFIDENCIALIDADE
+              12.1 A CONTRATADA deverá, por si e seus empregados, fornecedores, recrutados, representantes, profissionais, prepostos e/ou terceiros
+contratados, manter absoluto sigilo e confidencialidade quanto a todas as informações obtidas no desempenho de suas atividades ou em decorrência do seu
+relacionamento com a CONTRATANTE, não podendo divulgá-las, de forma direta ou indireta, a terceiro, a nenhum título, mesmo após o término ou rescisão do
+contrato.
+              12.2 Compreende-se por informações sigilosas e confidenciais, aquelas que não podem ser reproduzidas, armazenadas ou divulgadas pela
+CONTRATADA sob nenhuma forma ou pretexto, qualquer informação classificada como de natureza confidencial que seja ou venha a ser obtida, revelada ou
+relacionada com as PARTES ou com o objeto do contrato, assim como as informações e dados por elas desenvolvidos, individualmente ou em conjunto, sejam de
+natureza técnica, comercial, jurídica ou financeira, ou ainda de qualquer outra natureza.
+              12.3 Também são consideradas informações sigilosas e confidenciais para os fins deste contrato todas e quaisquer informações, sem exceção, que
+a CONTRATADA obtiver ou a que tiver acesso em relação aos clientes da CONTRATANTE, sejam elas atuais, potenciais ou em prospecção.
+              12.4 Neste sentido, a CONTRATADA concorda em manter sigilo sobre todas as informações de que venha a tomar conhecimento ou que, de outra
+forma, possa vir a utilizar durante toda a vigência desta relação comercial, ou que possam constar dos diversos tipos de materiais ou de documentos que tenham
+sido obtidos antes, durante ou mesmo depois de prestados os serviços, por um período de 03 (três) anos.
+              12.5 A CONTRATADA obriga-se a restituir todos os materiais que estiverem em seu poder, sem nenhuma exceção, incluindo resumos, cópias de
+documentos, arquivos eletrônicos ou qualquer outro que lhe tenha sido entregue e contenha ou não outra forma que possa conter informações consideradas
+sigilosas e confidenciais, mediante solicitação da CONTRATANTE, ou no término deste contrato.
+              12.6 Qualquer violação da presente cláusula sujeitará a CONTRATADA às cominações cíveis e penais aplicáveis ao caso, inclusive às constantes
+dos artigos 153 e 154 do Código Penal e artigo 195 da Lei 9.279/96, bem como a imediata rescisão deste Contrato.
+
+
+              13. DA SEGURANÇA DA INFORMAÇÃO – PROTEÇÃO DE DADOS
+              13.1 O presente contrato obedecerá a Lei Geral de Proteção de Dados Pessoais – LGPD (Lei 13.709/2018), que dispõe sobre o tratamento de dados
+pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos
+fundamentais de liberdade e de privacidade e o livre desenvolvimento de personalidade de pessoa natural.
+              13.2 A CONTRATADA se compromete a manter e observar nos trabalhos que desenvolver recrutamento e seleção, trabalho temporário e
+terceirização de serviços então contratadas, devendo agir segundo os procedimentos previamente acordados entre as PARTES, com autonomia profissional, por
+sua conta e risco, e de forma compatível com os objetivos da seleção a desenvolver
+              13.3 Nos casos em que a disponibilização de informações adicionais acarrete a identificação pessoal do respondente de forma direta ou indireta,
+através da utilização de meios técnicos razoáveis e disponíveis no momento do tratamento, por meio do qual o dado adquira a possibilidade de associação a um
+indivíduo de forma direta ou indireta, a CONTRATANTE será responsável pelo tratamento adequado do dado, nos termos da LGPD, pelo qual se compromete a
+cumprir todas as obrigações concernentes ao Controlador de dados e a garantir os direitos dos titulares previstos nas Leis 13. 709/2018 (“LGPD”), Lei n°
+12.965/2014 (“Marco Civil da Internet) e 12.737/2012 (“Lei Carolina Dieckmann), atendendo simultaneamente as diretrizes estabelecidas no Código de Conduta
+da ABEP/ICC/ESOMAR.
+              13.4 As partes comprometem-se a coletar, processar e realizar o devido tratamento de todas as informações pessoais mediante o fornecimento de
+consentimento pelo titular e de acordo com as orientações elencadas no contrato.
+              13.5 Se o titular dos dados, autoridade de proteção de dados, ou terceiros solicitarem informações para a CONTRATADA relativas ao tratamento
+
+        Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 18
+
+de Dados Pessoais, a CONTRATADA na qualidade de Operador encaminhará esse pedido à apreciação da CONTRATANTE na qualidade de Controladora para
+que cumpra com as suas obrigações em tempo hábil definido na legislação pertinente.
+              13.6 A contratada compromete-se a comunicar ao Senac AR/DF a ocorrência de qualquer violação de segurança que tenha consequências diretas
+ou indiretas no tratamento, bem como qualquer reclamação que possa ser endereçada a ele por qualquer indivíduo interessado no tratamento realizado sob o
+Contrato. Essa comunicação deve ser feita o mais rápido possível e, no máximo, 48 horas após a descoberta da violação de segurança ou após o recebimento de
+uma reclamação;
+              13.7 Caso ocorra uma violação de Dados Pessoais pela CONTRATANTE, ou em decorrência de suas ações ou omissões, a CONTRATANTE será
+responsável por quaisquer multas impostas por autoridades de proteção de dados, como multa ao Controlador ou ao Operador por violarem LGPD.
+              13.7.1 A PARTE responsável pela violação responderá às suas afiliadas, e seus respectivos diretores, conselheiros, empregados, prepostos, clientes
+e representantes contra qualquer responsabilidade, dano, prejuízo, custo e despesas, incluindo, mas não se limitando os devidos honorários advocatícios, as
+multas, penalidades ou custos investigativos relativos a demandas contra a PARTE inocente que surgirem em razão do não cumprimento por parte da PARTE
+culpada, conforme a legislação em vigor.
+              13.8 A contratada se compromete a cooperar com o Senac AR/DF encaminhando relatório técnico no qual deverá conter o procedimento adotado
+por aquela para se adequar à Lei Geral de Proteção de Dados.
+              13.9 A contratada deverá informar como é feita a coleta dos dados, o tratamento adotado e seu o armazenamento, além de apresentar a sua política
+de privacidade, conforme rol taxativo do Capítulo II, artigo 7º, da referida Lei.
+            13.10 Para  fins interpretativos desta cláusula, "Controlador", "Operador", "Titular dos dados", "Dados Pessoais", "Tratamento" terão os
+significados definidos na Lei 13. 709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD).
+             13.11 A Parte violadora indenizará e isentará a outra Parte de qualquer reclamação, perdas, danos direto ou indireto, taxas, custos e despesas
+decorrentes ou relacionados a qualquer violação desta cláusula.
+
+
+              14. DA GESTÃO E FISCALIZAÇÃO
+              14.1 Os gestores e os fiscais promoverão todas as ações necessárias ao seu fiel cumprimento, anotando em registro o que for relevante sobre o
+objeto celebrado.
+              14.2 Qualquer exigência da gestão e/ou fiscalização contratual, inerente ao objeto do instrumento, deverão ser prontamente atendidas.
+              14.3 A gestão e fiscalização será desempenhada a qualquer tempo, tendo o cumprimento de seu objeto atestado previamente pelo gestor ou fiscal
+diante de qualquer desembolso do S Senac AR/DF.
+              14.4 A gestão e fiscalização será exercida no interesse das partes e não exclui nem reduz a responsabilidade das partes, inclusive perante terceiros,
+por qualquer irregularidade e, na sua ocorrência, não implica corresponsabilidade das partes ou de seus agentes e prepostos.
+              14.5 Os gestores e fiscais poderão ser substituídos durante a vigência, a critério da Gerência ou Diretoria de área, com registro no processo de
+contratação.
+
+
+              15. CANCELAMENTO DA ATA DE REGISTRO DE PREÇOS.
+              15.1 O FORNECEDOR terá seu registro cancelado quando:
+                    I. Descumprir as condições assumidas nesta Ata de Registro de Preços;
+                   II. Não entregar os materiais em sua totalidade no prazo estabelecido pelo Senac AR/DF, sem justificativa aceitável e devidamente formalizada;
+                   III. Não aceitar reduzir o preço registrado, na hipótese de este se tornar superior àqueles praticados no mercado;
+              IV. Quando, justificadamente, não for mais do interesse do Senac AR/DF.
+              15.2 O cancelamento de registro, nas hipóteses previstas, assegurados o contraditório e a ampla defesa, serão formalizados por despacho da
+autoridade competente do Senac AR/DF.
+              15.3 O fornecedor poderá solicitar o cancelamento do seu registro de preços na ocorrência de fato superveniente que venha a comprometer a
+perfeita execução contratual, decorrente de caso fortuito ou de força maior devidamente comprovado.
+              15.4 O registro de preços não importa em direito subjetivo à contratação de quem ofertou o preço registrado, sendo facultada a realização de
+contratações de terceiros sempre que houver preços mais vantajosos.
+            15.5O cancelamento não gera direito à indenização ou compensação por parte do Senac-DF, uma vez que o registro não assegura contratação.
+
+
+              16. COMPLIANCE E ANTICORRUPÇÃO
+              16.1 Em caso de irregularidades neste instrumento, favor entrar em contato com a ouvidoria por meio do Canal de Denúncias, disponível no link
+https://www.df.senac.br/canal-de-denuncia/, ou pelo telefone (61) 3771-9879, conforme Resolução Senac AR/DF 1.556/2024.
+              16.2 As partes se comprometem a cumprir as práticas de Compliance e cumprir as leis Anticorrupção aplicáveis, incluindo, mas não se limitando,
+à Lei nº 12.846/2013 (Lei Anticorrupção) e à Lei nº 9.613/1998 (Lei de Lavagem de Dinheiro), cujo compromisso deve abranger seus sócios, administradores e
+colaboradores, bem como exigir o seu cumprimento pelos terceiros por elas contratados, visando prevenir e combater a corrupção, promovendo a ética,
+transparência e a integridade em todas as operações realizadas.
+             16.3 As partes deverão manter até o final da vigência do contrato, ata ou instrumento equivalente conduta ética e máximo profissionalismo na
+execução do objeto pactuado.
+
+
+              17. DISPOSIÇÕES FINAIS
+              17.1 Para dirimir quaisquer controvérsias oriundas do presente instrumento, as partes elegem o foro da cidade de Brasília/DF, com exclusão de
+qualquer outro, por mais privilegiado que seja.
+              17.2 As Partes declaram e concordam que o presente instrumento, incluindo todas as páginas de assinatura e eventuais anexos, todas formadas por
+meio digital com o qual expressamente declaram concordar, representam a integralidade dos termos entre elas acordados, substituindo quaisquer outros acordos
+anteriores formalizados por qualquer outro meio, verbal ou escrito, físico ou digital, nos termos dos artigos 107, 219 e 220 do Código Civil.
+              17.3 Adicionalmente, nos termos do art. 10, § 2º, da Medida Provisória 2.200-2, as Partes expressamente concordam em utilizar e reconhecem
+como válida qualquer forma de comprovação de anuência aos termos ora acordados em formato eletrônico, ainda que não utilizem de certificado digital emitido
+no padrão ICP-Brasil, incluindo assinaturas eletrônicas na plataforma adotada pelo Senac AR/DF.
+              17.4 A formalização das avenças na maneira supra acordada será suficiente para a validade e integral vinculação das partes ao presente
+instrumento.
+
+
+         GERENCIADOR:
+
+
+
+                                                            Vitor de Abreu Corrêa
+                                                                      Diretor Regional
+
+        Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 19
+
+                                                                José Aparecido da Costa Freire
+                                                                      Presidente do Conselho Regional
+
+
+
+
+              FORNECEDOR:
+
+
+                                                 Nome do representante
+                                                                      Cargo/Procuração
+                                                                                     Licitante
+
+
+
+
+
+            Documento assinado eletronicamente por Mateus Ranieri Souza Leones, Coordenador, em 23/09/2025, às 21:12, conforme art. 1º, III, "b", da Lei 11.419/2006.
+
+
+
+
+         A autenticidade do documento pode ser conferida no site https://seisenac.df.senac.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0
+             informando o código verificador 0306232 e o código CRC 37808AA9.
+
+
+
+
+2025.000001688-10                                                                                                                                                                   0306232v6
+                                                                                                                                  Serviço Nacional de Aprendizagem Comercial
+                                                                                                              Departamento Regional do Distrito Federal
+                                                                                                 ST SGAN QD 712/912 Conjunto E S/N
+                                                                                                                             Centro Administrativo José Roberto Tadros, Brasília-DF * CEP 70790-125
+                                                                                                                            www.df.senac.br
+
+
+
+
+
+               Edital de Pregão Eletrônico nº 90044/2025 (0306232)     SEI 2025.000001688-10 / pg. 20
+

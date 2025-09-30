@@ -1,0 +1,1487 @@
+UASG 240129
+
+
+                  CENTRO DE TEC. DA INFORMAÇAO RENATO ARCHER
+
+                Estudo Técnico Preliminar 27/2025
+
+
+
+1. Informações Básicas
+
+Número do processo: 01241.000809/2025-28
+
+
+
+2. Descrição da necessidade
+
+Esta contratação visa à aquisição de equipamentos para modernização do auditório e para a criação de um estúdio de gravação e edição de vídeos no
+Centro de Tecnologia da Informação Renato Archer (CTI). A iniciativa tem como objetivo ampliar a capacidade institucional de comunicação, difusão
+do conhecimento e promoção das atividades de ciência, tecnologia e inovação desenvolvidas pelo Centro, por meio da incorporação de tecnologias
+audiovisuais atualizadas, garantindo qualidade, eficiência e alcance ampliado das ações institucionais.
+
+Com a contratação pretende-se alcançar:
+
+1. Modernização do auditório
+
+       Objetivo: Atualizar a infraestrutura do auditório do CTI Renato Archer com equipamentos modernos de som, imagem, iluminação e
+        transmissão.
+
+        Justificativa: A modernização permitirá a realização de eventos híbridos (presenciais e virtuais) com maior qualidade técnica, ampliando o
+        alcance das ações do Centro e melhorando a experiência dos participantes.
+
+       Importância estratégica: Garante maior visibilidade às atividades do CTI e fortalece a interação com diferentes públicos (interno, externo,
+       acadêmico, empresarial e governamental).
+
+2. Criação e estruturação do estúdio de gravação e edição de vídeos
+
+       Objetivo: Implantar um estúdio dedicado à produção audiovisual de conteúdos institucionais, técnicos e educacionais.
+
+        Justificativa: O estúdio será uma ferramenta fundamental para a geração de vídeos informativos, entrevistas, treinamentos e materiais de
+        divulgação científica, técnica e institucional.
+
+       Importância estratégica: Contribui diretamente para a missão do CTI de disseminar conhecimento, promovendo a popularização da ciência,
+        tecnologia e inovação desenvolvidas pela instituição.
+
+3. Aquisição de equipamentos de áudio, vídeo, iluminação e transmissão
+
+       Objetivo: Adquirir equipamentos atualizados e de padrão profissional para gravação, edição, projeção e transmissão audiovisual.
+
+        Justificativa: A tecnologia audiovisual atual exige equipamentos de alta performance para garantir qualidade na captação, edição e veiculação
+       dos conteúdos produzidos.
+
+       Importância estratégica: Eleva o padrão técnico da produção institucional, permitindo maior integração com canais digitais e mídias
+         tradicionais.
+
+4. Suporte à realização de eventos institucionais e do MCTI
+
+       Objetivo: Utilizar os recursos adquiridos para eventos científicos, técnicos, culturais e educacionais promovidos pelo CTI e pelo MCTI.
+
+        Justificativa: A infraestrutura modernizada permitirá a cobertura e a transmissão de eventos com qualidade profissional, reforçando a imagem
+         institucional e possibilitando o reaproveitamento do conteúdo gerado.
+
+       Importância estratégica: Garante suporte técnico adequado às atividades de divulgação e articulação institucional, ampliando o impacto das
+        ações desenvolvidas.
+
+
+
+
+                                                                                                                       1 de 22
+
+5. Desenvolvimento e distribuição de material informativo
+
+       Objetivo: Produzir materiais gráficos e audiovisuais sobre as atividades do CTI, com potencial de distribuição interna e externa.
+
+        Justificativa: A comunicação clara e acessível das ações institucionais é fundamental para aumentar a visibilidade e o engajamento do público
+      com as atividades do CTI.
+
+       Importância estratégica: Os materiais produzidos funcionarão como elementos multiplicadores da missão institucional, alcançando públicos
+      mesmo fora das instalações do Centro.
+
+6. Fortalecimento da missão institucional
+
+       Objetivo: Assegurar a continuidade e a ampliação da missão institucional do CTI Renato Archer por meio da comunicação eficaz e da
+        valorização das ações em curso.
+
+        Justificativa: A modernização da infraestrutura audiovisual é uma medida estruturante que contribui diretamente para a difusão do
+       conhecimento gerado, a valorização das iniciativas tecnológicas e o fortalecimento da imagem institucional.
+
+       Importância estratégica: Permite ao CTI se posicionar de forma ainda mais sólida como referência nacional em ciência, tecnologia e inovação,
+       mantendo alinhamento com as diretrizes do MCTI.
+
+
+
+3. Área requisitante
+
+
+                      Área Requisitante                                                   Responsável
+
+ Divisão de Relações Institucionais - DIRIN                             Jaime Khater
+
+
+
+4. Descrição dos Requisitos da Contratação
+
+
+4.1 – Do Objeto (Especificações Técnicas Mínimas Obrigatórias)
+
+A presente contratação visa ao fornecimento e entrega de equipamentos destinados à modernização da infraestrutura
+audiovisual do auditório e à criação de um estúdio de gravação e edição de vídeos informativos no Centro de
+Tecnologia da Informação Renato Archer (CTI). O objeto está dividido em 12 (doze) itens, conforme especificações
+mínimas obrigatórias a seguir:
+
+Item 01 – Televisor 75 polegadas 4K Smart
+
+      Tipo: TV Smart QLED ou LED
+
+     Tamanho: 75 polegadas
+
+      Resolução: 4K UHD (3840 x 2160)
+
+      Conectividade: Wi-Fi, Bluetooth, Porta Ethernet (LAN)
+
+      Entradas: Mínimo de 3 HDMI, 2 USB
+
+     Recursos adicionais: Compatibilidade com assistente virtual, espelhamento de tela
+
+     Modelo de referência: Samsung Smart Big TV 75" QLED 4K 75Q60D (2024), ou equivalente/superior
+
+      Garantia mínima: 12 meses
+
+Item 02 – Câmera Fotográfica com Lente EF-S 18-55mm
+
+      Tipo: DSLR ou mirrorless com lente intercambiável
+
+      Sensor: CMOS APS-C com no mínimo 24,1 MP
+
+
+
+
+                                                                                                                       2 de 22
+
+      Tela: LCD articulável sensível ao toque (mínimo de 3”)
+
+      Foco: Dual Pixel AF ou equivalente
+
+      Conectividade: Wi-Fi e Bluetooth integrados
+
+      Lente inclusa: EF-S 18-55mm ou equivalente
+
+     Modelo de referência: Canon EOS Rebel SL3 com lente EF-S 18-55mm, ou equivalente/superior
+
+      Garantia mínima: 12 meses
+
+Item 03 – Fone de Ouvido com Conector P10
+
+      Tipo: Over-ear, fechado, para uso profissional em estúdio
+
+       Drivers: 50mm de neodímio
+
+      Impedância: 32 Ohms
+
+      Sensibilidade: 110dB ± 3dB
+
+     Resposta de Frequência: 20Hz – 20kHz
+
+      Conector: P10 estéreo (3 polos)
+
+     Cabo: Mínimo de 2 metros
+
+     Modelo de referência: OneOdio Pro-10, ou equivalente/superior
+
+      Garantia mínima: 12 meses
+
+Item 04 – Tela de Projeção Elétrica Retrátil 120 polegadas
+
+      Tipo: Tela retrátil com acionamento elétrico
+
+     Tamanho: 120 polegadas (formato 16:9)
+
+      Acionamento: Controle remoto sem fio e botoeira com fio
+
+     Tensão de alimentação: 110V ou 220V (especificar)
+
+      Motor: Silencioso, com sincronismo interno
+
+      Garantia mínima: 12 meses
+
+Item 05 – Tripé Profissional com Cabeça Esférica
+
+      Tipo: Tripé em alumínio com cabeça esférica metálica de 28 mm
+
+     Carga suportada: Até 8 kg
+
+      Recursos: Cabeça panorâmica com rotação de 360°, nivelamento preciso
+
+       Itens inclusos: Bolsa de transporte com zíper
+
+     Modelo de referência: K&F Concept Ballhead KF09.122, ou equivalente/superior
+
+      Garantia mínima: 12 meses
+
+Item 06 – Mesa de Som Analógica com Bluetooth
+
+      Tipo: Console de mixagem analógico
+
+
+
+
+
+                                                                                                                       3 de 22
+
+      Canais: Mínimo de 4, com 2 canais estéreo
+
+      Conectividade: Bluetooth integrado
+
+      Recursos: Equalizador por canal, alimentação via USB ou fonte elétrica
+
+     Modelo de referência: Soundvoice MC4 EUX, ou equivalente/superior
+
+      Garantia mínima: 12 meses
+
+Item 07 – Microfone de Lapela Sem Fio (USB-C)
+
+      Tipo: Microfone de lapela omnidirecional sem fio
+
+     Conexão: USB-C (compatível com smartphones, tablets)
+
+      Captação: 360°, com cancelamento de ruído
+
+       Bateria: Autonomia mínima de 4 horas
+
+      Alcance: Mínimo de 20 a 30 metros em ambiente aberto
+
+     Emparelhamento: Automático e rápido
+
+      Garantia mínima: 12 meses
+
+Item 08 – Suporte Pedestal para TV de 75” com Rodízios
+
+      Compatibilidade: TVs de até 75” e 45 kg
+
+      Recursos: Altura ajustável, base com rodízios e travas de segurança
+
+      Acessórios: Bandeja para notebook ou equipamentos adicionais
+
+       Estrutura: Aço carbono ou similar com acabamento em pintura eletrostática
+
+      Garantia mínima: 12 meses
+
+Item 09 – Microfone Bluetooth para Audioconferência
+
+      Tipo: Microfone condensador omnidirecional (captação 360°)
+
+      Conectividade: Bluetooth 5.0 ou superior + entrada P2 (3,5 mm)
+
+      Compatibilidade: Android, iOS, Windows, macOS, Smart TVs
+
+      Frequência: 50Hz – 16kHz
+
+      Sensibilidade: -38dB ± 3dB
+
+      Recursos: Cancelamento de ruído e eco, operação plug & play
+
+      Alcance: Até 10 metros em ambiente aberto
+
+     Modelo de Referência: Cap 200 Bluetooth Intelbras, equivalente ou superior
+
+      Garantia mínima: 12 meses
+
+Item 10 – Kit de Transmissão HDMI Sem Fio
+
+     Conexão: Transmissor e receptor HDMI wireless
+
+     Resoluções suportadas: Até 4K a 30Hz ou 1080p a 60Hz
+
+
+
+
+
+                                                                                                                       4 de 22
+
+      Compatibilidade: HDMI 1.4/2.0, HDR, 3D
+
+      Áudio: Dolby Digital, DTS, PCM 2.0/5.1/7.1
+
+      Protocolo de transmissão: 5G
+
+      Alcance mínimo: 30 metros
+
+      Latência: < 100 ms
+
+     Modelo de referência POFAN, ‎RX*1+TX*1, equivalente ou superior.
+
+      Garantia mínima: 12 meses
+
+Item 11 – Câmera Digital com Inteligência Artificial para Videoconferência
+
+      Resolução: 4K UHD (3840x2160 a 30fps) ou 1080p (30/60fps)
+
+      Sensor: 1/2" CMOS Sony
+
+     Zoom: Digital até 4x
+
+       Inteligência  Artificial: Rastreamento automático, reconhecimento de gestos, ajuste de enquadramento e
+      iluminação em tempo real
+
+    Campo de Visão (FOV): 50° a 82° ajustável
+
+      Microfones: Duplos com redução de ruído
+
+     Conexão: USB-C ou USB 3.0
+
+      Compatibilidade: Suporte a microfones externos (USB ou Bluetooth)
+
+     Modelo de Referência: Insta 360, equivalente ou superior.
+
+      Garantia mínima: 12 meses
+
+Item 12 – Microfone Sem Fio (par) – Tipo Handheld Profissional
+
+      Tipo: Microfone manual (handheld), sem fio
+
+      Conjunto: 2 microfones + base receptora + cabos
+
+      Frequência: VHF ou UHF (conforme faixa livre)
+
+      Alcance: Mínimo de 50 metros sem obstáculos
+
+      Aplicação: Palestras, apresentações, eventos ao vivo
+
+     Modelo de referência: Kadosh K502M, equivalente ou superior.
+
+      Garantia mínima: 12 meses
+
+
+
+4.2. Das Condições de Entrega e Recebimento
+
+     Local de Entrega: Os materiais deverão ser entregues no Almoxarifado do CTI, localizado na Rodovia D.
+     Pedro I, Km 143,6, TIC, Campinas/SP .
+
+     Recebimento Provisório: O material será recebido provisoriamente no ato da entrega pelo fiscal do contrato
+     ou servidor designado. Nesta etapa, será verificado: a conformidade com a nota fiscal, a integridade física das
+     embalagens e dos produtos, as quantidades, as marcas/modelos ofertados e as datas de fabricação.
+
+
+
+
+                                                                                                                       5 de 22
+
+     Recebimento Definitivo: O recebimento definitivo do objeto ocorrerá em até 15 (quinze) dias úteis após a
+      entrega e o recebimento provisório. A identificação de qualquer vício ou defeito de fabricação durante os testes
+      impedirá o recebimento definitivo e obrigará a contratada a substituir o produto defeituoso no prazo acordado,
+     sem qualquer ônus para a Administração.
+
+4.3. Dos Critérios de Sustentabilidade e Logística Reversa
+
+
+    Em atendimento à legislação vigente, em especial à Lei nº 14.133/2021 (nova Lei de Licitações e
+
+      Contratos) , à Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010) , e ao Decreto nº 10.764/2021 ,
+
+     que regulamenta a inclusão de critérios de sustentabilidade nas contratações públicas, os produtos e
+
+     fornecedores desta contratação deverão observar os seguintes requisitos sustentáveis, sempre que
+
+     tecnicamente viável:
+
+       1. Eficiência Energética
+
+    Os equipamentos eletrônicos (como televisores, câmeras, microfones, transmissores e demais itens com
+      alimentação elétrica) deverão apresentar eficiência energética compatível com as melhores práticas de
+     consumo reduzido , preferencialmente com Selo Procel (Classe A) ou certificação internacional equivalente
+          , como Energy Star .
+
+     Sempre que aplicável, os equipamentos deverão dispor de modo de economia de energia (standby) .
+
+       2. Redução de Substâncias Perigosas (RoHS)
+
+    Os equipamentos eletrônicos deverão ser produzidos em conformidade com a Diretiva RoHS (Restriction of
+     Hazardous Substances) , garantindo a ausência ou restrição de substâncias perigosas , tais como chumbo,
+      mercúrio, cádmio, cromo hexavalente e retardadores de chama bromados.
+
+       3. Embalagens Sustentáveis
+
+     As embalagens  utilizadas no  fornecimento dos  produtos deverão  ser  recicláveis,  reutilizáveis ou
+     biodegradáveis , reduzindo o volume de resíduos gerados.
+
+     Deve-se evitar o uso excessivo de embalagens plásticas e priorizar materiais com certificação ambiental, como
+      papel reciclado ou papelão certificado.
+
+       4. Logística Reversa e Descarte Correto
+
+    Os fornecedores deverão estar comprometidos com a logística reversa , em conformidade com a Política
+     Nacional de Resíduos Sólidos , responsabilizando-se, quando aplicável, pela destinação ambientalmente
+     adequada dos resíduos gerados, incluindo:
+
+          Embalagens dos produtos.
+
+           Equipamentos substituídos ou danificados.
+
+          Componentes eletrônicos obsoletos.
+
+    Os equipamentos devem apresentar vida útil prolongada , com fornecimento garantido de peças de reposição
+     e suporte técnico autorizado no Brasil.
+
+     Deve-se dar preferência a modelos com estrutura modular , que facilitem reparos e reduzam o descarte
+      prematuro de produtos.
+
+       5. Certificações Ambientais e Responsabilidade Socioambiental
+
+
+
+
+
+                                                                                                                       6 de 22
+
+     Sempre que possível, dar-se-á preferência a produtos com selos ou certificações ambientais reconhecidos ,
+       tais como:
+
+          Energy Star
+
+        RoHS Compliance
+
+         EPEAT (Electronic Product Environmental Assessment Tool)
+
+          ISO 14001 (Gestão Ambiental – aplicável a fabricantes ou distribuidores)
+
+
+
+5. Levantamento de Mercado
+
+5.1. Prospecção de Mercado e Análise de Soluções Alternativas
+
+Após pesquisa realizada em sites de fabricantes, revendedores autorizados e portais de compras públicas, constatou-
+se que há ampla disponibilidade dos equipamentos com as especificações mínimas exigidas. Os preços variam de
+acordo com a marca e recursos adicionais. Todos os itens listados contam com garantia mínima de 12 meses e
+suporte técnico nacional. Há fornecedores com certificações ambientais e práticas de logística reversa.
+
+Foram avaliadas alternativas tecnológicas aos itens propostos, considerando aspectos técnicos, econômicos e de
+sustentabilidade. A opção pelos equipamentos listados se justifica pela melhor relação custo-benefício, adequação às
+necessidades do CTI Renato Archer e aderência a critérios de eficiência energética, qualidade audiovisual e facilidade
+de operação. As  alternativas consideradas foram descartadas por apresentarem desvantagens técnicas ou
+operacionais.
+
+
+5.2. Análise de Soluções Alternativas
+
+Durante o planejamento da presente contratação, foram avaliadas diferentes soluções tecnológicas disponíveis no
+mercado com o objetivo de atender às necessidades do CTI Renato Archer no que se refere à modernização do
+auditório e à implementação de um estúdio de gravação e edição de vídeos informativos. A escolha dos
+equipamentos especificados considerou os seguintes critérios:
+
+     Adequação técnica às atividades-fim do CTI.
+
+      Facilidade de operação por equipes não especializadas.
+
+       Eficiência energética e menor impacto ambiental.
+
+      Integração com sistemas existentes.
+
+     Custo total de propriedade (aquisição + operação + manutenção).
+
+Abaixo, apresentamos a análise comparativa entre os itens selecionados e as principais alternativas tecnológicas
+consideradas:
+
+Item: Transmissor HDMI sem fio
+
+     Solução adotada: Transmissor HDMI sem fio (tecnologia 5G, alcance de 30 metros, baixa latência).
+
+      Alternativa considerada: Cabo HDMI de longa distância com extensor de sinal.
+
+
+Critério       Solução Adotada                                               Alternativa Considerada
+
+                                                                       Baixa    (instalação     fixa,
+ Flexibilidade     Alta (mobilidade total no ambiente)
+                                                                                      limitações físicas)
+
+                                                                 Complexa   (passagem   de
+Instalação      Simples (plug and play)
+                                                                              cabos, infraestrutura)
+
+
+
+                                                                                                                       7 de 22
+
+Custo inicial    Médio                                                       Baixo
+
+                                                                                     Alta  (cabo  sujeito  a  falhas
+Manutenção    Baixa
+                                                                                                 físicas)
+
+                                                              Uso   intensivo  de   cobre,
+Sustentabilidade Redução de uso de materiais
+                                                                                         plásticos
+
+              Solução sem fio foi priorizada pela mobilidade, menor impacto
+Decisão:
+               ambiental e instalação limpa.
+
+Item: Câmera com Inteligência Artificial (IA)
+
+     Solução adotada: Câmera 4K com rastreamento automático de participantes via IA.
+
+      Alternativa considerada: Webcam padrão ou câmera de vigilância adaptada.
+
+
+                                                                        Alternativa
+Critério    Solução Adotada
+                                                                            Considerada
+
+Qualidade                                                                  Média (HD ou Full HD,
+              Alta (4K, foco automático, IA)
+de imagem                                                          sem foco dinâmico)
+
+Automação  Alta (rastreamento facial e de movimento)                                 Nula ou limitada
+
+                                                                                    Limitada     (interfaces
+Integração   Alta (USB-C/3.0, suporte a streaming)
+                                                                                              antigas)
+
+Custo inicial Médio                                                                  Baixo
+
+Eficiência
+          Boa                                                                           Variável
+energética
+
+           Solução com IA escolhida por eliminar necessidade de operador humano
+Decisão:
+           e garantir qualidade audiovisual em eventos híbridos.
+
+Item: Microfone de lapela sem fio (USB-C)
+
+     Solução adotada: Microfone de lapela omnidirecional, sem fio, com conexão USB-C.
+
+      Alternativa considerada: Microfone de mão com fio (P2/P10).
+
+
+Critério        Solução Adotada                                                    Alternativa Considerada
+
+                                                                            Baixa    (restrição   de
+Mobilidade       Alta (sem fio, sem interferência)
+                                                                              movimento)
+
+Qualidade   de
+                   Alta (direcional e com cancelamento)                              Média
+captação
+
+                                                                                 Necessita   adaptadores
+Integração       Direta com dispositivos móveis
+                                                                                     /conversores
+
+                                                                   Cabo sujeito a quebra e
+Sustentabilidade Bateria recarregável, menor descarte
+                                                                                     descarte
+
+               Lapela sem fio adotada por favorecer mobilidade e integração com
+Decisão:
+                 dispositivos modernos.
+
+Item: TV 75” 4K Smart
+
+     Solução adotada: Televisor de 75" 4K Smart com conectividade Wi-Fi e Bluetooth.
+
+      Alternativa considerada: Projetor com tela de projeção.
+
+
+                                                                      Alternativa
+Critério       Solução Adotada
+                                                                           Considerada
+
+Qualidade   de                                                                          Variável (dependente da
+
+
+
+                                                                                                                       8 de 22
+
+imagem          Alta (4K, brilho consistente)                                                 luz ambiente)
+
+Custo     de                                                                             Alto (troca de lâmpadas,
+                Baixo (sem lâmpadas)
+manutenção                                                                           limpeza)
+
+                                                                         Maior      consumo
+Sustentabilidade Menor consumo energético                                      (lâmpadas   de    alta
+                                                                                          potência)
+
+                                                                      Média       (necessita
+Praticidade      Alta (uso imediato)                                              escurecimento     do
+                                                                                   ambiente)
+
+            TV escolhida por oferecer maior durabilidade, menor custo de
+Decisão:
+             manutenção e melhor visibilidade em ambientes iluminados.
+
+Item: Mesa de som analógica com Bluetooth
+
+     Solução adotada: Mesa de som analógica 4 canais com conexão Bluetooth.
+
+      Alternativa considerada: Mesa de som digital com DSP integrado.
+
+
+Critério    Solução Adotada                                                          Alternativa Considerada
+
+                                                                    Complexa      (requer
+Usabilidade Alta (simples, intuitiva)
+                                                                                     capacitação técnica)
+
+Custo      Baixo                                                                            Alto
+
+Recursos                                                                 Avançados,     porém
+             Suficientes para necessidade
+técnicos                                                                                    subutilizados
+
+         Mesa analógica adotada por atender às necessidades com menor
+Decisão:
+           complexidade operacional e custo reduzido.
+
+
+Com base na avaliação técnica, econômica e de sustentabilidade das alternativas, conclui-se que os
+
+equipamentos especificados representam a solução mais vantajosa para o atendimento das necessidades do
+
+CTI Renato Archer , garantindo:
+
+      Melhores resultados audiovisuais.
+
+     Menor impacto ambiental (equipamentos com menor consumo energético e maior durabilidade).
+
+      Maior facilidade de operação por equipes internas.
+
+      Melhor custo-benefício considerando a vida útil dos equipamentos e sua adaptabilidade tecnológica futura.
+
+Análise do Mercado Fornecedor: O objeto da contratação – aquisição de equipamentos para auditório e estúdio de
+gravação – é classificado como bem de natureza comum , cujos padrões de desempenho e qualidade podem ser
+objetivamente definidos em edital por meio de especificações usuais de mercado.
+
+
+5.3. Prospecção de Mercado
+
+A prospecção identificou um mercado amplo, competitivo e diversificado em âmbito nacional para os equipamentos
+audiovisuais e de gravação descritos nesta contratação. Os principais segmentos do mercado identificados são:
+
+a) Fabricantes Nacionais e Internacionais:
+Marcas reconhecidas, com operação direta ou representação oficial no Brasil, oferecem os produtos com as
+especificações técnicas exigidas. Entre os fabricantes com presença nacional destacam-se:
+
+     Samsung, LG, Sony (TVs e monitores);
+
+     Canon, Nikon (câmeras fotográficas e de vídeo);
+
+
+
+
+                                                                                                                       9 de 22
+
+     OneOdio, Audio-Technica (fones e microfones);
+
+      Behringer, Soundvoice (mesas de som);
+
+    K&F Concept, Benro (tripés e suportes).
+
+b) Distribuidores Especializados:
+Há empresas atuando no mercado nacional com foco na distribuição de equipamentos audiovisuais, broadcast,
+multimídia e soluções para eventos corporativos e educacionais. Esses distribuidores geralmente oferecem:
+
+      Apoio técnico na escolha dos equipamentos;
+
+      Garantia nacional;
+
+      Suporte pós-venda e logística integrada.
+
+c) Revendedores e Integradores:
+Existe um grande número de empresas no varejo especializado e no comércio eletrônico, além de integradores de
+soluções audiovisuais que atuam em todo o território nacional, oferecendo não apenas a venda dos produtos, mas
+também serviços de instalação, configuração e integração dos equipamentos ao ambiente físico e tecnológico do
+contratante.
+
+Com base nas pesquisas realizadas, conclui-se que há uma oferta ampla de fornecedores aptos a atender aos
+requisitos técnicos exigidos , incluindo diferentes marcas, modelos e faixas de preço. Não foram identificadas
+circunstâncias que pudessem restringir a competitividade do certame ou caracterizar mercado concentrado. A
+contratação, portanto, encontra viabilidade técnica e comercial , garantindo ampla concorrência e economicidade
+ao processo.
+
+
+5.4. Metodologia da Pesquisa de Preços
+
+Para a definição do valor estimado da presente contratação,  foi realizada ampla pesquisa de preços , em
+conformidade com o art. 23 da Lei nº 14.133/2021 e com a Instrução Normativa SEGES/ME nº 65/2021 , utilizando
+os seguintes parâmetros combinados para compor a cesta de preços de referência:
+
+Parâmetro I – Painel de Preços do Governo Federal e Contratações Similares
+
+Foi realizada consulta ao Painel de Preços do Governo Federal , em 15/09/2025 , utilizando descritores compatíveis
+com os itens pretendidos, tais como:
+
+     "TV 75 polegadas 4K smart",
+
+      "microfone sem fio",
+
+     "câmera DSLR",
+
+     "mesa de som analógica",
+
+       "tripé profissional",
+
+       "tela de projeção elétrica",
+
+      entre outros.
+
+A pesquisa retornou registros de contratações similares realizadas por órgãos públicos nos últimos 12 meses. Os
+valores coletados foram analisados e atualizados com base na variação do IPCA acumulado no período, conforme
+previsto na legislação vigente.
+
+
+
+
+
+                                                                                                                      10 de 22
+
+Parâmetro II – Pesquisa em Sítios Eletrônicos de Domínio Amplo e Especializado
+
+Nos termos do inciso IV do art. 5º da IN SEGES/ME nº 65/2021 , foi realizada pesquisa de preços em sítios
+eletrônicos especializados e de domínio amplo , também em 15/09/2025 . A pesquisa contemplou:
+
+      Portais de varejo nacional (ex: Amazon, Submarino, Magazine Luiza);
+
+      Lojas especializadas em áudio, vídeo, estúdios e broadcast;
+
+      Websites de distribuidores autorizados e revendedores de equipamentos profissionais.
+
+Foram considerados apenas os preços de produtos novos , com garantia de no mínimo 12 meses , e com
+especificações técnicas equivalentes ou superiores às descritas nesta contratação.
+
+Foram desconsiderados valores promocionais atípicos, equipamentos usados, importações diretas sem garantia
+nacional, bem como itens com características incompatíveis.
+
+Critério de Consolidação dos Valores
+
+Os valores coletados foram consolidados em planilha própria e compilados no Documento SEI nº 13143388 ,
+disponível no sistema Compras.gov.br. O valor estimado da contratação foi definido com base na mediana dos
+preços obtidos por item, conforme orientação do §2º do art. 23 da Lei nº 14.133/2021, visando refletir o preço de
+mercado mais representativo e vantajoso à Administração Pública .
+
+
+
+5.5. Análise Crítica dos Preços e Definição do Valor de Referência
+
+Os valores coletados em todos os parâmetros foram compilados em uma planilha comparativa (anexa ao processo) .
+Procedeu-se à análise crítica dos dados, excluindo-se os valores manifestamente inexequíveis ou excessivamente
+elevados que apresentaram grande desvio em relação à média dos demais.
+
+A partir da análise da cesta de preços, utilizando-se o critério da mediana dos valores válidos e saneados, definiu-se
+o valor estimado para a contratação, conforme tabela abaixo:
+
+                                                                     Preço                                                                                    Preço                                                                        Referência   Item        Descrição Sucinta    CATMAT  Unidade  Quantidade                  Referência Total                                                                               Unitário (R$) -                                                                                           (R$)                                                                 Mediana
+    1    TV 75 polegadas           611856  Unidade       1     R$ 5.901,50    R$  5.901,50
+        Câmera Fotográfica com                                 618726               2    2     lente EF-S 18-55mm                Unidade           R$ 7.052,00    R$ 14.104,00
+         Fone de Ouvido                                 604459               1    3    (Headband)                       Unidade           R$   305,82    R$    305,82
+          Tela retrátil elétrica de                                 617350               1    4     projeção 120''                      Unidade           R$ 1.499,00    R$  1.499,00
+           Tripé profissional cabeça                                 465485               2    5     esférica                           Unidade           R$   799,00    R$  1.598,00
+          Console de mixagem                                 626393               1    6     analógica                         Unidade           R$   705,00    R$    705,00
+                                 353777               5    7     Microfone Lapela sem fio            Unidade           R$   258,03    R$  1.290,15
+    8     Suporte TV pedestal        470174  Unidade       1     R$   721,00    R$    721,00
+
+          Aparelho Audioconferência   244880               1
+
+
+
+
+                                                                                                                      11 de 22
+
+    9     Bluetooth                         Unidade           R$   948,64    R$    948,64
+                                 465998               1   10    Transmissão HDMI sem fio           Unidade           R$ 1.089,99    R$  1.089,99
+        Câmera digital com IA                                 244880               2   11    videoconferência                   Unidade           R$ 4.071,79    R$  8.143,58
+          Microfone sem fio (par)                                 321345               2   12     profissional                        Unidade           R$ 1.920,00    R$  3.840,00
+                              TOTAL                              R$ 40.146,68
+
+
+
+Este valor de referência reflete os preços atuais de mercado para o objeto especificado e servirá como base para o
+julgamento das propostas no certame.
+
+
+
+
+
+6. Descrição da solução como um todo
+
+Esta seção descreve a solução completa para a necessidade de modernização da infraestrutura audiovisual do
+auditório e de implementação de um estúdio de gravação e edição de vídeos no CTI Renato Archer, detalhando o
+modelo de contratação, as justificativas para sua escolha e as condições de execução, incluindo garantia e suporte
+técnico.
+
+6.1. Resumo da Solução Proposta
+
+A solução consiste na aquisição de um conjunto de 12 itens de equipamentos de áudio e vídeo , compreendendo
+televisores, câmeras, microfones, mesa de som, dispositivos de transmissão e acessórios, conforme especificações
+técnicas detalhadas na planilha de referência.
+
+Os equipamentos foram definidos em função da necessidade institucional de realizar eventos híbridos, transmissões
+online e gravações em alta qualidade, garantindo modernização tecnológica, confiabilidade e facilidade de operação.
+
+Todos os bens deverão ser fornecidos com garantia mínima de 12 (doze) meses contra defeitos de fabricação, bem
+como suporte técnico nacional. A contratada também será responsável pela entrega, instalação física básica (quando
+aplicável) e orientação inicial de uso.
+
+6.2. Justificativas para a Escolha do Tipo de Solução
+
+Justificativa Técnica:
+
+     Compatibilidade e Padronização: Os equipamentos especificados (TVs 4K, câmeras com rastreamento por
+       IA, microfones sem fio, mesa de som analógica com Bluetooth, transmissor HDMI sem fio, entre outros) são
+      tecnologias consolidadas no mercado, compatíveis entre si e com a infraestrutura existente do CTI.
+
+      Melhoria da Qualidade Operacional: A adoção das soluções propostas assegura maior qualidade audiovisual,
+      mobilidade, integração com sistemas atuais e menor impacto ambiental (eficiência energética, durabilidade).
+
+     Preservação de Investimentos: A aquisição foca em itens complementares e de reposição tecnológica,
+      aproveitando ao máximo a estrutura física existente, evitando gastos desnecessários com substituições de
+      maior vulto.
+
+Justificativa Econômica:
+
+
+
+
+
+                                                                                                                      12 de 22
+
+      Custo-Benefício: Os itens selecionados representam o melhor equilíbrio entre qualidade técnica e preço,
+     conforme pesquisa de mercado e consolidação pela mediana dos preços de referência, nos termos do art. 23
+     da Lei nº 14.133/2021.
+
+
+     Prevenção de Custos Maiores: A modernização audiovisual reduz custos indiretos com contratação de
+      serviços de terceiros, aluguel de equipamentos e perdas decorrentes de falhas em eventos institucionais ou
+      transmissões online.
+
+6.3. Condições de Fornecimento, Garantia e Suporte Técnico
+
+Para a efetividade da solução, o contrato deverá observar as seguintes condições:
+
+Prazo e Condições de Entrega:
+
+    O prazo máximo para entrega total será de 30 (trinta) dias corridos a contar do recebimento da Nota de
+     Empenho.
+
+    Os equipamentos deverão ser entregues no almoxarifado do CTI Renato Archer, Rod. D. Pedro I (SP-065), km
+      143,6, Bairro Amarais, CEP 13069-901, Campinas/SP.
+
+    O recebimento será realizado em dias úteis, nos horários de 8h30 às 11h30 e 13h30 às 16h00, mediante
+     agendamento prévio.
+
+Garantia Técnica e Assistência:
+
+     Todos os itens deverão possuir garantia mínima de 12 (doze) meses contra defeitos de fabricação, contados
+     a partir do recebimento definitivo.
+
+    A contratada deverá disponibilizar canal de atendimento (telefone e e-mail) para suporte técnico em horário
+      comercial.
+
+    Em caso de defeito coberto por garantia, a substituição do equipamento deverá ocorrer no prazo máximo de 15
+      (quinze) dias úteis , sem ônus para a Administração.
+
+
+
+7. Estimativa das Quantidades a serem Contratadas
+
+
+7.1. Critério de Apuração da Quantidade
+
+A estimativa das quantidades foi definida com base em fatos concretos, a partir de levantamento técnico realizado
+pela equipe responsável pelo auditório e pelo futuro estúdio de gravação do CTI Renato Archer.
+Foram consideradas as necessidades funcionais de cada espaço (apresentações, transmissões híbridas, gravações
+institucionais e educativas), bem como a compatibilidade entre os itens.
+
+As quantidades representam a exata necessidade para a modernização da infraestrutura audiovisual, não incluindo
+estoque de sobressalentes ou itens redundantes.
+
+
+7.2. Memória de Cálculo
+
+O quantitativo de cada item foi definido de acordo com o uso previsto em ambientes distintos (auditório principal e
+estúdio de gravação), considerando:
+
+    TV 75” 4K (1 unidade): necessária para substituição do projetor no auditório, garantindo melhor qualidade de
+     imagem e menor custo de manutenção.
+
+     Câmera fotográfica com lente (2 unidades): para captação de imagem em diferentes ângulos durante
+      gravações e eventos híbridos.
+
+
+
+
+                                                                                                                      13 de 22
+
+     Fones de ouvido (1 unidade): destinados ao operador de áudio durante gravações e transmissões.
+
+      Tela de projeção elétrica (1 unidade): complementar à TV, utilizada em cenários alternativos de exibição.
+
+      Tripés profissionais (2 unidades): suporte para câmeras e acessórios, assegurando estabilidade nas
+      gravações.
+
+     Console de mixagem analógica (1 unidade): para integração e ajuste dos sinais de áudio.
+
+     Microfones de lapela sem fio (5 unidades): destinados a palestrantes e entrevistados, assegurando
+      mobilidade.
+
+     Suporte pedestal para TV (1 unidade): necessário para instalação móvel da TV 75”.
+
+     Aparelho de audioconferência Bluetooth (1 unidade): utilizado em reuniões híbridas e conferências.
+
+     Transmissor HDMI sem fio (1 unidade): elimina a necessidade de cabeamento fixo entre equipamentos.
+
+     Câmeras digitais com IA (2 unidades): para rastreamento automático de palestrantes em transmissões ao
+       vivo.
+
+     Microfones sem fio (par) profissionais (2 unidades): destinados a apresentações e entrevistas com maior
+      alcance.
+
+
+7.3. Quadro Resumo das Quantidades
+
+
+ Item       Descrição Resumida       Quantidade                        Justificativa
+
+1   TV 75 polegadas 4K Smart         1             Substituição de projetor e tela no auditório
+
+2   Câmera Fotográfica com lente       2           Captação de imagem em diferentes ângulos
+
+3   Fone de Ouvido Headband         1           Monitoramento de áudio em transmissões e gravações
+
+4    Tela retrátil elétrica de projeção      1            Exibição complementar no auditório
+
+5    Tripé profissional                 2           Suporte para câmeras e acessórios
+
+6    Console de mixagem analógica      1            Integração e ajuste de sinais de áudio
+
+7    Microfone Lapela sem fio           5          Uso por palestrantes e entrevistados
+
+8    Suporte TV pedestal               1            Mobilidade e flexibilidade de instalação da TV 75”
+
+9    Aparelho de audioconferência       1          Uso em reuniões híbridas e conferências
+
+10   Transmissor HDMI sem fio          1            Eliminação de cabeamento fixo
+
+11  Câmera digital com IA             2           Rastreamento automático em transmissões ao vivo
+
+12   Microfone sem fio (par) profissional   2           Apoio a apresentações e gravações profissionais
+
+
+7.4. Consolidação da Demanda e Economia de Escala
+
+Foi realizado levantamento junto às áreas demandantes (auditório e equipe de comunicação institucional) para
+verificar a existência de outras necessidades de equipamentos audiovisuais no horizonte de 12 meses.
+O levantamento concluiu que a presente contratação contempla a totalidade da demanda atual , não havendo
+previsão de novas aquisições no período.
+
+Desta forma, a contratação consolida em um único processo todas as necessidades identificadas, assegurando
+economia de escala, eficiência administrativa e prevenção de fracionamento de despesa .
+
+
+
+8. Estimativa do Valor da Contratação
+
+Valor (R$): 40.146,68
+
+
+
+
+
+                                                                                                                      14 de 22
+
+8.1. Metodologia e Fonte dos Dados
+
+A estimativa de valor para a presente contratação foi obtida por meio de ampla pesquisa de preços , cuja
+metodologia foi detalhadamente descrita no item 5 ("Levantamento de Mercado") deste Estudo Técnico Preliminar.
+
+O valor de referência foi consolidado a partir da mediana dos preços válidos , conforme estabelecido no item 5.4,
+considerando:
+
+      consultas ao Painel de Preços do Governo Federal ;
+
+     cotações formais obtidas junto a fornecedores;
+
+      pesquisa em sítios eletrônicos de domínio amplo e especializado .
+
+
+8.2. Memória de Cálculo e Preços de Referência
+
+A análise crítica da cesta de preços pesquisada resultou na definição dos seguintes preços unitários de referência,
+que, multiplicados pelas quantidades estimadas (item 7), compõem o valor total da contratação.
+
+A memória de cálculo está demonstrada na tabela abaixo:
+
+
+                             Quantidade     Valor Unitário Referencial –      Valor Total Estimado (R$)
+Item    Descrição Resumida
+                                       (A)             Mediana (R$) (B)                   (A × B)
+
+1   TV 75 polegadas 4K Smart   1           5.901,50                            5.901,50
+
+    Câmera Fotográfica com
+2                           2           7.052,00                            14.104,00
+      lente EF-S
+
+3   Fone de Ouvido Headband   1           305,82                             305,82
+
+     Tela retrátil elétrica de
+4                           1           1.499,00                            1.499,00
+     projeção
+
+5    Tripé profissional          2           799,00                              1.598,00
+
+     Console de mixagem
+6                           1           705,00                             705,00
+     analógica
+
+7    Microfone Lapela sem fio    5           258,03                              1.290,15
+
+8    Suporte TV pedestal        1           721,00                             721,00
+
+     Aparelho de
+9                           1           948,64                             948,64
+     audioconferência
+
+10  Transmissor HDMI sem fio   1           1.089,99                            1.089,99
+
+11  Câmera digital com IA      2           4.071,79                            8.143,58
+
+     Microfone sem fio (par)
+12                          2           1.920,00                            3.840,00
+      profissional
+
+
+TOTAL GERAL: R$ 40.146,68
+
+
+8.3. Documentação de Suporte
+
+Toda a documentação que fundamenta esta estimativa, incluindo:
+
+     as telas de consulta ao Painel de Preços do Governo Federal;
+
+     a pesquisa em sítios eletrônicos especializados e de domínio amplo;
+
+     e a planilha de consolidação e análise crítica dos valores;
+
+está compilada no documento denominado “Pesquisa de Preço” , peça integrante do processo administrativo,
+registrada sob o SEI nº 13143388.
+
+
+
+
+
+                                                                                                                      15 de 22
+
+Conforme facultado pela legislação, este anexo poderá ter seu acesso restrito até a conclusão da fase de lances da
+licitação, visando preservar o sigilo do orçamento estimativo.
+
+
+
+9. Justificativa para o Parcelamento ou não da Solução
+
+
+9.1. Modelo de Parcelamento Adotado
+
+Em observância ao art. 40, V, “b”, da Lei nº 14.133/2021 e à Súmula nº 247 do Tribunal de Contas da União (TCU),
+que estabelecem o parcelamento do objeto como regra para ampliar a competitividade, a presente contratação será
+realizada por item , sendo a adjudicação igualmente por item .
+
+Dessa forma, cada equipamento (TV, câmera, microfone, mesa de som, etc.) corresponderá a um item distinto do
+edital, permitindo que os licitantes apresentem propostas para apenas parte dos bens, de acordo com seu interesse e
+capacidade de fornecimento.
+
+
+9.2. Justificativa para a Divisão em Itens
+
+A decisão pela adjudicação por item fundamenta-se nos seguintes pontos:
+
+     Ampliação da Competitividade: Os equipamentos audiovisuais, embora componham uma solução integrada,
+     são de naturezas distintas (áudio, vídeo, transmissão e suporte) e contam com fornecedores especializados em
+     segmentos diferentes. A adjudicação por item permite a participação de empresas que atuam em nichos
+      específicos (por exemplo, apenas câmeras, apenas áudio ou apenas acessórios), ampliando o universo de
+      competidores e estimulando propostas mais vantajosas para a Administração.
+
+      Viabilidade Técnica: Não há interdependência técnica que  exija fornecimento conjunto. Cada item é
+     autônomo, podendo ser adquirido separadamente sem prejuízo à integração da solução.
+
+      Viabilidade Econômica: A quantidade de cada item, ainda que individualmente modesta, é suficiente para
+       atrair fornecedores e formar preços competitivos. O benefício esperado da ampliação da concorrência supera
+      qualquer eventual perda marginal de economia de escala que poderia decorrer do agrupamento em lote único.
+
+
+9.3. Justificativa para a Não Adoção do Parcelamento de Quantidades (Cotação de Quantidade Inferior)
+
+Embora a legislação preveja a possibilidade de permitir que os licitantes apresentem propostas para quantidades
+inferiores à demandada em um mesmo item, esta modalidade não será adotada na presente contratação.
+
+Justificativa Técnica: A aquisição parcial de equipamentos acarretaria risco de heterogeneidade entre modelos e
+marcas, dificultando a integração técnica e operacional da solução audiovisual. Por exemplo, a combinação de
+câmeras de diferentes padrões poderia comprometer a qualidade das transmissões; microfones de diferentes marcas
+podem gerar incompatibilidade em conectores e ajustes; suportes e acessórios distintos podem não atender às
+dimensões previstas.
+
+Assim, para garantir a padronização, a compatibilidade e a plena funcionalidade da solução audiovisual , exige-
+se que cada item seja fornecido integralmente por um único fornecedor.
+
+
+
+10. Contratações Correlatas e/ou Interdependentes
+
+Identifica-se a existência de uma contratação de serviço que é diretamente interdependente com o objeto da
+presente aquisição, além de outras contratações correlatas .
+
+
+
+
+
+                                                                                                                      16 de 22
+
+10.1. Contratação Interdependente
+
+A presente aquisição de equipamentos audiovisuais possui interdependência direta com o contrato vigente de
+serviços de manutenção predial e de infraestrutura tecnológica do CTI Renato Archer, cujo objeto inclui o apoio
+técnico na instalação de equipamentos e infraestrutura elétrica e lógica.
+
+Essa interdependência decorre do fato de que alguns itens adquiridos (como televisores, suportes, câmeras e mesa
+de som) demandam instalação física básica, fixação, cabeamento e configuração inicial , atividades que deverão
+ser acompanhadas ou apoiadas pela equipe de manutenção ou por contrato já existente.
+
+Assim, a plena utilização dos bens adquiridos depende da coordenação entre o contrato de fornecimento de
+equipamentos e o contrato de serviços de manutenção/apoio técnico .
+O gestor e os fiscais dos respectivos contratos deverão atuar de forma coordenada, garantindo a sincronização de
+entrega, instalação, testes e integração, de modo a assegurar a execução harmoniosa e eficiente das contratações.
+
+
+10.2. Contratações Correlatas
+
+Além da interdependência direta descrita acima, a presente aquisição guarda correlação com as seguintes
+contratações:
+
+     Serviços de TI e Rede: a utilização de câmeras e dispositivos de transmissão HDMI sem fio depende da
+       infraestrutura de rede e conectividade existente, objeto de contratos de tecnologia da informação e suporte
+      técnico do CTI.
+
+     Serviços de Comunicação Institucional: os equipamentos adquiridos serão utilizados em conjunto com
+      serviços de produção e edição de conteúdo audiovisual, já contratados ou a serem contratados, para
+      divulgação científica e institucional.
+
+     Serviços de Energia Elétrica e Climatização: a confiabilidade no funcionamento dos equipamentos está
+      diretamente vinculada às condições de fornecimento elétrico e climatização do auditório e do estúdio, já
+      cobertas por contratos de manutenção predial.
+
+O mapeamento dessas interdependências e correlações contratuais é essencial para garantir a gestão integrada da
+solução audiovisual e assegurar que os equipamentos adquiridos cumpram plenamente sua finalidade institucional.
+
+
+
+11. Alinhamento entre a Contratação e o Planejamento
+
+A presente contratação está em total conformidade com os instrumentos de planejamento estratégico e orçamentário
+do CTI.
+
+
+
+
+11. 1. Aderência ao Planejamento Estratégico e Orçamentário
+
+A presente contratação está em total conformidade com os instrumentos de planejamento estratégico e orçamentário
+do CTI Renato Archer.
+
+11.2. Alinhamento com o Planejamento Estratégico
+
+A aquisição dos equipamentos de áudio e vídeo está alinhada ao Plano Diretor do CTI 2021-2025 , contribuindo
+diretamente para o alcance do seguinte Objetivo Estratégico (OE):
+
+    OE 03 – Disseminar o conhecimento em TI e suas áreas correlatas.
+
+    OE 12 - Fortalecer a imagem institucional
+
+    OE 21 - Aprimorar mecanismos de comunicação interna
+
+
+
+                                                                                                                      17 de 22
+
+A contribuição se materializa ao proporcionar a modernização e ampliação da infraestrutura audiovisual do auditório e
+a implementação de um estúdio de gravação e edição de vídeos. Tal ação fortalece a capacidade institucional de
+comunicação científica e tecnológica, promove maior eficiência em eventos híbridos e garante suporte adequado às
+atividades finalísticas de pesquisa, desenvolvimento e difusão do conhecimento.
+
+11.3. Previsão no Plano Anual de Contratações (PAC)
+
+A presente contratação está devidamente registrada no Plano Anual de Contratações (PAC) do CTI para o exercício
+de 2025, identificada pelo nº de item 65, identificador da futura contratação 240129-55/2025.
+
+Classificação da Despesa:
+O objeto a ser contratado, por se tratar de aquisição de equipamentos duráveis de áudio e vídeo (tais como
+televisores, câmeras, microfones, mesas de som, transmissores e acessórios), classifica-se como despesa de
+CAPITAL , na Natureza de Despesa 44.90.52 – Equipamentos e Material Permanente .
+
+Essa classificação decorre do fato de que tais bens preservam sua identidade física, possuem durabilidade superior a
+dois anos e se enquadram como bens permanentes segundo as normas de contabilidade pública aplicáveis à União.
+
+
+
+12. Benefícios a serem alcançados com a contratação
+
+A contratação para aquisição de equipamentos audiovisuais para o auditório e estúdio do CTI transcende a simples
+modernização de infraestrutura, gerando uma série de benefícios diretos e indiretos que se alinham aos princípios de
+eficiência, economicidade e eficácia na gestão pública .
+
+12.1. Benefícios Diretos
+
+      Garantia da Qualidade Audiovisual: Adoção de televisores 4K, câmeras com inteligência  artificial e
+      microfones sem fio, assegurando transmissões e gravações em alta qualidade, com clareza de imagem e som.
+
+     Suporte a Eventos Híbridos: Ampliação da capacidade do auditório para realização de eventos presenciais e
+      online de forma simultânea, sem necessidade de contratação de serviços externos.
+
+     Autonomia Operacional: Facilidade de operação dos equipamentos por equipes internas, sem dependência
+     de técnicos especializados, reduzindo custos com terceiros.
+
+      Confiabilidade Tecnológica: Equipamentos modernos, de baixo consumo energético, garantem maior
+      durabilidade e menor incidência de falhas, aumentando a disponibilidade da infraestrutura.
+
+12.2. Benefícios Indiretos
+
+Economicidade e Eficiência Financeira:
+
+     Redução de despesas com aluguel de equipamentos audiovisuais e contratação de serviços terceirizados para
+      transmissões.
+
+      Mitigação de custos associados a falhas em eventos institucionais, evitando prejuízos de imagem e retrabalho.
+
+      Maior aproveitamento dos recursos existentes do CTI (espaços físicos e equipe), potencializando o retorno
+      sobre investimentos já realizados.
+
+Eficácia e Suporte à Missão Institucional:
+
+    A eficácia desta contratação mede-se pela capacidade de ampliar a difusão científica e tecnológica do CTI.
+
+    Os equipamentos permitirão registrar, editar e divulgar conteúdos de pesquisa, treinamentos e eventos,
+     aumentando o alcance da produção institucional.
+
+
+
+
+
+                                                                                                                      18 de 22
+
+     Favorece a integração com parceiros nacionais e internacionais em atividades de ensino, pesquisa e
+     cooperação tecnológica.
+
+
+Eficiência no Uso de Recursos Públicos:
+
+      Otimiza o uso do auditório e de áreas de apoio, ampliando sua versatilidade para múltiplos formatos de evento.
+
+      Evita desperdício de tempo e recursos com falhas de infraestrutura audiovisual, garantindo maior produtividade
+     das equipes.
+
+Promoção do Desenvolvimento Nacional Sustentável:
+
+      Sustentabilidade Ambiental: Prioriza equipamentos com maior eficiência energética e durabilidade, reduzindo
+     consumo de energia e descarte prematuro.
+
+     Desenvolvimento Econômico: Ao realizar um processo licitatório competitivo, fomenta-se o mercado nacional
+     de fornecedores de tecnologia audiovisual, permitindo a participação de empresas de diversos portes e
+      contribuindo para a geração de negócios no país.
+
+
+
+13. Providências a serem Adotadas
+
+
+Para assegurar o sucesso da contratação, uma transição suave e uma execução contratual eficiente, as
+
+seguintes providências deverão ser adotadas pela Administração previamente à celebração do contrato:
+
+13.1. Designação da Equipe de Gestão e Fiscalização
+
+     Ato Formal de Designação: Designar formalmente, via publicação em boletim de serviço ou documento
+      equivalente, o Gestor do Contrato e o(s) Fiscal(is) do Contrato (Técnico e/ou Administrativo), em conformidade
+     com o art. 117 da Lei nº 14.133/2021, definindo claramente suas atribuições e responsabilidades.
+
+     Capacitação dos Servidores: Verificar a competência e a necessidade de capacitação dos servidores
+      designados para as atividades de fiscalização e gestão contratual, providenciando o treinamento necessário
+      sobre as especificidades do objeto (equipamentos audiovisuais) e as rotinas de fiscalização, se for o caso.
+
+13.2. Planejamento da Execução e Coordenação Intercontratual
+
+     Alinhamento com a Equipe de Manutenção: Promover, antes mesmo da assinatura do contrato, reunião de
+      alinhamento entre os fiscais designados para o contrato de fornecimento dos equipamentos e a equipe de
+       fiscalização do contrato de manutenção predial/infraestrutura vigente.
+    O objetivo é pré-estabelecer o fluxo de comunicação e o cronograma macro de entrega, instalação, testes de
+      funcionamento e suporte técnico inicial, mitigando riscos oriundos da interdependência com contratos de
+     manutenção e suporte de TI.
+
+13.3. Adequação da Infraestrutura Logística e Ambiente
+
+     Preparação da Área de Recebimento: Comunicar e preparar o setor de Almoxarifado para o recebimento dos
+     equipamentos audiovisuais, assegurando espaço adequado para armazenamento inicial, conferência física e
+      testes preliminares.
+
+     Preparação do Espaço de Instalação: Garantir que o auditório e o estúdio estejam devidamente preparados
+      (energia elétrica, rede lógica, espaço físico) para a instalação e integração dos equipamentos, evitando atrasos
+     ou retrabalho.
+
+
+
+
+
+                                                                                                                      19 de 22
+
+13.4. Providências Administrativas Gerais
+
+     Reserva Orçamentária: Assegurar a existência de dotação orçamentária suficiente e na classificação de
+     despesa correta  ( capital – 44.90.52 – Equipamentos e Material Permanente ) para fazer face ao valor
+      estimado da contratação.
+
+
+
+14. Possíveis Impactos Ambientais
+
+14.1. Identificação do Principal Impacto Ambiental
+
+O principal impacto ambiental associado a esta contratação reside no ciclo de vida dos equipamentos audiovisuais
+, especialmente no que se refere a:
+
+    Consumo energético dos televisores, câmeras e sistemas de áudio durante sua operação contínua;
+
+     Descartes futuros de equipamentos eletrônicos ao final de sua vida útil, que podem ser classificados como
+      resíduos eletroeletrônicos (e-lixo), contendo metais e componentes que exigem destinação adequada;
+
+     Uso de materiais e embalagens para acondicionamento e transporte dos bens.
+
+O descarte inadequado desses resíduos eletrônicos em aterros comuns ou locais não licenciados pode levar à
+contaminação do solo e da água, além de gerar desperdício de materiais passíveis de reciclagem e reutilização.
+
+14.2. Medidas Mitigadoras e de Tratamento Adotadas
+
+Para mitigar esses impactos e assegurar a responsabilidade ambiental, a Administração adotará as seguintes
+medidas, que serão incorporadas como obrigações contratuais no Termo de Referência:
+
+      Eficiência Energética: Exigir que os equipamentos fornecidos atendam a padrões de eficiência energética,
+    com certificação reconhecida (por exemplo, Selo Procel ou Energy Star), contribuindo para redução do
+     consumo elétrico.
+
+      Durabilidade e Garantia: Requisitar garantia mínima de 12 (doze) meses e comprovação de assistência
+      técnica nacional, assegurando maior vida útil dos produtos e evitando descarte prematuro.
+
+      Logística Reversa: Estabelecer como obrigação da contratada a realização da  logística reversa das
+     embalagens e, futuramente, dos equipamentos inservíveis, em conformidade com a Política Nacional de
+     Resíduos Sólidos (Lei nº 12.305/2010).
+
+     Comprovação de Destinação Final: Sempre que ocorrer a substituição de itens por defeito em garantia, a
+      contratada deverá comprovar a destinação ambientalmente adequada dos produtos recolhidos, mediante
+       certificado emitido por empresa licenciada pelo órgão ambiental competente.
+
+     Uso Sustentável de Materiais: Estimular que a fornecedora adote práticas de redução de embalagens e
+       utilização de materiais recicláveis no transporte e acondicionamento dos bens.
+
+
+
+15. Declaração de Viabilidade
+
+Esta equipe de planejamento declara viável esta contratação.
+
+
+
+
+
+                                                                                                                      20 de 22
+
+15.1. Justificativa da Viabilidade
+
+15.1. Justificativa da Viabilidade
+
+Diante de todo o exposto e com base nos elementos colhidos e analisados ao longo deste Estudo Técnico Preliminar, declara-se que a presente
+contratação é VIÁVEL .
+
+A viabilidade da contratação fundamenta-se nos seguintes pontos:
+
+Viabilidade Técnica:
+A solução proposta – aquisição de equipamentos audiovisuais (televisores, câmeras, microfones, mesa de som, transmissores e acessórios) – é
+tecnicamente consolidada, padronizada e compatível com a infraestrutura existente do CTI Renato Archer. A contratação resolve de forma eficaz a
+necessidade de modernização do auditório e a implementação de um estúdio de gravação, assegurando maior qualidade audiovisual, integração
+tecnológica e facilidade de operação pelas equipes internas.
+
+Viabilidade Econômico-Financeira:
+A contratação é economicamente vantajosa, pois representa melhor relação custo-benefício frente à contratação contínua de serviços terceirizados ou
+locação de equipamentos. O valor estimado de R$ 40.146,68 foi obtido por meio de ampla e robusta pesquisa de mercado, demonstrando-se razoável e
+compatível com os preços praticados. Ademais, a despesa encontra-se prevista no Plano Anual de Contratações (PAC) 2025 , assegurando alinhamento
+orçamentário.
+
+Viabilidade de Mercado:
+O levantamento de mercado demonstrou a existência de um ambiente concorrencial saudável, com múltiplos fornecedores nacionais e internacionais
+aptos a atender à demanda por estes bens de natureza comum. A estratégia de adjudicação por item amplia a competitividade, favorecendo a obtenção de
+propostas mais vantajosas para a Administração.
+
+Viabilidade Administrativa e Ambiental:
+Os requisitos da contratação, as obrigações das partes, os papéis da fiscalização, as providências prévias e a gestão dos riscos (incluindo
+interdependência com contratos de manutenção e mitigação dos impactos ambientais por meio de logística reversa e eficiência energética) foram
+devidamente mapeados e tratados neste estudo, conferindo segurança e clareza para a futura gestão contratual.
+
+
+
+16. Responsáveis
+
+
+ Todas as assinaturas eletrônicas seguem o horário oficial de Brasília e fundamentam-se no §3º do Art. 4º do Decreto nº 10.543, de 13 de novembro de
+2020.
+
+                                       Despacho: Portaria nº 51/2019/SEI-CTI, de 29 de abril de 2019
+
+
+
+
+
+                            MELISSA ORTEGA MANTOVANI
+
+                                                       Agente de contratação
+
+
+
+
+                                       Despacho: Portaria nº 51/2019/SEI-CTI, de 29 de abril de 2019
+
+
+
+
+
+                                CELSO PEREIRA
+
+                                                          Equipe de apoio
+
+
+
+
+                                       Despacho: Portaria nº 51/2019/SEI-CTI, de 29 de abril de 2019
+
+
+
+
+
+                                                                                                                      21 de 22
+
+      LETICIA MUNIZ DOS SANTOS
+
+                    Equipe de apoio
+
+
+
+
+Despacho: Portaria nº 51/2019/SEI-CTI, de 29 de abril de 2019
+
+
+
+
+
+           JAIME KHATER
+
+                    Chefe da DIRIN
+
+
+
+
+Despacho: Portaria nº 51/2019/SEI-CTI, de 29 de abril de 2019
+
+
+
+
+
+EDUARDO FABIO DE CARVALHO LOYOLLA
+
+                         Requisitante
+
+
+
+
+
+                                                                                  22 de 22
+

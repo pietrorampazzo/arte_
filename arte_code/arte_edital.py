@@ -13,6 +13,7 @@ from pdf2image import convert_from_path
 import pytesseract
 import google.generativeai as genai
 from dotenv import load_dotenv
+from datetime import datetime
 
 # =====================================================================================
 # 1. CONFIGURAÇÕES E CONSTANTES
@@ -39,16 +40,16 @@ rarfile.UNRAR_TOOL = str(UNRAR_CMD)
 # --- Configuração da API Generativa com Fallback ---
 LLM_MODELS_FALLBACK = [
 
-    "gemini-2.0-flash-lite",
-    "gemini-2.0-flash",
-    "gemini-1.5-flash",  
     "gemini-2.5-pro",
     "gemini-2.5-flash",
     "gemini-2.5-flash-lite",
+    "gemini-2.0-flash-lite",
+    "gemini-2.0-flash",
+    
 ]
 
 # --- Configuração da API Generativa ---
-API_KEY = os.getenv("GOOGLE_API_KEY")
+API_KEY = os.getenv("GOOGLE_API_PAGO")
 if not API_KEY:
     print("ERRO: A variável de ambiente GOOGLE_API_KEY não foi definida.")
 else:
@@ -88,7 +89,7 @@ PALAVRAS_CHAVE = [
     r'Suporte para teclado',
 
     # ------------------ Microfones e acessórios ------------------
-    r'Microfone',
+    r'Microfone', r'palheta', r'PALHETA'
     r'Microfone direcional',
     r'Microfone Dinâmico',
     r'Microfone de Lapela',
@@ -107,7 +108,8 @@ PALAVRAS_CHAVE = [
     r'Amplificador som',
     r'Amplificador fone ouvido',
     r'Interface de Áudio',
-    r'Mesa áudio',
+    r'Mesa áudio', r'Mesa de Som', 
+    r'Equipamento Amplificador', r'Rack para Mesa'
 
     # ------------------ Pedestais e suportes ------------------
     r'Pedestal caixa acústica',
@@ -339,12 +341,20 @@ def tratar_dataframe(df):
     # Usamos isnull() para checar células vazias (NaN)
     if 'VALOR_UNIT' in df.columns and 'VALOR_TOTAL' in df.columns and 'QTDE' in df.columns:
         mask_unit = (df['VALOR_UNIT'].isnull()) & (df['VALOR_TOTAL'].notna()) & (df['QTDE'].notna() & df['QTDE'] > 0)
-        df.loc[mask_unit, 'VALOR_UNIT'] = df.loc[mask_unit, 'VALOR_TOTAL'] / df.loc[mask_unit, 'QTDE']
+        if mask_unit.any():
+            print(f"    > Preenchendo {mask_unit.sum()} VALOR_UNIT ausente(s) a partir do VALOR_TOTAL e QTDE.")
+            df.loc[mask_unit, 'VALOR_UNIT'] = df.loc[mask_unit, 'VALOR_TOTAL'] / df.loc[mask_unit, 'QTDE']
 
     # Recalcula VALOR_TOTAL para garantir consistência onde for possível
     if 'QTDE' in df.columns and 'VALOR_UNIT' in df.columns:
         mask_total = df['QTDE'].notna() & df['VALOR_UNIT'].notna()
-        df.loc[mask_total, 'VALOR_TOTAL'] = df.loc[mask_total, 'QTDE'] * df.loc[mask_total, 'VALOR_UNIT']
+        # Adicionamos uma verificação para não recalcular se o valor total já existe e é consistente
+        # Isso evita sobrescrever um valor total extraído corretamente que tenha um pequeno erro de arredondamento
+        # em comparação com o cálculo. Vamos recalcular apenas se VALOR_TOTAL estiver vazio.
+        mask_recalc_total = mask_total & df['VALOR_TOTAL'].isnull()
+        if mask_recalc_total.any():
+            print(f"    > Calculando {mask_recalc_total.sum()} VALOR_TOTAL ausente(s) a partir de QTDE e VALOR_UNIT.")
+            df.loc[mask_recalc_total, 'VALOR_TOTAL'] = df.loc[mask_recalc_total, 'QTDE'] * df.loc[mask_recalc_total, 'VALOR_UNIT']
     
     # As colunas de valor agora são numéricas (float), com NaN para vazios.
     # A conversão de volta para string foi removida para permitir cálculos em outros scripts.
@@ -818,6 +828,9 @@ def main():
             # Se não contiver exceção nem exclusão, mantenha (já passou pelo filtro de inclusão).
             return True
         df_filtrado = df_com_relevantes[df_com_relevantes.apply(deve_manter, axis=1)].copy()
+
+        # Adicionar coluna de timestamp
+        df_filtrado['TIMESTAMP'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
         df_filtrado.to_excel(FINAL_MASTER_PATH, index=False)
         print(f"✅ Arquivo 'master.xlsx' criado com {len(df_filtrado)} itens relevantes.")

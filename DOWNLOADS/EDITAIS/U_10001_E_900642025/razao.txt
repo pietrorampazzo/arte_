@@ -1,0 +1,619 @@
+CÂMARA DOS DEPUTADOS
+          COMISSÃO PERMANENTE DE CONTRATAÇÕES
+
+
+                                                    Pregão Eletrônico 90064/2025
+
+
+                        ANEXO 1
+                  TERMO DE REFERÊNCIA
+
+1.  CONDIÇÕES GERAIS DA CONTRATAÇÃO
+
+Objeto
+ 1.1.   Aquisição de bolsa fotográfica profissional; estabilizador (GIMBAL) de câmera
+ DSLR e de câmera SMARTPHONE; adaptador sem fio para microfone; apresentador
+ sem fio com ponteiro laser; câmera fotográfica digital; fone de ouvido HEADSET;
+ projetor  multimídia;  fone  de  ouvido  do  tipo  fechado;  microcontrolador  da
+ marca/modelo RASPBERRY/PI 5; fone de ouvido profissional; banco de baterias
+ portátil; câmera webcam grande angular; caixa acústica amplificada; sistema de
+ microfone sem fio dual; e mixer de áudio USB 4 entradas, novos e para primeiro uso.
+ 1.2.  Os bens objeto desta contratação são caracterizados como comuns.
+ 1.3.  O objeto desta contratação não se enquadra como sendo bem de luxo,
+ conforme Título III do REGULAMENTO.
+Especificações Técnicas
+
+ITEM 1 - BOLSA FOTOGRÁFICA PROFISSIONAL PARA CONJUNTO CÂMERA E
+2 LENTES – PARTICIPAÇÃO EXCLUSIVA ME/EPP
+CARACTERÍSTICA(S): bolsa ou mochila para transporte de conjunto de câmera
+fotográfica DSLR  (full frame), lente objetiva 24-70 mm e lente objetiva 50 mm;
+revestimento externo impermeável; com acolchoamento interno para absorção de
+impactos; com 1 (uma) alça de mão e 1 (uma) alça de ombro regulável; com divisões
+internas removíveis (permitindo capacidade para divisão em pelo menos 3 áreas);
+mínimo de 1 (um) bolso externo fechável com zíper; dimensões máximas de 200 x
+300 x 450mm (altura x largura x comprimento).
+COR: preta.
+COMPATIBILIDADE: total com conjunto de câmera Canon EOS 6D Mark II, lente
+Canon EF 24-70mm F/2.8L II USM e lente Canon EF 50mm F/1.4.
+GARANTIA MÍNIMA: 3 (três) meses, contados da data do recebimento definitivo.
+ACONDICIONAMENTO embalagem  original  de  fábrica, com  identificação  e
+quantidade do material.
+Unidade: UNIDADE
+Quantidade: 1
+
+
+ITEM 2  - ESTABILIZADOR (GIMBAL) DE CÂMERA DSLR – PARTICIPAÇÃO
+EXCLUSIVA ME/EPP
+
+                                   P á g  i n a 25 | 57
+
+                               (Processo Administrativo 1047475/2024)
+
+                                                                           PAD 39/25
+
+        CÂMARA DOS DEPUTADOS
+          COMISSÃO PERMANENTE DE CONTRATAÇÕES
+
+
+                                                   Pregão Eletrônico 90064/2025
+
+
+MARCA(S)/MODELO(S) DE REFERÊNCIA: ZHIYUN/CRANE 2S; FEIYU/SCORP 2;
+DJI/RSC 2.
+CARACTERÍSTICA(S):
+- estabilizador motorizado do tipo gimbal de 3 eixos, para operação com câmeras do
+tipo DSLR e cinematográficas compactas;
+- para operação com uma mão ("one-handed");
+- capacidade de carga máxima igual ou superior a 2,5 kg (dois quilos e meio);
+- controle de pan (360 graus), tilt (mínimo de 300 graus) e roll (mínimo de 300 graus),
+com possibilidade de controle remoto via Bluetooth;
+- possuir controle do tipo “wheel”;
+- possuir motores angulados em relação ao ponto de instalação da câmera, de forma
+a não obstruir a visão da tela da câmera quando estiver em operação no gimbal;
+- possuir corpo em ligas metálicas leves, baseadas em alumínio, magnésio ou fibra
+de carbono;
+- alimentação através de bateria recarregável.
+ACESSÓRIO(S):
+- mala ou case para transporte;
+- bandeja para conexão ajustável da câmera ao gimbal (“camera plate”), compatível
+com câmera do tipo DSLR;
+- demais acessórios que se fizerem necessários ao atendimento dos requisitos.
+GARANTIA MÍNIMA: 12 (doze) meses, contados da data do recebimento definitivo.
+ACONDICIONAMENTO: embalagem  original de  fábrica, com  identificação e
+quantidade do material.
+Unidade: UNIDADE
+Quantidade: 1
+
+
+ITEM  3   -  ESTABILIZADOR  (GIMBAL) DE CÂMERA SMARTPHONE  –
+PARTICIPAÇÃO EXCLUSIVA ME/EPP
+MARCA(S)/MODELO(S) DE REFERÊNCIA: DJI/OSMO MOBILE 6; FEIYU/SPG 2;
+ZHIYUN/SMOOTH 5S.
+CARACTERÍSTICA(S):
+- estabilizador motorizado do tipo gimbal de 3 eixos, de mão (“handheld”), para
+captação de vídeo através de smartphones;
+
+                                  P á g  i n a 26 | 57
+
+                              (Processo Administrativo 1047475/2024)
+
+                                                                           PAD 39/25
+
+        CÂMARA DOS DEPUTADOS
+          COMISSÃO PERMANENTE DE CONTRATAÇÕES
+
+
+                                                   Pregão Eletrônico 90064/2025
+
+
+- realizar calibração automática para estabilização do sistema;
+- permitir controle de pan (faixa mínima: -150º a +150º) e tilt (faixa mínima: -125º a
++35º) através de joystick integrado ao corpo do estabilizador;
+- permitir iniciar e parar a gravação diretamente a partir do corpo do estabilizador;
+- opções de operação em modo retrato ou paisagem nativamente, sem necessidade
+de adaptadores;
+-  possuir  aplicativo  compatível com  sistemas iOS e  Android  para  controle,
+configuração e operação do estabilizador através do smartphone, com conexão
+através de bluetooth;
+- compatível para uso com smartphones com tela de até 6,5" e peso de até 210g;
+- possuir função de rastreamento de rosto, acompanhando sua movimentação no
+enquadramento da gravação;
+- possuir corpo em liga metálica;
+- bateria recarregável de polímero de íons, com capacidade mínima de 980 mAh
+(novecentos e oitenta miliampere-hora), recarregável através de conexão com cabo
+USB no corpo do estabilizador ou através de carregador externo;
+- permitir a montagem em tripés e monopés com rosca universal de ¼” (um quarto de
+polegada), nativamente ou através de adaptador.
+ACESSÓRIOS:
+- mala ou case para transporte;
+- suporte para adaptação e montagem de estabilizador em tripés caso necessário
+(conexão com rosca de 1/4");
+- contra-peso para estabilização do estabilizador e smartphone, caso necessário;
+- carregador de baterias externo;
+- demais acessórios que se fizerem necessários ao atendimento dos requisitos.
+GARANTIA MÍNIMA: 12 (doze) meses, contados da data do recebimento definitivo.
+ACONDICIONAMENTO: embalagem  original de  fábrica, com  identificação e
+quantidade do material.
+Unidade: UNIDADE
+Quantidade: 1
+
+
+ITEM 4  - ADAPTADOR SEM FIO PARA MICROFONE – PARTICIPAÇÃO
+EXCLUSIVA ME/EPP
+
+
+                                  P á g  i n a 27 | 57
+
+                              (Processo Administrativo 1047475/2024)
+
+                                                                           PAD 39/25
+
+        CÂMARA DOS DEPUTADOS
+          COMISSÃO PERMANENTE DE CONTRATAÇÕES
+
+
+                                                   Pregão Eletrônico 90064/2025
+
+
+MARCA(S)/MODELO(S)  DE  REFERÊNCIA:  BOSS/WL-30XLR;   XVIVE/U3;
+SENNHEISER/XSW-D.
+CARACTERÍSTICA(S):  kit composto por transmissor sem  fio, com conexão a
+microfone de mão (“handheld”), e receptor sem fio, conectável a entrada de áudio
+XLR-3.
+CARACTERÍSTICAS DO TRANSMISSOR: alcance de transmissão de pelo menos
+25 metros; entrada do tipo XLR-3, para conexão em saída XLR-3 de microfone;
+alimentação por pilhas (ou baterias) alcalinas e/ou recarregáveis.
+CARACTERÍSTICAS DO RECEPTOR: portátil, alimentado por pilhas (ou baterias)
+alcalinas e/ou recarregáveis; saída de áudio balanceada do tipo XLR-3, para conexão
+em entrada XLR-3 de amplificador/mixer; frequência de transmissão na faixa de 2,4
+GHZ; capacidade de busca por canais livres.
+ACESSÓRIO(S):  carregador de  baterias,  compatível com o  aparelho, se o
+equipamento utilizar pilhas recarregáveis.
+GARANTIA MÍNIMA: 12 (doze) meses, contados da data do recebimento definitivo.
+ACONDICIONAMENTO: embalagem  original de  fábrica, com  identificação e
+quantidade do material.
+Unidade: UNIDADE
+Quantidade: 1
+
+
+ITEM 5 - APRESENTADOR SEM FIO COM PONTEIRO LASER – PARTICIPAÇÃO
+EXCLUSIVA ME/EPP
+MARCA(S)/MODELO(S)     DE      REFERÊNCIA:      LOGITECH/R500;
+MULTILASER/AC294; KENSINGTON/K72367BR.
+DESCRIÇÃO: apresentador sem fio com apontador laser para uso com PCs
+CARACTERÍSTICA(S): do tipo controle remoto; apontador com laser na cor vermelha
+ou verde, com botão de acionamento; dispositivo "plug-and-play", sem necessidade
+de "drivers"; apresentador com no mínimo 2 botões de ação ('para frente' e 'para
+trás'); comunicação por RF na frequência de faixa de 2.4 GHz; distância máxima de
+operação (entre apresentador e receptor) de pelo menos 20 metros.
+ACESSÓRIO(S): conjunto de pilhas e/ou baterias adequadas para a alimentação do
+dispositivo.
+COMPATIBILIDADE: com sistema operacional Windows 10.
+GARANTIA MÍNIMA: 12 (doze) meses contados da data do recebimento definitivo do
+material.
+
+
+                                  P á g  i n a 28 | 57
+
+                              (Processo Administrativo 1047475/2024)
+
+                                                                           PAD 39/25
+
+        CÂMARA DOS DEPUTADOS
+          COMISSÃO PERMANENTE DE CONTRATAÇÕES
+
+
+                                                   Pregão Eletrônico 90064/2025
+
+
+ACONDICIONAMENTO: embalagem  original de  fábrica, com  identificação e
+quantidade do material.
+Unidade: UNIDADE
+Quantidade: 5
+
+
+ITEM 6  - CÂMERA FOTOGRÁFICA DIGITAL – PARTICIPAÇÃO EXCLUSIVA
+ME/EPP
+MARCA(S)/MODELO(S) DE REFERÊNCIA: NIKON/D5600; CANON/REBEL SL3;
+PENTAX/KF.
+CARACTERÍSTICA(S):  câmera  fotográfica  digital  do  tipo  reflex, com  lente
+intercambiável e visor óptico (DSLR); dispositivo de imagem CMOS, APS-C ou full
+frame (35 mm), com, no mínimo, 20 MP (mega pixels); lente objetiva abrangendo no
+mínimo a faixa de 18 a 50 mm; sensibilidade ajustável na faixa (mínima) de 100 a
+12800 ISO; velocidade do obturador variando pelo menos de 1/4000s (um quatro mil
+avos de segundo) até 30s (trinta segundos); suporte a foco automático e manual,
+com sistema de foco automático contínuo de pelo menos 9 (nove) pontos de
+detecção; armazenamento digital de fotos nos formatos RAW e JPEG; capacidade
+de disparo contínuo de pelo menos 5 quadros por segundo, em resolução máxima;
+suporte a balanço de branco automático ou manual; dispositivo para visualização de
+imagem tipo LCD, LED ou OLED, em cores, com diagonal mínima de 3” (três
+polegadas); visor (“viewfinder”) fixo ao nível do olho, óptico, com cobertura de
+imagem de 95% (noventa e cinco por cento) ou superior; armazenamento em cartão
+de  memória  SD/SDHC/SDXC;  alimentação com  bateria  recarregável, com
+capacidade de pelo menos 1000 mAh (mil miliampere-hora); flash integrado, com
+possibilidade de uso de flash externo via hot shoe; entrada para microfone externo;
+conexão por WiFi para transferência de arquivos; comunicação com PC por meio de
+conexão USB.
+ACESSÓRIO(S): 2 (dois) cartões de memória de no mínimo 64GB cada, padrão
+SDXC ou superior, compatíveis com a câmera, com classificação de velocidade UHS-
+I (classe U1 ou superior); 1 (um) leitor de cartões SD/SDHC/SDXC, com conexão
+USB para uso com PC; 2 (duas) baterias recarregáveis (a que vem como padrão da
+câmera e uma extra, com capacidade igual ou superior); 1 (um) carregador de bateria
+(bivolt ou universal); 1 (um) cabo de comunicação USB; 1 (uma) alça para câmera; 1
+(uma) tampa para corpo; acesso a software e manual de operação; todos os itens
+devem ser originais de fabricante (exceto os cartões de memória e o leitor de cartões)
+e compatíveis com o modelo ofertado.
+GARANTIA MÍNIMA: 12 (doze) meses, contados da data do recebimento definitivo
+do material.
+
+
+
+                                  P á g  i n a 29 | 57
+
+                              (Processo Administrativo 1047475/2024)
+
+                                                                           PAD 39/25
+
+        CÂMARA DOS DEPUTADOS
+          COMISSÃO PERMANENTE DE CONTRATAÇÕES
+
+
+                                                   Pregão Eletrônico 90064/2025
+
+
+ACONDICIONAMENTO: embalagem  original de  fábrica, com  identificação e
+quantidade do equipamento.
+Unidade: UNIDADE
+Quantidade: 1
+
+
+ITEM 7 - FONE DE OUVIDO HEADSET – PARTICIPAÇÃO EXCLUSIVA ME/EPP
+MARCA(S)/MODELO(S) DE REFERÊNCIA: LOGITECH/G432; JBL/QUANTUM 400;
+RAZER/BLACKSHARK V2.
+CARACTERÍSTICA(S): fone de ouvido estéreo (binaural), com câmaras acústicas do
+tipo circumaural (fechadas ou semiabertas, "over-the-ear"); arco do fone de ouvido
+com ajuste para a cabeça; resposta mínima em frequência do fone de 50Hz a 18KHz;
+microfone direcional com haste ajustável, com resposta mínima em frequência de
+100Hz a 10KHz; conexão por fio; cabo com ligação a apenas um dos lados do
+headset, de comprimento mínimo de 1,5m; conector de áudio do tipo USB-A.
+COR(ES): corpo do headset na cor (principal) preta.
+COMPATIBILIDADE: com sistema operacional Windows 10.
+GARANTIA MÍNIMA: 12 (doze) meses, contados da data do recebimento definitivo.
+ACONDICIONAMENTO: embalagem  original de  fábrica, com  identificação e
+quantidade do material.
+Unidade: UNIDADE
+Quantidade: 1
+
+
+ITEM 8 - PROJETOR MULTIMÍDIA – PARTICIPAÇÃO EXCLUSIVA ME/EPP
+MARCA(S)/MODELO(S) DE REFERÊNCIA: BENQ/TH575; INTELBRAS/PFL6410;
+VIEWSONIC/PX701HDH.
+CARACTERÍSTICA(S): lâmpada com emissão ("brightness") mínima de 3500 lúmens
+ANSI; resolução nativa mínima de 1920 x 1080 (Full HD); correção de paralaxe
+vertical ("keystone correction"), com capacidade de ajuste pelo controle (menu);
+entrada digital HDMI, com capacidade para sinais até 1080p; entrada de áudio;
+ajustes de zoom ótico (se houver) e foco; recurso de inversão da imagem para
+instalação em teto ("ceiling mount"); capacidade para abrir uma imagem (proporção
+16:9, com possível uso de zoom ótico) de 1,50m de largura em alguma distância entre
+o projetor e a tela na faixa de 2,00m a 2,40m; controle remoto tipo infravermelho.
+
+
+
+
+
+                                  P á g  i n a 30 | 57
+
+                              (Processo Administrativo 1047475/2024)
+
+                                                                           PAD 39/25
+
+        CÂMARA DOS DEPUTADOS
+          COMISSÃO PERMANENTE DE CONTRATAÇÕES
+
+
+                                                   Pregão Eletrônico 90064/2025
+
+
+TENSÃO: 110/220 Vac, 60 Hz, com seleção automática; o conector deve ser
+compatível com tomada padrão NBR 14136 (ABNT NBR 14136:2012 Versão
+Corrigida 4:2013) ou deve ser fornecido adaptador.
+GARANTIA MÍNIMA: 12 (doze) meses, contados da data do recebimento definitivo.
+ACONDICIONAMENTO: embalagem  original de  fábrica, com  identificação e
+quantidade do material.
+Unidade: UNIDADE
+Quantidade: 1
+
+
+ITEM 9 - FONE DE OUVIDO DO TIPO FECHADO – PARTICIPAÇÃO EXCLUSIVA
+ME/EPP
+MARCA(S)/MODELO(S) DE REFERÊNCIA: BEHRINGER/HPM-1000; AKG/K52;
+SAMSON/SR350.
+CARACTERÍSTICA(S): fone de ouvido circumaural (over-ear) estereofônico dinâmico
+do tipo fechado; protetor e arco do fone acolchoados; arco com ajuste de tamanho;
+conexão por cabo único, unilateral; resposta mínima em frequência de 20Hz a 20KHz;
+sensibilidade de 105dB a 1KHz / 1mW, ou melhor; cabo com tamanho mínimo de 2m
+(dois metros); conector do tipo P2 estéreo de 1/8" (um oitavo de polegada).
+ACESSÓRIO(S): adaptador para conector do tipo P10 estéreo de 1/4" (um quarto de
+polegada).
+GARANTIA MÍNIMA: 3 (três) meses, contados da data do recebimento definitivo.
+ACONDICIONAMENTO: embalagem  original de  fábrica, com  identificação e
+quantidade do material.
+Unidade: PEÇA
+Quantidade: 20
+
+
+ITEM 10  - MICROCONTROLADOR RASPBERRY  PI 5 – PARTICIPAÇÃO
+EXCLUSIVA ME/EPP
+MARCA/MODELO: RASPBERRY/PI 5.
+CARACTERÍSTICA(S): processador quad core com frequência de 2,4GHz; memória
+RAM de 4GB ou maior; conectividade Wi-Fi 2.4GHz e 5.0GHz padrão 802.11
+b/g/n/ac, com certificação Anatel; interface Gigabit Ethernet RJ45; slot para cartão de
+memória tipo MicroSD; 2 saídas micro-HDMI; 2 portas USB 2.0; 2 portas USB 3.0;
+alimentação por meio de conector USB-C; GPU com capacidade para decodificação
+de vídeos H.264 em resolução 4kp60.
+
+
+                                  P á g  i n a 31 | 57
+
+                              (Processo Administrativo 1047475/2024)
+
+                                                                           PAD 39/25
+
+        CÂMARA DOS DEPUTADOS
+          COMISSÃO PERMANENTE DE CONTRATAÇÕES
+
+
+                                                   Pregão Eletrônico 90064/2025
+
+
+ACESSÓRIO(S): cartão de memória tipo MicroSD de 32GB classe 10 ou melhor;
+fonte de alimentação original de fabricante para o modelo Pi 5 ('RASPBERRY PI 27W
+USB-C POWER SUPPLY'), com entrada 220V/60Hz e plugue no padrão brasileiro
+(sem uso de adaptadores) - fonte com saída de 5V e capacidade de corrente de 5A
+(ou maior) em conector tipo USB-C; 1 case original de fabricante ('RASPBERRY PI
+CASE FOR RASPBERRY PI  5'), com ventoinha inclusa e todas as furações
+compatíveis com as portas do microcontrolador; 1 cabo HDMI x microHDMI com, no
+mínimo, 1m de comprimento.
+GARANTIA MÍNIMA: 12 (doze) meses, contados a partir da data de recebimento
+definitivo.
+Unidade: UNIDADE
+Quantidade: 35
+
+
+ITEM 11 - FONE DE OUVIDO PROFISSIONAL – PARTICIPAÇÃO EXCLUSIVA
+ME/EPP
+MARCA(S)/MODELO(S)  DE  REFERÊNCIA:  SENNHEISER/HD  280  PRO;
+BEYERDYNAMIC/ DT 770 PRO.
+CARACTERÍSTICA(S): do  tipo fone de ouvido de  referência para mixagem;
+circumaural, de câmara fechada; atenuação mínima de ruídos externos de 18dB;
+resposta em frequência mínima de 8Hz a 25kHz; conector P10 (6.35mm) estéreo, ou
+conector P2 (3.5mm) estéreo com adaptador do tipo rosqueável P2 para P10;
+impedância de entrada entre 60 ohms e 100 ohms; distorção harmônica total (THD)
+menor que 0,2%; sensibilidade mínima de 95dB SPL (em 1kHz) na entrada; cabo
+com no mínimo 1,20m de comprimento.
+GARANTIA MÍNIMA: 12 (doze) meses, contados da data do recebimento definitivo.
+ACONDICIONAMENTO: embalagem  original de  fábrica, com  identificação e
+quantidade do material.
+Unidade: UNIDADE
+Quantidade: 10
+
+
+ITEM 12 - BANCO DE BATERIA PORTÁTIL (POWER BANK) – PARTICIPAÇÃO
+EXCLUSIVA ME/EPP
+MARCA(S)/MODELO(S) DE  REFERÊNCIA:  XIAOMI/POWER BANK  REDMI
+20000MAH; ANKER/POWERCORE 20K; GEONAV/PB20KWT.
+CARACTERÍSTICA(S): banco de baterias portátil; com baterias de polímero de lítio
+(Li-Po); carregamento por conector USB tipo C; mínimo de 2 (duas) saídas para
+carregamento de  dispositivos  através de conector padrão USB  tipo  A, com
+
+                                  P á g  i n a 32 | 57
+
+                              (Processo Administrativo 1047475/2024)
+
+                                                                           PAD 39/25
+
+        CÂMARA DOS DEPUTADOS
+          COMISSÃO PERMANENTE DE CONTRATAÇÕES
+
+
+                                                   Pregão Eletrônico 90064/2025
+
+
+capacidade de corrente de até 2A por porta de saída (uso simultâneo); display ou
+leds indicativos de carga das baterias; circuito interno de proteção contra sobrecarga,
+sobretensão e curto-circuito; peso máximo de 500g; homologação da Anatel.
+CAPACIDADE: 20000 mAh (mínimo).
+ACESSÓRIO(S): cabo USB-C para carregamento.
+GARANTIA MÍNIMA: 3 (três) meses, contados da data de recebimento definitivo do
+material.
+ACONDICIONAMENTO: embalagem  original de  fábrica, com  identificação e
+quantidade do material.
+Unidade: PEÇA
+Quantidade: 2
+
+
+ITEM  13   - CÂMERA WEBCAM GRANDE ANGULAR  – PARTICIPAÇÃO
+EXCLUSIVA ME/EPP
+MARCA(S)/MODELO(S)     DE     REFERÊNCIA:      LOGITECH/C930E;
+AVERMEDIA/PW315; RAZER/KIYO PRO.
+CARACTERÍSTICA(S): geração de vídeo em 1080p @ 30 fps (FullHD em vídeo
+progressivo a 30 quadros por segundo) ou superior; resolução nativa do sensor de
+1920x1080 (2 Megapixels) ou superior; campo de visão diagonal mínimo de 90 graus
+(lente grande angular); ajuste físico de tilt de ao menos 30 graus e de pan de 360
+graus (se a câmera não os possuir nativamente, deve possuir rosca de 1/4" para
+suporte de mesa ou tripé compatível, capaz de tais ajustes, a ser fornecido em
+conjunto); captação de áudio estéreo com 2 microfones omnidirecionais integrados;
+LED frontal indicativo de captura em andamento; interface lógica UVC - USB Video
+Class (PnP e nativamente compatível, sem necessidade de driver extra, com
+Windows 10 e softwares de comunicação, conferência, captura e transmissão de
+vídeo em tempo  real, além de  aplicações web congêneres executadas em
+navegador); conector USB Type-A macho com cabo de ao menos 1,5m de
+comprimento (caso a interface com o computador utilize outro padrão de conector,
+deverá ser fornecido adaptador de boa qualidade e compatível com as taxas de
+transmissão da câmera).
+ACESSÓRIO(S): instruções de uso em português ou inglês (em manual impresso ou
+digital).
+GARANTIA MÍNIMA: 12 (doze) meses, contados da data do recebimento definitivo.
+ACONDICIONAMENTO: embalagem  original de  fábrica, com  identificação e
+quantidade do material.
+Unidade: UNIDADE
+
+                                  P á g  i n a 33 | 57
+
+                              (Processo Administrativo 1047475/2024)
+
+                                                                           PAD 39/25
+
+        CÂMARA DOS DEPUTADOS
+          COMISSÃO PERMANENTE DE CONTRATAÇÕES
+
+
+                                                   Pregão Eletrônico 90064/2025
+
+
+Quantidade: 4
+
+
+ITEM 14  - PAR DE CAIXAS ACÚSTICAS AMPLIFICADAS – PARTICIPAÇÃO
+EXCLUSIVA ME/EPP
+MARCA(S)/MODELO(S)  DE  REFERÊNCIA:  BEHRINGER/MEDIA  40USB;
+ALESIS/ELEVATE 5; MACKIE/CR4.
+CARACTERÍSTICA(S): kit formado por par de caixas amplificadas tipo monitor, com
+no mínimo duas vias (graves e agudos) cada; potência mínima de 20 watts por caixa;
+alto-falante de graves com diâmetro mínimo de 4" (polegadas); resposta mínima em
+frequência de 80 Hz a 20 kHz; mínimo de uma entrada analógica estéreo (L/R) em
+nível de linha em conectores do tipo XLR-3 ou jack de 1/4"; controle de volume frontal;
+saída para fone de ouvido; dimensões máximas de 300 mm x 200 mm x 250 mm
+(altura x largura x profundidade).
+TENSÃO: 220 Vac, 60 Hz; o conector de alimentação deve ser compatível com
+tomada padrão NBR 14136 ou deve ser fornecido adaptador.
+ACESSÓRIO(S): deverá ser fornecido cabo de interligação das caixas acústicas.
+GARANTIA MÍNIMA: 12 (doze) meses, contados da data do recebimento definitivo.
+ACONDICIONAMENTO: embalagem original do fabricante.
+Unidade: UNIDADE
+Quantidade: 4
+
+
+ITEM 15  - SISTEMA DE MICROFONE SEM FIO DUAL – PARTICIPAÇÃO
+EXCLUSIVA ME/EPP
+MARCA(S)/MODELO(S) DE REFERÊNCIA: TSI/TSI-1200-UHF; STANER/SRW-
+48D; TAGIMA/TMJ-800.
+CARACTERÍSTICA(S): kit composto por 2 (duas) unidades de microfone de mão
+(“handheld”) com transmissor sem fio embutido, e 1 (um) receptor sem fio de mesa;
+resposta mínima em frequência do sistema de 100 Hz a 15 kHz; o sistema deve ser
+homologado na Anatel.
+CARACTERÍSTICAS DOS MICROFONES:
+- microfone de mão, para vocais;
+- transdutor do tipo dinâmico;
+- módulo transmissor incorporado ao corpo do microfone.
+CARACTERÍSTICAS DO TRANSMISSOR:
+
+                                  P á g  i n a 34 | 57
+
+                              (Processo Administrativo 1047475/2024)
+
+                                                                           PAD 39/25
+
+        CÂMARA DOS DEPUTADOS
+          COMISSÃO PERMANENTE DE CONTRATAÇÕES
+
+
+                                                   Pregão Eletrônico 90064/2025
+
+
+- potência de transmissão de no mínimo 10 mW (dez miliwatts);
+- frequência de transmissão na faixa de UHF, totalmente compatível com a frequência
+de operação do receptor a ser fornecido;
+- alimentação por pilhas tamanho AA.
+CARACTERÍSTICAS DO RECEPTOR:
+- portátil e apropriado para montagem em mesa;
+- com  display  digital  multifuncional (com  informação  simultânea  sobre cada
+microfone), que permita visualização de status e realização de configurações do
+sistema;
+- mínimo de 2 saídas de áudio balanceadas em conector XLR-3 (1 para cada
+microfone);
+- frequência de transmissão na faixa de UHF, entre 470-608 MHz e/ou 614-698 MHz
+(faixas autorizadas pela Anatel), com capacidade de escolha do canal de operação
+entre mais de 45 (quarenta) canais;
+- capacidade de seleção do canal de operação;
+- que utilize antenas externas para recepção.
+TENSÃO: 220 V, 60 Hz; o conector deve ser compatível com tomada padrão NBR
+14136 ou deve ser fornecido adaptador.
+ACESSÓRIO(S): 2 (dois) pedestais de mesa para microfone, com as seguintes
+características: base metálica em ferro fundido, haste metálica não flexível/articulada
+(com eixo no centro da base), altura mínima entre 20 cm e 40 cm, suporte universal
+do tipo cachimbo (com rosca metálica) para microfone e peso mínimo de 1,2 kg.
+GARANTIA MÍNIMA: 12 (doze) meses de fábrica, contados da data do recebimento
+definitivo.
+ACONDICIONAMENTO: embalagem  original de  fábrica, com  identificação do
+material.
+Unidade: UNIDADE
+Quantidade: 8
+
+
+ITEM 16 - MIXER DE ÁUDIO USB 4 ENTRADAS – PARTICIPAÇÃO EXCLUSIVA
+ME/EPP
+MARCA(S)/MODELO(S)   DE    REFERÊNCIA:   BEHRINGER/UMC404HD;
+TASCAM/US-4X4HR; STEINBERG/UR44C.
+CARACTERÍSTICA(S):  interface de  áudio para microcomputador padrão PC,
+compatível com sistema operacional Windows 10; mínimo de 4 entradas analógicas
+
+                                  P á g  i n a 35 | 57
+
+                              (Processo Administrativo 1047475/2024)
+
+                                                                           PAD 39/25
+
+         CÂMARA DOS DEPUTADOS
+          COMISSÃO PERMANENTE DE CONTRATAÇÕES
+
+
+                                                    Pregão Eletrônico 90064/2025
+
+
+balanceadas de microfone/linha; mínimo de 2 saídas analógicas balanceadas em
+nível de linha; entradas em conectores do tipo XLR-3 e TRS 1/4" (ou combo
+XLR/TRS), e saídas em conectores XLR-3 ou TRS 1/4"; controle de nível para cada
+entrada; saída para fone de ouvido em conector TRS 1/4"; alimentação para
+microfones do tipo condensador (phantom power); porta USB para conexão com
+microcomputador;  amostragem com  resolução  de  24-bit/48kHz  ou  melhor;
+capacidade de encaminhar os sinais diretamente das entradas para as saídas, sem
+passagem  pelo PC,  para monitoramento sem  latência;  controles, chaves e
+conectores dispostos no painel frontal e/ou traseiro (não serão admitidos com
+controles no painel superior pois essa disposição impede o empilhamento dos
+equipamentos); alimentação através de fonte de alimentação conectada à rede
+220V/60Hz; gabinete metálico.
+ACESSÓRIO(S): fonte de alimentação,  original do equipamento, com entrada
+compatível com 220V/60Hz.
+GARANTIA MÍNIMA: 12 (doze) meses, contados da data de recebimento definitivo.
+ACONDICIONAMENTO: embalagem  original de  fábrica, com  identificação e
+quantidade do material.
+Unidade: UNIDADE
+Quantidade: 4
+
+
+ 1.4.  Em caso de discordância existente entre as especificações descritas no
+ sistema eletrônico (Comprasnet) e as especificações constantes deste Termo de
+ Referência, prevalecerão as deste Termo de Referência.
+Formalização da contratação
+ 1.5.   Para assinatura do contrato ou instrumento equivalente será exigido o
+ Cadastro Informativo de Créditos não Quitados do Setor Público Federal – Cadin e a
+ comprovação das condições de habilitação e contratação consignadas no Edital, que
+ deverão ser mantidas pelo fornecedor durante a vigência do contrato ou instrumento
+ equivalente.
+ 1.5.1.   A  existência de  registro no Cadin  constitui  fator  impeditivo para a
+ contratação.
+ 1.6.  O instrumento de formalização da contratação será Nota de Empenho, na
+ forma do disposto no inciso II do artigo 95 da LEI.
+ 1.6.1.   A Nota de Empenho será encaminhada por e-mail.
+ 1.6.2.    A(s) Adjudicatária(s) do presente Pregão terá(ão) o prazo de 5 (cinco) dias
+ úteis, contado a partir da data de sua convocação, por e-mail, para assinar e
+
+
+
+                                   P á g  i n a 36 | 57
+
+                               (Processo Administrativo 1047475/2024)
+
+                                                                           PAD 39/25
+

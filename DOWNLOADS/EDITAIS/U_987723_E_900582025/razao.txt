@@ -1,0 +1,2529 @@
+MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+
+                         EDITAL DE PREGÃO ELETRONICO SRP Nº 058/2025
+                          PROCESSO LICITATÓRIO Nº 138/2025
+                           DATA DA REALIZAÇÃO: 09/10/2025
+                        HORÁRIO DE INÍCIO DA DISPUTA: às 08h00min
+                      LOCAL: Prefeitura do Município de Nova Fátima – Paraná
+                              www.gov.br/compras/pt-br “Acesso Identificado”
+
+                   ITENS DE AMPLA CONCORRÊNCIA E EXCLUSIVOS PRA ME E EPP
+
+O MUNICÍPIO DE NOVA FÁTIMA, Estado do Paraná, inscrito no CNPJ sob n.º 75.828.418/0001-90, através da Secretaria
+de Administração, sediado à Rua Dr. Aloysio de Barros Tostes nº 420, Nova Fátima, Paraná, por intermédio do
+Excelentíssima Prefeita Municipal, Renata Montenegro Balan Xavier, torna pública a realização de procedimento de
+licitação, na modalidade PREGÃO ELETRÔNICO, do tipo MENOR PREÇO POR ITEM, nos termos da Lei nº 14.133, de
+2021 e demais legislação aplicável e, ainda, de acordo com as condições estabelecidas neste Edital, objetivando a
+Contratação de empresa para fornecimento, implementação e manutenção de sistema de videomonitoramento
+urbano, atendendo as demandas da segurança pública municipal.
+
+                     DATA E HORA DA ABERTURA DA SESSÃO PÚBLICA:
+                                  09 de outubro de 2025 às 08h00min
+                                    Prefeitura Municipal de Nova Fátima, Paraná.
+                                     UASG: 987723
+                            Local da Sessão Pública: www.gov.br/compras/pt-br
+
+                           CLÁUSULA PRIMEIRA - DO OBJETO
+1.1 O objeto da presente licitação é o Contratação de empresa para fornecimento, implementação e manutenção de
+sistema de videomonitoramento urbano, atendendo as demandas da segurança pública municipal. A licitação será dividida
+em lotes, conforme tabela constante do Termo de Referência, facultando-se ao licitante a participação em quantos itens
+for de seu interesse.
+A licitação será realizada por lote.
+                   CLAUSULA SEGUNDA - DA PARTICIPAÇÃO NA LICITAÇÃO
+2.1.   Poderão  participar deste Pregão os interessados que estiverem previamente credenciados no Sistema de
+Cadastramento Unificado de Fornecedores - SICAF e no Sistema de Compras do Governo Federal (www.gov.br/compras),
+por meio de Certificado Digital conferido pela Infraestrutura de Chaves Públicas Brasileira – ICP – Brasil.
+2.1.1.  Os interessados deverão atender às condições exigidas no cadastramento no Sicaf até o terceiro dia útil anterior à
+data prevista para recebimento das propostas.
+2.2.  O licitante responsabiliza-se exclusiva e formalmente pelas transações efetuadas em seu nome, assume como
+firmes e verdadeiras suas propostas e seus lances, inclusive os atos praticados diretamente ou por seu representante,
+excluída a responsabilidade do provedor do sistema ou do órgão ou entidade promotora da licitação por eventuais danos
+decorrentes de uso indevido das credenciais de acesso, ainda que por terceiros.
+2.3.   É de responsabilidade do cadastrado conferir a exatidão dos seus dados cadastrais nos Sistemas relacionados no
+item anterior e mantê-los atualizados junto aos órgãos responsáveis pela informação, devendo
+proceder, imediatamente, à correção ou à alteração dos registros tão logo identifique incorreção ou aqueles se tornem
+desatualizados.
+2.4.   A não observância do disposto no item anterior poderá ensejar desclassificação no momento da habilitação.
+2.5.    Será concedido tratamento favorecido para as microempresas e empresas de pequeno porte, para as sociedades
+cooperativas mencionadas no artigo 16 da Lei nº 14.133, de 2021 , para o agricultor familiar, o produtor rural pessoa física
+e para o microempreendedor individual - MEI, nos limites previstos da Lei Complementar nº 123, de 2006 e do Decreto n.º
+8.538, de 2015.
+2.5.1.  A obtenção do benefício a que se refere o item anterior fica limitada às microempresas e às empresas de pequeno
+porte que, no ano-calendário de realização da licitação, ainda não tenham celebrado contratos com a Administração
+Pública cujos valores somados extrapolem a receita bruta máxima admitida para fins de enquadramento como empresa de
+pequeno porte.
+2.5.2 Aplica-se a este Pregão, nos itens/grupos exclusivos para microempresa e empresa de pequeno porte o disposto na
+Lei Municipal nº 2.374 de 19 de dezembro de 2022, que estabelece prioridade de contratação para empresas
+sediadas local e regionalmente, de acordo com os seguintes termos:
+2.5.2.1 Na situação em que as ofertas apresentadas pelas microempresas ou empresas de pequeno porte sediadas local
+e regionalmente sejam iguais ou até 10% (dez por cento) superiores ao menor preço válido.
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+2.5.2.2 A microempresa ou empresa de pequeno porte sediada local e regionalmente poderá ser contratada sendo pago
+até 10 % (dez por cento) a mais do melhor preço válido, desde que este valor seja compatível com a realidade do
+mercado.
+2.5.2.3 Os benefícios referidos no item 2.5.2.1 serão aplicados prioritariamente às licitantes microempresas e
+empresas de pequeno porte sediadas em âmbito local e posteriormente às seriadas em âmbito regional.
+2.5.3 Para fins de aplicação do dispositivo contido no item 2.5.2.3 consideram-se:
+2.5.3.1 Âmbito Local - Limites geográficos do Município de Nova Fátima;
+2.5.3.2 Âmbito Regional - Municípios do Estado do Paraná.
+2.5.4 Os Itens/grupos foram distribuídos conforme Lei complementar nº 123/2006, alterada pela Lei Complementar
+n° 147/2014, art. 48:
+2.6.   Não poderão disputar esta licitação:
+2.6.1.  aquele que não atenda às condições deste Edital e seu(s) anexo(s);
+2.6.2.  autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa física ou jurídica, quando a licitação versar
+sobre serviços ou fornecimento de bens a ele relacionados;
+2.6.3.  empresa, isoladamente ou em consórcio, responsável pela elaboração do projeto básico ou do projeto executivo,
+ou empresa da qual o autor do projeto seja dirigente, gerente, controlador, acionista ou detentor de mais de 5% (cinco por
+cento) do capital com direito a voto, responsável técnico ou subcontratado, quando a licitação versar sobre serviços ou
+fornecimento de bens a ela necessários;
+2.6.4.  pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitada de participar da licitação em
+decorrência de sanção que lhe foi imposta;
+2.6.5.  aquele que mantenha vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou  civil com
+dirigente do órgão ou entidade contratante ou com agente público que desempenhe função na licitação ou atue na
+fiscalização ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente em linha reta, colateral ou por
+afinidade, até o terceiro grau;
+2.6.6.  empresas controladoras, controladas ou coligadas, nos termos da Lei nº 6.404, de 15 de dezembro de 1976,
+concorrendo entre si;
+2.6.7.  pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do edital, tenha sido condenada
+judicialmente, com trânsito em julgado, por exploração de trabalho infantil, por submissão de trabalhadores a condições
+análogas às de escravo ou por contratação de adolescentes nos casos vedados pela legislação trabalhista;
+2.6.8.  agente público do órgão ou entidade licitante;
+2.6.9.  pessoas jurídicas reunidas em consórcio;
+2.6.10. Organizações da Sociedade Civil de Interesse Público - OSCIP, atuando nessa condição;
+2.6.11. Não poderá participar, direta ou indiretamente, da licitação ou da execução do contrato agente público do órgão ou
+entidade contratante, devendo ser observadas as situações que possam configurar conflito de interesses no exercício ou
+após o exercício do cargo ou emprego, nos termos da legislação que disciplina a matéria, conforme § 1º do art. 9º da Lei
+nº 14.133, de 2021.
+2.7.  O impedimento de que trata o item 2.6.4 será também aplicado ao licitante que atue em substituição a outra
+pessoa, física ou jurídica, com o intuito de burlar a efetividade da sanção a ela aplicada, inclusive a sua controladora,
+controlada ou coligada, desde que devidamente comprovado o ilícito ou a utilização fraudulenta da personalidade jurídica
+do licitante.
+2.8.   A critério da Administração e exclusivamente a seu serviço, o autor dos projetos e a empresa a que se referem os
+itens 2.6.2 e 2.6.3 poderão participar no apoio das atividades de planejamento da contratação, de execução da licitação ou
+de gestão do contrato, desde que sob supervisão exclusiva de agentes públicos do órgão ou entidade.
+2.9.    Equiparam-se aos autores do projeto as empresas integrantes do mesmo grupo econômico.
+2.10.  O disposto nos itens 2.6.2 e 2.6.3 não impede a licitação ou a contratação de serviço que inclua como encargo do
+contratado a elaboração do projeto básico e do projeto executivo, nas contratações integradas, e do projeto executivo, nos
+demais regimes de execução.
+2.11.  Em licitações e contratações realizadas no âmbito de projetos e programas parcialmente financiados por agência
+oficial de cooperação estrangeira ou por organismo financeiro internacional com recursos do financiamento ou da
+contrapartida nacional, não poderá participar pessoa física ou jurídica que integre o rol de pessoas sancionadas por essas
+entidades ou que seja declarada inidônea nos termos da Lei nº 14.133/2021.
+2.12.  A vedação de que trata o item 2.6.8 estende-se a terceiro que auxilie a condução da contratação na qualidade de
+integrante de equipe de apoio, profissional especializado ou funcionário ou representante de empresa que preste
+assessoria técnica.
+    CLAUSULA TERCEIRA - DA APRESENTAÇÃO DA PROPOSTA E DOS DOCUMENTOS DE HABILITAÇÃO
+3.1.   Na presente licitação, a fase de habilitação sucederá as fases de apresentação de propostas e lances e de
+julgamento.
+
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+3.2.   Os licitantes encaminharão, exclusivamente por meio do sistema eletrônico, a proposta com o preço unitário do
+item, conforme o critério de julgamento adotado neste Edital, até a data e o horário estabelecidos para abertura da sessão
+pública.
+3.3.   Caso a fase de habilitação anteceda as fases de apresentação de propostas e lances, os licitantes encaminharão,
+na forma e no prazo estabelecidos no item anterior, simultaneamente os documentos de habilitação e a proposta com o
+preço ou o percentual de desconto, observado o disposto nos itens 7.1.1 e 7.12.1 deste Edital.
+3.4.   No cadastramento da proposta inicial, o licitante declarará, em campo próprio do sistema, que:
+3.4.1.  está ciente e concorda com as condições contidas no edital e seus anexos, bem como de que a proposta
+apresentada compreende a  integralidade dos custos para atendimento dos  direitos  trabalhistas assegurados na
+Constituição Federal, nas leis trabalhistas, nas normas infralegais, nas convenções coletivas de trabalho e nos termos de
+ajustamento de conduta vigentes na data de sua entrega em definitivo e que cumpre plenamente os requisitos de
+habilitação definidos no instrumento convocatório;
+3.4.2.  não emprega menor de 18 anos em trabalho noturno, perigoso ou insalubre e não emprega menor de 16 anos,
+salvo menor, a partir de 14 anos, na condição de aprendiz, nos termos do artigo 7°, XXXIII, da Constituição;
+3.4.3.  não possui empregados executando trabalho degradante ou forçado, observando o disposto nos incisos III e IV do
+art. 1º e no inciso III do art. 5º da Constituição Federal;
+3.4.4.  cumpre as exigências de reserva de cargos para pessoa com deficiência e para reabilitado da Previdência Social,
+previstas em lei e em outras normas específicas.
+3.5.  O licitante organizado em cooperativa deverá declarar, ainda, em campo próprio do sistema eletrônico, que
+cumpre os requisitos estabelecidos no artigo 16 da Lei nº 14.133, de 2021.
+3.6.  O fornecedor enquadrado como microempresa, empresa de pequeno porte ou sociedade cooperativa deverá
+declarar, ainda, em campo próprio do sistema eletrônico, que cumpre os requisitos estabelecidos no artigo 3° da Lei
+Complementar nº 123, de 2006, estando apto a usufruir do tratamento favorecido estabelecido em seus arts. 42 a 49,
+observado o disposto nos §§ 1º ao 3º do art. 4º, da Lei n.º 14.133, de 2021.
+3.6.1.  no item exclusivo para participação de microempresas e empresas de pequeno porte, a assinalação do campo
+“não” impedirá o prosseguimento no certame, para aquele item;
+3.6.2.  nos itens em que a participação não for exclusiva para microempresas e empresas de pequeno porte, a
+assinalação do campo “não” apenas produzirá o efeito de o licitante não ter direito ao tratamento favorecido previsto na Lei
+Complementar nº 123, de 2006, mesmo que microempresa, empresa de pequeno porte ou sociedade cooperativa.
+3.7.   A falsidade da declaração de que trata os itens 3.4 ou 3.6 sujeitará o licitante às sanções previstas na Lei nº
+14.133, de 2021, e neste Edital.
+3.8.   Os licitantes poderão retirar ou substituir a proposta ou, na hipótese de a fase de habilitação anteceder as fases de
+apresentação de propostas e lances e de julgamento, os documentos de habilitação anteriormente inseridos no sistema,
+até a abertura da sessão pública.
+3.9.   Não haverá ordem de classificação na etapa de apresentação da proposta e dos documentos de habilitação pelo
+licitante, o que ocorrerá somente após os procedimentos de abertura da sessão pública e da fase de envio de lances.
+3.10.  Serão disponibilizados para acesso público os documentos que compõem a proposta dos licitantes convocados
+para apresentação de propostas, após a fase de envio de lances.
+3.11.  Desde que disponibilizada a funcionalidade no sistema, o licitante poderá parametrizar o seu valor final mínimo ou
+o seu percentual de desconto máximo quando do cadastramento da proposta e obedecerá às seguintes regras:
+3.11.1. a aplicação do intervalo mínimo de diferença de valores ou de percentuais entre os lances, que incidirá tanto em
+relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta; e
+3.11.2. os lances serão de envio automático pelo sistema, respeitado o valor final mínimo, caso estabelecido, e o intervalo
+de que trata o subitem acima.
+3.12.  O valor final mínimo ou o percentual de desconto final máximo parametrizado no sistema poderá ser alterado pelo
+fornecedor durante a fase de disputa, sendo vedado:
+3.12.1. valor superior a lance já registrado pelo fornecedor no sistema, quando adotado o critério de julgamento por menor
+preço; e
+3.12.2.  percentual de desconto inferior a lance já registrado pelo fornecedor no sistema, quando adotado o critério de
+julgamento por maior desconto.
+3.13.  O valor final mínimo ou o percentual de desconto final máximo parametrizado na forma do item 3.11 possuirá
+caráter  sigiloso para os demais fornecedores e para o órgão ou entidade promotora da  licitação, podendo ser
+disponibilizado estrita e permanentemente aos órgãos de controle externo e interno.
+3.14.  Caberá ao licitante interessado em participar da licitação acompanhar as operações no sistema eletrônico durante
+o processo  licitatório e se responsabilizar pelo ônus decorrente da perda de negócios diante da inobservância de
+mensagens emitidas pela Administração ou de sua desconexão.
+3.15.  O  licitante deverá comunicar imediatamente ao provedor do sistema qualquer acontecimento que possa
+comprometer o sigilo ou a segurança, para imediato bloqueio de acesso.
+
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+                   CLAUSULA QUARTA - DO PREENCHIMENTO DA PROPOSTA
+4.1.  O licitante deverá enviar sua proposta mediante o preenchimento, no sistema eletrônico. Para o adequado
+cadastramento da proposta, a licitante deverá consignar, nos campos próprios, as informações exigidas pelo sistema,
+observando, para tanto, as especificações do objeto constantes deste Edital.
+4.2.   Todas as especificações do objeto contidas na proposta vinculam o licitante.
+4.3.   Nos valores propostos estarão inclusos todos os custos operacionais, encargos previdenciários, trabalhistas,
+tributários, comerciais e quaisquer outros que incidam direta ou indiretamente na execução do objeto.
+4.4.   Os preços ofertados, tanto na proposta inicial, quanto na etapa de lances, serão de exclusiva responsabilidade do
+licitante, não lhe assistindo o direito de pleitear qualquer alteração, sob alegação de erro, omissão ou qualquer outro
+pretexto.
+4.5.   Se o regime tributário da empresa implicar o recolhimento de tributos em percentuais variáveis, a cotação
+adequada será a que corresponde à média dos efetivos recolhimentos da empresa nos últimos doze meses.
+4.6.    Independentemente do percentual de tributo inserido na planilha, no pagamento serão retidos na fonte os
+percentuais estabelecidos na legislação vigente.
+4.9.   A apresentação das propostas implica obrigatoriedade do cumprimento das disposições nelas contidas, em
+conformidade com o que dispõe o Termo de Referência, assumindo o proponente o compromisso de executar o objeto
+licitado nos seus termos, bem como de fornecer os materiais, equipamentos, ferramentas e utensílios necessários, em
+quantidades e qualidades adequadas à perfeita execução contratual, promovendo, quando requerido, sua substituição.
+4.10.  O prazo de validade da proposta não será inferior a 60 (sessenta) dias, a contar da data de sua apresentação.
+4.11.  Os licitantes devem respeitar os preços máximos estabelecidos nas normas de regência de contratações públicas
+federais, quando participarem de licitações públicas;
+4.11.1. Caso o critério de julgamento seja o de maior desconto, o preço já decorrente da aplicação do desconto ofertado
+deverá respeitar os preços máximos previstos no item 4.9.
+4.12.  O descumprimento das regras supramencionadas pela Administração por parte dos contratados pode ensejar a
+responsabilização pelo Tribunal de Contas da União e, após o devido processo legal, gerar as seguintes consequências:
+assinatura de prazo para a adoção das medidas necessárias ao exato cumprimento da lei, nos termos do art. 71, inciso IX,
+da Constituição; ou condenação dos agentes públicos responsáveis e da empresa contratada ao pagamento dos prejuízos
+ao erário, caso verificada a ocorrência de superfaturamento por sobrepreço na execução do contrato.
+  CLAUSULA QUINTA - DA ABERTURA DA SESSÃO, CLASSIFICAÇÃO DAS PROPOSTAS E FORMULAÇÃO DE
+                                     LANCES
+5.1.   A abertura da presente licitação dar-se-á automaticamente em sessão pública, por meio de sistema eletrônico, na
+data, horário e local indicados neste Edital.
+5.2.   Os licitantes poderão retirar ou substituir a proposta ou os documentos de habilitação, quando for o caso,
+anteriormente inseridos no sistema, até a abertura da sessão pública.
+5.2.1.  Será desclassificada a proposta que identifique o licitante.
+5.2.2.  A desclassificação será sempre fundamentada e registrada no sistema, com acompanhamento em tempo real por
+todos os participantes.
+5.2.3.  A não desclassificação da proposta não impede o seu julgamento definitivo em sentido contrário, levado a efeito
+na fase de aceitação.
+5.3.  O sistema ordenará automaticamente as propostas classificadas, sendo que somente estas participarão da fase
+de lances.
+5.4.  O sistema disponibilizará campo próprio para troca de mensagens entre o Pregoeiro e os licitantes.
+5.5.    Iniciada a etapa competitiva, os licitantes deverão encaminhar lances exclusivamente por meio de sistema
+eletrônico, sendo imediatamente informados do seu recebimento e do valor consignado no registro.
+5.6.  O lance deverá ser ofertado preço unitário por item.
+5.7.   Os licitantes poderão oferecer lances sucessivos, observando o horário fixado para abertura da sessão e as regras
+estabelecidas no Edital.
+5.8.  O licitante somente poderá oferecer lance de valor inferior ou percentual de desconto superior ao último por ele
+ofertado e registrado pelo sistema.
+5.9.  O intervalo mínimo de diferença de valores ou percentuais entre os lances, que incidirá tanto em relação aos
+lances intermediários quanto em relação à proposta que cobrir a melhor oferta deverá ser de 0,01 (um centavo).
+5.10.  O licitante poderá, uma única vez, excluir seu último lance ofertado, no intervalo de quinze segundos após o
+registro no sistema, na hipótese de lance inconsistente ou inexequível.
+5.11.  O procedimento seguirá de acordo com o modo de disputa adotado.
+5.12.  Caso seja adotado para o envio de lances no pregão eletrônico o modo de disputa “aberto”, os licitantes
+apresentarão lances públicos e sucessivos, com prorrogações.
+5.12.1. A etapa de lances da sessão pública terá duração de dez minutos e, após isso, será prorrogada automaticamente
+pelo sistema quando houver lance ofertado nos últimos dois minutos do período de duração da sessão pública.
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+5.12.2. A prorrogação automática da etapa de lances, de que trata o subitem anterior, será de dois minutos e ocorrerá
+sucessivamente sempre que houver lances enviados nesse período de prorrogação, inclusive no caso de lances
+intermediários.
+5.12.3. Não havendo novos lances na forma  estabelecida nos  itens  anteriores, a sessão  pública  encerrar-se-á
+automaticamente, e o sistema ordenará e divulgará os lances conforme a ordem final de classificação.
+5.12.4. Definida a melhor proposta, se a diferença em relação à proposta classificada em segundo lugar for de pelo
+menos 5% (cinco por cento), o pregoeiro, auxiliado pela equipe de apoio, poderá admitir o reinício da disputa aberta, para
+a definição das demais colocações.
+5.12.5. Após o reinício previsto no item supra, os licitantes serão convocados para apresentar lances intermediários.
+5.13.  Caso seja adotado para o envio de lances no pregão eletrônico o modo de disputa “aberto e fechado”, os licitantes
+apresentarão lances públicos e sucessivos, com lance final e fechado.
+5.13.1. A etapa de lances da sessão pública terá duração  inicial de quinze minutos. Após esse prazo, o sistema
+encaminhará aviso de fechamento iminente dos lances, após o que transcorrerá o período de até dez minutos,
+aleatoriamente determinado, findo o qual será automaticamente encerrada a recepção de lances.
+5.13.2. Encerrado o prazo previsto no subitem anterior, o sistema abrirá oportunidade para que o autor da oferta de valor
+mais baixo e os das ofertas com preços até 10% (dez por cento) superiores àquela possam ofertar um lance final e
+fechado em até cinco minutos, o qual será sigiloso até o encerramento deste prazo.
+5.13.3. No procedimento de que trata o subitem supra, o licitante poderá optar por manter o seu último lance da etapa
+aberta, ou por ofertar melhor lance.
+5.13.4. Não havendo pelo menos três ofertas nas condições definidas neste item, poderão os autores dos melhores
+lances subsequentes, na ordem de classificação, até o máximo de três, oferecer um lance final e fechado em até cinco
+minutos, o qual será sigiloso até o encerramento deste prazo.
+5.13.5. Após o término dos prazos estabelecidos nos itens anteriores, o sistema ordenará e divulgará os lances segundo a
+ordem crescente de valores.
+5.14.  Caso seja adotado para o envio de lances no pregão eletrônico o modo de disputa “fechado e aberto”, poderão
+participar da etapa aberta somente os licitantes que apresentarem a proposta de menor preço/ maior percentual de
+desconto e os das propostas até 10% (dez por cento) superiores/inferiores àquela, em que os licitantes apresentarão
+lances públicos e sucessivos, até o encerramento da sessão e eventuais prorrogações.
+5.14.1. Não havendo pelo menos 3 (três) propostas nas condições definidas no item 5.14, poderão os licitantes que
+apresentaram as três melhores propostas, consideradas as empatadas, oferecer novos lances sucessivos.
+5.14.2. A etapa de lances da sessão pública terá duração de dez minutos e, após isso, será prorrogada automaticamente
+pelo sistema quando houver lance ofertado nos últimos dois minutos do período de duração da sessão pública.
+5.14.3. A prorrogação automática da etapa de lances, de que trata o subitem anterior, será de dois minutos e ocorrerá
+sucessivamente sempre que houver lances enviados nesse período de prorrogação, inclusive no caso de lances
+intermediários.
+5.14.4. Não havendo novos lances na forma  estabelecida nos  itens  anteriores, a sessão  pública  encerrar-se-á
+automaticamente, e o sistema ordenará e divulgará os lances conforme a ordem final de classificação.
+5.14.5. Definida a melhor proposta, se a diferença em relação à proposta classificada em segundo lugar for de pelo
+menos 5% (cinco por cento), o pregoeiro, auxiliado pela equipe de apoio, poderá admitir o reinício da disputa aberta, para
+a definição das demais colocações.
+5.14.6. Após o reinício previsto no subitem supra, os licitantes serão convocados para apresentar lances intermediários.
+5.15.  Após o término dos prazos estabelecidos nos subitens anteriores, o sistema ordenará e divulgará os lances
+segundo a ordem crescente de valores.
+5.16.  Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for recebido e registrado em
+primeiro lugar.
+5.17.   Durante o transcurso da sessão pública, os licitantes serão informados, em tempo real, do valor do menor lance
+registrado, vedada a identificação do licitante.
+5.18.  No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do Pregão, o sistema eletrônico
+poderá permanecer acessível aos licitantes para a recepção dos lances.
+5.19.  Quando a desconexão do sistema eletrônico para o pregoeiro persistir por tempo superior a dez minutos, a sessão
+pública será suspensa e reiniciada somente após decorridas vinte e quatro horas da comunicação do fato pelo Pregoeiro
+aos participantes, no sítio eletrônico utilizado para divulgação.
+5.20.  Caso o licitante não apresente lances, concorrerá com o valor de sua proposta.
+5.21.  Em relação a itens não exclusivos para participação de microempresas e empresas de pequeno porte, uma vez
+encerrada a etapa de lances, será efetivada a verificação automática, junto à Receita Federal, do porte da entidade
+empresarial. O sistema identificará em coluna própria as microempresas e empresas de pequeno porte participantes,
+procedendo à comparação com os valores da primeira colocada, se esta for empresa de maior porte, assim como das
+
+
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+demais classificadas, para o fim de aplicar-se o disposto nos arts. 44 e 45 da Lei Complementar nº 123, de 2006,
+regulamentada pelo Decreto nº 8.538, de 2015.
+5.21.1. Nessas condições, as propostas de microempresas e empresas de pequeno porte que se encontrarem na faixa de
+até 5% (cinco por cento) acima da melhor proposta ou melhor lance serão consideradas empatadas com a primeira
+colocada.
+5.21.2. A melhor classificada nos termos do subitem anterior terá o direito de encaminhar uma última oferta para
+desempate, obrigatoriamente em valor inferior ao da primeira colocada, no prazo de 5 (cinco) minutos controlados pelo
+sistema, contados após a comunicação automática para tanto.
+5.21.3. Caso a microempresa ou a empresa de pequeno porte melhor classificada desista ou não se manifeste no prazo
+estabelecido, serão convocadas as demais licitantes microempresa e empresa de pequeno porte que se encontrem
+naquele intervalo de 5% (cinco por cento), na ordem de classificação, para o exercício do mesmo direito, no prazo
+estabelecido no subitem anterior.
+5.21.4. No caso de equivalência dos valores apresentados pelas microempresas e empresas de pequeno porte que se
+encontrem nos intervalos estabelecidos nos subitens anteriores, será realizado sorteio entre elas para que se identifique
+aquela que primeiro poderá apresentar melhor oferta.
+5.22.  Só poderá haver empate entre propostas iguais (não seguidas de lances), ou entre lances finais da fase fechada
+do modo de disputa aberto e fechado.
+5.22.1. Havendo eventual empate entre propostas ou lances, o critério de desempate será aquele previsto no art. 60 da
+Lei nº 14.133, de 2021, nesta ordem:
+5.22.1.1.       disputa final, hipótese em que os licitantes empatados poderão apresentar nova proposta em ato contínuo
+à classificação;
+5.22.1.2.       avaliação do desempenho contratual prévio dos licitantes, para a qual deverão preferencialmente ser
+utilizados registros cadastrais para efeito de atesto de cumprimento de obrigações previstos nesta Lei;
+5.22.1.3.      desenvolvimento pelo licitante de ações de equidade entre homens e mulheres no ambiente de trabalho,
+conforme regulamento;
+5.22.1.4.      desenvolvimento pelo licitante de programa de integridade, conforme orientações dos órgãos de controle.
+5.22.2. Persistindo o empate, será assegurada preferência, sucessivamente, aos bens e serviços produzidos ou prestados
+por:
+5.22.2.1.      empresas estabelecidas no  território do Estado ou do  Distrito Federal do órgão ou entidade da
+Administração Pública estadual ou distrital licitante ou, no caso de licitação realizada por órgão ou entidade de Município,
+no território do Estado em que este se localize;
+5.22.2.2.      empresas brasileiras;
+5.22.2.3.      empresas que invistam em pesquisa e no desenvolvimento de tecnologia no País;
+5.22.2.4.      empresas que comprovem a prática de mitigação, nos termos da Lei nº 12.187, de 29 de dezembro de
+2009.
+5.23.   Encerrada a etapa de envio de lances da sessão pública, na hipótese da proposta do primeiro colocado
+permanecer acima do preço máximo ou inferior ao desconto definido para a contratação, o pregoeiro poderá negociar
+condições mais vantajosas, após definido o resultado do julgamento.
+5.23.1. A negociação poderá ser  feita com os demais  licitantes, segundo a ordem de  classificação inicialmente
+estabelecida, quando o primeiro colocado, mesmo após a negociação, for desclassificado em razão de sua proposta
+permanecer acima do preço máximo definido pela Administração.
+5.23.2. A negociação será realizada por meio do sistema, podendo ser acompanhada pelos demais licitantes.
+5.23.3. O resultado da negociação será divulgado a todos os licitantes e anexado aos autos do processo licitatório.
+5.23.4. O pregoeiro solicitará ao licitante mais bem classificado que, no prazo de 2 (duas) horas, envie a proposta
+adequada ao último lance ofertado após a negociação realizada, acompanhada, se  for o caso, dos documentos
+complementares, quando necessários à confirmação daqueles exigidos neste Edital e já apresentados.
+5.23.5. É facultado ao pregoeiro prorrogar o prazo estabelecido, a partir de solicitação fundamentada feita no chat pelo
+licitante, antes de findo o prazo.
+5.24.  Após a negociação do preço, o Pregoeiro iniciará a fase de aceitação e julgamento da proposta.
+
+                       CLAUSULA SEXTA – DA FASE DE JULGAMENTO
+6.1.    Encerrada a etapa de negociação, o pregoeiro verificará se o licitante provisoriamente classificado em primeiro
+lugar atende às condições de participação no certame, conforme previsto no art. 14 da Lei nº 14.133/2021, legislação
+correlata e no item 2.6 do edital, especialmente quanto à existência de sanção que impeça a participação no certame ou a
+futura contratação, mediante a consulta aos seguintes cadastros:
+        a) SICAF;
+        b) Cadastro Nacional de Empresas Inidôneas e Suspensas - CEIS, mantido pela Controladoria-Geral da União
+        (https://www.portaltransparencia.gov.br/sancoes/ceis); e
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+6.2.   A consulta aos cadastros será realizada em nome da empresa licitante e também de seu sócio majoritário, por
+força da vedação de que trata o artigo 12 da Lei n° 8.429, de 1992.
+6.3. Caso conste na Consulta de Situação do licitante a existência de Ocorrências Impeditivas Indiretas, o Pregoeiro
+diligenciará para verificar se houve fraude por parte das empresas apontadas no Relatório de Ocorrências Impeditivas
+Indiretas. (IN nº 3/2018, art. 29, caput).
+6.3.1 A tentativa de burla será verificada por meio dos vínculos societários, linhas de fornecimento similares, dentre outros.
+(IN nº 3/2018, art. 29, §1º).
+6.3.2. O licitante será convocado para manifestação previamente a uma eventual desclassificação. (IN nº 3/2018, art. 29,
+§2º).
+6.3.3 Constatada a existência de sanção, o licitante será reputado inabilitado, por falta de condição de participação.
+6.4 Caso atendidas as condições de participação, será iniciado o procedimento de habilitação.
+6.5 Caso o licitante provisoriamente classificado em primeiro lugar tenha se utilizado de algum tratamento favorecido às
+ME/EPPs, o pregoeiro verificará se faz jus ao benefício, em conformidade com os itens 2.6.1 e 3.6 deste edital.
+6.6 Verificadas as condições de participação e de utilização do tratamento favorecido, o pregoeiro examinará a proposta
+classificada em primeiro lugar quanto à adequação ao objeto e à compatibilidade do preço em relação ao máximo
+estipulado para contratação neste Edital e em seus anexos, observado o disposto no artigo 29 a 35 da IN SEGES nº 73,
+de 30 de setembro de 2022.
+6.7 Será desclassificada a proposta vencedora que:
+    a)  contiver vícios insanáveis;
+    b)  não obedecer às especificações técnicas contidas no Termo de Referência;
+    c)  apresentar preços inexequíveis ou permanecerem acima do preço máximo definido para a contratação;
+    d)  não tiverem sua exequibilidade demonstrada, quando exigido pela Administração;
+    e)  apresentar desconformidade com quaisquer outras exigências deste Edital ou seus anexos, desde que insanável.
+6.8 No caso de bens e serviços em geral, é indício de inexequibilidade das propostas valores inferiores a 50% (cinquenta
+por cento) do valor orçado pela Administração.
+6.8.1 A inexequibilidade, na hipótese de que trata o caput, só será considerada após diligência do pregoeiro, que
+comprove:
+        a) que o custo do licitante ultrapassa o valor da proposta; e
+        b) inexistirem custos de oportunidade capazes de justificar o vulto da oferta.
+6.9 Em contratação de serviços de engenharia, além das disposições acima, a análise de exequibilidade e sobrepreço
+considerará o seguinte:
+6.9.1 Nos regimes de execução por tarefa, empreitada por preço global ou empreitada integral, semi-integrada ou
+integrada, a caracterização do sobrepreço se dará pela superação do valor global estimado;
+6.9.2 No regime de empreitada por preço unitário, a caracterização do sobrepreço se dará pela superação do valor global
+estimado e pela superação de custo unitário tido como relevante, conforme planilha anexa ao edital.
+6.9.3 No caso de serviços de engenharia, serão consideradas inexequíveis as propostas cujos valores forem inferiores a
+75% (setenta e cinco por cento) do valor orçado pela Administração, independentemente do regime de execução.
+6.9.4 Será exigida garantia adicional do licitante vencedor cuja proposta for inferior a 85% (oitenta e cinco por cento) do
+valor orçado pela Administração, equivalente à diferença entre este último e o valor da proposta, sem prejuízo das demais
+garantias exigíveis de acordo com a Lei.
+6.10 Se houver indícios de inexequibilidade da proposta de preço, ou em caso da necessidade de esclarecimentos
+complementares, poderão ser efetuadas diligências, para que a empresa comprove a exequibilidade da proposta.
+6.11 Caso o custo global estimado do objeto licitado tenha sido decomposto em seus respectivos custos unitários por meio
+de Planilha de Custos e Formação de Preços elaborada pela Administração, o licitante classificado em primeiro lugar será
+convocado para apresentar Planilha por ele elaborada, com os respectivos valores adequados ao valor final da sua
+proposta, sob pena de não aceitação da proposta.
+6.11.1 Em se tratando de serviços de engenharia, o licitante vencedor será convocado a apresentar à Administração, por
+meio eletrônico, as planilhas com indicação dos quantitativos e dos custos unitários, seguindo o modelo elaborado pela
+Administração, bem como com detalhamento das Bonificações e Despesas Indiretas (BDI) e dos Encargos Sociais (ES),
+com os respectivos valores adequados ao valor final da proposta vencedora, admitida a utilização dos preços unitários, no
+caso de empreitada  por preço  global, empreitada  integral,  contratação  semi-integrada e  contratação  integrada,
+exclusivamente para eventuais adequações indispensáveis no cronograma físico-financeiro e para balizar excepcional
+aditamento posterior do contrato.
+6.11.2 Em se tratando de serviços com fornecimento de mão de obra em regime de dedicação exclusiva cuja
+produtividade seja mensurável e indicada pela Administração, o licitante deverá indicar a produtividade adotada e a
+quantidade de pessoal que será alocado na execução contratual.
+
+
+
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+6.11.3 Caso a produtividade for diferente daquela utilizada pela Administração como referência, ou não estiver contida na
+faixa referencial de produtividade, mas admitida pelo ato convocatório, o  licitante deverá apresentar a respectiva
+comprovação de exequibilidade;
+6.11.4 Os licitantes poderão apresentar produtividades diferenciadas daquela estabelecida pela Administração como
+referência, desde que não alterem o objeto da contratação, não contrariem dispositivos legais vigentes e, caso não
+estejam contidas nas faixas referenciais de produtividade, comprovem a exequibilidade da proposta.
+6.11.5 Para efeito do subitem anterior, admite-se a adequação técnica da metodologia empregada pela contratada,
+visando assegurar a execução do objeto, desde que mantidas as condições para a justa remuneração do serviço.
+6.12 Erros no preenchimento da planilha não constituem motivo para a desclassificação da proposta    planilha poderá ser
+ajustada pelo fornecedor, no prazo indicado pelo sistema, desde que não haja majoração do preço e que se comprove que
+este é o bastante para arcar com todos os custos da contratação;
+6.12.1 O ajuste de que trata este dispositivo se limita a sanar erros ou falhas que não alterem a substância das propostas;
+6.12.2 Considera-se erro no preenchimento da planilha passível de correção a indicação de recolhimento de impostos e
+contribuições na forma do Simples Nacional, quando não cabível esse regime.
+6.13 Para fins de análise da proposta quanto ao cumprimento das especificações do objeto, poderá ser colhida a
+manifestação escrita do setor requisitante do serviço ou da área especializada no objeto.
+6.14 Caso o Termo de Referência exija a apresentação de amostra, o licitante classificado em primeiro lugar deverá
+apresentá-la, conforme disciplinado no Termo de Referência, sob pena de não aceitação da proposta.
+6.15 Por meio de mensagem (chat) no sistema eletrônico, será divulgado o local e horário de realização do procedimento
+para a avaliação das amostras, cuja presença será facultada a todos os interessados, incluindo os demais licitantes.
+6.16 Os resultados das avaliações serão divulgados por meio de mensagem (chat) no sistema eletrônico.
+6.17 No caso de não haver entrega da amostra ou ocorrer atraso na entrega, sem justificativa aceita pelo Pregoeiro, ou
+havendo entrega de amostra fora das especificações previstas neste Edital, a proposta do licitante será recusada.
+6.18 Se a(s) amostra(s) apresentada(s) pelo primeiro  classificado não for(em)  aceita(s), o Pregoeiro analisará a
+aceitabilidade da proposta ou lance ofertado pelo segundo classificado. Seguir-se-á com a verificação da(s) amostra(s) e,
+assim, sucessivamente, até a verificação de uma que atenda às especificações constantes no Termo de Referência.
+                      CLAUSULA SÉTIMA – DA FASE DE HABILITAÇÃO
+7.1 Os documentos previstos no Termo de Referência, necessários e suficientes para demonstrar a capacidade do
+licitante de realizar o objeto da licitação, serão exigidos para fins de habilitação, nos termos dos arts. 62 a 70 da Lei nº
+14.133, de 2021.
+7.1.1 A documentação exigida para fins de habilitação jurídica, fiscal, social e trabalhista e econômico-ﬁnanceira, poderá
+ser substituída pelo registro cadastral no SICAF.
+7.2 Quando permitida a participação de empresas estrangeiras que não funcionem no País, as exigências de habilitação
+serão atendidas mediante documentos equivalentes, inicialmente apresentados em tradução livre.
+7.2.2 Na hipótese de o licitante vencedor ser empresa estrangeira que não funcione no País, para ﬁns de assinatura do
+contrato ou da ata de registro de preços, os documentos exigidos para a habilitação serão traduzidos por tradutor
+juramentado no País e apostilados nos termos do disposto no Decreto nº 8.660, de 29 de janeiro de 2016, ou de outro que
+venha a substituí-lo, ou consularizados pelos respectivos consulados ou embaixadas.
+7.3 Quando permitida a participação de consórcio de empresas, a habilitação técnica, quando exigida, será feita por meio
+do somatório dos quantitativos de cada consorciado e, para efeito de habilitação econômico-financeira, quando exigida,
+será observado o somatório dos valores de cada consorciado.
+7.4 Se o consórcio não for formado integralmente por microempresas ou empresas de pequeno porte e o termo de
+referência exigir requisitos de habilitação econômico-financeira, haverá um acréscimo de 10% para o consórcio em
+relação ao valor exigido para os licitantes individuais.
+Os documentos exigidos para fins de habilitação poderão ser apresentados em original ou por cópia autenticada.
+7.5 Os documentos exigidos para fins de habilitação poderão ser substituídos por registro cadastral emitido por órgão ou
+entidade pública, desde que o registro tenha sido feito em obediência ao disposto na Lei nº 14.133/2021.
+7.6 Será verificado se o licitante apresentou declaração de que atende aos requisitos de habilitação, e o declarante
+responderá pela veracidade das informações prestadas, na forma da lei (art. 63, I, da Lei nº 14.133/2021)
+7.7 Será verificado se o licitante apresentou no sistema, sob pena de inabilitação, a declaração de que cumpre as
+exigências de reserva de cargos para pessoa com deficiência e para reabilitado da Previdência Social, previstas em lei e
+em outras normas específicas.
+7.8 O  licitante deverá apresentar, sob pena de desclassificação, declaração de que suas propostas econômicas
+compreendem a integralidade dos custos para atendimento dos direitos trabalhistas assegurados na Constituição Federal,
+nas leis trabalhistas, nas normas infralegais, nas convenções coletivas de trabalho e nos termos de ajustamento de
+conduta vigentes na data de entrega das propostas.
+7.9 A habilitação será verificada por meio do Sicaf, nos documentos por ele abrangidos.
+
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+7.9.1 Somente haverá a necessidade de comprovação do preenchimento de requisitos mediante apresentação dos
+documentos originais não-digitais quando houver dúvida em relação à integridade do documento digital ou quando a lei
+expressamente o exigir. (IN nº 3/2018, art. 4º, §1º, e art. 6º, §4º).
+7.10 É de responsabilidade do licitante conferir a exatidão dos seus dados cadastrais no Sicaf e mantê-los atualizados
+junto aos órgãos responsáveis pela informação, devendo proceder, imediatamente, à correção ou à alteração dos
+registros tão logo identifique incorreção ou aqueles se tornem desatualizados. (IN nº 3/2018, art. 7º, caput).
+7.10.1 A não observância do disposto no item anterior poderá ensejar desclassificação no momento da habilitação. (IN nº
+3/2018, art. 7º, parágrafo único).
+7.11 A verificação pelo pregoeiro, em sítios eletrônicos oficiais de órgãos e entidades emissores de certidões constitui
+meio legal de prova, para fins de habilitação.
+7.11.1 Os documentos exigidos para habilitação que não estejam contemplados no Sicaf serão enviados por meio
+do sistema, em formato digital, no prazo mínimo de 02 (duas) horas, prorrogável por igual período, contado da
+solicitação do pregoeiro.
+7.11.2 Na hipótese de a fase de habilitação anteceder a fase de apresentação de propostas e lances, os licitantes
+encaminharão, por meio do sistema, simultaneamente os documentos de habilitação e a proposta com o preço ou o
+percentual de desconto, observado o disposto no § 1º do art. 36 e no § 1º do art. 39 da Instrução Normativa SEGES nº 73,
+de 30 de setembro de 2022.
+7.12 A verificação no Sicaf ou a exigência dos documentos nele não contidos somente será feita em relação ao
+licitante vencedor.
+7.12.1 Os documentos relativos à regularidade fiscal que constem do Termo de Referência somente serão exigidos, em
+qualquer caso, em momento posterior ao julgamento das propostas, e apenas do licitante mais bem classificado.
+7.12.2 Respeitada a exceção do subitem anterior, relativa à regularidade fiscal, quando a fase de habilitação anteceder as
+fases de apresentação de propostas e lances e de julgamento, a verificação ou exigência do presente subitem ocorrerá
+em relação a todos os licitantes.
+7.13 APÓS A ENTREGA DOS DOCUMENTOS PARA HABILITAÇÃO, SERÁ ADMITIDA, EXPRESSAMENTE E UMA
+ÚNICA VEZ, A COMPLEMENTAÇÃO DA DOCUMENTAÇÃO EXIGIDA NO EDITAL PARA HABILITAÇÃO NO
+CERTAME, NO PRAZO MÁXIMO DE 30 (TRINTA) MINUTOS, QUANDO NO JULGAMENTO DA PROPOSTA FOR
+CONSTATADA:
+7.13.1 A AUSÊNCIA DE PARTE DA DOCUMENTAÇÃO OBRIGATÓRIA (acórdão 1.211/2021 Plenário);
+        7.13.1.1 Neste caso, a pregoeira comunicará o interessado, indicando qual o documento está ausente, para que
+      promova a regularização.
+7.13.2 Complementação de informações acerca dos documentos já apresentados pelos licitantes e desde que necessária
+para apurar fatos existentes à época da abertura do certame;
+7.13.2 Atualização de documentos cuja validade tenha expirado após a data de recebimento das propostas;
+7.14 Na análise dos documentos de habilitação, a comissão de contratação poderá sanar erros ou falhas, que não alterem
+a substância dos documentos e sua validade jurídica, mediante decisão fundamentada, registrada em ata e acessível a
+todos, atribuindo-lhes eﬁcácia para fins de habilitação e classificação
+7.15 Na hipótese de o licitante não atender às exigências para habilitação, o pregoeiro examinará a proposta subsequente
+e assim sucessivamente, na ordem de classificação, até a apuração de uma proposta que atenda ao presente edital,
+observado o prazo disposto no subitem 0.
+7.16 Somente serão disponibilizados para acesso público os documentos de habilitação do licitante cuja proposta atenda
+ao edital de licitação, após concluídos os procedimentos de que trata o subitem anterior.
+7.17 A comprovação de regularidade fiscal e trabalhista das microempresas e das empresas de pequeno porte somente
+será exigida para efeito de contratação, e não como condição para participação na licitação (art. 4º do Decreto nº
+8.538/2015).
+7.18 Quando a fase de habilitação anteceder a de julgamento e já tiver sido encerrada, não caberá exclusão de licitante
+por motivo relacionado à habilitação, salvo em razão de fatos supervenientes ou só conhecidos após o julgamento.
+                          CLAUSULA OITAVA - DOS RECURSOS
+8.1.   A interposição de recurso referente ao julgamento das propostas, à habilitação ou inabilitação de licitantes, à
+anulação ou revogação da licitação, observará o disposto no art. 165 da Lei nº 14.133, de 2021.
+8.2.  O prazo recursal é de 3 (três) dias úteis, contados da data de intimação ou de lavratura da ata.
+8.3.   Quando o recurso apresentado impugnar o julgamento das propostas ou o ato de habilitação ou inabilitação do
+licitante:
+8.3.1.  a intenção de recorrer deverá ser manifestada imediatamente, sob pena de preclusão;
+8.3.2.  o prazo para apresentação das razões recursais será iniciado na data de intimação ou de lavratura da ata de
+habilitação ou inabilitação;
+8.3.3.  na hipótese de adoção da inversão de fases prevista no § 1º do art. 17 da Lei nº 14.133, de 2021, o prazo para
+apresentação das razões recursais será iniciado na data de intimação da ata de julgamento.
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+8.4.   Os recursos deverão ser encaminhados em campo próprio do sistema.
+8.5.  O recurso será dirigido à autoridade que tiver editado o ato ou proferido a decisão recorrida, a qual poderá
+reconsiderar sua decisão no prazo de 3 (três) dias úteis, ou, nesse mesmo prazo, encaminhar recurso para a autoridade
+superior, a qual deverá proferir sua decisão no prazo de 10 (dez) dias úteis, contado do recebimento dos autos.
+8.6.   Os recursos interpostos fora do prazo não serão conhecidos.
+8.7.  O prazo para apresentação de contrarrazões ao recurso pelos demais licitantes será de 3 (três) dias úteis,
+contados da data da intimação pessoal ou da divulgação da interposição do recurso, assegurada a vista imediata dos
+elementos indispensáveis à defesa de seus interesses.
+8.8.  O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão recorrida até que
+sobrevenha decisão final da autoridade competente.
+8.9.  O acolhimento do recurso invalida tão somente os atos insuscetíveis de aproveitamento.
+8.10.  Os  autos  do  processo  permanecerão  com  vista  franqueada  aos  interessados  no   sítio  eletrônico
+www.novafatima.pr.gov.br
+               CLÁUSULA NONA - DAS INFRAÇÕES ADMINISTRATIVAS E SANÇÕES
+9.1.   Comete infração administrativa, nos termos da lei, o licitante que, com dolo ou culpa:
+9.1.1.  deixar de entregar a documentação exigida para o certame ou não entregar qualquer documento que tenha sido
+solicitado pelo/a pregoeiro/a durante o certame;
+9.1.2.  Salvo em decorrência de fato superveniente devidamente justificado, não mantiver a proposta em especial
+quando:
+9.1.2.1. não enviar a proposta adequada ao último lance ofertado ou após a negociação;
+9.1.2.2. recusar-se a enviar o detalhamento da proposta quando exigível;
+9.1.2.3. pedir para ser desclassificado quando encerrada a etapa competitiva; ou
+9.1.2.4. deixar de apresentar amostra;
+9.1.2.5. apresentar proposta ou amostra em desacordo com as especificações do edital;
+9.1.3.  não celebrar o contrato ou não entregar a documentação exigida para a contratação, quando convocado dentro do
+prazo de validade de sua proposta;
+9.1.3.1. recusar-se, sem  justificativa, a assinar o contrato ou a ata de registro de preço, ou a aceitar ou retirar o
+instrumento equivalente no prazo estabelecido pela Administração;
+9.1.4.  apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração falsa durante a
+licitação
+9.1.5.  fraudar a licitação
+9.1.6.  comportar-se de modo inidôneo ou cometer fraude de qualquer natureza, em especial quando:
+9.1.6.1. agir em conluio ou em desconformidade com a lei;
+9.1.6.2. induzir deliberadamente a erro no julgamento;
+9.1.6.3. apresentar amostra falsificada ou deteriorada;
+9.1.7.  praticar atos ilícitos com vistas a frustrar os objetivos da licitação
+9.1.8.  praticar ato lesivo previsto no art. 5º da Lei n.º 12.846, de 2013.
+9.2.   Com fulcro na Lei nº 14.133, de 2021, a Administração poderá, garantida a prévia defesa, aplicar aos licitantes
+e/ou adjudicatários as seguintes sanções, sem prejuízo das responsabilidades civil e criminal:
+9.2.1.  advertência;
+9.2.2.  multa;
+9.2.3.  impedimento de licitar e contratar e
+9.2.4.  declaração de inidoneidade para licitar ou contratar, enquanto perdurarem os motivos determinantes da punição
+ou até que seja promovida sua reabilitação perante a própria autoridade que aplicou a penalidade.
+9.3.   Na aplicação das sanções serão considerados:
+9.3.1.  a natureza e a gravidade da infração cometida.
+9.3.2.  as peculiaridades do caso concreto
+9.3.3.  as circunstâncias agravantes ou atenuantes
+9.3.4.  os danos que dela provierem para a Administração Pública
+9.3.5.  a implantação ou o aperfeiçoamento de programa de integridade, conforme normas e orientações dos órgãos de
+controle.
+9.4.   A multa será recolhida em percentual de 0,5% a 30% incidente sobre o valor do contrato licitado, recolhida no
+prazo máximo de 20 dias úteis, a contar da comunicação oficial.
+9.4.1.  Para as infrações previstas nos itens 9.1.1, 9.1.2 e 9.1.3, a multa será de 0,5% a 15% do valor do contrato licitado.
+9.4.2.  Para as infrações previstas nos itens 9.1.4, 9.1.5, 9.1.6, 9.1.7 e 9.1.8, a multa será de 15% a 30% do valor do
+contrato licitado.
+9.5.   As sanções de advertência, impedimento de  licitar e contratar e declaração de inidoneidade para  licitar ou
+contratar poderão ser aplicadas, cumulativamente ou não, à penalidade de multa.
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+9.6.   Na aplicação da sanção de multa será facultada a defesa do interessado no prazo de 15 (quinze) dias úteis,
+contado da data de sua intimação.
+9.7.   A sanção de impedimento de  licitar e contratar será aplicada ao responsável em decorrência das infrações
+administrativas relacionadas nos itens 9.1.1, 9.1.2 e 9.1.3, quando não se justificar a imposição de penalidade mais grave,
+e impedirá o responsável de licitar e contratar no âmbito da Administração Pública direta e indireta do ente federativo a
+qual pertencer o órgão ou entidade, pelo prazo máximo de 3 (três) anos.
+9.8.   Poderá ser aplicada ao responsável a sanção de declaração de inidoneidade para  licitar ou contratar, em
+decorrência da prática das infrações dispostas nos itens 9.1.4, 9.1.5, 9.1.6, 9.1.7 e 9.1.8, bem como pelas infrações
+administrativas previstas nos itens 9.1.1, 9.1.2 e 9.1.3 que justifiquem a imposição de penalidade mais grave que a sanção
+de impedimento de licitar e contratar, cuja duração observará o prazo previsto no art. 156, §5º, da Lei n.º 14.133/2021.
+9.9.   A recusa injustificada do adjudicatário em assinar o contrato ou a ata de registro de preço, ou em aceitar ou retirar
+o  instrumento  equivalente no  prazo  estabelecido  pela  Administração,  descrita no  item  9.1.3,  caracterizará  o
+descumprimento total da obrigação assumida e o sujeitará às penalidades e à imediata perda da garantia de proposta em
+favor do órgão ou entidade promotora da licitação, nos termos do art. 45, §4º da IN SEGES/ME n.º 73, de 2022.
+9.10.  A apuração de responsabilidade relacionadas às sanções de impedimento de licitar e contratar e de declaração de
+inidoneidade para licitar ou contratar demandará a instauração de processo de responsabilização a ser conduzido por
+comissão composta por 2 (dois) ou mais servidores estáveis, que avaliará fatos e circunstâncias conhecidos e intimará o
+licitante ou o adjudicatário para, no prazo de 15 (quinze) dias úteis, contado da data de sua intimação, apresentar defesa
+escrita e especificar as provas que pretenda produzir.
+9.11.  Caberá recurso no prazo de 15 (quinze) dias úteis da aplicação das sanções de advertência, multa e impedimento
+de  licitar e contratar, contado da data da intimação, o qual será dirigido à autoridade que tiver proferido a decisão
+recorrida, que, se não a reconsiderar no prazo de 5 (cinco) dias úteis, encaminhará o recurso com sua motivação à
+autoridade superior, que deverá proferir sua decisão no prazo máximo de 20 (vinte) dias úteis, contado do recebimento
+dos autos.
+9.12.  Caberá a apresentação de pedido de reconsideração da aplicação da sanção de declaração de inidoneidade para
+licitar ou contratar no prazo de 15 (quinze) dias úteis, contado da data da intimação, e decidido no prazo máximo de 20
+(vinte) dias úteis, contado do seu recebimento.
+9.13.  O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão recorrida até que
+sobrevenha decisão final da autoridade competente.
+9.14.  A aplicação das sanções previstas neste edital não exclui, em hipótese alguma, a obrigação de reparação integral
+dos danos causados.
+        CLAUSULA DECIMA - DA IMPUGNAÇÃO AO EDITAL E DO PEDIDO DE ESCLARECIMENTO
+10.1.   Qualquer pessoa é parte legítima para impugnar este Edital por irregularidade na aplicação da Lei nº 14.133, de
+2021, devendo protocolar o pedido até 3 (três) dias úteis antes da data da abertura do certame.
+10.2.  A resposta à impugnação ou ao pedido de esclarecimento será divulgado em sítio eletrônico oficial no prazo de até
+3 (três) dias úteis, limitado ao último dia útil anterior à data da abertura do certame.
+10.3.  A impugnação e o pedido de esclarecimento poderão ser realizados por forma eletrônica, pelos seguintes meios:
+plataforma do www.compras.gov.br
+10.4.  As impugnações e pedidos de esclarecimentos não suspendem os prazos previstos no certame.
+10.4.1. A concessão de efeito suspensivo à impugnação é medida excepcional e deverá ser motivada pelo agente de
+contratação, nos autos do processo de licitação.
+10.5.   Acolhida a impugnação, será definida e publicada nova data para a realização do certame.
+                  CLAUSULA DECIMA PRIMEIRA - DAS DISPOSIÇÕES GERAIS
+11.1.   Será divulgada ata da sessão pública no sistema eletrônico.
+11.2.  Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a realização do certame na data
+marcada, a sessão será automaticamente  transferida para o  primeiro  dia  útil subsequente, no mesmo  horário
+anteriormente estabelecido, desde que não haja comunicação em contrário, pelo Pregoeiro.
+11.3.  Todas as referências de tempo no Edital, no aviso e durante a sessão pública observarão o horário de Brasília -
+DF.
+11.4.  A homologação do resultado desta licitação não implicará direito à contratação.
+11.5.  As normas disciplinadoras da licitação serão sempre interpretadas em favor da ampliação da disputa entre os
+interessados, desde que não comprometam o interesse da Administração, o princípio da isonomia, a finalidade e a
+segurança da contratação.
+11.6.  Os licitantes assumem todos os custos de preparação e apresentação de suas propostas e a Administração não
+será, em nenhum caso, responsável por esses custos, independentemente da condução ou do resultado do processo
+licitatório.
+11.7.  Na contagem dos prazos estabelecidos neste Edital e seus Anexos, excluir-se-á o dia do início e incluir-se-á o do
+vencimento. Só se iniciam e vencem os prazos em dias de expediente na Administração.
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+11.8.  O desatendimento de exigências formais não essenciais não importará o afastamento do licitante, desde que seja
+possível o aproveitamento do ato, observados os princípios da isonomia e do interesse público.
+11.9.  Em caso de divergência entre disposições deste Edital e de seus anexos ou demais peças que compõem o
+processo, prevalecerá as deste Edital.
+11.10. O Edital e seus anexos estão disponíveis, na íntegra, no Portal Nacional de Contratações Públicas (PNCP) e
+endereço eletrônico www.novafatima.pr.gov.br.
+11.11.  Integram este Edital, para todos os fins e efeitos, os seguintes anexos:
+11.11.1.     ANEXO I - Termo de Referência
+11.11.2.     ANEXO II – Modelo Proposta Final
+11.11.3.     ANEXO III – Modelo de Declaração Unificada
+11.11.4.     ANEXO IV - Minuta de Contrato/ Ata de Registro de Preço
+
+
+Nova Fátima, XX de setembro de 2025.
+
+
+
+
+
+_________________________                                    _______________________
+RENATA MONTENEGRO BALAN XAVIER                        CENILTO CARLOS DA SILVA
+PREFEITA MUNICIPAL                                     ADVOGADO
+CONTRATANTE
+
+
+
+
+
+                           ANEXO I - TERMO DE REFERÊNCIA
+
+HAVENDO DIVERGÊNCIAS ENTRE A DESCRIÇÃO DO OBJETO CONSTANTE NO EDITAL E A DESCRIÇÃO DO
+OBJETO CONSTANTE NO SITE COMPRASNET “SIASG”, PREVALECERÁ, SEMPRE, A DESCRIÇÃO DESTE
+EDITAL.
+
+                                     1.    CONDIÇÕES GERAIS DA CONTRATAÇÃO
+    1.1 Contratação  de  empresa  para  fornecimento,  implementação  e  manutenção  de  sistema  de
+       videomonitoramento urbano, atendendo as demandas da segurança pública municipal.
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+
+
+                                ITENS EXCLUSIVOS PARA ME/EPP
+
+Lote    Item                           Descrição dos Itens                         Unidade   Qtd    Valor Unitário    Valor Total
+
+
+           CÂMERA IP BULLET
+
+               Resolução de imagem 2 MP 1920(H)x 1080(V)
+
+                Tipo de lente fixa, alcance IR 30 metros;
+
+         1     IR inteligente sim;                                              Un       52     R$ 315,75    R$ 16.419,00
+
+              compressão de vídeo H.264/H.264B/H.264H/H.265/MJPEG;
+
+                 Protocolos e serviços suportados TCP/IP, UDP, IPv4, IPv6, DHCP,ARP, DNS,
+
+             DDNS, RTSP, RTMP, RTCP, HTTPs, HTTP, SMTP, SSL, TLS, IGMP
+
+            SWITCH
+
+           Com no mínimo 08 portas RJ45 10/100 com auto negociação. Padrões IEEE
+
+         2     802.3 – 10BASE-T IEEE 802.3u – 100 BASE-TX IEEE 803.3x – Detecção    Un       14     R$ 100,23     R$ 1.403,22
+
+                automática de cabo (normal iu crossover)
+
+           Com certificação Anatel/FCC/CE/RoHS
+
+           FONTE DE ALIMENTAÇÃO
+
+               Fonte de Alimentação 12V
+
+                 Entrada: Tensão nominal: 100 ~ 240 Vac
+
+             Máxima variação da tensão: 90 ~ 264 Vac
+
+                 Corrente: 1 A máximo (com tensão e carga nominais)
+
+                Frequência da rede elétrica: 50 ou 60 Hz
+
+         3    Máxima variação na frequência da rede elétrica: 47 ~ 63 Hz                 Un       13     R$ 148,64     R$ 1.932,32
+
+                Saída: Tensão nominal: 12,8 Vdc
+
+                Variação da tensão: Sem carga: 11,4 ~ 13,4 Vdc / Com carga nominal: 11,4 ~
+ 01             13,4 Vdc
+
+                 Corrente: Mínima: 0 A / Máxima: 5 A
+
+                 Potência: Sem carga: 1 W máximo / Carga nominal: 64 W
+
+               Bornes de Saída: com no mínimo 4
+
+           PROTETOR ELETRÔNICO
+
+         4    Chave inteligente rearmável não precisa de fusível - 100 a 240 Vac - bivolt    Un       13      R$ 57,45      R$ 746,85
+
+                automático 50/60 Hz - 5 tomadas
+
+           NOBREAK
+         5                                                              Un       1     R$ 1.169,17    R$ 1.169,17
+              BIVOLT, 1200VA
+
+           NVR
+
+               Processador principal microprocessador dual core core de alto desempenho;
+
+                sistema operacional Linux embarcado; suporte para câmeras IP 32; entrada
+
+               para áudio 1 canal, RCA; saída para áudio 1 canal, RCA; suporte a câmeras
+
+                IP com áudio 32; compreensão de áudio suportado G.711 e AAC; saídas de
+
+                vídeo 1 HDMI e 1 VGA; resoluções suportadas no  monitor HDMI: 1
+         6                                                              Un       2     R$ 2.986,13    R$ 5.972,26
+               1920x1080, 1280x1024, 1280x720; resoluções suportadas no monitor VGA 1
+
+               1920x1080, 1280x1024, 1280x720; quantidade de canais exibidos na tela 1,
+
+                   4, 8, 9, 16, 25, 32; resoluções suportadas na visualização 8MP (4K), 6MP,
+
+             5MP, 4MP, 3MP, 2MP (Full HD/1080p), 1MP (HD/720p),D1, CIF; canais em
+
+                 visualização simultânea em Stream Principal 8 MP (4K) 1 canal, 6MP – 1
+
+                 canal, 5MP 1 canal, 4MP 2 canais, 3MP 3 canais, 2MP (FullHd/1080p) 4
+
+
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+
+                 canais, 1MP (720P) 4 canais
+
+
+
+           HD
+         7                                                              Un       2     R$ 2.172,00    R$ 4.344,00
+           Com no mínimo 6TB SATA para CFTV
+
+            POSTE
+
+         8     Poste Reto 10x10cm, altura útil de 5,5 metros, engastado, galvanizado ou    Un       13     R$ 829,70    R$ 10.786,10
+
+            com pintura eletrostática
+
+             CAIXA DE MONTAGEM
+         9                                                              Un       13     R$ 381,18     R$ 4.955,34
+              Dimensões mínimas (A x L x P) 40 x 30 x 20 cm
+
+           RACK INDOOR
+        10                                                              Un       1      R$ 387,54     R$ 387,54
+            3Ux370mm
+
+            TV
+        11                                                              Un       2     R$ 2.291,00    R$ 4.582,00
+               Smart TV mínimo 43” LED FULL HD com suporte de fixação na parede
+
+            INSTALAÇÃO E MANUTENÇÃO
+
+                Prestação de  Serviço  Instalação  dos  Itens e  Equipamentos  (Itens e
+
+                Equipamentos), com mão de obra especializada. Instalação de câmeras,
+
+                 fixação dos postes, cabos, caixas de acabamento, racks, suporte, e demais
+
+                    itens.
+
+
+            A empresa contratada será responsável pela manutenção preventiva e
+
+                  corretiva do sistema de videomonitoramento, garantindo o funcionamento
+
+              adequado dos equipamentos já instalados no município.
+
+
+                 ●   Manutenção Preventiva: Deverá ser realizada trimestralmente, com
+        12                                                                            Serv      12     R$ 858,36    R$ 10.300,32
+                         inspeção técnica para verificar o desempenho do sistema, ajustes
+
+                      de configuração e identificação de poss íveis falhas antes que
+
+                       impactem a operação pelo período de 12 meses.
+
+                 ●   Manutenção Corretiva: Será executada sempre que necessário
+
+                        para corrigir falhas ou defeitos que comprometam a captação e
+
+                       processamento  das  imagens. A  empresa  deverá  realizar  a
+
+                            substituição de componentes como cabos, conectores, fontes e
+
+                      tomadas quando identificado desgaste ou falha de funcionamento,
+
+                    com exceção de câmeras, NVRS e HDs que não fazem parte da
+
+                          cobertura de troca, pelo período de 12 meses.
+
+
+                                        TOTAL DO LOTE: R$ 62.998,12
+
+
+                                 ITENS AMPLA CONCORRÊNCIA
+
+Lote    Item                           Descrição dos Itens                         Unidade   Qtd      Valor Unit      Valor Total
+
+
+          DRONE
+
+
+                      1.    Tipo multirotor, quadricóptero;
+ 02      1          2.    Estrutura dobrável com distância diagonal entre eixos máxima de    Un       2     R$ 44.247,50   R$ 88.494,00
+                    400mm, permitindo o acondicionamento em estojo ou maleta;
+
+                      3.   Capacidade de se manter estável automaticamente em voo pairado;
+
+                      4.   Autonomia de voo pairado de no mínimo 40 minutos, sem vento,
+
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+      MUNICÍPIO DE NOVA FÁTIMA
+            Estado do Paraná
+
+
+     sem a necessidade de troca de baterias;
+
+ 5.   Sistema  de  voo  capaz  de  fazer com  que  a ARP  retorne
+
+      automaticamente ao local de decolagem em caso de perda de
+
+      enlace ou bateria fraca;
+
+ 6.    Altitude máxima de decolagem de no mínimo 5.000m com hélices
+
+      padrão;
+
+ 7.   Sistema de transmissão de imagens com forte interferência de no
+
+      mínimo 1,5Km e com fraca interferência de no mínimo 8Km;
+
+ 8.   Sistema de posicionamento GNSS compatível com pelo menos dois
+
+      dos seguintes modos: GPS, GLONASS, BeiDou e Galileo;
+
+ 9.   Sensor de obstáculo visual omnidirecional e infravermelho inferior;
+
+10.    Resistir e voar em temperaturas de no mínimo -10°C a 40°C;
+
+11.   Armazenamento  interno de imagens e entrada para cartão de
+
+      memória do tipo MicroSD;
+
+12.   Luzes de navegação/orientação;
+
+13.    Farol  auxiliar  embutido  na  parte  superior  que  possibilite  a
+
+       visualização por outras aeronaves;
+
+14.   Peso máximo de decolagem (PMD) mínimo de até 1050g;
+
+15.   Conjunto de hélices padrão (standard), original  do  fabricante  da
+
+     ARP, para os quatro motores da aeronave;
+
+16.   Sistema de Segurança Embarcada
+
+       16.1.    Sistema de Segurança Embarcada para a segurança da
+
+                aviação e do operador, o qual impede que a ARP decole
+
+              ou realize voos e sobrevoos em áreas  críticas, como
+
+               aeródromos, aeroportos e outras zonas conhecidas como
+
+            No Fligth Zones sem prévia autorização.
+
+       16.2.    Sistema embarcado que  possibilite o recebimento de
+
+                informações de voo de transmissores ADS-B (1090 ES ou
+
+               UAT), dentro de um raio mínimo de 10km, notificando o
+
+               operador da ARP, via Estação de Pilotagem Remota,
+
+               quanto a proximidade com aeronaves
+
+       16.3.    Homologação    junto   à   Agência   Nacional   de
+
+               Telecomunicações - ANATEL.
+
+17.   Estação de Pilotagem Remota (Rádio Controle) com as seguintes
+
+       especificações mínima
+
+       17.1.    Capacidade mínima de operação de 2 horas e 30 minutos
+
+              apenas utilizando a bateria interna, sem a necessidade de
+
+                carregamento, original do fabricante da ARP;
+
+       17.2.    Conexão USB e  mini HDMI para  troca de dados e
+
+                transmissão de imagens;
+
+       17.3.     Tela integrada sensível ao toque de no mínimo 5,5” com
+
+                   alta resolução e alta luminosidade.
+
+       17.4.    Capacidade de realizar transmissão ao vivo (livestream)
+
+              das imagens captadas pelas câmeras via conexão Wi-Fi;
+
+       17.5.     Possuir quatro antenas;
+
+       17.6.     Suporte a conexão Wi-Fi 802.11 a/b/g/n/ac/ax e MIMO 2 x
+
+                  2;
+
+       17.7.     Microfone integrado;
+
+        Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+ CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+      MUNICÍPIO DE NOVA FÁTIMA
+            Estado do Paraná
+
+
+       17.8.    Capacidade de controlar as cargas úteis acopladas a
+
+             ARP;
+
+       17.9.     Entrada para cartão de memória formato Micro SD;
+
+      17.10.    Sistema de LEDs que possibilite identificar o status da
+
+               carga da bateria da RPS em incrementos de 25%.
+
+      17.11.    Homologação    junto   à   Agência   Nacional   de
+
+               Telecomunicações - ANATEL.
+
+18.   Cabo
+
+       18.1.    Deve ser fornecido com 01 (um) cabo mini HDMI para
+
+              HDMI, versão 2.0, de 10 (dez) metros, compatível com
+
+                todas as funcionalidades do equipamento, com conector
+
+              banhado a ouro e blindagem que evite interferências e
+
+               perda  de  qualidade  de  imagem/som,  permitindo  a
+
+              conexão do rádio controle a um monitor;
+
+19.   Conjunto de câmeras com as seguintes especificações mínimas
+
+       19.1.    Câmera Tele
+
+                19.1.1.    Sensor CMOS  de  pelo menos  1/2"  e 12
+
+                         megapixels;
+
+                19.1.2.     Lente com Campo de visão 15º;
+
+                19.1.3.    Zoom digital 8X e híbrido de no mínimo 50X;
+
+       19.2.    Câmera Grande Angular
+
+                19.2.1.    Sensor CMOS de  pelo menos  1/2" de 45
+
+                        megapixels
+
+                19.2.2.     Lente com Campo de visão 80º;
+
+       19.3.    Câmera Termográfica;
+
+                19.3.1.   Campo de visão DFOV de 60º ;
+
+                19.3.2.     Resolução minima de 640x512 pixels;
+
+                19.3.3.    Alcance de medição -10 a 400º;
+
+                19.3.4.    Zoom digital 25X;
+
+                19.3.5.     Alerta de alta temperatura;
+
+       19.4.     Estabilizador de câmera que compense triaxialmente os
+
+              movimentos  da ARP  e  que  permita  controle  dos
+
+              movimento         inclinação entre -90º a 35º;
+
+       19.5.    Capa protetora
+
+20.    Bateria para a ARP com a seguintes especificaçöes mínimas:
+
+       20.1.    Acompanhar 1 (uma) bateria inteligente recarregável para
+
+              a ARP, original do fabricante da ARP;
+
+       20.2.    Capacidade de 5.000mAh;
+
+       20.3.    Capacidade de manter em voo a ARP em no mínimo 40
+
+                minutos;
+
+       20.4.    Temperatura de funcionamento de -10°C a 40°C;
+
+       20.5.    Sistema de LEDs que possibilite identificar o status da
+
+               carga da bateria em incrementos de 25%
+
+21.   Estação  de  Carregamento com  as  seguintes  especificaçöes
+
+      mínimas:
+
+       21.1.    Hub de carregamento:
+
+                21.1.1.     Entrada do tipo USB-C com capacidade minima
+
+                      de 5V a 20V e 5A;
+
+        Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+ CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+      MUNICÍPIO DE NOVA FÁTIMA
+            Estado do Paraná
+
+
+                21.1.2.     Slots de carregamento com tensão máxima de
+
+                        carregamento de 17,6V;
+
+                21.1.3.    Alcance  de  temperatura  de  carregamento
+
+                      mínimo de 5°C a 40°C;
+
+                21.1.4.    Capacidade  de  acoplar  três  baterias  para
+
+                         carregamento;
+
+                21.1.5.    Sistema inteligente de distribuişão de carga de
+
+                                   tal forma que otimiza o carregamento de uma
+
+                            bateria de forma mais rápida;
+
+                21.1.6.     Potência de saída para carregamento de no
+
+                      mínimo 100W;
+
+                21.1.7.     Original do fabricante da ARP;
+
+                21.1.8.    Compatível com as baterias da ARP
+
+                21.1.9.    Capacidade de carregar uma bateria de 0 a
+
+                   100% em aproximadamente 70 minutos;
+
+22.   Fonte de alimentação para recarga da Estação de Pilotagem
+
+     Remota e da bateria da ARP com o respectivo cabo de alimentação
+
+     com as seguintes especificaçöes mínimas:
+
+       22.1.    Fonte de alimentação com potência nominal de 100W,
+
+                   original do fabricante da ARP;
+
+       22.2.    Cabo de alimentação AC com tomadas padrão NBR
+
+               14136;
+
+       22.3.    Duas conexões de saída tipo USB-C;
+
+       22.4.    Operar em protocolo PD e PPS;
+
+       22.5.    Cabos de dados e de carregamento
+
+       22.6.    Cabos originais do fabricante da ARP;
+
+       22.7.     Suporte a transferência de 100W;
+
+       22.8.     Suportar operação em protocolo PD e PPS;
+
+       22.9.   Um cabo com conexão USB;
+
+                22.9.1.     Terminais com conexão USB-A para USB-C;
+
+      22.10.   Um cabo com conexão USB-C
+
+              22.10.1.     Terminais com conexão USB-C para USB-C;
+
+23.   Ferramentas
+
+       23.1.    Ferramentas para manutenção e fixação de acessórios na
+
+           ARP e na Estação de Pilotagem;
+
+24.    Garantia
+
+       24.1.     Garantia legal com vigência de 12 (doze) meses
+
+25.    Bateria para ARP:
+
+       25.1.    Acompanhar 1 (uma) bateria inteligente recarregável para
+
+              a ARP, original do fabricante da ARP;
+
+       25.2.    Capacidade de 5.000mAh;
+
+       25.3.    Capacidade de manter em voo a ARP em no mínimo 40
+
+                minutos;
+
+       25.4.    Temperatura de funcionamento de -10°C a 40°C;
+
+       25.5.    Sistema de LEDs que possibilita identificar o status da
+
+               carga da bateria em incrementos de 25%.
+
+26.    Hélices extras com as seguintes especificaçöes mínimas:
+
+       26.1.     Conjunto de hélices de reposição, contendo 04 (quatro)
+
+        Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+ CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+      MUNICÍPIO DE NOVA FÁTIMA
+            Estado do Paraná
+
+
+                unidades,  original do  fabricante da ARP, capaz de
+
+                   substituir todas as hélices do motores da aeronave;
+
+       26.2.    Ferramentas e acessórios necessários para realizar a
+
+                  substituição.
+
+27.    Maleta para transporte com as seguintes especificaçöes mínimas:
+
+       27.1.     Maleta rígida original do fabricante capaz de transportar a
+
+             ARP, estação de pilotagem remota, baterias e acessórios
+
+            com proteção contra umidade e vibração.
+
+       27.2.    Na cor preta ou cinza;
+
+28.   Estação  de  Carregamento com  as  seguintes  especificaçöes
+
+      mínimas:
+
+       28.1.    Hub de carregamento:
+
+                28.1.1.     Entrada do tipo USB-C com capacidade minima
+
+                      de 5V a 20V e 5A;
+
+                28.1.2.     Slots de carregamento com tensão máxima de
+
+                        carregamento de 17,6V;
+
+                28.1.3.    Alcance  de  temperatura  de  carregamento
+
+                      mínimo de 5°C a 40°C;
+
+                28.1.4.    Capacidade  de  acoplar  três  baterias  para
+
+                         carregamento;
+
+                28.1.5.    Sistema inteligente de distribuişão de carga de
+
+                                   tal forma que otimiza o carregamento de uma
+
+                            bateria de forma mais rápida;
+
+                28.1.6.     Potência de saída para carregamento de no
+
+                      mínimo 100W;
+
+                28.1.7.     Original do fabricante da ARP;
+
+                28.1.8.    Compatível com as baterias da ARP MODELO
+
+                                “3”;
+
+                28.1.9.    Capacidade de carregar uma bateria de 0 a
+
+                   100% em aproximadamente 70 minutos;
+
+       28.2.    Fonte de  alimentação  para  recarga da  Estação de
+
+                Pilotagem Remota e da bateria da ARP com o respectivo
+
+              cabo de alimentação com as seguintes especificaçöes
+
+               mínimas:
+
+                28.2.1.    Fonte de alimentação com potência nominal de
+
+                     100W, original do fabricante da ARP;
+
+                28.2.2.    Cabo de alimentação AC com tomadas padrão
+
+                 NBR 14136;
+
+                28.2.3.    Duas conexões de saída tipo USB-C;
+
+                28.2.4.    Operar em protocolo PD e PPS;
+
+       28.3.    Cabos de dados e de carregamento
+
+       28.4.    Cabos originais do fabricante da ARP;
+
+       28.5.     Suporte a transferência de 100W;
+
+       28.6.     Suportar operação em protocolo PD e PPS;
+
+       28.7.   Um cabo com conexão USB;
+
+                28.7.1.     Terminais com conexão USB-A para USB-C;
+
+       28.8.   Um cabo com conexão USB-C
+
+                28.8.1.     Terminais com conexão USB-C para USB-C;
+
+        Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+ CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+           MUNICÍPIO DE NOVA FÁTIMA
+                 Estado do Paraná
+
+
+               29.    Garantia legal com vigência de 12 (doze) meses
+
+
+        HOLOFOTE PARA AERONAVE REMOTAMENTE PILOTADA
+
+
+
+                   1.   Holofote (farol de busca/lanterna) com integração ao software de
+
+                       controle da aeronave de modo a  possibilitar acionar as luzes
+
+                   remotamente a partir da Estação de Pilotagem Remota;
+
+                   2.   Conectado via entrada PSDK;
+
+                   3.  Composto  por 2  (dois)  conjuntos  ópticos com LEDs de  alta
+
+                      intensidade;
+
+                             1.   Potência mínima de 20W;
+
+                   4.   Capacidade do holofote acompanhar automaticamente o gimbal da
+
+                   câmera;
+
+                             1.   Movimentar na vertical no mínimo 90º para baixo;
+
+                   5.   Fluxo luminoso de no mínimo 1.600Im;
+    2                                                               Un       2      R$10.937,50    R$21.875,00
+                   6.  Peso máximo de 150g;
+
+                   7.   Estojo:
+
+                             1.   Estojo de armazenamento e transporte que impeça que o
+
+                                 holofote sofra riscos ou que seja danificado.
+
+                             2.   Material de fabricação semi-rígido;
+
+                             3.   Revestido   internamente   para  amortecer   possíveis
+
+                              impactos, arranhões ou danos
+
+                             4.   Fechamento com zíper;
+
+                             5.  Compacto de forma que o equipamento não fique solto
+
+                               dentro do estojo.
+
+                             6.   Cor neutra, preferencialmente preta ou cinza;
+
+                   8.   Garantia
+
+                             1.   Garantia legal com vigência de 12 (doze) meses
+
+
+                                     TOTAL DO LOTE R$ 110.370,00
+
+                                   TOTAL DA LICITAÇÃO R$ 173.368,12
+
+
+1.2 Locais onde ocorrerão as instalações:
+
+         Item                             Referência                          Qtd           Geolocalização
+          1     PR-160 x R. Pioneiro João Quani                                 4        23°25'44.3"S 50°34'17.1"W
+
+          2      Av. José de Souza x R. Flamboiã                                 4        23°26'05.8"S 50°33'18.0"W
+
+          3      R. Timburi x Av. Pref. Ramiro Fraiz Martinez                         4        23°25'40.2"S 50°34'05.3"W
+
+          4      R. Goiás x Av. Quatorze de Dezembro                             4        23°25'38.5"S 50°33'55.6"W
+
+          5      Av. José de Souza x Av. Quatorze de Dezembro                     4        23°26'13.3"S 50°33'43.5"W
+
+          6      R. Antonio Grandis Gatti x Av. Quatorze de Dezembro                 4        23°26'02.9"S 50°33'46.8"W
+
+          7      Av. Pref. Ramiro Fraiz Martinez x R. Assungui                       4        23°26'13.1"S 50°33'52.0"W
+
+          8      R. Antonio Grandis Gatti x R. Ver. Angelo Marcolini                   4        23°25'57.6"S 50°33'27.9"W
+
+          9      R. Moisés Lupion x R. Mal. Gaspar Dutra                           4        23°26'04.9"S 50°33'42.7"W
+
+         10     R. Interventor Manoel Ribas x R. Dr. Aloiso de Barros Tostes           4        23°25'57.6"S 50°33'41.8"W
+
+         11     R. Venceslau Augusto Ross x R. Orlando Cherubino Terra             4        23°25'52.8"S 50°33'36.6"W
+
+         12     Av. Pref. Ramiro Fraiz Martinez x R. Interventor Manoel Ribas           4        23°26'01.8"S 50°33'56.0"W
+
+
+                 Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+         CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+
+             13      Patrimônio Messias                                            4        23°28'18.2"S 50°29'16.1"W
+
+
+1.3 O serviço objeto desta contratação é caracterizado como comuns.
+1.4 O prazo de vigência da contratação é 12 (doze) meses , contados da data da assinatura do contrato, na forma
+do artigo 105 da Lei n° 14.133, de 2021.
+1.5 O contrato oferece maior detalhamento das regras que serão aplicadas em relação à vigência da contratação.
+                   2.    FUNDAMENTAÇÃO E DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO
+2.1. DO OBJETO: O município de Nova Fátima enfrenta um cenário de crescente complexidade na gestão da segurança
+pública, especialmente no que se refere ao controle das vias urbanas e à necessidade de resposta rápida em situações
+críticas. Os recursos atuais de  vigilância são  insuficientes para  garantir uma cobertura  efetiva, gerando lacunas
+significativas na prevenção e repressão de delitos. Nesse contexto, a implantação de um sistema de videomonitoramento
+urbano apresenta-se como medida indispensável para ampliar a capacidade de patrulhamento ostensivo, fornecer
+informações em tempo real e subsidiar as ações das forças de segurança. O monitoramento contínuo permitirá:
+      Acompanhamento de ocorrências e situações de risco em áreas estratégicas do município;
+       Fornecimento de imagens e evidências para investigações;
+       Suporte à tomada de decisão em operações policiais;
+      Redução do tempo de resposta das autoridades em situações de emergência.
+Complementarmente, a aquisição de drones constitui-se como ferramenta inovadora e estratégica para potencializar as
+operações de segurança pública. Sua utilização possibilitará:
+       Patrulhamento aéreo em áreas de difícil acesso, ampliando a cobertura sem demandar deslocamento imediato de
+         viaturas;
+       Monitoramento de eventos de grande porte, garantindo maior controle e segurança da população;
+       Atuação ágil em emergências, como perseguições, buscas e apoio tático às equipes em solo;
+       Otimização de recursos, ao permitir uma vigilância dinâmica e inteligente, em tempo real.
+O projeto proporcionará ganhos efetivos na eficiência das operações, na redução da criminalidade e na sensação de
+segurança da população, consolidando o município como referência em inovação tecnológica aplicada à segurança
+urbana.
+Cumpre destacar que os recursos destinados à execução deste projeto são oriundos da Emenda Parlamentar nº
+202440660015, cuja finalidade é o fortalecimento das ações de segurança pública e monitoramento, proporcionando maior
+eficiência no acompanhamento de ocorrências e suporte às forças policiais locais.
+2.2 DA ESTIMATIVA: As estimativas de quantidades constituem na previsão realizada pela Secretaria conforme suas
+necessidades, e serve somente como referência para elaboração da proposta.
+2.3 DA ESTIMATIVA DE PREÇOS: A estimativa de preço foi realizada através de atas de registros e contratos firmados
+com outros órgãos públicos, bem como através de fornecedores locais.
+2.4 DO JULGAMENTO POR LOTE: Na presente contratação,  ressalta-se que o fornecimento das câmeras de
+videomonitoramento e dispositivos de segurança por mais de uma contratada, geraria disparidade entre equipamentos de
+fabricantes diferentes, visto que todos os itens são partes de uma mesma solução para uso em conjunto, inviabilizando
+assim a contratação de um fabricante e gerenciamento por outro fabricante. Desta forma justifica-se o objeto como grupo
+único. É importante destacar que a compatibilidade entre os itens é imprescindível para o correto funcionamento e
+execução do sistema. Salienta-se ainda que o ajuntamento dos itens em grupo único preservará a economia de escala,
+devido compatibilidade e interligação entre os itens a serem licitados. Verifica-se, por exemplo, que em hipótese de
+parcelamento por item, implicaria em licitar os equipamentos primeiramente e depois licitar treinamento e serviço de
+instalação, ocasionando restrição a empresas que detém o conhecimento das marcas e modelos contratados, gerando
+consequentemente aumento do preço do contrato e perda de economia de escala. Sendo assim, seria desvantajoso à
+Administração Pública, realizar a aquisição dos itens e deixa-los sem utilização até a conclusão de contratação de
+treinamento e serviços de instalação, em casos de parcelamento por item, perdendo assim parte do prazo de garantia dos
+itens ociosos. Salientamos ainda sobre a necessidade dos  itens serem adquirido em  lote para que não haja a
+possibilidade de que itens adquiridos individualmente por empresas distintas de marcas diferentes não se integrem de
+maneira satisfatória ou mesmo nem se comuniquem entre si, assim para que não haja aquisição de tecnologia obsoleta
+gerando custos para o município sem surtir o resultado esperado, solicitamos que tais itens seja licitados em lote, onde
+obrigatoriamente devem serem compatíveis entre eles. Na presente contratação, ressalta-se que o fornecimento das
+câmeras de videomonitoramento e dispositivos de segurança por mais de uma contratada, geraria disparidade entre
+equipamentos de fabricantes diferentes, visto que todos os itens são partes de uma mesma solução para uso em conjunto,
+inviabilizando assim a contratação de um fabricante e gerenciamento por outro fabricante. Desta forma justifica-se o objeto
+como grupo único. É importante destacar que a compatibilidade entre os  itens é imprescindível para o correto
+funcionamento e execução do sistema. Salienta-se ainda que o ajuntamento dos itens em grupo único preservará a
+economia de escala, devido compatibilidade e interligação entre os itens a serem licitados.
+
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+
+                                        3.    REQUISITOS DE SUSTENTBILIDADE
+3.1 SUSTENTABILIDADE:
+3.1.1 As boas práticas de otimização de recursos, redução de desperdícios e menor poluição se pautam em alguns
+pressupostos e exigências, que deverão ser observados pela CONTRATADA, que deverá fazer uso racional do consumo
+de energia e água, adotando medidas para evitar o desperdício e a CONTRATADA deverá:
+        a) Colaborar com as medidas de redução de consumo e uso racional da água, cujo(s) encarregado(s) deve(m)
+        atuar como facilitador(es) das mudanças de comportamento.
+        b) Dar preferência à aquisição e uso de equipamentos e complementos que promovam a redução do consumo de
+      água e que apresentem eficiência energética e redução de consumo.
+        c) Evitar ao máximo o uso de extensões elétricas.
+        d) Repassar a seus empregados todas as orientações referentes à redução do consumo de energia e Água
+        e) Fornecer aos empregados os equipamentos de segurança que se fizerem necessários, para a execução dos
+        serviços.
+           f) Dar preferência a descarga e torneira com controle de vazão, evitando o desperdício de água.
+        g) Proporcionar treinamento periódico aos empregados sobre práticas de sustentabilidade, em especial sobre
+       redução de consumo de energia elétrica, de consumo de água e destinação de resíduos sólidos, observadas as
+      normas ambientais vigentes.
+        h) Proibir quaisquer atos de preconceito de raça, cor, sexo, crenças religiosas, orientação sexual ou estado civil na
+       seleção de colaboradores no quadro da empresa.
+             i) Conduzir suas ações em conformidade com os requisitos legais e regulamentos aplicáveis, observando também
+      a legislação ambiental para a prevenção de adversidades ao meio ambiente e à saúde dos trabalhadores e
+        envolvidos na prestação dos serviços, como exige a Lei nº 9.985/00.
+             j) Destinar de forma ambientalmente adequada todos os materiais e/ou insumos que forem utilizados pela
+      empresa na prestação dos serviços, inclusive os potencialmente poluidores, tais como, pilhas, baterias, lâmpadas
+        fluorescentes e frascos de aerossóis, pneumáticos inservíveis, produtos e componentes eletroeletrônicos que
+       estejam em desuso e sujeitos à disposição final, considerados lixo tecnológico.
+        k) É proibido incinerar qualquer resíduo gerado.
+             l) Não é permitida a emissão de ruídos de alta intensidade.
+      m)  Priorizar a  aquisição de bens que sejam  constituídos  por  material  renovável,  reciclado,  atóxico ou
+        biodegradável.
+        n) Priorizar o aproveitamento da água da chuva, agregando ao sistema hidráulico elementos que possibilitem a
+       captação, transporte, armazenamento e seu aproveitamento;
+        o) Colaborar para a não geração de resíduos e, secundariamente, a redução, a reutilização, a reciclagem, o
+       tratamento dos resíduos sólidos e a disposição final ambientalmente adequada dos rejeitos.
+3.1.2 A CONTRATADA deverá observar no que couber, durante a execução  contratual,  critérios e  práticas de
+sustentabilidade, como:
+        a) Dar preferência a envio de documentos na forma digital, a fim de reduzir a impressão de documentos;
+        b) Em caso de necessidade de envio de documentos à contratante, usar preferencialmente a função “duplex”
+         (frente e verso), bem como de papel confeccionado com madeira de origem legal.
+        c) Capacitar seus empregados, orientando que os resíduos não poderão ser dispostos em aterros de resíduos
+        domiciliares, áreas de “bota fora”, encostas, corpos d´água, lotes vagos e áreas protegidas por Lei, bem como em
+       áreas não licenciadas.
+        d) Armazenar, transportar e destinar os resíduos em conformidade com as normas técnicas específicas.
+                                               4.    DA SUBCONTRATAÇÃO
+4.1 Não é admitida a subcontratação
+                                         5.    DA GARANTIA DA CONTRATAÇÃO
+5.1 Não haverá exigência da garantia da contratação dos artigos 96 e seguintes da Lei nº 14.133, de 2021, pelas razões
+constantes do Estudo Técnico Preliminar.
+                                 6.    DOS CRITÉRIOS DE MEDIÇÃO E DE PAGAMENTO
+6.1 Condições de Entrega
+6.1.1 Os itens deverão ser entregues e instalados pela contratada em um prazo máximo de 30 (trinta) dias a contar
+a partir da data da solicitação feita pelo Setor de Compras, nas condições estipuladas neste edital e seus anexos.
+6.1.1.1 Caso não seja possível a entrega na data assinalada, a empresa deverá comunicar as razões respectivas com
+pelo menos 01 dia de antecedência para que qualquer pleito de prorrogação de prazo seja analisado, ressalvadas
+situações de caso fortuito e força maior.
+
+
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+6.1.2 É de responsabilidade da Contratada a implementação total do sistema, incluindo fornecimento de todos os
+materiais: cabos, conectores, extensões e outros componentes necessários para seu pleno funcionamento.
+6.1.3 Todos os Equipamentos fornecidos deverão estar em conformidade com as normas referenciadas
+anteriormente e ainda serem compatíveis com as aplicações técnicas.
+6.1.4 A Contratada utilizará na execução dos serviços, funcionários habilitados, capacitados e qualificados, bem
+como uniformizados. Estes funcionários deverão obedecer às normas e procedimentos do Contratante, podendo
+ser exigido, pela Fiscalização, a substituição de qualquer profissional cujo comportamento ou capacidade sejam
+julgados impróprios ao desempenho dos serviços contratados.
+6.1.5 A contratada deverá designar em sua proposta técnica pelo menos um engenheiro  eletricista, que
+apresentou como capacidade técnica, responsável pelo acompanhamento e execução de todos os serviços e
+fornecimentos no objeto desta licitação, que deverá ser o elemento de contato com a fiscalização.
+6.1.6 O local dos serviços deverá ser mantido limpo e quando da entrega final deverá ser efetuada uma limpeza
+geral.
+6.1.7 A mão de obra de construção da infraestrututa (Postes, colunas, braços, padrões de energia, etc.) e
+instalação dos sistemas citados deverão ter seus valores totalmente previstos, não sendo aceito aditivos de
+valores no decorrer da obra. 6.1.8 A contratada deve prever nos seus custos as despesas com atividades
+secundárias relacionadas à obra, tais como recomposição de pisos e jardins, furação de paredes e vigas,
+acabamentos de alvenarias, serviços e materiais eventuais relacionados à obra.
+6.1.9 A Manutenção Técnica Preventiva contempla os serviços efetuados para manter os equipamentos
+funcionando em condições normais, com objetivo de diminuir as possibilidades de paralisações, compreendendo:
+Manutenção do bom estado de conservação; Substituição ou reparo de componentes que comprometam o bom
+funcionamento; Modificações necessárias referente a atualização dos aparelhos, limpeza, regulagem, inspeção,
+calibração e simulação de testes em todo sistema interno e externo, além disso, outras ações que garantam que o
+conjunto dos equipamentos esteja em permanente condição de operação.
+6.1.10A Manutenção Técnica Corretiva contempla os serviços de reparo com a finalidade de eliminar todos os
+defeitos existentes nos equipamentos identificados por meio de diagnóstico, bem como, a correção de
+anormalidades, a  realização de  testes e regulagens que sejam necessárias para  garantir o retorno do
+equipamento às condições normais de funcionamento, e também na substituição do equipamento quando
+necessário sem qualquer ônus a Contratante.
+6.1.11 Caberá à Contratada manter o sistema em perfeitas condições de uso durante todo o período de duração do
+contrato, comprometendo-se a reparar ou  substituir, se  for o caso, os acessórios ou componentes que
+apresentarem falhas e que não caracterizarem perda das funções básicas do sistema.
+6.1.12 Prazo máximo de 48 horas, passíveis de prorrogação, mediante justificativa por escrito. O prazo pode ser
+prorrogado desde que em comum acordo entre as partes e comunicado com antecedência;
+6.1.13 A Contratada deverá instalar, quando necessária a substituição, de equipamentos de primeira linha de
+fabricação, de acordo com as especificações atuais, nunca inferiores.
+6.1.14 A Contratada deverá comunicar ao fiscal do Contrato todas as ocorrências nos equipamentos instalados,
+que possam comprometer ou não os serviços.
+6.1.15 A Contratada deverá elaborar e entregar à Contratante, após a execução de cada manutenção corretiva, um
+relatório do serviço prestado, devidamente preenchido e assinado.
+6.1.16 A Contratada se obriga a manter o mais absoluto sigilo com relação a toda e qualquer informação a que
+tiverem acesso sobre dados do sistema. As imagens, sons, vídeos, bem como informações obtidas pelo sistema
+de videomonitoramento são de uso único e exclusivo do município contratante.
+6.1.17 A Empresa Contratada fará treinamento para operadores e pessoal responsável pelo monitoramento, assim
+que os equipamentos estiverem todos instalados, garantindo conhecimento adequado sobre o funcionamento e
+manutenção do sistema.
+                                7.    DA GARANTIA, MANUTENÇÃO E ASSISTÊNCIA TÉCNICA.
+7.1 O prazo de garantia é aquele estabelecido na Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do
+Consumidor)
+7.2 A garantia será prestada com vistas a manter os equipamentos fornecidos em perfeitas condições de uso, sem
+qualquer ônus ou custo adicional para o Contratante.
+7.3 A garantia abrange a realização da manutenção corretiva dos bens pelo próprio Contratado, ou, se for o caso, por
+meio de assistência técnica autorizada, de acordo com as normas técnicas específicas.
+7.4  Entende-se  por  manutenção  corretiva  aquela  destinada  a  corrigir  os  defeitos  apresentados  pelos  bens,
+compreendendo a substituição de peças, a realização de ajustes, reparos e correções necessárias.
+7.5 As peças que apresentarem vício ou defeito no período de vigência da garantia deverão ser substituídas por outras
+novas, de primeiro uso, e originais, que apresentem padrões de qualidade e desempenho iguais ou superiores aos das
+peças utilizadas na fabricação do equipamento.
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+7.6 Uma vez notificado, o Contratado realizará a reparação ou substituição dos bens que apresentarem vício ou defeito no
+7.7 prazo de até 20 vinte dias úteis, contados a partir da data de retirada do equipamento das dependências da
+Administração pelo Contratado ou pela assistência técnica autorizada.
+7.8 O prazo indicado no subitem anterior, durante seu transcurso, poderá ser prorrogado uma única vez, por igual período,
+mediante solicitação escrita e justificada do Contratado, aceita pelo Contratante.
+7.9 Na hipótese do subitem acima, o Contratado deverá disponibilizar equipamento equivalente, de especificação igual ou
+superior ao anteriormente fornecido, para utilização em caráter provisório pelo Contratante, de modo a garantir a
+continuidade dos trabalhos administrativos durante a execução dos reparos.
+7.10 Decorrido o prazo para reparos e substituições sem o atendimento da solicitação do Contratante ou a apresentação
+de justificativas pelo Contratado, fica o Contratante autorizado a contratar empresa diversa para executar os reparos,
+ajustes ou a substituição do bem ou de seus componentes, bem como a exigir do Contratado o reembolso pelos custos
+respectivos, sem que tal fato acarrete a perda da garantia dos equipamentos.
+7.11 O custo referente ao transporte dos equipamentos cobertos pela garantia será de responsabilidade do Contratado.
+7.12 A garantia legal ou contratual do objeto tem prazo de vigência próprio e desvinculado daquele fixado no contrato,
+permitindo eventual aplicação de penalidades em caso de descumprimento de alguma de suas condições, mesmo depois
+de expirada a vigência contratual.
+                                           8.    DO RECEBIMENTO DO OBJETO
+8.1 Os bens serão recebidos provisoriamente, de forma sumária, no ato da entrega, juntamente com a nota fiscal ou
+instrumento de cobrança equivalente, pelo(a) responsável pelo acompanhamento e fiscalização do contrato, para efeito de
+posterior verificação de sua conformidade com as especificações constantes no Termo de Referência e na proposta.
+8.2 Os bens poderão ser rejeitados, no todo ou em parte, inclusive antes do recebimento provisório, quando em desacordo
+com as especificações constantes no Termo de Referência e na proposta, devendo ser substituídos no prazo de 10 (dez)
+dias, a contar da notificação da contratada, às suas custas, sem prejuízo da aplicação das penalidades.
+8.3 O recebimento definitivo ocorrerá no prazo de 10 (dez) dias úteis, a contar do recebimento da nota fiscal ou
+instrumento de cobrança equivalente pela Administração, após a verificação da qualidade e quantidade do material e
+consequente aceitação mediante termo detalhado.
+Para as contratações decorrentes de despesas cujos valores não ultrapassem o limite de que trata o inciso II do art. 75 da
+Lei nº 14.133, de 2021, o prazo máximo para o recebimento definitivo será de até 05 (cinco) dias úteis.
+8.4 O prazo para recebimento definitivo poderá ser excepcionalmente prorrogado, de forma justificada, por igual período,
+quando houver necessidade de diligências para a aferição do atendimento das exigências contratuais.
+No caso de controvérsia sobre a execução do objeto, quanto à dimensão, qualidade e quantidade, deverá ser observado o
+teor do art. 143 da Lei nº 14.133, de 2021, comunicando-se à empresa para emissão de Nota Fiscal no que pertine à
+parcela incontroversa da execução do objeto, para efeito de liquidação e pagamento.
+8.5 O prazo para a solução, pelo contratado, de inconsistências na execução do objeto ou de saneamento da nota fiscal
+ou de instrumento de cobrança equivalente, verificadas pela Administração durante a análise prévia à liquidação de
+despesa, não será computado para os fins do recebimento definitivo.
+8.6 O recebimento provisório ou definitivo não excluirá a responsabilidade civil pela solidez e pela segurança do serviço
+nem a responsabilidade ético-profissional pela perfeita execução do contrato.
+                                                    9.    DA LIQUIDAÇÃO
+9.1 É obrigatório o envio da Nota Fiscal no e-mail do setor de compras: comprasnovafatimia@gmail.com, logo após o
+envio do produto e/ou na finalização do serviço.
+9.2 Recebida a Nota Fiscal ou documento de cobrança equivalente, correrá o prazo de dez dias úteis para fins de
+liquidação, na forma desta seção, prorrogáveis por igual período, nos termos do art. 7º, §2º da Instrução Normativa
+SEGES/ME nº 77/2022.
+9.3 O prazo de que trata o item anterior será reduzido à metade, mantendo-se a possibilidade de prorrogação, no caso de
+contratações decorrentes de despesas cujos valores não ultrapassem o limite de que trata o inciso II do art. 75 da Lei nº
+14.133, de 2021.
+9.4 Se necessário, será realizada retenção do Imposto de Renda pela CONTRATANTE, de acordo com a alíquota
+adequada para o serviço ou bem adquirido constante no Anexo I do Decreto Municipal nº 163/2023;
+9.5 As Notas Fiscais deverão ser encaminhadas juntamente com as declarações obrigatórias constantes nos anexos da
+Instrução Normativa RFB nº 1234 de 11 de janeiro de 2012.
+9.6 Para fins de liquidação, o setor competente deverá verificar se a nota fiscal ou instrumento de cobrança equivalente
+apresentado expressa os elementos necessários e essenciais do documento, tais como:
+        a) o prazo de validade;
+        b) a data da emissão;
+        c) os dados do contrato e do órgão contratante;
+        d) o período respectivo de execução do contrato;
+        e) o valor a pagar; e
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+           f) eventual destaque do valor de retenções tributárias cabíveis.
+9.7 Havendo erro na apresentação da nota fiscal ou instrumento de cobrança equivalente, ou circunstância que impeça a
+liquidação da despesa, esta ficará sobrestada até que o contratado providencie as medidas saneadoras, reiniciando-se o
+prazo após a comprovação da regularização da situação, sem ônus ao contratante;
+9.8 A nota  fiscal ou instrumento de cobrança equivalente deverá ser obrigatoriamente acompanhado da
+comprovação da regularidade fiscal, constatada por meio de consulta on-line ao SICAF ou, na impossibilidade de
+acesso ao referido Sistema, mediante consulta aos sítios eletrônicos oficiais ou à documentação mencionada no
+art. 68 da Lei nº 14.133, de 2021.
+9.9 A Administração deverá realizar consulta ao SICAF para:
+        a) verificar a manutenção das condições de habilitação exigidas no edital;
+        b) identificar possível razão que impeça a participação em licitação, no âmbito do órgão ou entidade, que implique
+        proibição de contratar com o Poder Público, bem como ocorrências impeditivas indiretas.
+9.10 Constatando-se, junto ao SICAF, a situação de irregularidade do contratado, será providenciada sua notificação, por
+escrito, para que, no prazo de 5 (cinco) dias úteis, regularize sua situação ou, no mesmo prazo, apresente sua defesa. O
+prazo poderá ser prorrogado uma vez, por igual período, a critério do contratante.
+9.11 Não havendo regularização ou sendo a defesa considerada improcedente, o contratante deverá comunicar aos
+órgãos responsáveis pela fiscalização da regularidade fiscal quanto à inadimplência do contratado, bem como quanto à
+existência de pagamento a ser efetuado, para que sejam acionados os meios pertinentes e necessários para garantir o
+recebimento de seus créditos.
+9.12 Persistindo a irregularidade, o contratante deverá adotar as medidas necessárias à rescisão contratual nos autos do
+processo administrativo correspondente, assegurada ao contratado a ampla defesa.
+9.13 Havendo a efetiva execução do objeto, os pagamentos serão realizados normalmente, até que se decida pela
+rescisão do contrato, caso o contratado não regularize sua situação junto ao SICAF.
+                                          10.   PRAZO DE PAGAMENTO
+10.1 O pagamento será efetuado no prazo de até 10 (dez) dias úteis contados da finalização da liquidação da despesa,
+conforme seção anterior, nos termos da Instrução Normativa SEGES/ME nº 77, de 2022.
+10.2 No caso de atraso pelo Contratante, os valores devidos ao contratado serão atualizados monetariamente entre o
+termo final do prazo de pagamento até a data de sua efetiva realização, mediante aplicação do índice IGPM de correção
+monetária.
+                                          11.   FORMA DE PAGAMENTO
+11.1 O pagamento será realizado por meio de ordem bancária, para crédito em banco, agência e conta corrente indicados
+pelo contratado.
+11.2 Será considerada data do pagamento o dia em que constar como emitida a ordem bancária para pagamento.
+11.3 Quando do pagamento, será efetuada a retenção tributária prevista na legislação aplicável.
+11.3.1 Independentemente do percentual de tributo inserido na planilha, quando houver, serão retidos na fonte, quando da
+realização do pagamento, os percentuais estabelecidos na legislação vigente.
+11.4 O contratado regularmente optante pelo Simples Nacional, nos termos da Lei Complementar nº 123, de 2006, não
+sofrerá a retenção tributária quanto aos impostos e contribuições abrangidos por aquele regime. No entanto, o pagamento
+ficará condicionado à apresentação de comprovação, por meio de documento oficial, de que faz jus ao tratamento
+tributário favorecido previsto na referida Lei Complementar.
+                           12.   FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR
+12.1 Forma de seleção e critério de julgamento da proposta
+12.1.1 O fornecedor será selecionado por meio da realização de procedimento de LICITAÇÃO, na modalidade PREGÃO,
+sob a forma ELETRÔNICA, com adoção do critério de julgamento pelo MENOR PREÇO POR LOTE.
+12.2 Exigências de habilitação
+12.2.1 Os documentos de Habilitação deverão estar com prazo vigente, não havendo prazo nos documentos os mesmos
+serão considerados válidos se emitidos em até 90 (noventa) dias.
+                                   13.   DOS DOCUMENTOS DE HABILITAÇÃO
+13.1 Habilitação jurídica
+13.1.1 Pessoa física: cédula de identidade (RG) ou documento equivalente que, por força de lei, tenha validade para fins
+de identificação em todo o território nacional;
+13.1.2 Empresário individual: inscrição no Registro Público de Empresas Mercantis, a cargo da Junta Comercial da
+respectiva sede;
+13.1.3 Microempreendedor Individual - MEI: Certificado da Condição de Microempreendedor Individual  - CCMEI, cuja
+aceitação  ficará  condicionada à  verificação da  autenticidade no  sítio  https://www.gov.br/empresas-e-negocios/pt-
+br/empreendedor;
+
+
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+13.1.4 Sociedade empresária, sociedade limitada unipessoal – SLU ou sociedade identificada como empresa individual de
+responsabilidade limitada  - EIRELI: inscrição do ato constitutivo, estatuto ou contrato social no Registro Público de
+Empresas Mercantis, a cargo da Junta Comercial da respectiva sede, acompanhada de documento comprobatório de seus
+administradores;
+13.1.5 Sociedade empresária estrangeira: portaria de autorização de funcionamento no Brasil, publicada no Diário Oficial
+da União e arquivada na Junta Comercial da unidade federativa onde se  localizar a  filial, agência, sucursal ou
+estabelecimento, a qual será considerada como sua sede, conforme Instrução Normativa DREI/ME n.º 77, de 18 de março
+de 2020.
+13.1.6 Sociedade simples: inscrição do ato constitutivo no Registro Civil de Pessoas Jurídicas do local de sua sede,
+acompanhada de documento comprobatório de seus administradores;
+13.1.7 Filial, sucursal ou agência de sociedade simples ou empresária: inscrição do ato constitutivo da filial, sucursal ou
+agência da sociedade simples ou empresária, respectivamente, no Registro Civil das Pessoas Jurídicas ou no Registro
+Público de Empresas Mercantis onde opera, com averbação no Registro onde tem sede a matriz;
+13.1.8 Sociedade cooperativa: ata de fundação e estatuto social, com a ata da assembleia que o aprovou, devidamente
+arquivado na Junta Comercial ou inscrito no Registro Civil das Pessoas Jurídicas da respectiva sede, além do registro de
+que trata o art. 107 da Lei nº 5.764, de 16 de dezembro 1971.
+13.1.9 Agricultor familiar: Declaração de Aptidão ao Pronaf – DAP ou DAP-P válida, ou, ainda, outros documentos
+definidos pela Secretaria Especial de Agricultura Familiar e do Desenvolvimento Agrário, nos termos do art. 4º, §2º do
+Decreto nº 10.880, de 2 de dezembro de 2021.
+13.1.10 Produtor Rural: matrícula no Cadastro Específico do INSS – CEI, que comprove a qualificação como produtor rural
+pessoa física, nos termos da Instrução Normativa RFB n. 971, de 13 de novembro de 2009 (arts. 17 a 19 e 165).
+13.1.11 Os documentos apresentados deverão estar acompanhados de todas as alterações ou da consolidação
+respectiva.
+13.2 Habilitação fiscal, social e trabalhista
+13.2.1 Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas ou no Cadastro de Pessoas Físicas, conforme o
+caso;
+13.2.2 Prova de  regularidade  fiscal perante a Fazenda  Nacional, mediante apresentação de  certidão expedida
+conjuntamente pela Secretaria da Receita Federal do Brasil (RFB) e pela Procuradoria-Geral da Fazenda Nacional
+(PGFN), referente a todos os créditos tributários federais e à Dívida Ativa da União (DAU) por elas administrados, inclusive
+aqueles relativos à Seguridade Social, nos termos da Portaria Conjunta nº 1.751, de 02 de outubro de 2014, do Secretário
+da Receita Federal do Brasil e da Procuradora-Geral da Fazenda Nacional.
+13.2.3 Prova de regularidade com o Fundo de Garantia do Tempo de Serviço (FGTS);
+13.2.4 Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante a apresentação de certidão
+negativa ou positiva com efeito de negativa, nos termos do Título VII-A da Consolidação das Leis do Trabalho, aprovada
+pelo Decreto-Lei nº 5.452, de 1º de maio de 1943;
+13.2.5 Prova de inscrição no cadastro de contribuintes Estadual/Distrital ou Municipal/Distrital relativo ao domicílio ou sede
+do fornecedor, pertinente ao seu ramo de atividade e compatível com o objeto contratual;
+13.2.6 Prova de regularidade com a Fazenda Estadual/Distrital ou Municipal/Distrital do domicílio ou sede do fornecedor,
+relativa à atividade em cujo exercício contrata ou concorre;
+13.2.6.1 Caso o fornecedor seja considerado isento dos tributos Estadual/Distrital ou Municipal/Distrital relacionados ao
+objeto contratual, deverá comprovar tal condição mediante a apresentação de declaração da Fazenda respectiva do seu
+domicílio ou sede, ou outra equivalente, na forma da lei.
+13.2.6.2 O fornecedor enquadrado como microempreendedor individual que pretenda auferir os benefícios do tratamento
+diferenciado previstos na Lei Complementar n. 123, de 2006, estará dispensado da prova de inscrição nos cadastros de
+contribuintes estadual e municipal;
+13.3 Qualificação Econômico-Financeira
+13.3.1 Certidão negativa de insolvência civil expedida pelo distribuidor do domicílio ou sede do licitante, caso se trate de
+pessoa física, desde que admitida a sua participação na licitação (art  5º, inciso  II, alínea “c”, da Instrução Normativa
+Seges/ME nº 116, de 2021), ou de sociedade simples;
+13.3.2 Certidão negativa de falência expedida pelo distribuidor da sede do fornecedor - Lei nº 14.133, de   2021, art. 69,
+caput, inciso II);
+13.4 Qualificação Técnica
+13.4.1 Comprovação de aptidão para o fornecimento de bens similares de complexidade tecnológica e operacional
+equivalente ou superior com o objeto desta contratação, ou com o item pertinente, por meio da apresentação de certidões
+ou atestados, por pessoas jurídicas de direito público ou privado, ou regularmente emitido(s) pelo conselho profissional
+competente, quando for o caso.
+13.4.1.1 Será admitida, para fins de comprovação de quantitativo mínimo, a apresentação e o somatório de diferentes
+atestados executados de forma concomitante.
+
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+13.4.1.2 Os atestados de capacidade técnica poderão ser apresentados em nome da matriz ou da filial do fornecedor.
+13.4.1.3 O fornecedor disponibilizará todas as informações necessárias à comprovação da legitimidade dos atestados,
+apresentando, quando solicitado pela Administração, cópia do contrato que deu suporte à contratação, endereço atual da
+contratante e local em que foi executado o objeto contratado, dentre outros documentos.
+13.4.2 Certidão de registro da licitante e do responsável técnico no Conselho Regional de Engenharia e Agronomia
+(CREA) ou CFT – Conselho Federal dos Técnicos  Industriais, conforme a área de atuação e  atribuição  legal
+correspondente.
+13.4.3 Comprovação de Vínculo do Responsável Técnico:
+13.4.3.1 Cópia da Carteira de Trabalho e Previdência Social – CTPS (das seguintes anotações: identificação do portador,
+página relativa ao contrato de trabalho).
+13.4.3.2 Cópia do Contrato Social, caso o profissional seja integrante do quadro societário do licitante.
+13.4.3.3 Cópia do Contrato Social, no caso de empresa S.A, ou cópia da ata de eleição devidamente publicada, no caso
+de sociedade, tratando-se de diretor.
+13.4.3.4 Cópia de contrato de prestação de serviço regido pela legislação  civil, celebrado entre o profissional e o
+proponente.
+13.4.4 Comprovação de Qualificação Técnica do(s) Responsável(is):
+13.4.4.1 Certificado de formação técnica atualizado e válido nas Normas Regulamentadoras NR-10 e NR-35.
+
+                                  14.   DA PARTICIPAÇÃO DE COOPERATIVAS
+14.1 Caso admitida a participação de cooperativas, será exigida a seguinte documentação complementar:
+14.1.1 A relação dos cooperados que atendem aos requisitos técnicos exigidos para a contratação e que executarão o
+contrato, com as respectivas atas de inscrição e a comprovação de que estão domiciliados na localidade da sede da
+cooperativa, respeitado o disposto nos arts. 4º, inciso XI, 21, inciso I e 42, §§2º a 6º da Lei n. 5.764, de 1971;
+14.1.2 A declaração de regularidade de situação do contribuinte individual – DRSCI, para cada um dos cooperados
+indicados;
+14.1.3 A comprovação do capital social proporcional ao número de cooperados necessários à prestação do serviço;
+14.1.4 O registro previsto na Lei n. 5.764, de 1971, art. 107;
+14.1.5 A comprovação de integração das respectivas quotas-partes por parte dos cooperados que executarão o contrato;
+e
+14.1.6 Os seguintes documentos para a comprovação da regularidade jurídica da cooperativa:
+        a) ata de fundação;
+        b) estatuto social com a ata da assembleia que o aprovou;
+        c) regimento dos fundos instituídos pelos cooperados, com a ata da assembleia;
+        d) editais de convocação das três últimas assembleias gerais extraordinárias;
+        e) três registros de presença dos cooperados que executarão o contrato em assembleias gerais ou nas reuniões
+        seccionais; e
+           f) ata da sessão que os cooperados autorizaram a cooperativa a contratar o objeto da licitação;
+14.1.7 A última auditoria contábil-financeira da cooperativa, conforme dispõe o art. 112 da Lei n. 5.764, de 1971, ou uma
+declaração, sob as penas da lei, de que tal auditoria não foi exigida pelo órgão fiscalizador.
+                               15.    ESTIMATIVAS DO VALOR DA CONTRATAÇÃO
+15.1 O custo estimado total da contratação é de R$ 173.368,12 (cento e setenta e três mil trezentos e sessenta e oito
+reais e doze centavos) conforme custos unitários apostos no item 01 deste Termo de Referência.
+                                       16.   ADEQUAÇÃO ORÇAMENTÁRIA
+16.1 A contratação será atendida na seguinte dotação:
+
+
+                                        Ano da Despesa       Código Despesa      Elemento
+                                                 2025                557            449052
+
+                              17.   DO CONTROLE E FISCALIZAÇÃO DA EXECUÇÃO
+17.1 O recebimento do bem, a fiscalização e o acompanhamento da execução do contrato, a fim de  verificar a
+conformidade deles, a fim de verificar a conformidade dele com as especificações técnicas dispostas no mesmo, com as
+especificações técnicas dispostas no mesmo será efetuado pela servidora fiscal de Contrato:
+      Susana Maria Gumarães da Silva Lima, Portaria nº 102/2025.
+17.2 A fiscalização de que trata este item não exclui nem reduz a responsabilidade do fornecedor, ainda que resultem de
+condições técnicas, vícios redibitórios ou emprego de material inadequado ou de qualidade inferior, e, na ocorrência desta,
+não implica na responsabilidade da administração e de seus agentes e prepostos.
+
+
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+17.3. A gestão do contrato, independente da secretaria ou setor, será realizada pela servidora publica Keila da Silva
+Ramos, portaria nº 064/2025.
+
+
+Nova Fátima, 22 de setembro de 2025.
+
+
+
+
+
+                                       Caroline Fabri Pacheco Zolyomy
+                                  Secretária Municipal de Assistência Social
+
+
+
+
+
+                                    ANEXO II
+
+   MODELO DE CARTA DE APRESENTAÇÃO DE PROPOSTA FINAL PARA PRESTAÇÃO OU AQUISIÇÃO DOS
+                            SERVIÇO/FORNECIMENTO OU ITENS
+            A SER APRESENTADA APÓS A DISPUTA E READEQUADA AO ÚLTIMO LANCE
+
+
+                                  TIMBRE DA EMPRESA
+                          (Nome da empresa, CNPJ e endereço da empresa)
+
+AO (A) PREGOEIRO (A) da Prefeitura xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+
+
+   LICITAÇÃO PREGÃO ELETRÔNICO Nº **/20__ – PROCESSO Nº **/20__
+    Fornecedor:
+   CNPJ:                                            Inscrição Estadual:
+    Endereço:                                           Bairro:
+   CEP:                   Cidade:                Estado:
+    Telefone:                                         E-mail:
+    Banco:                  Agência:             Conta Corrente:
+   PIX da empresa:
+   VALIDADE DA PROPOSTA: no mínimo 60 (sessenta) dias.
+   PREVISÃO DE ENTREGA:
+   CONCORDAMOS COM TODAS AS CONDIÇÕES DO EDITAL:
+   Senhor Fornecedor: Para sua maior segurança, observe as condições estabelecidas no Edital:
+
+     Item  Discriminação                                                        Unid.      Qtde   Vlr. Unit    Vlr. Total
+    xx   Xx                                                          xx        xx    xx       x
+                                                            TOTAL:
+
+Valor Total e final por extenso do Item: R$(........................................................................)
+
+NO CASO DE MICROEMPRESA E EMPRESA DE PEQUENO PORTE, ASSINALE:
+(   ) Declaramos para os devidos fins, que somos Microempresa ou Empresa de Pequeno Porte, nos termos da Lei
+Complementar nº 123/2006 e suas alterações, e que fazemos prova de tal condição com os documentos enviados –
+DOCUMENTAÇÃO, conforme previsto no Edital.
+
+IMPORTANTE:
+1. Fica a municipalidade com o direito assegurado de contratar ou rejeitar esta proposta se assim lhe convier, sem que ao
+fornecedor caiba qualquer reclamação ou indenização.
+2. A assinatura do fornecedor implica na sua total aceitação das regras deste processo licitatório.
+
+Declaramos que nesta proposta estão incluídas eventuais vantagens e/ou abatimentos, impostos, transporte (carga e
+descarga) até o destino, taxas e encargos sociais, obrigações trabalhistas, previdenciárias, fiscais e comerciais e outras
+quaisquer que incidam sobre a contratação.
+
+
+XXXXX  ..... de ......... de 20__.
+
+
+____________________________________
+Nome da empresa + Carimbo
+Nome do responsável legal da empresa
+RG do responsável
+CPF do responsável
+
+
+                                   ANEXO III
+                        MODELO DE DECLARAÇÃO UNIFICADA
+
+TIMBRE DA EMPRESA
+(Nome da empresa, CNPJ e endereço da empresa)
+
+Á pregoeira
+Prefeitura Municipal de Nova Fátima, Estado do Paraná
+PREGÃO ELETRÔNICO Nº xx/2025
+
+Pelo presente instrumento, a empresa ........................., CNPJ nº ......................, com sede na ............................................,
+através de seu representante legal infra-assinado, que:
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+
+( ) Declara, sob as penas do artigo 299 do Código Penal, que se enquadra na situação de microempresa, empresa de
+pequeno porte ou cooperativa, nos termos da Lei Complementar nº 123/06, alterada pela Lei Complementar nº 147/14,
+bem assim que inexistem fatos supervenientes que conduzam ao seu desenquadramento desta situação. *Marcar este
+item caso se enquadre na situação de microempresa, empresa de pequeno porte ou cooperativa.
+
+1) Declaramos, para os fins do disposto no inciso XXXIII do art. 7º da Constituição Federal, não empregamos menores de
+dezoito anos em trabalho noturno, perigoso ou insalubre e nem menores de dezesseis anos, em qualquer trabalho, salvo
+na condição de aprendiz, a partir dos quatorze anos de idade.
+2) Declaramos, para os fins que até a presente data inexistem fatos supervenientes impeditivos para habilitação no
+presente processo licitatório, estando ciente da obrigatoriedade de declarar ocorrências posteriores.
+3) Declaramos, para os fins que a empresa não foi declarada inidônea por nenhum órgão público de qualquer esfera de
+governo, estando apta a contratar com o poder público.
+4) Declaramos, para os devidos fins que não possuímos em nosso quadro societário e de empregados, servidor ou
+dirigente de órgão ou entidade contratante ou responsável pela licitação.
+5) Comprometo-me a manter durante a execução do contrato, em compatibilidade com as obrigações assumidas, todas as
+condições de habilitação e qualificação exigidas na licitação.
+6) Declaramos, para os devidos fins de direito, na qualidade de Proponente dos procedimentos licitatórios, instaurados por
+este Município, que o(a) responsável legal da empresa é o(a) Sr.(a)............................................................., Portador(a) do
+RG  sob  nº    .................................................  e  CPF  nº    ........................................................,  cuja  função/cargo
+é..................................................(sócio  administrador/procurador/diretor/etc),  responsável  pela  assinatura da  Ata de
+Registro de Preços/contrato.
+7) Declaramos, para os devidos fins que em caso de qualquer comunicação futura referente e este processo licitatório,
+bem como em caso de eventual contratação, concordo que a Ata de Registro de Preços seja encaminhada para o
+seguinte endereço:
+E-mail:
+Telefone: (  )
+8) Caso altere o citado e-mail ou telefone comprometo-me em protocolizar pedido de alteração junto ao Sistema de
+Protocolo deste Município, sob pena de ser considerado como intimado nos dados anteriormente fornecidos.
+9) Nomeamos e constituímos o senhor(a)........................................., portador(a) do CPF/MF sob n.º...................................,
+para ser o(a) responsável para acompanhar a execução da Ata de Registro de Preços/contrato, referente ao Pregão
+Eletrônico  n.º Nº xx/2025 e todos os atos necessários ao cumprimento das obrigações contidas no instrumento
+convocatório, seus Anexos e na Ata de Registro de Preços/Contrato.
+
+
+
+                            __________________________________________
+                                                        Local/ Data
+
+
+                               ____________________________________
+                               Nome da empresa + Carimbo
+                            Nome do responsável legal da empresa
+                               RG do responsável
+                                  CPF do responsável
+
+
+
+                             MINUTA DE TERMO DE CONTRATO
+                              CONTRATO Nº 00X/2025
+
+O MUNICIPIO DE NOVA FÁTIMA, Estado do Paraná, sito a Rua Dr. Aloysio de Barros Tostes, 420, com inscrição no
+CNPJ/MF Sob o nº. 75.828.418/0001-90, doravante denominado CONTRATANTE, neste ato representado pela prefeita
+Municipal, a senhora Renata Montenegro Balan Xavier, brasileira, casada, advogada, portadora da Carteira de Identidade
+nº. 5410151-1 SESP/PR e CPF/MF nº 772.834.309-20 e o(a)  .............................. inscrito(a) no CNPJ/MF sob o nº
+............................, sediado(a) na  ..................................., em  ............................. doravante designado CONTRATADO,
+neste ato representada por .................................. (nome e função no contratado), conforme atos constitutivos da empresa
+OU procuração apresentada nos autos, tendo em vista o que consta no Processo nº. 0XX/2025 e em observância às
+
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+disposições da Lei nº 14.133, de 2021, resolvem celebrar o presente Termo de Contrato, decorrente do Pregão Eletrônico
+nº.0xx/2025 , mediante as cláusulas e condições a seguir enunciadas.
+                       CLÁUSULA PRIMEIRA – OBJETO (art. 92, I e II)
+1.1 O objeto do presente instrumento é a contratação de empresa para xxxxxxxxxxxxx, nas condições estabelecidas no
+Termo de Referência.
+1.2 Objeto da contratação:
+ Item                          Descrição                          Qtd      V. Mensal        V. Total
+   1 xxxxxxxxx                                                       xxxx     R$ *****         R$*******
+
+1.3 São anexos a este instrumento e vinculam esta contratação, independentemente de transcrição:
+1.3.1 O Termo de Referência que embasou a contratação;
+1.3.2 A Proposta do Contratado;
+1.3.3 Eventuais anexos dos documentos supracitados.
+                     CLÁUSULA SEGUNDA – VIGÊNCIA E PRORROGAÇÃO
+2.1 O prazo de vigência da contratação é de 12 (doze) meses contados da data da assinatura do contrato, prorrogável
+conforme art. 107 da Lei Federal nº 14.133/21.
+     CLÁUSULA TERCEIRA – MODELOS DE EXECUÇÃO E GESTÃO CONTRATUAIS (art. 92, IV, VII e XVIII)
+3.1 O regime de execução contratual, o modelo de gestão, assim como os prazos e condições de conclusão, entrega,
+observação e recebimento definitivo constam no Termo de Referência, anexo a este Contrato.
+                        CLÁUSULA QUARTA - SUBCONTRATAÇÃO
+4.1 Não será admitida a subcontratação do objeto contratual.
+                      CLÁUSULA QUINTA - PAGAMENTO (art. 92, V e VI)
+5.1 O valor total da contratação é de R$.......... (.....)
+5.2 No valor acima estão incluídas todas as despesas ordinárias diretas e indiretas decorrentes da execução do objeto,
+inclusive tributos e/ou impostos, encargos sociais, trabalhistas, previdenciários, fiscais e comerciais incidentes, taxa de
+administração, frete, seguro e outros necessários ao cumprimento integral do objeto da contratação.
+5.3 O valor acima é meramente estimativo, de forma que os pagamentos devidos ao contratado dependerão dos
+quantitativos efetivamente fornecidos.
+                        CLÁUSULA SEXTA - FORMA DE PAGAMENTO
+6.1 O pagamento será realizado através de ordem bancária, para crédito em banco, agência e conta corrente indicado
+pelo contratado.
+6.2 Será considerada data do pagamento o dia em que constar como emitida a ordem bancária para pagamento.
+                       CLÁUSULA SÉTIMA - PRAZO DE PAGAMENTO
+7.1 O pagamento será efetuado no prazo máximo de até 30 (trinta) dias, contados do recebimento da Nota Fiscal/Fatura.
+7.2 Considera-se ocorrido o recebimento da nota fiscal ou fatura quando o órgão contratante atestar a execução do objeto
+do contrato.
+7.3 No caso de atraso pelo Contratante, os valores devidos ao contratado serão atualizados monetariamente entre o termo
+final do prazo de pagamento até a data de sua efetiva realização, mediante aplicação do índice IGP-M de correção
+monetária.
+                      CLÁUSULA OITAVA - CONDIÇÕES DE PAGAMENTO
+8.1 É obrigatório o envio da Nota Fiscal no e-mail do setor de compras: comprasnovafatima@gmail.com, logo após o envio
+do produto e/ou na finalização do serviço.
+8.2 Se necessário, será realizada retenção do Imposto de Renda pela CONTRATANTE, de acordo com a alíquota
+adequada para o serviço ou bem adquirido constante no Anexo I do Decreto Municipal nº 163/2023;
+8.3 As Notas Fiscais deverão ser encaminhadas juntamente com as declarações obrigatórias constantes nos anexos da
+Instrução Normativa RFB nº 1234 de 11 de janeiro de 2012.
+8.4 Quando houver glosa parcial do objeto, o contratante deverá comunicar a empresa para que emita a nota fiscal ou
+fatura com o valor exato dimensionado.
+8.5 O setor competente deve verificar se a Nota Fiscal ou Fatura apresentada expressa os elementos necessários e
+essenciais do documento, tais como:
+8.5.1 o prazo de validade;
+8.5.2 a data da emissão;
+8.5.3 os dados do contrato e do órgão contratante;
+8.5.4 o período respectivo de execução do contrato;
+8.5.5 o valor a pagar; e
+8.5.6 eventual destaque do valor de retenções tributárias cabíveis.
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+8.6 Havendo erro na apresentação da Nota Fiscal/Fatura, ou circunstância que impeça a liquidação da despesa, o
+pagamento ficará sobrestado até que o contratado providencie as medidas saneadoras. Nessa hipótese, o prazo para
+pagamento iniciar-se-á após a comprovação da regularização da situação, não acarretando qualquer ônus para o
+contratante;
+8.7 A nota  fiscal ou instrumento de cobrança equivalente deverá ser obrigatoriamente acompanhado da
+comprovação da regularidade fiscal, constatada por meio de consulta on-line ao SICAF ou, na impossibilidade de
+acesso ao referido Sistema, mediante consulta aos sítios eletrônicos oficiais ou à documentação mencionada no
+art. 68 da Lei nº 14.133, de 2021.
+8.8 Previamente à emissão de nota de empenho e a cada pagamento, a Administração deverá realizar consulta ao SICAF
+para: a) verificar a manutenção das condições de habilitação exigidas no edital; b) identificar possível razão que impeça a
+participação em licitação, no âmbito do órgão ou entidade, proibição de contratar com o Poder Público, bem como
+ocorrências impeditivas indiretas.
+8.9 Constatando-se, junto ao SICAF, a situação de irregularidade do contratado, será providenciada sua notificação, por
+escrito, para que, no prazo de 5 (cinco) dias úteis, regularize sua situação ou, no mesmo prazo, apresente sua defesa. O
+prazo poderá ser prorrogado uma vez, por igual período, a critério do contratante.
+8.10 Não havendo regularização ou sendo a defesa considerada improcedente, o contratante deverá comunicar aos
+órgãos responsáveis pela fiscalização da regularidade fiscal quanto à inadimplência do contratado, bem como quanto à
+existência de pagamento a ser efetuado, para que sejam acionados os meios pertinentes e necessários para garantir o
+recebimento de seus créditos.
+8.11 Persistindo a irregularidade, o contratante deverá adotar as medidas necessárias à rescisão contratual nos autos do
+processo administrativo correspondente, assegurada ao contratado a ampla defesa.
+8.12 Havendo a efetiva execução do objeto, os pagamentos serão realizados normalmente, até que se decida pela
+rescisão do contrato, caso o contratado não regularize sua situação junto ao SICAF.
+8.13 Quando do pagamento, será efetuada a retenção tributária prevista na legislação aplicável.
+Independentemente do percentual de tributo inserido na planilha, no pagamento serão retidos na fonte os percentuais
+estabelecidos na legislação vigente.
+8.14 O contratado regularmente optante pelo Simples Nacional, nos termos da Lei Complementar nº 123, de 2006, não
+sofrerá a retenção tributária quanto aos impostos e contribuições abrangidos por aquele regime. No entanto, o pagamento
+ficará condicionado à apresentação de comprovação, por meio de documento oficial, de que faz jus ao tratamento
+tributário favorecido previsto na referida Lei Complementar.
+
+                           CLÁUSULA NONA - DA LIQUIDAÇÃO
+9.1 Se necessário, será realizada retenção do Imposto de Renda pela CONTRATANTE, de acordo com a alíquota
+adequada para o serviço ou bem adquirido constante no Anexo I do Decreto Municipal nº 163/2023;
+9.2 As Notas Fiscais deverão ser encaminhadas juntamente com as declarações constantes nos anexos da Instrução
+Normativa RFB nº 1234 de 11 de janeiro de 2012.
+                        CLÁUSULA DÉCIMA - CESSÃO DE CRÉDITO
+10.1 É admitida a cessão fiduciária de direitos creditícios com instituição financeira, nos termos e de acordo com os
+procedimentos previstos na Instrução Normativa SEGES/ME nº 53, de 8 de Julho de 2020, conforme as regras deste
+presente tópico.
+10.2 As cessões de crédito não fiduciárias dependerão de prévia aprovação do contratante.
+10.3 A cessão de crédito, de qualquer natureza, a ser feita mediante celebração de termo aditivo, dependerá de
+comprovação da regularidade fiscal e trabalhista da cessionária, bem como da certificação de que a cessionária não se
+encontra impedida de licitar e contratar com o Poder Público, conforme a legislação em vigor, nos termos do Parecer JL-
+01, de 18 de maio de 2020.
+10.4 O crédito a ser pago à cessionária é exatamente aquele que seria destinado à cedente (contratada) pela execução do
+objeto contratual, com o desconto de eventuais multas, glosas e prejuízos causados à Administração, sem prejuízo da
+utilização de institutos tais como os da conta vinculada e do pagamento direto previstos na IN SEGES/ME nº 5, de 2017,
+caso aplicáveis.
+                     CLÁUSULA DÉCIMA PRIMEIRA - REAJUSTE (art. 92, V)
+11.1 Os preços inicialmente contratados são fixos e irreajustáveis no prazo de um ano contado da data do orçamento
+estimado, em 15/09/2025.
+11.2 Após o interregno de um ano, e independentemente de pedido do Contratado, os preços iniciais serão reajustados,
+mediante a aplicação, pelo Contratante, do índice INPC (Índice Nacional de Preços ao Consumidor), exclusivamente para
+as obrigações iniciadas e concluídas após a ocorrência da anualidade.
+11.3 Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será contado a partir dos efeitos financeiros
+do último reajuste.
+
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+11.4 No caso de atraso ou não divulgação do(s) índice (s) de reajustamento, o Contratante pagará ao Contratado a
+importância calculada pela última variação conhecida, liquidando a diferença correspondente tão logo seja(m) divulgado(s)
+o(s) índice(s) definitivo(s).
+11.5 Nas aferições finais, o(s) índice(s) utilizado(s) para reajuste será(ão), obrigatoriamente, o(s) definitivo(s).
+11.6 Caso o(s) índice(s) estabelecido(s) para reajustamento venha(m) a ser extinto(s) ou de qualquer forma não possa(m)
+mais ser utilizado(s), será(ão) adotado(s), em substituição, o(s) que vier(em) a ser determinado(s) pela legislação então
+em vigor.
+11.7 Na ausência de previsão legal quanto ao índice substituto, as partes elegerão novo índice oficial, para reajustamento
+do preço do valor remanescente, por meio de termo aditivo.
+11.8 O reajuste será realizado por apostilamento.
+         CLÁUSULA DÉCIMA SEGUNDA - OBRIGAÇÕES DO CONTRATANTE (art. 92, X, XI e XIV)
+12.1 Exigir o cumprimento de todas as obrigações assumidas pelo Contratado, de acordo com o contrato e seus anexos;
+12.2 Receber o objeto no prazo e condições estabelecidas no Termo de Referência;
+12.3 Notificar o Contratado, por escrito, sobre vícios, defeitos ou incorreções verificadas no objeto fornecido, para que seja
+por ele substituído, reparado ou corrigido, no total ou em parte, às suas expensas;
+12.4 Acompanhar e fiscalizar a execução do contrato e o cumprimento das obrigações pelo Contratado;
+12.5 Efetuar o pagamento ao Contratado do valor correspondente ao fornecimento do objeto, no prazo, forma e condições
+estabelecidos no presente Contrato;
+12.6 Aplicar ao Contratado sanções motivadas pela inexecução total ou parcial do Contrato;
+12.7 Cientificar o órgão de representação judicial da Advocacia-Geral da União para adoção das medidas cabíveis quando
+do descumprimento de obrigações pelo Contratado;
+12.8 Explicitamente emitir decisão sobre todas as solicitações e reclamações relacionadas à execução do presente
+Contrato, ressalvados os requerimentos manifestamente impertinentes, meramente protelatórios ou de nenhum interesse
+para a boa execução do ajuste.
+12.9 Concluída a instrução do requerimento, a Administração terá o prazo de 10 (dez) dias para decidir, admitida a
+prorrogação motivada por igual período.
+12.10 A Administração não responderá por quaisquer compromissos assumidos pelo Contratado com terceiros, ainda que
+vinculados à execução do contrato, bem como por qualquer dano causado a terceiros em decorrência de ato do
+Contratado, de seus empregados, prepostos ou subordinados.
+12.11 O prazo para resposta ao pedido de repactuação de preços, quando for o caso, será de no máximo 10 (dez) dias.
+12.12 O prazo para resposta ao pedido de restabelecimento do equilíbrio econômico-financeiro, quando for o caso, será
+de no máximo 30 (trinta) dias.
+
+        CLÁUSULA DÉCIMA TERCEIRA - OBRIGAÇÕES DO CONTRATADO (art. 92, XIV, XVI e XVII)
+13.1 O Contratado deve cumprir todas as obrigações constantes deste Contrato e em seus anexos, assumindo como
+exclusivamente seus os riscos e as despesas decorrentes da boa e perfeita execução do objeto, observando, ainda, as
+obrigações a seguir dispostas:
+a) Entregar o objeto acompanhado do manual do usuário, com uma versão em português, e da relação da rede de
+assistência técnica autorizada (se for o caso);
+b) responsabilizar-se pelos vícios e danos decorrentes do objeto, de acordo com os artigos 12, 13 e 17 a 27, do Código de
+Defesa do Consumidor (Lei nº 8.078, de 1990);
+c) comunicar ao Contratante, no prazo máximo de 24 (vinte e quatro) horas que antecede a data da entrega, os motivos
+que impossibilitem o cumprimento do prazo previsto, com a devida comprovação;
+d) Atender às determinações regulares emitidas pelo fiscal ou gestor do contrato ou autoridade superior (art. 137, II) e
+prestar todo esclarecimento ou informação por eles solicitados;
+e) Reparar, corrigir, remover, reconstruir ou substituir, às suas expensas, no total ou em parte, no prazo fixado pelo fiscal
+do contrato, os bens nos quais se verificarem vícios, defeitos ou incorreções resultantes da execução ou dos materiais
+empregados;
+f) Responsabilizar-se pelos vícios e danos decorrentes da execução do objeto, bem como por todo e qualquer dano
+causado à Administração ou terceiros, não reduzindo essa responsabilidade a fiscalização ou o acompanhamento da
+execução contratual pelo Contratante, que ficará autorizado a descontar dos pagamentos devidos ou da garantia, caso
+exigida, o valor correspondente aos danos sofridos;
+13.2 Quando não for possível a verificação da regularidade no Sistema de Cadastro de Fornecedores – SICAF, a empresa
+contratada deverá entregar ao setor responsável pela fiscalização do contrato, junto com a Nota Fiscal para fins de
+pagamento, os seguintes documentos: 1) prova de regularidade relativa à Seguridade Social; 2) certidão conjunta relativa
+aos tributos federais e à Dívida Ativa da União; 3) certidões que comprovem a regularidade perante a Fazenda Estadual
+ou Distrital do domicílio ou sede do contratado; 4) Certidão de Regularidade do FGTS – CRF; e 5) Certidão Negativa de
+Débitos Trabalhistas – CNDT;
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+13.3 Responsabilizar-se pelo cumprimento das obrigações previstas em Acordo, Convenção, Dissídio Coletivo de
+Trabalho ou equivalentes das categorias abrangidas pelo contrato, por todas as obrigações  trabalhistas,  sociais,
+previdenciárias,  tributárias e as demais  previstas em  legislação  específica,  cuja  inadimplência não  transfere a
+responsabilidade ao Contratante;
+13.4 Comunicar ao Fiscal do contrato, no prazo de 24 (vinte e quatro) horas, qualquer ocorrência anormal ou acidente que
+se verifique no local da execução do objeto contratual.
+13.5 Paralisar, por determinação do Contratante, qualquer atividade que não esteja sendo executada de acordo com a boa
+técnica ou que ponha em risco a segurança de pessoas ou bens de terceiros.
+13.6 Manter durante toda a vigência do contrato, em compatibilidade com as obrigações assumidas, todas as condições
+exigidas para habilitação na licitação, ou para qualificação, na contratação direta;
+13.7 Cumprir, durante todo o período de execução do contrato, a reserva de cargos prevista em lei para pessoa com
+deficiência, para reabilitado da Previdência Social ou para aprendiz, bem como as reservas de cargos previstas na
+legislação (art. 116);
+13.8 Comprovar a reserva de cargos a que se refere a cláusula acima, no prazo fixado pelo fiscal do contrato, com a
+indicação dos empregados que preencheram as referidas vagas (art. 116, parágrafo único);
+13.9 Guardar sigilo sobre todas as informações obtidas em decorrência do cumprimento do contrato;
+13.10 Arcar com o ônus decorrente de eventual equívoco no dimensionamento dos quantitativos de sua proposta,
+inclusive quanto aos custos variáveis decorrentes de fatores futuros e incertos, devendo complementá-los, caso o previsto
+inicialmente em sua proposta não seja satisfatório para o atendimento do objeto da contratação, exceto quando ocorrer
+algum dos eventos arrolados no art. 124, II, d, da Lei nº 14.133, de 2021.
+13.11 Cumprir, além dos postulados legais vigentes de âmbito federal, estadual ou municipal, as normas de segurança do
+Contratante;
+13.12 A CONTRATADA deverá apresentar em seu quadro 01 (um) coveiro, devidamente treinado e habilitado com registro
+na Carteira de Trabalho e Previdência Social, para atender as necessidades solicitadas e repassadas através de ordem de
+serviço a ser expedida pela Secretária de Obras, Viação e Serviços Urbanos;
+13.13. Comprovar a adimplência da folha de pagamento, pagamento do 13º, do recolhimento do Fundo de Garantia por Tempo de
+Serviço e Instituto Nacional da Seguridade Social e das obrigações previdenciárias todos os meses até o termino do contrato;
+13.14. A CONTRATADA deverá apresentar equipamentos e ferramentas para realização dos serviços ora contratados, cortadores
+de grama, material para pintura e demais equipamentos e ferramentas que se fizerem necessários;
+13.15. Fornecer equipamentos de proteção individual – EPI’S e equipamentos de proteção coletiva – EPC’s;
+13.16. Os sepultamentos não terão dias fixos, que podem ocorrer também aos finais de semana e feriados, e deverão ser
+realizados imediatamente, de acordo com as solicitações da Secretaria Obras, Viação e Serviços Urbanos, sem adicional
+de custo ao CONTRATANTE.
+13.17. Os serviços serão prestados das 07h00min às 11h30min e das 13h00min às 16h30min;
+13.18. A CONTRATADA deverá apresentar equipamentos e ferramentas que se fizerem necessários para realização dos serviços
+ora contratados, as melhorias na infraestrutura do cemitério ficarão a cargo da CONTRATANTE.
+
+             CLÁUSULA DÉCIMA QUARTA – GARANTIA DE EXECUÇÃO (art. 92, XII e XIII)
+14.1 Não haverá exigência de garantia contratual da execução.
+         CLÁUSULA DÉCIMA QUINTA – INFRAÇÕES E SANÇÕES ADMINISTRATIVAS (art. 92, XIV)
+15.1. Comete infração administrativa, nos termos da Lei nº 14.133, de 2021, o contratado que:
+a) der causa à inexecução parcial do contrato;
+b) der causa à inexecução parcial do contrato que cause grave dano à Administração ou ao funcionamento dos serviços
+públicos ou ao interesse coletivo;
+c) der causa à inexecução total do contrato;
+d) ensejar o retardamento da execução ou da entrega do objeto da contratação sem motivo justificado;
+e) apresentar documentação falsa ou prestar declaração falsa durante a execução do contrato;
+f) praticar ato fraudulento na execução do contrato;
+g) comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+h) praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013.
+15.2. Serão aplicadas ao contratado que incorrer nas infrações acima descritas as seguintes sanções:
+15.2.1. Advertência, quando o contratado der causa à inexecução parcial do contrato, sempre que não se justificar a
+imposição de penalidade mais grave (art. 156, §2º, da Lei nº 14.133, de 2021);
+15.2.2. Impedimento de licitar e contratar, quando praticadas as condutas descritas nas alíneas “b”, “c” e “d” do subitem
+acima deste Contrato, sempre que não se justificar a imposição de penalidade mais grave (art. 156, § 4º, da Lei nº 14.133,
+de 2021);
+
+
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+15.2.3. Declaração de inidoneidade para licitar e contratar, quando praticadas as condutas descritas nas alíneas “e”,
+“f”, “g” e “h” do subitem acima deste Contrato, bem como nas alíneas “b”, “c” e “d”, que justifiquem a imposição de
+penalidade mais grave (art. 156, §5º, da Lei nº 14.133, de 2021);
+15.2.4. Multa.
+15.3. As sanções de advertência e multa serão aplicadas conforme a graduação a seguir:
+15.3.1. Grau de Severidade Leve (L1) = advertência;
+15.3.2. Grau de Severidade Moderado (M1, M2 e M3) = aplicação de Multas:
+a) M1 = multa de 0,5% (zero vírgula cinco por cento) do valor total do contrato por dia de inadimplência e/ou fato gerador
+da multa, conforme indicado na tabela de sanções administrativa;
+b) M2 = multa de 1% (um por cento) do valor total do contrato por dia de inadimplência e/ou fato gerador da multa,
+conforme indicado na tabela de sanções administrativa; e
+c) M3 = multa de 5% (cinco por cento) do valor total do contrato por dia de inadimplência e/ou fato gerador da multa,
+conforme indicado na tabela de sanções administrativa.
+15.4. Grau de Severidade Grave (G1 e G2) = aplicação de sanção:
+15.4.1. G1 = multa de 7% (sete por cento) do valor total do contrato por dia de inadimplência e/ou fato gerador da multa,
+conforme indicado na tabela de sanções administrativa; e
+15.4.2. G2 = Rescisão contratual cumulada com multa de 10% (dez por cento) a 20% (vinte por cento) sobre o valor total
+do contrato.
+12.5. O grau de severidade inicial da pena será determinado considerando a conduta e a primariedade ou a reincidência
+da CONTRATADA, conforme tabela a seguir:
+                                                                     Ocorrência e Reincidência
+                                                                 Grau de Severidade
+                      Condutas
+                                                      Leve        Moderado            Grave
+                                                      L1    M1    M2    M3    G1    G2
+     Atraso injustificado do início da execução do contrato de
+1                                                                                                     1ª vez   2ª vez
+    prestação de serviço.
+    Quando o  preposto e/ou  integrante da equipe não se
+2                                                                1ª vez   2ª vez   3ª vez   4ª vez   5ª vez   6ª vez
+     apresentar em reunião pré-agendada
+     Deixar  de  cumprir  o  horário  de  disponibilidade  de
+3                                                                1ª vez   2ª vez   3ª vez   4ª vez   5ª vez   6ª vez
+    atendimento determinado pelo CONTRATANTE.
+     Deixar de apresentar a equipe completa para  início da
+4                                                                                            1ª vez   2ª vez   3ª vez
+    execução contratual no prazo definido
+    Quando não atender a meta de produtividade por 03 (três)
+5                                                                                  1ª vez   2ª vez   3ª vez   4ª vez
+    meses consecutivos
+   O  cumprimento  irregular  das  cláusulas  contratuais, do
+6                                                                1ª vez   2ª vez   3ª vez   4ª vez   5ª vez   6ª vez
+    Termo de Referência, especificações ou prazos
+   O não cumprimento de cláusulas contratuais, do Termo de
+7                                                                         1ª vez   2ª vez   3ª vez   4ª vez   5ª vez
+     Referência, especificações ou prazos
+    Suspender ou interromper os serviços, salvo por motivo de
+8                                                                                            1ª vez   2ª vez   3ª vez
+     força maior ou caso fortuito aceito pelo CONTRATANTE.
+    Não manter, durante toda a execução do  contrato, as
+9                                                                1ª vez   2ª vez   3ª vez   4ª vez   5ª vez   6ª vez
+    mesmas condições da habilitação.
+1  O desatendimento de determinações regulares da Equipe de
+                                                                                    1ª vez   2ª vez   3ª vez   4ª vez
+0    Fiscalização.
+1   Não responder a contatos e/ou solicitações da Equipe de
+                                                                           1ª vez   2ª vez   3ª vez   4ª vez   5ª vez
+1    Fiscalização no prazo estabelecido.
+1
+     Apresentar documento falso ou fazer declaração falsa.                                                       1ª vez
+2
+1   Descumprimento    das     diretrizes    definidas    pelo
+                                                                  1ª vez   2ª vez   3ª vez   4ª vez   5ª vez   6ª vez
+3  CONTRATANTE para a execução dos serviços.
+1
+    Abandonar a execução do contrato                                                                         1ª vez
+4
+1    Frustrar  ou  fraudar,  mediante  ajuste,  combinação  ou
+                                                                                                                1ª vez
+5   qualquer outro expediente, o contrato.
+   A alteração social ou a modificação da finalidade ou da
+1
+     estrutura  da  empresa  que  prejudique  a  execução  do                                                1ª vez
+6
+     contrato.
+
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+    Quando  for evidenciado que o prestador de serviço da
+1
+   CONTRATADA realizou atividade de quebra e/ou ameaça à                                       1ª vez   2ª vez
+7
+    segurança das informações do CONTRATANTE.
+     Deixar de manter a documentação de habilitação atualizada
+    ou recusar-se a apresentar documentos complementares
+1
+     relacionados  à  sua  habilitação  (documentação   fiscal,   1ª vez   2ª vez   3ª vez   4ª vez   5ª vez   6ª vez
+8
+    documentação      trabalhista     e/ou     documentação
+     previdenciária).
+1    Criar embaraços ou  deixar de  prestar informações que
+                                                                  1ª vez   2ª vez   3ª vez   4ª vez   5ª vez   6ª vez
+9   possam contribuir com o processo de fiscalização contratual.
+2   Deixar de entregar a documentação exigida neste Termo de
+                                                                  1ª vez   2ª vez   3ª vez   4ª vez   5ª vez   6ª vez
+0   Referência dentro dos prazos estipulados.
+    Não fornecer todos os dados/informações e documentações
+2
+     utilizados na execução dos serviços durante o processo de                                       1ª vez   2ª vez
+1
+     Transição Final do Contrato
+2    Desistir  da  prorrogação  contratual  após  sua  expressa
+                                                                                                                1ª vez
+2   manifestação de interesse na prorrogação.
+     Emitir Nota Fiscal sem autorização de faturamento pelo e/ou
+2    atrasar a apresentação de Nota Fiscal sem
+                                                                  1ª vez   2ª vez   3ª vez   4ª vez   5ª vez   6ª vez
+3    justificativa, em desacordo com o  fluxo de  fiscalização
+     pactuado.
+
+               CLÁUSULA DÉCIMA SEXTA– DA EXTINÇÃO CONTRATUAL (art. 92, XIX)
+16.1 O contrato se extingue quando vencido o prazo nele estipulado, independentemente de terem sido cumpridas ou não
+as obrigações de ambas as partes contraentes.
+16.2 O contrato pode ser extinto antes de cumpridas as obrigações nele estipuladas, ou antes, do prazo nele fixado, por
+algum dos motivos previstos no artigo 137 da Lei nº 14.133/21, bem como amigavelmente, assegurados o contraditório e a
+ampla defesa.
+16.3 Nesta hipótese aplicam-se também os artigos 138 e 139 da mesma Lei.
+16.4 A alteração social ou a modificação da finalidade ou da estrutura da empresa não ensejará a rescisão se não
+restringir sua capacidade de concluir o contrato.
+16.5 Se a operação implicar mudança da pessoa jurídica contratada, deverá ser formalizado termo aditivo para alteração
+subjetiva.
+16.6 O termo de rescisão, sempre que possível, será precedido:
+a) Balanço dos eventos contratuais já cumpridos ou parcialmente cumpridos;
+b)Relação dos pagamentos já efetuados e ainda devidos;
+c)Indenizações e multas.
+            CLÁUSULA DÉCIMA SÉTIMA - DO CONTROLE E FISCALIZAÇÃO DA EXECUÇÃO
+17.1- A gestão do Contrato será atribuída a Senhora Keila da Silva Ramos, diretora do Departamento de Compras
+conforme Lei 14.133/2021, Decreto Municipal nº 217/2022 e Portaria nº 064/2025.
+17.2- Ficará a cargo da fiscalização do Contrato conforme Lei 14.133/2021, Decreto Municipal nº 217/2022, Portaria nº
+102/2025, a servidora Susana Maria Guimarães da Silva Lima.
+               CLÁUSULA DÉCIMA OITAVA – DOTAÇÃO ORÇAMENTÁRIA (art. 92, VIII)
+18.1 As despesas decorrentes da presente contratação correrão à conta de recursos específicos consignados no
+Orçamento Geral do Município deste exercício, na dotação abaixo discriminada:
+
+                                  Ano da Despesa    Código Despesa    Elemento
+                                             2025               557          449052
+
+                  CLÁUSULA DÉCIMA NONA – DOS CASOS OMISSOS (art. 92, III)
+19.1 Os casos omissos serão decididos pelo CONTRATANTE, segundo as disposições contidas na Lei nº 14.133, de
+2021, e demais normas federais aplicáveis e, subsidiariamente, segundo as disposições contidas na Lei nº 8.078, de
+1990– Código de Defesa do Consumidor – e normas e princípios gerais dos contratos.
+                          CLÁUSULA VIGÉSIMA – ALTERAÇÕES
+20.1 Eventuais alterações contratuais reger-se-ão pela disciplina dos arts. 124 e seguintes da Lei nº 14.133, de 2021.
+
+
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+
+            MUNICÍPIO DE NOVA FÁTIMA
+                  Estado do Paraná
+
+20.2 O Contratado é obrigado a aceitar, nas mesmas condições contratuais, os acréscimos ou supressões que se fizerem
+necessários, até o limite de 25% (vinte e cinco por cento) do valor inicial atualizado do contrato.
+20.3 Registros que não caracterizam alteração do contrato podem ser realizados por simples apostila, dispensada a
+celebração de termo aditivo, na forma do art. 136 da Lei nº 14.133, de 2021.
+                      CLÁUSULA VIGÉSIMA PRIMEIRA – PUBLICAÇÃO
+21.1 Incumbirá ao Contratante providenciar a publicação deste instrumento nos termos e condições previstas na Lei nº
+14.133/21.
+                 CLÁUSULA VIGÉSIMA SEGUNDA – DA FRAUDE E CORRUPÇÃO
+22.1 Para os propósitos desta cláusula, definem-se as seguintes práticas:
+22.1.1 - “prática corrupta”: oferecer, dar, receber ou solicitar, direta ou indiretamente, qualquer vantagem com o objetivo de
+influenciar a ação de servidor público no processo de licitação ou na execução de contrato;
+22.1.2 - “prática fraudulenta”: a falsificação ou omissão dos fatos, com o objetivo de influenciar o processo de licitação ou
+de execução de contrato;
+22.1.3  - “prática conluiada”: esquematizar ou estabelecer um acordo entre dois ou mais  licitantes, com ou sem o
+conhecimento de representantes ou prepostos do órgão licitador, visando estabelecer preços em níveis artificiais e não-
+competitivos;
+22.1.4  -  “prática  coercitiva”: causar dano ou ameaçar causar dano,  direta ou indiretamente, às pessoas ou sua
+propriedade, visando influenciar sua participação em um processo licitatório ou afetar a execução do contrato;
+22.1.5 - “prática obstrutiva”: (i) destruir, falsificar, alterar ou ocultar provas em inspeções ou fazer declarações falsas aos
+representantes do organismo financeiro multilateral, com o objetivo de impedir materialmente a apuração de alegações de
+prática prevista acima; (ii) atos cuja intenção seja impedir materialmente o exercício do direito de o organismo financeiro
+multilateral promover inspeção.
+22.2 - Na hipótese de financiamento, parcial ou integral, por organismo financeiro multilateral, mediante adiantamento ou
+reembolso, este organismo imporá sanção sobre uma empresa ou pessoa física, inclusive declarando-a inelegível,
+indefinidamente ou por prazo determinado, para a outorga de contratos financiados pelo organismo se, em qualquer
+momento, constatar o envolvimento da empresa, diretamente ou por meio de um agente, em práticas corruptas,
+fraudulentas, colusivas, coercitivas ou obstrutivas ao participar da licitação ou da execução um contrato financiado pelo
+organismo.
+22.3 - Considerando os propósitos das cláusulas acima, a CONTRATADA concorda e autoriza que, na hipótese de o
+contrato vir a ser financiado, em parte ou integralmente, por organismo financeiro multilateral, mediante adiantamento ou
+reembolso, o organismo financeiro e/ou pessoas por ele formalmente indicadas possam inspecionar o local de execução
+do contrato e todos os documentos, contas e registros relacionados à licitação e à execução do contrato ”
+                     CLÁUSULA VIGÉSIMA TECEIRA – FORO (art. 92, §1º)
+23.1 - É eleito o Foro da comarca de Nova Fátima, estado do Paraná, para dirimir os litígios que decorrerem da execução
+deste Termo de Contrato que não possam ser compostos pela conciliação, conforme art. 92, §1º da Lei nº 14.133/21.
+
+
+...........................................,  .......... de.......................................... de 20.....
+
+
+___________________________________                _____________________________
+RENATA MONTENEGRO BALAN XAVIER             XXXXXXXX
+PREFEITO MUNICIPAL                             CNPJ. XXXXX
+CONTRATANTE                             CONTRATADO
+
+
+
+
+
+                    Rua Dr. Aloysio de Barros Tostes nº 420, Centro – CEP 86.310-000
+            CNPJ 75.828.418/0001-90 / e-mail licitacaonfpr@gmail.com – Telefone (43) 3552-1122
+

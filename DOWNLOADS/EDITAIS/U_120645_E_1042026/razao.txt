@@ -1,0 +1,123 @@
+MINISTÉRIO DA DEFESA
+                                                                   COMANDO DA AERONÁUTICA
+                                                                                COLÉGIO BRIGADEIRO NEWTON BRAGA
+                                                                   MAPA COMPARTIVO DE PREÇOS
+                                                                          AQUISIÇÃO DE EQUIPAMENTOS E PERIFÉRICOS DE TIC
+                                                                                Termo de Referência nº 129/2025
+ITEM                                                DESCRIÇÃO                                       UND   QTD      Preço 1        Preço 2         Preço 3       MÉDIA     MEDIANA        Vlr. Estimado
+
+
+        Impressora 3d Padrão: Fff Fdm , Tipo Gabinete: Fechado , Material Gabinete: Aço , Conexão: Usb , Área Mínima De Impressão:
+       220 X 220 X 250 Mm , Alimentação: Bivolt , Características Adicionais: De Resina , Padrão Filamentos: Abds, Pla, Tpu Velocidade
+       de Impressão: Amima de 100 mm/s e até 600 mm/s com aceleração de 20.000 mm/s². Volume de Construção mínimo: 220 x 220
+        x 250 mm. Tecnologia de Impressão: FDM (Fused Deposition Modeling), Diâmetro do Bico: 0,4 mm, Temperatura do Bico: Até
+  1                                                                                        UN     2        R$ 3.997,33      R$ 4.350,00      R$ 3.861,00  R$ 4.069,44   R$ 3.997,33        8.138,88       300℃, Temperatura da Mesa de Impressão: A partir de 100℃, Altura da Camada: 0,1 - 0,35 mm, Diâmetro do Filamento: 1,75
+      mm, Precisão de Impressão: 100±0,1 mm, Nivelamento Automático: Sim, Tela: Sensível ao toque, Recuperação em Caso de Perda
+       de Energia, Sensor de Fim de Filamento, Câmera de IA, Purificador de Ar, Kit de Iluminação, Modo de Suspensão, Modelagem de
+        Entrada, Placa de Construção Flexível PEI, Extrusora de , Acionamento Direto de Dupla Engrenagem, Transferência de Arquivo:
+       Pen drive USB, WiFi, Formatos de Arquivo para Fatia: STL, OBJ, 3MF, Software de Fatia Compatível: Cura Slicer e versões
+         posteriores, Filamentos Suportados: ABS, PLA, PETG, PET, TPU, PA, ABS, ASA, PC, PLA-CF, PA-CF, PET-CF, Voltagem: Bivolt.
+
+        Filamentos PLA High Speed , Peso de cada rolo: 1Kg, Conjunto Manutenção Impressora Copiadora Tipo Impressora: 3d , Tipo:
+         Original , Características Adicionais: Espessura: 1,75 Mm, na cor: 01 PRETO, Tolerância: ±0.02mm, Peso Bruto: 2.16KG,  2                                                                                        UN     3         R$ 185,00        R$ 181,35       R$ 221,84   R$ 196,06     R$ 185,00         588,18
+       Comprimento: 330m, Densidade: 1.26 g/cm³, Resistência à Tração: 54 MPa Elongação na Fratura: 12%, Resistência à Flexão: 74
+       MPa, Módulo de Young: 3620 MPa, Resistência ao Impacto Izod: 46 J/m, Ponto de Fusão: 165°C, Índice de Derretimento: 4-
+        6g/10min, Temperatura de Distorsão Térmica: 56°C, Ambiente de Armazenamento: Seco e ventilado.
+
+        Filamentos PLA High Speed , Peso de cada rolo: 1Kg, Conjunto Manutenção Impressora Copiadora Tipo Impressora: 3d , Tipo:
+         Original , Características Adicionais: Espessura: 1,75 Mm, na cor: 01 BRANCO, Tolerância: ±0.02mm, Peso Bruto: 2.16KG,  3                                                                                        UN     3         R$ 185,00        R$ 181,35       R$ 221,84   R$ 196,06     R$ 185,00         588,18
+       Comprimento: 330m, Densidade: 1.26 g/cm³, Resistência à Tração: 54 MPa Elongação na Fratura: 12%, Resistência à Flexão: 74
+       MPa, Módulo de Young: 3620 MPa, Resistência ao Impacto Izod: 46 J/m, Ponto de Fusão: 165°C, Índice de Derretimento: 4-
+        6g/10min, Temperatura de Distorsão Térmica: 56°C, Ambiente de Armazenamento: Seco e ventilado.
+
+        Filamentos PLA High Speed , Peso de cada rolo: 1Kg, Conjunto Manutenção Impressora Copiadora Tipo Impressora: 3d , Tipo:
+         Original , Características Adicionais: Espessura: 1,75 Mm, na cor: 01 AZUL, Tolerância: ±0.02mm, Peso Bruto: 2.16KG,  4                                                                                        UN     2         R$ 185,00        R$ 181,35       R$ 221,84   R$ 196,06     R$ 185,00         392,12
+       Comprimento: 330m, Densidade: 1.26 g/cm³, Resistência à Tração: 54 MPa Elongação na Fratura: 12%, Resistência à Flexão: 74
+       MPa, Módulo de Young: 3620 MPa, Resistência ao Impacto Izod: 46 J/m, Ponto de Fusão: 165°C, Índice de Derretimento: 4-
+        6g/10min, Temperatura de Distorsão Térmica: 56°C, Ambiente de Armazenamento: Seco e ventilado.
+
+
+        Filamentos PLA High Speed , Peso de cada rolo: 1Kg, Conjunto Manutenção Impressora Copiadora Tipo Impressora: 3d , Tipo:
+  5      Original , Características Adicionais: Espessura: 1,75 Mm, na cor: 01 VERMELHO, Tolerância: ±0.02mm, Peso Bruto: 2.16KG,      UN     2         R$ 185,00        R$ 181,35       R$ 221,84   R$ 196,06     R$ 185,00         392,12
+       Comprimento: 330m, Densidade: 1.26 g/cm³, Resistência à Tração: 54 MPa Elongação na Fratura: 12%, Resistência à Flexão: 74
+       MPa, Módulo de Young: 3620 MPa, Resistência ao Impacto Izod: 46 J/m, Ponto de Fusão: 165°C, Índice de Derretimento: 4-
+        6g/10min, Temperatura de Distorsão Térmica: 56°C, Ambiente de Armazenamento: Seco e ventilado.
+
+        Filamentos PLA High Speed , Peso de cada rolo: 1Kg, Conjunto Manutenção Impressora Copiadora Tipo Impressora: 3d , Tipo:
+         Original , Características Adicionais: Espessura: 1,75 Mm, na cor: 01 VERDE, Tolerância: ±0.02mm, Peso Bruto: 2.16KG,
+  6                                                                                        UN     2         R$ 185,00        R$ 181,35       R$ 221,84   R$ 196,06     R$ 185,00         392,12
+       Comprimento: 330m, Densidade: 1.26 g/cm³, Resistência à Tração: 54 MPa Elongação na Fratura: 12%, Resistência à Flexão: 74
+       MPa, Módulo de Young: 3620 MPa, Resistência ao Impacto Izod: 46 J/m, Ponto de Fusão: 165°C, Índice de Derretimento: 4-
+        6g/10min, Temperatura de Distorsão Térmica: 56°C, Ambiente de Armazenamento: Seco e ventilado.
+
+       Scanner ADF Bandeja com capacidade mínima de 30 folhas com gramatura de 120 gm² até 80 folhas de papel de 80 gm² 20 lb.;
+       Velocidade mínima de 30 ppm páginas por minuto Sistema com alimentador automático de documentos ADF Compatível com
+ 7    USB 2.0 USB 3.2 Gen 1x1 Rede sem fio 802.11 bgn e Ethernet 10100; tamanho máximo 216 mm x 3000 mm (8,5 pol. x 118 pol.) e   UN     1        R$ 5.775,00      R$ 5.100,00      R$ 4.900,00  R$ 5.258,33   R$ 5.100,00        5.258,33
+      mínimo 52 mm x 52 mm (2,08 pol. x 2,05 pol.) Espessura de cartão grosso de até 1,25mm (0,05 pol.) 27–433 g/m² (7.2–160 lb.)
+      paper ; 600dpi; Capas transportadoras (PACOTE DE 5) Kit de rolo de alimentação Mesa plana A4/Legal integrada Acessório de
+      mesa digitalizadora modular A3 Acessório para mesa plana Passport Kit do rolo da esteira de pré-separação & Acessório de
+       defletor de empilhamento; Opções de resolução de saída de imagem 1200 dpi.
+       Tela Projeção Material Estrutura: Alumínio , Tipo Tripé: Com Ajuste De Altura , Tipo Ajuste Tela: Multipoint , Material: Tecido
+ 8                                                                                        UN     1         R$ 890,00        R$ 865,00       R$ 721,00   R$ 825,33     R$ 865,00         825,33
+       Acetinado Branco Duplo Traçado Por Filamentos Com Filme Blackout, 50 Grau.
+
+
+       Impressora em Braille Velocidade de impressão acima de 25 CPS (caracteres por segundos); Impressão em formulário contínuo;
+ 9     Alimentação para formulário contínuo entre 120g e 180g; Impressão lado único; Resolução gráfica de 17 dpi; Condições técnicas    UN     1       R$ 38.000,00     R$ 31.000,00     R$ 22.997,00  R$ 30.665,67  R$ 31.000,00       30.665,67
+       para a impressão de gráficos e textos num mesmo documento; Impressão de celas Braille em diferentes tamanhos com maior ou
+      menor espaçamento; Conexão USB; Compatível com o Windows 32/64 bits; Exclusivo Software TSS – Translation Software Suite;
+       Voltagem: 110v ou 220v; Tamanho: 15,9x 35,9x 28,5cm; Peso: 5 kg.
+     HD portátil Disco Magnético Memória: 2 Terabyte , Velocidade Transferência: 3 GB/S, Aplicação: Uso Externo , Tamanho: 3 1/2
+10    POL, Modelo: Serial Ata (Sata) , Velocidade Mínima Disco: 7.200 RPM, Características Adicionais: Acompanha Case Externo Sata Ii,   UN     6         R$ 460,00        R$ 446,00       R$ 499,00   R$ 468,33     R$ 460,00         2.809,98
+      Usb 2.0, Ventoinha , Tipo: Rígido
+        Divisor Splitter de Sinal HDMI Com Switch 2 Portas Bidirecional 4K de 2x1 Áudio e Vídeo UHD 4k 60Hz,Hub 2 para 1 Full HD,
+        Certificação Não Aplicável Número da peça 1 Aparelhos compatíveis Computador, Notebook, Console de jogos (XBx 360, XBx One,
+       PS3, PS4), Apple TV, ROKU, Leitor DVD, Blu-Ray, Televisão, Monitor, Projetor Peças para montagem Aparelho Switch Número de
+11                                                                                        UN     1         R$ 107,00        R$ 104,79       R$ 128,10   R$ 113,30     R$ 107,00         113,30
+       unidades 1 Tipo de fonte de energia HDMI Funciona com baterias Não Tipo de cabo ou fio HDMI Número de portas 2 Tecnologia
+      de conexão HDMI 2.0 Cor Preto Cor correspondente Preto Conexões HDMI 2.0 Distância focal máxima HDMI 2.0 Peso do produto
+      500 g
+
+      Dock para Clonar Copiar SSD M2 NVME NGFF Type C CS-DOC-NVME/NGFF CertificaçãoNão aplicável Número da peça CS-DOC-
+12                                                                                        UN     1         R$ 199,00        R$ 217,98       R$ 207,97   R$ 208,32     R$ 207,97         208,32
+     NVME/NGFF Aparelhos compatíveis Notebooks Peças para montagem Dock, Cabo USB Número de unidades 1 Tipo de fonte de
+       energia USB Cor Preto Cor correspondente Preto Garantia do fabricante 3 Meses direto Fabricante Peso do produto 550 g
+
+       Gabinete SSD M.2 NVMe 10Gbps USB 3.2 externo NVMe M.2 SSD caixa de alumínio sem ferramentas M.2 NVMe leitor PCI-E
+     NVMe USB C suporta teclas M e B&M tamanho 2230/2242/2260/2280 SSDs preto Material Alumínio Peso do produto60 Gramas
+      Capacidade de armazenamento da memória 2 TB Dispositivos compatíveis Personal Computer Fator de forma de disco rígido 2,5
+13    Polegadas Número máximo de dispositivos suportados 1 Taxa de transferência de dados 119 Megabytes Per Second Fabricante    UN     1         R$ 480,00        R$ 329,00       R$ 430,00   R$ 413,00     R$ 430,00         413,00
+      Ugreen Group Limited Modelo 15512 Nome do modelo 15512 Certificação Não aplicável Número da peça 15512 Tipo Do Produto
+       Eletrônicos Sistema operacional Windows 11/ 10/ 8.1/ 8/ 7/ Vista/ XP, Mac OS, Linux Peças para montagem UGREEN 1 gabinete
+     NVMe M.2 Número de unidades 1 Baterias inclusas Não Funciona com baterias Não Tipo de material Alumínio Contém líquido?
+      Não Bateria recarregável Não Cor correspondente Preto Peso do produto 60 g
+
+       Conjunto De 180 Em 1 De Chaves De Fenda Magnéticas Precisão Formato de venda Unidade Outros Tamanho da ponta 45/28MM
+14                                                                                        UN     1         R$ 600,00        R$ 240,00       R$ 241,98   R$ 360,66     R$ 241,98         360,66
+      Forma da ponta Unidad Tipo de cabo Ergonômico Material do cabo PP TPR Comprimento da haste 11,6 cm Comprimento total 18
+     cm Com ponta magnética Sim Com ponta intercambiável Sim Cantidade de pontas intercambiáveis 162
+      Adaptador Ethernet Usb 3.0 Rj45 Placa De Rede Gigabit 10/100/1000 Mbps Para Windows Notebook E Desktop Modelo
+      Adaptador Ethernet USB RJ45 Outros Tecnologia de conectividade Ethernet Interface USB Sistemas operativos compatíveis
+15    Windows 11, Windows 10, Windows 8, Windows 7 Tipo de antena Não Possui Standards IEEE 802.3, IEEE 802.3u, IEEE 802.3ab     UN     1          R$ 53,00         R$ 55,00        R$ 63,00    R$ 57,00      R$ 55,00          57,00
+      Taxa de transferência de dados 1 GB/s Modelo alfanumérico ST56021 Altura x Largura x Profundidade 8.5 mm x 3.5 mm x 2.5 mm
+     Com indicador LED Sim
+
+
+        Leitor de cartão SD USB 3.0 Leitor de cartão de memória flash de slot duplo TF SD Micro SD SDXC SDHC MMC RS-MMC Micro
+      SDXC Micro SDHC UHS-I para Mac Windows Linux Chrome Leia 2 cartões Certificação 177202201739 Número da peça20250 Tipo
+     Do Produto Eletrônicos RAM 4 GB Tipo de Memória DDR DRAM Memória removível MicroSD, SDHC Sistema operacional Todos os
+16     sistemas operacionais Número de processadores 1 Interface do hardware MicroSD, USB 3,0 Tipo A, microSDXC, SDXC, SDHC       UN     1         R$ 130,00        R$ 120,00        R$ 88,00   R$ 112,67     R$ 120,00         112,67
+       Aparelhos compatíveis Computador Peças para montagem 1 Número de unidades 1 Tela colorida Não Voltagem 5 Volts Tipo de
+       fonte de energia Não aplicável Baterias inclusas Não Funciona com baterias Não Velocidade de transmissão de dados 5 Gigabits
+       Per Second Número de portas 2 Tecnologia de conexão USB 3.0 Tipos de mídia ou arquivo compatíveis Cartão SD, SDXC, SDHC
+      Contém líquido?Não Tem foco automáticoNão Bateria recarregável Não Tem botões programáveis Não Conexões USB 3.0
+       Garantia do fabricante 90 dias Peso do produto 15 g Número do modelo 20250 Dimensões do produto 3,2 x 10,4 x 10,2 cm; 15 g
+       Teclados ampliados com Braille Teclado ampliado com alto contraste e adaptação em Braille e tinta
+17                                                                                        UN     2         R$ 189,99        R$ 239,00       R$ 199,34     209,44      R$ 199,34         418,88
+        Interface: USB Padrão ABNT Cabo 1,35mts.
+                                                                     VALOR TOTAL ESTIMADO                                                                                               R$ 51.734,74
+
+     DOCUMENTO ASSINADO DIGITALMENTE                                                  DOCUMENTO ASSINADO DIGITALMENTE                      DOCUMENTO ASSINADO DIGITALMENTE
+Danielle Pereira de Mattos 1° Ten QOCon                                    Ana Paula Alvez Muniz 2° Ten QOCon               Carlos Eduardo Barroso Franco – Cel Int
+     Presidente da Comissão de Planejamento                                                               Agente de Controle Interno                                     Ordenadora de Despesas
+

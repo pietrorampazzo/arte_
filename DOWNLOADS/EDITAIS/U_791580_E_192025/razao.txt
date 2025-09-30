@@ -1,0 +1,849 @@
+MARINHA DO BRASIL
+
+                           BASE ALMIRANTE CASTRO E SILVA
+
+
+
+                       AVISO DE DISPENSA ELETRÔNICA Nº 90086/2025
+
+                        (Processo Administrativo n.° (63017.002245/2025-79)
+
+
+
+       Torna-se público que a Base Almirante Castro e Silva, por meio da Seção de Dispensa de
+
+Licitação, realizará Dispensa Eletrônica, com critério de julgamento menor preço na hipótese do
+
+art. 75, inciso  II, nos termos da Lei nº 14.133, de 1º de abril de 2021, da Instrução Normativa
+
+SEGES/ME nº 67/2021 e demais legislação aplicável.
+
+      Data da sessão: 30/09/2025
+
+        Link: https://www.gov.br/compras/pt-br
+
+       Horário da Fase de Lances: 8:00 às 14:00
+
+1. OBJETO DA CONTRATAÇÃO DIRETA
+
+     O objeto da presente dispensa é a escolha da proposta mais vantajosa para Aquisição de
+
+Drone para a Base Almirante Castro e  Silva, conforme condições, quantidades e exigências
+
+estabelecidas neste Aviso de Contratação Direta e seu(s) anexo(s).
+
+     A contratação será dividida em itens, conforme tabela constante abaixo:
+
+
+ ITEM         DESCRIÇÃO         CATMAT/   UF   QTD    PREÇO      VALOR
+                                                    ESTIMADO     TOTAL
+                                   CATSER
+
+   1    Aeronave Remotamente        631113   UN    01   R$ 11.594,00 R$ 11.594,00
+         Pilotada (Drone) com as
+         seguintes características:
+
+        Peso - 595 g
+        Dimensões Dobrado:180 ×97
+        ×77 mm;
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos – CNMLC/CGU/AGU
+Aviso de Dispensa Eletrônica – Lei nº 14.133/21 e IN SEGES/ME nº 67/2021
+Versão: Agosto/2021
+
+        Desdobrado:183 ×253 ×77
+      mm; Desdobrado com
+         hélices:312 ×312 ×77 mm
+        Voltagem11,55 V (bateria);
+         13,2 V (carregador)
+        Capacidade de
+       armazenamento 8 GB
+         (expansível até 256 GB)
+         Tipo de bateria LiPo 3S
+        Capacidade3500 mAh (bateria)
+         Compatibilidade - iOS e
+        Android Voltagem de saída13,2
+       V (carregador) Voltagem de
+        entrada 100-240 V; 50/60 Hz;
+         1,3 A (carregador)
+       Tempo de carga -
+        Aproximadamente 80 minutos
+       (com um carregador USB PD de
+        30 W)
+         Tipo de alimentação USB PD
+         (carregador)
+         Potência máxima de
+        carregamento 38 W
+         Conectividade - Wi-Fi Dual
+       Band (2.4 GHz e 5.8 GHz);
+        Bluetooth Low Energy (BLE)
+          v4.0; OcuSync 3.0 (transmissão
+       de vídeo em FHD a até 12 km)
+         Faixa de temperatura de carga
+         5° a 40°C (bateria); 0° a 40°C
+         (carregador)
+       Tempo de voo - 31 minutos.
+        Detecção de obstáculos
+        Detecção de obstáculos em 4
+         direções
+         Velocidade máxima 19 m/s
+       (modo S); 15 m/s (modo N); 5
+       m/s (modo T)
+         Resistência ao vento8,5-10,5
+       m/s
+        Resolução da câmera20 MP
+        Abertura da câmera f/2.8
+       Zoom da câmera - Zoom digital
+       de 4x (sem perda de qualidade
+      em 1080p/30 fps e 4K/30 fps);
+       zoom digital de 6x (sem perda
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos – CNMLC/CGU/AGU
+Aviso de Dispensa Eletrônica – Lei nº 14.133/21 e IN SEGES/ME nº 67/2021
+Versão: Agosto/2021
+
+       de qualidade em 2,7K/30 fps);
+       zoom digital de 8x (sem perda
+       de qualidade em 1080p/30
+          fps)
+       Modos de voo inteligente -
+        MasterShot, FocusTrack,
+         QuickShots, Hyperlapse e
+        Panorâmica SensorCMOS de 1
+        Lente FOV 88°; distância focal
+         equivalente a 22 mm; autofoco
+       de 0,6 m a ∞
+        Obturador - Obturador
+         eletrônico e mecânico Alcance
+         ISOVídeo: 100 - 6400; Foto:
+        100 - 12800 (automático);
+         Foto: 100 - 3200 (manual)
+      Modo de fotografia - Single
+         Shot; Burst Shooting; Auto
+        Exposure Bracketing (AEB);
+       Timed Shot; SmartPhoto;
+         HyperLight; HDR; Panorâmica
+      em HDR; Hyperlapse em RAW
+        Formatos de
+       vídeo/fotoMP4/MOV
+        (H.264/MPEG-4 AVC,
+        H.265/HEVC); JPEG/DNG
+       (RAW)
+        Alcance mecânico Inclinação -
+        135° a +45°;
+        Rotação -45° a +45°
+       Mecanismo do gimbal - Gimbal
+        mecânico de três eixos
+          (inclinação, rotação e
+        panorâmica)
+
+        Tendo como modelo de
+          referência: Drone Dji Air 2s Fly
+       More Combo
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos – CNMLC/CGU/AGU
+Aviso de Dispensa Eletrônica – Lei nº 14.133/21 e IN SEGES/ME nº 67/2021
+Versão: Agosto/2021
+
+                                                                   Valor Total: R$ 11.594,00
+
+
+
+        1.1.   Havendo mais de um item ou lote faculta-se ao fornecedor a participação em
+quantos forem de seu interesse.
+
+        1.1.1. Havendo divergência entre a descrição constante neste Aviso e a descrição do
+CATMAT/CATSER, prevalecerá a descrição constante na tabela dos itens deste Aviso de Dispensa
+Eletrônica.
+
+        1.2.  O critério de julgamento adotado será o menor preço, observadas as exigências
+contidas neste Aviso de Contratação Direta e seus Anexos quanto às especificações do objeto.
+
+      1.3. O material deverá ser entregue em até 15 (quinze) dias, após a emissão da nota de
+empenho, endereço: Ilha de Mocanguê Grande s/n – Ponta D'Areia – Niterói – RJ CEP 24040-300
+Base Almirante Castro e  Silva, Divisão de Relações públicas, Contato do Responsável pela
+Demanda: SG SC ELANA, e-mail: 15163873@marinha.mil.br; Telefone: (21) 2189-1882.
+
+        2.    PARTICIPAÇÃO NA DISPENSA ELETRÔNICA.
+
+ 2.1. A participação na presente dispensa eletrônica ocorrerá por meio do Sistema de Dispensa
+ Eletrônica, ferramenta informatizada integrante do Sistema de Compras do Governo Federal –
+ Compras.gov.br, disponível no Portal de Compras do Governo Federal, no endereço eletrônico
+ www.gov.br/compras
+
+        2.1.1. Os fornecedores deverão atender aos procedimentos previstos no Manual do
+Sistema de Dispensa Eletrônica, disponível no Portal de Compras do Governo Federal, para acesso
+ao sistema e operacionalização.
+
+        2.1.2. O fornecedor é o responsável por qualquer transação efetuada diretamente ou por
+seu representante no Sistema de Dispensa Eletrônica, não cabendo ao provedor do Sistema ou ao
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos – CNMLC/CGU/AGU
+Aviso de Dispensa Eletrônica – Lei nº 14.133/21 e IN SEGES/ME nº 67/2021
+Versão: Agosto/2021
+
+órgão entidade promotor do procedimento a responsabilidade por eventuais danos decorrentes de
+uso indevido da senha, ainda que por terceiros não autorizados.
+
+        2.2.  Não poderão participar desta dispensa os fornecedores:
+
+        2.2.1. Que não atendam às condições deste Aviso de Contratação Direta e seu(s) anexo(s);
+
+        2.2.2. Estrangeiros que não tenham representação legal no Brasil com poderes expressos
+para receber citação e responder administrativa ou judicialmente;
+
+        2.2.3. Que se enquadrem nas seguintes vedações:
+
+        a) Autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa física ou
+jurídica, quando a contratação versar sobre obra, serviços ou fornecimento de bens a ele
+relacionados;
+
+       b) empresa, isoladamente ou em consórcio, responsável pela elaboração do projeto básico
+ou do projeto executivo, ou empresa da qual o autor do projeto seja dirigente, gerente,
+controlador, acionista ou detentor de mais de 5% (cinco por cento) do capital com direito a voto,
+responsável técnico ou subcontratado, quando a contratação versar sobre obra, serviços ou
+fornecimento de bens a ela necessários;
+
+        c) Pessoa física ou jurídica que se encontre, ao tempo da contratação, impossibilitada de
+contratar em decorrência de sanção que lhe foi imposta;
+
+       d) Aquele que mantenha vínculo de natureza técnica, comercial, econômica, financeira,
+trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente público que
+desempenhe função na licitação ou atue na fiscalização ou na gestão do contrato, ou que deles
+seja cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro
+grau;
+
+        e) Empresas controladoras, controladas ou coligadas, nos termos da Lei nº 6.404, de 15 de
+dezembro de 1976, concorrendo entre si;
+
+          f) pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do aviso, tenha
+sido condenada judicialmente, com trânsito em julgado, por exploração de trabalho infantil, por
+submissão de  trabalhadores a condições análogas  às de escravo ou por  contratação de
+adolescentes nos casos vedados pela legislação trabalhista.
+
+        2.2.3.1.      Equiparam-se aos autores do projeto as empresas integrantes do mesmo
+grupo econômico;
+
+        2.2.3.2.       aplica-se o disposto na alínea “c” também ao fornecedor que atue em
+substituição a outra pessoa, física ou jurídica, com o intuito de burlar a efetividade da sanção a ela
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos – CNMLC/CGU/AGU
+Aviso de Dispensa Eletrônica – Lei nº 14.133/21 e IN SEGES/ME nº 67/2021
+Versão: Agosto/2021
+
+aplicada,  inclusive  a  sua  controladora,  controlada ou  coligada,  desde que  devidamente
+comprovado o ilícito ou a utilização fraudulenta da personalidade jurídica do fornecedor;
+
+ 2.2.4.  organizações da Sociedade Civil de Interesse Público - OSCIP, atuando nessa condição
+ (Acórdão nº 746/2014-TCU-Plenário);
+
+        3.    INGRESSO NA DISPENSA ELETRÔNICA E CADASTRAMENTO DA PROPOSTA INICIAL
+
+        3.1.  O ingresso do fornecedor na disputa da dispensa eletrônica se dará com o
+cadastramento de sua proposta inicial, na forma deste item.
+
+        3.2.  O fornecedor interessado, após a divulgação do aviso de contratação  direta,
+encaminhará, exclusivamente por meio do Sistema de Dispensa Eletrônica, a proposta com a
+descrição do objeto ofertado, a marca do produto, quando for o caso, e o preço, até a data e o
+horário estabelecidos para abertura do procedimento.
+
+        3.2.1. A proposta também deverá conter declaração de que compreende a integralidade
+dos custos para atendimento dos direitos trabalhistas assegurados na Constituição Federal, nas leis
+trabalhistas, nas normas infralegais, nas convenções coletivas de trabalho e nos termos de
+ajustamento de condutas vigentes na data de entrega das propostas.
+
+        3.3.   Todas as especificações do objeto contidas na proposta, em especial o preço,
+vinculam a Contratada.
+
+        3.4.   Nos valores propostos estarão inclusos todos os custos operacionais, encargos
+previdenciários, trabalhistas, tributários, comerciais e quaisquer outros que incidam direta ou
+indiretamente na prestação dos serviços;
+
+        3.4.1. Os preços ofertados, tanto na proposta inicial, quanto na etapa de lances, serão de
+exclusiva responsabilidade do fornecedor, não lhe assistindo o direito de pleitear qualquer
+alteração, sob alegação de erro, omissão ou qualquer outro pretexto.
+
+        3.5.   Se o regime  tributário da empresa  implicar o recolhimento de  tributos em
+percentuais  variáveis, a cotação adequada será a que corresponde à média dos  efetivos
+recolhimentos da empresa nos últimos doze meses.
+
+        3.6.   Independentemente do percentual de tributo inserido na planilha, no pagamento
+serão retidos na fonte os percentuais estabelecidos na legislação vigente.
+
+        3.7.  A apresentação das  propostas  implica  obrigatoriedade do cumprimento das
+disposições nelas  contidas, em conformidade com o que dispõe este  aviso, assumindo o
+proponente o compromisso de executar os serviços nos seus termos, bem como de fornecer os
+materiais, equipamentos, ferramentas e utensílios necessários, em quantidades e qualidades
+adequadas à perfeita execução contratual, promovendo, quando requerido, sua substituição.
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos – CNMLC/CGU/AGU
+Aviso de Dispensa Eletrônica – Lei nº 14.133/21 e IN SEGES/ME nº 67/2021
+Versão: Agosto/2021
+
+        3.8.  Uma vez enviada a proposta no sistema, os fornecedores NÃO poderão retirá-la,
+substituí-la ou modificá-la;
+
+        3.9.  No cadastramento da proposta inicial, o fornecedor deverá, também, assinalar “sim”
+ou “não” em campo próprio do sistema eletrônico, às seguintes declarações:
+
+        3.9.1. Que inexistem  fatos impeditivos para sua  habilitação no certame, ciente da
+obrigatoriedade de declarar ocorrências posteriores;
+
+        3.9.2. Que cumpre os requisitos estabelecidos no artigo 3° da Lei Complementar nº 123,
+de 2006, estando apto a usufruir do tratamento favorecido estabelecido em seus arts. 42 a 49.
+
+        3.9.3. Que está ciente e concorda com as condições contidas no Aviso de Contratação
+Direta e seus anexos;
+
+        3.9.4. Que assume a responsabilidade pelas transações que forem efetuadas no sistema,
+assumindo como firmes e verdadeiras;
+
+        3.9.5. Que cumpre as exigências de reserva de cargos para pessoa com deficiência e para
+reabilitado da Previdência Social, de que trata o art. 93 da Lei nº 8.213/91.
+
+        3.9.6. Que não emprega menor de 18 anos em trabalho noturno, perigoso ou insalubre e
+não emprega menor de 16 anos, salvo menor, a partir de 14 anos, na condição de aprendiz, nos
+termos do artigo 7°, XXXIII, da Constituição;
+
+        4.    FASE DE LANCES
+
+        4.1.  A partir da data e horário estabelecidos neste Aviso de Contratação Direta, a sessão
+pública será automaticamente aberta pelo sistema para o envio de lances públicos e sucessivos,
+exclusivamente por meio do sistema eletrônico, sendo encerrado no horário de finalização de
+lances também já previsto neste aviso.
+        4.2.   Iniciada  a  etapa  competitiva,  os  fornecedores  deverão  encaminhar  lances
+exclusivamente por meio de sistema  eletrônico, sendo imediatamente informados do  seu
+recebimento e do valor consignado no registro.
+        4.2.1. O lance deverá ser ofertado pelo valor unitário do item.
+        4.3.  O fornecedor somente poderá oferecer valor inferior ou maior percentual de
+desconto em relação ao último lance por ele ofertado e registrado pelo sistema.
+        4.3.1. O fornecedor poderá oferecer lances sucessivos iguais ou superiores ao lance que
+esteja vencendo o certame, desde que inferiores ao menor por ele ofertado e registrado pelo
+sistema, sendo tais lances definidos como “lances intermediários” para os fins deste Aviso de
+Contratação Direta.
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos – CNMLC/CGU/AGU
+Aviso de Dispensa Eletrônica – Lei nº 14.133/21 e IN SEGES/ME nº 67/2021
+Versão: Agosto/2021
+
+        4.3.2. O intervalo mínimo de diferença de valores ou percentuais entre os lances, que
+incidirá tanto em relação aos lances intermediários quanto em relação ao que cobrir a melhor
+oferta é de R$ 100,00 (cem reais).
+        4.4.   Havendo lances iguais ao menor já ofertado, prevalecerá aquele que for recebido e
+registrado primeiro no sistema.
+        4.5.   Caso o fornecedor não apresente lances, concorrerá com o valor de sua proposta.
+        4.6.   Durante o procedimento, os fornecedores serão informados, em tempo real, do
+valor do menor lance registrado, vedada a identificação do fornecedor.
+        4.7.   Imediatamente após o término do prazo estabelecido para a fase de lances, haverá
+o seu encerramento, com o ordenamento e divulgação dos lances, pelo sistema, em ordem
+crescente de classificação.
+        4.7.1. O encerramento da fase de lances ocorrerá de forma automática pontualmente no
+horário indicado, sem qualquer possibilidade de prorrogação e não havendo tempo aleatório ou
+mecanismo similar.
+
+        5.    JULGAMENTO DAS PROPOSTAS DE PREÇO
+
+        5.1.   Encerrada a fase de lances, será verificada a conformidade da proposta classificada
+em primeiro lugar quanto à adequação do objeto e à compatibilidade do preço em relação ao
+estipulado para a contratação.
+        5.2.  No  caso do  preço da  proposta  vencedora  estar  acima do  estimado  pela
+Administração, poderá haver a negociação de condições mais vantajosas.
+        5.2.1. Neste  caso,  será  encaminhada  contraproposta  ao  fornecedor  que  tenha
+apresentado o melhor preço, para que seja obtida melhor proposta com preço compatível ao
+estimado pela Administração.
+        5.2.2. A negociação poderá ser feita com os demais fornecedores classificados, respeitada
+a ordem de  classificação, quando o  primeiro  colocado, mesmo após a  negociação,  for
+desclassificado em razão de sua proposta permanecer acima do preço máximo definido para a
+contratação.
+        5.2.3. Em qualquer caso, concluída a negociação, o resultado será registrado na ata do
+procedimento da dispensa eletrônica, devendo esta ser anexada aos autos do processo de
+contratação.
+        5.3.   Constatada a compatibilidade, será solicitado o envio da proposta e, se necessário,
+de documentos complementares, adequada ao último lance.
+        5.4.  O agente da contratação solicitará ao licitante melhor classificado que, no prazo de
+1 (uma) hora, envie a proposta adequada ao último lance ofertado após a negociação realizada,
+acompanhada, se for o caso, dos documentos complementares, quando necessários à confirmação
+daqueles exigidos neste aviso e já apresentados.
+
+        5.5.  O agente da contratação poderá convocar o licitante para enviar documento
+digital complementar, por meio de funcionalidade disponível no sistema, no prazo de 1 (uma)
+hora, sob pena de não aceitação da proposta.
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos – CNMLC/CGU/AGU
+Aviso de Dispensa Eletrônica – Lei nº 14.133/21 e IN SEGES/ME nº 67/2021
+Versão: Agosto/2021
+
+        5.6.  O prazo de validade da proposta não será inferior a 60 (sessenta) dias, a contar da
+data de sua apresentação.
+
+        5.7.   Será desclassificada a proposta vencedora que:
+
+
+        5.7.1. Contiver vícios insanáveis;
+        5.7.2. Não obedecer às especificações técnicas pormenorizadas neste aviso ou em seus
+anexos;
+        5.7.3. Apresentar preços inexequíveis ou permanecerem acima do preço máximo definido
+para a contratação;
+        5.7.4. Não tiverem sua exequibilidade demonstrada, quando exigido pela Administração;
+        5.7.5. Apresentar desconformidade com quaisquer outras exigências deste aviso ou seus
+anexos, desde que insanável.
+        5.7.6. Quando o fornecedor não conseguir comprovar que possui ou possuirá recursos
+suficientes para executar a contento o objeto, será considerada inexequível a proposta de preços
+ou menor lance que:
+        5.7.6.1 For insuficiente para a cobertura dos custos da contratação, apresente preços global
+ou unitários simbólicos, irrisórios ou de valor zero, incompatíveis com os preços dos insumos e
+salários de mercado, acrescidos dos respectivos encargos, ainda que o ato convocatório da
+dispensa não tenha estabelecido limites mínimos, exceto quando se referirem a materiais e
+instalações de propriedade do próprio fornecedor, para os quais ele renuncie a parcela ou à
+totalidade da remuneração.
+        5.7.6.2. Apresentar um ou mais valores da planilha de custo que sejam inferiores àqueles
+fixados em instrumentos de caráter normativo obrigatório, tais como leis, medidas provisórias e
+convenções coletivas de trabalho vigentes.
+        5.8.   Se houver indícios de inexequibilidade da proposta de preço, ou em caso da
+necessidade de esclarecimentos complementares, poderão ser efetuadas diligências, para que a
+empresa comprove a exequibilidade da proposta.
+        5.8.1. Erros no preenchimento da planilha não constituem motivo para a desclassificação
+da proposta. A planilha poderá ser ajustada pelo fornecedor, no prazo indicado pelo sistema, desde
+que não haja majoração do preço.
+        5.8.2. O ajuste de que trata este dispositivo se limita a sanar erros ou falhas que não
+alterem a substância das propostas;
+        5.8.3. Considera-se erro no preenchimento da planilha passível de correção a indicação de
+recolhimento de impostos e contribuições na forma do Simples Nacional, quando não cabível esse
+regime.
+        5.8.4. Para fins de análise da proposta quanto ao cumprimento das especificações do
+objeto, poderá ser colhida a manifestação escrita do setor requisitante do serviço ou da área
+especializada no objeto.
+        5.8.5. Se a proposta ou lance vencedor for desclassificado, será examinada a proposta ou
+lance subsequente, e, assim sucessivamente, na ordem de classificação.
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos – CNMLC/CGU/AGU
+Aviso de Dispensa Eletrônica – Lei nº 14.133/21 e IN SEGES/ME nº 67/2021
+Versão: Agosto/2021
+
+        5.8.6. Havendo necessidade, a sessão será suspensa, informando-se no “chat” a nova data
+e horário para a sua continuidade.
+        5.8.7. Encerrada a análise quanto à aceitação da proposta, se iniciará a fase de habilitação,
+observado o disposto neste Aviso de Contratação Direta.
+
+        6.    HABILITAÇÃO
+
+        6.1.   Os documentos a serem exigidos para fins de habilitação, nos termos dos arts. 62 a
+70 da Lei nº 14.133, de 2021, constam do Termo de Referência e serão solicitados do fornecedor
+mais bem classificado na fase de lances.
+        6.2.  Como condição prévia ao exame da documentação de habilitação do fornecedor
+detentor da proposta classificada em primeiro lugar, será verificado o eventual descumprimento
+das condições de participação, especialmente quanto à existência de sanção que impeça a
+participação no certame ou a futura contratação, mediante a consulta aos seguintes cadastros:
+        a) SICAF;
+       b)  Cadastro  Nacional de Empresas  Inidôneas e  Suspensas –  CEIS, mantido  pela
+Controladoria-Geral da União;
+        c) Cadastro Nacional de Condenações Cíveis por Atos de Improbidade Administrativa,
+mantido           pelo          Conselho           Nacional         de             Justiça
+(www.cnj.jus.br/improbidade_adm/consultar_requerido.php).
+       d) Lista de Inidôneos mantida pelo Tribunal de Contas da União - TCU;
+        6.2.1. Para a consulta de fornecedores pessoa jurídica poderá haver a substituição das
+consultas das alíneas “b”, “c” e “d” acima pela Consulta Consolidada de Pessoa Jurídica do TCU
+(https://certidoesapf.apps.tcu.gov.br/).
+        6.2.2. A consulta aos cadastros será realizada em nome da empresa fornecedora e
+também de seu sócio majoritário, por força do artigo 12 da Lei n° 8.429, de 1992, que prevê,
+dentre as sanções impostas ao responsável pela prática de ato de improbidade administrativa, a
+proibição de contratar com o Poder Público, inclusive por intermédio de pessoa jurídica da qual
+seja sócio majoritário.
+        6.2.2.1.      Caso conste na Consulta de Situação do Fornecedor a  existência de
+Ocorrências Impeditivas Indiretas, o gestor diligenciará para verificar se houve fraude por parte das
+empresas apontadas no Relatório de Ocorrências Impeditivas Indiretas.
+        6.2.3. A tentativa de burla será verificada por meio dos vínculos societários, linhas de
+fornecimento similares, dentre outros.
+        6.2.4. O fornecedor será convocado para manifestação previamente à sua desclassificação.
+        6.2.5. Constatada a existência de sanção, o fornecedor será reputado inabilitado, por falta
+de condição de participação.
+        6.3.   Caso atendidas as condições de participação, a habilitação dos fornecedores será
+verificada por meio do SICAF, nos documentos por ele abrangidos.
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos – CNMLC/CGU/AGU
+Aviso de Dispensa Eletrônica – Lei nº 14.133/21 e IN SEGES/ME nº 67/2021
+Versão: Agosto/2021
+
+        6.3.1. É dever do fornecedor atualizar previamente as comprovações constantes do SICAF
+para que estejam vigentes na data da abertura da sessão pública, ou encaminhar, quando
+solicitado, a respectiva documentação atualizada.
+        6.3.2. O descumprimento do subitem acima implicará a inabilitação do fornecedor, exceto
+se a consulta aos sítios eletrônicos oficiais emissores de certidões lograr êxito em encontrar a(s)
+certidão(ões) válida(s).
+        6.4.   Havendo a necessidade de envio de documentos de habilitação complementares,
+necessários à confirmação daqueles exigidos neste Aviso de Contratação Direta e já apresentados,
+o  fornecedor  será convocado  a  encaminhá-los, em  formato  digital, após  solicitação da
+Administração, sob pena de inabilitação.
+        6.5.   Somente haverá a necessidade de comprovação do preenchimento de requisitos
+mediante apresentação dos documentos originais não-digitais quando houver dúvida em relação à
+integridade do documento digital.
+        6.6.  O fornecedor enquadrado como microempreendedor  individual que pretenda
+auferir os benefícios do tratamento diferenciado previstos na Lei Complementar n. 123, de 2006,
+estará dispensado (a) da prova de inscrição nos cadastros de contribuintes estadual e municipal e
+(b) da apresentação do balanço patrimonial e das demonstrações contábeis do último exercício.
+        6.7.  O fornecedor provisoriamente vencedor em um item, que estiver concorrendo em
+outro item, ficará obrigado a comprovar os requisitos de habilitação cumulativamente, isto  é,
+somando as exigências do item em que venceu às do item em que estiver concorrendo, e
+assim sucessivamente, sob pena de inabilitação, além da aplicação das sanções cabíveis.
+        6.7.1. Não  havendo a  comprovação  cumulativa  dos  requisitos  de  habilitação, a
+inabilitação recairá sobre o(s) lote(s) de menor(es) valor(es) cuja retirada(s) seja(m) suficiente(s)
+para a habilitação do fornecedor nos remanescentes.
+        6.8.   Havendo necessidade de analisar minuciosamente os documentos exigidos, a sessão
+será suspensa, sendo informada a nova data e horário para a sua continuidade.
+        6.9.   Será inabilitado o fornecedor que não comprovar sua habilitação, seja por não
+apresentar  quaisquer  dos documentos  exigidos, ou  apresentá-los em  desacordo com o
+estabelecido neste Aviso de Contratação Direta.
+        6.9.1. Na hipótese de o fornecedor não atender às exigências para a habilitação, o órgão
+ou  entidade  examinará a  proposta  subsequente e  assim  sucessivamente, na ordem de
+classificação, até a apuração de uma proposta que atenda às especificações do objeto e as
+condições de habilitação.
+        6.10.   Constatado o atendimento às  exigências de  habilitação, o fornecedor  será
+habilitado.
+
+        7.    CONTRATAÇÃO
+
+        7.1.   Após a homologação e adjudicação, caso se conclua pela contratação, será firmado
+Termo de Contrato ou emitido instrumento equivalente.
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos – CNMLC/CGU/AGU
+Aviso de Dispensa Eletrônica – Lei nº 14.133/21 e IN SEGES/ME nº 67/2021
+Versão: Agosto/2021
+
+        7.2.  O adjudicatário terá o prazo de 05 (cinco) dias úteis, contados a partir da data de
+sua convocação, para assinar o Termo de Contrato ou aceitar instrumento equivalente, conforme o
+caso (Nota de Empenho/Carta Contrato/Autorização), sob pena de decair do direito à contratação,
+sem prejuízo das sanções previstas neste Aviso de Contratação Direta.
+
+        7.2.1. Alternativamente à convocação para comparecer perante o órgão ou entidade para
+a assinatura do Termo de Contrato, a Administração poderá encaminhá-lo para assinatura,
+mediante correspondência postal com aviso de recebimento (AR) ou meio eletrônico, para que seja
+assinado e devolvido no prazo de 05 (cinco) dias, a contar da data de seu recebimento ou da
+disponibilização do acesso ao sistema de processo eletrônico.
+
+        7.2.2. O prazo previsto no subitem anterior poderá ser prorrogado, por igual período, por
+solicitação justificada do adjudicatário e aceita pela Administração.
+
+        7.3.  O Aceite da Nota de Empenho ou do instrumento equivalente, emitida ao fornecedor
+adjudicada, implica no reconhecimento de que:
+
+        7.3.1. Referida Nota está substituindo o contrato, aplicando-se à relação de negócios ali
+estabelecida as disposições da Lei nº 14.133, de 2021;
+
+        7.3.2. A contratada se vincula à sua proposta e às previsões contidas no Aviso de
+Contratação Direta e seu(s) anexo(s);
+
+        7.3.3. A contratada reconhece que as hipóteses de rescisão são aquelas previstas nos
+artigos 137 e 138 da Lei nº 14.133/21 e reconhece os direitos da Administração previstos nos
+artigos 137 a 139 da mesma Lei.
+
+        7.4.  O prazo de vigência da contratação é de 30 (trinta) dias, prorrogável conforme
+previsão no(s) anexo(s) a este Aviso de Contratação Direta.
+
+        7.5.  Na  assinatura do  contrato ou do  instrumento  equivalente  será  exigida  a
+comprovação das condições de habilitação e contratação consignadas neste aviso, que deverão ser
+mantidas pelo fornecedor durante a vigência do contrato.
+
+        8.    SANÇÕES
+
+        8.1.  Comete infração administrativa o fornecedor que cometer quaisquer das infrações
+previstas no art. 155 da Lei nº 14.133, de 2021, quais sejam:
+
+        8.1.1. Dar causa à inexecução parcial do contrato;
+
+        8.1.2. Dar causa à inexecução parcial do contrato que cause grave dano à Administração,
+ao funcionamento dos serviços públicos ou ao interesse coletivo;
+
+        8.1.3. Dar causa à inexecução total do contrato;
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos – CNMLC/CGU/AGU
+Aviso de Dispensa Eletrônica – Lei nº 14.133/21 e IN SEGES/ME nº 67/2021
+Versão: Agosto/2021
+
+        8.1.4. Deixar de entregar a documentação exigida para o certame;
+
+        8.1.5. Não manter a proposta, salvo em decorrência de fato superveniente devidamente
+justificado;
+
+        8.1.6. Não  celebrar o  contrato ou não  entregar a documentação  exigida  para a
+contratação, quando convocado dentro do prazo de validade de sua proposta;
+
+        8.1.7. Ensejar o retardamento da execução ou da entrega do objeto da licitação sem
+motivo justificado;
+
+        8.1.8. Apresentar declaração ou documentação falsa exigida para o certame ou prestar
+declaração falsa durante a dispensa eletrônica ou a execução do contrato;
+
+        8.1.9. Fraudar a dispensa eletrônica ou praticar ato fraudulento na execução do contrato;
+
+       8.1.10.comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+
+        8.1.10.1.     Considera-se comportamento inidôneo, entre outros, a declaração falsa
+quanto às condições de participação, quanto ao enquadramento como ME/EPP ou o conluio entre
+os fornecedores, em qualquer momento da dispensa, mesmo após o encerramento da fase de
+lances.
+
+        8.1.11.Praticar atos ilícitos com vistas a frustrar os objetivos deste certame.
+
+        8.1.12.praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013.
+
+        8.2.  O fornecedor que cometer qualquer das infrações discriminadas nos subitens
+anteriores ficará sujeito, sem prejuízo da responsabilidade civil e criminal, às seguintes sanções:
+
+        a)     Advertência pela falta do subitem 8.1.1 deste Aviso de Contratação Direta, quando
+não se justificar a imposição de penalidade mais grave;
+
+       b)    Multa de 1% (um por cento) sobre o valor estimado do(s) lote(s) prejudicado(s) pela
+conduta do fornecedor, por qualquer das infrações dos subitens 8.1.1 a 8.1.12;
+
+        c)    Impedimento de licitar e contratar no âmbito da Administração Pública direta e
+indireta do ente federativo que tiver aplicado a sanção, pelo prazo máximo de 3 (três) anos, nos
+casos dos subitens 8.1.2 a 8.1.7 deste Aviso de Contratação Direta, quando não se justificar a
+imposição de penalidade mais grave;
+
+       d)    Declaração de inidoneidade para licitar ou contratar, que impedirá o responsável de
+licitar ou contratar no âmbito da Administração Pública direta e indireta de todos os entes
+federativos, pelo prazo mínimo de 3 (três) anos e máximo de 6 (seis) anos, nos casos dos subitens
+8.1.8 a 8.1.12, bem como nos demais casos que justifiquem a imposição da penalidade mais grave.
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos – CNMLC/CGU/AGU
+Aviso de Dispensa Eletrônica – Lei nº 14.133/21 e IN SEGES/ME nº 67/2021
+Versão: Agosto/2021
+
+        8.3.  Na aplicação das sanções serão considerados (art. 156, §1º):
+
+        8.3.1. A natureza e a gravidade da infração cometida;
+
+        8.3.2. As peculiaridades do caso concreto;
+
+        8.3.3. As circunstâncias agravantes ou atenuantes;
+
+        8.3.4. Os danos que dela provierem para a Administração Pública;
+
+        8.3.5. A implantação ou o aperfeiçoamento de programa de integridade, conforme normas
+e orientações dos órgãos de controle.
+
+        8.4.   Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de
+pagamento eventualmente devido pela Administração ao contratado, além da perda desse valor, a
+diferença será descontada da garantia prestada ou será cobrada judicialmente(art. 156, §8º).
+
+        8.5.  A aplicação das sanções previstas neste Aviso de Contratação Direta, em hipótese
+alguma, a obrigação de reparação integral do dano causado à Administração Pública.
+
+        8.6.  A penalidade de multa pode ser aplicada cumulativamente com as demais sanções.
+
+        8.7.   Se, durante o processo de aplicação de penalidade, houver indícios de prática de
+infração administrativa tipificada pela Lei nº 12.846, de 1º de agosto de 2013, como ato lesivo à
+administração pública nacional ou estrangeira, cópias do processo administrativo, necessárias à
+apuração da responsabilidade da empresa deverão ser remetidas à autoridade competente, com
+despacho fundamentado, para ciência e decisão sobre a eventual instauração de investigação
+preliminar ou Processo Administrativo de Responsabilização – PAR.
+
+        8.8.  A apuração e o julgamento das demais infrações administrativas não consideradas
+como ato lesivo à Administração Pública nacional ou estrangeira nos termos da Lei nº 12.846, de
+1º de agosto de 2013, seguirão seu rito normal na unidade administrativa.
+
+        8.9.  O processamento do PAR não interfere no seguimento regular dos processos
+administrativos específicos para apuração da ocorrência de danos e prejuízos à Administração
+Pública Federal resultantes de ato lesivo cometido por pessoa jurídica, com ou sem a participação
+de agente público.
+
+        8.9.1. A aplicação de qualquer das penalidades  previstas  realizar-se-á em processo
+administrativo que assegurará o contraditório e a ampla defesa ao fornecedor/adjudicatário,
+observando-se o procedimento previsto na Lei nº 14.133, de 2021, e subsidiariamente na Lei nº
+9.784, de 1999.
+
+        8.9.2. As sanções por atos praticados no decorrer da contratação estão previstas nos
+anexos a este Aviso.
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos – CNMLC/CGU/AGU
+Aviso de Dispensa Eletrônica – Lei nº 14.133/21 e IN SEGES/ME nº 67/2021
+Versão: Agosto/2021
+
+        9.    DAS DISPOSIÇÕES GERAIS
+
+        9.1.  O procedimento será divulgado no Comprasnet 4.0 e no Portal Nacional de
+Contratações Públicas – PNCP, e encaminhado automaticamente aos fornecedores registrados no
+Sistema de Registro Cadastral Unificado – Sicaf, por mensagem eletrônica, na correspondente linha
+de fornecimento que pretende atender.
+
+        9.2.  No caso de todos os fornecedores restarem  desclassificados ou  inabilitados
+(procedimento fracassado), a Administração poderá:
+
+        9.2.1. Republicar o presente aviso com uma nova data;
+
+        9.2.2. Valer-se, para a contratação, de proposta obtida na pesquisa de preços que serviu
+de base ao procedimento, se houver, privilegiando-se os menores preços, sempre que possível, e
+desde que atendidas às condições de habilitação exigidas.
+
+        9.2.2.1.     No caso do subitem anterior, a contratação será operacionalizada fora deste
+procedimento.
+
+        9.2.3. Fixar prazo para que possa haver adequação das propostas ou da documentação de
+habilitação, conforme o caso.
+
+        9.3.   As providências dos subitens 9.2.1 e 9.2.2 acima poderão ser utilizadas se não
+houver o comparecimento de quaisquer fornecedores interessados (procedimento deserto).
+
+        9.4.   Havendo  a  necessidade de  realização de  ato de  qualquer  natureza  pelos
+fornecedores, cujo prazo não conste deste Aviso de Contratação Direta, deverá ser atendido o
+prazo indicado pelo agente competente da Administração na respectiva notificação.
+
+        9.5.   Caberá ao fornecedor acompanhar as operações, ficando responsável pelo ônus
+decorrente da perda do negócio diante da inobservância de quaisquer mensagens emitidas pela
+Administração ou de sua desconexão.
+
+        9.6.  Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a
+realização do certame na data marcada, a sessão será automaticamente transferida para o
+primeiro dia útil subsequente, no mesmo horário anteriormente estabelecido, desde que não haja
+comunicação em contrário.
+
+        9.7.   Os horários estabelecidos na divulgação deste procedimento e durante o envio de
+lances observarão o horário de Brasília-DF, inclusive para contagem de tempo e registro no Sistema
+e na documentação relativa ao procedimento.
+
+        9.8.  No julgamento das propostas e da habilitação, a Administração poderá sanar erros
+ou falhas que não alterem a substância das propostas, dos documentos e sua validade jurídica,
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos – CNMLC/CGU/AGU
+Aviso de Dispensa Eletrônica – Lei nº 14.133/21 e IN SEGES/ME nº 67/2021
+Versão: Agosto/2021
+
+mediante despacho fundamentado, registrado em ata e acessível a todos, atribuindo-lhes validade
+e eficácia para fins de habilitação e classificação.
+
+        9.9.   As normas  disciplinadoras  deste  Aviso de  Contratação  Direta  serão sempre
+interpretadas em  favor da ampliação da  disputa  entre os  interessados, desde que não
+comprometam o interesse da Administração, o princípio da isonomia, a finalidade e a segurança da
+contratação. Os fornecedores assumem todos os custos de preparação e apresentação de suas
+propostas e a Administração não  será, em nenhum  caso,  responsável por  esses  custos,
+independentemente da condução ou do resultado do processo de contratação.
+
+        9.10.  Em caso de divergência entre disposições deste Aviso de Contratação Direta e de
+seus anexos ou demais peças que compõem o processo, prevalecerá as deste Aviso.
+
+        9.11.  Da sessão pública será divulgada Ata no sistema eletrônico.
+
+
+
+                                                                      Niterói, RJ, na data da assinatura.
+
+
+
+
+
+                         ALBINO MANOEL BORGES SANTOS
+                                  Capitão de Mar e Guerra
+                                  Comandante
+                               Ordenador de Despesas
+                           ASSINADO DIGITALMENTE
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos – CNMLC/CGU/AGU
+Aviso de Dispensa Eletrônica – Lei nº 14.133/21 e IN SEGES/ME nº 67/2021
+Versão: Agosto/2021
+
+                 ANEXO I – DOCUMENTAÇÃO EXIGIDA PARA HABILITAÇÃO
+
+
+
+      1      Regularidade fiscal, social e trabalhista:
+
+       1.1    Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas ou no Cadastro de
+Pessoas Físicas, conforme o caso:
+
+        1.1.1  Caso seja constatado que a classificação Nacional de atividades Econômicas – CNAE
+não esteja relacionada ao objeto da contratação, nos termos do Acórdão n.º 1203/2011, será
+exigido o contrato social da empresa, para que sejam verificadas as atividades que a empresa
+desenvolve;
+
+        1.1.2  A prazo para envio do contrato social será de 1 (uma) hora, prorrogável por igual
+período a pedido do fornecedor;
+
+        1.1.3  Caso constatado no contrato social que a empresa não tem ramo de atividade
+compatível com o objeto, a empresa será inabilitada.
+
+       1.2    Prova de regularidade fiscal perante a Fazenda Nacional, mediante apresentação de
+certidão expedida conjuntamente pela Secretaria da Receita Federal do Brasil (RFB) e pela
+Procuradoria-Geral da Fazenda Nacional (PGFN), referente a todos os créditos tributários federais e
+à Dívida Ativa da União (DAU) por elas administrados, inclusive aqueles relativos à Seguridade
+Social, nos termos da Portaria Conjunta nº 1.751, de 02/10/2014, do Secretário da Receita Federal
+do Brasil e da Procuradora-Geral da Fazenda Nacional.
+
+       1.3    Prova de regularidade com o Fundo de Garantia do Tempo de Serviço (FGTS).
+
+       1.4    Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho,
+mediante a apresentação de certidão negativa ou positiva com efeito de negativa, nos termos do
+Título VII-A da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de
+maio de 1943.
+
+       1.5    Prova de inscrição no cadastro de contribuintes estadual, relativo ao domicílio ou
+sede do fornecedor, pertinente ao seu ramo de atividade e compatível com o objeto contratual.
+
+       1.6    Prova de regularidade com a Fazenda Estadual do domicílio ou sede do fornecedor,
+relativa à atividade em cujo exercício contrata ou concorre.
+
+       1.7   Caso o fornecedor seja considerado isento dos tributos estaduais relacionados ao
+objeto contratual, deverá comprovar tal condição mediante a apresentação de declaração da
+Fazenda respectiva do seu domicílio ou sede, ou outra equivalente, na forma da lei.
+
+
+
+
+
+Câmara Nacional de Modelos de Licitações e Contratos – CNMLC/CGU/AGU
+Aviso de Dispensa Eletrônica – Lei nº 14.133/21 e IN SEGES/ME nº 67/2021
+Versão: Agosto/2021
+
